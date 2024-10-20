@@ -14,8 +14,8 @@ body {
 }
 
 header {
-    background-color: #2E4032;
-    color: #fff;
+    background-color: #E1D5B8; /* Lighter background color */
+    color: #2E4032; /* Darker text color */
     text-align: center;
     padding: 1rem 0;
 }
@@ -77,8 +77,8 @@ img {
 }
 
 footer {
-    background-color: #2E4032;
-    color: #fff;
+    background-color: #E1D5B8; /* Lighter background color */
+    color: #2E4032; /* Darker text color */
     text-align: center;
     padding: 1rem 0;
     margin-top: 2rem;
