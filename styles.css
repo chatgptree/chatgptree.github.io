@@ -14,10 +14,13 @@ body {
 }
 
 header {
-    background-color: #E1D5B8; /* Lighter background color */
-    color: #2E4032; /* Darker text color */
+    background-color: #2E4032;
+    background-image: url('images/header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
     text-align: center;
-    padding: 1rem 0;
+    padding: 2rem 0;
 }
 
 h1 {
@@ -26,6 +29,7 @@ h1 {
     font-weight: 900;
     font-style: italic;
     margin: 0;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 h2 {
@@ -77,10 +81,13 @@ img {
 }
 
 footer {
-    background-color: #E1D5B8; /* Lighter background color */
-    color: #2E4032; /* Darker text color */
+    background-color: #2E4032;
+    background-image: url('images/footer-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
     text-align: center;
-    padding: 1rem 0;
+    padding: 2rem 0;
     margin-top: 2rem;
 }
 
