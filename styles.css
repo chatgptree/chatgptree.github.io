@@ -74,14 +74,11 @@ main {
     flex: 1;
     min-width: 300px;
     padding-right: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    text-align: center;  /* Center the content of app-info */
 }
 
 .app-info p, .app-info ul {
-    align-self: flex-start;
-    width: 100%;
+    text-align: left;  /* Keep paragraphs and lists left-aligned */
 }
 
 .app-image {
@@ -111,7 +108,6 @@ img {
     font-weight: bold;
     transition: background-color 0.3s ease;
     margin-top: 1em;
-    text-align: center;
 }
 
 .cta-button:hover {
@@ -119,7 +115,7 @@ img {
 }
 
 .cta-button i {
-    margin: 0 5px;
+    margin: 0 5px;  /* Add some space around the icons */
 }
 
 footer {
