@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Disallow crawling of potential admin or private areas (if they exist in the future)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+
+# Allow crawling of all image files
+Allow: /images/
+
+# Prevent crawling of potential search result pages (if implemented in the future)
+Disallow: /search
+
+# Prevent crawling of any potential user-specific pages (if implemented in the future)
+Disallow: /user/
+
+# Crawl-delay directive (uncomment if you want to slow down crawlers)
+# Crawl-delay: 10
+
+# Sitemap location
+Sitemap: https://www.chatgptree.com.au/sitemap.xml
