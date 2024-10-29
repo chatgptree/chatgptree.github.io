@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.chatgptree.com.au/</loc>
-    <lastmod>2024-10-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.chatgptree.com.au/images/bazzaweb2.jpg</image:loc>
+      <image:title>ChatGPTree App Screenshot</image:title>
+      <image:caption>ChatGPTree App Screenshot showing an interactive conversation with a tree</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.chatgptree.com.au/images/og-image.png</image:loc>
+      <image:title>ChatGPTree Social Share Image</image:title>
+      <image:caption>ChatGPTree - Engage in fascinating conversations with AI-powered trees</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.chatgptree.com.au/images/bazzaweb3.jpg</image:loc>
+      <image:title>ChatGPTree Conversation Interface</image:title>
+      <image:caption>Interactive chat interface showing a conversation with Bazza the tree</image:caption>
+    </image:image>
   </url>
 </urlset>
