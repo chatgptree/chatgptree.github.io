@@ -130,17 +130,17 @@ img {
     margin: 0 auto;
 }
 
+.infographic-wrapper a {
+    display: block;
+    cursor: zoom-in;
+}
+
 .infographic-wrapper img {
     width: 100%;
     height: auto;
     display: block;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.image-link {
-    display: block;
-    cursor: zoom-in;
 }
 
 .zoom-hint {
@@ -184,6 +184,7 @@ img {
     max-height: 90vh;
     max-width: 90vw;
     object-fit: contain;
+    border-radius: 10px;
 }
 
 .lightbox .close {
