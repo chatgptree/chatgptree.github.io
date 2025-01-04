@@ -119,10 +119,23 @@ img {
     margin: 0 5px;  /* Add some space around the icons */
 }
 
+.infographic-section {
+    background-color: #F1EFE6;
+    padding: 2rem 0;
+}
+
 .infographic-wrapper {
     position: relative;
     max-width: 1000px;
     margin: 0 auto;
+}
+
+.infographic-wrapper img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .image-link {
@@ -194,6 +207,12 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+@media (max-width: 768px) {
+    .lightbox {
+        padding: 1em;
+    }
 }
 
 footer {
