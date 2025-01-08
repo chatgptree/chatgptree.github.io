@@ -32,24 +32,39 @@ async loadMessages() {
         const currentYear = now.getFullYear();
         const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
         
-        const response = await fetch(
-            `https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/${currentYear}/${currentMonth}.json`
-        );
+        const url = `https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/${currentYear}/${currentMonth}.json`;
+        console.log('Attempting to fetch messages from:', url);
+        
+        const response = await fetch(url);
+        console.log('Response status:', response.status);
         
         if (!response.ok) {
+            console.error('Failed to fetch messages. Status:', response.status);
             throw new Error('Failed to fetch messages');
         }
 
         const data = await response.json();
+        console.log('Fetched messages data:', data);
+        console.log('Number of messages received:', data.length);
+
         this.messages = data;
+        console.log('Messages assigned to this.messages:', this.messages);
         
         // Sort messages by date (newest first)
         this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+        console.log('Messages after sorting:', this.messages);
         
         this.isLoading = false;
+        console.log('Calling filterAndRenderMessages...');
         this.filterAndRenderMessages();
+        console.log('Messages should now be displayed on the page');
         
     } catch (error) {
+        console.error('Error in loadMessages:', error);
+        console.error('Full error details:', {
+            message: error.message,
+            stack: error.stack
+        });
         this.isLoading = false;
         throw error;
     }
