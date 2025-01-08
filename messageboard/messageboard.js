@@ -43,7 +43,7 @@ async loadMessages() {
     try {
         // Fetch directly from your GitHub repository
         const response = await fetch(
-            'https://raw.githubusercontent.com/your-github-username/chatgptree-messages/main/messages/2025/january.json'
+            'https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/2025/january.json'
         );
         
         if (!response.ok) {
