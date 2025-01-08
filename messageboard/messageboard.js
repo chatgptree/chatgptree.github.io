@@ -107,16 +107,17 @@ async loadMessages() {
     }
 
 filterAndRenderMessages() {
-    const searchTerm = this.searchInput.value.toLowerCase();
+    const searchTerm = (this.searchInput?.value || '').toLowerCase();
     
     // First apply search filter
     this.filteredMessages = this.messages.filter(message => {
-        // Check each field exists before trying to use toLowerCase
-        const treeNameMatch = message.treeName?.toLowerCase()?.includes(searchTerm) || false;
-        const userNameMatch = message.userName?.toLowerCase()?.includes(searchTerm) || false;
-        const messageMatch = message.message?.toLowerCase()?.includes(searchTerm) || false;
+        // Only search in fields we know exist in the messages
+        const nameMatch = message.name?.toLowerCase().includes(searchTerm) || false;
+        const userNameMatch = message.userName?.toLowerCase().includes(searchTerm) || false;
+        const messageMatch = message.message?.toLowerCase().includes(searchTerm) || false;
+        const locationMatch = message.location?.toLowerCase().includes(searchTerm) || false;
         
-        return treeNameMatch || userNameMatch || messageMatch;
+        return nameMatch || userNameMatch || messageMatch || locationMatch;
     });
 
         // Then apply category filter
