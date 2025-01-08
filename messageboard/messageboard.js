@@ -41,10 +41,10 @@ class TreeMessageBoard {
 async loadMessages() {
     console.log('12. Message board loading messages');
     try {
-        // Use the current host for the fetch
-        const apiUrl = window.location.origin + '/api/messages';
-        console.log('Fetching from:', apiUrl);
-        const response = await fetch(apiUrl);
+        // Fetch directly from your GitHub repository
+        const response = await fetch(
+            'https://raw.githubusercontent.com/your-github-username/chatgptree-messages/main/messages/2025/january.json'
+        );
         
         if (!response.ok) {
             throw new Error('Failed to fetch messages');
