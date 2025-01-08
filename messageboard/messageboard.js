@@ -39,18 +39,16 @@ class TreeMessageBoard {
     }
 
     async loadMessages() {
-        try {
-            // Fetch messages from our GitHub repository
-            const response = await fetch(
-                'https://raw.githubusercontent.com/your-username/chatgptree-messages/main/messages/index.json'
-            );
-            
-            if (!response.ok) {
-                throw new Error('Failed to fetch messages');
-            }
+    try {
+        // Fetch messages from our server endpoint
+        const response = await fetch('/api/messages');
+        
+        if (!response.ok) {
+            throw new Error('Failed to fetch messages');
+        }
 
-            const data = await response.json();
-            this.messages = data.messages;
+        const data = await response.json();
+        this.messages = data || []; // Handle empty response
             
             // Sort messages by date (newest first)
             this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
