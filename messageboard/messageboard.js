@@ -38,29 +38,31 @@ class TreeMessageBoard {
         }
     }
 
-    async loadMessages() {
+async loadMessages() {
+    console.log('12. Message board loading messages');
     try {
-        // Fetch messages from our server endpoint
         const response = await fetch('/api/messages');
+        console.log('13. Response from server:', response.status);
         
         if (!response.ok) {
             throw new Error('Failed to fetch messages');
         }
 
         const data = await response.json();
-        this.messages = data || []; // Handle empty response
-            
-            // Sort messages by date (newest first)
-            this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-            
-            // Apply current filter and render
-            this.filterAndRenderMessages();
-            
-        } catch (error) {
-            console.error('Error loading messages:', error);
-            throw error;
-        }
+        console.log('14. Received messages:', data);
+        this.messages = data || [];
+        
+        // Sort messages by date (newest first)
+        this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+        
+        // Apply current filter and render
+        this.filterAndRenderMessages();
+        
+    } catch (error) {
+        console.error('15. Error loading messages:', error);
+        throw error;
     }
+}
 
     setupEventListeners() {
         // Search functionality with debounce
