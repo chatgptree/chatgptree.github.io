@@ -23,31 +23,37 @@ class TreeMessageBoard {
         }
     }
 
-    async loadMessages() {
-        try {
-            this.showLoadingSpinner();
-            const response = await fetch(
-                'https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/current_month.json'
-            );
-            
-            if (!response.ok) {
-                throw new Error('Failed to fetch messages');
-            }
-
-            const data = await response.json();
-            this.messages = data;
-            
-            // Sort messages by date (newest first)
-            this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-            
-            this.isLoading = false;
-            this.filterAndRenderMessages();
-            
-        } catch (error) {
-            this.isLoading = false;
-            throw error;
+async loadMessages() {
+    try {
+        this.showLoadingSpinner();
+        
+        // Get current date and format year/month
+        const now = new Date();
+        const currentYear = now.getFullYear();
+        const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+        
+        const response = await fetch(
+            `https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/${currentYear}/${currentMonth}.json`
+        );
+        
+        if (!response.ok) {
+            throw new Error('Failed to fetch messages');
         }
+
+        const data = await response.json();
+        this.messages = data;
+        
+        // Sort messages by date (newest first)
+        this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+        
+        this.isLoading = false;
+        this.filterAndRenderMessages();
+        
+    } catch (error) {
+        this.isLoading = false;
+        throw error;
     }
+}
 
     setupEventListeners() {
         this.searchInput.addEventListener('input', debounce(() => {
