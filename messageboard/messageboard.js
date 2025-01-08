@@ -106,15 +106,18 @@ async loadMessages() {
         };
     }
 
-    filterAndRenderMessages() {
-        const searchTerm = this.searchInput.value.toLowerCase();
+filterAndRenderMessages() {
+    const searchTerm = this.searchInput.value.toLowerCase();
+    
+    // First apply search filter
+    this.filteredMessages = this.messages.filter(message => {
+        // Check each field exists before trying to use toLowerCase
+        const treeNameMatch = message.treeName?.toLowerCase()?.includes(searchTerm) || false;
+        const userNameMatch = message.userName?.toLowerCase()?.includes(searchTerm) || false;
+        const messageMatch = message.message?.toLowerCase()?.includes(searchTerm) || false;
         
-        // First apply search filter
-        this.filteredMessages = this.messages.filter(message => 
-            message.treeName.toLowerCase().includes(searchTerm) ||
-            message.userName.toLowerCase().includes(searchTerm) ||
-            message.message.toLowerCase().includes(searchTerm)
-        );
+        return treeNameMatch || userNameMatch || messageMatch;
+    });
 
         // Then apply category filter
         switch (this.currentFilter) {
