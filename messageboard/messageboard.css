@@ -1,4 +1,4 @@
-// messageboard.css
+/* messageboard.css */
 .message-board-container {
     max-width: 800px;
     margin: 0 auto;
@@ -138,7 +138,8 @@
     transform: translateX(-5px);
 }
 
-.new-message-notification {
+/* Notification Styles */
+.notification {
     position: fixed;
     top: 20px;
     right: 20px;
@@ -149,12 +150,52 @@
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     animation: slideIn 0.3s ease-out;
     z-index: 1000;
+    transition: opacity 0.3s ease-out;
 }
 
-.new-message-notification i {
+.notification i {
     margin-right: 8px;
 }
 
+/* Error Message Styles */
+.error-message {
+    text-align: center;
+    padding: 20px;
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.retry-button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #2E4032;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.retry-button:hover {
+    background-color: #1a2820;
+}
+
+/* No Messages State */
+.no-messages {
+    text-align: center;
+    padding: 40px;
+    color: #2E4032;
+}
+
+.no-messages i {
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+/* Animations */
 @keyframes slideIn {
     from {
         transform: translateX(100%);
@@ -166,6 +207,7 @@
     }
 }
 
+/* Responsive Design */
 @media (max-width: 768px) {
     .message-board-container {
         padding: 10px;
@@ -179,5 +221,11 @@
     .filter-btn {
         padding: 6px 12px;
         font-size: 14px;
+    }
+
+    .notification {
+        left: 20px;
+        right: 20px;
+        text-align: center;
     }
 }
