@@ -1,4 +1,3 @@
-// messageboard.js
 class TreeMessageBoard {
     constructor() {
         this.messages = [];
@@ -25,7 +24,6 @@ class TreeMessageBoard {
     }
 
     startPolling() {
-        // Check for new messages every 5 seconds
         setInterval(() => {
             this.checkForNewMessages();
         }, 5000);
@@ -34,23 +32,19 @@ class TreeMessageBoard {
     async checkForNewMessages() {
         try {
             const now = new Date();
-            const currentYear = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
-            const response = await fetch(
-                `https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/${currentYear}/${currentMonth}.json`, {
-                    cache: 'no-store',
-                    headers: {
-                        'Pragma': 'no-cache',
-                        'Cache-Control': 'no-cache'
-                    }
+            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
+            
+            const response = await fetch(url, {
+                headers: {
+                    'Accept': 'application/vnd.github.v3.raw'
                 }
-            );
+            });
 
             if (response.ok) {
                 const data = await response.json();
                 
-                // Check if there are any new messages
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
@@ -75,25 +69,24 @@ class TreeMessageBoard {
             this.showLoadingSpinner();
             
             const now = new Date();
-            const currentYear = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
-            const url = `https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/${currentYear}/${currentMonth}.json`;
-            console.log('Attempting to fetch messages from:', url);
+            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
+            console.log('Fetching from:', url);
             
             const response = await fetch(url, {
-                cache: 'no-store',
                 headers: {
-                    'Pragma': 'no-cache',
-                    'Cache-Control': 'no-cache'
+                    'Accept': 'application/vnd.github.v3.raw'
                 }
             });
             
             if (!response.ok) {
-                throw new Error('Failed to fetch messages');
+                throw new Error(`Failed to fetch messages: ${response.status}`);
             }
 
             const data = await response.json();
+            console.log('Received data:', data);
+            
             this.messages = data;
             this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
             this.lastUpdateTime = Date.now();
@@ -104,14 +97,16 @@ class TreeMessageBoard {
         } catch (error) {
             console.error('Error in loadMessages:', error);
             this.isLoading = false;
-            throw error;
+            this.showError('Unable to load messages. Please try again later.');
         }
     }
 
     setupEventListeners() {
-        this.searchInput.addEventListener('input', debounce(() => {
-            this.filterAndRenderMessages();
-        }, 300));
+        if (this.searchInput) {
+            this.searchInput.addEventListener('input', debounce(() => {
+                this.filterAndRenderMessages();
+            }, 300));
+        }
 
         document.querySelectorAll('.filter-btn').forEach(button => {
             button.addEventListener('click', () => {
@@ -128,10 +123,8 @@ class TreeMessageBoard {
     filterAndRenderMessages() {
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
         
-        // Start with all messages
         this.filteredMessages = [...this.messages];
 
-        // Apply search filter
         if (searchTerm) {
             this.filteredMessages = this.filteredMessages.filter(message => {
                 return (
@@ -142,7 +135,6 @@ class TreeMessageBoard {
             });
         }
 
-        // Apply category filters
         switch (this.currentFilter) {
             case 'recent':
                 const dayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
@@ -248,10 +240,14 @@ class TreeMessageBoard {
     }
 
     showError(message) {
+        this.isLoading = false;
         this.messageContainer.innerHTML = `
             <div class="error-message">
                 <i class="fas fa-exclamation-circle"></i>
                 <p>${message}</p>
+                <button onclick="window.messageBoard.loadMessages()" class="retry-button">
+                    <i class="fas fa-sync"></i> Retry
+                </button>
             </div>
         `;
     }
