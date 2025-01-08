@@ -27,7 +27,7 @@ class TreeMessageBoard {
         try {
             this.showLoadingSpinner();
             const response = await fetch(
-                'https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/2025/january.json'
+                'https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/current_month.json'
             );
             
             if (!response.ok) {
