@@ -1,5 +1,4 @@
 // messageboard.js
-
 class TreeMessageBoard {
     constructor() {
         // Initialize our core properties
@@ -27,9 +26,6 @@ class TreeMessageBoard {
             // Load initial messages
             await this.loadMessages();
             
-            // Hide loading state
-            this.hideLoadingSpinner();
-            
             // Set up real-time updates for new messages
             this.setupRealtimeUpdates();
         } catch (error) {
@@ -38,33 +34,43 @@ class TreeMessageBoard {
         }
     }
 
-async loadMessages() {
-    console.log('12. Message board loading messages');
-    try {
-        // Fetch directly from your GitHub repository
-        const response = await fetch(
-            'https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/2025/january.json'
-        );
-        
-        if (!response.ok) {
-            throw new Error('Failed to fetch messages');
-        }
+    async loadMessages() {
+        console.log('1. Starting to load messages');
+        try {
+            // Fetch directly from your GitHub repository
+            const response = await fetch(
+                'https://raw.githubusercontent.com/chatgptree/chatgptree-messages/main/messages/2025/january.json'
+            );
+            console.log('2. Fetch response status:', response.status);
+            
+            if (!response.ok) {
+                throw new Error('Failed to fetch messages');
+            }
 
-        const data = await response.json();
-        console.log('14. Received messages:', data);
-        this.messages = data || [];
-        
-        // Sort messages by date (newest first)
-        this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-        
-        // Apply current filter and render
-        this.filterAndRenderMessages();
-        
-    } catch (error) {
-        console.error('15. Error loading messages:', error);
-        throw error;
+            const data = await response.json();
+            console.log('3. Received messages:', data);
+            this.messages = data || [];
+            
+            console.log('4. Messages stored:', this.messages.length);
+            
+            // Sort messages by date (newest first)
+            this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+            
+            // Turn off loading state before filtering and rendering
+            this.isLoading = false;
+            
+            // Apply current filter and render
+            console.log('5. About to filter and render');
+            this.filterAndRenderMessages();
+            console.log('6. Filtering and rendering complete');
+            
+        } catch (error) {
+            console.error('Error loading messages:', error);
+            this.isLoading = false;
+            this.showError('Failed to load messages');
+            throw error;
+        }
     }
-}
 
     setupEventListeners() {
         // Search functionality with debounce
@@ -106,19 +112,21 @@ async loadMessages() {
         };
     }
 
-filterAndRenderMessages() {
-    const searchTerm = (this.searchInput?.value || '').toLowerCase();
-    
-    // First apply search filter
-    this.filteredMessages = this.messages.filter(message => {
-        // Only search in fields we know exist in the messages
-        const nameMatch = message.name?.toLowerCase().includes(searchTerm) || false;
-        const userNameMatch = message.userName?.toLowerCase().includes(searchTerm) || false;
-        const messageMatch = message.message?.toLowerCase().includes(searchTerm) || false;
-        const locationMatch = message.location?.toLowerCase().includes(searchTerm) || false;
+    filterAndRenderMessages() {
+        console.log('7. Starting filter');
+        const searchTerm = (this.searchInput?.value || '').toLowerCase();
         
-        return nameMatch || userNameMatch || messageMatch || locationMatch;
-    });
+        // First apply search filter
+        this.filteredMessages = this.messages.filter(message => {
+            // Only search in fields we know exist in the messages
+            const userNameMatch = message.userName?.toLowerCase().includes(searchTerm) || false;
+            const messageMatch = message.message?.toLowerCase().includes(searchTerm) || false;
+            const locationMatch = message.location?.toLowerCase().includes(searchTerm) || false;
+            
+            return userNameMatch || messageMatch || locationMatch;
+        });
+
+        console.log('8. Messages after filter:', this.filteredMessages.length);
 
         // Then apply category filter
         switch (this.currentFilter) {
@@ -130,17 +138,22 @@ filterAndRenderMessages() {
                 );
                 break;
             case 'popular':
-                // Sort by likes/reactions if implemented
-                // For now, just keep normal sorting
+                // Sort by rating
+                this.filteredMessages.sort((a, b) => (b.rating || 0) - (a.rating || 0));
                 break;
             // 'all' requires no additional filtering
         }
 
+        console.log('9. About to render messages');
         this.renderMessages();
     }
 
     renderMessages() {
-        if (this.isLoading) return;
+        console.log('10. Rendering messages, loading state:', this.isLoading);
+        
+        if (this.isLoading) {
+            return; // Don't render while loading
+        }
 
         if (this.filteredMessages.length === 0) {
             this.messageContainer.innerHTML = `
@@ -152,19 +165,21 @@ filterAndRenderMessages() {
             return;
         }
 
+        console.log('11. Rendering messages:', this.filteredMessages.length);
+
         this.messageContainer.innerHTML = this.filteredMessages.map(message => `
             <div class="message-card" data-id="${message.id}">
                 <div class="message-header">
-                    <h3>${this.escapeHtml(message.treeName)}</h3>
+                    <h3>${this.escapeHtml(message.userName)}</h3>
                     <span class="message-date">
                         ${this.formatDate(message.timestamp)}
                     </span>
                 </div>
                 <p class="message-content">${this.escapeHtml(message.message)}</p>
                 <div class="message-footer">
-                    <span class="message-author">
-                        By ${this.escapeHtml(message.userName)}
-                    </span>
+                    <div class="message-rating">
+                        ${'⭐'.repeat(message.rating || 0)}
+                    </div>
                     <span class="message-location">
                         <i class="fas fa-map-marker-alt"></i>
                         ${this.escapeHtml(message.location)}
@@ -172,9 +187,10 @@ filterAndRenderMessages() {
                 </div>
             </div>
         `).join('');
+
+        console.log('12. Render complete');
     }
 
-    // Utility Methods
     formatDate(timestamp) {
         const date = new Date(timestamp);
         const now = new Date();
@@ -199,6 +215,7 @@ filterAndRenderMessages() {
     }
 
     escapeHtml(str) {
+        if (!str) return '';
         const div = document.createElement('div');
         div.textContent = str;
         return div.innerHTML;
@@ -206,6 +223,7 @@ filterAndRenderMessages() {
 
     showLoadingSpinner() {
         this.isLoading = true;
+        console.log('Loading spinner shown');
         this.messageContainer.innerHTML = `
             <div class="loading-spinner">
                 <i class="fas fa-leaf fa-spin"></i>
@@ -216,10 +234,10 @@ filterAndRenderMessages() {
 
     hideLoadingSpinner() {
         this.isLoading = false;
+        console.log('Loading spinner hidden');
     }
 
     showNotification(message) {
-        // Create notification element
         const notification = document.createElement('div');
         notification.className = 'notification';
         notification.innerHTML = `
@@ -227,10 +245,8 @@ filterAndRenderMessages() {
             ${message}
         `;
         
-        // Add to page
         document.body.appendChild(notification);
         
-        // Remove after animation
         setTimeout(() => {
             notification.remove();
         }, 3000);
