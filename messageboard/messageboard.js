@@ -41,8 +41,10 @@ class TreeMessageBoard {
 async loadMessages() {
     console.log('12. Message board loading messages');
     try {
-        const response = await fetch('https://chatbotanica-3dc8f4bffac3.herokuapp.com/api/messages');
-        console.log('13. Response from server:', response.status);
+        // Use the current host for the fetch
+        const apiUrl = window.location.origin + '/api/messages';
+        console.log('Fetching from:', apiUrl);
+        const response = await fetch(apiUrl);
         
         if (!response.ok) {
             throw new Error('Failed to fetch messages');
