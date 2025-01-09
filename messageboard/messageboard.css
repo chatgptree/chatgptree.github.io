@@ -183,6 +183,19 @@
     background-color: #1a2820;
 }
 
+.location-text {
+    font-weight: normal;
+}
+
+.tree-location {
+    margin-top: 4px;
+    color: #666;
+}
+
+.message-footer strong {
+    font-weight: 700;
+}
+
 /* No Messages State */
 .no-messages {
     text-align: center;
