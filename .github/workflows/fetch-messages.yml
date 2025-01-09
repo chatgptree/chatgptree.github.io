@@ -42,25 +42,33 @@ jobs:
           
           async function fetchMessages() {
               try {
+                  const now = new Date();
+                  const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+                  const currentYear = now.getFullYear();
+                  
+                  console.log(`Fetching messages for ${currentMonth} ${currentYear}`);
+                  
                   const response = await octokit.repos.getContent({
                       owner: 'chatgptree',
                       repo: 'chatgptree-messages',
-                      path: 'messages/2025/01.json'
+                      path: `messages/${currentYear}/${currentMonth}.json`
                   });
           
                   const content = Buffer.from(response.data.content, 'base64').toString();
                   const messages = JSON.parse(content);
                   
                   const fs = require('fs');
-                  fs.writeFileSync('messageboard/cache/january.json', JSON.stringify(messages, null, 2));
+                  fs.writeFileSync(`messageboard/cache/${currentMonth}.json`, JSON.stringify(messages, null, 2));
                   
-                  console.log('Successfully updated january.json');
+                  console.log(`Successfully updated ${currentMonth}.json`);
               } catch (error) {
                   console.error('Error:', error.message);
                   // Create empty array if fetch fails
+                  const now = new Date();
+                  const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
                   const fs = require('fs');
-                  fs.writeFileSync('messageboard/cache/january.json', '[]');
-                  console.log('Created empty january.json');
+                  fs.writeFileSync(`messageboard/cache/${currentMonth}.json`, '[]');
+                  console.log(`Created empty ${currentMonth}.json`);
               }
           }
           
@@ -79,7 +87,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add messageboard/cache/january.json
+          git add messageboard/cache/
           git commit -m "Update messages cache" || echo "No changes to commit"
           git push
           echo "Committed and pushed changes"
