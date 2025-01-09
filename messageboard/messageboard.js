@@ -1,12 +1,15 @@
 class TreeMessageBoard {
     constructor() {
+        this.githubUsername = 'chatgptree';
+        this.githubRepo = 'chatgptree-messages';
         this.messages = [];
         this.filteredMessages = [];
         this.currentFilter = 'all';
         this.isLoading = true;
         this.lastUpdateTime = 0;
-        this.githubUsername = 'chatgptree';
-        this.githubRepo = 'chatgptree-messages';
+        this.lastKnownEtag = null;
+        this.cacheKey = 'treeboard_cache';
+        this.cacheTimeKey = 'treeboard_cache_time';
         
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
@@ -17,6 +20,12 @@ class TreeMessageBoard {
 
     async initialize() {
         try {
+            const cachedData = this.loadFromCache();
+            if (cachedData) {
+                this.messages = cachedData;
+                this.filterAndRenderMessages();
+            }
+            
             await this.loadMessages();
             this.startPolling();
         } catch (error) {
@@ -28,81 +37,116 @@ class TreeMessageBoard {
     startPolling() {
         setInterval(() => {
             this.checkForNewMessages();
-        }, 5000);
+        }, 60000); // Check every minute
     }
 
-    async checkForNewMessages() {
-        try {
-            const now = new Date();
-            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            
-            const url = `https://api.github.com/repos/${this.githubUsername}/${this.githubRepo}/contents/messages/2025/${currentMonth}.json`;
-            
-            const response = await fetch(url);
-            
-            if (response.ok) {
-                const fileData = await response.json();
-                const content = atob(fileData.content);
-                const data = JSON.parse(content);
-                
-                const hasNewMessages = data.some(message => {
-                    const messageTime = new Date(message.timestamp).getTime();
-                    return messageTime > this.lastUpdateTime;
-                });
-
-                if (hasNewMessages) {
-                    console.log('New messages found, updating...');
-                    this.messages = data;
-                    this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-                    this.lastUpdateTime = Date.now();
-                    this.filterAndRenderMessages();
-                    this.showNotification('New messages have arrived! 🌱');
-                }
+    loadFromCache() {
+        const cached = localStorage.getItem(this.cacheKey);
+        const cacheTime = localStorage.getItem(this.cacheTimeKey);
+        
+        if (cached && cacheTime) {
+            const age = Date.now() - parseInt(cacheTime);
+            if (age < 5 * 60 * 1000) { // 5 minutes
+                return JSON.parse(cached);
             }
-        } catch (error) {
-            console.error('Error checking for new messages:', error);
         }
+        return null;
+    }
+
+    saveToCache(messages) {
+        localStorage.setItem(this.cacheKey, JSON.stringify(messages));
+        localStorage.setItem(this.cacheTimeKey, Date.now().toString());
     }
 
     async loadMessages() {
         try {
-            this.showLoadingSpinner();
-            
-            const now = new Date();
-            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            
-            const url = `https://api.github.com/repos/${this.githubUsername}/${this.githubRepo}/contents/messages/2025/${currentMonth}.json`;
-            console.log('Fetching from:', url);
-            
-            const response = await fetch(url);
-            
-            if (!response.ok) {
-                if (response.status === 404) {
-                    this.messages = [];
-                    this.isLoading = false;
-                    this.filterAndRenderMessages();
-                    return;
-                }
-                throw new Error(`Failed to fetch messages: ${response.status}`);
+            if (!this.loadFromCache()) {
+                this.showLoadingSpinner();
             }
 
-            const fileData = await response.json();
-            const content = atob(fileData.content);
-            const data = JSON.parse(content);
+            const currentDate = new Date();
+            const currentYear = currentDate.getFullYear();
+            const currentMonth = (currentDate.getMonth() + 1).toString().padStart(2, '0');
             
-            console.log('Received data:', data);
+            const latestMonthUrl = `https://api.github.com/repos/${this.githubUsername}/${this.githubRepo}/contents/messages/${currentYear}/${currentMonth}.json`;
             
-            this.messages = data;
+            const headers = this.lastKnownEtag ? { 'If-None-Match': this.lastKnownEtag } : {};
+            const response = await fetch(latestMonthUrl, { headers });
+            
+            if (response.status === 304) {
+                return;
+            }
+
+            if (response.status === 404) {
+                const prevDate = new Date(currentDate.setMonth(currentDate.getMonth() - 1));
+                const prevYear = prevDate.getFullYear();
+                const prevMonth = (prevDate.getMonth() + 1).toString().padStart(2, '0');
+                const prevMonthUrl = `https://api.github.com/repos/${this.githubUsername}/${this.githubRepo}/contents/messages/${prevYear}/${prevMonth}.json`;
+                const prevResponse = await fetch(prevMonthUrl);
+                
+                if (!prevResponse.ok) {
+                    throw new Error('Could not fetch messages');
+                }
+
+                const data = await prevResponse.json();
+                const content = JSON.parse(atob(data.content));
+                this.messages = content;
+            } else if (response.ok) {
+                const data = await response.json();
+                const content = JSON.parse(atob(data.content));
+                this.messages = content;
+                this.lastKnownEtag = response.headers.get('etag');
+            }
+
             this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
             this.lastUpdateTime = Date.now();
+            this.saveToCache(this.messages);
             
             this.isLoading = false;
             this.filterAndRenderMessages();
             
         } catch (error) {
             console.error('Error in loadMessages:', error);
-            this.isLoading = false;
-            this.showError('Unable to load messages. Please try again later.');
+            if (!this.messages.length) {
+                this.isLoading = false;
+                this.showError('Unable to load messages. Please try again later.');
+            }
+        }
+    }
+
+    async checkForNewMessages() {
+        try {
+            const currentDate = new Date();
+            const currentYear = currentDate.getFullYear();
+            const currentMonth = (currentDate.getMonth() + 1).toString().padStart(2, '0');
+            
+            const latestMonthUrl = `https://api.github.com/repos/${this.githubUsername}/${this.githubRepo}/contents/messages/${currentYear}/${currentMonth}.json`;
+            
+            const headers = this.lastKnownEtag ? { 'If-None-Match': this.lastKnownEtag } : {};
+            const response = await fetch(latestMonthUrl, { headers });
+            
+            if (response.status === 304) {
+                return;
+            }
+
+            if (response.ok) {
+                const data = await response.json();
+                const content = JSON.parse(atob(data.content));
+                
+                const hasNewMessages = content.some(message => {
+                    const messageTime = new Date(message.timestamp).getTime();
+                    return messageTime > this.lastUpdateTime;
+                });
+
+                if (hasNewMessages) {
+                    await this.loadMessages();
+                    this.showNotification('New messages have arrived! 🌱');
+                }
+
+                this.lastKnownEtag = response.headers.get('etag');
+            }
+        } catch (error) {
+            console.error('Error checking for new messages:', error);
         }
     }
 
