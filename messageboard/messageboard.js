@@ -166,7 +166,7 @@ renderMessages() {
     this.messageContainer.innerHTML = this.filteredMessages.map(message => `
         <div class="message-card" data-id="${this.escapeHtml(message.id)}">
             <div class="message-header">
-                <h3>${this.escapeHtml(message.userName)} from ${this.escapeHtml(message.location)}</h3>
+                <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
                 <span class="message-date">${this.formatDate(message.timestamp)}</span>
             </div>
             <div class="message-rating">
@@ -174,7 +174,12 @@ renderMessages() {
             </div>
             <p class="message-content">${this.escapeHtml(message.message)}</p>
             <div class="message-footer">
-                <span>chatted with ${this.escapeHtml(message.treeName)} from ${this.escapeHtml(message.treeLocation)}</span>
+                <div>
+                    <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
+                    <div class="tree-location">
+                        <i class="fas fa-map-marker-alt"></i> ${this.escapeHtml(message.treeLocation)}
+                    </div>
+                </div>
             </div>
         </div>
     `).join('');
