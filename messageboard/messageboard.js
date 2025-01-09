@@ -35,7 +35,7 @@ class TreeMessageBoard {
         try {
             const now = new Date();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            const url = `https://raw.githubusercontent.com/${this.githubUsername}/${this.githubRepo}/main/messageboard/cache/${currentMonth}.json`;
+            const url = `https://raw.githubusercontent.com/${this.githubUsername}/${this.githubRepo}/main/messageboard/cache/january.json`;
             
             const response = await fetch(url);
             
