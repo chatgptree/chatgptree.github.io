@@ -1,27 +1,85 @@
-# .github/workflows/fetch-messages.yml
 name: Fetch Messages
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '*/5 * * * *'  # Every 5 minutes
+  workflow_dispatch:        # Manual trigger button
 
 jobs:
   fetch-messages:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      - name: Install dependencies
-        run: npm install @octokit/rest
+      - name: Create directories
+        run: |
+          mkdir -p messageboard/cache
+          echo "Created directory structure"
 
-      - name: Fetch and Update Messages
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install @octokit/rest
+          echo "Installed dependencies"
+
+      - name: Create fetch script
+        run: |
+          cat > fetch-messages.js << 'EOF'
+          const { Octokit } = require('@octokit/rest');
+          
+          const octokit = new Octokit({
+              auth: process.env.GITHUB_TOKEN
+          });
+          
+          async function fetchMessages() {
+              try {
+                  const response = await octokit.repos.getContent({
+                      owner: 'chatgptree',
+                      repo: 'chatgptree-messages',
+                      path: 'messages/2025/01.json'
+                  });
+          
+                  const content = Buffer.from(response.data.content, 'base64').toString();
+                  const messages = JSON.parse(content);
+                  
+                  const fs = require('fs');
+                  fs.writeFileSync('messageboard/cache/january.json', JSON.stringify(messages, null, 2));
+                  
+                  console.log('Successfully updated january.json');
+              } catch (error) {
+                  console.error('Error:', error.message);
+                  // Create empty array if fetch fails
+                  const fs = require('fs');
+                  fs.writeFileSync('messageboard/cache/january.json', '[]');
+                  console.log('Created empty january.json');
+              }
+          }
+          
+          fetchMessages();
+          EOF
+          echo "Created fetch script"
+
+      - name: Run fetch script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/scripts/fetch-messages.js
+        run: |
+          node fetch-messages.js
+          echo "Ran fetch script"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add messageboard/cache/january.json
+          git commit -m "Update messages cache" || echo "No changes to commit"
+          git push
+          echo "Committed and pushed changes"
