@@ -1,14 +1,17 @@
 class TreeMessageBoard {
     constructor() {
+        // Initialize core properties for message management
         this.messages = [];
         this.filteredMessages = [];
         this.currentFilter = 'all';
         this.isLoading = true;
         this.lastUpdateTime = 0;
         
+        // Cache DOM elements for better performance
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
         
+        // Set up event listeners and start the board
         this.setupEventListeners();
         this.initialize();
     }
@@ -24,6 +27,7 @@ class TreeMessageBoard {
     }
 
     startPolling() {
+        // Check for new messages every 5 seconds
         setInterval(() => {
             this.checkForNewMessages();
         }, 5000);
@@ -34,10 +38,21 @@ class TreeMessageBoard {
             const now = new Date();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
+            // First check API rate limits
+            const rateLimitResponse = await fetch('https://api.github.com/rate_limit', {
+                headers: {
+                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
+                    'Accept': 'application/vnd.github.v3.raw'
+                }
+            });
+            const rateLimitData = await rateLimitResponse.json();
+            console.log('GitHub API Rate Limit Status:', rateLimitData);
+            
             const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
             
             const response = await fetch(url, {
                 headers: {
+                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
                     'Accept': 'application/vnd.github.v3.raw'
                 }
             });
@@ -76,6 +91,7 @@ class TreeMessageBoard {
             
             const response = await fetch(url, {
                 headers: {
+                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
                     'Accept': 'application/vnd.github.v3.raw'
                 }
             });
@@ -130,7 +146,8 @@ class TreeMessageBoard {
                 return (
                     message.userName?.toLowerCase().includes(searchTerm) ||
                     message.message?.toLowerCase().includes(searchTerm) ||
-                    message.location?.toLowerCase().includes(searchTerm)
+                    message.location?.toLowerCase().includes(searchTerm) ||
+                    message.treeName?.toLowerCase().includes(searchTerm)  // Added tree name to searchable fields
                 );
             });
         }
@@ -150,35 +167,41 @@ class TreeMessageBoard {
         this.renderMessages();
     }
 
-renderMessages() {
-    if (this.isLoading) return;
+    renderMessages() {
+        if (this.isLoading) return;
 
-    if (!this.filteredMessages?.length) {
-        this.messageContainer.innerHTML = `
-            <div class="no-messages">
-                <i class="fas fa-seedling"></i>
-                <p>No messages found. Try adjusting your search.</p>
+        if (!this.filteredMessages?.length) {
+            this.messageContainer.innerHTML = `
+                <div class="no-messages">
+                    <i class="fas fa-seedling"></i>
+                    <p>No messages found. Try adjusting your search.</p>
+                </div>
+            `;
+            return;
+        }
+
+        this.messageContainer.innerHTML = this.filteredMessages.map(message => `
+            <div class="message-card" data-id="${this.escapeHtml(message.id)}">
+                <div class="message-header">
+                    <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
+                    <span class="message-date">${this.formatDate(message.timestamp)}</span>
+                </div>
+                <div class="message-rating">
+                    ${'⭐'.repeat(message.rating || 0)}
+                </div>
+                <p class="message-content">${this.escapeHtml(message.message)}</p>
+                <div class="message-footer">
+                    <div>
+                        <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
+                        <div class="tree-location">
+                            <i class="fas fa-map-marker-alt"></i> ${this.escapeHtml(message.treeLocation)}
+                        </div>
+                    </div>
+                </div>
             </div>
-        `;
-        return;
+        `).join('');
     }
 
-    this.messageContainer.innerHTML = this.filteredMessages.map(message => `
-        <div class="message-card" data-id="${this.escapeHtml(message.id)}">
-            <div class="message-header">
-                <h3>${this.escapeHtml(message.userName)} from ${this.escapeHtml(message.location)}</h3>
-                <span class="message-date">${this.formatDate(message.timestamp)}</span>
-            </div>
-            <div class="message-rating">
-                ${'⭐'.repeat(message.rating || 0)}
-            </div>
-            <p class="message-content">${this.escapeHtml(message.message)}</p>
-            <div class="message-footer">
-                <span>chatted with ${this.escapeHtml(message.treeName)} from ${this.escapeHtml(message.treeLocation)}</span>
-            </div>
-        </div>
-    `).join('');
-}
     formatDate(timestamp) {
         const date = new Date(timestamp);
         const now = new Date();
