@@ -1,17 +1,14 @@
 class TreeMessageBoard {
     constructor() {
-        // Initialize core properties for message management
         this.messages = [];
         this.filteredMessages = [];
         this.currentFilter = 'all';
         this.isLoading = true;
         this.lastUpdateTime = 0;
         
-        // Cache DOM elements for better performance
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
         
-        // Set up event listeners and start the board
         this.setupEventListeners();
         this.initialize();
     }
@@ -27,7 +24,6 @@ class TreeMessageBoard {
     }
 
     startPolling() {
-        // Check for new messages every 5 seconds
         setInterval(() => {
             this.checkForNewMessages();
         }, 5000);
@@ -35,13 +31,20 @@ class TreeMessageBoard {
 
     async checkForNewMessages() {
         try {
-            // Using the server endpoint instead of GitHub directly
-            const response = await fetch('/api/messages');
+            const now = new Date();
+            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+            
+            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
+            
+            const response = await fetch(url, {
+                headers: {
+                    'Accept': 'application/vnd.github.v3.raw'
+                }
+            });
 
             if (response.ok) {
                 const data = await response.json();
                 
-                // Check if there are any new messages since our last update
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
@@ -65,8 +68,17 @@ class TreeMessageBoard {
         try {
             this.showLoadingSpinner();
             
-            // Using the server endpoint to get messages
-            const response = await fetch('/api/messages');
+            const now = new Date();
+            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+            
+            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
+            console.log('Fetching from:', url);
+            
+            const response = await fetch(url, {
+                headers: {
+                    'Accept': 'application/vnd.github.v3.raw'
+                }
+            });
             
             if (!response.ok) {
                 throw new Error(`Failed to fetch messages: ${response.status}`);
@@ -118,8 +130,7 @@ class TreeMessageBoard {
                 return (
                     message.userName?.toLowerCase().includes(searchTerm) ||
                     message.message?.toLowerCase().includes(searchTerm) ||
-                    message.location?.toLowerCase().includes(searchTerm) ||
-                    message.treeName?.toLowerCase().includes(searchTerm)
+                    message.location?.toLowerCase().includes(searchTerm)
                 );
             });
         }
@@ -140,9 +151,11 @@ class TreeMessageBoard {
     }
 
     renderMessages() {
-        if (this.isLoading) return;
+        if (this.isLoading) {
+            return;
+        }
 
-        if (!this.filteredMessages?.length) {
+        if (!this.filteredMessages || this.filteredMessages.length === 0) {
             this.messageContainer.innerHTML = `
                 <div class="no-messages">
                     <i class="fas fa-seedling"></i>
@@ -155,20 +168,20 @@ class TreeMessageBoard {
         this.messageContainer.innerHTML = this.filteredMessages.map(message => `
             <div class="message-card" data-id="${this.escapeHtml(message.id)}">
                 <div class="message-header">
-                    <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
-                    <span class="message-date">${this.formatDate(message.timestamp)}</span>
-                </div>
-                <div class="message-rating">
-                    ${'⭐'.repeat(message.rating || 0)}
+                    <h3>${this.escapeHtml(message.userName)}</h3>
+                    <span class="message-date">
+                        ${this.formatDate(message.timestamp)}
+                    </span>
                 </div>
                 <p class="message-content">${this.escapeHtml(message.message)}</p>
                 <div class="message-footer">
-                    <div>
-                        <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
-                        <div class="tree-location">
-                            <i class="fas fa-map-marker-alt"></i> ${this.escapeHtml(message.treeLocation)}
-                        </div>
+                    <div class="message-rating">
+                        ${'⭐'.repeat(message.rating || 0)}
                     </div>
+                    <span class="message-location">
+                        <i class="fas fa-map-marker-alt"></i>
+                        ${this.escapeHtml(message.location)}
+                    </span>
                 </div>
             </div>
         `).join('');
