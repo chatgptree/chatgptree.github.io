@@ -5,6 +5,8 @@ class TreeMessageBoard {
         this.currentFilter = 'all';
         this.isLoading = true;
         this.lastUpdateTime = 0;
+        this.githubUsername = 'chatgptree';
+        this.githubRepo = 'chatgptree-messages';
         
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
@@ -34,16 +36,15 @@ class TreeMessageBoard {
             const now = new Date();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
-            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
+            const url = `https://api.github.com/repos/${this.githubUsername}/${this.githubRepo}/contents/messages/2025/${currentMonth}.json`;
             
-            const response = await fetch(url, {
-                headers: {
-                    'Accept': 'application/vnd.github.v3.raw'
-                }
-            });
-
+            const response = await fetch(url);
+            
             if (response.ok) {
-                const data = await response.json();
+                const fileData = await response.json();
+                // GitHub returns base64 encoded content
+                const content = atob(fileData.content);
+                const data = JSON.parse(content);
                 
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
@@ -71,20 +72,27 @@ class TreeMessageBoard {
             const now = new Date();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
-            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
+            const url = `https://api.github.com/repos/${this.githubUsername}/${this.githubRepo}/contents/messages/2025/${currentMonth}.json`;
             console.log('Fetching from:', url);
             
-            const response = await fetch(url, {
-                headers: {
-                    'Accept': 'application/vnd.github.v3.raw'
-                }
-            });
+            const response = await fetch(url);
             
             if (!response.ok) {
+                if (response.status === 404) {
+                    // If file doesn't exist yet, start with empty array
+                    this.messages = [];
+                    this.isLoading = false;
+                    this.filterAndRenderMessages();
+                    return;
+                }
                 throw new Error(`Failed to fetch messages: ${response.status}`);
             }
 
-            const data = await response.json();
+            const fileData = await response.json();
+            // GitHub returns base64 encoded content
+            const content = atob(fileData.content);
+            const data = JSON.parse(content);
+            
             console.log('Received data:', data);
             
             this.messages = data;
