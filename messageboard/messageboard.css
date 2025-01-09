@@ -7,32 +7,35 @@
     box-sizing: border-box;
 }
 
+.search-section {
+    margin-bottom: 30px;
+    width: 100%;
+}
+
 /* Back button styling */
 .back-button {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    color: #0000EE;
+    padding: 12px 24px;
+    background-color: #2E4032;
+    color: white;
     text-decoration: none;
-    font-family: 'Catamaran', sans-serif;
-    font-size: 16px;
+    border-radius: 25px;
     margin: 20px 0;
+    transition: all 0.3s ease;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 600;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .back-button:hover {
-    text-decoration: underline;
+    background-color: #1a2820;
+    transform: translateX(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
-.back-button i {
-    font-size: 14px;
-}
-
-/* Search section styling */
-.search-section {
-    margin: 30px 0;
-    width: 100%;
-}
-
+/* Search box styling */
 .search-box {
     position: relative;
     margin-bottom: 20px;
@@ -43,9 +46,9 @@
     width: 100%;
     padding: 15px 45px 15px 45px;
     border: 2px solid #2E4032;
-    border-radius: 50px;
+    border-radius: 25px;
     font-size: 16px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.95);
     transition: all 0.3s ease;
     box-sizing: border-box;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
@@ -53,8 +56,8 @@
 
 .search-box input:focus {
     outline: none;
-    border-color: #2E4032;
-    box-shadow: 0 0 10px rgba(46, 64, 50, 0.1);
+    border-color: #4CAF50;
+    box-shadow: 0 0 10px rgba(76, 175, 80, 0.2);
 }
 
 .search-icon {
@@ -70,28 +73,35 @@
 .search-filters {
     display: flex;
     gap: 12px;
-    margin-top: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
 }
 
 .filter-btn {
-    padding: 8px 16px;
-    background: white;
-    border: 1px solid #2E4032;
-    border-radius: 5px;
+    padding: 10px 20px;
+    border: 2px solid #2E4032;
+    border-radius: 20px;
+    background-color: white;
     color: #2E4032;
     cursor: pointer;
     transition: all 0.3s ease;
     font-family: 'Catamaran', sans-serif;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
 .filter-btn:hover {
-    background-color: #f5f5f5;
+    background-color: #E8F5E9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .filter-btn.active {
     background-color: #2E4032;
     color: white;
+    border-color: #2E4032;
 }
 
 /* Message card styles */
@@ -161,11 +171,13 @@
     gap: 6px;
 }
 
-/* Loading state */
+/* Loading spinner */
 .loading-spinner {
     text-align: center;
     padding: 40px;
     color: #2E4032;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .loading-spinner i {
@@ -178,6 +190,8 @@
     text-align: center;
     padding: 40px;
     color: #2E4032;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .no-messages i {
@@ -222,17 +236,30 @@
     }
 
     .search-box input {
-        padding: 12px 40px;
+        padding: 12px 40px 12px 40px;
         font-size: 14px;
     }
 
     .filter-btn {
-        padding: 6px 12px;
-        font-size: 13px;
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+    .back-button {
+        padding: 10px 20px;
+        font-size: 14px;
     }
 
     .message-card {
         padding: 15px;
+    }
+
+    .message-header h3 {
+        font-size: 1.1em;
+    }
+
+    .message-content {
+        font-size: 0.95em;
     }
 }
 
@@ -242,16 +269,11 @@
     }
 
     .search-section {
-        margin: 20px 0;
+        margin-bottom: 20px;
     }
 
-    .search-filters {
-        gap: 8px;
-    }
-
-    .filter-btn {
-        padding: 5px 10px;
-        font-size: 12px;
+    .message-header {
+        gap: 6px;
     }
 
     .message-card {
@@ -260,8 +282,20 @@
     }
 
     .notification {
+        left: 10px;
+        right: 10px;
         bottom: 10px;
-        padding: 10px 15px;
+        top: auto;
         font-size: 0.9em;
+        padding: 10px 15px;
+    }
+
+    .search-filters {
+        gap: 8px;
+    }
+
+    .filter-btn {
+        padding: 6px 12px;
+        font-size: 13px;
     }
 }
