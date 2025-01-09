@@ -42,7 +42,6 @@ class TreeMessageBoard {
             
             if (response.ok) {
                 const fileData = await response.json();
-                // GitHub returns base64 encoded content
                 const content = atob(fileData.content);
                 const data = JSON.parse(content);
                 
@@ -79,7 +78,6 @@ class TreeMessageBoard {
             
             if (!response.ok) {
                 if (response.status === 404) {
-                    // If file doesn't exist yet, start with empty array
                     this.messages = [];
                     this.isLoading = false;
                     this.filterAndRenderMessages();
@@ -89,7 +87,6 @@ class TreeMessageBoard {
             }
 
             const fileData = await response.json();
-            // GitHub returns base64 encoded content
             const content = atob(fileData.content);
             const data = JSON.parse(content);
             
@@ -138,7 +135,9 @@ class TreeMessageBoard {
                 return (
                     message.userName?.toLowerCase().includes(searchTerm) ||
                     message.message?.toLowerCase().includes(searchTerm) ||
-                    message.location?.toLowerCase().includes(searchTerm)
+                    message.location?.toLowerCase().includes(searchTerm) ||
+                    message.treeName?.toLowerCase().includes(searchTerm) ||
+                    message.treeLocation?.toLowerCase().includes(searchTerm)
                 );
             });
         }
@@ -159,11 +158,9 @@ class TreeMessageBoard {
     }
 
     renderMessages() {
-        if (this.isLoading) {
-            return;
-        }
+        if (this.isLoading) return;
 
-        if (!this.filteredMessages || this.filteredMessages.length === 0) {
+        if (!this.filteredMessages?.length) {
             this.messageContainer.innerHTML = `
                 <div class="no-messages">
                     <i class="fas fa-seedling"></i>
@@ -176,20 +173,20 @@ class TreeMessageBoard {
         this.messageContainer.innerHTML = this.filteredMessages.map(message => `
             <div class="message-card" data-id="${this.escapeHtml(message.id)}">
                 <div class="message-header">
-                    <h3>${this.escapeHtml(message.userName)}</h3>
-                    <span class="message-date">
-                        ${this.formatDate(message.timestamp)}
-                    </span>
+                    <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
+                    <span class="message-date">${this.formatDate(message.timestamp)}</span>
+                </div>
+                <div class="message-rating">
+                    ${'⭐'.repeat(message.rating || 0)}
                 </div>
                 <p class="message-content">${this.escapeHtml(message.message)}</p>
                 <div class="message-footer">
-                    <div class="message-rating">
-                        ${'⭐'.repeat(message.rating || 0)}
+                    <div>
+                        <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
+                        <div class="tree-location">
+                            <i class="fas fa-map-marker-alt"></i> ${this.escapeHtml(message.treeLocation)}
+                        </div>
                     </div>
-                    <span class="message-location">
-                        <i class="fas fa-map-marker-alt"></i>
-                        ${this.escapeHtml(message.location)}
-                    </span>
                 </div>
             </div>
         `).join('');
