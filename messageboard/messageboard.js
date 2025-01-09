@@ -61,44 +61,40 @@ class TreeMessageBoard {
         }
     }
 
-    async loadMessages() {
-        try {
-            this.showLoadingSpinner();
-            
-            const now = new Date();
-            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            const url = `https://raw.githubusercontent.com/${this.githubUsername}/${this.githubRepo}/main/messageboard/cache/${currentMonth}.json`;
-            
-            console.log('Fetching from:', url);
-            
-            const response = await fetch(url);
-            
-            if (!response.ok) {
-                if (response.status === 404) {
-                    this.messages = [];
-                    this.isLoading = false;
-                    this.filterAndRenderMessages();
-                    return;
-                }
-                throw new Error(`Failed to fetch messages: ${response.status}`);
-            }
-
-            const data = await response.json();
-            console.log('Received data:', data);
-            
-            this.messages = data;
-            this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-            this.lastUpdateTime = Date.now();
-            
-            this.isLoading = false;
-            this.filterAndRenderMessages();
-            
-        } catch (error) {
-            console.error('Error in loadMessages:', error);
-            this.isLoading = false;
-            this.showError('Unable to load messages. Please try again later.');
+async loadMessages() {
+    try {
+        this.showLoadingSpinner();
+        
+        // Get current month name in lowercase
+        const now = new Date();
+        const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+        console.log('Current month:', currentMonth); // This should show "january"
+        
+        const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messageboard/cache/${currentMonth}.json`;
+        console.log('Fetching from:', url); // This should show ".../january.json"
+        
+        const response = await fetch(url);
+        
+        if (!response.ok) {
+            throw new Error(`Failed to fetch messages: ${response.status}`);
         }
+
+        const text = await response.text();
+        this.messages = JSON.parse(text);
+        
+        // Sort messages by timestamp (newest first)
+        this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+        
+        this.lastUpdateTime = Date.now();
+        this.isLoading = false;
+        this.filterAndRenderMessages();
+        
+    } catch (error) {
+        console.error('Error in loadMessages:', error);
+        this.isLoading = false;
+        this.showError('Unable to load messages. Please try again later.');
     }
+}
 
     setupEventListeners() {
         if (this.searchInput) {
