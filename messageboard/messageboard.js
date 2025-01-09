@@ -151,11 +151,9 @@ class TreeMessageBoard {
     }
 
 renderMessages() {
-    if (this.isLoading) {
-        return;
-    }
+    if (this.isLoading) return;
 
-    if (!this.filteredMessages || this.filteredMessages.length === 0) {
+    if (!this.filteredMessages?.length) {
         this.messageContainer.innerHTML = `
             <div class="no-messages">
                 <i class="fas fa-seedling"></i>
@@ -168,22 +166,15 @@ renderMessages() {
     this.messageContainer.innerHTML = this.filteredMessages.map(message => `
         <div class="message-card" data-id="${this.escapeHtml(message.id)}">
             <div class="message-header">
-                <div>
-                    <h3>${this.escapeHtml(message.treeName)}</h3>
-                    <small class="tree-location">${this.escapeHtml(message.treeLocation)}</small>
-                </div>
-                <span class="message-date">
-                    ${this.formatDate(message.timestamp)}
-                </span>
+                <h3>${this.escapeHtml(message.userName)} from ${this.escapeHtml(message.location)}</h3>
+                <span class="message-date">${this.formatDate(message.timestamp)}</span>
+            </div>
+            <div class="message-rating">
+                ${'⭐'.repeat(message.rating || 0)}
             </div>
             <p class="message-content">${this.escapeHtml(message.message)}</p>
             <div class="message-footer">
-                <div class="message-rating">
-                    ${'⭐'.repeat(message.rating || 0)}
-                </div>
-                <span class="message-author">
-                    From ${this.escapeHtml(message.userName)} in ${this.escapeHtml(message.location)}
-                </span>
+                <span>chatted with ${this.escapeHtml(message.treeName)} from ${this.escapeHtml(message.treeLocation)}</span>
             </div>
         </div>
     `).join('');
