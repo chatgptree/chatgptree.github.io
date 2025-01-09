@@ -150,43 +150,44 @@ class TreeMessageBoard {
         this.renderMessages();
     }
 
-    renderMessages() {
-        if (this.isLoading) {
-            return;
-        }
-
-        if (!this.filteredMessages || this.filteredMessages.length === 0) {
-            this.messageContainer.innerHTML = `
-                <div class="no-messages">
-                    <i class="fas fa-seedling"></i>
-                    <p>No messages found. Try adjusting your search.</p>
-                </div>
-            `;
-            return;
-        }
-
-        this.messageContainer.innerHTML = this.filteredMessages.map(message => `
-            <div class="message-card" data-id="${this.escapeHtml(message.id)}">
-                <div class="message-header">
-                    <h3>${this.escapeHtml(message.userName)}</h3>
-                    <span class="message-date">
-                        ${this.formatDate(message.timestamp)}
-                    </span>
-                </div>
-                <p class="message-content">${this.escapeHtml(message.message)}</p>
-                <div class="message-footer">
-                    <div class="message-rating">
-                        ${'⭐'.repeat(message.rating || 0)}
-                    </div>
-                    <span class="message-location">
-                        <i class="fas fa-map-marker-alt"></i>
-                        ${this.escapeHtml(message.location)}
-                    </span>
-                </div>
-            </div>
-        `).join('');
+renderMessages() {
+    if (this.isLoading) {
+        return;
     }
 
+    if (!this.filteredMessages || this.filteredMessages.length === 0) {
+        this.messageContainer.innerHTML = `
+            <div class="no-messages">
+                <i class="fas fa-seedling"></i>
+                <p>No messages found. Try adjusting your search.</p>
+            </div>
+        `;
+        return;
+    }
+
+    this.messageContainer.innerHTML = this.filteredMessages.map(message => `
+        <div class="message-card" data-id="${this.escapeHtml(message.id)}">
+            <div class="message-header">
+                <div>
+                    <h3>${this.escapeHtml(message.treeName)}</h3>
+                    <small class="tree-location">${this.escapeHtml(message.treeLocation)}</small>
+                </div>
+                <span class="message-date">
+                    ${this.formatDate(message.timestamp)}
+                </span>
+            </div>
+            <p class="message-content">${this.escapeHtml(message.message)}</p>
+            <div class="message-footer">
+                <div class="message-rating">
+                    ${'⭐'.repeat(message.rating || 0)}
+                </div>
+                <span class="message-author">
+                    From ${this.escapeHtml(message.userName)} in ${this.escapeHtml(message.location)}
+                </span>
+            </div>
+        </div>
+    `).join('');
+}
     formatDate(timestamp) {
         const date = new Date(timestamp);
         const now = new Date();
