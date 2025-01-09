@@ -35,31 +35,13 @@ class TreeMessageBoard {
 
     async checkForNewMessages() {
         try {
-            const now = new Date();
-            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            
-            // First check API rate limits
-            const rateLimitResponse = await fetch('https://api.github.com/rate_limit', {
-                headers: {
-                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
-                    'Accept': 'application/vnd.github.v3.raw'
-                }
-            });
-            const rateLimitData = await rateLimitResponse.json();
-            console.log('GitHub API Rate Limit Status:', rateLimitData);
-            
-            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
-            
-            const response = await fetch(url, {
-                headers: {
-                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
-                    'Accept': 'application/vnd.github.v3.raw'
-                }
-            });
+            // Using the server endpoint instead of GitHub directly
+            const response = await fetch('/api/messages');
 
             if (response.ok) {
                 const data = await response.json();
                 
+                // Check if there are any new messages since our last update
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
@@ -83,18 +65,8 @@ class TreeMessageBoard {
         try {
             this.showLoadingSpinner();
             
-            const now = new Date();
-            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            
-            const url = `https://api.github.com/repos/chatgptree/chatgptree-messages/contents/messages/2025/${currentMonth}.json`;
-            console.log('Fetching from:', url);
-            
-            const response = await fetch(url, {
-                headers: {
-                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
-                    'Accept': 'application/vnd.github.v3.raw'
-                }
-            });
+            // Using the server endpoint to get messages
+            const response = await fetch('/api/messages');
             
             if (!response.ok) {
                 throw new Error(`Failed to fetch messages: ${response.status}`);
@@ -147,7 +119,7 @@ class TreeMessageBoard {
                     message.userName?.toLowerCase().includes(searchTerm) ||
                     message.message?.toLowerCase().includes(searchTerm) ||
                     message.location?.toLowerCase().includes(searchTerm) ||
-                    message.treeName?.toLowerCase().includes(searchTerm)  // Added tree name to searchable fields
+                    message.treeName?.toLowerCase().includes(searchTerm)
                 );
             });
         }
