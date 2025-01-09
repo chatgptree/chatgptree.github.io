@@ -7,8 +7,29 @@
     box-sizing: border-box;
 }
 
+/* Back button styling */
+.back-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #0000EE;
+    text-decoration: none;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+.back-button:hover {
+    text-decoration: underline;
+}
+
+.back-button i {
+    font-size: 14px;
+}
+
+/* Search section styling */
 .search-section {
-    margin-bottom: 30px;
+    margin: 30px 0;
     width: 100%;
 }
 
@@ -20,18 +41,62 @@
 
 .search-box input {
     width: 100%;
-    padding: 15px 45px 15px 20px;
+    padding: 15px 45px 15px 45px;
     border: 2px solid #2E4032;
-    border-radius: 25px;
+    border-radius: 50px;
     font-size: 16px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: white;
     transition: all 0.3s ease;
     box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
-/* Updated message card styles */
+.search-box input:focus {
+    outline: none;
+    border-color: #2E4032;
+    box-shadow: 0 0 10px rgba(46, 64, 50, 0.1);
+}
+
+.search-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #2E4032;
+    pointer-events: none;
+}
+
+/* Filter buttons styling */
+.search-filters {
+    display: flex;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.filter-btn {
+    padding: 8px 16px;
+    background: white;
+    border: 1px solid #2E4032;
+    border-radius: 5px;
+    color: #2E4032;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 14px;
+}
+
+.filter-btn:hover {
+    background-color: #f5f5f5;
+}
+
+.filter-btn.active {
+    background-color: #2E4032;
+    color: white;
+}
+
+/* Message card styles */
 .message-card {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: white;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -96,68 +161,31 @@
     gap: 6px;
 }
 
-/* Responsive Design Updates */
-@media (max-width: 768px) {
-    .message-board-container {
-        padding: 15px;
-    }
-
-    .search-box input {
-        padding: 12px 40px 12px 15px;
-        font-size: 14px;
-    }
-
-    .message-card {
-        padding: 15px;
-    }
-
-    .message-header h3 {
-        font-size: 1.1em;
-    }
-
-    .message-content {
-        font-size: 0.95em;
-    }
-
-    .filter-btn {
-        padding: 8px 12px;
-        font-size: 0.9em;
-    }
-
-    .search-filters {
-        gap: 8px;
-    }
+/* Loading state */
+.loading-spinner {
+    text-align: center;
+    padding: 40px;
+    color: #2E4032;
 }
 
-@media (max-width: 480px) {
-    .message-board-container {
-        padding: 10px;
-    }
-
-    .search-section {
-        margin-bottom: 20px;
-    }
-
-    .message-header {
-        gap: 6px;
-    }
-
-    .message-card {
-        padding: 12px;
-        margin-bottom: 15px;
-    }
-
-    .notification {
-        left: 10px;
-        right: 10px;
-        bottom: 10px;
-        top: auto;
-        font-size: 0.9em;
-        padding: 10px 15px;
-    }
+.loading-spinner i {
+    font-size: 2em;
+    margin-bottom: 10px;
 }
 
-/* Notification position update */
+/* No messages state */
+.no-messages {
+    text-align: center;
+    padding: 40px;
+    color: #2E4032;
+}
+
+.no-messages i {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* Notification */
 .notification {
     position: fixed;
     bottom: 20px;
@@ -173,9 +201,9 @@
     text-align: center;
     max-width: 90%;
     width: auto;
+    animation: slideIn 0.3s ease-out;
 }
 
-/* Animation update */
 @keyframes slideIn {
     from {
         transform: translate(-50%, 100%);
@@ -187,20 +215,53 @@
     }
 }
 
-/* Loading spinner update */
-.loading-spinner {
-    text-align: center;
-    padding: 40px;
-    color: #2E4032;
-    width: 100%;
-    box-sizing: border-box;
+/* Responsive Design */
+@media (max-width: 768px) {
+    .message-board-container {
+        padding: 15px;
+    }
+
+    .search-box input {
+        padding: 12px 40px;
+        font-size: 14px;
+    }
+
+    .filter-btn {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+
+    .message-card {
+        padding: 15px;
+    }
 }
 
-/* No messages state update */
-.no-messages {
-    text-align: center;
-    padding: 40px;
-    color: #2E4032;
-    width: 100%;
-    box-sizing: border-box;
+@media (max-width: 480px) {
+    .message-board-container {
+        padding: 10px;
+    }
+
+    .search-section {
+        margin: 20px 0;
+    }
+
+    .search-filters {
+        gap: 8px;
+    }
+
+    .filter-btn {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    .message-card {
+        padding: 12px;
+        margin-bottom: 15px;
+    }
+
+    .notification {
+        bottom: 10px;
+        padding: 10px 15px;
+        font-size: 0.9em;
+    }
 }
