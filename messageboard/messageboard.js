@@ -5,8 +5,6 @@ class TreeMessageBoard {
         this.currentFilter = 'all';
         this.isLoading = true;
         this.lastUpdateTime = 0;
-        this.githubUsername = 'chatgptree';
-        this.githubRepo = 'chatgptree.github.io';
         
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
@@ -28,17 +26,19 @@ class TreeMessageBoard {
     startPolling() {
         setInterval(() => {
             this.checkForNewMessages();
-        }, 300000); // Check every 5 minutes (300000 ms)
+        }, 5000);
     }
 
     async checkForNewMessages() {
         try {
             const now = new Date();
+            const year = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            const url = `https://raw.githubusercontent.com/${this.githubUsername}/${this.githubRepo}/main/messageboard/cache/january.json`;
+            
+            const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
             
             const response = await fetch(url);
-            
+
             if (response.ok) {
                 const data = await response.json();
                 
@@ -61,40 +61,39 @@ class TreeMessageBoard {
         }
     }
 
-async loadMessages() {
-    try {
-        this.showLoadingSpinner();
-        
-        // Get current month name in lowercase
-        const now = new Date();
-        const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-        console.log('Current month:', currentMonth); // This should show "january"
-        
-        const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messageboard/cache/${currentMonth}.json`;
-        console.log('Fetching from:', url); // This should show ".../january.json"
-        
-        const response = await fetch(url);
-        
-        if (!response.ok) {
-            throw new Error(`Failed to fetch messages: ${response.status}`);
-        }
+    async loadMessages() {
+        try {
+            this.showLoadingSpinner();
+            
+            const now = new Date();
+            const year = now.getFullYear();
+            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+            
+            const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
+            console.log('Fetching from:', url);
+            
+            const response = await fetch(url);
+            
+            if (!response.ok) {
+                throw new Error(`Failed to fetch messages: ${response.status}`);
+            }
 
-        const text = await response.text();
-        this.messages = JSON.parse(text);
-        
-        // Sort messages by timestamp (newest first)
-        this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-        
-        this.lastUpdateTime = Date.now();
-        this.isLoading = false;
-        this.filterAndRenderMessages();
-        
-    } catch (error) {
-        console.error('Error in loadMessages:', error);
-        this.isLoading = false;
-        this.showError('Unable to load messages. Please try again later.');
+            const data = await response.json();
+            console.log('Received data:', data);
+            
+            this.messages = data;
+            this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+            this.lastUpdateTime = Date.now();
+            
+            this.isLoading = false;
+            this.filterAndRenderMessages();
+            
+        } catch (error) {
+            console.error('Error in loadMessages:', error);
+            this.isLoading = false;
+            this.showError('Unable to load messages. Please try again later.');
+        }
     }
-}
 
     setupEventListeners() {
         if (this.searchInput) {
@@ -126,8 +125,7 @@ async loadMessages() {
                     message.userName?.toLowerCase().includes(searchTerm) ||
                     message.message?.toLowerCase().includes(searchTerm) ||
                     message.location?.toLowerCase().includes(searchTerm) ||
-                    message.treeName?.toLowerCase().includes(searchTerm) ||
-                    message.treeLocation?.toLowerCase().includes(searchTerm)
+                    message.treeName?.toLowerCase().includes(searchTerm)
                 );
             });
         }
