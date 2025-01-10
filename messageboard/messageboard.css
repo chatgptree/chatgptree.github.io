@@ -184,15 +184,21 @@ header {
 /* Loading spinner */
 .loading-spinner {
     text-align: center;
-    padding: 40px;
+    padding: 20px;
     color: #2E4032;
     width: 100%;
     box-sizing: border-box;
+    margin-top: 20px;
 }
 
 .loading-spinner i {
-    font-size: 2em;
-    margin-bottom: 10px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.loading-spinner p {
+    margin: 5px 0;
+    font-size: 0.9em;
 }
 
 /* No messages state */
