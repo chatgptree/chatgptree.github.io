@@ -24,15 +24,15 @@
 
     <main class="container message-board-container">
         <div class="search-section">
-<div class="search-box">
-    <i class="fas fa-search search-icon"></i>
-    <input 
-        type="text" 
-        id="searchInput" 
-        placeholder="Search messages by tree name or visitor..."
-        aria-label="Search messages"
-    >
-</div>
+            <div class="search-box">
+                <i class="fas fa-search search-icon"></i>
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Search messages by tree name or visitor..."
+                    aria-label="Search messages"
+                >
+            </div>
             <div class="search-filters">
                 <button class="filter-btn active" data-filter="all">All Messages</button>
                 <button class="filter-btn" data-filter="recent">Recent</button>
@@ -40,9 +40,9 @@
             </div>
         </div>
         
-<a href="/" class="back-button back-button-top">
-        <i class="fas fa-arrow-left"></i> Back to Home
-    </a>
+        <a href="/" class="back-button back-button-top">
+            <i class="fas fa-arrow-left"></i> Back to Home
+        </a>
         
         <div id="messageContainer" class="message-container">
             <!-- Messages will be dynamically inserted here -->
@@ -51,6 +51,20 @@
                 <p>Loading messages...</p>
             </div>
         </div>
+
+        <!-- New pagination controls -->
+        <div class="pagination-controls">
+            <button id="prevPage" class="page-btn" disabled>
+                <i class="fas fa-chevron-left"></i>
+            </button>
+            <span id="pageInfo">Page 1</span>
+            <button id="nextPage" class="page-btn">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+
+        <!-- Scroll observer for infinite scroll -->
+        <div id="scrollObserver"></div>
 
         <a href="/" class="back-button">
             <i class="fas fa-arrow-left"></i> Back to Home
@@ -67,4 +81,3 @@
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 </body>
 </html>
-
