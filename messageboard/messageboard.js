@@ -5,6 +5,7 @@ class TreeMessageBoard {
         this.currentFilter = 'all';
         this.isLoading = true;
         this.lastUpdateTime = 0;
+        this.pollingInterval = 5000; // 5 seconds
         
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
@@ -24,9 +25,25 @@ class TreeMessageBoard {
     }
 
     startPolling() {
-        setInterval(() => {
-            this.checkForNewMessages();
-        }, 5000);
+        // Clear any existing interval first
+        if (this.pollingTimer) {
+            clearInterval(this.pollingTimer);
+        }
+        
+        // Set up new polling interval
+        this.pollingTimer = setInterval(async () => {
+            await this.checkForNewMessages();
+        }, this.pollingInterval);
+
+        // Add visibility change handling to pause/resume polling
+        document.addEventListener('visibilitychange', () => {
+            if (document.hidden) {
+                clearInterval(this.pollingTimer);
+            } else {
+                this.startPolling();
+                this.checkForNewMessages(); // Immediate check when tab becomes visible
+            }
+        });
     }
 
     async checkForNewMessages() {
@@ -37,23 +54,28 @@ class TreeMessageBoard {
             
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
             
-            const response = await fetch(url);
+            const response = await fetch(url, {
+                cache: 'no-store' // Ensure we're not getting cached responses
+            });
 
             if (response.ok) {
                 const data = await response.json();
                 
+                // Check if there are any new or updated messages
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
                 });
 
                 if (hasNewMessages) {
-                    console.log('New messages found, updating...');
+                    console.log(`[${new Date().toISOString()}] New messages found, updating...`);
                     this.messages = data;
                     this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
                     this.lastUpdateTime = Date.now();
                     this.filterAndRenderMessages();
                     this.showNotification('New messages have arrived! 🌱');
+                } else {
+                    console.log(`[${new Date().toISOString()}] No new messages found`);
                 }
             }
         } catch (error) {
@@ -72,7 +94,9 @@ class TreeMessageBoard {
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
             console.log('Fetching from:', url);
             
-            const response = await fetch(url);
+            const response = await fetch(url, {
+                cache: 'no-store' // Ensure we're not getting cached responses
+            });
             
             if (!response.ok) {
                 throw new Error(`Failed to fetch messages: ${response.status}`);
