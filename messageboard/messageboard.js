@@ -65,8 +65,8 @@ class TreeMessageBoard {
             this.showError('Failed to load messages. Please try again later.');
         }
     }
-
-    startPolling() {
+    
+startPolling() {
         if (this.pollingTimer) {
             clearInterval(this.pollingTimer);
         }
@@ -173,7 +173,7 @@ class TreeMessageBoard {
         return this.fetchMonthData(previousYear, previousMonth);
     }
 
-    setupEventListeners() {
+setupEventListeners() {
         if (this.searchInput) {
             this.searchInput.addEventListener('input', debounce(() => {
                 this.currentPage = 1;
@@ -275,7 +275,7 @@ class TreeMessageBoard {
         }
     }
 
-    renderWithVirtualization(messages) {
+renderWithVirtualization(messages) {
         this.messageContainer.innerHTML = messages.map(message => `
             <div class="message-placeholder" data-id="${this.escapeHtml(message.id)}"></div>
         `).join('');
@@ -372,3 +372,42 @@ class TreeMessageBoard {
         notification.innerHTML = `
             <i class="fas fa-leaf"></i>
             ${message}`;
+            
+        document.body.appendChild(notification);
+        
+        setTimeout(() => {
+            notification.style.opacity = '0';
+            setTimeout(() => notification.remove(), 300);
+        }, 3000);
+    }
+
+    showError(message) {
+        this.messageContainer.innerHTML = `
+            <div class="error-message">
+                <i class="fas fa-exclamation-circle"></i>
+                <p>${this.escapeHtml(message)}</p>
+                <button onclick="window.messageBoard.loadMessages()" class="retry-button">
+                    <i class="fas fa-sync"></i> Retry
+                </button>
+            </div>
+        `;
+    }
+}
+
+// Utility function for debouncing
+function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+        const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+    };
+}
+
+// Initialize the message board when the DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    window.messageBoard = new TreeMessageBoard();
+});
