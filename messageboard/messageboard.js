@@ -1,4 +1,3 @@
-// messageboard.js
 class TreeMessageBoard {
     constructor() {
         this.messages = [];
@@ -7,16 +6,9 @@ class TreeMessageBoard {
         this.isLoading = true;
         this.lastUpdateTime = 0;
         this.pollingInterval = 5000; // 5 seconds
-        this.pageSize = 10;         // Number of messages per page
-        this.currentPage = 1;
-        this.totalPages = 1;
         
-        // DOM elements
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
-        this.prevPageBtn = document.getElementById('prevPage');
-        this.nextPageBtn = document.getElementById('nextPage');
-        this.pageInfo = document.getElementById('pageInfo');
         
         this.setupEventListeners();
         this.initialize();
@@ -33,20 +25,23 @@ class TreeMessageBoard {
     }
 
     startPolling() {
+        // Clear any existing interval first
         if (this.pollingTimer) {
             clearInterval(this.pollingTimer);
         }
         
+        // Set up new polling interval
         this.pollingTimer = setInterval(async () => {
             await this.checkForNewMessages();
         }, this.pollingInterval);
 
+        // Add visibility change handling to pause/resume polling
         document.addEventListener('visibilitychange', () => {
             if (document.hidden) {
                 clearInterval(this.pollingTimer);
             } else {
                 this.startPolling();
-                this.checkForNewMessages();
+                this.checkForNewMessages(); // Immediate check when tab becomes visible
             }
         });
     }
@@ -60,12 +55,13 @@ class TreeMessageBoard {
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
             
             const response = await fetch(url, {
-                cache: 'no-store'
+                cache: 'no-store' // Ensure we're not getting cached responses
             });
 
             if (response.ok) {
                 const data = await response.json();
                 
+                // Check if there are any new or updated messages
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
@@ -78,6 +74,8 @@ class TreeMessageBoard {
                     this.lastUpdateTime = Date.now();
                     this.filterAndRenderMessages();
                     this.showNotification('New messages have arrived! 🌱');
+                } else {
+                    console.log(`[${new Date().toISOString()}] No new messages found`);
                 }
             }
         } catch (error) {
@@ -94,9 +92,10 @@ class TreeMessageBoard {
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
+            console.log('Fetching from:', url);
             
             const response = await fetch(url, {
-                cache: 'no-store'
+                cache: 'no-store' // Ensure we're not getting cached responses
             });
             
             if (!response.ok) {
@@ -104,6 +103,7 @@ class TreeMessageBoard {
             }
 
             const data = await response.json();
+            console.log('Received data:', data);
             
             this.messages = data;
             this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
@@ -122,7 +122,6 @@ class TreeMessageBoard {
     setupEventListeners() {
         if (this.searchInput) {
             this.searchInput.addEventListener('input', debounce(() => {
-                this.currentPage = 1; // Reset to first page on search
                 this.filterAndRenderMessages();
             }, 300));
         }
@@ -134,27 +133,9 @@ class TreeMessageBoard {
                 );
                 button.classList.add('active');
                 this.currentFilter = button.dataset.filter;
-                this.currentPage = 1; // Reset to first page on filter change
                 this.filterAndRenderMessages();
             });
         });
-
-        if (this.prevPageBtn) {
-            this.prevPageBtn.addEventListener('click', () => this.changePage(-1));
-        }
-
-        if (this.nextPageBtn) {
-            this.nextPageBtn.addEventListener('click', () => this.changePage(1));
-        }
-    }
-
-    changePage(delta) {
-        const newPage = this.currentPage + delta;
-        if (newPage >= 1 && newPage <= this.totalPages) {
-            this.currentPage = newPage;
-            this.filterAndRenderMessages(); // changed from .renderMessages()
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
     }
 
     filterAndRenderMessages() {
@@ -185,22 +166,7 @@ class TreeMessageBoard {
                 break;
         }
 
-        this.totalPages = Math.max(1, Math.ceil(this.filteredMessages.length / this.pageSize));
-        this.currentPage = Math.min(this.currentPage, this.totalPages); // Ensure current page is valid
-        this.updatePaginationControls();
         this.renderMessages();
-    }
-
-    updatePaginationControls() {
-        if (this.prevPageBtn) {
-            this.prevPageBtn.disabled = this.currentPage <= 1;
-        }
-        if (this.nextPageBtn) {
-            this.nextPageBtn.disabled = this.currentPage >= this.totalPages;
-        }
-        if (this.pageInfo) {
-            this.pageInfo.textContent = `Page ${this.currentPage} of ${this.totalPages}`;
-        }
     }
 
     renderMessages() {
@@ -216,17 +182,10 @@ class TreeMessageBoard {
             return;
         }
 
-        const start = (this.currentPage - 1) * this.pageSize;
-        const end = start + this.pageSize;
-        const pageMessages = this.filteredMessages.slice(start, end);
-
-        this.messageContainer.innerHTML = pageMessages.map(message => `
+        this.messageContainer.innerHTML = this.filteredMessages.map(message => `
             <div class="message-card" data-id="${this.escapeHtml(message.id)}">
                 <div class="message-header">
-                    <h3>
-                        ${this.escapeHtml(message.userName)}
-                        <span class="location-text">from ${this.escapeHtml(message.location)}</span>
-                    </h3>
+                    <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
                     <span class="message-date">${this.formatDate(message.timestamp)}</span>
                 </div>
                 <div class="message-rating">
@@ -243,9 +202,6 @@ class TreeMessageBoard {
                 </div>
             </div>
         `).join('');
-
-        // Update pagination controls after messages are rendered
-        this.updatePaginationControls();
     }
 
     formatDate(timestamp) {
@@ -314,7 +270,6 @@ class TreeMessageBoard {
     }
 }
 
-// Simple debounce utility to reduce frequent calls on input
 function debounce(func, wait) {
     let timeout;
     return function executedFunction(...args) {
