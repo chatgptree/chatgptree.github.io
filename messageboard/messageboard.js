@@ -1,3 +1,4 @@
+// messageboard.js
 class TreeMessageBoard {
     constructor() {
         this.messages = [];
@@ -6,7 +7,7 @@ class TreeMessageBoard {
         this.isLoading = true;
         this.lastUpdateTime = 0;
         this.pollingInterval = 5000; // 5 seconds
-        this.pageSize = 10; // Number of messages per page
+        this.pageSize = 10;         // Number of messages per page
         this.currentPage = 1;
         this.totalPages = 1;
         
@@ -151,7 +152,7 @@ class TreeMessageBoard {
         const newPage = this.currentPage + delta;
         if (newPage >= 1 && newPage <= this.totalPages) {
             this.currentPage = newPage;
-            this.filterAndRenderMessages(); // Changed from renderMessages()
+            this.filterAndRenderMessages(); // changed from .renderMessages()
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
     }
@@ -222,7 +223,10 @@ class TreeMessageBoard {
         this.messageContainer.innerHTML = pageMessages.map(message => `
             <div class="message-card" data-id="${this.escapeHtml(message.id)}">
                 <div class="message-header">
-                    <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
+                    <h3>
+                        ${this.escapeHtml(message.userName)}
+                        <span class="location-text">from ${this.escapeHtml(message.location)}</span>
+                    </h3>
                     <span class="message-date">${this.formatDate(message.timestamp)}</span>
                 </div>
                 <div class="message-rating">
@@ -240,7 +244,7 @@ class TreeMessageBoard {
             </div>
         `).join('');
 
-        // Update pagination controls after rendering
+        // Update pagination controls after messages are rendered
         this.updatePaginationControls();
     }
 
@@ -310,6 +314,7 @@ class TreeMessageBoard {
     }
 }
 
+// Simple debounce utility to reduce frequent calls on input
 function debounce(func, wait) {
     let timeout;
     return function executedFunction(...args) {
