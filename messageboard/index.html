@@ -24,25 +24,23 @@
 
     <main class="container message-board-container">
         <div class="search-section">
-            <div class="search-box">
-                <i class="fas fa-search search-icon"></i>
-                <input 
-                    type="text" 
-                    id="searchInput" 
-                    placeholder="Search messages by tree name or visitor..."
-                    aria-label="Search messages"
-                >
-            </div>
+<div class="search-box">
+    <i class="fas fa-search search-icon"></i>
+    <input 
+        type="text" 
+        id="searchInput" 
+        placeholder="Search messages by tree name or visitor..."
+        aria-label="Search messages"
+    >
+</div>
             <div class="search-filters">
                 <button class="filter-btn active" data-filter="all">All Messages</button>
                 <button class="filter-btn" data-filter="recent">Recent</button>
                 <button class="filter-btn" data-filter="popular">Most Liked</button>
             </div>
         </div>
-        
-        <a href="/" class="back-button back-button-top">
-            <i class="fas fa-arrow-left"></i> Back to Home
-        </a>
+        <i class="fas fa-arrow-left"></i> Back to Home
+    </a>
         
         <div id="messageContainer" class="message-container">
             <!-- Messages will be dynamically inserted here -->
@@ -50,17 +48,6 @@
                 <i class="fas fa-leaf fa-spin"></i>
                 <p>Loading messages...</p>
             </div>
-        </div>
-
-        <!-- Pagination Controls -->
-        <div class="pagination-controls">
-            <button id="prevPage" class="page-btn">
-                <i class="fas fa-chevron-left"></i> Previous
-            </button>
-            <span id="pageInfo">Page 1</span>
-            <button id="nextPage" class="page-btn">
-                <i class="fas fa-chevron-right"></i> Next
-            </button>
         </div>
 
         <a href="/" class="back-button">
