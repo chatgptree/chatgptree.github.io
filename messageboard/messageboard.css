@@ -228,6 +228,41 @@ header {
     animation: slideIn 0.3s ease-out;
 }
 
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.page-btn {
+    padding: 8px 16px;
+    border: 2px solid #2E4032;
+    border-radius: 20px;
+    background-color: white;
+    color: #2E4032;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 600;
+}
+
+.page-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.page-btn:hover:not(:disabled) {
+    background-color: #2E4032;
+    color: white;
+}
+
+#pageInfo {
+    font-family: 'Catamaran', sans-serif;
+    color: #2E4032;
+}
+
 @keyframes slideIn {
     from {
         transform: translate(-50%, 100%);
