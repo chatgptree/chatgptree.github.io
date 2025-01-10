@@ -371,4 +371,4 @@ class TreeMessageBoard {
         notification.className = 'notification';
         notification.innerHTML = `
             <i class="fas fa-leaf"></i>
-            ${messag
+            ${message}`;
