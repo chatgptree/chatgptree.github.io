@@ -9,7 +9,7 @@
 
 header {
     background-color: #2E4032;
-    background-image: url('/images/grapevine_header.jpg');
+    background-image: url('../images/grapevine_header.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
