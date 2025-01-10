@@ -151,7 +151,7 @@ class TreeMessageBoard {
         const newPage = this.currentPage + delta;
         if (newPage >= 1 && newPage <= this.totalPages) {
             this.currentPage = newPage;
-            this.renderMessages();
+            this.filterAndRenderMessages(); // Changed from renderMessages()
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
     }
@@ -184,17 +184,18 @@ class TreeMessageBoard {
                 break;
         }
 
-        this.totalPages = Math.ceil(this.filteredMessages.length / this.pageSize);
+        this.totalPages = Math.max(1, Math.ceil(this.filteredMessages.length / this.pageSize));
+        this.currentPage = Math.min(this.currentPage, this.totalPages); // Ensure current page is valid
         this.updatePaginationControls();
         this.renderMessages();
     }
 
     updatePaginationControls() {
         if (this.prevPageBtn) {
-            this.prevPageBtn.disabled = this.currentPage === 1;
+            this.prevPageBtn.disabled = this.currentPage <= 1;
         }
         if (this.nextPageBtn) {
-            this.nextPageBtn.disabled = this.currentPage === this.totalPages;
+            this.nextPageBtn.disabled = this.currentPage >= this.totalPages;
         }
         if (this.pageInfo) {
             this.pageInfo.textContent = `Page ${this.currentPage} of ${this.totalPages}`;
@@ -238,6 +239,9 @@ class TreeMessageBoard {
                 </div>
             </div>
         `).join('');
+
+        // Update pagination controls after rendering
+        this.updatePaginationControls();
     }
 
     formatDate(timestamp) {
