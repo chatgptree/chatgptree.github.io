@@ -6,12 +6,54 @@ class TreeMessageBoard {
         this.isLoading = true;
         this.lastUpdateTime = 0;
         this.pollingInterval = 5000; // 5 seconds
+        this.pageSize = 20;
+        this.currentPage = 1;
+        this.totalPages = 1;
+        this.isIntersectionObserverSupported = 'IntersectionObserver' in window;
         
+        // DOM elements
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
+        this.prevPageBtn = document.getElementById('prevPage');
+        this.nextPageBtn = document.getElementById('nextPage');
+        this.pageInfo = document.getElementById('pageInfo');
+        
+        // Initialize intersection observer
+        if (this.isIntersectionObserverSupported) {
+            this.setupIntersectionObserver();
+        }
         
         this.setupEventListeners();
         this.initialize();
+    }
+
+    setupIntersectionObserver() {
+        this.observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting && !this.isLoading) {
+                    const messageId = entry.target.dataset.id;
+                    if (messageId) {
+                        this.loadMessageContent(entry.target, messageId);
+                    }
+                }
+            });
+        }, {
+            root: null,
+            rootMargin: '50px',
+            threshold: 0.1
+        });
+
+        // Observer for infinite scroll
+        this.scrollObserver = new IntersectionObserver((entries) => {
+            if (entries[0].isIntersecting && !this.isLoading) {
+                this.loadNextPage();
+            }
+        });
+        
+        const scrollObserverElement = document.getElementById('scrollObserver');
+        if (scrollObserverElement) {
+            this.scrollObserver.observe(scrollObserverElement);
+        }
     }
 
     async initialize() {
@@ -25,23 +67,20 @@ class TreeMessageBoard {
     }
 
     startPolling() {
-        // Clear any existing interval first
         if (this.pollingTimer) {
             clearInterval(this.pollingTimer);
         }
         
-        // Set up new polling interval
         this.pollingTimer = setInterval(async () => {
             await this.checkForNewMessages();
         }, this.pollingInterval);
 
-        // Add visibility change handling to pause/resume polling
         document.addEventListener('visibilitychange', () => {
             if (document.hidden) {
                 clearInterval(this.pollingTimer);
             } else {
                 this.startPolling();
-                this.checkForNewMessages(); // Immediate check when tab becomes visible
+                this.checkForNewMessages();
             }
         });
     }
@@ -52,16 +91,17 @@ class TreeMessageBoard {
             const year = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
-            const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
+            const url = `https://api.github.com/repos/chatgptree/chatgptree.github.io/contents/messages/${year}/${currentMonth}.json`;
             
             const response = await fetch(url, {
-                cache: 'no-store' // Ensure we're not getting cached responses
+                headers: {
+                    'Accept': 'application/vnd.github.v3.raw'
+                }
             });
 
             if (response.ok) {
                 const data = await response.json();
                 
-                // Check if there are any new or updated messages
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
@@ -74,8 +114,6 @@ class TreeMessageBoard {
                     this.lastUpdateTime = Date.now();
                     this.filterAndRenderMessages();
                     this.showNotification('New messages have arrived! 🌱');
-                } else {
-                    console.log(`[${new Date().toISOString()}] No new messages found`);
                 }
             }
         } catch (error) {
@@ -91,21 +129,13 @@ class TreeMessageBoard {
             const year = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
             
-            const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
-            console.log('Fetching from:', url);
-            
-            const response = await fetch(url, {
-                cache: 'no-store' // Ensure we're not getting cached responses
-            });
-            
-            if (!response.ok) {
-                throw new Error(`Failed to fetch messages: ${response.status}`);
-            }
+            // Load current and previous month data
+            const [currentMonthData, previousMonthData] = await Promise.all([
+                this.fetchMonthData(year, currentMonth),
+                this.fetchPreviousMonthData(year, currentMonth)
+            ]);
 
-            const data = await response.json();
-            console.log('Received data:', data);
-            
-            this.messages = data;
+            this.messages = [...currentMonthData, ...previousMonthData];
             this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
             this.lastUpdateTime = Date.now();
             
@@ -119,9 +149,34 @@ class TreeMessageBoard {
         }
     }
 
+    async fetchMonthData(year, month) {
+        const url = `https://api.github.com/repos/chatgptree/chatgptree.github.io/contents/messages/${year}/${month}.json`;
+        try {
+            const response = await fetch(url, {
+                headers: {
+                    'Accept': 'application/vnd.github.v3.raw'
+                }
+            });
+            return response.ok ? await response.json() : [];
+        } catch (error) {
+            console.error(`Error fetching ${month} data:`, error);
+            return [];
+        }
+    }
+
+    async fetchPreviousMonthData(year, currentMonth) {
+        const date = new Date();
+        date.setMonth(date.getMonth() - 1);
+        const previousMonth = date.toLocaleString('default', { month: 'long' }).toLowerCase();
+        const previousYear = date.getFullYear();
+        
+        return this.fetchMonthData(previousYear, previousMonth);
+    }
+
     setupEventListeners() {
         if (this.searchInput) {
             this.searchInput.addEventListener('input', debounce(() => {
+                this.currentPage = 1;
                 this.filterAndRenderMessages();
             }, 300));
         }
@@ -133,26 +188,39 @@ class TreeMessageBoard {
                 );
                 button.classList.add('active');
                 this.currentFilter = button.dataset.filter;
+                this.currentPage = 1;
                 this.filterAndRenderMessages();
             });
         });
+
+        if (this.prevPageBtn) {
+            this.prevPageBtn.addEventListener('click', () => this.changePage(-1));
+        }
+
+        if (this.nextPageBtn) {
+            this.nextPageBtn.addEventListener('click', () => this.changePage(1));
+        }
+    }
+
+    changePage(delta) {
+        const newPage = this.currentPage + delta;
+        if (newPage >= 1 && newPage <= this.totalPages) {
+            this.currentPage = newPage;
+            this.filterAndRenderMessages();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
     }
 
     filterAndRenderMessages() {
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
+        const searchWords = new Set(searchTerm.split(' ').filter(word => word.length > 0));
         
-        this.filteredMessages = [...this.messages];
-
-        if (searchTerm) {
-            this.filteredMessages = this.filteredMessages.filter(message => {
-                return (
-                    message.userName?.toLowerCase().includes(searchTerm) ||
-                    message.message?.toLowerCase().includes(searchTerm) ||
-                    message.location?.toLowerCase().includes(searchTerm) ||
-                    message.treeName?.toLowerCase().includes(searchTerm)
-                );
-            });
-        }
+        this.filteredMessages = this.messages.filter(message => {
+            if (searchWords.size === 0) return true;
+            
+            const messageText = `${message.userName} ${message.message} ${message.location} ${message.treeName}`.toLowerCase();
+            return Array.from(searchWords).every(word => messageText.includes(word));
+        });
 
         switch (this.currentFilter) {
             case 'recent':
@@ -166,7 +234,21 @@ class TreeMessageBoard {
                 break;
         }
 
+        this.totalPages = Math.ceil(this.filteredMessages.length / this.pageSize);
+        this.updatePaginationControls();
         this.renderMessages();
+    }
+
+    updatePaginationControls() {
+        if (this.prevPageBtn) {
+            this.prevPageBtn.disabled = this.currentPage === 1;
+        }
+        if (this.nextPageBtn) {
+            this.nextPageBtn.disabled = this.currentPage === this.totalPages;
+        }
+        if (this.pageInfo) {
+            this.pageInfo.textContent = `Page ${this.currentPage} of ${this.totalPages}`;
+        }
     }
 
     renderMessages() {
@@ -182,7 +264,42 @@ class TreeMessageBoard {
             return;
         }
 
-        this.messageContainer.innerHTML = this.filteredMessages.map(message => `
+        const start = (this.currentPage - 1) * this.pageSize;
+        const end = start + this.pageSize;
+        const pageMessages = this.filteredMessages.slice(start, end);
+
+        if (this.isIntersectionObserverSupported) {
+            this.renderWithVirtualization(pageMessages);
+        } else {
+            this.renderTraditional(pageMessages);
+        }
+    }
+
+    renderWithVirtualization(messages) {
+        this.messageContainer.innerHTML = messages.map(message => `
+            <div class="message-placeholder" data-id="${this.escapeHtml(message.id)}"></div>
+        `).join('');
+
+        document.querySelectorAll('.message-placeholder').forEach(placeholder => {
+            this.observer.observe(placeholder);
+        });
+    }
+
+    renderTraditional(messages) {
+        this.messageContainer.innerHTML = messages.map(message => this.createMessageHTML(message)).join('');
+    }
+
+    async loadMessageContent(placeholder, messageId) {
+        const message = this.filteredMessages.find(m => m.id === messageId);
+        if (message) {
+            placeholder.innerHTML = this.createMessageHTML(message);
+            placeholder.classList.remove('message-placeholder');
+            this.observer.unobserve(placeholder);
+        }
+    }
+
+    createMessageHTML(message) {
+        return `
             <div class="message-card" data-id="${this.escapeHtml(message.id)}">
                 <div class="message-header">
                     <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
@@ -201,7 +318,14 @@ class TreeMessageBoard {
                     </div>
                 </div>
             </div>
-        `).join('');
+        `;
+    }
+
+    async loadNextPage() {
+        if (this.currentPage < this.totalPages) {
+            this.currentPage++;
+            this.filterAndRenderMessages();
+        }
     }
 
     formatDate(timestamp) {
@@ -247,41 +371,4 @@ class TreeMessageBoard {
         notification.className = 'notification';
         notification.innerHTML = `
             <i class="fas fa-leaf"></i>
-            ${message}
-        `;
-        document.body.appendChild(notification);
-        setTimeout(() => {
-            notification.style.opacity = '0';
-            setTimeout(() => notification.remove(), 300);
-        }, 2700);
-    }
-
-    showError(message) {
-        this.isLoading = false;
-        this.messageContainer.innerHTML = `
-            <div class="error-message">
-                <i class="fas fa-exclamation-circle"></i>
-                <p>${message}</p>
-                <button onclick="window.messageBoard.loadMessages()" class="retry-button">
-                    <i class="fas fa-sync"></i> Retry
-                </button>
-            </div>
-        `;
-    }
-}
-
-function debounce(func, wait) {
-    let timeout;
-    return function executedFunction(...args) {
-        const later = () => {
-            clearTimeout(timeout);
-            func(...args);
-        };
-        clearTimeout(timeout);
-        timeout = setTimeout(later, wait);
-    };
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-    window.messageBoard = new TreeMessageBoard();
-});
+            ${messag
