@@ -271,16 +271,28 @@ class TreeMessageBoard {
         const date = new Date(timestamp);
         const now = new Date();
         const diff = now - date;
+        const minutes = Math.floor(diff / (60 * 1000));
+        const hours = Math.floor(diff / (3600 * 1000));
+        const days = Math.floor(diff / (86400 * 1000));
         
-        if (diff < 24 * 60 * 60 * 1000) {
-            const hours = Math.floor(diff / (60 * 60 * 1000));
-            if (hours < 1) {
-                const minutes = Math.floor(diff / (60 * 1000));
-                return `${minutes} minutes ago`;
-            }
-            return `${hours} hours ago`;
+        // Less than a minute
+        if (minutes < 1) {
+            return 'Just now';
+        }
+        // Less than an hour
+        if (minutes < 60) {
+            return `${minutes} ${minutes === 1 ? 'minute' : 'minutes'} ago`;
+        }
+        // Less than a day
+        if (hours < 24) {
+            return `${hours} ${hours === 1 ? 'hour' : 'hours'} ago`;
+        }
+        // Less than 7 days
+        if (days < 7) {
+            return `${days} ${days === 1 ? 'day' : 'days'} ago`;
         }
         
+        // More than 7 days - show full date
         return date.toLocaleDateString('en-AU', {
             year: 'numeric',
             month: 'long',
