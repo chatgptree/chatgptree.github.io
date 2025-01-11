@@ -5,20 +5,14 @@ class TreeMessageBoard {
         this.lastMessageTimestamp = null;
         this.hasMoreMessages = true;
         
-        // Message and filtering properties
+        // Existing properties
         this.messages = [];
         this.filteredMessages = [];
         this.currentFilter = 'all';
         this.isLoading = true;
         this.lastUpdateTime = 0;
-        
-        // Polling properties
-        this.pollingTimer = null;
         this.pollingInterval = 5000; // 5 seconds
-        this.maxRetries = 3;
-        this.retryCount = 0;
         
-        // DOM elements
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
         
@@ -38,48 +32,24 @@ class TreeMessageBoard {
 
     startPolling() {
         // Clear any existing interval first
-        this.stopPolling();
-        
-        // Set up new polling interval
-        this.pollingTimer = setInterval(() => {
-            this.checkForNewMessages().catch(error => {
-                console.error('Polling error:', error);
-                this.retryCount++;
-                
-                if (this.retryCount >= this.maxRetries) {
-                    console.log('Max retries reached, stopping polling');
-                    this.stopPolling();
-                    // Restart polling after 1 minute
-                    setTimeout(() => {
-                        console.log('Restarting polling');
-                        this.retryCount = 0;
-                        this.startPolling();
-                    }, 60000);
-                }
-            });
-        }, this.pollingInterval);
-
-        // Add visibility change handling
-        document.addEventListener('visibilitychange', this.handleVisibilityChange.bind(this));
-    }
-
-    stopPolling() {
         if (this.pollingTimer) {
             clearInterval(this.pollingTimer);
-            this.pollingTimer = null;
         }
-    }
+        
+        // Set up new polling interval
+        this.pollingTimer = setInterval(async () => {
+            await this.checkForNewMessages();
+        }, this.pollingInterval);
 
-    handleVisibilityChange() {
-        if (document.hidden) {
-            console.log('Page hidden, stopping polling');
-            this.stopPolling();
-        } else {
-            console.log('Page visible, restarting polling');
-            this.retryCount = 0;
-            this.startPolling();
-            this.checkForNewMessages(); // Immediate check when tab becomes visible
-        }
+        // Add visibility change handling to pause/resume polling
+        document.addEventListener('visibilitychange', () => {
+            if (document.hidden) {
+                clearInterval(this.pollingTimer);
+            } else {
+                this.startPolling();
+                this.checkForNewMessages(); // Immediate check when tab becomes visible
+            }
+        });
     }
 
     async checkForNewMessages() {
@@ -91,42 +61,35 @@ class TreeMessageBoard {
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
             
             const response = await fetch(url, {
-                cache: 'no-store',
-                headers: {
-                    'Cache-Control': 'no-cache',
-                    'Pragma': 'no-cache'
-                }
+                cache: 'no-store'
             });
 
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-
-            const data = await response.json();
-            
-            // Reset retry count on successful fetch
-            this.retryCount = 0;
-            
-            // Check for new messages
-            const hasNewMessages = data.some(message => {
-                const messageTime = new Date(message.timestamp).getTime();
-                return messageTime > this.lastUpdateTime;
-            });
-
-            if (hasNewMessages) {
-                console.log(`[${new Date().toISOString()}] New messages found, updating...`);
-                const newMessages = data.filter(message => {
+            if (response.ok) {
+                const data = await response.json();
+                
+                // Check if there are any new messages
+                const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
                 });
-                this.messages = [...newMessages, ...this.messages];
-                this.lastUpdateTime = Date.now();
-                this.filterAndRenderMessages();
-                this.showNotification('New messages have arrived! 🌱');
+
+                if (hasNewMessages) {
+                    console.log(`[${new Date().toISOString()}] New messages found, updating...`);
+                    // Prepend new messages to the beginning
+                    const newMessages = data.filter(message => {
+                        const messageTime = new Date(message.timestamp).getTime();
+                        return messageTime > this.lastUpdateTime;
+                    });
+                    this.messages = [...newMessages, ...this.messages];
+                    this.lastUpdateTime = Date.now();
+                    this.filterAndRenderMessages();
+                    this.showNotification('New messages have arrived! 🌱');
+                } else {
+                    console.log(`[${new Date().toISOString()}] No new messages found`);
+                }
             }
         } catch (error) {
             console.error('Error checking for new messages:', error);
-            throw error; // Rethrow to trigger retry logic
         }
     }
 
@@ -144,11 +107,7 @@ class TreeMessageBoard {
             console.log('Fetching from:', url);
             
             const response = await fetch(url, {
-                cache: 'no-store',
-                headers: {
-                    'Cache-Control': 'no-cache',
-                    'Pragma': 'no-cache'
-                }
+                cache: 'no-store'
             });
             
             if (!response.ok) {
@@ -189,7 +148,7 @@ class TreeMessageBoard {
         } catch (error) {
             console.error('Error in loadMessages:', error);
             this.isLoading = false;
-            this.showError('Unable to load messages. Please try again in a moment.');
+            this.showError('Unable to load messages. Please try again later.');
         }
     }
 
@@ -202,9 +161,6 @@ class TreeMessageBoard {
 
         document.querySelectorAll('.filter-btn').forEach(button => {
             button.addEventListener('click', () => {
-                // Skip if it's the home button
-                if (button.classList.contains('home-btn')) return;
-                
                 document.querySelectorAll('.filter-btn').forEach(btn => 
                     btn.classList.remove('active')
                 );
@@ -272,6 +228,8 @@ class TreeMessageBoard {
     }
 
     renderMessages() {
+        if (this.isLoading && !this.messages.length) return;
+
         if (!this.filteredMessages?.length) {
             this.messageContainer.innerHTML = `
                 <div class="no-messages">
@@ -371,17 +329,24 @@ class TreeMessageBoard {
     }
 
     showNotification(message) {
+        // Remove any existing notifications first
+        const existingNotifications = document.querySelectorAll('.notification');
+        existingNotifications.forEach(notification => notification.remove());
+
         const notification = document.createElement('div');
         notification.className = 'notification';
+        notification.setAttribute('role', 'alert'); // For accessibility
         notification.innerHTML = `
             <i class="fas fa-leaf"></i>
             ${message}
         `;
         document.body.appendChild(notification);
+
+        // Ensure the notification is visible for at least 3 seconds
         setTimeout(() => {
             notification.style.opacity = '0';
             setTimeout(() => notification.remove(), 300);
-        }, 2700);
+        }, 3000);
     }
 
     showError(message) {
@@ -391,15 +356,10 @@ class TreeMessageBoard {
                 <i class="fas fa-exclamation-circle"></i>
                 <p>${message}</p>
                 <button onclick="window.messageBoard.loadMessages()" class="retry-button">
-                    <i class="fas fa-sync"></i> Try Again
+                    <i class="fas fa-sync"></i> Retry
                 </button>
             </div>
         `;
-    }
-
-    destroy() {
-        this.stopPolling();
-        document.removeEventListener('visibilitychange', this.handleVisibilityChange.bind(this));
     }
 }
 
@@ -416,9 +376,5 @@ function debounce(func, wait) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Clean up any existing instance
-    if (window.messageBoard) {
-        window.messageBoard.destroy();
-    }
     window.messageBoard = new TreeMessageBoard();
 });
