@@ -4,6 +4,7 @@ class TreeMessageBoard {
         this.pageSize = 20;
         this.lastMessageTimestamp = null;
         this.hasMoreMessages = true;
+        this.notificationCooldown = false;
         
         // Existing properties
         this.messages = [];
@@ -329,24 +330,35 @@ class TreeMessageBoard {
     }
 
     showNotification(message) {
+        // Check if notification is in cooldown
+        if (this.notificationCooldown) return;
+
+        // Set cooldown flag
+        this.notificationCooldown = true;
+
         // Remove any existing notifications first
         const existingNotifications = document.querySelectorAll('.notification');
         existingNotifications.forEach(notification => notification.remove());
 
         const notification = document.createElement('div');
         notification.className = 'notification';
-        notification.setAttribute('role', 'alert'); // For accessibility
+        notification.setAttribute('role', 'alert');
         notification.innerHTML = `
             <i class="fas fa-leaf"></i>
             ${message}
         `;
         document.body.appendChild(notification);
 
-        // Ensure the notification is visible for at least 3 seconds
+        // Remove notification after 3 seconds
         setTimeout(() => {
             notification.style.opacity = '0';
             setTimeout(() => notification.remove(), 300);
         }, 3000);
+
+        // Reset cooldown after 1 minute
+        setTimeout(() => {
+            this.notificationCooldown = false;
+        }, 60000);
     }
 
     showError(message) {
