@@ -7,7 +7,51 @@
     "location": "Footscray",
     "treeName": "Elmary P",
     "treeCode": "elmary",
-    "treeLocation": "Yarraville Village, cnr Canterbury St and Yarraville Train Staion, Melbourne",
+    "treeLocation": "Yarraville Village, cnr Canterbury St and Yarraville Train Station, Melbourne",
     "timestamp": "2025-01-11T11:16:58.907Z"
+  },
+  {
+    "id": "msg_1736594228908",
+    "message": "Such a great idea for the community!",
+    "rating": 4,
+    "userName": "Samantha",
+    "location": "Coburg",
+    "treeName": "Maple Dreams",
+    "treeCode": "mapledreams",
+    "treeLocation": "Merri Creek Trail, near Harding St, Melbourne",
+    "timestamp": "2025-01-11T12:05:32.908Z"
+  },
+  {
+    "id": "msg_1736594238909",
+    "message": "I visit this tree every week. It’s beautiful.",
+    "rating": 5,
+    "userName": "Alex",
+    "location": "Brunswick",
+    "treeName": "Golden Spruce",
+    "treeCode": "goldenspruce",
+    "treeLocation": "Royal Park, near Gatehouse St, Melbourne",
+    "timestamp": "2025-01-11T13:45:21.909Z"
+  },
+  {
+    "id": "msg_1736594248910",
+    "message": "This app really connects me to nature!",
+    "rating": 5,
+    "userName": "Priya",
+    "location": "Richmond",
+    "treeName": "Eucalypt Haven",
+    "treeCode": "eucalypt",
+    "treeLocation": "Burnley Gardens, near Yarra River, Melbourne",
+    "timestamp": "2025-01-11T14:22:18.910Z"
+  },
+  {
+    "id": "msg_1736594258911",
+    "message": "Love seeing these trees flourish.",
+    "rating": 4,
+    "userName": "Jordan",
+    "location": "St Kilda",
+    "treeName": "Willow Whisper",
+    "treeCode": "willowwhisper",
+    "treeLocation": "Albert Park Lake, near Fitzroy St, Melbourne",
+    "timestamp": "2025-01-11T15:00:45.911Z"
   }
 ]
