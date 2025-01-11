@@ -82,7 +82,14 @@ class TreeMessageBoard {
                         return messageTime > this.lastUpdateTime;
                     });
                     this.messages = [...newMessages, ...this.messages];
-                    this.lastUpdateTime = Date.now();
+                    // Update lastUpdateTime to latest message timestamp
+                    if (newMessages.length > 0) {
+                        const latestMessage = newMessages.reduce((latest, msg) => {
+                            const msgTime = new Date(msg.timestamp).getTime();
+                            return msgTime > latest ? msgTime : latest;
+                        }, 0);
+                        this.lastUpdateTime = latestMessage;
+                    }
                     this.filterAndRenderMessages();
                     this.showNotification('New messages have arrived! 🌱');
                 } else {
@@ -135,7 +142,14 @@ class TreeMessageBoard {
                 // Append new messages to existing ones
                 this.messages = [...this.messages, ...newMessages];
                 this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-                this.lastUpdateTime = Date.now();
+                // Update lastUpdateTime to latest message timestamp
+                if (this.messages.length > 0) {
+                    const latestMessage = this.messages.reduce((latest, msg) => {
+                        const msgTime = new Date(msg.timestamp).getTime();
+                        return msgTime > latest ? msgTime : latest;
+                    }, 0);
+                    this.lastUpdateTime = latestMessage;
+                }
             }
             
             this.isLoading = false;
