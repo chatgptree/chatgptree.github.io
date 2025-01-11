@@ -22,6 +22,19 @@ header {
     width: 100%;
 }
 
+.home-btn {
+    text-decoration: none;  /* Remove underline from link */
+    display: inline-flex;   /* For better icon alignment */
+    align-items: center;    /* Center icon vertically */
+    gap: 8px;              /* Space between icon and text */
+}
+
+.home-btn:hover {
+    background-color: #2E4032;
+    color: white;
+    transform: translateY(-2px);
+}
+
 /* Back button styling */
 .back-button {
     display: inline-flex;
