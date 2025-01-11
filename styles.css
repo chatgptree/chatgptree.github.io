@@ -238,3 +238,29 @@ footer {
         font-size: 3rem;
     }
 }
+
+.cta-button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin-top: 1em;
+    margin-right: 0.5em;
+}
+
+.messageboard-button {
+    margin-left: 0.5em;
+}
+
+/* Make buttons stack nicely on mobile */
+@media (max-width: 768px) {
+    .cta-button {
+        display: block;
+        margin: 1em auto;
+        width: fit-content;
+    }
+}
