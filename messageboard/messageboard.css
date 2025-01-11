@@ -5,6 +5,9 @@
     padding: 20px;
     width: 100%;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 header {
@@ -15,11 +18,13 @@ header {
     color: #fff;
     text-align: center;
     padding: 2rem 0;
+    width: 100%;
 }
 
 .search-section {
     margin-bottom: 30px;
     width: 100%;
+    max-width: 600px;
 }
 
 /* Back button styling */
@@ -85,7 +90,9 @@ header {
     gap: 12px;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 20px 0;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 600px;
 }
 
 .filter-btn {
@@ -128,6 +135,12 @@ header {
     color: white;
 }
 
+/* Message container */
+.message-container {
+    width: 100%;
+    max-width: 600px;
+}
+
 /* Message card styles */
 .message-card {
     background-color: white;
@@ -137,7 +150,7 @@ header {
     transition: transform 0.3s ease;
     width: 100%;
     box-sizing: border-box;
-    margin-bottom: 20px;
+    margin: 0 auto 20px auto;
 }
 
 .message-header {
@@ -202,7 +215,7 @@ header {
     color: #2E4032;
     width: 100%;
     box-sizing: border-box;
-    margin-top: 20px;
+    margin: 20px auto;
 }
 
 .loading-spinner i {
@@ -222,6 +235,7 @@ header {
     color: #2E4032;
     width: 100%;
     box-sizing: border-box;
+    margin: 20px auto;
 }
 
 .no-messages i {
@@ -237,6 +251,8 @@ header {
     background-color: #f8d7da;
     border-radius: 8px;
     margin: 20px 0;
+    width: 100%;
+    max-width: 600px;
 }
 
 .error-message i {
@@ -291,6 +307,7 @@ header {
     text-align: center;
     max-width: 90%;
     width: auto;
+    margin: 0 auto;
     animation: slideInFromTop 0.3s ease-out;
     font-size: 16px;
 }
@@ -310,6 +327,11 @@ header {
 @media (max-width: 768px) {
     .message-board-container {
         padding: 15px;
+    }
+
+    .search-section,
+    .message-container {
+        width: 100%;
     }
 
     .search-box input {
@@ -359,17 +381,17 @@ header {
     }
 
     .notification {
-        top: 10px;
+        width: calc(100% - 20px);
         left: 10px;
         right: 10px;
         transform: none;
-        width: auto;
         font-size: 0.9em;
         padding: 10px 15px;
     }
 
     .search-filters {
         gap: 8px;
+        padding: 0 5px;
     }
 
     .filter-btn {
