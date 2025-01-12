@@ -25,7 +25,7 @@ class ModeratedTreeMessageBoard {
     }
 
     initializeContentFilter() {
-        this.filter = LeoProfanity;
+        this.filter = new Filter();
         
         // Load all supported languages except French
         const languages = ['en', 'es', 'zh', 'ja', 'ko', 'de', 'ru', 'ar', 'hi', 'it'];
