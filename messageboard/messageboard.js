@@ -5,7 +5,7 @@ class ModeratedTreeMessageBoard {
         this.lastMessageTimestamp = null;
         this.hasMoreMessages = true;
         this.notificationCooldown = false;
-        
+
         // Existing properties
         this.messages = [];
         this.filteredMessages = [];
@@ -13,30 +13,70 @@ class ModeratedTreeMessageBoard {
         this.isLoading = true;
         this.lastUpdateTime = 0;
         this.pollingInterval = 5000; // 5 seconds
-        
+
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
-        
+
         // Initialize profanity filter with multiple languages
         this.initializeContentFilter();
-        
+
         this.setupEventListeners();
         this.initialize();
     }
 
     initializeContentFilter() {
-        this.filter = new Filter();
-        
-        // Load all supported languages except French
-        const languages = ['en', 'es', 'zh', 'ja', 'ko', 'de', 'ru', 'ar', 'hi', 'it'];
-        languages.forEach(lang => {
-            this.filter.loadDictionary(lang);
-        });
+        try {
+            // Use the global LeoProfanity if available
+            if (window.LeoProfanity) {
+                this.filter = window.LeoProfanity;
 
-        // Add any custom words that should be filtered
-        this.filter.add([
-            // Add your custom words here
-        ]);
+                // Load all supported dictionaries
+                const languages = ['en', 'es', 'zh', 'ja', 'ko', 'de', 'ru', 'ar', 'hi', 'it'];
+                languages.forEach(lang => {
+                    try {
+                        this.filter.loadDictionary(lang);
+                    } catch (e) {
+                        console.warn(`Failed to load dictionary for "${lang}"`, e);
+                    }
+                });
+
+                // Add any custom words that should be filtered
+                this.filter.add([
+                    // Add your custom words here
+                ]);
+            } else {
+                // If library not found, fallback to a simple filter
+                console.warn('LeoProfanity not found. Using fallback filter.');
+                this.setupFallbackFilter();
+            }
+        } catch (error) {
+            console.error('Error initializing content filter:', error);
+            this.setupFallbackFilter();
+        }
+    }
+
+    setupFallbackFilter() {
+        // Very simplistic fallback filter
+        this.filter = {
+            badWords: new Set([
+                // Add default bad words here
+            ]),
+            clean(text) {
+                if (!text) return '';
+                let cleanText = text;
+                this.badWords.forEach(word => {
+                    const regex = new RegExp(word, 'gi');
+                    cleanText = cleanText.replace(regex, '*'.repeat(word.length));
+                });
+                return cleanText;
+            },
+            add(words) {
+                words.forEach(word => this.badWords.add(word.toLowerCase()));
+            },
+            loadDictionary() {
+                return true;
+            }
+        };
     }
 
     async initialize() {
@@ -53,7 +93,7 @@ class ModeratedTreeMessageBoard {
         if (this.pollingTimer) {
             clearInterval(this.pollingTimer);
         }
-        
+
         this.pollingTimer = setInterval(async () => {
             await this.checkForNewMessages();
         }, this.pollingInterval);
@@ -73,16 +113,16 @@ class ModeratedTreeMessageBoard {
             const now = new Date();
             const year = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            
+
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
-            
+
             const response = await fetch(url, {
                 cache: 'no-store'
             });
 
             if (response.ok) {
                 const data = await response.json();
-                
+
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
@@ -122,31 +162,31 @@ class ModeratedTreeMessageBoard {
     async loadMessages() {
         try {
             if (!this.hasMoreMessages || this.isLoading) return;
-            
+
             this.showLoadingSpinner();
-            
+
             const now = new Date();
             const year = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-            
+
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
-            
+
             const response = await fetch(url, {
                 cache: 'no-store'
             });
-            
+
             if (!response.ok) {
                 throw new Error(`Failed to fetch messages: ${response.status}`);
             }
 
             const data = await response.json();
-            
-            let filteredData = this.lastMessageTimestamp 
+
+            let filteredData = this.lastMessageTimestamp
                 ? data.filter(msg => new Date(msg.timestamp) < new Date(this.lastMessageTimestamp))
                 : data;
-            
+
             const newMessages = filteredData.slice(0, this.pageSize);
-            
+
             this.hasMoreMessages = filteredData.length > this.pageSize;
 
             for (const message of newMessages) {
@@ -158,11 +198,12 @@ class ModeratedTreeMessageBoard {
                     this.messages.push(message);
                 }
             }
-            
+
             if (newMessages.length > 0) {
                 this.lastMessageTimestamp = newMessages[newMessages.length - 1].timestamp;
+                // Sort descending by timestamp
                 this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-                
+
                 if (this.messages.length > 0) {
                     const latestMessage = this.messages.reduce((latest, msg) => {
                         const msgTime = new Date(msg.timestamp).getTime();
@@ -171,14 +212,14 @@ class ModeratedTreeMessageBoard {
                     this.lastUpdateTime = latestMessage;
                 }
             }
-            
+
             this.isLoading = false;
             this.filterAndRenderMessages();
-            
+
             if (this.hasMoreMessages) {
                 this.setupInfiniteScroll();
             }
-            
+
         } catch (error) {
             console.error('Error in loadMessages:', error);
             this.isLoading = false;
@@ -230,8 +271,8 @@ class ModeratedTreeMessageBoard {
     }
 
     validateMessage(message) {
-        return message?.message?.length > 0 && 
-               message?.userName?.length > 0 && 
+        return message?.message?.length > 0 &&
+               message?.userName?.length > 0 &&
                message?.location?.length > 0;
     }
 
@@ -240,12 +281,15 @@ class ModeratedTreeMessageBoard {
     }
 
     isExtremeSpam(text) {
+        // Check repeated characters
         if (/(.)\1{10,}/.test(text)) return true;
-        
+
+        // Check excessive capitalization
         const capitals = text.replace(/[^A-Z]/g, '').length;
         const letters = text.replace(/[^a-zA-Z]/g, '').length;
         if (letters > 20 && (capitals / letters) > 0.9) return true;
-        
+
+        // Check for large number of URLs
         const urlCount = (text.match(/https?:\/\/\S+/g) || []).length;
         if (urlCount > 5) return true;
 
@@ -261,7 +305,7 @@ class ModeratedTreeMessageBoard {
 
         document.querySelectorAll('.filter-btn').forEach(button => {
             button.addEventListener('click', () => {
-                document.querySelectorAll('.filter-btn').forEach(btn => 
+                document.querySelectorAll('.filter-btn').forEach(btn =>
                     btn.classList.remove('active')
                 );
                 button.classList.add('active');
@@ -280,7 +324,7 @@ class ModeratedTreeMessageBoard {
             },
             { threshold: 0.1 }
         );
-        
+
         const messageCards = this.messageContainer.querySelectorAll('.message-card');
         if (messageCards.length > 0) {
             observer.observe(messageCards[messageCards.length - 1]);
@@ -290,13 +334,13 @@ class ModeratedTreeMessageBoard {
     filterAndRenderMessages() {
         if (this.isLoading && !this.messages.length) return;
 
+        // Remove any existing spinner
         const existingSpinner = this.messageContainer.querySelector('.loading-spinner');
         if (existingSpinner) {
             existingSpinner.remove();
         }
 
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
-        
         this.filteredMessages = [...this.messages];
 
         if (searchTerm) {
@@ -312,12 +356,14 @@ class ModeratedTreeMessageBoard {
 
         switch (this.currentFilter) {
             case 'recent':
+                // Show only messages from the last 24 hours
                 const dayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
-                this.filteredMessages = this.filteredMessages.filter(msg => 
+                this.filteredMessages = this.filteredMessages.filter(msg =>
                     new Date(msg.timestamp) > dayAgo
                 );
                 break;
             case 'popular':
+                // Sort by rating descending
                 this.filteredMessages.sort((a, b) => (b.rating || 0) - (a.rating || 0));
                 break;
         }
@@ -336,7 +382,8 @@ class ModeratedTreeMessageBoard {
             return;
         }
 
-        this.messageContainer.innerHTML = this.filteredMessages.map(message => `
+        this.messageContainer.innerHTML = this.filteredMessages
+            .map(message => `
             <div class="message-card" data-id="${this.escapeHtml(message.id)}">
                 <div class="message-header">
                     <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
@@ -346,7 +393,9 @@ class ModeratedTreeMessageBoard {
                 <div class="message-rating">
                     ${'⭐'.repeat(message.rating || 0)}
                 </div>
-                <p class="message-content ${message.isModerated ? 'moderated-content' : ''}">${this.escapeHtml(message.message)}</p>
+                <p class="message-content ${message.isModerated ? 'moderated-content' : ''}">
+                    ${this.escapeHtml(message.message)}
+                </p>
                 <div class="message-footer">
                     <div>
                         <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
@@ -356,7 +405,8 @@ class ModeratedTreeMessageBoard {
                     </div>
                 </div>
             </div>
-        `).join('');
+        `)
+            .join('');
 
         if (this.hasMoreMessages) {
             this.setupInfiniteScroll();
@@ -370,7 +420,7 @@ class ModeratedTreeMessageBoard {
         const minutes = Math.floor(diff / (60 * 1000));
         const hours = Math.floor(diff / (3600 * 1000));
         const days = Math.floor(diff / (86400 * 1000));
-        
+
         if (minutes < 1) {
             return 'Just now';
         }
@@ -383,7 +433,7 @@ class ModeratedTreeMessageBoard {
         if (days < 7) {
             return `${days} ${days === 1 ? 'day' : 'days'} ago`;
         }
-        
+
         return date.toLocaleDateString('en-AU', {
             year: 'numeric',
             month: 'long',
@@ -417,11 +467,12 @@ class ModeratedTreeMessageBoard {
         }
     }
 
-showNotification(message) {
+    showNotification(message) {
         if (this.notificationCooldown) return;
 
         this.notificationCooldown = true;
 
+        // Remove existing notifications
         const existingNotifications = document.querySelectorAll('.notification');
         existingNotifications.forEach(notification => notification.remove());
 
@@ -434,7 +485,7 @@ showNotification(message) {
         `;
         document.body.appendChild(notification);
 
-        // Remove notification after 3 seconds
+        // Fade out after 3 seconds
         setTimeout(() => {
             notification.style.opacity = '0';
             setTimeout(() => notification.remove(), 300);
@@ -460,6 +511,7 @@ showNotification(message) {
     }
 }
 
+// Simple debounce utility
 function debounce(func, wait) {
     let timeout;
     return function executedFunction(...args) {
