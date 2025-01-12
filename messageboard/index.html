@@ -61,6 +61,11 @@
         </div>
     </footer>
 <script src="https://unpkg.com/bad-words@3.0.4/lib/badwords.min.js"></script>
+<!-- Add a small delay to ensure Filter is defined -->
+<script>
+    // Ensure Filter is available globally
+    window.Filter = Filter;
+</script>
     <script src="messageboard.js"></script>
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 </body>
