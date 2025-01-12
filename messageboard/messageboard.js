@@ -1,11 +1,11 @@
-class ModeratedTreeMessageBoard {
+class TreeMessageBoard {
     constructor() {
         // Pagination properties
         this.pageSize = 20;
         this.lastMessageTimestamp = null;
         this.hasMoreMessages = true;
         this.notificationCooldown = false;
-
+        
         // Existing properties
         this.messages = [];
         this.filteredMessages = [];
@@ -13,70 +13,12 @@ class ModeratedTreeMessageBoard {
         this.isLoading = true;
         this.lastUpdateTime = 0;
         this.pollingInterval = 5000; // 5 seconds
-
+        
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
-
-        // Initialize profanity filter with multiple languages
-        this.initializeContentFilter();
-
+        
         this.setupEventListeners();
         this.initialize();
-    }
-
-    initializeContentFilter() {
-        try {
-            // Use the global LeoProfanity if available
-            if (window.LeoProfanity) {
-                this.filter = window.LeoProfanity;
-
-                // Load all supported dictionaries
-                const languages = ['en', 'es', 'zh', 'ja', 'ko', 'de', 'ru', 'ar', 'hi', 'it'];
-                languages.forEach(lang => {
-                    try {
-                        this.filter.loadDictionary(lang);
-                    } catch (e) {
-                        console.warn(`Failed to load dictionary for "${lang}"`, e);
-                    }
-                });
-
-                // Add any custom words that should be filtered
-                this.filter.add([
-                    // Add your custom words here
-                ]);
-            } else {
-                // If library not found, fallback to a simple filter
-                console.warn('LeoProfanity not found. Using fallback filter.');
-                this.setupFallbackFilter();
-            }
-        } catch (error) {
-            console.error('Error initializing content filter:', error);
-            this.setupFallbackFilter();
-        }
-    }
-
-    setupFallbackFilter() {
-        // Very simplistic fallback filter
-        this.filter = {
-            badWords: new Set([
-                // Add default bad words here
-            ]),
-            clean(text) {
-                if (!text) return '';
-                let cleanText = text;
-                this.badWords.forEach(word => {
-                    const regex = new RegExp(word, 'gi');
-                    cleanText = cleanText.replace(regex, '*'.repeat(word.length));
-                });
-                return cleanText;
-            },
-            add(words) {
-                words.forEach(word => this.badWords.add(word.toLowerCase()));
-            },
-            loadDictionary() {
-                return true;
-            }
-        };
     }
 
     async initialize() {
@@ -90,20 +32,23 @@ class ModeratedTreeMessageBoard {
     }
 
     startPolling() {
+        // Clear any existing interval first
         if (this.pollingTimer) {
             clearInterval(this.pollingTimer);
         }
-
+        
+        // Set up new polling interval
         this.pollingTimer = setInterval(async () => {
             await this.checkForNewMessages();
         }, this.pollingInterval);
 
+        // Add visibility change handling to pause/resume polling
         document.addEventListener('visibilitychange', () => {
             if (document.hidden) {
                 clearInterval(this.pollingTimer);
             } else {
                 this.startPolling();
-                this.checkForNewMessages();
+                this.checkForNewMessages(); // Immediate check when tab becomes visible
             }
         });
     }
@@ -113,45 +58,42 @@ class ModeratedTreeMessageBoard {
             const now = new Date();
             const year = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-
+            
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
-
+            
             const response = await fetch(url, {
                 cache: 'no-store'
             });
 
             if (response.ok) {
                 const data = await response.json();
-
+                
+                // Check if there are any new messages
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
                 });
 
                 if (hasNewMessages) {
+                    console.log(`[${new Date().toISOString()}] New messages found, updating...`);
+                    // Prepend new messages to the beginning
                     const newMessages = data.filter(message => {
                         const messageTime = new Date(message.timestamp).getTime();
                         return messageTime > this.lastUpdateTime;
                     });
-
-                    for (const message of newMessages) {
-                        const modResult = await this.moderateMessage(message);
-                        if (modResult.isAccepted) {
-                            message.message = modResult.moderatedContent;
-                            message.isModerated = modResult.requiresModeration;
-                            message.moderationReasons = modResult.reasons;
-                            this.messages.unshift(message);
-                        }
+                    this.messages = [...newMessages, ...this.messages];
+                    // Update lastUpdateTime to latest message timestamp
+                    if (newMessages.length > 0) {
+                        const latestMessage = newMessages.reduce((latest, msg) => {
+                            const msgTime = new Date(msg.timestamp).getTime();
+                            return msgTime > latest ? msgTime : latest;
+                        }, 0);
+                        this.lastUpdateTime = latestMessage;
                     }
-
-                    const latestMessage = newMessages.reduce((latest, msg) => {
-                        const msgTime = new Date(msg.timestamp).getTime();
-                        return msgTime > latest ? msgTime : latest;
-                    }, 0);
-                    this.lastUpdateTime = latestMessage;
-
                     this.filterAndRenderMessages();
                     this.showNotification('New messages have arrived! 🌱');
+                } else {
+                    console.log(`[${new Date().toISOString()}] No new messages found`);
                 }
             }
         } catch (error) {
@@ -162,48 +104,45 @@ class ModeratedTreeMessageBoard {
     async loadMessages() {
         try {
             if (!this.hasMoreMessages || this.isLoading) return;
-
+            
             this.showLoadingSpinner();
-
+            
             const now = new Date();
             const year = now.getFullYear();
             const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
-
+            
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
-
+            console.log('Fetching from:', url);
+            
             const response = await fetch(url, {
                 cache: 'no-store'
             });
-
+            
             if (!response.ok) {
                 throw new Error(`Failed to fetch messages: ${response.status}`);
             }
 
             const data = await response.json();
-
-            let filteredData = this.lastMessageTimestamp
+            
+            // Filter messages after the cursor
+            let filteredData = this.lastMessageTimestamp 
                 ? data.filter(msg => new Date(msg.timestamp) < new Date(this.lastMessageTimestamp))
                 : data;
-
+            
+            // Get only pageSize number of messages
             const newMessages = filteredData.slice(0, this.pageSize);
-
+            
+            // Check if we have more messages to load
             this.hasMoreMessages = filteredData.length > this.pageSize;
-
-            for (const message of newMessages) {
-                const modResult = await this.moderateMessage(message);
-                if (modResult.isAccepted) {
-                    message.message = modResult.moderatedContent;
-                    message.isModerated = modResult.requiresModeration;
-                    message.moderationReasons = modResult.reasons;
-                    this.messages.push(message);
-                }
-            }
-
+            
             if (newMessages.length > 0) {
+                // Update cursor to last message's timestamp
                 this.lastMessageTimestamp = newMessages[newMessages.length - 1].timestamp;
-                // Sort descending by timestamp
+                
+                // Append new messages to existing ones
+                this.messages = [...this.messages, ...newMessages];
                 this.messages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-
+                // Update lastUpdateTime to latest message timestamp
                 if (this.messages.length > 0) {
                     const latestMessage = this.messages.reduce((latest, msg) => {
                         const msgTime = new Date(msg.timestamp).getTime();
@@ -212,88 +151,20 @@ class ModeratedTreeMessageBoard {
                     this.lastUpdateTime = latestMessage;
                 }
             }
-
+            
             this.isLoading = false;
             this.filterAndRenderMessages();
-
+            
+            // Set up infinite scroll if we have more messages
             if (this.hasMoreMessages) {
                 this.setupInfiniteScroll();
             }
-
+            
         } catch (error) {
             console.error('Error in loadMessages:', error);
             this.isLoading = false;
             this.showError('Unable to load messages. Please try again later.');
         }
-    }
-
-    async moderateMessage(message) {
-        const results = {
-            isAccepted: true,
-            reasons: [],
-            moderatedContent: message.message,
-            requiresModeration: false
-        };
-
-        try {
-            if (!this.validateMessage(message)) {
-                results.isAccepted = false;
-                results.reasons.push('Invalid message format');
-                return results;
-            }
-
-            if (!this.checkLength(message.message)) {
-                results.moderatedContent = message.message.slice(0, 1000);
-                results.requiresModeration = true;
-                results.reasons.push('Message truncated to maximum length');
-            }
-
-            const cleanedMessage = this.filter.clean(message.message);
-            if (cleanedMessage !== message.message) {
-                results.moderatedContent = cleanedMessage;
-                results.requiresModeration = true;
-                results.reasons.push('Inappropriate content filtered');
-            }
-
-            if (this.isExtremeSpam(results.moderatedContent)) {
-                results.isAccepted = false;
-                results.reasons.push('Excessive spam detected');
-                return results;
-            }
-
-            return results;
-        } catch (error) {
-            console.error('Moderation error:', error);
-            results.isAccepted = false;
-            results.reasons.push('Moderation error');
-            return results;
-        }
-    }
-
-    validateMessage(message) {
-        return message?.message?.length > 0 &&
-               message?.userName?.length > 0 &&
-               message?.location?.length > 0;
-    }
-
-    checkLength(text) {
-        return text.length >= 2 && text.length <= 1000;
-    }
-
-    isExtremeSpam(text) {
-        // Check repeated characters
-        if (/(.)\1{10,}/.test(text)) return true;
-
-        // Check excessive capitalization
-        const capitals = text.replace(/[^A-Z]/g, '').length;
-        const letters = text.replace(/[^a-zA-Z]/g, '').length;
-        if (letters > 20 && (capitals / letters) > 0.9) return true;
-
-        // Check for large number of URLs
-        const urlCount = (text.match(/https?:\/\/\S+/g) || []).length;
-        if (urlCount > 5) return true;
-
-        return false;
     }
 
     setupEventListeners() {
@@ -305,7 +176,7 @@ class ModeratedTreeMessageBoard {
 
         document.querySelectorAll('.filter-btn').forEach(button => {
             button.addEventListener('click', () => {
-                document.querySelectorAll('.filter-btn').forEach(btn =>
+                document.querySelectorAll('.filter-btn').forEach(btn => 
                     btn.classList.remove('active')
                 );
                 button.classList.add('active');
@@ -324,7 +195,8 @@ class ModeratedTreeMessageBoard {
             },
             { threshold: 0.1 }
         );
-
+        
+        // Observe the last message card
         const messageCards = this.messageContainer.querySelectorAll('.message-card');
         if (messageCards.length > 0) {
             observer.observe(messageCards[messageCards.length - 1]);
@@ -334,13 +206,14 @@ class ModeratedTreeMessageBoard {
     filterAndRenderMessages() {
         if (this.isLoading && !this.messages.length) return;
 
-        // Remove any existing spinner
+        // Remove any existing loading spinner
         const existingSpinner = this.messageContainer.querySelector('.loading-spinner');
         if (existingSpinner) {
             existingSpinner.remove();
         }
 
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
+        
         this.filteredMessages = [...this.messages];
 
         if (searchTerm) {
@@ -356,14 +229,12 @@ class ModeratedTreeMessageBoard {
 
         switch (this.currentFilter) {
             case 'recent':
-                // Show only messages from the last 24 hours
                 const dayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
-                this.filteredMessages = this.filteredMessages.filter(msg =>
+                this.filteredMessages = this.filteredMessages.filter(msg => 
                     new Date(msg.timestamp) > dayAgo
                 );
                 break;
             case 'popular':
-                // Sort by rating descending
                 this.filteredMessages.sort((a, b) => (b.rating || 0) - (a.rating || 0));
                 break;
         }
@@ -372,6 +243,8 @@ class ModeratedTreeMessageBoard {
     }
 
     renderMessages() {
+        if (this.isLoading && !this.messages.length) return;
+
         if (!this.filteredMessages?.length) {
             this.messageContainer.innerHTML = `
                 <div class="no-messages">
@@ -382,20 +255,16 @@ class ModeratedTreeMessageBoard {
             return;
         }
 
-        this.messageContainer.innerHTML = this.filteredMessages
-            .map(message => `
+        this.messageContainer.innerHTML = this.filteredMessages.map(message => `
             <div class="message-card" data-id="${this.escapeHtml(message.id)}">
                 <div class="message-header">
                     <h3>${this.escapeHtml(message.userName)} <span class="location-text">from ${this.escapeHtml(message.location)}</span></h3>
                     <span class="message-date">${this.formatDate(message.timestamp)}</span>
-                    ${message.isModerated ? '<span class="moderated-tag">Filtered</span>' : ''}
                 </div>
                 <div class="message-rating">
                     ${'⭐'.repeat(message.rating || 0)}
                 </div>
-                <p class="message-content ${message.isModerated ? 'moderated-content' : ''}">
-                    ${this.escapeHtml(message.message)}
-                </p>
+                <p class="message-content">${this.escapeHtml(message.message)}</p>
                 <div class="message-footer">
                     <div>
                         <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
@@ -405,9 +274,9 @@ class ModeratedTreeMessageBoard {
                     </div>
                 </div>
             </div>
-        `)
-            .join('');
+        `).join('');
 
+        // Setup infinite scroll after rendering
         if (this.hasMoreMessages) {
             this.setupInfiniteScroll();
         }
@@ -420,20 +289,25 @@ class ModeratedTreeMessageBoard {
         const minutes = Math.floor(diff / (60 * 1000));
         const hours = Math.floor(diff / (3600 * 1000));
         const days = Math.floor(diff / (86400 * 1000));
-
+        
+        // Less than a minute
         if (minutes < 1) {
             return 'Just now';
         }
+        // Less than an hour
         if (minutes < 60) {
             return `${minutes} ${minutes === 1 ? 'minute' : 'minutes'} ago`;
         }
+        // Less than a day
         if (hours < 24) {
             return `${hours} ${hours === 1 ? 'hour' : 'hours'} ago`;
         }
+        // Less than 7 days
         if (days < 7) {
             return `${days} ${days === 1 ? 'day' : 'days'} ago`;
         }
-
+        
+        // More than 7 days - show full date
         return date.toLocaleDateString('en-AU', {
             year: 'numeric',
             month: 'long',
@@ -450,6 +324,7 @@ class ModeratedTreeMessageBoard {
 
     showLoadingSpinner() {
         if (!this.messages.length) {
+            // Initial load - full screen spinner
             this.messageContainer.innerHTML = `
                 <div class="loading-spinner">
                     <i class="fas fa-leaf fa-spin"></i>
@@ -457,6 +332,7 @@ class ModeratedTreeMessageBoard {
                 </div>
             `;
         } else {
+            // Infinite scroll - append spinner at bottom
             const spinner = document.createElement('div');
             spinner.className = 'loading-spinner';
             spinner.innerHTML = `
@@ -468,11 +344,13 @@ class ModeratedTreeMessageBoard {
     }
 
     showNotification(message) {
+        // Check if notification is in cooldown
         if (this.notificationCooldown) return;
 
+        // Set cooldown flag
         this.notificationCooldown = true;
 
-        // Remove existing notifications
+        // Remove any existing notifications first
         const existingNotifications = document.querySelectorAll('.notification');
         existingNotifications.forEach(notification => notification.remove());
 
@@ -485,7 +363,7 @@ class ModeratedTreeMessageBoard {
         `;
         document.body.appendChild(notification);
 
-        // Fade out after 3 seconds
+        // Remove notification after 3 seconds
         setTimeout(() => {
             notification.style.opacity = '0';
             setTimeout(() => notification.remove(), 300);
@@ -511,7 +389,6 @@ class ModeratedTreeMessageBoard {
     }
 }
 
-// Simple debounce utility
 function debounce(func, wait) {
     let timeout;
     return function executedFunction(...args) {
@@ -525,5 +402,5 @@ function debounce(func, wait) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    window.messageBoard = new ModeratedTreeMessageBoard();
+    window.messageBoard = new TreeMessageBoard();
 });
