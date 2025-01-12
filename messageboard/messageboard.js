@@ -17,23 +17,26 @@ class ModeratedTreeMessageBoard {
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
         
-        // Initialize content filter
-        this.filter = new Filter();
-        this.setupCustomFilters();
+        // Initialize profanity filter with multiple languages
+        this.initializeContentFilter();
         
         this.setupEventListeners();
         this.initialize();
     }
 
-    setupCustomFilters() {
-        // Add custom words to the filter
-        const customBadWords = [
-            // Add your custom bad words here
-        ];
-        this.filter.addWords(...customBadWords);
+    initializeContentFilter() {
+        this.filter = LeoProfanity;
         
-        // Add word exceptions if needed
-        this.filter.removeWords('some', 'safe', 'words');
+        // Load all supported languages except French
+        const languages = ['en', 'es', 'zh', 'ja', 'ko', 'de', 'ru', 'ar', 'hi', 'it'];
+        languages.forEach(lang => {
+            this.filter.loadDictionary(lang);
+        });
+
+        // Add any custom words that should be filtered
+        this.filter.add([
+            // Add your custom words here
+        ]);
     }
 
     async initialize() {
@@ -47,17 +50,14 @@ class ModeratedTreeMessageBoard {
     }
 
     startPolling() {
-        // Clear any existing interval first
         if (this.pollingTimer) {
             clearInterval(this.pollingTimer);
         }
         
-        // Set up new polling interval
         this.pollingTimer = setInterval(async () => {
             await this.checkForNewMessages();
         }, this.pollingInterval);
 
-        // Add visibility change handling
         document.addEventListener('visibilitychange', () => {
             if (document.hidden) {
                 clearInterval(this.pollingTimer);
@@ -83,7 +83,6 @@ class ModeratedTreeMessageBoard {
             if (response.ok) {
                 const data = await response.json();
                 
-                // Check if there are any new messages
                 const hasNewMessages = data.some(message => {
                     const messageTime = new Date(message.timestamp).getTime();
                     return messageTime > this.lastUpdateTime;
@@ -95,7 +94,6 @@ class ModeratedTreeMessageBoard {
                         return messageTime > this.lastUpdateTime;
                     });
 
-                    // Moderate and add new messages
                     for (const message of newMessages) {
                         const modResult = await this.moderateMessage(message);
                         if (modResult.isAccepted) {
@@ -106,7 +104,6 @@ class ModeratedTreeMessageBoard {
                         }
                     }
 
-                    // Update lastUpdateTime
                     const latestMessage = newMessages.reduce((latest, msg) => {
                         const msgTime = new Date(msg.timestamp).getTime();
                         return msgTime > latest ? msgTime : latest;
@@ -144,18 +141,14 @@ class ModeratedTreeMessageBoard {
 
             const data = await response.json();
             
-            // Filter messages after the cursor
             let filteredData = this.lastMessageTimestamp 
                 ? data.filter(msg => new Date(msg.timestamp) < new Date(this.lastMessageTimestamp))
                 : data;
             
-            // Get only pageSize number of messages
             const newMessages = filteredData.slice(0, this.pageSize);
             
-            // Check if we have more messages
             this.hasMoreMessages = filteredData.length > this.pageSize;
 
-            // Moderate and add messages
             for (const message of newMessages) {
                 const modResult = await this.moderateMessage(message);
                 if (modResult.isAccepted) {
@@ -202,21 +195,18 @@ class ModeratedTreeMessageBoard {
         };
 
         try {
-            // Basic validation
             if (!this.validateMessage(message)) {
                 results.isAccepted = false;
                 results.reasons.push('Invalid message format');
                 return results;
             }
 
-            // Length checks
             if (!this.checkLength(message.message)) {
                 results.moderatedContent = message.message.slice(0, 1000);
                 results.requiresModeration = true;
                 results.reasons.push('Message truncated to maximum length');
             }
 
-            // Clean profanity and hate speech
             const cleanedMessage = this.filter.clean(message.message);
             if (cleanedMessage !== message.message) {
                 results.moderatedContent = cleanedMessage;
@@ -224,7 +214,6 @@ class ModeratedTreeMessageBoard {
                 results.reasons.push('Inappropriate content filtered');
             }
 
-            // Spam detection - only reject extreme cases
             if (this.isExtremeSpam(results.moderatedContent)) {
                 results.isAccepted = false;
                 results.reasons.push('Excessive spam detected');
@@ -251,7 +240,6 @@ class ModeratedTreeMessageBoard {
     }
 
     isExtremeSpam(text) {
-        // Only detect extreme cases of spam
         if (/(.)\1{10,}/.test(text)) return true;
         
         const capitals = text.replace(/[^A-Z]/g, '').length;
@@ -410,7 +398,7 @@ class ModeratedTreeMessageBoard {
         return div.innerHTML;
     }
 
-showLoadingSpinner() {
+    showLoadingSpinner() {
         if (!this.messages.length) {
             this.messageContainer.innerHTML = `
                 <div class="loading-spinner">
@@ -429,14 +417,11 @@ showLoadingSpinner() {
         }
     }
 
-    showNotification(message) {
-        // Check if notification is in cooldown
+showNotification(message) {
         if (this.notificationCooldown) return;
 
-        // Set cooldown flag
         this.notificationCooldown = true;
 
-        // Remove any existing notifications first
         const existingNotifications = document.querySelectorAll('.notification');
         existingNotifications.forEach(notification => notification.remove());
 
