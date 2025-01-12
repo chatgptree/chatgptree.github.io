@@ -398,4 +398,26 @@ header {
         padding: 6px 12px;
         font-size: 13px;
     }
+    .moderated-tag {
+    font-size: 0.8em;
+    color: #856404;
+    background-color: #fff3cd;
+    padding: 2px 8px;
+    border-radius: 12px;
+    margin-left: 8px;
+    display: inline-block;
+}
+
+.moderated-content {
+    position: relative;
+}
+
+.message-card .moderated-content::after {
+    content: "This message has been automatically filtered for inappropriate content";
+    display: block;
+    font-size: 0.8em;
+    color: #856404;
+    margin-top: 4px;
+    font-style: italic;
+}
 }
