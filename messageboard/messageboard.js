@@ -18,7 +18,7 @@ class ModeratedTreeMessageBoard {
         this.searchInput = document.getElementById('searchInput');
         
         // Initialize content filter
-        this.filter = new Filter();
+        this.filter = new window.Filter();
         this.setupCustomFilters();
         
         this.setupEventListeners();
