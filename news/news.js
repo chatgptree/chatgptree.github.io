@@ -53,6 +53,33 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
 
+    // Expanded tree-related keywords for better filtering
+    const TREE_KEYWORDS = [
+        // Trees and Forests
+        'tree', 'forest', 'woodland', 'rainforest', 'jungle',
+        'grove', 'canopy', 'timber', 'woods', 'bush',
+        
+        // Tree Types
+        'oak', 'pine', 'maple', 'eucalyptus', 'redwood',
+        'sequoia', 'mangrove', 'birch', 'willow',
+        
+        // Forest Activities
+        'reforestation', 'afforestation', 'planting', 'seedling',
+        'logging', 'deforestation', 'conservation',
+        
+        // Forest Elements
+        'bark', 'branch', 'root', 'leaf', 'leaves',
+        'trunk', 'crown', 'understory', 'vegetation',
+        
+        // Forest Types
+        'boreal', 'tropical', 'temperate', 'old-growth',
+        'ancient forest', 'primary forest', 'native forest',
+        
+        // Forest Management
+        'silviculture', 'agroforestry', 'restoration',
+        'regeneration', 'forestry', 'tree cover'
+    ];
+
     function getSourceName(url) {
         try {
             const domain = new URL(url).hostname.replace('www.', '');
@@ -98,8 +125,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const filteredNews = allNews
                 .filter(item => {
+                    // Check publication date
                     const pubDate = new Date(item.pubDate);
-                    return pubDate >= threeMonthsAgo;
+                    if (pubDate < threeMonthsAgo) return false;
+
+                    // Check for tree-related content
+                    const text = `${item.title} ${item.description}`.toLowerCase();
+                    return TREE_KEYWORDS.some(keyword => 
+                        text.includes(keyword.toLowerCase())
+                    );
                 })
                 .map(item => ({
                     ...item,
@@ -113,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
                 .slice(0, 12);
 
-            console.log(`Found ${filteredNews.length} articles`);
+            console.log(`Found ${filteredNews.length} tree-related articles`);
             displayNews(filteredNews);
         } catch (error) {
             console.error('Detailed error:', error);
@@ -126,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayNews(articles) {
         if (articles.length === 0) {
-            showError('No news found from the past 3 months. Please check back later.');
+            showError('No tree-related news found from the past 3 months. Please check back later.');
             return;
         }
 
