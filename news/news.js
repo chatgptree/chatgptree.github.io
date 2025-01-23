@@ -8,24 +8,21 @@ document.addEventListener('DOMContentLoaded', () => {
         'https://www.conservation.org/feed'
     ];
 
+    // Default image to use if no image is provided
+    const DEFAULT_IMAGE = '../images/bazzaweb2.jpg'; // Using your existing image as fallback
+
     async function fetchNews() {
         try {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            // Try each feed until one works
             let data = null;
             let error = null;
-
-            const formData = new FormData();
-            formData.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
-            formData.append('count', '20');
 
             for (const feed of RSS_FEEDS) {
                 try {
                     console.log('Trying feed:', feed);
                     
-                    // Create URL with parameters
                     const url = new URL('https://api.rss2json.com/v1/api.json');
                     url.searchParams.append('rss_url', feed);
                     url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
@@ -33,16 +30,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     const response = await fetch(url);
                     data = await response.json();
-                    console.log('Response for feed:', data);
                     
                     if (data.status === 'ok' && data.items && data.items.length > 0) {
                         console.log('Found working feed:', feed);
-                        break; // We found a working feed
+                        break;
                     }
                 } catch (e) {
-                    console.error('Error with feed:', feed, e);
                     error = e;
-                    continue; // Try next feed
+                    continue;
                 }
             }
 
@@ -50,7 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 throw new Error(error || data?.message || 'Failed to fetch news');
             }
 
-            // Filter for tree-related content
             const treeNews = data.items.filter(item => {
                 const text = `${item.title} ${item.description}`.toLowerCase();
                 return text.includes('tree') || 
@@ -58,9 +52,8 @@ document.addEventListener('DOMContentLoaded', () => {
                        text.includes('woodland') ||
                        text.includes('plant') ||
                        text.includes('environment');
-            }).slice(0, 9); // Limit to 9 items
+            }).slice(0, 9);
 
-            console.log('Found tree news items:', treeNews.length);
             displayNews(treeNews);
         } catch (error) {
             console.error('Detailed error:', error);
@@ -79,21 +72,30 @@ document.addEventListener('DOMContentLoaded', () => {
 
         newsGrid.innerHTML = articles.map(article => `
             <article class="news-card">
-                <div class="news-meta">
-                    <span>Source: ${article.author || article.source || 'Environmental News'}</span><br>
-                    <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
+                ${article.enclosure?.link || article.thumbnail ? `
+                    <div class="news-image">
+                        <img src="${article.enclosure?.link || article.thumbnail}" 
+                             alt="${article.title}"
+                             onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
+                    </div>
+                ` : ''}
+                <div class="news-content">
+                    <div class="news-meta">
+                        <span>Source: ${article.author || article.source || 'Environmental News'}</span><br>
+                        <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
+                    </div>
+                    <h3>${article.title}</h3>
+                    <div class="news-description">
+                        ${article.description ? 
+                          article.description.length > 150 ? 
+                          article.description.substring(0, 150) + '...' : 
+                          article.description 
+                          : 'No description available'}
+                    </div>
+                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="read-more">
+                        Read Full Article →
+                    </a>
                 </div>
-                <h3>${article.title}</h3>
-                <div class="news-description">
-                    ${article.description ? 
-                      article.description.length > 150 ? 
-                      article.description.substring(0, 150) + '...' : 
-                      article.description 
-                      : 'No description available'}
-                </div>
-                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="read-more">
-                    Read Full Article →
-                </a>
             </article>
         `).join('');
     }
