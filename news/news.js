@@ -13,10 +13,19 @@ document.addEventListener('DOMContentLoaded', () => {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_FEEDS[0])}&api_key=yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph&count=20`);
-            const data = await response.json();
+            // Log the URL we're trying to fetch
+            const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_FEEDS[0])}&api_key=yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph&count=20`;
+            console.log('Fetching from:', apiUrl);
+
+            const response = await fetch(apiUrl);
+            console.log('Response status:', response.status);
             
-            if (data.status !== 'ok') throw new Error('Failed to fetch news');
+            const data = await response.json();
+            console.log('API Response:', data);
+
+            if (!data || data.status !== 'ok') {
+                throw new Error(data?.message || 'Failed to fetch news');
+            }
 
             // Filter for tree-related content
             const treeNews = data.items.filter(item => {
@@ -26,10 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
                        text.includes('woodland');
             });
 
+            console.log('Found tree news items:', treeNews.length);
             displayNews(treeNews);
         } catch (error) {
-            console.error('Error:', error);
-            showError('Failed to load news. Please try again later.');
+            console.error('Detailed error:', error);
+            showError(`Failed to load news. Error: ${error.message}`);
         } finally {
             loadingIndicator.classList.remove('active');
             newsGrid.style.display = 'grid';
