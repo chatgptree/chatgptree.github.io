@@ -2,14 +2,16 @@
 document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
+    
+    // Updated RSS feeds with reliable sources
     const RSS_FEEDS = [
-        'https://news.google.com/rss/search?q=trees+forest+environment&hl=en-US&gl=US&ceid=US:en',
-        'https://blog.nature.org/feed/',
-        'https://www.conservation.org/feed'
+        'https://www.treehugger.com/feed',
+        'https://www.sciencedaily.com/rss/earth_climate/trees.xml',
+        'https://mongabay.com/feed',
+        'https://www.theguardian.com/environment/forests/rss'
     ];
 
-    // Default image to use if no image is provided
-    const DEFAULT_IMAGE = '../images/bazzaweb2.jpg'; // Using your existing image as fallback
+    const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
 
     async function fetchNews() {
         try {
@@ -45,6 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 throw new Error(error || data?.message || 'Failed to fetch news');
             }
 
+            // Filter and process news items
             const treeNews = data.items.filter(item => {
                 const text = `${item.title} ${item.description}`.toLowerCase();
                 return text.includes('tree') || 
@@ -52,7 +55,19 @@ document.addEventListener('DOMContentLoaded', () => {
                        text.includes('woodland') ||
                        text.includes('plant') ||
                        text.includes('environment');
-            }).slice(0, 9);
+            })
+            .map(item => ({
+                ...item,
+                // Clean up the link to ensure it's the actual article URL
+                link: item.link.replace(/\?.*$/, ''), // Remove query parameters
+                // Clean up the description to remove HTML tags
+                description: item.description
+                    .replace(/<\/?[^>]+(>|$)/g, '') // Remove HTML tags
+                    .replace(/&nbsp;/g, ' ') // Replace &nbsp; with spaces
+                    .replace(/\s+/g, ' ') // Normalize whitespace
+                    .trim()
+            }))
+            .slice(0, 9);
 
             displayNews(treeNews);
         } catch (error) {
@@ -81,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ` : ''}
                 <div class="news-content">
                     <div class="news-meta">
-                        <span>Source: ${article.author || article.source || 'Environmental News'}</span><br>
+                        <span>Source: ${article.author || article.source || article.categories?.[0] || 'Environmental News'}</span><br>
                         <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
                     </div>
                     <h3>${article.title}</h3>
