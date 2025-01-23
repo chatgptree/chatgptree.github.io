@@ -1,7 +1,14 @@
 // news/news.css
 
 header {
-    background-image: url('../images/news.jpg') !important;
+    background-color: #2E4032;
+    background-image: url('../images/news.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+    width: 100%;
 }
 
 .news-nav {
