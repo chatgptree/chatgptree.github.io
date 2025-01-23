@@ -3,14 +3,32 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    // Updated curated list of positive environmental news sources
+    // Combined list of all feeds
     const RSS_FEEDS = [
+        // Current feeds
         'https://www.goodnewsnetwork.org/category/earth/feed/',
         'https://www.positive.news/environment/feed/',
         'https://www.treehugger.com/feed',
         'https://globalgarland.com/feed/',
         'https://forestsnews.cifor.org/feed',
-        'https://www.nationalforests.org/rss.xml'
+        'https://www.nationalforests.org/rss.xml',
+        
+        // Conservation Organizations
+        'https://www.nature.org/en-us/feed/news/',
+        'https://www.conservation.org/blog/feed',
+        'https://www.rainforest-alliance.org/feed/',
+        'https://www.worldwildlife.org/feed',
+        'https://news.mongabay.com/feed/',
+        
+        // Research & Education
+        'https://www.sciencedaily.com/rss/earth_climate/trees.xml',
+        'https://www.kew.org/feeds/news/rss.xml',
+        'https://www.arborday.org/feed/',
+        
+        // Environmental News Sites
+        'https://www.ecowatch.com/feeds/latest.rss',
+        'https://grist.org/feed/',
+        'https://www.environmentalleader.com/feed/'
     ];
 
     const RSS_SOURCES = {
@@ -19,16 +37,21 @@ document.addEventListener('DOMContentLoaded', () => {
         'treehugger.com': 'Treehugger',
         'globalgarland.com': 'Global Garland',
         'forestsnews.cifor.org': 'CIFOR Forest News',
-        'nationalforests.org': 'National Forest Foundation'
+        'nationalforests.org': 'National Forest Foundation',
+        'nature.org': 'The Nature Conservancy',
+        'conservation.org': 'Conservation International',
+        'rainforest-alliance.org': 'Rainforest Alliance',
+        'worldwildlife.org': 'World Wildlife Fund',
+        'mongabay.com': 'Mongabay News',
+        'sciencedaily.com': 'ScienceDaily',
+        'kew.org': 'Royal Botanic Gardens Kew',
+        'arborday.org': 'Arbor Day Foundation',
+        'ecowatch.com': 'EcoWatch',
+        'grist.org': 'Grist',
+        'environmentalleader.com': 'Environmental Leader'
     };
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
-
-    const TREE_KEYWORDS = [
-        'tree', 'forest', 'woodland', 'rainforest', 'reforestation',
-        'agroforestry', 'conservation', 'biodiversity', 'ecosystem',
-        'planting', 'restoration', 'canopy', 'grove', 'jungle'
-    ];
 
     function getSourceName(url) {
         try {
@@ -50,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const url = new URL('https://api.rss2json.com/v1/api.json');
                     url.searchParams.append('rss_url', feed);
                     url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
-                    url.searchParams.append('count', '50');
+                    url.searchParams.append('count', '20');
 
                     const response = await fetch(url);
                     const data = await response.json();
@@ -76,12 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const filteredNews = allNews
                 .filter(item => {
                     const pubDate = new Date(item.pubDate);
-                    if (pubDate < threeMonthsAgo) return false;
-
-                    const text = `${item.title} ${item.description}`.toLowerCase();
-                    return TREE_KEYWORDS.some(keyword => 
-                        text.includes(keyword.toLowerCase())
-                    );
+                    return pubDate >= threeMonthsAgo;
                 })
                 .map(item => ({
                     ...item,
@@ -108,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayNews(articles) {
         if (articles.length === 0) {
-            showError('No tree-related news found from the past 3 months. Please check back later.');
+            showError('No news found from the past 3 months. Please check back later.');
             return;
         }
 
