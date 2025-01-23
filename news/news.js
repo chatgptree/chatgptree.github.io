@@ -3,88 +3,37 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    // Combined list of all feeds
+    // Combined list of all feeds - reduced for initial load speed
     const RSS_FEEDS = [
-        // Current feeds
         'https://www.goodnewsnetwork.org/category/earth/feed/',
         'https://www.positive.news/environment/feed/',
         'https://www.treehugger.com/feed',
-        'https://globalgarland.com/feed/',
-        'https://forestsnews.cifor.org/feed',
-        'https://www.nationalforests.org/rss.xml',
-        
-        // Conservation Organizations
-        'https://www.nature.org/en-us/feed/news/',
-        'https://www.conservation.org/blog/feed',
-        'https://www.rainforest-alliance.org/feed/',
-        'https://www.worldwildlife.org/feed',
         'https://news.mongabay.com/feed/',
-        
-        // Research & Education
-        'https://www.sciencedaily.com/rss/earth_climate/trees.xml',
-        'https://www.kew.org/feeds/news/rss.xml',
-        'https://www.arborday.org/feed/',
-        
-        // Environmental News Sites
-        'https://www.ecowatch.com/feeds/latest.rss',
-        'https://grist.org/feed/',
-        'https://www.environmentalleader.com/feed/'
+        'https://www.sciencedaily.com/rss/earth_climate/trees.xml'
     ];
 
     const RSS_SOURCES = {
         'goodnewsnetwork.org': 'Good News Network',
         'positive.news': 'Positive News',
         'treehugger.com': 'Treehugger',
-        'globalgarland.com': 'Global Garland',
-        'forestsnews.cifor.org': 'CIFOR Forest News',
-        'nationalforests.org': 'National Forest Foundation',
-        'nature.org': 'The Nature Conservancy',
-        'conservation.org': 'Conservation International',
-        'rainforest-alliance.org': 'Rainforest Alliance',
-        'worldwildlife.org': 'World Wildlife Fund',
         'mongabay.com': 'Mongabay News',
-        'sciencedaily.com': 'ScienceDaily',
-        'kew.org': 'Royal Botanic Gardens Kew',
-        'arborday.org': 'Arbor Day Foundation',
-        'ecowatch.com': 'EcoWatch',
-        'grist.org': 'Grist',
-        'environmentalleader.com': 'Environmental Leader'
+        'sciencedaily.com': 'ScienceDaily'
     };
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
 
-    // Expanded tree-related keywords for better filtering
+    // Simplified keywords for better matching
     const TREE_KEYWORDS = [
-        // Trees and Forests
-        'tree', 'forest', 'woodland', 'rainforest', 'jungle',
-        'grove', 'canopy', 'timber', 'woods', 'bush',
-        
-        // Tree Types
-        'oak', 'pine', 'maple', 'eucalyptus', 'redwood',
-        'sequoia', 'mangrove', 'birch', 'willow',
-        
-        // Forest Activities
-        'reforestation', 'afforestation', 'planting', 'seedling',
-        'logging', 'deforestation', 'conservation',
-        
-        // Forest Elements
-        'bark', 'branch', 'root', 'leaf', 'leaves',
-        'trunk', 'crown', 'understory', 'vegetation',
-        
-        // Forest Types
-        'boreal', 'tropical', 'temperate', 'old-growth',
-        'ancient forest', 'primary forest', 'native forest',
-        
-        // Forest Management
-        'silviculture', 'agroforestry', 'restoration',
-        'regeneration', 'forestry', 'tree cover'
+        'tree', 'forest', 'woodland', 'rainforest',
+        'reforestation', 'conservation', 'planting'
     ];
 
     function getSourceName(url) {
         try {
             const domain = new URL(url).hostname.replace('www.', '');
             return RSS_SOURCES[domain] || domain;
-        } catch {
+        } catch (error) {
+            console.error('Error getting source name:', error);
             return 'Environmental News';
         }
     }
@@ -94,64 +43,77 @@ document.addEventListener('DOMContentLoaded', () => {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            const allNewsPromises = RSS_FEEDS.map(async feed => {
+            // Try to fetch from each feed sequentially instead of all at once
+            let allNews = [];
+            for (const feed of RSS_FEEDS) {
                 try {
                     console.log('Fetching:', feed);
                     const url = new URL('https://api.rss2json.com/v1/api.json');
                     url.searchParams.append('rss_url', feed);
                     url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
-                    url.searchParams.append('count', '20');
+                    url.searchParams.append('count', '10'); // Reduced for mobile
 
                     const response = await fetch(url);
+                    console.log('Response status:', response.status);
                     const data = await response.json();
+                    console.log('Feed data received:', feed);
                     
                     if (data.status === 'ok' && data.items?.length > 0) {
-                        return data.items.map(item => ({
+                        const items = data.items.map(item => ({
                             ...item,
                             sourceName: getSourceName(feed)
                         }));
+                        allNews = allNews.concat(items);
                     }
                 } catch (e) {
                     console.error('Error fetching feed:', feed, e);
                 }
-                return [];
-            });
+            }
 
-            const allResults = await Promise.all(allNewsPromises);
-            let allNews = allResults.flat();
+            console.log('Total news items fetched:', allNews.length);
 
             const threeMonthsAgo = new Date();
             threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
 
             const filteredNews = allNews
                 .filter(item => {
-                    // Check publication date
-                    const pubDate = new Date(item.pubDate);
-                    if (pubDate < threeMonthsAgo) return false;
+                    try {
+                        const pubDate = new Date(item.pubDate);
+                        if (pubDate < threeMonthsAgo) return false;
 
-                    // Check for tree-related content
-                    const text = `${item.title} ${item.description}`.toLowerCase();
-                    return TREE_KEYWORDS.some(keyword => 
-                        text.includes(keyword.toLowerCase())
-                    );
+                        const text = `${item.title} ${item.description}`.toLowerCase();
+                        return TREE_KEYWORDS.some(keyword => 
+                            text.includes(keyword.toLowerCase())
+                        );
+                    } catch (error) {
+                        console.error('Error filtering item:', error);
+                        return false;
+                    }
                 })
                 .map(item => ({
                     ...item,
                     link: item.link.replace(/\?.*$/, ''),
                     description: item.description
-                        .replace(/<\/?[^>]+(>|$)/g, '')
-                        .replace(/&nbsp;/g, ' ')
-                        .replace(/\s+/g, ' ')
-                        .trim()
+                        ? item.description
+                            .replace(/<\/?[^>]+(>|$)/g, '')
+                            .replace(/&nbsp;/g, ' ')
+                            .replace(/\s+/g, ' ')
+                            .trim()
+                        : 'No description available'
                 }))
                 .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-                .slice(0, 12);
+                .slice(0, 6); // Reduced for mobile
 
             console.log(`Found ${filteredNews.length} tree-related articles`);
+            
+            if (filteredNews.length === 0) {
+                throw new Error('No articles found');
+            }
+
             displayNews(filteredNews);
         } catch (error) {
             console.error('Detailed error:', error);
-            showError(`Failed to load news. Please try again later.`);
+            showError(`Unable to load news. Please check your connection and try again.`);
         } finally {
             loadingIndicator.classList.remove('active');
             newsGrid.style.display = 'grid';
@@ -160,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayNews(articles) {
         if (articles.length === 0) {
-            showError('No tree-related news found from the past 3 months. Please check back later.');
+            showError('No tree-related news found. Please try again later.');
             return;
         }
 
@@ -203,8 +165,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Initial fetch
-    fetchNews();
+    fetchNews().catch(error => {
+        console.error('Failed to fetch news:', error);
+        showError('Failed to load news. Please try again later.');
+    });
 
     // Refresh every hour
-    setInterval(fetchNews, 60 * 60 * 1000);
+    setInterval(() => {
+        fetchNews().catch(error => {
+            console.error('Failed to refresh news:', error);
+        });
+    }, 60 * 60 * 1000);
 });
