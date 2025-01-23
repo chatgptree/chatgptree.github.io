@@ -17,21 +17,21 @@ document.addEventListener('DOMContentLoaded', () => {
             let data = null;
             let error = null;
 
+            const formData = new FormData();
+            formData.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
+            formData.append('count', '20');
+
             for (const feed of RSS_FEEDS) {
                 try {
                     console.log('Trying feed:', feed);
-                    const response = await fetch('https://api.rss2json.com/v1/api.json', {
-                        method: 'POST',
-                        headers: {
-                            'Content-Type': 'application/json'
-                        },
-                        body: JSON.stringify({
-                            rss_url: feed,
-                            api_key: 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph',
-                            count: 20
-                        })
-                    });
                     
+                    // Create URL with parameters
+                    const url = new URL('https://api.rss2json.com/v1/api.json');
+                    url.searchParams.append('rss_url', feed);
+                    url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
+                    url.searchParams.append('count', '20');
+
+                    const response = await fetch(url);
                     data = await response.json();
                     console.log('Response for feed:', data);
                     
