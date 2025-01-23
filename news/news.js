@@ -3,42 +3,23 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    // Expanded list of environmental news sources
+    // Curated list of positive environmental news sources
     const RSS_FEEDS = [
-        'https://www.treehugger.com/feed',
-        'https://www.sciencedaily.com/rss/earth_climate/trees.xml',
-        'https://mongabay.com/feed',
-        'https://www.theguardian.com/environment/forests/rss',
         'https://www.positive.news/environment/feed/',
         'https://www.goodnewsnetwork.org/category/earth/feed/',
-        'https://www.earthisland.org/journal/index.php/feed',
-        'https://www.worldagroforestry.org/feed',
+        'https://www.nationalforests.org/rss.xml',
         'https://forestsnews.cifor.org/feed',
-        'https://www.nationalforests.org/rss.xml'
+        'https://www.worldagroforestry.org/feed',
+        'https://www.ecowatch.com/rss/environment'
     ];
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
-
-    // Keywords for filtering positive news
-    const POSITIVE_KEYWORDS = [
-        'success', 'breakthrough', 'achieved', 'saved', 'protected',
-        'restored', 'planted', 'growing', 'improvement', 'hope',
-        'solution', 'positive', 'conservation', 'preserved', 'sustainable',
-        'recovery', 'innovative', 'progress', 'initiative', 'milestone'
-    ];
 
     // Keywords for filtering tree-related news
     const TREE_KEYWORDS = [
         'tree', 'forest', 'woodland', 'rainforest', 'reforestation',
         'agroforestry', 'conservation', 'biodiversity', 'ecosystem',
         'planting', 'restoration', 'canopy', 'grove', 'jungle'
-    ];
-
-    // Keywords to exclude (negative news)
-    const NEGATIVE_KEYWORDS = [
-        'death', 'died', 'killed', 'destruction', 'disaster',
-        'devastating', 'catastrophe', 'crisis', 'emergency', 'collapse',
-        'extinction', 'lost', 'damage', 'illegal', 'threat'
     ];
 
     async function fetchNews() {
@@ -52,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const url = new URL('https://api.rss2json.com/v1/api.json');
                     url.searchParams.append('rss_url', feed);
                     url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
-                    url.searchParams.append('count', '20');
+                    url.searchParams.append('count', '50'); // Increased to get more articles per feed
 
                     const response = await fetch(url);
                     const data = await response.json();
@@ -70,34 +51,20 @@ document.addEventListener('DOMContentLoaded', () => {
             const allResults = await Promise.all(allNewsPromises);
             let allNews = allResults.flat();
 
-            // Filter for recent articles (last two weeks)
-            const twoWeeksAgo = new Date();
-            twoWeeksAgo.setDate(twoWeeksAgo.getDate() - 30);
+            // Filter for articles from the last 3 months
+            const threeMonthsAgo = new Date();
+            threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
 
             const filteredNews = allNews
                 .filter(item => {
                     const pubDate = new Date(item.pubDate);
-                    if (pubDate < twoWeeksAgo) return false;
+                    if (pubDate < threeMonthsAgo) return false;
 
-                    const text = `${item.title} ${item.description}`.toLowerCase();
-                    
                     // Check for tree-related content
-                    const hasTreeContent = TREE_KEYWORDS.some(keyword => 
+                    const text = `${item.title} ${item.description}`.toLowerCase();
+                    return TREE_KEYWORDS.some(keyword => 
                         text.includes(keyword.toLowerCase())
                     );
-                    if (!hasTreeContent) return false;
-
-                    // Check for positive content
-                    const hasPositive = POSITIVE_KEYWORDS.some(keyword => 
-                        text.includes(keyword.toLowerCase())
-                    );
-                    
-                    // Check for negative content
-                    const hasNegative = NEGATIVE_KEYWORDS.some(keyword => 
-                        text.includes(keyword.toLowerCase())
-                    );
-
-                    return hasPositive && !hasNegative;
                 })
                 .map(item => ({
                     ...item,
@@ -109,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         .trim()
                 }))
                 .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-                .slice(0, 9);
+                .slice(0, 12); // Showing more articles
 
             displayNews(filteredNews);
         } catch (error) {
@@ -123,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayNews(articles) {
         if (articles.length === 0) {
-            showError('No recent positive tree news found. Please check back later.');
+            showError('No tree-related news found from the past 3 months. Please check back later.');
             return;
         }
 
