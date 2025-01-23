@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    // Using only the working feed for now
     const RSS_FEEDS = [
         'https://www.goodnewsnetwork.org/category/earth/feed/'
     ];
@@ -35,14 +34,15 @@ document.addEventListener('DOMContentLoaded', () => {
             url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
             url.searchParams.append('count', '20');
 
-            const response = await fetch(url);
+            const response = await fetch(url.toString());
             const data = await response.json();
             
             if (!data || data.status !== 'ok') {
                 throw new Error('Failed to fetch news feed');
             }
 
-            console.log('Raw feed data:', data);
+            // Log the first full article to see its structure
+            console.log('Sample raw article:', data.items[0]);
 
             const threeMonthsAgo = new Date();
             threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
@@ -57,22 +57,21 @@ document.addEventListener('DOMContentLoaded', () => {
                         text.includes(keyword.toLowerCase())
                     );
                 })
-                .map(item => ({
-                    title: item.title,
-                    description: item.description
-                        .replace(/<\/?[^>]+(>|$)/g, '')
-                        .replace(/&nbsp;/g, ' ')
-                        .replace(/\s+/g, ' ')
-                        .trim()
-                        .substring(0, 150) + '...',
-                    link: item.link,
-                    pubDate: item.pubDate,
-                    thumbnail: item.thumbnail || item.enclosure?.link,
-                    sourceName: getSourceName(RSS_FEEDS[0]),
-                    author: item.author
-                }))
-                .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-                .slice(0, 6);
+                .map(item => {
+                    // Log each item being processed
+                    console.log('Processing item:', item);
+                    return {
+                        title: item.title,
+                        content: item.content,
+                        description: item.description,
+                        link: item.link,
+                        pubDate: item.pubDate,
+                        image: item.thumbnail || item.enclosure?.link || null,
+                        sourceName: getSourceName(RSS_FEEDS[0]),
+                        author: item.author,
+                        categories: item.categories
+                    };
+                });
 
             console.log('Processed articles:', filteredNews);
             displayNews(filteredNews);
@@ -92,18 +91,27 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         newsGrid.innerHTML = articles.map(article => {
-            // Log each article as it's being rendered
-            console.log('Rendering article:', {
-                title: article.title,
-                description: article.description?.substring(0, 50) + '...',
-                thumbnail: article.thumbnail
-            });
+            // Clean up description - try content if description is empty
+            let cleanDescription = '';
+            const rawContent = article.description || article.content || '';
             
+            // Remove HTML tags and clean up the text
+            cleanDescription = rawContent
+                .replace(/<\/?[^>]+(>|$)/g, '')
+                .replace(/&nbsp;/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
+
+            // Limit description length
+            if (cleanDescription.length > 150) {
+                cleanDescription = cleanDescription.substring(0, 150) + '...';
+            }
+
             return `
                 <article class="news-card">
-                    ${article.thumbnail ? `
+                    ${article.image ? `
                         <div class="news-image">
-                            <img src="${article.thumbnail}" 
+                            <img src="${article.image}" 
                                  alt="${article.title}"
                                  onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
                         </div>
@@ -117,7 +125,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                         <h3>${article.title}</h3>
                         <div class="news-description">
-                            ${article.description}
+                            ${cleanDescription || 'No description available'}
                         </div>
                         <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="read-more">
                             Read Full Article →
