@@ -2,70 +2,44 @@
 document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
-    
-    // List of RSS feeds focused on environmental news
     const RSS_FEEDS = [
         'https://phys.org/rss-feed/earth-news/environment/earth-sciences/',
         'https://www.sciencedaily.com/rss/earth_climate/nature.xml',
-        'https://climate.nasa.gov/feed/news/',
-        // You can add more feeds here
+        'https://climate.nasa.gov/feed/news/'
     ];
 
-    async function fetchRSSFeed(url) {
-        try {
-            const response = await fetch(`https://cors-anywhere.herokuapp.com/${url}`);
-            const textData = await response.text();
-            const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(textData, 'text/xml');
-            
-            // Extract items from RSS feed
-            const items = xmlDoc.querySelectorAll('item');
-            return Array.from(items).map(item => ({
-                title: item.querySelector('title')?.textContent || '',
-                description: item.querySelector('description')?.textContent || '',
-                link: item.querySelector('link')?.textContent || '',
-                pubDate: item.querySelector('pubDate')?.textContent || '',
-                source: xmlDoc.querySelector('channel > title')?.textContent || 'News Source'
-            }));
-        } catch (error) {
-            console.error(`Error fetching RSS feed ${url}:`, error);
-            return [];
-        }
-    }
-
-    function cleanHTML(html) {
-        const div = document.createElement('div');
-        div.innerHTML = html;
-        return div.textContent || div.innerText || '';
-    }
-
-    async function fetchAllNews() {
+    async function fetchNews() {
         try {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            // Fetch all feeds concurrently
-            const allNewsPromises = RSS_FEEDS.map(feed => fetchRSSFeed(feed));
-            const allNewsArrays = await Promise.all(allNewsPromises);
-            
-            // Combine all news items
-            let allNews = allNewsArrays.flat();
+            // In a real implementation, this would call your backend API
+            // For now, we'll use a proxy service for RSS feeds
+            const response = await fetch('https://api.rss2json.com/v1/api.json', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    rss_url: RSS_FEEDS[0], // Using first feed for demo
+                    api_key: 'YOUR_RSS2JSON_API_KEY', // Get a free key from rss2json.com
+                    count: 9
+                })
+            });
 
-            // Filter for tree-related content
-            allNews = allNews.filter(item => {
+            const data = await response.json();
+            
+            if (!response.ok) throw new Error('Failed to fetch news');
+
+            // Filter for tree-related content and create cards
+            const treeNews = data.items.filter(item => {
                 const text = `${item.title} ${item.description}`.toLowerCase();
                 return text.includes('tree') || 
                        text.includes('forest') || 
                        text.includes('woodland');
             });
 
-            // Sort by date
-            allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-            // Take most recent items
-            allNews = allNews.slice(0, 9);
-
-            displayNews(allNews);
+            displayNews(treeNews);
         } catch (error) {
             showError('Failed to load news. Please try again later.');
         } finally {
@@ -83,14 +57,15 @@ document.addEventListener('DOMContentLoaded', () => {
         newsGrid.innerHTML = articles.map(article => `
             <article class="news-card">
                 <div class="news-meta">
-                    <span>${article.source}</span><br>
                     <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
                 </div>
-                <h3>${cleanHTML(article.title)}</h3>
+                <h3>${article.title}</h3>
                 <div class="news-description">
-                    ${cleanHTML(article.description).length > 150 ? 
-                      cleanHTML(article.description).substring(0, 150) + '...' : 
-                      cleanHTML(article.description)}
+                    ${article.description ? 
+                      article.description.length > 150 ? 
+                      article.description.substring(0, 150) + '...' : 
+                      article.description 
+                      : 'No description available'}
                 </div>
                 <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="read-more">
                     Read Full Article →
@@ -108,8 +83,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Initial fetch
-    fetchAllNews();
+    fetchNews();
 
     // Refresh every hour
-    setInterval(fetchAllNews, 60 * 60 * 1000);
+    setInterval(fetchNews, 60 * 60 * 1000);
 });
