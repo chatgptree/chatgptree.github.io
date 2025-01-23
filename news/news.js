@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     const RSS_FEEDS = [
-        'https://phys.org/rss-feed/earth-news/environment/earth-sciences/',
-        'https://www.sciencedaily.com/rss/earth_climate/nature.xml',
-        'https://climate.nasa.gov/feed/news/'
+        'https://www.treehugger.com/feeds/latest-rss.xml',
+        'https://forestnewsfeed.com/feed/',
+        'https://www.arborday.org/media/rss.cfm'
     ];
 
     async function fetchNews() {
@@ -13,18 +13,29 @@ document.addEventListener('DOMContentLoaded', () => {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            // Log the URL we're trying to fetch
-            const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_FEEDS[0])}&api_key=yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph&count=20`;
-            console.log('Fetching from:', apiUrl);
+            // Try each feed until one works
+            let data = null;
+            let error = null;
 
-            const response = await fetch(apiUrl);
-            console.log('Response status:', response.status);
-            
-            const data = await response.json();
-            console.log('API Response:', data);
+            for (const feed of RSS_FEEDS) {
+                try {
+                    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed)}&api_key=yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph&count=20`;
+                    console.log('Trying feed:', feed);
+                    
+                    const response = await fetch(apiUrl);
+                    data = await response.json();
+                    
+                    if (data.status === 'ok' && data.items) {
+                        break; // We found a working feed
+                    }
+                } catch (e) {
+                    error = e;
+                    continue; // Try next feed
+                }
+            }
 
             if (!data || data.status !== 'ok') {
-                throw new Error(data?.message || 'Failed to fetch news');
+                throw new Error(error || data?.message || 'Failed to fetch news');
             }
 
             // Filter for tree-related content
@@ -32,14 +43,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 const text = `${item.title} ${item.description}`.toLowerCase();
                 return text.includes('tree') || 
                        text.includes('forest') || 
-                       text.includes('woodland');
+                       text.includes('woodland') ||
+                       text.includes('plant');
             });
 
             console.log('Found tree news items:', treeNews.length);
             displayNews(treeNews);
         } catch (error) {
             console.error('Detailed error:', error);
-            showError(`Failed to load news. Error: ${error.message}`);
+            showError(`Failed to load news. Please try again later.`);
         } finally {
             loadingIndicator.classList.remove('active');
             newsGrid.style.display = 'grid';
@@ -55,6 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
         newsGrid.innerHTML = articles.map(article => `
             <article class="news-card">
                 <div class="news-meta">
+                    <span>Source: ${article.source || 'Environmental News'}</span><br>
                     <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
                 </div>
                 <h3>${article.title}</h3>
