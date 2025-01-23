@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     const RSS_FEEDS = [
-        'https://www.treehugger.com/feeds/latest-rss.xml',
-        'https://forestnewsfeed.com/feed/',
-        'https://www.arborday.org/media/rss.cfm'
+        'https://news.google.com/rss/search?q=trees+forest+environment&hl=en-US&gl=US&ceid=US:en',
+        'https://blog.nature.org/feed/',
+        'https://www.conservation.org/feed'
     ];
 
     async function fetchNews() {
@@ -19,16 +19,28 @@ document.addEventListener('DOMContentLoaded', () => {
 
             for (const feed of RSS_FEEDS) {
                 try {
-                    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed)}&api_key=yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph&count=20`;
                     console.log('Trying feed:', feed);
+                    const response = await fetch('https://api.rss2json.com/v1/api.json', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            rss_url: feed,
+                            api_key: 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph',
+                            count: 20
+                        })
+                    });
                     
-                    const response = await fetch(apiUrl);
                     data = await response.json();
+                    console.log('Response for feed:', data);
                     
-                    if (data.status === 'ok' && data.items) {
+                    if (data.status === 'ok' && data.items && data.items.length > 0) {
+                        console.log('Found working feed:', feed);
                         break; // We found a working feed
                     }
                 } catch (e) {
+                    console.error('Error with feed:', feed, e);
                     error = e;
                     continue; // Try next feed
                 }
@@ -44,8 +56,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 return text.includes('tree') || 
                        text.includes('forest') || 
                        text.includes('woodland') ||
-                       text.includes('plant');
-            });
+                       text.includes('plant') ||
+                       text.includes('environment');
+            }).slice(0, 9); // Limit to 9 items
 
             console.log('Found tree news items:', treeNews.length);
             displayNews(treeNews);
@@ -67,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
         newsGrid.innerHTML = articles.map(article => `
             <article class="news-card">
                 <div class="news-meta">
-                    <span>Source: ${article.source || 'Environmental News'}</span><br>
+                    <span>Source: ${article.author || article.source || 'Environmental News'}</span><br>
                     <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
                 </div>
                 <h3>${article.title}</h3>
