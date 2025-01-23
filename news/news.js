@@ -3,43 +3,91 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    // Curated list of positive environmental news sources
+    // Updated curated list of positive environmental news sources
     const RSS_FEEDS = [
-        'https://www.positive.news/environment/feed/',
         'https://www.goodnewsnetwork.org/category/earth/feed/',
-        'https://www.nationalforests.org/rss.xml',
+        'https://www.positive.news/environment/feed/',
+        'https://www.treehugger.com/feed',
+        'https://globalgarland.com/feed/',
         'https://forestsnews.cifor.org/feed',
-        'https://www.worldagroforestry.org/feed',
-        'https://www.ecowatch.com/rss/environment'
+        'https://www.nationalforests.org/rss.xml'
     ];
+
+    const RSS_SOURCES = {
+        'goodnewsnetwork.org': 'Good News Network',
+        'positive.news': 'Positive News',
+        'treehugger.com': 'Treehugger',
+        'globalgarland.com': 'Global Garland',
+        'forestsnews.cifor.org': 'CIFOR Forest News',
+        'nationalforests.org': 'National Forest Foundation'
+    };
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
 
-    // Keywords for filtering tree-related news
     const TREE_KEYWORDS = [
         'tree', 'forest', 'woodland', 'rainforest', 'reforestation',
         'agroforestry', 'conservation', 'biodiversity', 'ecosystem',
-        'planting', 'restoration', 'canopy', 'grove', 'jungle'
+        'planting', 'restoration', 'canopy', 'grove', 'jungle',
+        'sustainable', 'environment', 'climate', 'nature'
     ];
+
+    function getSourceName(url) {
+        try {
+            const domain = new URL(url).hostname.replace('www.', '');
+            return RSS_SOURCES[domain] || domain;
+        } catch {
+            return 'Environmental News';
+        }
+    }
+
+    function extractImageFromContent(content) {
+        if (!content) return null;
+        
+        // Try to find the first image in the content
+        const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
+        if (imgMatch && imgMatch[1]) {
+            // Avoid small images like social icons
+            if (!imgMatch[1].includes('icon') && 
+                !imgMatch[1].includes('logo') && 
+                !imgMatch[1].includes('badge')) {
+                return imgMatch[1];
+            }
+        }
+        return null;
+    }
+
+    function getArticleImage(article) {
+        // Check all possible image sources in order of preference
+        return article.enclosure?.link || // RSS enclosure
+               article.thumbnail || // Direct thumbnail
+               article.image || // Some feeds use this
+               extractImageFromContent(article.content) || // Look for image in content
+               extractImageFromContent(article.description) || // Look for image in description
+               null;
+    }
 
     async function fetchNews() {
         try {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            // Fetch from all feeds concurrently
             const allNewsPromises = RSS_FEEDS.map(async feed => {
                 try {
+                    console.log('Fetching:', feed);
                     const url = new URL('https://api.rss2json.com/v1/api.json');
                     url.searchParams.append('rss_url', feed);
                     url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
-                    url.searchParams.append('count', '50'); // Increased to get more articles per feed
+                    url.searchParams.append('count', '50');
 
                     const response = await fetch(url);
                     const data = await response.json();
                     
                     if (data.status === 'ok' && data.items?.length > 0) {
-                        return data.items;
+                        return data.items.map(item => ({
+                            ...item,
+                            extractedImage: getArticleImage(item),
+                            sourceName: getSourceName(feed)
+                        }));
                     }
                 } catch (e) {
                     console.error('Error fetching feed:', feed, e);
@@ -47,11 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 return [];
             });
 
-            // Combine all news items
             const allResults = await Promise.all(allNewsPromises);
             let allNews = allResults.flat();
 
-            // Filter for articles from the last 3 months
             const threeMonthsAgo = new Date();
             threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
 
@@ -60,7 +106,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     const pubDate = new Date(item.pubDate);
                     if (pubDate < threeMonthsAgo) return false;
 
-                    // Check for tree-related content
                     const text = `${item.title} ${item.description}`.toLowerCase();
                     return TREE_KEYWORDS.some(keyword => 
                         text.includes(keyword.toLowerCase())
@@ -76,8 +121,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         .trim()
                 }))
                 .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-                .slice(0, 12); // Showing more articles
+                .slice(0, 12);
 
+            console.log(`Found ${filteredNews.length} articles`);
             displayNews(filteredNews);
         } catch (error) {
             console.error('Detailed error:', error);
@@ -96,16 +142,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
         newsGrid.innerHTML = articles.map(article => `
             <article class="news-card">
-                ${article.enclosure?.link || article.thumbnail ? `
+                ${article.extractedImage ? `
                     <div class="news-image">
-                        <img src="${article.enclosure?.link || article.thumbnail}" 
+                        <img src="${article.extractedImage}" 
                              alt="${article.title}"
                              onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
                     </div>
                 ` : ''}
                 <div class="news-content">
                     <div class="news-meta">
-                        <span>Source: ${article.author || article.source || article.categories?.[0] || 'Environmental News'}</span><br>
+                        <span>Source: ${article.sourceName}</span><br>
                         <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
                     </div>
                     <h3>${article.title}</h3>
