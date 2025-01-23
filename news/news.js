@@ -27,8 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const TREE_KEYWORDS = [
         'tree', 'forest', 'woodland', 'rainforest', 'reforestation',
         'agroforestry', 'conservation', 'biodiversity', 'ecosystem',
-        'planting', 'restoration', 'canopy', 'grove', 'jungle',
-        'sustainable', 'environment', 'climate', 'nature'
+        'planting', 'restoration', 'canopy', 'grove', 'jungle'
     ];
 
     function getSourceName(url) {
@@ -38,32 +37,6 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch {
             return 'Environmental News';
         }
-    }
-
-    function extractImageFromContent(content) {
-        if (!content) return null;
-        
-        // Try to find the first image in the content
-        const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
-        if (imgMatch && imgMatch[1]) {
-            // Avoid small images like social icons
-            if (!imgMatch[1].includes('icon') && 
-                !imgMatch[1].includes('logo') && 
-                !imgMatch[1].includes('badge')) {
-                return imgMatch[1];
-            }
-        }
-        return null;
-    }
-
-    function getArticleImage(article) {
-        // Check all possible image sources in order of preference
-        return article.enclosure?.link || // RSS enclosure
-               article.thumbnail || // Direct thumbnail
-               article.image || // Some feeds use this
-               extractImageFromContent(article.content) || // Look for image in content
-               extractImageFromContent(article.description) || // Look for image in description
-               null;
     }
 
     async function fetchNews() {
@@ -85,7 +58,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (data.status === 'ok' && data.items?.length > 0) {
                         return data.items.map(item => ({
                             ...item,
-                            extractedImage: getArticleImage(item),
                             sourceName: getSourceName(feed)
                         }));
                     }
@@ -142,9 +114,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         newsGrid.innerHTML = articles.map(article => `
             <article class="news-card">
-                ${article.extractedImage ? `
+                ${article.thumbnail || article.enclosure?.link ? `
                     <div class="news-image">
-                        <img src="${article.extractedImage}" 
+                        <img src="${article.thumbnail || article.enclosure?.link}" 
                              alt="${article.title}"
                              onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
                     </div>
