@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 body: JSON.stringify({
                     rss_url: RSS_FEEDS[0], // Using first feed for demo
-                    api_key: 'YOUR_RSS2JSON_API_KEY', // Get a free key from rss2json.com
+                    api_key: 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph',
                     count: 9
                 })
             });
