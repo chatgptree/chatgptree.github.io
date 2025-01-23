@@ -13,25 +13,12 @@ document.addEventListener('DOMContentLoaded', () => {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            // In a real implementation, this would call your backend API
-            // For now, we'll use a proxy service for RSS feeds
-            const response = await fetch('https://api.rss2json.com/v1/api.json', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    rss_url: RSS_FEEDS[0], // Using first feed for demo
-                    api_key: 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph', //https://rss2json.com/
-                    count: 9
-                })
-            });
-
+            const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_FEEDS[0])}&api_key=yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph&count=20`);
             const data = await response.json();
             
-            if (!response.ok) throw new Error('Failed to fetch news');
+            if (data.status !== 'ok') throw new Error('Failed to fetch news');
 
-            // Filter for tree-related content and create cards
+            // Filter for tree-related content
             const treeNews = data.items.filter(item => {
                 const text = `${item.title} ${item.description}`.toLowerCase();
                 return text.includes('tree') || 
@@ -41,6 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             displayNews(treeNews);
         } catch (error) {
+            console.error('Error:', error);
             showError('Failed to load news. Please try again later.');
         } finally {
             loadingIndicator.classList.remove('active');
