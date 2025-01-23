@@ -3,73 +3,115 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    // Updated RSS feeds with reliable sources
+    // Expanded list of environmental news sources
     const RSS_FEEDS = [
         'https://www.treehugger.com/feed',
         'https://www.sciencedaily.com/rss/earth_climate/trees.xml',
         'https://mongabay.com/feed',
-        'https://www.theguardian.com/environment/forests/rss'
+        'https://www.theguardian.com/environment/forests/rss',
+        'https://www.positive.news/environment/feed/',
+        'https://www.goodnewsnetwork.org/category/earth/feed/',
+        'https://www.earthisland.org/journal/index.php/feed',
+        'https://www.worldagroforestry.org/feed',
+        'https://forestsnews.cifor.org/feed',
+        'https://www.nationalforests.org/rss.xml'
     ];
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
+
+    // Keywords for filtering positive news
+    const POSITIVE_KEYWORDS = [
+        'success', 'breakthrough', 'achieved', 'saved', 'protected',
+        'restored', 'planted', 'growing', 'improvement', 'hope',
+        'solution', 'positive', 'conservation', 'preserved', 'sustainable',
+        'recovery', 'innovative', 'progress', 'initiative', 'milestone'
+    ];
+
+    // Keywords for filtering tree-related news
+    const TREE_KEYWORDS = [
+        'tree', 'forest', 'woodland', 'rainforest', 'reforestation',
+        'agroforestry', 'conservation', 'biodiversity', 'ecosystem',
+        'planting', 'restoration', 'canopy', 'grove', 'jungle'
+    ];
+
+    // Keywords to exclude (negative news)
+    const NEGATIVE_KEYWORDS = [
+        'death', 'died', 'killed', 'destruction', 'disaster',
+        'devastating', 'catastrophe', 'crisis', 'emergency', 'collapse',
+        'extinction', 'lost', 'damage', 'illegal', 'threat'
+    ];
 
     async function fetchNews() {
         try {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            let data = null;
-            let error = null;
-
-            for (const feed of RSS_FEEDS) {
+            // Fetch from all feeds concurrently
+            const allNewsPromises = RSS_FEEDS.map(async feed => {
                 try {
-                    console.log('Trying feed:', feed);
-                    
                     const url = new URL('https://api.rss2json.com/v1/api.json');
                     url.searchParams.append('rss_url', feed);
                     url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
                     url.searchParams.append('count', '20');
 
                     const response = await fetch(url);
-                    data = await response.json();
+                    const data = await response.json();
                     
-                    if (data.status === 'ok' && data.items && data.items.length > 0) {
-                        console.log('Found working feed:', feed);
-                        break;
+                    if (data.status === 'ok' && data.items?.length > 0) {
+                        return data.items;
                     }
                 } catch (e) {
-                    error = e;
-                    continue;
+                    console.error('Error fetching feed:', feed, e);
                 }
-            }
+                return [];
+            });
 
-            if (!data || data.status !== 'ok') {
-                throw new Error(error || data?.message || 'Failed to fetch news');
-            }
+            // Combine all news items
+            const allResults = await Promise.all(allNewsPromises);
+            let allNews = allResults.flat();
 
-            // Filter and process news items
-            const treeNews = data.items.filter(item => {
-                const text = `${item.title} ${item.description}`.toLowerCase();
-                return text.includes('tree') || 
-                       text.includes('forest') || 
-                       text.includes('woodland') ||
-                       text.includes('plant') ||
-                       text.includes('environment');
-            })
-            .map(item => ({
-                ...item,
-                // Clean up the link to ensure it's the actual article URL
-                link: item.link.replace(/\?.*$/, ''), // Remove query parameters
-                // Clean up the description to remove HTML tags
-                description: item.description
-                    .replace(/<\/?[^>]+(>|$)/g, '') // Remove HTML tags
-                    .replace(/&nbsp;/g, ' ') // Replace &nbsp; with spaces
-                    .replace(/\s+/g, ' ') // Normalize whitespace
-                    .trim()
-            }))
-            .slice(0, 9);
+            // Filter for recent articles (last two weeks)
+            const twoWeeksAgo = new Date();
+            twoWeeksAgo.setDate(twoWeeksAgo.getDate() - 30);
 
-            displayNews(treeNews);
+            const filteredNews = allNews
+                .filter(item => {
+                    const pubDate = new Date(item.pubDate);
+                    if (pubDate < twoWeeksAgo) return false;
+
+                    const text = `${item.title} ${item.description}`.toLowerCase();
+                    
+                    // Check for tree-related content
+                    const hasTreeContent = TREE_KEYWORDS.some(keyword => 
+                        text.includes(keyword.toLowerCase())
+                    );
+                    if (!hasTreeContent) return false;
+
+                    // Check for positive content
+                    const hasPositive = POSITIVE_KEYWORDS.some(keyword => 
+                        text.includes(keyword.toLowerCase())
+                    );
+                    
+                    // Check for negative content
+                    const hasNegative = NEGATIVE_KEYWORDS.some(keyword => 
+                        text.includes(keyword.toLowerCase())
+                    );
+
+                    return hasPositive && !hasNegative;
+                })
+                .map(item => ({
+                    ...item,
+                    link: item.link.replace(/\?.*$/, ''),
+                    description: item.description
+                        .replace(/<\/?[^>]+(>|$)/g, '')
+                        .replace(/&nbsp;/g, ' ')
+                        .replace(/\s+/g, ' ')
+                        .trim()
+                }))
+                .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+                .slice(0, 9);
+
+            displayNews(filteredNews);
         } catch (error) {
             console.error('Detailed error:', error);
             showError(`Failed to load news. Please try again later.`);
@@ -81,7 +123,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayNews(articles) {
         if (articles.length === 0) {
-            showError('No tree news found at the moment. Please check back later.');
+            showError('No recent positive tree news found. Please check back later.');
             return;
         }
 
