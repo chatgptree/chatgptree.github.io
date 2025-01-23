@@ -1,4 +1,8 @@
 // news/news.css
+
+.news-header {
+    background-image: url('../images/news.jpg') !important;
+}
 .news-nav {
     margin-top: 1rem;
 }
