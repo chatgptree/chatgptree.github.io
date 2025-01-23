@@ -1,7 +1,15 @@
-// news/news.js
+'use strict';
+
 document.addEventListener('DOMContentLoaded', () => {
+    // Check browser compatibility
+    if (!window.fetch || !window.URL) {
+        showError('Your browser may not support all features. Please update your browser.');
+        return;
+    }
+
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
+    const errorContainer = document.getElementById('errorContainer');
     
     const RSS_FEEDS = [
         'https://www.goodnewsnetwork.org/category/earth/feed/'
@@ -12,37 +20,52 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
-
     const TREE_KEYWORDS = ['tree', 'forest', 'woodland', 'rainforest'];
+    const API_TIMEOUT = 10000; // 10 seconds
 
     function getSourceName(url) {
         try {
             const domain = new URL(url).hostname.replace('www.', '');
             return RSS_SOURCES[domain] || domain;
         } catch (error) {
+            console.error('Error parsing URL:', error);
             return 'Environmental News';
         }
     }
 
     async function fetchNews() {
+        // Check network connectivity
+        if (!navigator.onLine) {
+            showError('No internet connection. Please check your connection and try again.');
+            return;
+        }
+
         try {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
+
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), API_TIMEOUT);
 
             const url = new URL('https://api.rss2json.com/v1/api.json');
             url.searchParams.append('rss_url', RSS_FEEDS[0]);
             url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
             url.searchParams.append('count', '20');
 
-            const response = await fetch(url.toString());
+            const response = await fetch(url.toString(), {
+                signal: controller.signal
+            });
+            clearTimeout(timeoutId);
+
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
             const data = await response.json();
             
             if (!data || data.status !== 'ok') {
-                throw new Error('Failed to fetch news feed');
+                throw new Error('Invalid data received from RSS feed');
             }
-
-            // Log the first full article to see its structure
-            console.log('Sample raw article:', data.items[0]);
 
             const threeMonthsAgo = new Date();
             threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
@@ -57,27 +80,27 @@ document.addEventListener('DOMContentLoaded', () => {
                         text.includes(keyword.toLowerCase())
                     );
                 })
-                .map(item => {
-                    // Log each item being processed
-                    console.log('Processing item:', item);
-                    return {
-                        title: item.title,
-                        content: item.content,
-                        description: item.description,
-                        link: item.link,
-                        pubDate: item.pubDate,
-                        image: item.thumbnail || item.enclosure?.link || null,
-                        sourceName: getSourceName(RSS_FEEDS[0]),
-                        author: item.author,
-                        categories: item.categories
-                    };
-                });
+                .map(item => ({
+                    title: item.title || 'Untitled',
+                    content: item.content || '',
+                    description: item.description || '',
+                    link: item.link || '#',
+                    pubDate: item.pubDate || new Date().toISOString(),
+                    image: item.thumbnail || item.enclosure?.link || null,
+                    sourceName: getSourceName(RSS_FEEDS[0]),
+                    author: item.author || '',
+                    categories: item.categories || []
+                }));
 
-            console.log('Processed articles:', filteredNews);
             displayNews(filteredNews);
+
         } catch (error) {
-            console.error('Detailed error:', error);
-            showError(`Unable to load news. Please try again.`);
+            console.error('Fetch error:', error);
+            if (error.name === 'AbortError') {
+                showError('Request timed out. Please try again.');
+            } else {
+                showError(`Unable to load news: ${error.message}`);
+            }
         } finally {
             loadingIndicator.classList.remove('active');
             newsGrid.style.display = 'grid';
@@ -85,64 +108,87 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function displayNews(articles) {
-        if (articles.length === 0) {
+        if (!Array.isArray(articles) || articles.length === 0) {
             showError('No news found. Please try again later.');
             return;
         }
 
-        newsGrid.innerHTML = articles.map(article => {
-            // Clean up description - try content if description is empty
-            let cleanDescription = '';
-            const rawContent = article.description || article.content || '';
-            
-            // Remove HTML tags and clean up the text
-            cleanDescription = rawContent
-                .replace(/<\/?[^>]+(>|$)/g, '')
-                .replace(/&nbsp;/g, ' ')
-                .replace(/\s+/g, ' ')
-                .trim();
+        try {
+            newsGrid.innerHTML = articles.map(article => {
+                let cleanDescription = '';
+                try {
+                    const rawContent = article.description || article.content || '';
+                    cleanDescription = rawContent
+                        .replace(/<\/?[^>]+(>|$)/g, '')
+                        .replace(/&nbsp;/g, ' ')
+                        .replace(/\s+/g, ' ')
+                        .trim();
 
-            // Limit description length
-            if (cleanDescription.length > 150) {
-                cleanDescription = cleanDescription.substring(0, 150) + '...';
-            }
+                    if (cleanDescription.length > 150) {
+                        cleanDescription = cleanDescription.substring(0, 150) + '...';
+                    }
+                } catch (e) {
+                    console.error('Error cleaning description:', e);
+                    cleanDescription = 'Description unavailable';
+                }
 
-            return `
-                <article class="news-card">
-                    ${article.image ? `
-                        <div class="news-image">
-                            <img src="${article.image}" 
-                                 alt="${article.title}"
-                                 onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
+                return `
+                    <article class="news-card">
+                        ${article.image ? `
+                            <div class="news-image">
+                                <img src="${article.image}" 
+                                     alt="${article.title}"
+                                     loading="lazy"
+                                     onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
+                            </div>
+                        ` : ''}
+                        <div class="news-content">
+                            <div class="news-meta">
+                                <span class="source">Source: ${article.sourceName}</span>
+                                ${article.author ? `<span class="author"> | By ${article.author}</span>` : ''}
+                                <br>
+                                <span class="date">Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
+                            </div>
+                            <h3 class="title">${article.title}</h3>
+                            <div class="news-description">
+                                ${cleanDescription || 'No description available'}
+                            </div>
+                            <a href="${article.link}" 
+                               target="_blank" 
+                               rel="noopener noreferrer" 
+                               class="read-more"
+                               aria-label="Read full article about ${article.title}">
+                                Read Full Article →
+                            </a>
                         </div>
-                    ` : ''}
-                    <div class="news-content">
-                        <div class="news-meta">
-                            <span>Source: ${article.sourceName}</span>
-                            ${article.author ? `<span> | By ${article.author}</span>` : ''}
-                            <br>
-                            <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
-                        </div>
-                        <h3>${article.title}</h3>
-                        <div class="news-description">
-                            ${cleanDescription || 'No description available'}
-                        </div>
-                        <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="read-more">
-                            Read Full Article →
-                        </a>
-                    </div>
-                </article>
-            `;
-        }).join('');
+                    </article>
+                `;
+            }).join('');
+
+        } catch (error) {
+            console.error('Error displaying news:', error);
+            showError('Error displaying news items');
+        }
     }
 
     function showError(message) {
         const errorDiv = document.createElement('div');
         errorDiv.className = 'error-message active';
         errorDiv.textContent = message;
+        
+        // Clear existing content
         newsGrid.innerHTML = '';
-        newsGrid.appendChild(errorDiv);
+        errorContainer.innerHTML = '';
+        
+        // Add error message
+        errorContainer.appendChild(errorDiv);
     }
+
+    // Add offline/online handlers
+    window.addEventListener('online', fetchNews);
+    window.addEventListener('offline', () => {
+        showError('Your device appears to be offline. Please check your connection.');
+    });
 
     // Initial fetch
     fetchNews();
