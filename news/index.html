@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Canopy Chronicles - ChatGPTree</title>
     
-    <!-- Meta tags (copy from your main index.html and update for news page) -->
+    <!-- Meta tags -->
     <meta name="description" content="Stay updated with the latest positive tree news and environmental updates from around the world.">
     <meta name="keywords" content="tree news, environmental news, positive tree stories, ChatGPTree news">
     
@@ -14,27 +15,31 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="../styles.css">
     <link rel="stylesheet" href="news.css">
+
+    <!-- Polyfills for older browsers -->
+    <script src="https://cdn.polyfill.io/v3/polyfill.min.js?features=fetch,URL"></script>
 </head>
 <body>
-<header class="news-header">
-    <div class="container">
-        <h1>Canopy Chronicles</h1>
-        <nav class="news-nav">
-            <a href="../index.html" class="nav-link">
-                <i class="fa-solid fa-home"></i> Home
-            </a>
-        </nav>
-    </div>
-</header>
+    <header class="news-header">
+        <div class="container">
+            <h1>Canopy Chronicles</h1>
+            <nav class="news-nav">
+                <a href="../index.html" class="nav-link">
+                    <i class="fa-solid fa-home"></i> Home
+                </a>
+            </nav>
+        </div>
+    </header>
     
     <main class="container">
         <div class="loading-indicator">
             <i class="fa-solid fa-leaf fa-spin"></i>
-            Loading latest tree news...
+            <span>Loading latest tree news...</span>
         </div>
         <div id="newsGrid" class="news-grid">
             <!-- News cards will be inserted here by JavaScript -->
         </div>
+        <div id="errorContainer" class="error-container"></div>
     </main>
 
     <footer>
