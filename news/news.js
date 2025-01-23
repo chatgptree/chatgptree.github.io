@@ -3,37 +3,28 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    // Combined list of all feeds - reduced for initial load speed
+    // Reduced feed list for testing
     const RSS_FEEDS = [
         'https://www.goodnewsnetwork.org/category/earth/feed/',
         'https://www.positive.news/environment/feed/',
-        'https://www.treehugger.com/feed',
-        'https://news.mongabay.com/feed/',
-        'https://www.sciencedaily.com/rss/earth_climate/trees.xml'
+        'https://www.treehugger.com/feed'
     ];
 
     const RSS_SOURCES = {
         'goodnewsnetwork.org': 'Good News Network',
         'positive.news': 'Positive News',
-        'treehugger.com': 'Treehugger',
-        'mongabay.com': 'Mongabay News',
-        'sciencedaily.com': 'ScienceDaily'
+        'treehugger.com': 'Treehugger'
     };
 
     const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
 
-    // Simplified keywords for better matching
-    const TREE_KEYWORDS = [
-        'tree', 'forest', 'woodland', 'rainforest',
-        'reforestation', 'conservation', 'planting'
-    ];
+    const TREE_KEYWORDS = ['tree', 'forest', 'woodland', 'rainforest'];
 
     function getSourceName(url) {
         try {
             const domain = new URL(url).hostname.replace('www.', '');
             return RSS_SOURCES[domain] || domain;
         } catch (error) {
-            console.error('Error getting source name:', error);
             return 'Environmental News';
         }
     }
@@ -43,26 +34,38 @@ document.addEventListener('DOMContentLoaded', () => {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            // Try to fetch from each feed sequentially instead of all at once
             let allNews = [];
             for (const feed of RSS_FEEDS) {
                 try {
-                    console.log('Fetching:', feed);
                     const url = new URL('https://api.rss2json.com/v1/api.json');
                     url.searchParams.append('rss_url', feed);
                     url.searchParams.append('api_key', 'yk1rva0ii4prfxqjuqwvxjz3w10vyp56h5tmlvph');
-                    url.searchParams.append('count', '10'); // Reduced for mobile
+                    url.searchParams.append('count', '10');
 
                     const response = await fetch(url);
-                    console.log('Response status:', response.status);
                     const data = await response.json();
-                    console.log('Feed data received:', feed);
                     
                     if (data.status === 'ok' && data.items?.length > 0) {
-                        const items = data.items.map(item => ({
-                            ...item,
-                            sourceName: getSourceName(feed)
-                        }));
+                        // Log first item to see structure
+                        console.log('Sample article from ' + feed + ':', data.items[0]);
+                        
+                        const items = data.items.map(item => {
+                            // Clean and validate content
+                            const cleanedItem = {
+                                ...item,
+                                title: item.title || 'No Title',
+                                description: item.description || item.content || 'No description available',
+                                link: item.link || '#',
+                                pubDate: item.pubDate || new Date().toISOString(),
+                                thumbnail: item.thumbnail || item.enclosure?.link || null,
+                                sourceName: getSourceName(feed)
+                            };
+                            
+                            // Log cleaned item
+                            console.log('Cleaned item:', cleanedItem);
+                            
+                            return cleanedItem;
+                        });
                         allNews = allNews.concat(items);
                     }
                 } catch (e) {
@@ -70,50 +73,36 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
 
-            console.log('Total news items fetched:', allNews.length);
-
             const threeMonthsAgo = new Date();
             threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
 
             const filteredNews = allNews
                 .filter(item => {
-                    try {
-                        const pubDate = new Date(item.pubDate);
-                        if (pubDate < threeMonthsAgo) return false;
+                    const pubDate = new Date(item.pubDate);
+                    if (pubDate < threeMonthsAgo) return false;
 
-                        const text = `${item.title} ${item.description}`.toLowerCase();
-                        return TREE_KEYWORDS.some(keyword => 
-                            text.includes(keyword.toLowerCase())
-                        );
-                    } catch (error) {
-                        console.error('Error filtering item:', error);
-                        return false;
-                    }
+                    const text = `${item.title} ${item.description}`.toLowerCase();
+                    return TREE_KEYWORDS.some(keyword => 
+                        text.includes(keyword.toLowerCase())
+                    );
                 })
                 .map(item => ({
                     ...item,
-                    link: item.link.replace(/\?.*$/, ''),
                     description: item.description
-                        ? item.description
-                            .replace(/<\/?[^>]+(>|$)/g, '')
-                            .replace(/&nbsp;/g, ' ')
-                            .replace(/\s+/g, ' ')
-                            .trim()
-                        : 'No description available'
+                        .replace(/<\/?[^>]+(>|$)/g, '')
+                        .replace(/&nbsp;/g, ' ')
+                        .replace(/\s+/g, ' ')
+                        .trim()
+                        .substring(0, 150) + '...'
                 }))
                 .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-                .slice(0, 6); // Reduced for mobile
+                .slice(0, 6);
 
-            console.log(`Found ${filteredNews.length} tree-related articles`);
-            
-            if (filteredNews.length === 0) {
-                throw new Error('No articles found');
-            }
-
+            console.log('Final filtered articles:', filteredNews);
             displayNews(filteredNews);
         } catch (error) {
             console.error('Detailed error:', error);
-            showError(`Unable to load news. Please check your connection and try again.`);
+            showError(`Unable to load news. Please try again.`);
         } finally {
             loadingIndicator.classList.remove('active');
             newsGrid.style.display = 'grid';
@@ -122,38 +111,39 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayNews(articles) {
         if (articles.length === 0) {
-            showError('No tree-related news found. Please try again later.');
+            showError('No news found. Please try again later.');
             return;
         }
 
-        newsGrid.innerHTML = articles.map(article => `
-            <article class="news-card">
-                ${article.thumbnail || article.enclosure?.link ? `
-                    <div class="news-image">
-                        <img src="${article.thumbnail || article.enclosure?.link}" 
-                             alt="${article.title}"
-                             onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
+        newsGrid.innerHTML = articles.map(article => {
+            // Log each article as it's being rendered
+            console.log('Rendering article:', article);
+            
+            return `
+                <article class="news-card">
+                    ${article.thumbnail ? `
+                        <div class="news-image">
+                            <img src="${article.thumbnail}" 
+                                 alt="${article.title}"
+                                 onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';">
+                        </div>
+                    ` : ''}
+                    <div class="news-content">
+                        <div class="news-meta">
+                            <span>Source: ${article.sourceName}</span><br>
+                            <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
+                        </div>
+                        <h3>${article.title || 'Untitled'}</h3>
+                        <div class="news-description">
+                            ${article.description || 'No description available'}
+                        </div>
+                        <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="read-more">
+                            Read Full Article →
+                        </a>
                     </div>
-                ` : ''}
-                <div class="news-content">
-                    <div class="news-meta">
-                        <span>Source: ${article.sourceName}</span><br>
-                        <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
-                    </div>
-                    <h3>${article.title}</h3>
-                    <div class="news-description">
-                        ${article.description ? 
-                          article.description.length > 150 ? 
-                          article.description.substring(0, 150) + '...' : 
-                          article.description 
-                          : 'No description available'}
-                    </div>
-                    <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="read-more">
-                        Read Full Article →
-                    </a>
-                </div>
-            </article>
-        `).join('');
+                </article>
+            `;
+        }).join('');
     }
 
     function showError(message) {
@@ -165,15 +155,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Initial fetch
-    fetchNews().catch(error => {
-        console.error('Failed to fetch news:', error);
-        showError('Failed to load news. Please try again later.');
-    });
+    fetchNews();
 
     // Refresh every hour
-    setInterval(() => {
-        fetchNews().catch(error => {
-            console.error('Failed to refresh news:', error);
-        });
-    }, 60 * 60 * 1000);
+    setInterval(fetchNews, 60 * 60 * 1000);
 });
