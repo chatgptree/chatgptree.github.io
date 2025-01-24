@@ -10,6 +10,27 @@
     width: 100%;
 }
 
+/* Add to beginning of news.css */
+.news-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .news-container {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .news-container {
+        padding: 10px;
+    }
+}
+
 /* Navigation Styles */
 .news-nav {
     margin-top: 1rem;
