@@ -6,27 +6,20 @@ async function fetchRSS(url) {
     const response = await fetch(url);
     const text = await response.text();
     
-    // Log first item for debugging
-    console.log('Raw feed sample:', text.substring(0, 2000));
-    
     const getTagContent = (tag, xml) => {
         const match = xml.match(new RegExp(`<${tag}[^>]*>(.*?)<\/${tag}>`, 's'));
-        return match ? match[1] : '';
+        return match ? match[1].replace(/<!\[CDATA\[|\]\]>/g, '') : '';
     };
 
     const getImage = (item) => {
-        console.log('Processing item:', item.substring(0, 500));
-        
-        // Check for img tags in description
-        const description = getTagContent('description', item);
-        console.log('Description content:', description.substring(0, 200));
-        
-        const imgMatch = description.match(/<img[^>]*src=["']([^"']+)["']/);
+        // Try to find image in content:encoded tag
+        const content = getTagContent('content:encoded', item);
+        const imgMatch = content.match(/<img[^>]*src="([^"]*)"[^>]*>/);
         if (imgMatch) {
-            console.log('Found image in description:', imgMatch[1]);
+            console.log('Found image in content:', imgMatch[1]);
             return imgMatch[1];
         }
-        
+
         return '../images/bazzaweb2.jpg';
     };
 
@@ -38,6 +31,7 @@ async function fetchRSS(url) {
         while ((match = itemRegex.exec(xml)) !== null) {
             const item = match[1];
             const image = getImage(item);
+            
             items.push({
                 title: getTagContent('title', item),
                 description: getTagContent('description', item),
@@ -57,10 +51,10 @@ async function fetchNews() {
     try {
         const newsDir = path.join(__dirname, '../news');
         await fs.mkdir(newsDir, { recursive: true });
-        console.log('Fetching news...');
 
         const RSS_URL = 'https://www.goodnewsnetwork.org/category/earth/feed/';
         const articles = await fetchRSS(RSS_URL);
+        console.log(`Found ${articles.length} articles`);
 
         const newsData = {
             lastUpdated: new Date().toISOString(),
@@ -81,6 +75,7 @@ async function fetchNews() {
 
         const outputPath = path.join(newsDir, 'news-data.json');
         await fs.writeFile(outputPath, JSON.stringify(newsData, null, 2));
+        console.log('News data written successfully');
     } catch (error) {
         console.error('Error:', error);
         process.exit(1);
