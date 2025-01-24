@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Test</title>
+    <style>
+        .news-card {
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+        }
+        .news-image img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="newsGrid"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const newsGrid = document.getElementById('newsGrid');
+            
+            try {
+                console.log('Starting fetch...');
+                const response = await fetch('./news-data.json');
+                console.log('Response:', response);
+                
+                const data = await response.json();
+                console.log('Data loaded:', data);
+
+                if (data.articles) {
+                    const html = data.articles.map(article => `
+                        <div class="news-card">
+                            <h3>${article.title}</h3>
+                            <div class="news-image">
+                                <img src="${article.image}" alt="${article.title}">
+                            </div>
+                            <p>${article.description}</p>
+                        </div>
+                    `).join('');
+
+                    newsGrid.innerHTML = html;
+                    console.log('News displayed');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                newsGrid.innerHTML = `<p style="color: red">Error: ${error.message}</p>`;
+            }
+        });
+    </script>
+</body>
+</html>
