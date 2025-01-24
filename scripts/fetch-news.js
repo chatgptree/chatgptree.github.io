@@ -6,33 +6,27 @@ async function fetchRSS(url) {
     const response = await fetch(url);
     const text = await response.text();
     
+    // Log first item for debugging
+    console.log('Raw feed sample:', text.substring(0, 2000));
+    
     const getTagContent = (tag, xml) => {
         const match = xml.match(new RegExp(`<${tag}[^>]*>(.*?)<\/${tag}>`, 's'));
         return match ? match[1] : '';
     };
 
     const getImage = (item) => {
-        // Try to find featured image
-        const mediaContent = item.match(/<media:content[^>]*url="([^"]*)"[^>]*type="image\/[^"]*"[^>]*>/);
-        if (mediaContent) return mediaContent[1];
-
-        // Look for og:image meta tag in content
-        const ogImage = item.match(/<meta property="og:image" content="([^"]*)">/);
-        if (ogImage) return ogImage[1];
-
-        // Find first image in content:encoded
-        const contentEncoded = getTagContent('content:encoded', item);
-        if (contentEncoded) {
-            const imgMatch = contentEncoded.match(/<img[^>]*data-orig-file="([^"]*)"[^>]*>/);
-            if (imgMatch) return imgMatch[1];
-        }
-
-        // Look for image in description
+        console.log('Processing item:', item.substring(0, 500));
+        
+        // Check for img tags in description
         const description = getTagContent('description', item);
-        const descImg = description.match(/<img[^>]*src="([^"]*)"[^>]*>/);
-        if (descImg && !descImg[1].includes('avatar')) return descImg[1];
-
-        // Default image if nothing found
+        console.log('Description content:', description.substring(0, 200));
+        
+        const imgMatch = description.match(/<img[^>]*src=["']([^"']+)["']/);
+        if (imgMatch) {
+            console.log('Found image in description:', imgMatch[1]);
+            return imgMatch[1];
+        }
+        
         return '../images/bazzaweb2.jpg';
     };
 
@@ -44,8 +38,6 @@ async function fetchRSS(url) {
         while ((match = itemRegex.exec(xml)) !== null) {
             const item = match[1];
             const image = getImage(item);
-            console.log('Found image URL:', image);
-            
             items.push({
                 title: getTagContent('title', item),
                 description: getTagContent('description', item),
@@ -87,14 +79,8 @@ async function fetchNews() {
             }))
         };
 
-        console.log('First article:', {
-            title: newsData.articles[0].title,
-            image: newsData.articles[0].image
-        });
-
         const outputPath = path.join(newsDir, 'news-data.json');
         await fs.writeFile(outputPath, JSON.stringify(newsData, null, 2));
-        console.log('News data written successfully');
     } catch (error) {
         console.error('Error:', error);
         process.exit(1);
