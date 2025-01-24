@@ -5,7 +5,7 @@ const path = require('path');
 async function fetchRSS(url) {
     const response = await fetch(url);
     const text = await response.text();
-    console.log('Feed sample:', text.substring(0, 500));
+    console.log(`Fetching from ${url}`);
 
     const getTagContent = (tag, xml) => {
         const match = xml.match(new RegExp(`<${tag}[^>]*>(.*?)<\/${tag}>`, 's'));
@@ -39,6 +39,7 @@ async function fetchRSS(url) {
         while ((match = itemRegex.exec(xml)) !== null) {
             const item = match[1];
             const image = getImage(item);
+            const sourceDomain = new URL(url).hostname;
             
             items.push({
                 title: getTagContent('title', item),
@@ -46,7 +47,8 @@ async function fetchRSS(url) {
                 link: getTagContent('link', item),
                 pubDate: getTagContent('pubDate', item),
                 author: getTagContent('creator', item) || getTagContent('author', item),
-                image: image
+                image: image,
+                sourceName: sourceDomain.replace('www.', '')
             });
         }
         return items;
@@ -60,26 +62,45 @@ async function fetchNews() {
         const newsDir = path.join(__dirname, '../news');
         await fs.mkdir(newsDir, { recursive: true });
 
-        // Changed to Treehugger's Earth & Climate RSS feed
-        const RSS_URL = 'https://www.treehugger.com/feeds/earth-climate/';
-        const articles = await fetchRSS(RSS_URL);
-        console.log(`Found ${articles.length} articles`);
+        const RSS_FEEDS = [
+            'https://phys.org/rss-feed/earth-news/environment/',
+            'https://news.mongabay.com/feed/'
+        ];
+
+        let allArticles = [];
+        for (const feed of RSS_FEEDS) {
+            try {
+                const articles = await fetchRSS(feed);
+                allArticles = allArticles.concat(articles);
+            } catch (error) {
+                console.error(`Error fetching ${feed}:`, error);
+            }
+        }
+
+        console.log(`Found ${allArticles.length} total articles`);
+
+        if (allArticles.length === 0) {
+            throw new Error('No articles found from any feeds');
+        }
 
         const newsData = {
             lastUpdated: new Date().toISOString(),
-            articles: articles.slice(0, 20).map(item => ({
-                title: item.title.trim(),
-                description: item.description
-                    .replace(/<\/?[^>]+(>|$)/g, '')
-                    .replace(/&#8230;/g, '...')
-                    .replace(/&#8217;/g, "'")
-                    .substring(0, 150) + '...',
-                link: item.link,
-                pubDate: item.pubDate,
-                sourceName: 'Treehugger',
-                author: item.author,
-                image: item.image
-            }))
+            articles: allArticles
+                .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+                .slice(0, 20)
+                .map(item => ({
+                    title: item.title.trim(),
+                    description: item.description
+                        .replace(/<\/?[^>]+(>|$)/g, '')
+                        .replace(/&#8230;/g, '...')
+                        .replace(/&#8217;/g, "'")
+                        .substring(0, 150) + '...',
+                    link: item.link,
+                    pubDate: item.pubDate,
+                    sourceName: item.sourceName,
+                    author: item.author,
+                    image: item.image
+                }))
         };
 
         console.log('First article:', newsData.articles[0]);
