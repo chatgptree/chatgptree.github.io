@@ -25,16 +25,18 @@
     background-size: cover;
     background-position: center;
     color: #fff;
-    text-align: center;
-    padding: 2rem 0;
+    padding: 2rem 1rem;
     width: 100%;
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    position: relative;
 }
 
-.news-header .container {
+/* Container inside header */
+.news-header-content {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
@@ -42,6 +44,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 .news-header h1 {
@@ -49,8 +52,8 @@
     font-size: 4rem;
     font-weight: 900;
     font-style: italic;
-    margin: 0 auto;
-    padding: 0 20px;
+    margin: 0;
+    padding: 0;
     color: #ffffff;
     text-shadow: 
         0 0 5px rgba(255, 255, 255, 0.8),
@@ -58,8 +61,9 @@
         0 0 15px rgba(255, 255, 255, 0.3),
         2px 2px 4px rgba(0, 0, 0, 0.5);
     animation: glowPulse 4s infinite alternate;
+    width: 100%;
     text-align: center;
-    width: fit-content;
+    box-sizing: border-box;
 }
 
 @keyframes glowPulse {
@@ -95,10 +99,8 @@
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.1);
     transition: background-color 0.3s ease;
-    margin: 0 auto;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+    display: inline-block;
+    text-align: center;
 }
 
 .nav-link:hover {
@@ -301,12 +303,15 @@ html, body {
 
 /* Mobile Optimizations */
 @media (max-width: 768px) {
+    .news-header {
+        padding: 1.5rem 1rem;
+    }
+
     .news-header h1 {
-        font-size: 3rem;
-        padding: 0 15px;
+        font-size: 2.5rem;
+        padding: 0 10px;
+        width: 100%;
         word-wrap: break-word;
-        width: auto;
-        max-width: 90%;
     }
 
     .nav-link {
@@ -371,8 +376,7 @@ html, body {
 /* Small Mobile Devices */
 @media (max-width: 480px) {
     .news-header h1 {
-        font-size: 2.5rem;
-        padding: 0 10px;
+        font-size: 2rem;
     }
 
     .news-main .container {
