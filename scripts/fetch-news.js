@@ -74,6 +74,7 @@ async function fetchNews() {
         };
 
         const outputPath = path.join(newsDir, 'news-data.json');
+        console.log('First article:', JSON.stringify(newsData.articles[0], null, 2));
         await fs.writeFile(outputPath, JSON.stringify(newsData, null, 2));
         console.log('News data written successfully');
     } catch (error) {
