@@ -268,6 +268,52 @@
     animation: loading 1.5s infinite;
 }
 
+/* Title Animations */
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/* Header Title Styles */
+.news-header h1 {
+    font-family: 'Simonetta', serif;
+    font-size: 2.5em;
+    margin: 0;
+    animation: slideInFromLeft 1s ease-out;
+}
+
+.news-header .container {
+    animation: fadeIn 2s ease-in;
+}
+
+/* Responsive title sizes */
+@media (max-width: 768px) {
+    .news-header h1 {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 480px) {
+    .news-header h1 {
+        font-size: 1.8em;
+    }
+}
+
 @keyframes loading {
     0% {
         background-position: 200% 0;
