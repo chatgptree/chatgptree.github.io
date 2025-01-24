@@ -36,7 +36,7 @@ async function fetchRSS(url) {
             return descImgMatch[1];
         }
 
-        return '../images/bazzaweb2.jpg';
+        return '../images/header2.jpg';
     };
 
     const getItems = xml => {
