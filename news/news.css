@@ -267,41 +267,122 @@
     margin-top: 2rem;
 }
 
-/* Responsive Design */
+/* Prevent horizontal scroll */
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Mobile Optimizations */
 @media (max-width: 768px) {
     .news-header h1 {
         font-size: 3rem;
+        padding: 0 10px;
+        word-wrap: break-word;
     }
 
-    .news-grid {
-        grid-template-columns: 1fr;
-        padding: 1rem 0;
-    }
-    
-    .news-card {
-        margin: 0;
+    .news-main .container {
+        padding: 10px;
+        width: 100%;
+        box-sizing: border-box;
     }
 
-    .news-image {
-        height: 180px;
-    }
-    
-    .news-content {
-        padding: 1rem;
+    .search-section {
+        width: 90%;
+        margin: 20px auto;
     }
 
     .search-box input {
         padding: 12px 40px;
-        font-size: 14px;
+        font-size: 16px !important;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .news-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding: 1rem 0;
+        width: 100%;
+    }
+
+    .news-card {
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .news-image {
+        height: 200px;
+    }
+
+    .news-content {
+        padding: 1rem;
+    }
+
+    .news-card h3 {
+        font-size: 1.3rem;
+    }
+
+    .news-description {
+        font-size: 0.95rem;
+    }
+
+    .read-more {
+        padding: 0.6rem 1.2rem;
+        width: auto;
+        font-size: 0.9rem;
     }
 }
 
+/* Small Mobile Devices */
 @media (max-width: 480px) {
     .news-header h1 {
         font-size: 2.5rem;
     }
 
+    .news-main .container {
+        padding: 8px;
+    }
+
+    .news-image {
+        height: 180px;
+    }
+
+    .news-card h3 {
+        font-size: 1.2rem;
+    }
+
+    .news-description {
+        font-size: 0.9rem;
+    }
+
+    .news-meta {
+        font-size: 0.8rem;
+    }
+}
+
+/* Handle landscape orientation */
+@media (max-width: 768px) and (orientation: landscape) {
+    .news-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .news-image {
+        height: 160px;
+    }
+}
+
+/* Fix for notched phones */
+@supports (padding: max(0px)) {
+    .news-header {
+        padding-left: max(2rem, env(safe-area-inset-left));
+        padding-right: max(2rem, env(safe-area-inset-right));
+    }
+
     .container {
-        padding: 10px;
+        padding-left: max(20px, env(safe-area-inset-left));
+        padding-right: max(20px, env(safe-area-inset-right));
     }
 }
