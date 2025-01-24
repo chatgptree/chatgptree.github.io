@@ -20,12 +20,20 @@ async function fetchRSS(url) {
             return mediaMatch[1];
         }
 
+        // Try to find image in content:encoded tag
+        const content = getTagContent('content:encoded', item);
+        const contentImgMatch = content.match(/<img.+?src=["'](.+?)["']/);
+        if (contentImgMatch) {
+            console.log('Found content image:', contentImgMatch[1]);
+            return contentImgMatch[1];
+        }
+
         // Try to find image in description
         const description = getTagContent('description', item);
-        const imgMatch = description.match(/<img.+?src=["'](.+?)["']/);
-        if (imgMatch) {
-            console.log('Found description image:', imgMatch[1]);
-            return imgMatch[1];
+        const descImgMatch = description.match(/<img.+?src=["'](.+?)["']/);
+        if (descImgMatch) {
+            console.log('Found description image:', descImgMatch[1]);
+            return descImgMatch[1];
         }
 
         return '../images/bazzaweb2.jpg';
@@ -63,8 +71,16 @@ async function fetchNews() {
         await fs.mkdir(newsDir, { recursive: true });
 
         const RSS_FEEDS = [
-            'https://phys.org/rss-feed/earth-news/environment/',
-            'https://news.mongabay.com/feed/'
+            'https://www.nature.org/en-us/feed/news/',
+            'https://www.conservation.org/blog/feed',
+            'https://www.rainforest-alliance.org/feed/',
+            'https://www.worldwildlife.org/feed',
+            'https://news.mongabay.com/feed/',
+            'https://www.sciencedaily.com/rss/earth_climate/trees.xml',
+            'https://www.kew.org/feeds/news/rss.xml',
+            'https://www.arborday.org/feed/',
+            'https://www.ecowatch.com/feeds/latest.rss',
+            'https://grist.org/feed/'
         ];
 
         let allArticles = [];
