@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-01-24T09:23:43.352Z",
+  "lastUpdated": "2025-01-24T10:24:50.212Z",
   "articles": [
+    {
+      "title": "As climate change supercharges disease, Trump pulls US from World Health Organization",
+      "description": "The move, and a temporary gag order on public health agencies, puts the country in a dangerous position....",
+      "link": "https://grist.org/health/world-health-organization-climate-change-disease-who-us-trump-withdrawal-health-communications/",
+      "pubDate": "Fri, 24 Jan 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/01/GettyImages-457163942-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Gleaning: The ancient practice fighting modern food waste",
+      "description": "“The simple act of turning discarded crops into nourishment bridges so many divides.”...",
+      "link": "https://grist.org/food-and-agriculture/gleaning-the-ancient-practice-fighting-modern-food-waste/",
+      "pubDate": "Fri, 24 Jan 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/01/the-gleaners-painting-min.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "California just debunked a big myth about renewable energy",
       "description": "The state went a record 98 of 116 days providing up to 10 hours of electricity with renewables alone. ...",
@@ -162,24 +180,6 @@
       "sourceName": "news.mongabay.com",
       "author": "\r\n\t\t\t\t\t\tJulia Lima\r\n\t\t\t\t\t",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22140802/Mongabay_Thumbnails_WildTarget_Series_Rio_Featured-100x100.jpg"
-    },
-    {
-      "title": "‘James Bond’ lizard among 35 new species described from Caribbean islands",
-      "description": "\r\n\t\t\t\t\t\t\tShaken, not stirred: That’s how fictional secret service agent James Bond prefers his martini. And now there’s a lizard in the Caribbean that...",
-      "link": "https://news.mongabay.com/short-article/2025/01/james-bond-lizard-among-35-new-species-described-from-caribbean-islands/",
-      "pubDate": "22 Jan 2025 15:02:24 +0000",
-      "sourceName": "news.mongabay.com",
-      "author": "\r\n\t\t\t\t\t\tShreya Dasgupta\r\n\t\t\t\t\t",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22145911/Picture2-100x100-1.png"
-    },
-    {
-      "title": "Historic Arctic freeze for US South and record rain in Western Australia",
-      "description": "\r\n\t\t\t\t\t\t\tThe southern states of the U.S. are facing a winter storm this week that will bring heavy snow and ice to a region that rarely experiences su...",
-      "link": "https://news.mongabay.com/short-article/2025/01/historic-arctic-freeze-for-us-south-and-record-rain-in-western-australia/",
-      "pubDate": "22 Jan 2025 12:05:48 +0000",
-      "sourceName": "news.mongabay.com",
-      "author": "\r\n\t\t\t\t\t\tShreya Dasgupta\r\n\t\t\t\t\t",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22115948/auscyclonesean_tmo_20250120_lrg-100x100.jpg"
     }
   ]
 }
