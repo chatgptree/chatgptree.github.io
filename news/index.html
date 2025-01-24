@@ -13,35 +13,45 @@
     <!-- Fonts and Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="/styles.css">
-    <link rel="stylesheet" href="/news/news.css">
+    <!-- Remove the styles.css reference since it might be conflicting -->
+    <link rel="stylesheet" href="news.css">
 
     <!-- Polyfills for older browsers -->
     <script src="https://cdn.polyfill.io/v3/polyfill.min.js?features=fetch,URL"></script>
 </head>
 <body>
-    <header class="news-header">
-        <div class="container">
-            <h1>Canopy Chronicles</h1>
-            <nav class="news-nav">
-                <a href="/" class="nav-link">
-                    <i class="fa-solid fa-home"></i> Home
-                </a>
-            </nav>
+    <div class="news-board-container">
+        <header class="news-header">
+            <div class="title-container">
+                <h1 class="animated-title">Canopy Chronicles</h1>
+                <p class="subtitle">Latest Tree News & Updates</p>
+            </div>
+            <a href="/" class="back-button">
+                <i class="fas fa-home"></i> Home
+            </a>
+        </header>
+
+        <section class="search-section">
+            <div class="search-box">
+                <i class="fas fa-search search-icon"></i>
+                <input type="text" id="searchInput" placeholder="Search news...">
+            </div>
+        </section>
+
+        <div class="news-container">
+            <div id="lastUpdated" class="last-updated"></div>
+            <div id="newsGrid" class="news-grid">
+                <!-- News cards will be inserted here by JavaScript -->
+            </div>
+            <div class="loading-spinner">
+                <i class="fas fa-spinner"></i>
+                <p>Loading latest tree news...</p>
+            </div>
+            <div id="errorContainer" class="error-message" style="display: none;">
+                <!-- Error messages will be inserted here -->
+            </div>
         </div>
-    </header>
-    
-    <main class="container">
-        <div class="loading-indicator">
-            <i class="fa-solid fa-leaf fa-spin"></i>
-            <span>Loading latest tree news...</span>
-        </div>
-        <div id="lastUpdated" class="last-updated"></div>
-        <div id="newsGrid" class="news-grid">
-            <!-- News cards will be inserted here by JavaScript -->
-        </div>
-        <div id="errorContainer" class="error-container"></div>
-    </main>
+    </div>
 
     <footer>
         <div class="container">
@@ -49,6 +59,6 @@
         </div>
     </footer>
 
-    <script src="/news/news.js"></script>
+    <script src="news.js"></script>
 </body>
 </html>
