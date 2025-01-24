@@ -122,6 +122,65 @@
     color: #2E4032;
 }
 
+/* Filter buttons styling */
+.search-filters {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 600px;
+}
+
+.filter-btn {
+    padding: 10px 20px;
+    border: 2px solid #2E4032;
+    border-radius: 20px;
+    background-color: white;
+    color: #2E4032;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.filter-btn:hover {
+    background-color: #2E4032;
+    color: white;
+}
+
+/* Home button specific styling */
+.home-btn {
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .filter-btn {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .search-filters {
+        gap: 8px;
+        padding: 0 5px;
+    }
+
+    .filter-btn {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+}
+
 /* Loading Indicator */
 .loading-indicator {
     text-align: center;
