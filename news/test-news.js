@@ -1,142 +1,155 @@
-document.addEventListener('DOMContentLoaded', async () => {
-    const newsGrid = document.getElementById('newsGrid');
-    const loadingIndicator = document.querySelector('.loading-indicator');
-    const errorContainer = document.getElementById('errorContainer');
-    const loadMoreButton = document.getElementById('loadMore');
-    const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
-    let currentPage = 1;
-    const articlesPerPage = 6;
-
-    function estimateReadingTime(text) {
-        const wordsPerMinute = 200;
-        const words = text.trim().split(/\s+/).length;
-        return Math.ceil(words / wordsPerMinute);
-    }
-
-    function getCategories(title, description) {
-        const keywords = ['environment', 'climate', 'conservation', 'forest', 'biodiversity', 'sustainability'];
-        const text = (title + ' ' + description).toLowerCase();
-        return keywords.filter(keyword => text.includes(keyword));
-    }
-
-    function createShareButtons(article) {
-        const encodedUrl = encodeURIComponent(article.link);
-        const encodedTitle = encodeURIComponent(article.title);
+class NewsBoard {
+    constructor() {
+        this.pageSize = 12;
+        this.hasMoreNews = true;
+        this.isLoading = true;
         
-        return `
-            <div class="share-buttons">
-                <a href="https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}" 
-                   class="share-button" target="_blank" rel="noopener noreferrer">
-                    <i class="fab fa-twitter"></i>
-                </a>
-                <a href="https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}" 
-                   class="share-button" target="_blank" rel="noopener noreferrer">
-                    <i class="fab fa-facebook"></i>
-                </a>
-                <a href="https://www.linkedin.com/shareArticle?url=${encodedUrl}&title=${encodedTitle}" 
-                   class="share-button" target="_blank" rel="noopener noreferrer">
-                    <i class="fab fa-linkedin"></i>
-                </a>
-            </div>
-        `;
+        this.newsContainer = document.getElementById('newsGrid');
+        this.searchInput = document.getElementById('searchInput');
+        
+        this.initialize();
     }
 
-    async function loadNews(page = 1) {
+    async initialize() {
+        console.log('Initializing NewsBoard...');
         try {
-            loadingIndicator.classList.add('active');
-            if (page === 1) {
-                newsGrid.innerHTML = '';
-            }
-
-            const response = await fetch('./news-data.json');
-            const data = await response.json();
-
-            if (data.articles) {
-                const start = (page - 1) * articlesPerPage;
-                const end = start + articlesPerPage;
-                const pageArticles = data.articles.slice(start, end);
-
-                const html = pageArticles.map(article => {
-                    const readingTime = estimateReadingTime(article.description);
-                    const categories = getCategories(article.title, article.description);
-                    
-                    return `
-                        <article class="news-card">
-                            <div class="news-image">
-                                <img src="${article.image || DEFAULT_IMAGE}" 
-                                     alt="${article.title}"
-                                     onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';"
-                                     loading="lazy">
-                            </div>
-                            <div class="news-content">
-                                <div class="news-meta">
-                                    <span>Source: ${article.sourceName}</span>
-                                    ${article.author ? `<span> | By ${article.author.trim()}</span>` : ''}
-                                    <br>
-                                    <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
-                                </div>
-                                <div class="news-categories">
-                                    ${categories.map(cat => `<span class="category-tag">${cat}</span>`).join('')}
-                                </div>
-                                <h3>${article.title}</h3>
-                                <p class="news-description">${article.description}</p>
-                                <div class="reading-time">
-                                    <i class="fa-regular fa-clock"></i> ${readingTime} min read
-                                </div>
-                                ${createShareButtons(article)}
-                                <a href="${article.link}" 
-                                   target="_blank" 
-                                   rel="noopener noreferrer" 
-                                   class="read-more">
-                                    Read Full Article →
-                                </a>
-                            </div>
-                        </article>
-                    `;
-                }).join('');
-
-                if (page === 1) {
-                    newsGrid.innerHTML = html;
-                } else {
-                    newsGrid.insertAdjacentHTML('beforeend', html);
-                }
-
-                loadMoreButton.style.display = end < data.articles.length ? 'block' : 'none';
-
-                if (data.lastUpdated) {
-                    document.getElementById('lastUpdated').textContent = 
-                        `Last updated: ${new Date(data.lastUpdated).toLocaleString()}`;
-                }
-            }
+            await this.loadNews();
         } catch (error) {
-            console.error('Error:', error);
-            errorContainer.innerHTML = `<p>Error loading news: ${error.message}</p>`;
-            errorContainer.classList.add('active');
-        } finally {
-            loadingIndicator.classList.remove('active');
+            console.error('Failed to initialize news board:', error);
+            this.showError('Failed to load news. Please try again later.');
         }
     }
 
-    // Search functionality
-    const searchInput = document.querySelector('.search-input');
-    searchInput.addEventListener('input', (e) => {
-        const searchTerm = e.target.value.toLowerCase();
-        const articles = document.querySelectorAll('.news-card');
-        
-        articles.forEach(article => {
-            const title = article.querySelector('h3').textContent.toLowerCase();
-            const description = article.querySelector('.news-description').textContent.toLowerCase();
-            const isVisible = title.includes(searchTerm) || description.includes(searchTerm);
-            article.style.display = isVisible ? 'flex' : 'none';
+    async loadNews() {
+        console.log('Loading news...');
+        try {
+            const response = await fetch('news-data.json');
+            console.log('Response:', response);
+            
+            if (!response.ok) {
+                throw new Error(`Failed to fetch news: ${response.status}`);
+            }
+
+            const data = await response.json();
+            console.log('News data loaded:', data);
+
+            this.renderNews(data);
+            
+        } catch (error) {
+            console.error('Error loading news:', error);
+            this.showError('Unable to load news. Please try again later.');
+        } finally {
+            this.isLoading = false;
+        }
+    }
+
+    renderNews(newsItems) {
+        if (!newsItems?.length) {
+            this.newsContainer.innerHTML = `
+                <div class="no-news">
+                    <i class="fas fa-newspaper"></i>
+                    <p>No news articles found.</p>
+                </div>
+            `;
+            return;
+        }
+
+        this.newsContainer.innerHTML = newsItems.map(item => `
+            <div class="news-card">
+                <div class="news-image">
+                    <img src="${item.image || '../images/default-news.jpg'}" 
+                         alt="${this.escapeHtml(item.title)}"
+                         onerror="this.src='../images/default-news.jpg'">
+                </div>
+                <div class="news-content">
+                    <div class="news-meta">
+                        <span class="news-date">${this.formatDate(item.pubDate || item.date)}</span>
+                        <span class="news-source">${this.escapeHtml(item.source || '')}</span>
+                    </div>
+                    <h3>${this.escapeHtml(item.title)}</h3>
+                    <p class="news-description">${this.escapeHtml(item.description)}</p>
+                    <div class="news-footer">
+                        <a href="${item.link}" class="read-more" target="_blank" rel="noopener noreferrer">
+                            Read More <i class="fas fa-external-link-alt"></i>
+                        </a>
+                        <div class="share-buttons">
+                            <button onclick="shareNews('${item.link}', '${this.escapeHtml(item.title)}')" class="share-btn">
+                                <i class="fas fa-share-alt"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `).join('');
+
+        // Add search functionality after rendering
+        if (this.searchInput) {
+            this.setupSearch(newsItems);
+        }
+    }
+
+    setupSearch(newsItems) {
+        this.searchInput.addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filteredNews = newsItems.filter(item => 
+                item.title.toLowerCase().includes(searchTerm) ||
+                item.description.toLowerCase().includes(searchTerm)
+            );
+            this.renderNews(filteredNews);
         });
-    });
+    }
 
-    // Load More functionality
-    loadMoreButton.addEventListener('click', () => {
-        currentPage++;
-        loadNews(currentPage);
-    });
+    formatDate(dateStr) {
+        try {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-AU', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        } catch (e) {
+            console.error('Date formatting error:', e);
+            return dateStr;
+        }
+    }
 
-    // Initial load
-    loadNews();
+    escapeHtml(str) {
+        if (!str) return '';
+        const div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+    }
+
+    showError(message) {
+        this.newsContainer.innerHTML = `
+            <div class="error-message">
+                <i class="fas fa-exclamation-circle"></i>
+                <p>${message}</p>
+                <button onclick="window.newsBoard.loadNews()" class="retry-button">
+                    <i class="fas fa-sync"></i> Retry
+                </button>
+            </div>
+        `;
+    }
+}
+
+// Share functionality
+function shareNews(url, title) {
+    if (navigator.share) {
+        navigator.share({
+            title: title,
+            url: url
+        })
+        .catch(error => console.log('Error sharing:', error));
+    } else {
+        // Fallback for browsers that don't support Web Share API
+        navigator.clipboard.writeText(url)
+            .then(() => alert('Link copied to clipboard!'))
+            .catch(err => console.error('Failed to copy:', err));
+    }
+}
+
+// Initialize when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    window.newsBoard = new NewsBoard();
 });
