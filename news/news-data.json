@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-24T08:28:26.450Z",
+  "lastUpdated": "2025-01-24T09:23:43.352Z",
   "articles": [
+    {
+      "title": "California just debunked a big myth about renewable energy",
+      "description": "The state went a record 98 of 116 days providing up to 10 hours of electricity with renewables alone. ...",
+      "link": "https://grist.org/energy/california-just-debunked-a-big-myth-about-renewable-energy/",
+      "pubDate": "Fri, 24 Jan 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/bazzaweb2.jpg"
+    },
     {
       "title": "In Uganda, a women-led reforestation initiative fights flooding, erosion",
       "description": "\r\n\t\t\t\t\t\t\tKASESE DISTRICT, Uganda — In western Uganda’s Kasese district, where the Rwenzori Mountains meet the sprawling plains of Queen Elizabeth Nati...",
@@ -171,15 +180,6 @@
       "sourceName": "news.mongabay.com",
       "author": "\r\n\t\t\t\t\t\tShreya Dasgupta\r\n\t\t\t\t\t",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22115948/auscyclonesean_tmo_20250120_lrg-100x100.jpg"
-    },
-    {
-      "title": "Indigenous communities rise up against prison projects in Ecuador",
-      "description": "\r\n\t\t\t\t\t\t\tIntense protests flared up last December in communities opposed to Ecuadorian President Daniel Noboa’s plans to build two maximum-security pr...",
-      "link": "https://news.mongabay.com/2025/01/indigenous-communities-rise-up-against-prison-projects-in-ecuador/",
-      "pubDate": "22 Jan 2025 10:04:09 +0000",
-      "sourceName": "news.mongabay.com",
-      "author": "\r\n\t\t\t\t\t\tAlexandrapopescu\r\n\t\t\t\t\t",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22094443/003_Napo_December-10-3-100x100.jpg"
     }
   ]
 }
