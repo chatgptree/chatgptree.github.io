@@ -16,11 +16,10 @@ jobs:
   update-news:
     runs-on: ubuntu-latest
     
-    env:
-      RSS2JSON_API_KEY: ${{ secrets.RSS2JSON_API_KEY }}
-    
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
     - name: Setup Node.js
       uses: actions/setup-node@v3
@@ -32,13 +31,12 @@ jobs:
 
     - name: Generate news content
       run: node scripts/fetch-news.js
-      env:
-        RSS2JSON_API_KEY: ${{ secrets.RSS2JSON_API_KEY }}
 
     - name: Commit and push if changed
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
+        git pull origin main
         git add news/news-data.json
         git commit -m "Update news content [skip ci]" || exit 0
         git push
