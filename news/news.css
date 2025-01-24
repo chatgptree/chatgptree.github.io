@@ -18,14 +18,14 @@
     padding: 20px;
 }
 
-/* Header Styles - Matching Main Site */
+/* Header Styles - Matching Messageboard */
 .news-header {
     background-color: #2E4032;
     background-image: url('/images/news.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
-    padding: 2rem 1rem;
+    padding: 4rem 1rem;
     width: 100%;
     box-sizing: border-box;
     display: flex;
@@ -33,6 +33,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
+    min-height: 300px;
 }
 
 /* Container inside header */
@@ -49,43 +50,44 @@
 
 .news-header h1 {
     font-family: 'Simonetta', serif;
-    font-size: 4rem;
+    font-size: 6rem;
     font-weight: 900;
     font-style: italic;
     margin: 0;
     padding: 0;
     color: #ffffff;
     text-shadow: 
-        0 0 5px rgba(255, 255, 255, 0.8),
-        0 0 10px rgba(255, 255, 255, 0.5),
-        0 0 15px rgba(255, 255, 255, 0.3),
+        0 0 10px rgba(255, 255, 255, 0.8),
+        0 0 20px rgba(255, 255, 255, 0.5),
+        0 0 30px rgba(255, 255, 255, 0.3),
         2px 2px 4px rgba(0, 0, 0, 0.5);
     animation: glowPulse 4s infinite alternate;
     width: 100%;
     text-align: center;
     box-sizing: border-box;
+    line-height: 1.2;
 }
 
 @keyframes glowPulse {
     from {
         text-shadow: 
-            0 0 5px rgba(255, 255, 255, 0.8),
-            0 0 10px rgba(255, 255, 255, 0.5),
-            0 0 15px rgba(255, 255, 255, 0.3),
+            0 0 10px rgba(255, 255, 255, 0.8),
+            0 0 20px rgba(255, 255, 255, 0.5),
+            0 0 30px rgba(255, 255, 255, 0.3),
             2px 2px 4px rgba(0, 0, 0, 0.5);
     }
     to {
         text-shadow: 
-            0 0 10px rgba(255, 255, 255, 0.9),
-            0 0 20px rgba(255, 255, 255, 0.7),
-            0 0 30px rgba(255, 255, 255, 0.5),
+            0 0 15px rgba(255, 255, 255, 0.9),
+            0 0 30px rgba(255, 255, 255, 0.7),
+            0 0 45px rgba(255, 255, 255, 0.5),
             2px 2px 4px rgba(0, 0, 0, 0.5);
     }
 }
 
 /* Navigation Styles */
 .news-nav {
-    margin-top: 1rem;
+    margin-top: 2rem;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -95,16 +97,19 @@
 .nav-link {
     color: white;
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0.8rem 2rem;
     border-radius: 5px;
-    background-color: rgba(255, 255, 255, 0.1);
-    transition: background-color 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.2);
+    transition: all 0.3s ease;
     display: inline-block;
     text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .nav-link:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.3);
+    transform: translateY(-2px);
 }
 
 /* Search Section */
@@ -304,19 +309,18 @@ html, body {
 /* Mobile Optimizations */
 @media (max-width: 768px) {
     .news-header {
-        padding: 1.5rem 1rem;
+        padding: 3rem 1rem;
+        min-height: 200px;
     }
 
     .news-header h1 {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
         padding: 0 10px;
-        width: 100%;
-        word-wrap: break-word;
     }
 
     .nav-link {
-        padding: 0.4rem 0.8rem;
-        font-size: 0.9rem;
+        padding: 0.6rem 1.5rem;
+        font-size: 1.1rem;
     }
 
     .news-main .container {
@@ -376,7 +380,7 @@ html, body {
 /* Small Mobile Devices */
 @media (max-width: 480px) {
     .news-header h1 {
-        font-size: 2rem;
+        font-size: 2.8rem;
     }
 
     .news-main .container {
