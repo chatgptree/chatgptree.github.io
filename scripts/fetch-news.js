@@ -11,6 +11,22 @@ async function fetchRSS(url) {
         return match ? match[1] : '';
     };
 
+    const getImage = (item) => {
+        // Try to find image in media:content tag
+        const mediaMatch = item.match(/<media:content[^>]*url="([^"]*)"[^>]*>/);
+        if (mediaMatch) return mediaMatch[1];
+
+        // Try to find image in enclosure tag
+        const enclosureMatch = item.match(/<enclosure[^>]*url="([^"]*)"[^>]*>/);
+        if (enclosureMatch) return enclosureMatch[1];
+
+        // Try to find first image in content
+        const imgMatch = item.match(/<img[^>]*src="([^"]*)"[^>]*>/);
+        if (imgMatch) return imgMatch[1];
+
+        return null;
+    };
+
     const getItems = xml => {
         const items = [];
         const itemRegex = /<item>(.*?)<\/item>/gs;
@@ -22,7 +38,8 @@ async function fetchRSS(url) {
                 description: getTagContent('description', item),
                 link: getTagContent('link', item),
                 pubDate: getTagContent('pubDate', item),
-                author: getTagContent('creator', item) || getTagContent('author', item)
+                author: getTagContent('creator', item) || getTagContent('author', item),
+                image: getImage(item)
             });
         }
         return items;
@@ -53,7 +70,8 @@ async function fetchNews() {
                 link: item.link,
                 pubDate: item.pubDate,
                 sourceName: 'Good News Network',
-                author: item.author
+                author: item.author,
+                image: item.image
             }))
         };
 
