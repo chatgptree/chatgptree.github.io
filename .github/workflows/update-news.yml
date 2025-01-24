@@ -9,6 +9,9 @@ on:
       - '.github/workflows/update-news.yml'
       - 'scripts/fetch-news.js'
 
+permissions:
+  contents: write
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
