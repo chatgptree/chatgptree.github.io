@@ -75,11 +75,11 @@ main {
     flex: 1;
     min-width: 300px;
     padding-right: 2rem;
-    text-align: center;  /* Center the content of app-info */
+    text-align: center;
 }
 
 .app-info p, .app-info ul {
-    text-align: left;  /* Keep paragraphs and lists left-aligned */
+    text-align: left;
 }
 
 .app-image {
@@ -99,59 +99,71 @@ img {
     object-fit: contain;
 }
 
-.cta-button {
-    display: inline-block;
-    background-color: #4CAF50;
-    color: white;
-    padding: 0.8rem 1.5rem;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
-    margin-top: 1em;
-}
-
-.cta-button:hover {
-    background-color: #45a049;
-}
-
-.cta-button i {
-    margin: 0 5px;  /* Add some space around the icons */
-}
-
+/* Updated Infographic Section Styles */
 .infographic-section {
     background-color: #F1EFE6;
-    padding: 2rem 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.infographic-section .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 .infographic-wrapper {
     position: relative;
-    max-width: 1000px;
-    margin: 0 auto;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
 }
 
 .infographic-wrapper a {
     display: block;
+    height: 100%;
+    width: 100%;
     cursor: zoom-in;
 }
 
 .infographic-wrapper img {
     width: 100%;
-    height: auto;
+    height: 100vh;
+    object-fit: contain;
+    border-radius: 0;
+    box-shadow: none;
     display: block;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.infographic-section h2 {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+    background-color: rgba(46, 64, 50, 0.8);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    margin: 0;
 }
 
 .zoom-hint {
     position: absolute;
-    bottom: 10px;
-    right: 10px;
+    bottom: 20px;
+    right: 20px;
     background: rgba(46, 64, 50, 0.8);
     color: white;
-    padding: 5px 10px;
+    padding: 10px 20px;
     border-radius: 5px;
-    font-size: 0.9rem;
+    font-size: 1rem;
+    z-index: 2;
 }
 
 /* Lightbox styles */
@@ -181,8 +193,8 @@ img {
 }
 
 .lightbox img {
-    max-height: 90vh;
-    max-width: 90vw;
+    max-height: 98vh;
+    max-width: 98vw;
     object-fit: contain;
     border-radius: 10px;
 }
@@ -210,12 +222,6 @@ img {
     transform: translate(-50%, -50%);
 }
 
-@media (max-width: 768px) {
-    .lightbox {
-        padding: 1em;
-    }
-}
-
 footer {
     background-color: #2E4032;
     background-size: cover;
@@ -226,21 +232,8 @@ footer {
     margin-top: 2rem;
 }
 
-@media (max-width: 768px) {
-    main {
-        flex-direction: column;
-    }
-    .app-info, .app-image {
-        padding: 1rem 0;
-        max-width: 100%;
-    }
-    h1 {
-        font-size: 3rem;
-    }
-}
-
 .cta-button {
-    display: block;  /* Change from inline-block to block */
+    display: block;
     background-color: #4CAF50;
     color: white;
     padding: 0.8rem 1.5rem;
@@ -248,19 +241,59 @@ footer {
     border-radius: 5px;
     font-weight: bold;
     transition: background-color 0.3s ease;
-    margin: 1em auto;  /* Change margin to auto for centering */
-    width: fit-content;  /* Make button width fit its content */
+    margin: 1em auto;
+    width: fit-content;
+}
+
+.cta-button:hover {
+    background-color: #45a049;
+}
+
+.cta-button i {
+    margin: 0 5px;
 }
 
 .messageboard-button {
-    margin-top: 1em;  /* Add some space between buttons */
+    margin-top: 1em;
 }
 
-/* Make buttons stack nicely on mobile */
+/* Responsive styles */
 @media (max-width: 768px) {
+    main {
+        flex-direction: column;
+    }
+    
+    .app-info, .app-image {
+        padding: 1rem 0;
+        max-width: 100%;
+    }
+    
+    h1 {
+        font-size: 3rem;
+    }
+    
+    .lightbox {
+        padding: 1em;
+    }
+    
+    .infographic-wrapper img {
+        object-fit: contain;
+    }
+    
+    .infographic-section h2 {
+        font-size: 1.5rem;
+        width: 80%;
+        text-align: center;
+    }
+    
     .cta-button {
         display: block;
         margin: 1em auto;
         width: fit-content;
     }
+}
+
+/* Smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
 }
