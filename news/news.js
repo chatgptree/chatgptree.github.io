@@ -1,4 +1,14 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Debug information
+    console.log('Current path:', window.location.pathname);
+    console.log('Base URL:', document.baseURI);
+    console.log('Root path:', '/');
+    
+    // Log all stylesheet paths
+    document.querySelectorAll('link[rel="stylesheet"]').forEach(stylesheet => {
+        console.log('Stylesheet:', stylesheet.href);
+    });
+
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
@@ -10,8 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (loadingIndicator) loadingIndicator.classList.add('active');
             if (newsGrid) newsGrid.style.display = 'none';
 
-            // Fetch with explicit path
-            const response = await fetch('./news-data.json');
+            // Fetch with absolute path
+            const response = await fetch('/news/news-data.json');
             if (!response.ok) {
                 throw new Error(`Failed to fetch news (${response.status})`);
             }
