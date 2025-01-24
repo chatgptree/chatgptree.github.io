@@ -11,17 +11,37 @@ async function fetchRSS(url) {
         return match ? match[1].replace(/<!\[CDATA\[|\]\]>/g, '') : '';
     };
 
-    const getImage = (item) => {
-        // Try to find image in content:encoded tag
-        const content = getTagContent('content:encoded', item);
-        const imgMatch = content.match(/<img[^>]*src="([^"]*)"[^>]*>/);
-        if (imgMatch) {
-            console.log('Found image in content:', imgMatch[1]);
-            return imgMatch[1];
+const getImage = (item) => {
+    // First try content:encoded tag
+    const content = getTagContent('content:encoded', item);
+    if (content) {
+        console.log('Content length:', content.length); // Debug log
+        
+        // Look for featured image
+        const featuredMatch = content.match(/data-attachment-id="\d+" src="([^"]+)"/);
+        if (featuredMatch) {
+            console.log('Found featured image:', featuredMatch[1]);
+            return featuredMatch[1];
         }
+        
+        // Look for any image
+        const imgMatch = content.match(/(<img[^>]*src=")([^"]*)/);
+        if (imgMatch) {
+            console.log('Found content image:', imgMatch[2]);
+            return imgMatch[2];
+        }
+    }
 
-        return '../images/bazzaweb2.jpg';
-    };
+    // Try to find image in description as fallback
+    const description = getTagContent('description', item);
+    const descImgMatch = description.match(/<img.+?src=["'](.+?)["']/);
+    if (descImgMatch) {
+        console.log('Found description image:', descImgMatch[1]);
+        return descImgMatch[1];
+    }
+
+    return '../images/bazzaweb2.jpg';
+};
 
     const getItems = xml => {
         const items = [];
