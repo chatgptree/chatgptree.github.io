@@ -1,1 +1,50 @@
+name: Update News Content
 
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # Runs every hour
+  workflow_dispatch:        # Allows manual trigger
+  push:
+    paths:
+      - '.github/workflows/update-news.yml'
+      - 'scripts/fetch-news.js'
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    env:
+      RSS2JSON_API_KEY: ${{ secrets.RSS2JSON_API_KEY }}
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm install node-fetch@2
+
+    - name: Generate news content
+      run: node scripts/fetch-news.js
+      env:
+        RSS2JSON_API_KEY: ${{ secrets.RSS2JSON_API_KEY }}
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git status --porcelain news/news-data.json | grep -q "news-data.json" && echo "changes=true" >> $GITHUB_OUTPUT || echo "changes=false" >> $GITHUB_OUTPUT
+
+    - name: Commit and push if changed
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add news/news-data.json
+        git commit -m "Update news content [skip ci]"
+        git push
