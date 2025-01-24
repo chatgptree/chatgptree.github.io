@@ -5,43 +5,31 @@ const path = require('path');
 async function fetchRSS(url) {
     const response = await fetch(url);
     const text = await response.text();
-    
+    console.log('Feed sample:', text.substring(0, 500));
+
     const getTagContent = (tag, xml) => {
         const match = xml.match(new RegExp(`<${tag}[^>]*>(.*?)<\/${tag}>`, 's'));
         return match ? match[1].replace(/<!\[CDATA\[|\]\]>/g, '') : '';
     };
 
-const getImage = (item) => {
-    // First try content:encoded tag
-    const content = getTagContent('content:encoded', item);
-    if (content) {
-        console.log('Content length:', content.length); // Debug log
-        
-        // Look for featured image
-        const featuredMatch = content.match(/data-attachment-id="\d+" src="([^"]+)"/);
-        if (featuredMatch) {
-            console.log('Found featured image:', featuredMatch[1]);
-            return featuredMatch[1];
+    const getImage = (item) => {
+        // Try to find image in media:content tag
+        const mediaMatch = item.match(/<media:content[^>]*url="([^"]+)"/);
+        if (mediaMatch) {
+            console.log('Found media image:', mediaMatch[1]);
+            return mediaMatch[1];
         }
-        
-        // Look for any image
-        const imgMatch = content.match(/(<img[^>]*src=")([^"]*)/);
+
+        // Try to find image in description
+        const description = getTagContent('description', item);
+        const imgMatch = description.match(/<img.+?src=["'](.+?)["']/);
         if (imgMatch) {
-            console.log('Found content image:', imgMatch[2]);
-            return imgMatch[2];
+            console.log('Found description image:', imgMatch[1]);
+            return imgMatch[1];
         }
-    }
 
-    // Try to find image in description as fallback
-    const description = getTagContent('description', item);
-    const descImgMatch = description.match(/<img.+?src=["'](.+?)["']/);
-    if (descImgMatch) {
-        console.log('Found description image:', descImgMatch[1]);
-        return descImgMatch[1];
-    }
-
-    return '../images/bazzaweb2.jpg';
-};
+        return '../images/bazzaweb2.jpg';
+    };
 
     const getItems = xml => {
         const items = [];
@@ -72,7 +60,8 @@ async function fetchNews() {
         const newsDir = path.join(__dirname, '../news');
         await fs.mkdir(newsDir, { recursive: true });
 
-        const RSS_URL = 'https://www.goodnewsnetwork.org/category/earth/feed/';
+        // Changed to Treehugger's Earth & Climate RSS feed
+        const RSS_URL = 'https://www.treehugger.com/feeds/earth-climate/';
         const articles = await fetchRSS(RSS_URL);
         console.log(`Found ${articles.length} articles`);
 
@@ -87,14 +76,14 @@ async function fetchNews() {
                     .substring(0, 150) + '...',
                 link: item.link,
                 pubDate: item.pubDate,
-                sourceName: 'Good News Network',
+                sourceName: 'Treehugger',
                 author: item.author,
                 image: item.image
             }))
         };
 
+        console.log('First article:', newsData.articles[0]);
         const outputPath = path.join(newsDir, 'news-data.json');
-        console.log('First article:', JSON.stringify(newsData.articles[0], null, 2));
         await fs.writeFile(outputPath, JSON.stringify(newsData, null, 2));
         console.log('News data written successfully');
     } catch (error) {
