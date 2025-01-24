@@ -1,24 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Same head content as before until style tag -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canopy Chronicles - ChatGPTree</title>
     
-    <script>
-        // Add this debugging code at the start
-        console.log('Document location:', window.location.href);
-        console.log('Document path:', window.location.pathname);
-        console.log('Document origin:', window.location.origin);
-    </script>
-
-    <style>
-        /* Same styles as before */
-    </style>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="test-news.css">
 </head>
 <body>
     <header class="news-header">
         <div class="container">
             <h1>Canopy Chronicles</h1>
-            <div id="debug-info" style="font-size: 12px; color: #fff; margin-top: 10px;"></div>
         </div>
     </header>
 
@@ -31,94 +26,6 @@
         <div id="newsGrid" class="news-grid"></div>
     </main>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', async () => {
-            // Add debug info display
-            const debugInfo = document.getElementById('debug-info');
-            debugInfo.innerHTML = `
-                Path: ${window.location.pathname}<br>
-                Full URL: ${window.location.href}
-            `;
-
-            const newsGrid = document.getElementById('newsGrid');
-            const loadingIndicator = document.querySelector('.loading-indicator');
-            
-            // Use relative path for default image based on current directory
-            const DEFAULT_IMAGE = '../images/bazzaweb2.jpg';
-
-            async function loadNews() {
-                try {
-                    console.log('Starting news fetch...');
-                    loadingIndicator.classList.add('active');
-                    newsGrid.style.display = 'none';
-
-                    // Log the fetch URL
-                    const fetchUrl = './news-data.json';
-                    console.log('Fetching from:', fetchUrl);
-
-                    const response = await fetch(fetchUrl);
-                    console.log('Fetch response status:', response.status);
-
-                    if (!response.ok) {
-                        throw new Error(`HTTP error! status: ${response.status}`);
-                    }
-
-                    const data = await response.json();
-                    console.log('Data received:', data ? 'yes' : 'no');
-
-                    if (data.articles) {
-                        console.log('Number of articles:', data.articles.length);
-                        
-                        const html = data.articles.map(article => `
-                            <article class="news-card">
-                                <div class="news-image">
-                                    <img src="${article.image || DEFAULT_IMAGE}" 
-                                         alt="${article.title}"
-                                         onerror="this.onerror=null; this.src='${DEFAULT_IMAGE}';"
-                                         loading="lazy">
-                                </div>
-                                <div class="news-content">
-                                    <div class="news-meta">
-                                        <span>Source: ${article.sourceName}</span>
-                                        ${article.author ? `<span> | By ${article.author.trim()}</span>` : ''}
-                                        <br>
-                                        <span>Published: ${new Date(article.pubDate).toLocaleDateString()}</span>
-                                    </div>
-                                    <h3>${article.title}</h3>
-                                    <p>${article.description}</p>
-                                    <a href="${article.link}" 
-                                       target="_blank" 
-                                       rel="noopener noreferrer" 
-                                       class="read-more">
-                                        Read Full Article →
-                                    </a>
-                                </div>
-                            </article>
-                        `).join('');
-
-                        newsGrid.innerHTML = html;
-
-                        if (data.lastUpdated) {
-                            document.getElementById('lastUpdated').textContent = 
-                                `Last updated: ${new Date(data.lastUpdated).toLocaleString()}`;
-                        }
-                    }
-                } catch (error) {
-                    console.error('Error:', error);
-                    newsGrid.innerHTML = `
-                        <p style="color: red; padding: 20px;">
-                            Error loading news: ${error.message}<br>
-                            Path: ${window.location.pathname}<br>
-                            Attempted fetch: ${fetchUrl}
-                        </p>`;
-                } finally {
-                    loadingIndicator.classList.remove('active');
-                    newsGrid.style.display = 'grid';
-                }
-            }
-
-            loadNews();
-        });
-    </script>
+    <script src="test-news.js"></script>
 </body>
 </html>
