@@ -13,14 +13,14 @@
     <!-- Fonts and Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="/news/news.css">
+    <link rel="stylesheet" href="news.css">
 </head>
 <body>
     <header class="news-header">
         <div class="container">
             <h1>Canopy Chronicles</h1>
             <nav class="news-nav">
-                <a href="/" class="nav-link">
+                <a href="../index.html" class="nav-link">
                     <i class="fa-solid fa-home"></i> Home
                 </a>
             </nav>
@@ -28,6 +28,9 @@
     </header>
     
     <main class="container news-container">
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="Search articles...">
+        </div>
         <div class="loading-indicator">
             <i class="fa-solid fa-leaf fa-spin"></i>
             <span>Loading latest tree news...</span>
@@ -35,6 +38,7 @@
         <div id="lastUpdated" class="last-updated"></div>
         <div id="newsGrid" class="news-grid"></div>
         <div id="errorContainer" class="error-container"></div>
+        <button id="loadMore" class="load-more">Load More Articles</button>
     </main>
 
     <footer>
@@ -43,6 +47,6 @@
         </div>
     </footer>
 
-    <script src="/news/news.js"></script>
+    <script src="news.js"></script>
 </body>
 </html>
