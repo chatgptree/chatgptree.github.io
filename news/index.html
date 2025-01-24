@@ -19,7 +19,7 @@
     <!-- Polyfills for older browsers -->
     <script src="https://cdn.polyfill.io/v3/polyfill.min.js?features=fetch,URL"></script>
 </head>
-<body>
+<body class="news-page">
     <header class="news-header">
         <div class="container">
             <h1>Canopy Chronicles</h1>
@@ -31,26 +31,28 @@
         </div>
     </header>
     
-    <main class="container">
-        <section class="search-section">
-            <div class="search-box">
-                <i class="fas fa-search search-icon"></i>
-                <input type="text" id="searchInput" placeholder="Search news...">
-            </div>
-        </section>
+    <main class="news-main">
+        <div class="container">
+            <section class="search-section">
+                <div class="search-box">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="searchInput" placeholder="Search news...">
+                </div>
+            </section>
 
-        <div class="loading-indicator">
-            <i class="fa-solid fa-leaf fa-spin"></i>
-            <span>Loading latest tree news...</span>
+            <div class="loading-indicator">
+                <i class="fa-solid fa-leaf fa-spin"></i>
+                <span>Loading latest tree news...</span>
+            </div>
+            <div id="lastUpdated" class="last-updated"></div>
+            <div id="newsGrid" class="news-grid">
+                <!-- News cards will be inserted here by JavaScript -->
+            </div>
+            <div id="errorContainer" class="error-container"></div>
         </div>
-        <div id="lastUpdated" class="last-updated"></div>
-        <div id="newsGrid" class="news-grid">
-            <!-- News cards will be inserted here by JavaScript -->
-        </div>
-        <div id="errorContainer" class="error-container"></div>
     </main>
 
-    <footer>
+    <footer class="news-footer">
         <div class="container">
             <p>&copy; 2024 GB ChatGPTree. All rights reserved.</p>
         </div>
