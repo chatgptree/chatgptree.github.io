@@ -21,7 +21,7 @@
 /* Header Styles - Matching Other Pages Exactly */
 .news-header {
     background-color: #2E4032;
-    background-image: url('/images/news.jpg');
+    background-image: url('/images/news_header.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
