@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const newsGrid = document.getElementById('newsGrid');
     const loadingIndicator = document.querySelector('.loading-indicator');
     
-    const DEFAULT_IMAGE = '/images/bazzaweb2.jpg';
+    const DEFAULT_IMAGE = '/images/header2.jpg';
 
     async function loadNews() {
         try {
