@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             loadingIndicator.classList.add('active');
             newsGrid.style.display = 'none';
 
-            const response = await fetch('news-data.json');
+            const response = await fetch('/news/news-data.json');
             const data = await response.json();
 
             displayNews(data.articles);
