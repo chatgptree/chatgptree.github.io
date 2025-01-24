@@ -1,70 +1,42 @@
-const fs = require('fs').promises;
-const fetch = require('node-fetch');
-const path = require('path');
+name: Update News Content
 
-async function fetchRSS(url) {
-    const response = await fetch(url);
-    const text = await response.text();
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-news.yml'
+      - 'scripts/fetch-news.js'
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
     
-    // Basic XML parsing
-    const getTagContent = (tag, xml) => {
-        const match = xml.match(new RegExp(`<${tag}[^>]*>(.*?)<\/${tag}>`, 's'));
-        return match ? match[1] : '';
-    };
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
-    const getItems = xml => {
-        const items = [];
-        const itemRegex = /<item>(.*?)<\/item>/gs;
-        let match;
-        while ((match = itemRegex.exec(xml)) !== null) {
-            const item = match[1];
-            items.push({
-                title: getTagContent('title', item),
-                description: getTagContent('description', item),
-                link: getTagContent('link', item),
-                pubDate: getTagContent('pubDate', item),
-                author: getTagContent('creator', item) || getTagContent('author', item)
-            });
-        }
-        return items;
-    };
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
 
-    return getItems(text);
-}
+    - name: Install dependencies
+      run: npm install node-fetch@2
 
-async function fetchNews() {
-    try {
-        const newsDir = path.join(__dirname, '../news');
-        await fs.mkdir(newsDir, { recursive: true });
-        console.log('Fetching news...');
+    - name: Generate news content
+      run: node scripts/fetch-news.js
 
-        const RSS_URL = 'https://www.goodnewsnetwork.org/category/earth/feed/';
-        const articles = await fetchRSS(RSS_URL);
-        console.log(`Found ${articles.length} articles`);
-
-        const newsData = {
-            lastUpdated: new Date().toISOString(),
-            articles: articles.slice(0, 20).map(item => ({
-                title: item.title.trim(),
-                description: item.description
-                    .replace(/<\/?[^>]+(>|$)/g, '')
-                    .replace(/&#8230;/g, '...')
-                    .replace(/&#8217;/g, "'")
-                    .substring(0, 150) + '...',
-                link: item.link,
-                pubDate: item.pubDate,
-                sourceName: 'Good News Network',
-                author: item.author
-            }))
-        };
-
-        const outputPath = path.join(newsDir, 'news-data.json');
-        await fs.writeFile(outputPath, JSON.stringify(newsData, null, 2));
-        console.log('News data written successfully');
-    } catch (error) {
-        console.error('Error:', error);
-        process.exit(1);
-    }
-}
-
-fetchNews();
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git pull origin main
+        git add news/news-data.json
+        git commit -m "Update news content [skip ci]" || exit 0
+        git push
