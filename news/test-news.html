@@ -3,50 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Canopy Chronicles - ChatGPTree</title>
-    
-    <!-- Meta tags -->
+
+    <!-- Maintain the same meta tags structure as your main page -->
     <meta name="description" content="Stay updated with the latest positive tree news and environmental updates from around the world.">
-    <meta name="keywords" content="tree news, environmental news, positive tree stories, ChatGPTree news">
-    
-    <!-- Fonts and Styles -->
+
+    <!-- Keep your existing favicon and font setup -->
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="news.css">
+    <link rel="stylesheet" href="/styles.css">                
+    <link rel="stylesheet" href="/news/news.css"> 
 </head>
 <body>
-    <header class="news-header">
+    <header>
         <div class="container">
             <h1>Canopy Chronicles</h1>
-            <nav class="news-nav">
-                <a href="../index.html" class="nav-link">
-                    <i class="fa-solid fa-home"></i> Home
-                </a>
-            </nav>
         </div>
     </header>
-    
     <main class="container news-container">
-        <div class="search-container">
-            <input type="text" class="search-input" placeholder="Search articles...">
+        <div class="search-section">
+            <div class="search-box">
+                <i class="fas fa-search search-icon"></i>
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Search news articles..."
+                    aria-label="Search news"
+                >
+            </div>
+            <div class="search-filters">
+                <button class="filter-btn active" data-filter="all">All News</button>
+                <button class="filter-btn" data-filter="recent">Recent</button>
+                <button class="filter-btn" data-filter="popular">Popular</button>
+                <a href="https://chatgptree.com.au" class="filter-btn home-btn">
+                    <i class="fas fa-home"></i> ChatGPTree
+                </a>
+            </div>
         </div>
-        <div class="loading-indicator">
-            <i class="fa-solid fa-leaf fa-spin"></i>
-            <span>Loading latest tree news...</span>
+        <div id="newsGrid" class="news-grid">
+            <!-- News will be dynamically inserted here -->
+            <div class="loading-spinner">
+                <i class="fas fa-leaf fa-spin"></i>
+                <p>Loading news...</p>
+            </div>
         </div>
-        <div id="lastUpdated" class="last-updated"></div>
-        <div id="newsGrid" class="news-grid"></div>
-        <div id="errorContainer" class="error-container"></div>
-        <button id="loadMore" class="load-more">Load More Articles</button>
+        <a href="/" class="back-button">
+            <i class="fas fa-arrow-left"></i> Back to Home
+        </a>
     </main>
-
     <footer>
         <div class="container">
             <p>&copy; 2024 GB ChatGPTree. All rights reserved.</p>
         </div>
     </footer>
-
     <script src="news.js"></script>
+    <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 </body>
 </html>
