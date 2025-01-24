@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2025-01-24T08:00:44.237Z",
+  "lastUpdated": "2025-01-24T08:09:37.764Z",
   "articles": [
-    {
-      "title": "An underestimated source of methane found in shallow coastal waters",
-      "description": "Shallow coastal waters are hotspots for methane emissions, releasing significant amounts of this potent greenhouse gas into the atmosphere and contrib...",
-      "link": "https://phys.org/news/2025-01-underestimated-source-methane-shallow-coastal.html",
-      "pubDate": "Thu, 23 Jan 2025 16:43:03 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
-    },
     {
       "title": "In Uganda, a women-led reforestation initiative fights flooding, erosion",
       "description": "\r\n\t\t\t\t\t\t\tKASESE DISTRICT, Uganda — In western Uganda’s Kasese district, where the Rwenzori Mountains meet the sprawling plains of Queen Elizabeth Nati...",
@@ -38,42 +29,6 @@
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/23200729/webversion-100x100.jpg"
     },
     {
-      "title": "New Oxford report: Carbon capture and storage without taxpayer billions is possible",
-      "description": "Oxford Net Zero and Carbon Balance researchers reveal the risks of the current UK CCS policy mix and explore how a carbon storage mandate on fossil fu...",
-      "link": "https://phys.org/news/2025-01-oxford-carbon-capture-storage-taxpayer.html",
-      "pubDate": "Thu, 23 Jan 2025 14:30:06 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
-    },
-    {
-      "title": "Trump returns: Nine things to expect for the climate",
-      "description": "Climate scientists are probably among those most aggrieved by Donald Trump's return as US president....",
-      "link": "https://phys.org/news/2025-01-trump-climate.html",
-      "pubDate": "Thu, 23 Jan 2025 14:30:02 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
-    },
-    {
-      "title": "How global inequalities hinder climate action",
-      "description": "World leaders have gathered for the World Economic Forum annual meeting in Davos, Switzerland. One of their main goals is to align their responses to ...",
-      "link": "https://phys.org/news/2025-01-global-inequalities-hinder-climate-action.html",
-      "pubDate": "Thu, 23 Jan 2025 13:30:01 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
-    },
-    {
-      "title": "Overnight firefight tames new California blaze",
-      "description": "Firefighters who battled through the night to tame a new blaze that erupted near Los Angeles appeared to be making progress on Thursday, even as dange...",
-      "link": "https://phys.org/news/2025-01-overnight-firefight-california-blaze.html",
-      "pubDate": "Thu, 23 Jan 2025 13:23:20 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
-    },
-    {
       "title": "In the Pan Amazon, inequality and informality fuel informal economies",
       "description": "\r\n\t\t\t\t\t\t\tOne of the main social and economic challenges facing Amazonian countries is inequality.  Although the standard of living of the lower econom...",
       "link": "https://news.mongabay.com/2025/01/in-the-pan-amazon-inequality-and-informality-fuel-informal-economies/",
@@ -90,15 +45,6 @@
       "sourceName": "news.mongabay.com",
       "author": "\r\n\t\t\t\t\t\tAlexandrapopescu\r\n\t\t\t\t\t",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/23174510/Feature-15-100x100.jpg"
-    },
-    {
-      "title": "After the fire: Rain on wildfire burn scars can trigger deadly debris flows. A geologist explains how",
-      "description": "While firefighters work to extinguish the Los Angeles-area wildfires, city officials and emergency managers are also worried about what could come nex...",
-      "link": "https://phys.org/news/2025-01-wildfire-scars-trigger-deadly-debris.html",
-      "pubDate": "Thu, 23 Jan 2025 12:40:01 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
     },
     {
       "title": "US set to lose out as Trump retreats from climate agreement, NGOs warn",
@@ -119,67 +65,121 @@
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/23170310/45736542184_f91a727108_k-e1737651836999-100x100.jpg"
     },
     {
-      "title": "Exploring the intersection of AI and climate physics: Machine learning's role in advancing climate science",
-      "description": "Exponential growth in big data and computing power is transforming climate science, where machine learning is playing a critical role in mapping the p...",
-      "link": "https://phys.org/news/2025-01-exploring-intersection-ai-climate-physics.html",
-      "pubDate": "Thu, 23 Jan 2025 12:03:05 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
+      "title": "Birdwatchers rally behind endemic hummingbird, spurring conservation movement in Mexico",
+      "description": "\r\n\t\t\t\t\t\t\tNestled in the thorny shrubs of the dry forests of Veracruz in the Gulf of Mexico, a small bird lights a spark for a promising future. After ...",
+      "link": "https://news.mongabay.com/2025/01/birdwatchers-rally-behind-endemic-hummingbird-spurring-conservation-movement-in-mexico/",
+      "pubDate": "23 Jan 2025 14:00:54 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tAlexandrapopescu\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22111526/1-4-100x100.jpg"
     },
     {
-      "title": "Commercial drones show promise as meteorological tools for numerical weather predictions",
-      "description": "Climate change is making extreme weather events worse, empowering meteorological phenomena such as storms, hurricanes, heat waves, and droughts. Again...",
-      "link": "https://phys.org/news/2025-01-commercial-drones-meteorological-tools-numerical.html",
-      "pubDate": "Thu, 23 Jan 2025 11:55:05 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
+      "title": "Floods devastate tortoise sanctuary in southern Madagascar",
+      "description": "\r\n\t\t\t\t\t\t\tHundreds of tortoises have died following severe floods at a sanctuary in southwestern Madagascar that houses and protects more than 12,000 o...",
+      "link": "https://news.mongabay.com/short-article/2025/01/floods-devastate-tortoise-sanctuary-in-southern-madagascar/",
+      "pubDate": "23 Jan 2025 13:08:00 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tBobbybascomb\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/23122910/WhatsApp-Image-2025-01-16-at-10.30.42-AM-100x100-1.jpeg"
     },
     {
-      "title": "Contaminants in commonly hunted waterfowl pose potential health risks",
-      "description": "Researchers tested five species of commonly hunted waterfowl in the northeast Atlantic Flyway and, in every sample, found contaminants that could impa...",
-      "link": "https://phys.org/news/2025-01-contaminants-commonly-waterfowl-pose-potential.html",
-      "pubDate": "Thu, 23 Jan 2025 11:52:04 EST",
-      "sourceName": "phys.org",
+      "title": "Trump leaving the Paris Agreement is ‘mostly symbolic.’ What does it actually mean?",
+      "description": "The biggest impact on global emissions will be from the new president’s deregulatory agenda....",
+      "link": "https://grist.org/politics/us-leaving-paris-agreement-trump-deregulatory-agenda/",
+      "pubDate": "Thu, 23 Jan 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
       "author": "",
-      "image": "../images/bazzaweb2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/01/COP29-participants.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Trump has withdrawn the US from the Paris Agreement—here's why that's not such a bad thing",
-      "description": "On his first day back in office as United States president, Donald Trump gave formal notice of his nation's exit from the Paris Agreement—a vital glob...",
-      "link": "https://phys.org/news/2025-01-trump-withdrawn-paris-agreement-bad.html",
-      "pubDate": "Thu, 23 Jan 2025 11:00:03 EST",
-      "sourceName": "phys.org",
+      "title": "What Trump can (and can’t) do to disrupt Los Angeles wildfire aid",
+      "description": "It will be hard for the president to revoke FEMA funding — but a GOP-led Congress could slow down the region’s recovery....",
+      "link": "https://grist.org/politics/trump-los-angeles-wildfires-fema-aid/",
+      "pubDate": "Thu, 23 Jan 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
       "author": "",
-      "image": "../images/bazzaweb2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/01/Trump-and-Newsom.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "The last time it was legal, exports of sea sand destroyed dozens of Indonesian islands—now, the ban is being lifted",
-      "description": "Over 20 years ago, then Indonesian president Megawati Soekarnoputri banned the export of sea sand from her archipelago nation....",
-      "link": "https://phys.org/news/2025-01-legal-exports-sea-sand-destroyed.html",
-      "pubDate": "Thu, 23 Jan 2025 10:52:21 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
+      "title": "World Bank cancels $150m tourism project in Tanzania after abuse claims",
+      "description": "\r\n\t\t\t\t\t\t\tThe World Bank has cancelled a $150 million project to boost tourism to Tanzania’s Ruaha National Park, following allegations of human rights...",
+      "link": "https://news.mongabay.com/2025/01/world-bank-cancels-150m-tourism-project-in-tanzania-after-abuse-claims/",
+      "pubDate": "23 Jan 2025 09:22:52 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tBobbybascomb\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/23091241/53832385583_cf8847e261_c-100x100.jpg"
     },
     {
-      "title": "Billionaire Bloomberg to fund UN climate body after US withdrawal",
-      "description": "Billionaire entrepreneur Michael Bloomberg announced Thursday that his foundation will step in to fund the UN climate change body after President Dona...",
-      "link": "https://phys.org/news/2025-01-billionaire-bloomberg-fund-climate-body.html",
-      "pubDate": "Thu, 23 Jan 2025 09:56:56 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
+      "title": "Rising deforestation threatens rare species in Indonesia’s ancient Lake Poso",
+      "description": "\r\n\t\t\t\t\t\t\tOver the course of just eight years, the forests surrounding Indonesia's Lake Poso, an ecological and evolutionary “gem” on the island of Sul...",
+      "link": "https://news.mongabay.com/2025/01/mining-and-palm-oil-drive-deforestation-threaten-rare-species-at-indonesias-lake-poso/",
+      "pubDate": "22 Jan 2025 21:28:26 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tLizkimbrough\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22203813/Screenshot-2025-01-22-at-2.37.27-PM-100x100.png"
     },
     {
-      "title": "French cities' tap water contaminated with harmful chemicals, study reveals",
-      "description": "A type of &quot;forever chemical&quot; linked to health problems and birth defects has been found in the tap water of many French cities and towns inc...",
-      "link": "https://phys.org/news/2025-01-french-cities-contaminated-chemicals-reveals.html",
-      "pubDate": "Thu, 23 Jan 2025 09:53:05 EST",
-      "sourceName": "phys.org",
-      "author": "",
-      "image": "../images/bazzaweb2.jpg"
+      "title": "Survey uncovers ‘wildlife treasure’ in Cambodian park — but also signs of threats",
+      "description": "\r\n\t\t\t\t\t\t\tThe first biodiversity survey ever conducted in one of northwestern Cambodia’s last forest frontiers has found potentially new-to-science spe...",
+      "link": "https://news.mongabay.com/2025/01/survey-uncovers-wildlife-treasure-in-cambodian-park-but-also-signs-of-threats/",
+      "pubDate": "22 Jan 2025 21:02:19 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tIsabel Esterman\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/20104904/A-Trimeresurus-cardamomesis-photographed-in-Cambodia_s-Samlout-Multiple-Use-Area.-Image-courtesy-of-Jeremy-Holden-with-Fauna-Flora_-100x100-1.jpg"
+    },
+    {
+      "title": "Five-month-old male gorilla, victim of illegal wildlife trade, seized in Istanbul",
+      "description": "\r\n\t\t\t\t\t\t\tOn Dec. 22, 2024, Turkish customs officers conducting a random search of a plane’s cargo hold found a surprise stowaway inside a small wooden...",
+      "link": "https://news.mongabay.com/short-article/2025/01/five-month-old-male-gorilla-victim-of-illegal-wildlife-trade-seized-in-istanbul/",
+      "pubDate": "22 Jan 2025 18:57:25 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tShreya Dasgupta\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22185205/470489585_919523560355201_1993237875593033930_n-100x100.jpg"
+    },
+    {
+      "title": "As Gálapagos ecotourism booms, top naturalist guide urges sustainability",
+      "description": "\r\n\t\t\t\t\t\t\tGALÁPAGOS ISLANDS — Marco Andres Vizcaino Garcia is probably the most qualified naturalist guide a person could hire during their visit to Ga...",
+      "link": "https://news.mongabay.com/2025/01/as-galapagos-ecotourism-booms-top-naturalist-guide-urges-sustainability/",
+      "pubDate": "22 Jan 2025 18:30:00 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tErik Hoffner\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22174918/Screen-Shot-2025-01-22-at-12.48.07-PM-100x100.png"
+    },
+    {
+      "title": "This rescue center saves Rio&#8217;s wildlife from poachers &#124; Wild Targets",
+      "description": "\r\n\t\t\t\t\t\t\tRIO DE JANEIRO, Brazil &#8211; In September 2024, Vida Livre Institute, a wildlife rescue center, received an unusual call from the Rio de Ja...",
+      "link": "https://news.mongabay.com/video/2025/01/this-rescue-center-saves-rios-wildlife-from-poachers-wild-targets/",
+      "pubDate": "22 Jan 2025 15:30:28 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tJulia Lima\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22140802/Mongabay_Thumbnails_WildTarget_Series_Rio_Featured-100x100.jpg"
+    },
+    {
+      "title": "‘James Bond’ lizard among 35 new species described from Caribbean islands",
+      "description": "\r\n\t\t\t\t\t\t\tShaken, not stirred: That’s how fictional secret service agent James Bond prefers his martini. And now there’s a lizard in the Caribbean that...",
+      "link": "https://news.mongabay.com/short-article/2025/01/james-bond-lizard-among-35-new-species-described-from-caribbean-islands/",
+      "pubDate": "22 Jan 2025 15:02:24 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tShreya Dasgupta\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22145911/Picture2-100x100-1.png"
+    },
+    {
+      "title": "Historic Arctic freeze for US South and record rain in Western Australia",
+      "description": "\r\n\t\t\t\t\t\t\tThe southern states of the U.S. are facing a winter storm this week that will bring heavy snow and ice to a region that rarely experiences su...",
+      "link": "https://news.mongabay.com/short-article/2025/01/historic-arctic-freeze-for-us-south-and-record-rain-in-western-australia/",
+      "pubDate": "22 Jan 2025 12:05:48 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tShreya Dasgupta\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22115948/auscyclonesean_tmo_20250120_lrg-100x100.jpg"
+    },
+    {
+      "title": "Indigenous communities rise up against prison projects in Ecuador",
+      "description": "\r\n\t\t\t\t\t\t\tIntense protests flared up last December in communities opposed to Ecuadorian President Daniel Noboa’s plans to build two maximum-security pr...",
+      "link": "https://news.mongabay.com/2025/01/indigenous-communities-rise-up-against-prison-projects-in-ecuador/",
+      "pubDate": "22 Jan 2025 10:04:09 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tAlexandrapopescu\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/22094443/003_Napo_December-10-3-100x100.jpg"
     }
   ]
 }
