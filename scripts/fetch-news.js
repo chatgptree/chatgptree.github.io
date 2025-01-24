@@ -2,20 +2,6 @@ const fs = require('fs').promises;
 const fetch = require('node-fetch');
 const path = require('path');
 
-async function extractImageFromHTML(html) {
-    // Try to find the first usable image
-    const imgRegex = /<img[^>]+src="([^">]+)"/g;
-    const matches = [...html.matchAll(imgRegex)];
-    
-    for (const match of matches) {
-        const url = match[1];
-        if (!url.includes('avatar') && !url.includes('icon') && !url.includes('logo')) {
-            return url;
-        }
-    }
-    return null;
-}
-
 async function fetchRSS(url) {
     const response = await fetch(url);
     const text = await response.text();
@@ -25,6 +11,31 @@ async function fetchRSS(url) {
         return match ? match[1] : '';
     };
 
+    const getImage = (item) => {
+        // Try to find featured image
+        const mediaContent = item.match(/<media:content[^>]*url="([^"]*)"[^>]*type="image\/[^"]*"[^>]*>/);
+        if (mediaContent) return mediaContent[1];
+
+        // Look for og:image meta tag in content
+        const ogImage = item.match(/<meta property="og:image" content="([^"]*)">/);
+        if (ogImage) return ogImage[1];
+
+        // Find first image in content:encoded
+        const contentEncoded = getTagContent('content:encoded', item);
+        if (contentEncoded) {
+            const imgMatch = contentEncoded.match(/<img[^>]*data-orig-file="([^"]*)"[^>]*>/);
+            if (imgMatch) return imgMatch[1];
+        }
+
+        // Look for image in description
+        const description = getTagContent('description', item);
+        const descImg = description.match(/<img[^>]*src="([^"]*)"[^>]*>/);
+        if (descImg && !descImg[1].includes('avatar')) return descImg[1];
+
+        // Default image if nothing found
+        return '../images/bazzaweb2.jpg';
+    };
+
     const getItems = xml => {
         const items = [];
         const itemRegex = /<item>(.*?)<\/item>/gs;
@@ -32,19 +43,16 @@ async function fetchRSS(url) {
         
         while ((match = itemRegex.exec(xml)) !== null) {
             const item = match[1];
-            const description = getTagContent('description', item);
-            const content = getTagContent('content:encoded', item) || description;
-            
-            // Extract image URL
-            const imageUrl = extractImageFromHTML(content) || '../images/bazzaweb2.jpg';
+            const image = getImage(item);
+            console.log('Found image URL:', image);
             
             items.push({
                 title: getTagContent('title', item),
-                description: description,
+                description: getTagContent('description', item),
                 link: getTagContent('link', item),
                 pubDate: getTagContent('pubDate', item),
                 author: getTagContent('creator', item) || getTagContent('author', item),
-                image: imageUrl
+                image: image
             });
         }
         return items;
@@ -57,6 +65,7 @@ async function fetchNews() {
     try {
         const newsDir = path.join(__dirname, '../news');
         await fs.mkdir(newsDir, { recursive: true });
+        console.log('Fetching news...');
 
         const RSS_URL = 'https://www.goodnewsnetwork.org/category/earth/feed/';
         const articles = await fetchRSS(RSS_URL);
@@ -78,8 +87,14 @@ async function fetchNews() {
             }))
         };
 
+        console.log('First article:', {
+            title: newsData.articles[0].title,
+            image: newsData.articles[0].image
+        });
+
         const outputPath = path.join(newsDir, 'news-data.json');
         await fs.writeFile(outputPath, JSON.stringify(newsData, null, 2));
+        console.log('News data written successfully');
     } catch (error) {
         console.error('Error:', error);
         process.exit(1);
