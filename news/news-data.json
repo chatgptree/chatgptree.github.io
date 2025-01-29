@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-01-29T08:28:50.426Z",
+  "lastUpdated": "2025-01-29T09:22:54.149Z",
   "articles": [
+    {
+      "title": "Almost half of US states haven&#8217;t done the bare minimum to cut utility bills",
+      "description": "A new report finds 24 states have yet to establish an “energy efficiency resource standard,\" which has been shown to curb demand, lower costs and redu...",
+      "link": "https://grist.org/climate-energy/almost-half-of-us-states-havent-done-the-bare-minimum-to-cut-utility-bills/",
+      "pubDate": "Wed, 29 Jan 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In meat- and fish-loving Japan, veganism is making a comeback",
+      "description": "Tourism, climate goals, and animal rights concerns are sparking a plant-based renaissance in a country famous for sushi and pork ramen....",
+      "link": "https://grist.org/food-and-agriculture/japan-vegan-restaurant-options-traditional-diet-climate/",
+      "pubDate": "Wed, 29 Jan 2025 09:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/01/Vegan-Sushi-Tokyo_Storefront.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Drop in Amazon deforestation confirmed, but degradation soars 497% in 2024",
       "description": "\r\n\t\t\t\t\t\t\tDeforestation in the Brazilian Amazon dropped by 7% in 2024 compared to 2023, according to an analysis by Imazon, a Brazil-based organization...",
@@ -162,24 +180,6 @@
       "sourceName": "news.mongabay.com",
       "author": "\r\n\t\t\t\t\t\tErik Hoffner\r\n\t\t\t\t\t",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/23175454/3bEL-SAL-08.00_06_46_06.Still016-100x100.jpg"
-    },
-    {
-      "title": "Early results suggest communities stop logging during basic income pilot project",
-      "description": "\r\n\t\t\t\t\t\t\tThree Indigenous communities in Peru’s Amazon are no longer engaging in unsustainable or illegal forest activities to make ends meet as they ...",
-      "link": "https://news.mongabay.com/2025/01/early-results-suggest-communities-stop-logging-during-basic-income-pilot-project/",
-      "pubDate": "27 Jan 2025 15:19:23 +0000",
-      "sourceName": "news.mongabay.com",
-      "author": "\r\n\t\t\t\t\t\tLatoya Abulu\r\n\t\t\t\t\t",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/24210427/Arbol_de_copal_en_la_Comunidad_Nativa_San_Geronimo_34-e1737762814898-100x100.jpg"
-    },
-    {
-      "title": "EUDR divides Brazil&#8217;s environmental and agribusiness authorities",
-      "description": "\r\n\t\t\t\t\t\t\tBRASÍLIA — The European Union’s new antideforestation law banning the import of products linked to recently deforested land has triggered opp...",
-      "link": "https://news.mongabay.com/2025/01/eudr-divides-brazils-environmental-and-agribusiness-authorities/",
-      "pubDate": "27 Jan 2025 14:00:11 +0000",
-      "sourceName": "news.mongabay.com",
-      "author": "\r\n\t\t\t\t\t\tAlexandrapopescu\r\n\t\t\t\t\t",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2021/09/22010143/GP1SVZX1-100x100.jpg"
     }
   ]
 }
