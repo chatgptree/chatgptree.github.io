@@ -1,27 +1,5 @@
 [
   {
-    "id": "msg_1738337813497",
-    "message": "Fantastic!",
-    "rating": 4,
-    "userName": "Jack",
-    "location": "Footscray",
-    "treeName": "Spotty",
-    "treeCode": "spotty",
-    "treeLocation": "Yarraville Village, cnr Canterbury St and Willis St, Melbourne",
-    "timestamp": "2025-01-31T15:36:53.497Z"
-  },
-  {
-    "id": "msg_1738337007191",
-    "message": "🌲🍃🌸🌹🌼🌸🌱🍂🍄🌳🌲🌳",
-    "rating": 5,
-    "userName": "Jack",
-    "location": "Footscray",
-    "treeName": "Spotty",
-    "treeCode": "spotty",
-    "treeLocation": "Yarraville Village, cnr Canterbury St and Willis St, Melbourne",
-    "timestamp": "2025-01-31T15:23:27.191Z"
-  },
-  {
     "id": "msg_1737942960679",
     "message": "lol",
     "rating": 5,
