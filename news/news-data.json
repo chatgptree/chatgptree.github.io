@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-01-31T18:30:08.784Z",
+  "lastUpdated": "2025-01-31T19:17:23.527Z",
   "articles": [
+    {
+      "title": "Oh, great: Rat populations are surging as cities heat up",
+      "description": "Hotter weather makes it easier for rodents to feed and breed. Washington, D.C. saw a 390 percent increase in rats over the last decade. ...",
+      "link": "https://grist.org/cities/rat-population-cities-heat-climate-research/",
+      "pubDate": "Fri, 31 Jan 2025 19:00:56 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As the gold rush surges in Nicaragua, Indigenous communities pay the price",
+      "description": "\r\n\t\t\t\t\t\t\tGold mining has exploded in Nicaragua over the past few years, bringing in billions of dollars and becoming the country’s top export, surpass...",
+      "link": "https://news.mongabay.com/2025/01/as-the-gold-rush-surges-in-nicaragua-indigenous-communities-pay-the-price/",
+      "pubDate": "31 Jan 2025 18:36:21 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tAlexandrapopescu\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/31180356/DSC_0301-100x100.jpg"
+    },
     {
       "title": "The warming Arctic is now a carbon source, report finds",
       "description": "\r\n\t\t\t\t\t\t\tThe Arctic region has shifted from storing carbon dioxide to releasing it into the atmosphere, according to the 2024 Arctic Report Card relea...",
@@ -162,24 +180,6 @@
       "sourceName": "news.mongabay.com",
       "author": "\r\n\t\t\t\t\t\tHayat Indriyatno\r\n\t\t\t\t\t",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/20162052/kaltim_191621-100x100.jpg"
-    },
-    {
-      "title": "Leopards’ unique ‘sawing’ sounds could aid conservation efforts",
-      "description": "\r\n\t\t\t\t\t\t\tNAIROBI, Kenya — Leopards often produce a unique, deep, guttural roar commonly described as “sawing” due to its resemblance to the sound of a...",
-      "link": "https://news.mongabay.com/2025/01/leopards-unique-sawing-sounds-could-aid-conservation-efforts/",
-      "pubDate": "30 Jan 2025 11:42:48 +0000",
-      "sourceName": "news.mongabay.com",
-      "author": "\r\n\t\t\t\t\t\tOchieng' Ogodo\r\n\t\t\t\t\t",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/01/30103611/birger-strahl-bb-nc0y1Rio-unsplash-100x100.jpg"
-    },
-    {
-      "title": "Mango farms where? Climate change is scrambling where the world&#8217;s food is grown.",
-      "description": "The well-traveled tropical fruit exemplifies how farmers are embracing new crops as the world warms....",
-      "link": "https://grist.org/food-and-agriculture/mango-farm-italy-florida-climate-crop-changing/",
-      "pubDate": "Thu, 30 Jan 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/01/Vincenzo-Amata.jpg?quality=75&amp;strip=all"
     }
   ]
 }
