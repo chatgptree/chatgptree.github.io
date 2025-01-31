@@ -55,9 +55,12 @@ class TreeMessageBoard {
 
     async checkForNewMessages() {
         try {
-            const now = new Date();
-            const year = now.getFullYear();
-            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+const now = new Date();
+const year = now.getUTCFullYear();
+const currentMonth = now.toLocaleString('default', { 
+    month: 'long',
+    timeZone: 'UTC'
+}).toLowerCase();
             
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
             
@@ -107,9 +110,12 @@ class TreeMessageBoard {
             
             this.showLoadingSpinner();
             
-            const now = new Date();
-            const year = now.getFullYear();
-            const currentMonth = now.toLocaleString('default', { month: 'long' }).toLowerCase();
+const now = new Date();
+const year = now.getUTCFullYear();
+const currentMonth = now.toLocaleString('default', { 
+    month: 'long',
+    timeZone: 'UTC'
+}).toLowerCase();
             
             const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${currentMonth}.json`;
             console.log('Fetching from:', url);
