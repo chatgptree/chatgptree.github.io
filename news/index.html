@@ -61,5 +61,29 @@
     </footer>
 
     <script src="news.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const navToggle = document.querySelector('.nav-toggle');
+    const modalMenu = document.querySelector('.modal-menu');
+
+    navToggle.addEventListener('click', () => {
+        modalMenu.classList.toggle('active');
+    });
+
+    // Close menu when clicking outside
+    modalMenu.addEventListener('click', (e) => {
+        if (e.target === modalMenu) {
+            modalMenu.classList.remove('active');
+        }
+    });
+
+    // Close menu when clicking a link
+    document.querySelectorAll('.modal-menu a').forEach(link => {
+        link.addEventListener('click', () => {
+            modalMenu.classList.remove('active');
+        });
+    });
+});
+</script>
 </body>
 </html>
