@@ -259,16 +259,18 @@ footer {
 
 .nav-toggle {
     position: absolute;
-    top: 10px;          /* Changed from 20px to 10px */
-    left: 10px;         /* Changed from 20px to 10px */
+    top: 10px;
+    left: 10px;
     z-index: 1000;
-    background: none;
-    border: none;
+    background-color: #2E4032;    /* Added background color */
+    border: 2px solid white;      /* Added white border */
+    border-radius: 8px;           /* Added rounded corners */
     color: white;
-    font-size: 32px;    /* Changed from 24px to 32px */
+    font-size: 32px;
     cursor: pointer;
-    padding: 8px;       /* Changed from 10px to 8px to tighten the space around icon */
-    transition: transform 0.3s ease;
+    padding: 8px 12px;            /* Slightly increased horizontal padding */
+    transition: all 0.3s ease;    /* Changed to all for smooth transition of all properties */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  /* Added subtle shadow */
 }
 
 .nav-toggle:hover {
