@@ -259,15 +259,15 @@ footer {
 
 .nav-toggle {
     position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 10px;          /* Changed from 20px to 10px */
+    left: 10px;         /* Changed from 20px to 10px */
     z-index: 1000;
     background: none;
     border: none;
     color: white;
-    font-size: 24px;
+    font-size: 32px;    /* Changed from 24px to 32px */
     cursor: pointer;
-    padding: 10px;
+    padding: 8px;       /* Changed from 10px to 8px to tighten the space around icon */
     transition: transform 0.3s ease;
 }
 
