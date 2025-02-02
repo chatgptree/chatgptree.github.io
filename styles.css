@@ -262,15 +262,15 @@ footer {
     top: 10px;
     left: 10px;
     z-index: 1000;
-    background-color: #2E4032;    /* Added background color */
-    border: 2px solid white;      /* Added white border */
-    border-radius: 8px;           /* Added rounded corners */
+    background-color: #2E4032;
+    border: 1px solid white;      /* Reduced border width from 2px to 1px */
+    border-radius: 6px;           /* Reduced border radius from 8px to 6px */
     color: white;
-    font-size: 32px;
+    font-size: 20px;              /* Reduced from 32px to 20px */
     cursor: pointer;
-    padding: 8px 12px;            /* Slightly increased horizontal padding */
-    transition: all 0.3s ease;    /* Changed to all for smooth transition of all properties */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  /* Added subtle shadow */
+    padding: 6px 8px;             /* Reduced padding */
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .nav-toggle:hover {
