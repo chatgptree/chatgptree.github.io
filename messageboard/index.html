@@ -16,6 +16,17 @@
     <link rel="stylesheet" href="/messageboard/messageboard.css"> 
 </head>
 <body>
+    <button class="nav-toggle" aria-label="Toggle navigation">
+    <i class="fas fa-water"></i>
+</button>
+<div class="modal-menu">
+    <div class="modal-menu-content">
+        <a href="/"><i class="fas fa-home"></i> Home</a>
+        <a href="/messageboard/"><i class="fas fa-comments"></i> The Grapevine</a>
+        <a href="/news/"><i class="fas fa-newspaper"></i> Arbor Archives</a>
+        <a href="mailto:hello@chatgptree.com.au"><i class="fas fa-envelope"></i> Contact Us</a>
+    </div>
+</div>
     <header>
         <div class="container">
             <h1>The Grapevine</h1>
@@ -59,5 +70,29 @@
     </footer>
     <script src="messageboard.js"></script>
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const navToggle = document.querySelector('.nav-toggle');
+    const modalMenu = document.querySelector('.modal-menu');
+
+    navToggle.addEventListener('click', () => {
+        modalMenu.classList.toggle('active');
+    });
+
+    // Close menu when clicking outside
+    modalMenu.addEventListener('click', (e) => {
+        if (e.target === modalMenu) {
+            modalMenu.classList.remove('active');
+        }
+    });
+
+    // Close menu when clicking a link
+    document.querySelectorAll('.modal-menu a').forEach(link => {
+        link.addEventListener('click', () => {
+            modalMenu.classList.remove('active');
+        });
+    });
+});
+</script>
 </body>
 </html>
