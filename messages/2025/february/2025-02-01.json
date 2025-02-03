@@ -1,27 +1,5 @@
 [
   {
-    "id": "msg_1737942960679",
-    "message": "lol",
-    "rating": 5,
-    "userName": "Shell Oil",
-    "location": "Yarraville",
-    "treeName": "Spotty",
-    "treeCode": "spotty",
-    "treeLocation": "Yarraville Village, cnr Canterbury St and Willis St, Melbourne",
-    "timestamp": "2025-01-27T01:56:00.679Z"
-  },
-  {
-    "id": "msg_1736749070904",
-    "message": "Tree-mendous!",
-    "rating": 5,
-    "userName": "Samantha",
-    "location": "Seddon",
-    "treeName": "Elmary P",
-    "treeCode": "elmary",
-    "treeLocation": "Yarraville Village, cnr Canterbury St and Yarraville Train Staion, Melbourne",
-    "timestamp": "2025-01-13T06:17:50.904Z"
-  },
-  {
     "id": "msg_1736650004386",
     "message": "Very good. 10/10 cats agree ",
     "rating": 5,
