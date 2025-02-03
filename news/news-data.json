@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-03T21:21:01.042Z",
+  "lastUpdated": "2025-02-03T22:21:12.854Z",
   "articles": [
+    {
+      "title": "Chimps remember, for years, the location of ant nests that provide food",
+      "description": "\r\n\t\t\t\t\t\t\tWild chimpanzees have long been known to rely on their powerful memories to know where and in what trees they can find ripe wild fruit. Less ...",
+      "link": "https://news.mongabay.com/2025/02/chimps-remember-for-years-the-location-of-ant-nests-that-provide-food/",
+      "pubDate": "03 Feb 2025 21:40:07 +0000",
+      "sourceName": "news.mongabay.com",
+      "author": "\r\n\t\t\t\t\t\tIsabel Esterman\r\n\t\t\t\t\t",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/02/03212130/Sanchez-Megias-et-al-2024-Photo-1-100x100.png"
+    },
     {
       "title": "Has the Moo Deng craze helped wild pygmy hippos at all? (analysis)",
       "description": "\r\n\t\t\t\t\t\t\t2024 was a chaotic year. The year was, once again, the warmest on record globally, according to the World Meteorological Organization, with m...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/01/Rent-Gouged-Listings_Rent-Brigade_Figure-A-scaled-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Oh, great: Rat populations are surging as cities heat up",
-      "description": "Hotter weather makes it easier for rodents to feed and breed. Washington, D.C. saw a 390 percent increase in rats over the last decade. ...",
-      "link": "https://grist.org/cities/rat-population-cities-heat-climate-research/",
-      "pubDate": "Fri, 31 Jan 2025 19:00:56 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
