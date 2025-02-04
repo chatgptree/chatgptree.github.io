@@ -164,9 +164,7 @@ class TreeMessageBoard {
         } catch (error) {
             console.error('Error loading more messages:', error);
             if (loadMoreBtn) {
-                loadMoreBtn.innerHTML = `
-                    Load More Messages
-                `;
+                loadMoreBtn.innerHTML = `Load More Messages`;
                 loadMoreBtn.disabled = false;
             }
         }
@@ -276,11 +274,7 @@ class TreeMessageBoard {
         // Add "Load More" button
         const loadMoreButton = document.createElement('button');
         loadMoreButton.className = 'load-more-btn';
-        loadMoreButton.innerHTML = `
-            <i class="fas fa-leaf"></i>
-            Load More Messages
-            <i class="fas fa-leaf"></i>
-        `;
+        loadMoreButton.innerHTML = `Load More Messages`;
         loadMoreButton.onclick = () => this.loadMoreMessages();
         this.messageContainer.appendChild(loadMoreButton);
 
