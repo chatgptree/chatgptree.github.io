@@ -21,7 +21,7 @@ class TreeMessageBoard {
         try {
             await this.loadInitialMessages();
             // Check for new messages every minute instead of every 5 seconds
-            setInterval(() => this.checkForNewMessages(), 5000);
+            setInterval(() => this.checkForNewMessages(), 60000);
         } catch (error) {
             console.error('Failed to initialize:', error);
             this.showError('Unable to load messages. Please try again.');
@@ -31,17 +31,40 @@ class TreeMessageBoard {
     async loadInitialMessages() {
         const today = new Date();
         this.showLoadingSpinner();
-        await this.loadDateMessages(today);
+        
+        console.log('Starting initial load for date:', today);
+        
+        // Load last 3 days
+        for (let i = 0; i < 3; i++) {
+            const date = new Date(today);
+            date.setDate(date.getDate() - i);
+            console.log(`Loading day ${i}:`, date.toISOString().split('T')[0]);
+            await this.loadDateMessages(date);
+        }
+        
+        console.log('Initial load complete. Messages:', this.messages.length);
+        
         this.filterAndRender();
         this.setupInfiniteScroll();
     }
 
     formatDatePath(date) {
-        return {
-            year: date.getUTCFullYear(),
-            month: date.toLocaleString('default', { month: 'long', timeZone: 'UTC' }).toLowerCase(),
-            day: date.toISOString().split('T')[0]
-        };
+        // Get the full year
+        const year = date.getUTCFullYear();
+        
+        // Get month name in lowercase
+        const month = date.toLocaleString('default', { 
+            month: 'long', 
+            timeZone: 'UTC' 
+        }).toLowerCase();
+        
+        // Get date in YYYY-MM-DD format
+        const dateStr = date.toISOString().split('T')[0];
+        
+        const url = `/messages/${year}/${month}/${dateStr}.json`;
+        console.log('Constructed URL:', url);
+        
+        return url;
     }
 
     async loadDateMessages(date) {
@@ -51,15 +74,23 @@ class TreeMessageBoard {
         if (this.loadedDates.has(dateStr)) return;
 
         this.isLoading = true;
-        const { year, month, day } = this.formatDatePath(date);
-
+        const url = this.formatDatePath(date);
+        
         try {
-            const url = `https://raw.githubusercontent.com/chatgptree/chatgptree.github.io/main/messages/${year}/${month}/${day}.json`;
-            const response = await fetch(url, { cache: 'default' }); // Use browser's default caching
+            console.log('Fetching messages from:', url);
+            const response = await fetch(url, { 
+                cache: 'no-store',  // Disable cache during testing
+                headers: {
+                    'Accept': 'application/json'
+                }
+            });
 
             if (response.ok) {
                 const newMessages = await response.json();
-                // Only add messages we don't already have
+                console.log('Received messages:', newMessages);
+                
+                // Filter messages for the specific day we're loading
+                // No need to filter by day since each file is already daily
                 const existingIds = new Set(this.messages.map(m => m.id));
                 const uniqueNewMessages = newMessages.filter(m => !existingIds.has(m.id));
                 
