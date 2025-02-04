@@ -28,62 +28,6 @@ class TreeMessageBoard {
         }
     }
 
-    async loadInitialMessages() {
-        const today = new Date();
-        this.showLoadingSpinner();
-        
-        console.log('Starting initial load for current month');
-        
-        // Get all days in the current month up to today
-        const currentYear = today.getUTCFullYear();
-        const currentMonth = today.getUTCMonth();
-        const lastDay = today.getUTCDate();
-        
-        // Load messages for each day in the month up to today
-        for (let day = lastDay; day >= 1; day--) {
-            const date = new Date(Date.UTC(currentYear, currentMonth, day));
-            console.log(`Loading messages for: ${date.toISOString().split('T')[0]}`);
-            await this.loadDateMessages(date);
-        }
-        
-        console.log(`Loaded ${this.messages.length} total messages`);
-        
-        this.filterAndRender();
-        this.setupInfiniteScroll();
-        
-        // Start loading previous month's messages after current month is displayed
-        this.loadPreviousMonth(today);
-    }
-    
-    async loadPreviousMonth(fromDate) {
-        const prevMonth = new Date(fromDate);
-        prevMonth.setUTCMonth(prevMonth.getUTCMonth() - 1);
-        prevMonth.setUTCDate(1); // Start from the first day
-        
-        const lastDay = new Date(
-            prevMonth.getUTCFullYear(),
-            prevMonth.getUTCMonth() + 1,
-            0
-        ).getUTCDate();
-        
-        console.log(`Loading previous month: ${prevMonth.toLocaleString('default', { month: 'long' })}`);
-        
-        for (let day = lastDay; day >= 1; day--) {
-            const date = new Date(Date.UTC(
-                prevMonth.getUTCFullYear(),
-                prevMonth.getUTCMonth(),
-                day
-            ));
-            await this.loadDateMessages(date);
-            
-            // Render after each batch of 5 days to show progress
-            if (day % 5 === 0) {
-                this.filterAndRender();
-            }
-        }
-    }
-    }
-
     formatDatePath(date) {
         // Get the full year
         const year = date.getUTCFullYear();
@@ -101,6 +45,26 @@ class TreeMessageBoard {
         console.log('Constructed URL:', url);
         
         return url;
+    }
+
+    async loadInitialMessages() {
+        const today = new Date();
+        this.showLoadingSpinner();
+        
+        console.log('Starting initial load for date:', today);
+        
+        // Load last 3 days
+        for (let i = 0; i < 3; i++) {
+            const date = new Date(today);
+            date.setDate(date.getDate() - i);
+            console.log(`Loading day ${i}:`, date.toISOString().split('T')[0]);
+            await this.loadDateMessages(date);
+        }
+        
+        console.log('Initial load complete. Messages:', this.messages.length);
+        
+        this.filterAndRender();
+        this.setupInfiniteScroll();
     }
 
     async loadDateMessages(date) {
@@ -123,10 +87,7 @@ class TreeMessageBoard {
 
             if (response.ok) {
                 const newMessages = await response.json();
-                console.log('Received messages:', newMessages);
-                
-                // Filter messages for the specific day we're loading
-                // No need to filter by day since each file is already daily
+                // Only add messages we don't already have
                 const existingIds = new Set(this.messages.map(m => m.id));
                 const uniqueNewMessages = newMessages.filter(m => !existingIds.has(m.id));
                 
@@ -172,7 +133,6 @@ class TreeMessageBoard {
     }
 
     setupInfiniteScroll() {
-        // Use a single observer instance
         const observer = new IntersectionObserver(
             async (entries) => {
                 if (!entries[0].isIntersecting || this.isLoading) return;
@@ -234,9 +194,10 @@ class TreeMessageBoard {
     }
 
     createMessageHTML(message) {
-        const rating = message.rating || 0;
-        const stars = '⭐'.repeat(rating);
-        
+        // Add rating stars if rating exists
+        const ratingHtml = message.rating ? 
+            `<div class="message-rating">${'⭐'.repeat(message.rating)}</div>` : '';
+
         return `
             <div class="message-header">
                 <h3>${this.escapeHtml(message.userName)} 
@@ -244,7 +205,7 @@ class TreeMessageBoard {
                 </h3>
                 <span class="message-date">${this.formatDate(message.timestamp)}</span>
             </div>
-            ${rating > 0 ? `<div class="message-rating">${stars}</div>` : ''}
+            ${ratingHtml}
             <p class="message-content">${this.escapeHtml(message.message)}</p>
             <div class="message-footer">
                 <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
@@ -255,8 +216,8 @@ class TreeMessageBoard {
             </div>`;
     }
 
-    // Utility methods
     escapeHtml(str) {
+        if (!str) return '';
         const div = document.createElement('div');
         div.textContent = str;
         return div.innerHTML;
