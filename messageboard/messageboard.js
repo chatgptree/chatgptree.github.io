@@ -21,7 +21,7 @@ class TreeMessageBoard {
         try {
             await this.loadInitialMessages();
             // Check for new messages every minute instead of every 5 seconds
-            setInterval(() => this.checkForNewMessages(), 60000);
+            setInterval(() => this.checkForNewMessages(), 5000);
         } catch (error) {
             console.error('Failed to initialize:', error);
             this.showError('Unable to load messages. Please try again.');
