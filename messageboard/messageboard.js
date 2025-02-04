@@ -42,7 +42,7 @@ class TreeMessageBoard {
         console.log('Starting initial load for date:', today);
         
         // Load last 7 days
-        for (let i = 0; i < 7; i++) {
+        for (let i = 0; i < 2; i++) {
             const date = new Date(today);
             date.setDate(date.getDate() - i);
             await this.loadDateMessages(date);
