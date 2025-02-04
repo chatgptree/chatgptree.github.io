@@ -2,6 +2,8 @@ class TreeMessageBoard {
     constructor() {
         // Minimal core properties
         this.messages = [];
+        this.filteredMessages = [];  // Added back for filtering
+        this.currentFilter = 'all';  // Added back for filtering
         this.isLoading = false;
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
@@ -54,7 +56,7 @@ class TreeMessageBoard {
         console.log('Starting initial load for date:', today);
         
         // Load last 3 days
-        for (let i = 0; i < 7; i++) {
+        for (let i = 0; i < 3; i++) {
             const date = new Date(today);
             date.setDate(date.getDate() - i);
             console.log(`Loading day ${i}:`, date.toISOString().split('T')[0]);
@@ -155,18 +157,44 @@ class TreeMessageBoard {
     }
 
     filterAndRender() {
-        const searchTerm = (this.searchInput?.value || '').toLowerCase();
-        let filtered = this.messages;
+        if (this.isLoading && !this.messages.length) return;
 
-        if (searchTerm) {
-            filtered = filtered.filter(message => 
-                (message.userName?.toLowerCase().includes(searchTerm) ||
-                message.message?.toLowerCase().includes(searchTerm) ||
-                message.treeName?.toLowerCase().includes(searchTerm))
-            );
+        // Remove any existing loading spinner
+        const existingSpinner = this.messageContainer.querySelector('.loading-spinner');
+        if (existingSpinner) {
+            existingSpinner.remove();
         }
 
-        this.renderMessages(filtered);
+        const searchTerm = (this.searchInput?.value || '').toLowerCase();
+        
+        this.filteredMessages = [...this.messages];
+
+        if (searchTerm) {
+            this.filteredMessages = this.filteredMessages.filter(message => {
+                return (
+                    message.userName?.toLowerCase().includes(searchTerm) ||
+                    message.message?.toLowerCase().includes(searchTerm) ||
+                    message.location?.toLowerCase().includes(searchTerm) ||
+                    message.treeName?.toLowerCase().includes(searchTerm)
+                );
+            });
+        }
+
+        switch (this.currentFilter) {
+            case 'recent':
+                const dayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
+                this.filteredMessages = this.filteredMessages.filter(msg => 
+                    new Date(msg.timestamp) > dayAgo
+                );
+                break;
+            case 'popular':
+                this.filteredMessages.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+                break;
+            default: // 'all'
+                this.filteredMessages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+        }
+
+        this.renderMessages(this.filteredMessages);
     }
 
     renderMessages(messages) {
@@ -265,11 +293,26 @@ class TreeMessageBoard {
     }
 
     setupEventListeners() {
-        // Debounced search
+        // Search input handling
         let searchTimeout;
         this.searchInput?.addEventListener('input', () => {
             clearTimeout(searchTimeout);
             searchTimeout = setTimeout(() => this.filterAndRender(), 300);
+        });
+
+        // Filter buttons handling
+        document.querySelectorAll('.filter-btn').forEach(button => {
+            button.addEventListener('click', () => {
+                // Remove active class from all buttons
+                document.querySelectorAll('.filter-btn').forEach(btn => 
+                    btn.classList.remove('active')
+                );
+                // Add active class to clicked button
+                button.classList.add('active');
+                // Update current filter and re-render
+                this.currentFilter = button.dataset.filter;
+                this.filterAndRender();
+            });
         });
     }
 }
