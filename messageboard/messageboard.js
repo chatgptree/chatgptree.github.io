@@ -21,7 +21,7 @@ class TreeMessageBoard {
         try {
             await this.loadInitialMessages();
             // Check for new messages every minute instead of every 5 seconds
-            setInterval(() => this.checkForNewMessages(), 60000);
+            setInterval(() => this.checkForNewMessages(), 5000);
         } catch (error) {
             console.error('Failed to initialize:', error);
             this.showError('Unable to load messages. Please try again.');
@@ -32,20 +32,56 @@ class TreeMessageBoard {
         const today = new Date();
         this.showLoadingSpinner();
         
-        console.log('Starting initial load for date:', today);
+        console.log('Starting initial load for current month');
         
-        // Load last 3 days
-        for (let i = 0; i < 3; i++) {
-            const date = new Date(today);
-            date.setDate(date.getDate() - i);
-            console.log(`Loading day ${i}:`, date.toISOString().split('T')[0]);
+        // Get all days in the current month up to today
+        const currentYear = today.getUTCFullYear();
+        const currentMonth = today.getUTCMonth();
+        const lastDay = today.getUTCDate();
+        
+        // Load messages for each day in the month up to today
+        for (let day = lastDay; day >= 1; day--) {
+            const date = new Date(Date.UTC(currentYear, currentMonth, day));
+            console.log(`Loading messages for: ${date.toISOString().split('T')[0]}`);
             await this.loadDateMessages(date);
         }
         
-        console.log('Initial load complete. Messages:', this.messages.length);
+        console.log(`Loaded ${this.messages.length} total messages`);
         
         this.filterAndRender();
         this.setupInfiniteScroll();
+        
+        // Start loading previous month's messages after current month is displayed
+        this.loadPreviousMonth(today);
+    }
+    
+    async loadPreviousMonth(fromDate) {
+        const prevMonth = new Date(fromDate);
+        prevMonth.setUTCMonth(prevMonth.getUTCMonth() - 1);
+        prevMonth.setUTCDate(1); // Start from the first day
+        
+        const lastDay = new Date(
+            prevMonth.getUTCFullYear(),
+            prevMonth.getUTCMonth() + 1,
+            0
+        ).getUTCDate();
+        
+        console.log(`Loading previous month: ${prevMonth.toLocaleString('default', { month: 'long' })}`);
+        
+        for (let day = lastDay; day >= 1; day--) {
+            const date = new Date(Date.UTC(
+                prevMonth.getUTCFullYear(),
+                prevMonth.getUTCMonth(),
+                day
+            ));
+            await this.loadDateMessages(date);
+            
+            // Render after each batch of 5 days to show progress
+            if (day % 5 === 0) {
+                this.filterAndRender();
+            }
+        }
+    }
     }
 
     formatDatePath(date) {
@@ -198,6 +234,9 @@ class TreeMessageBoard {
     }
 
     createMessageHTML(message) {
+        const rating = message.rating || 0;
+        const stars = '⭐'.repeat(rating);
+        
         return `
             <div class="message-header">
                 <h3>${this.escapeHtml(message.userName)} 
@@ -205,6 +244,7 @@ class TreeMessageBoard {
                 </h3>
                 <span class="message-date">${this.formatDate(message.timestamp)}</span>
             </div>
+            ${rating > 0 ? `<div class="message-rating">${stars}</div>` : ''}
             <p class="message-content">${this.escapeHtml(message.message)}</p>
             <div class="message-footer">
                 <span>🌳 <strong>${this.escapeHtml(message.treeName)}</strong></span>
