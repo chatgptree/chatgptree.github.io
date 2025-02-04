@@ -167,8 +167,10 @@ class TreeMessageBoard {
 
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
         
+        // Start with all messages
         this.filteredMessages = [...this.messages];
 
+        // Apply search filter if there's a search term
         if (searchTerm) {
             this.filteredMessages = this.filteredMessages.filter(message => {
                 return (
@@ -180,18 +182,31 @@ class TreeMessageBoard {
             });
         }
 
+        // Apply sorting based on current filter
         switch (this.currentFilter) {
             case 'recent':
-                const dayAgo = new Date(Date.now() - 24 * 60 * 60 * 1000);
-                this.filteredMessages = this.filteredMessages.filter(msg => 
-                    new Date(msg.timestamp) > dayAgo
+                // Sort by timestamp, newest first
+                this.filteredMessages.sort((a, b) => 
+                    new Date(b.timestamp) - new Date(a.timestamp)
                 );
                 break;
             case 'popular':
-                this.filteredMessages.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+                // Sort by rating (handle undefined ratings as 0)
+                this.filteredMessages.sort((a, b) => {
+                    const ratingA = a.rating || 0;
+                    const ratingB = b.rating || 0;
+                    if (ratingB === ratingA) {
+                        // If ratings are equal, sort by timestamp
+                        return new Date(b.timestamp) - new Date(a.timestamp);
+                    }
+                    return ratingB - ratingA;
+                });
                 break;
             default: // 'all'
-                this.filteredMessages.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+                // Default chronological sort
+                this.filteredMessages.sort((a, b) => 
+                    new Date(b.timestamp) - new Date(a.timestamp)
+                );
         }
 
         this.renderMessages(this.filteredMessages);
