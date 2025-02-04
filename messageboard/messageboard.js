@@ -165,9 +165,7 @@ class TreeMessageBoard {
             console.error('Error loading more messages:', error);
             if (loadMoreBtn) {
                 loadMoreBtn.innerHTML = `
-                    <i class="fas fa-leaf"></i>
                     Load More Messages
-                    <i class="fas fa-leaf"></i>
                 `;
                 loadMoreBtn.disabled = false;
             }
