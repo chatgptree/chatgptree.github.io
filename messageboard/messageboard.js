@@ -24,7 +24,7 @@ class TreeMessageBoard {
         try {
             await this.loadInitialMessages();
             // Check for new messages every minute
-            setInterval(() => this.checkForNewMessages(), 60000);
+            setInterval(() => this.checkForNewMessages(), 5000);
         } catch (error) {
             console.error('Failed to initialize:', error);
             this.showError('Unable to load messages. Please try again.');
@@ -57,7 +57,7 @@ class TreeMessageBoard {
         console.log('Starting initial load for date:', today);
         
         // Load last 3 days
-        for (let i = 0; i < 3; i++) {
+        for (let i = 0; i < 2; i++) {
             const date = new Date(today);
             date.setDate(date.getDate() - i);
             console.log(`Loading day ${i}:`, date.toISOString().split('T')[0]);
