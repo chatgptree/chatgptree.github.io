@@ -18,13 +18,12 @@ class TreeMessageBoard {
         this.setupEventListeners();
         this.initialize();
     }
-    }
 
     async initialize() {
         try {
             await this.loadInitialMessages();
-            // Check for new messages every minute
-            setInterval(() => this.checkForNewMessages(), 60000);
+            // Check for new messages every 5 seconds
+            setInterval(() => this.checkForNewMessages(), 5000);
         } catch (error) {
             console.error('Failed to initialize:', error);
             this.showError('Unable to load messages. Please try again.');
@@ -57,7 +56,7 @@ class TreeMessageBoard {
         console.log('Starting initial load for date:', today);
         
         // Load last 7 days
-        for (let i = 0; i < 7; i++) {
+        for (let i = 0; i < 2; i++) {
             const date = new Date(today);
             date.setDate(date.getDate() - i);
             console.log(`Loading day ${i}:`, date.toISOString().split('T')[0]);
@@ -67,7 +66,6 @@ class TreeMessageBoard {
         console.log('Initial load complete. Messages:', this.messages.length);
         
         this.filterAndRender();
-    }
     }
 
     async loadDateMessages(date) {
@@ -132,6 +130,47 @@ class TreeMessageBoard {
             }
         } catch (error) {
             console.error('Error checking new messages:', error);
+        }
+    }
+
+    async loadMoreMessages() {
+        if (this.isLoading) return;
+
+        const loadMoreBtn = this.messageContainer.querySelector('.load-more-btn');
+        if (loadMoreBtn) {
+            loadMoreBtn.innerHTML = `
+                <i class="fas fa-leaf fa-spin"></i>
+                Loading...
+            `;
+            loadMoreBtn.disabled = true;
+        }
+
+        try {
+            // Get the oldest loaded date
+            const oldestMessage = this.messages[this.messages.length - 1];
+            if (oldestMessage) {
+                const oldestDate = new Date(oldestMessage.timestamp);
+                
+                // Load next 7 days before the oldest message
+                for (let i = 1; i <= 7; i++) {
+                    const nextDate = new Date(oldestDate);
+                    nextDate.setDate(nextDate.getDate() - i);
+                    await this.loadDateMessages(nextDate);
+                }
+                
+                // Re-render with new messages
+                this.filterAndRender();
+            }
+        } catch (error) {
+            console.error('Error loading more messages:', error);
+            if (loadMoreBtn) {
+                loadMoreBtn.innerHTML = `
+                    <i class="fas fa-leaf"></i>
+                    Load More Messages
+                    <i class="fas fa-leaf"></i>
+                `;
+                loadMoreBtn.disabled = false;
+            }
         }
     }
 
@@ -233,47 +272,22 @@ class TreeMessageBoard {
             fragment.appendChild(messageDiv);
         });
 
-        // Clear container and add messages
         this.messageContainer.innerHTML = '';
         this.messageContainer.appendChild(fragment);
 
-        // Add "Load More" button if we have messages
-        if (messages.length > 0) {
-            const loadMoreButton = document.createElement('button');
-            loadMoreButton.className = 'load-more-btn';
-            loadMoreButton.innerHTML = `
-                <i class="fas fa-leaf"></i>
-                Load More Messages
-                <i class="fas fa-leaf"></i>
-            `;
-            loadMoreButton.onclick = () => this.loadMoreMessages();
-            this.messageContainer.appendChild(loadMoreButton);
-        }
-    }
+        // Add "Load More" button
+        const loadMoreButton = document.createElement('button');
+        loadMoreButton.className = 'load-more-btn';
+        loadMoreButton.innerHTML = `
+            <i class="fas fa-leaf"></i>
+            Load More Messages
+            <i class="fas fa-leaf"></i>
+        `;
+        loadMoreButton.onclick = () => this.loadMoreMessages();
+        this.messageContainer.appendChild(loadMoreButton);
 
-    async loadMoreMessages() {
-        if (this.isLoading) return;
-
-        const loadMoreBtn = this.messageContainer.querySelector('.load-more-btn');
-        if (loadMoreBtn) {
-            loadMoreBtn.innerHTML = `
-                <i class="fas fa-leaf fa-spin"></i>
-                Loading...
-            `;
-            loadMoreBtn.disabled = true;
-        }
-
-        // Get the oldest message's date
-        const oldestMessage = this.messages[this.messages.length - 1];
-        if (oldestMessage) {
-            const oldestDate = new Date(oldestMessage.timestamp);
-            const nextDate = new Date(oldestDate);
-            nextDate.setDate(nextDate.getDate() - 1);
-
-            // Load the next day's messages
-            await this.loadDateMessages(nextDate);
-            this.filterAndRender();
-        }
+        // Setup infinite scroll
+        this.setupInfiniteScroll();
     }
 
     createMessageHTML(message) {
