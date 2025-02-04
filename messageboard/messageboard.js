@@ -56,7 +56,7 @@ class TreeMessageBoard {
         console.log('Starting initial load for date:', today);
         
         // Load last 7 days
-        for (let i = 0; i < 2; i++) {
+        for (let i = 0; i < 7; i++) {
             const date = new Date(today);
             date.setDate(date.getDate() - i);
             console.log(`Loading day ${i}:`, date.toISOString().split('T')[0]);
@@ -69,18 +69,18 @@ class TreeMessageBoard {
     }
 
     async loadDateMessages(date) {
-        if (this.isLoading) return;
-        
         const dateStr = date.toISOString().split('T')[0];
-        if (this.loadedDates.has(dateStr)) return;
+        if (this.loadedDates.has(dateStr)) {
+            console.log(`Already loaded date: ${dateStr}`);
+            return;
+        }
 
-        this.isLoading = true;
         const url = this.formatDatePath(date);
+        console.log('Attempting to fetch:', url);
         
         try {
-            console.log('Fetching messages from:', url);
             const response = await fetch(url, { 
-                cache: 'no-store',  // Disable cache during testing
+                cache: 'no-store',
                 headers: {
                     'Accept': 'application/json'
                 }
@@ -88,23 +88,25 @@ class TreeMessageBoard {
 
             if (response.ok) {
                 const newMessages = await response.json();
+                console.log(`Loaded ${newMessages.length} messages for ${dateStr}`);
+                
                 // Only add messages we don't already have
                 const existingIds = new Set(this.messages.map(m => m.id));
                 const uniqueNewMessages = newMessages.filter(m => !existingIds.has(m.id));
                 
                 if (uniqueNewMessages.length > 0) {
+                    console.log(`Adding ${uniqueNewMessages.length} new messages`);
                     this.messages = [...this.messages, ...uniqueNewMessages]
                         .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
                 }
                 this.loadedDates.add(dateStr);
+            } else {
+                console.log(`No data for date ${dateStr} (${response.status})`);
             }
         } catch (error) {
-            if (error.response?.status !== 404) {
-                console.error(`Error loading messages for ${dateStr}:`, error);
-            }
-        } finally {
-            this.isLoading = false;
+            console.error(`Error loading messages for ${dateStr}:`, error);
         }
+    }
     }
 
     async checkForNewMessages() {
@@ -134,8 +136,12 @@ class TreeMessageBoard {
     }
 
     async loadMoreMessages() {
-        if (this.isLoading) return;
+        if (this.isLoading) {
+            console.log('Already loading messages, returning');
+            return;
+        }
 
+        console.log('Starting to load more messages');
         const loadMoreBtn = this.messageContainer.querySelector('.load-more-btn');
         if (loadMoreBtn) {
             loadMoreBtn.innerHTML = `
@@ -146,23 +152,37 @@ class TreeMessageBoard {
         }
 
         try {
-            // Get the oldest loaded date
-            const oldestMessage = this.messages[this.messages.length - 1];
-            if (oldestMessage) {
-                const oldestDate = new Date(oldestMessage.timestamp);
-                
-                // Load next 7 days before the oldest message
-                for (let i = 1; i <= 7; i++) {
-                    const nextDate = new Date(oldestDate);
-                    nextDate.setDate(nextDate.getDate() - i);
-                    await this.loadDateMessages(nextDate);
-                }
-                
-                // Re-render with new messages
-                this.filterAndRender();
+            // Find oldest message date
+            if (this.messages.length === 0) {
+                console.log('No messages to base load from');
+                return;
             }
-        } catch (error) {
-            console.error('Error loading more messages:', error);
+
+            const oldestMessage = this.messages.reduce((oldest, current) => {
+                return new Date(current.timestamp) < new Date(oldest.timestamp) ? current : oldest;
+            }, this.messages[0]);
+
+            console.log('Oldest message date:', oldestMessage.timestamp);
+            const oldestDate = new Date(oldestMessage.timestamp);
+            
+            // Load next 7 days worth of messages
+            const loadedAny = [];
+            for (let i = 1; i <= 7; i++) {
+                const nextDate = new Date(oldestDate);
+                nextDate.setDate(nextDate.getDate() - i);
+                console.log(`Attempting to load messages for: ${nextDate.toISOString().split('T')[0]}`);
+                
+                this.isLoading = true;
+                await this.loadDateMessages(nextDate);
+                loadedAny.push(nextDate.toISOString().split('T')[0]);
+            }
+            
+            console.log('Attempted to load dates:', loadedAny);
+            
+            // Re-render with new messages
+            this.filterAndRender();
+            
+            // Reset button state
             if (loadMoreBtn) {
                 loadMoreBtn.innerHTML = `
                     <i class="fas fa-leaf"></i>
@@ -171,7 +191,21 @@ class TreeMessageBoard {
                 `;
                 loadMoreBtn.disabled = false;
             }
+            
+        } catch (error) {
+            console.error('Error in loadMoreMessages:', error);
+            if (loadMoreBtn) {
+                loadMoreBtn.innerHTML = `
+                    <i class="fas fa-leaf"></i>
+                    Load More Messages
+                    <i class="fas fa-leaf"></i>
+                `;
+                loadMoreBtn.disabled = false;
+            }
+        } finally {
+            this.isLoading = false;
         }
+    }
     }
 
     setupInfiniteScroll() {
