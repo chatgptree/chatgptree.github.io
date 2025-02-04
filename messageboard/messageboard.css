@@ -291,6 +291,33 @@ header {
     color: white;
 }
 
+.load-more-btn {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.load-more-btn:hover {
+    background-color: #45a049;
+}
+
+.load-more-btn:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+.load-more-btn i {
+    margin: 0 5px;
+}
+
 /* Notification styling */
 .notification {
     position: fixed;
