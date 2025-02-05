@@ -10,6 +10,7 @@ class TreeMessageBoard {
         this.lastUpdateTime = parseInt(localStorage.getItem('lastUpdateTime')) || 0;
         this.loadedDates = new Set();
         this.maxSearchDepth = 90; // Maximum days to look back
+        this.daysChunk = 2; // Reduced from 7 to 2
         
         this.setupEventListeners();
         this.initialize();
@@ -46,23 +47,23 @@ class TreeMessageBoard {
         let messagesFound = false;
         
         while (!messagesFound && startDay < this.maxSearchDepth) {
-            // Load next 7 days chunk
-            for (let i = 0; i < 1; i++) {
+            // Load next chunk of days
+            for (let i = 0; i < this.daysChunk; i++) {
                 const date = new Date(today);
                 date.setDate(date.getDate() - (startDay + i));
-                await this.loadDateMessages(date);
+                const foundMessages = await this.loadDateMessages(date);
                 
                 // Check if we found any messages
-                if (this.messages.length > 0) {
+                if (foundMessages) {
+                    console.log(`Found messages for date: ${date.toISOString().split('T')[0]}`);
                     messagesFound = true;
-                    break;
                 }
             }
             
-            startDay += 7;
+            startDay += this.daysChunk;
             
             // Update loading message with search progress
-            if (!messagesFound && this.messages.length === 0) {
+            if (!messagesFound) {
                 this.messageContainer.innerHTML = `
                     <div class="loading-spinner">
                         <i class="fas fa-leaf fa-spin"></i>
@@ -71,13 +72,14 @@ class TreeMessageBoard {
             }
         }
         
+        console.log(`Total messages loaded: ${this.messages.length}`);
         this.filterAndRender();
     }
 
     async loadDateMessages(date) {
         const dateStr = date.toISOString().split('T')[0];
         if (this.loadedDates.has(dateStr)) {
-            return;
+            return false;
         }
 
         const url = this.formatDatePath(date);
@@ -88,21 +90,36 @@ class TreeMessageBoard {
                 cache: 'no-store'
             });
 
-            if (response.ok) {
-                const newMessages = await response.json();
-                console.log(`Loaded ${newMessages.length} messages for ${dateStr}`);
-                
-                const existingIds = new Set(this.messages.map(m => m.id));
-                const uniqueNewMessages = newMessages.filter(m => !existingIds.has(m.id));
-                
-                if (uniqueNewMessages.length > 0) {
-                    this.messages = [...this.messages, ...uniqueNewMessages]
-                        .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-                }
-                this.loadedDates.add(dateStr);
+            if (!response.ok) {
+                console.log(`No messages found for ${dateStr} (${response.status})`);
+                return false;
             }
+
+            const newMessages = await response.json();
+            console.log(`Loaded ${newMessages.length} messages for ${dateStr}`);
+            
+            if (!Array.isArray(newMessages)) {
+                console.error(`Invalid messages format for ${dateStr}:`, newMessages);
+                return false;
+            }
+            
+            const existingIds = new Set(this.messages.map(m => m.id));
+            const uniqueNewMessages = newMessages.filter(m => !existingIds.has(m.id));
+            
+            if (uniqueNewMessages.length > 0) {
+                console.log(`Adding ${uniqueNewMessages.length} new messages from ${dateStr}`);
+                this.messages = [...this.messages, ...uniqueNewMessages]
+                    .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+                this.loadedDates.add(dateStr);
+                return true;
+            }
+            
+            this.loadedDates.add(dateStr);
+            return false;
+
         } catch (error) {
             console.error(`Error loading messages for ${dateStr}:`, error);
+            return false;
         }
     }
 
@@ -125,22 +142,20 @@ class TreeMessageBoard {
                 
                 let messagesFound = false;
                 let daysSearched = 0;
+                const maxDaysToSearch = 21;
                 
-                // Keep searching until we find messages or hit the limit
-                while (!messagesFound && daysSearched < 21) { // Search up to 21 more days
-                    for (let i = 1; i <= 7; i++) {
+                while (!messagesFound && daysSearched < maxDaysToSearch) {
+                    for (let i = 1; i <= this.daysChunk; i++) {
                         const nextDate = new Date(oldestDate);
                         nextDate.setDate(nextDate.getDate() - (daysSearched + i));
-                        await this.loadDateMessages(nextDate);
+                        const foundMessages = await this.loadDateMessages(nextDate);
                         
-                        // Check if we found any new messages
-                        const initialCount = this.messages.length;
-                        if (this.messages.length > initialCount) {
+                        if (foundMessages) {
                             messagesFound = true;
                             break;
                         }
                     }
-                    daysSearched += 7;
+                    daysSearched += this.daysChunk;
                     
                     if (!messagesFound && loadMoreBtn) {
                         loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Searching older messages... (${daysSearched} days back)`;
@@ -148,6 +163,7 @@ class TreeMessageBoard {
                 }
             }
             
+            console.log('Rendering updated messages...');
             this.filterAndRender();
             
         } catch (error) {
@@ -223,6 +239,8 @@ class TreeMessageBoard {
     }
 
     renderMessages(messages) {
+        console.log(`Rendering ${messages?.length || 0} messages`);
+        
         if (!messages?.length) {
             this.messageContainer.innerHTML = `
                 <div class="no-messages">
