@@ -9,6 +9,7 @@ class TreeMessageBoard {
         this.lastCheckedDate = null;
         this.lastUpdateTime = parseInt(localStorage.getItem('lastUpdateTime')) || 0;
         this.loadedDates = new Set();
+        this.maxSearchDepth = 90; // Maximum days to look back
         
         this.setupEventListeners();
         this.initialize();
@@ -41,11 +42,33 @@ class TreeMessageBoard {
         
         console.log('Starting initial load for date:', today);
         
-        // Load last 7 days
-        for (let i = 0; i < 7; i++) {
-            const date = new Date(today);
-            date.setDate(date.getDate() - i);
-            await this.loadDateMessages(date);
+        let startDay = 0;
+        let messagesFound = false;
+        
+        while (!messagesFound && startDay < this.maxSearchDepth) {
+            // Load next 7 days chunk
+            for (let i = 0; i < 7; i++) {
+                const date = new Date(today);
+                date.setDate(date.getDate() - (startDay + i));
+                await this.loadDateMessages(date);
+                
+                // Check if we found any messages
+                if (this.messages.length > 0) {
+                    messagesFound = true;
+                    break;
+                }
+            }
+            
+            startDay += 7;
+            
+            // Update loading message with search progress
+            if (!messagesFound && this.messages.length === 0) {
+                this.messageContainer.innerHTML = `
+                    <div class="loading-spinner">
+                        <i class="fas fa-leaf fa-spin"></i>
+                        <p>Searching older messages... (${startDay} days back)</p>
+                    </div>`;
+            }
         }
         
         this.filterAndRender();
@@ -100,10 +123,28 @@ class TreeMessageBoard {
                 const oldestDate = new Date(oldestMessage.timestamp);
                 console.log('Loading more messages before:', oldestDate);
                 
-                for (let i = 1; i <= 7; i++) {
-                    const nextDate = new Date(oldestDate);
-                    nextDate.setDate(nextDate.getDate() - i);
-                    await this.loadDateMessages(nextDate);
+                let messagesFound = false;
+                let daysSearched = 0;
+                
+                // Keep searching until we find messages or hit the limit
+                while (!messagesFound && daysSearched < 21) { // Search up to 21 more days
+                    for (let i = 1; i <= 7; i++) {
+                        const nextDate = new Date(oldestDate);
+                        nextDate.setDate(nextDate.getDate() - (daysSearched + i));
+                        await this.loadDateMessages(nextDate);
+                        
+                        // Check if we found any new messages
+                        const initialCount = this.messages.length;
+                        if (this.messages.length > initialCount) {
+                            messagesFound = true;
+                            break;
+                        }
+                    }
+                    daysSearched += 7;
+                    
+                    if (!messagesFound && loadMoreBtn) {
+                        loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Searching older messages... (${daysSearched} days back)`;
+                    }
                 }
             }
             
@@ -186,7 +227,7 @@ class TreeMessageBoard {
             this.messageContainer.innerHTML = `
                 <div class="no-messages">
                     <i class="fas fa-seedling"></i>
-                    <p>No messages found.</p>
+                    <p>No messages found in the last ${this.maxSearchDepth} days.</p>
                 </div>`;
             return;
         }
