@@ -47,7 +47,7 @@ class TreeMessageBoard {
         
         while (!messagesFound && startDay < this.maxSearchDepth) {
             // Load next 7 days chunk
-            for (let i = 0; i < 7; i++) {
+            for (let i = 0; i < 1; i++) {
                 const date = new Date(today);
                 date.setDate(date.getDate() - (startDay + i));
                 await this.loadDateMessages(date);
