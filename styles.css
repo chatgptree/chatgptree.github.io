@@ -108,8 +108,11 @@ img {
 .infographic {
   width: auto;
   height: auto;
-  max-width: 100%;    /* Adjust scale percentage here */
-  max-height: 100vh;  /* Maximum height relative to viewport */
+  max-width: 200%;    /* Adjust scale percentage here */
+  max-height: 90vh;  /* Maximum height relative to viewport */
+  display: block;
+  margin: 1rem auto;
+  opacity: 1;
   object-fit: contain;
 }
 
