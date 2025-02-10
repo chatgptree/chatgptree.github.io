@@ -106,14 +106,9 @@ img {
 /* Infographic Section - Simplified and Fixed */
 
 .infographic {
-  width: auto;
-  height: auto;
-  max-width: 200%;    /* Adjust scale percentage here */
-  max-height: 90vh;  /* Maximum height relative to viewport */
-  display: block;
-  margin: 1rem auto;
-  opacity: 1;
-  object-fit: contain;
+    width: 100%;
+    height: 100vh;
+    object-fit: contain;
 }
 
 .zoom-hint {
