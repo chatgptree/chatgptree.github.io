@@ -104,18 +104,17 @@ img {
 }
 
 /* Infographic Section - Simplified and Fixed */
-.infographic-wrapper {
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 .infographic-wrapper img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+  width: auto;
+  height: auto;
+  max-width: 100%;    /* Adjust scale percentage here */
+  max-height: 90vh;  /* Maximum height relative to viewport */
+  display: block;
+  margin: 1rem auto;
+  opacity: 1;
+  object-fit: contain;
+}
 }
 
 .zoom-hint {
