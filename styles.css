@@ -105,7 +105,7 @@ img {
 
 /* Infographic Section - Simplified and Fixed */
 
-.infographic-wrapper img {
+.infographic {
   width: auto;
   height: auto;
   max-width: 100%;    /* Adjust scale percentage here */
@@ -114,7 +114,6 @@ img {
   margin: 1rem auto;
   opacity: 1;
   object-fit: contain;
-}
 }
 
 .zoom-hint {
