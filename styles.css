@@ -118,6 +118,7 @@ img {
     max-height: 90vh; /* Slightly less than viewport height to ensure visibility */
     object-fit: contain;
     display: block;
+    transform: scale(1.2);
 }
 
 .zoom-hint {
