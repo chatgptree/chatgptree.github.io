@@ -104,27 +104,9 @@ img {
 }
 
 /* Infographic Section - Simplified and Fixed */
-.infographic-section {
-    background-color: #F1EFE6;
-    width: 100%;
-    height: 100vh;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
 .infographic-wrapper {
     width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.infographic-wrapper a {
-    width: 100%;
-    height: 100%;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -134,24 +116,6 @@ img {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    display: block;
-    margin: 0;
-    padding: 0;
-}
-
-.infographic-section h2 {
-    position: absolute;
-    top: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 2;
-    background-color: rgba(46, 64, 50, 0.8);
-    padding: 10px 20px;
-    border-radius: 5px;
-    color: white;
-    margin: 0;
-    width: auto;
-    text-align: center;
 }
 
 .zoom-hint {
