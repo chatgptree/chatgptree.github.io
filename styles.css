@@ -323,33 +323,24 @@ footer {
     }
 }
 
-/* For very small screens */
-@media (max-width: 480px) {
-    .infographic-section h2 {
-        font-size: 1rem;
-        padding: 6px 12px;
-    }
-
-    .zoom-hint {
-        padding: 6px 12px;
-        font-size: 0.8rem;
+/* For tablets */
+@media (max-width: 1024px) {
+    .infographic {
+        transform: scale(1.1);
     }
 }
 
-/* For landscape orientation on mobile */
-@media (max-height: 480px) and (orientation: landscape) {
-    .infographic-wrapper img {
-        object-fit: contain;
+/* For mobile phones */
+@media (max-width: 768px) {
+    .infographic {
+        transform: scale(1); /* No scaling on mobile */
+        /* or a smaller scale like 0.9 if needed */
     }
+}
 
-    .infographic-section h2 {
-        top: 5px;
-        font-size: 1rem;
-        padding: 5px 10px;
-    }
-
-    .zoom-hint {
-        bottom: 5px;
-        padding: 5px 10px;
+/* For very small screens */
+@media (max-width: 480px) {
+    .infographic {
+        transform: scale(0.9); /* Slightly smaller on very small screens */
     }
 }
