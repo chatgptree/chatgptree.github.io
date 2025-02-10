@@ -109,10 +109,7 @@ img {
   width: auto;
   height: auto;
   max-width: 100%;    /* Adjust scale percentage here */
-  max-height: 90vh;  /* Maximum height relative to viewport */
-  display: block;
-  margin: 1rem auto;
-  opacity: 1;
+  max-height: 100vh;  /* Maximum height relative to viewport */
   object-fit: contain;
 }
 
