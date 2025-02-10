@@ -70,18 +70,18 @@ async function fetchNews() {
         const newsDir = path.join(__dirname, '../news');
         await fs.mkdir(newsDir, { recursive: true });
 
-        const RSS_FEEDS = [
-            'https://www.nature.org/en-us/feed/news/',
-            'https://www.conservation.org/blog/feed',
-            'https://www.rainforest-alliance.org/feed/',
-            'https://www.worldwildlife.org/feed',
-            'https://news.mongabay.com/feed/',
-            'https://www.sciencedaily.com/rss/earth_climate/trees.xml',
-            'https://www.kew.org/feeds/news/rss.xml',
-            'https://www.arborday.org/feed/',
-            'https://www.ecowatch.com/feeds/latest.rss',
-            'https://grist.org/feed/'
-        ];
+const RSS_FEEDS = [
+    // Global Environmental News
+    'https://insideclimatenews.org/feed/',
+    'https://www.theguardian.com/environment/rss',
+    'https://grist.org/feed/',
+    'http://feeds.bbci.co.uk/news/science_and_environment/rss.xml',
+
+    // Australia-Based Environmental News
+    'https://econews.com.au/feed/',
+    'https://www.acf.org.au/blog.rss',
+    'https://blog.csiro.au/category/environment/feed/'
+];
 
         let allArticles = [];
         for (const feed of RSS_FEEDS) {
