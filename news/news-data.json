@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-11T20:24:46.915Z",
+  "lastUpdated": "2025-02-11T21:21:15.035Z",
   "articles": [
+    {
+      "title": "Will Trump’s Diminished Data Sharing at CDC Hamper Bird Flu Preparedness?",
+      "description": "There’s an epidemic raging in the avian world.&#160; For years, the highly pathogenic H5N1 avian influenza has devastated global bird populations. In ...",
+      "link": "https://insideclimatenews.org/news/11022025/todays-climate-bird-flu-data-trump/",
+      "pubDate": "Tue, 11 Feb 2025 21:15:25 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Stripey-faced fish named after warrior princess San",
       "description": "The newly discovered fish has stripes on its face like the Studio Ghibli warrior princess....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US-funded ‘social network’ attacking pesticide critics shuts down after Guardian investigation",
-      "description": "&lt;p&gt;v-Fluence halts operations after widespread backlash over private portal profiling environmental health advocates&lt;/p&gt;&lt;p&gt;A US comp...",
-      "link": "https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics",
-      "pubDate": "Mon, 10 Feb 2025 15:00:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b0942b81bdf441ba092d0792f98ded65fc2bbdb7/0_253_5508_3304/master/5508.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a45822ff7be87c53be3e6cfd84d6f1f"
     }
   ]
 }
