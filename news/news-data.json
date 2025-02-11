@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-11T08:28:57.057Z",
+  "lastUpdated": "2025-02-11T09:24:14.386Z",
   "articles": [
+    {
+      "title": "Trump moves to halt $5B EV-charging program",
+      "description": "The administration ordered states to rework plans for using federal EV-charging money, putting hundreds of projects in limbo. Experts say that’s illeg...",
+      "link": "https://grist.org/transportation/trump-moves-to-halt-5b-ev-charging-program/",
+      "pubDate": "Tue, 11 Feb 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/USAID-protest.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "EV drivers spend extra £85m on VAT when using public chargers",
       "description": "&lt;p&gt;Industry says ‘pavement tax’ due to disparity in VAT rates is holding back transition away from fossil fuels&lt;/p&gt;&lt;p&gt;Electric vehic...",
@@ -110,7 +119,7 @@
       "image": "https://i.guim.co.uk/img/media/b0942b81bdf441ba092d0792f98ded65fc2bbdb7/0_253_5508_3304/master/5508.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a45822ff7be87c53be3e6cfd84d6f1f"
     },
     {
-      "title": "‘Most at risk on the planet’: Polar heritage sites are slipping into the sea but can one island live forever online?",
+      "title": "‘Most at risk on the planet’: Polar heritage sites are slipping into the sea – but can one island live forever online?",
       "description": "&lt;p&gt;On Qikiqtaruk, off Canada’s Yukon coast, scientists are wielding virtual-reality cameras, 3D models and digital archives to protect the islan...",
       "link": "https://www.theguardian.com/environment/2025/feb/10/canada-arctic-yukon-herschel-island-qikiqtaruk-inuvialuit-culture-conservation-dilemma-climate-floods-historic-whaling",
       "pubDate": "Mon, 10 Feb 2025 10:00:10 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5ed398ff13e31a5ab62a567bffc6d81ce040755f/0_400_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e45eeb09129c5a17aa99d0228b8cd32"
-    },
-    {
-      "title": "BlocPower promised to help electrify Ithaca. Now it has ended its support.",
-      "description": "The company ended its collaboration with the city in New York after completing the electrification of only 10 buildings....",
-      "link": "https://grist.org/buildings/blocpower-promised-to-help-electrify-ithaca-now-it-has-ended-its-support/",
-      "pubDate": "Sun, 09 Feb 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/ithaca2.webp?quality=75&amp;strip=all"
     }
   ]
 }
