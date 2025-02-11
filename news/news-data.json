@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-11T15:25:56.428Z",
+  "lastUpdated": "2025-02-11T16:30:36.082Z",
   "articles": [
+    {
+      "title": "BP set to scale back green investments as profits drop sharply",
+      "description": "The oil giant is widely expected to say it will scale back on renewables later this month....",
+      "link": "https://www.bbc.com/news/articles/c30d4ernzqjo",
+      "pubDate": "Tue, 11 Feb 2025 15:47:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Flexibility Will Go a Long Way Toward Managing the Grid of the Near Future, Researchers Say",
       "description": "The U.S. electricity grid can handle much of the projected increase in demand from artificial intelligence data centers by becoming more flexible, whi...",
@@ -12,7 +21,7 @@
     },
     {
       "title": "Tenants demand protections as LA fires exacerbate housing crisis: ‘Huge source of stress’",
-      "description": "&lt;p&gt;Renters are not only facing an escalation in rent prices but also pressure to evict apartments from landlords&lt;/p&gt;&lt;p&gt;Wendy Lopez, ...",
+      "description": "&lt;p&gt;Renters are not only facing an escalation in rent prices but also pressure to evict apartments from landlords&lt;/p&gt;&lt;p&gt;Wendy López, ...",
       "link": "https://www.theguardian.com/us-news/2025/feb/11/housing-rent-protection-la-fires",
       "pubDate": "Tue, 11 Feb 2025 14:00:05 GMT",
       "sourceName": "theguardian.com",
@@ -27,15 +36,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d5cc86f7589bab13993a0a294cd9dc44337a8a38/0_240_5464_3279/master/5464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d05800b9404158e1b9e824aa97a009b"
-    },
-    {
-      "title": "BP set to scale back green investments as profits drop sharply",
-      "description": "The oil giant is widely expected to say it will scale back on renewables later this month....",
-      "link": "https://www.bbc.com/news/articles/c30d4ernzqjo",
-      "pubDate": "Tue, 11 Feb 2025 12:25:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Rangers search for feral pigs thought to have been released in Cairngorms",
@@ -101,8 +101,8 @@
       "image": "https://i.guim.co.uk/img/media/120b9e0aa8ecfa9e981051b547be01e857a5a07e/3_3_1178_707/master/1178.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abd275bce289fea96dacf97472c41b46"
     },
     {
-      "title": "Trump signs order to bring back plastic straws claiming paper ones ‘explode’",
-      "description": "&lt;p&gt;Order rolls back Biden policy to phase out federal purchases of single-use plastic as Trump calls it a ‘ridiculous situation’&lt;/p&gt;&lt;p&...",
+      "title": "Trump signs order to bring back plastic straws, claiming paper ones ‘explode’",
+      "description": "&lt;p&gt;Order rolls back Biden policy to phase out federal purchases of single-use plastic as Trump calls it a ‘ridiculous situation’&lt;/p&gt;&lt;ul...",
       "link": "https://www.theguardian.com/us-news/2025/feb/10/trump-plastic-straws-executive-order",
       "pubDate": "Tue, 11 Feb 2025 02:47:54 GMT",
       "sourceName": "theguardian.com",
