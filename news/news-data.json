@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-11T14:22:42.838Z",
+  "lastUpdated": "2025-02-11T15:25:56.428Z",
   "articles": [
+    {
+      "title": "Flexibility Will Go a Long Way Toward Managing the Grid of the Near Future, Researchers Say",
+      "description": "The U.S. electricity grid can handle much of the projected increase in demand from artificial intelligence data centers by becoming more flexible, whi...",
+      "link": "https://insideclimatenews.org/news/11022025/grid-flexibility-ai-data-centers/",
+      "pubDate": "Tue, 11 Feb 2025 15:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Tenants demand protections as LA fires exacerbate housing crisis: ‘Huge source of stress’",
       "description": "&lt;p&gt;Renters are not only facing an escalation in rent prices but also pressure to evict apartments from landlords&lt;/p&gt;&lt;p&gt;Wendy Lopez, ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3e9fca0842c2abdb4d8a45e1b70362e3efd28e3a/0_194_5280_3168/master/5280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69d859d3959727c0acc8acd4e934f2d0"
-    },
-    {
-      "title": "More Solar and Battery Storage Were Added to Texas’ Grid Than Any Other Power Source Last Year",
-      "description": "As the market for renewables in Texas continues to strengthen and innovate, the power makeup of the state’s electric grid is slated to keep shifting t...",
-      "link": "https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/",
-      "pubDate": "Mon, 10 Feb 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
