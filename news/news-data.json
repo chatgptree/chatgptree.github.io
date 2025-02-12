@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-12T14:22:22.998Z",
+  "lastUpdated": "2025-02-12T15:25:36.300Z",
   "articles": [
+    {
+      "title": "Avian flu spread sees 1.8 million farmed birds culled",
+      "description": "There have been 33 outbreaks so far on farms, but the risk to humans remains low, the government says....",
+      "link": "https://www.bbc.com/news/articles/c391mpmr81xo",
+      "pubDate": "Wed, 12 Feb 2025 14:56:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Like finding gold’: plains-wanderers spotted in Melbourne’s west for first time in 30 years with help of AI",
       "description": "&lt;p&gt;Critically endangered bird detected after analysis of tens of thousands of hours of song meter recordings&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get ou...",
@@ -36,15 +45,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d4d1828381c7d2f321be3d02e11a2c3a21d917cd/56_146_3867_2320/master/3867.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=722ca5d037c5fb33ce332921cfbaae02"
-    },
-    {
-      "title": "Avian flu spread sees 1.8 million farmed birds culled",
-      "description": "There have been 33 outbreaks so far on farms, but the risk to humans remains low, the government says....",
-      "link": "https://www.bbc.com/news/articles/c391mpmr81xo",
-      "pubDate": "Wed, 12 Feb 2025 11:58:41 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Consumerism—and the Chemicals in All of Our Stuff—Is Thwarting the Transition From Fossil Fuels",
