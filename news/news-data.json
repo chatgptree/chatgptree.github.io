@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-12T15:25:36.300Z",
+  "lastUpdated": "2025-02-12T16:29:49.947Z",
   "articles": [
+    {
+      "title": "Congress agrees on one thing: Expanding access to the outdoors",
+      "description": "How the EXPLORE Act, a bill aimed at improving outdoor recreation opportunities, managed to pass with unanimous support....",
+      "link": "https://grist.org/looking-forward/congress-agrees-on-one-thing-expanding-access-to-the-outdoors/",
+      "pubDate": "Wed, 12 Feb 2025 15:59:29 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/0212_EXPLORE.jpg?quality=75&amp;strip=all&amp;w=900"
+    },
     {
       "title": "Avian flu spread sees 1.8 million farmed birds culled",
       "description": "There have been 33 outbreaks so far on farms, but the risk to humans remains low, the government says....",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c30d4ernzqjo",
       "pubDate": "Tue, 11 Feb 2025 15:47:58 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flexibility Will Go a Long Way Toward Managing the Grid of the Near Future, Researchers Say",
-      "description": "The U.S. electricity grid can handle much of the projected increase in demand from artificial intelligence data centers by becoming more flexible, whi...",
-      "link": "https://insideclimatenews.org/news/11022025/grid-flexibility-ai-data-centers/",
-      "pubDate": "Tue, 11 Feb 2025 15:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
