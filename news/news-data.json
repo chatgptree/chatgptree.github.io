@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-02-12T08:29:41.562Z",
+  "lastUpdated": "2025-02-12T09:24:21.874Z",
   "articles": [
+    {
+      "title": "Trump’s push for ‘efficiency’ may destroy the EPA. What does that mean for you?",
+      "description": "Current and former EPA staff say millions of Americans could lose access to clean air and water....",
+      "link": "https://grist.org/regulation/donald-trump-efficiency-epa-lee-zeldin/",
+      "pubDate": "Wed, 12 Feb 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/trump-deleting-data.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Trump&#8217;s budget cuts could kill your local weather forecast — and put you in danger",
+      "description": "DOGE has its sights on NOAA and the National Weather Service. Gutting them could imperil millions and cost billions....",
+      "link": "https://grist.org/extreme-weather/trumps-budget-cuts-could-kill-your-local-weather-forecast-and-put-you-in-danger/",
+      "pubDate": "Wed, 12 Feb 2025 09:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/Tr-mp-energy-dominance1.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Regulator investigates Thames Water over delayed environmental schemes",
+      "description": "&lt;p&gt;Ofwat’s enforcement case into whether company breached obligations follows Guardian investigation&lt;/p&gt;&lt;p&gt;Thames Water is being inv...",
+      "link": "https://www.theguardian.com/business/2025/feb/12/regulator-investigates-thames-water-over-delayed-environmental-schemes",
+      "pubDate": "Wed, 12 Feb 2025 08:41:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3c8d0fd706be3fefc3e1dc1e24e3c002a4d0d4ca/4_122_3775_2266/master/3775.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dcd674b9ccbb9aab6f42a5e59ecddf82"
+    },
     {
       "title": "England’s wildlife watchdog failing to protect crucial sites, say campaigners",
       "description": "&lt;p&gt;In three years Natural England has designated just two new SSSIs, which protect areas from development&lt;/p&gt;&lt;p&gt;The government’s wil...",
@@ -45,15 +72,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Solomon Islands landowners seek compensation over catastrophic oil spill",
-      "description": "&lt;p&gt;Claim over the 2019 Rennell Island disaster, which saw more than 300 tonnes of fuel leak into the water, filed in the Solomons High court&lt;...",
-      "link": "https://www.theguardian.com/world/2025/feb/12/rennell-island-disaster-solomon-islands-landowners-seek-compensation-over-catastrophic-oil-spill-ntwnfb",
-      "pubDate": "Wed, 12 Feb 2025 00:22:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d1180e7522a04747c6937c08719f7c1844e18020/0_38_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8726dea65f8b4f20f265d071a7698a8"
     },
     {
       "title": "American Football Season Is Getting Hotter, Especially in the Midwest",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/db07dd4b88bfe8126c8b770a9d9e3d571184b65b/0_263_3462_2077/master/3462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4aa70365625c1b16f9eacb70fb8c25ac"
-    },
-    {
-      "title": "Trump signs order shifting US back toward plastic straws",
-      "description": "The president has long been a critic of paper straws, which he says don't work and dissolve too easily. ...",
-      "link": "https://www.bbc.com/news/articles/c2k574ydyyqo",
-      "pubDate": "Tue, 11 Feb 2025 01:52:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mayors Across US Urge Congress Not to Repeal Clean Energy Tax Credits",
-      "description": "A letter signed by mayors and local leaders across 39 states is calling on Congress to protect all clean energy tax credits made available to state an...",
-      "link": "https://insideclimatenews.org/news/10022025/mayors-urge-congress-not-to-repeal-clean-energy-tax-credits/",
-      "pubDate": "Mon, 10 Feb 2025 23:10:04 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
