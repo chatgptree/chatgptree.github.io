@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-02-13T09:24:44.337Z",
+  "lastUpdated": "2025-02-13T10:25:18.393Z",
   "articles": [
+    {
+      "title": "An EPA Rule Will Reduce Lead in Drinking Water—Unless This Effort to Block It Succeeds",
+      "description": "A landmark Environmental Protection Agency rule enacted at the end of last year sought to address the lead crisis—which threatens the health of millio...",
+      "link": "https://insideclimatenews.org/news/13022025/epa-rule-to-reduce-drinking-water-lead-potential-reversal/",
+      "pubDate": "Thu, 13 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump is freezing climate funds. Can he do that?",
+      "description": "Courts have ordered the president to release Biden-era climate money — but he’s holding out....",
+      "link": "https://grist.org/politics/trump-climate-funding-freeze-ira-bil-biden/",
+      "pubDate": "Thu, 13 Feb 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-2194989581.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Where did billions in climate and infrastructure funding go? Search our map by ZIP code.",
+      "description": "From clean energy projects to bridges, this interactive tool shows what projects lawmakers announced in your neighborhood....",
+      "link": "https://grist.org/accountability/climate-infrastructure-ira-bil-map-tool/",
+      "pubDate": "Thu, 13 Feb 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "What it takes to regrow a community after wildfire",
       "description": "As it recovers, Altadena finds inspiration in other wildfire-devastated communities that have replanted lawns, gardens, and green spaces with fire-res...",
@@ -48,7 +75,7 @@
     },
     {
       "title": "WATCH: Astronaut's view of Northern Lights from International Space Station",
-      "description": "Footage from the International Space Station as it soars above an aurora dancing over Canada...",
+      "description": "Footage from the International Space Station as it soars above an aurora dancing over Canada....",
       "link": "https://www.bbc.com/weather/videos/c07kljvv5mko",
       "pubDate": "Thu, 13 Feb 2025 02:34:27 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Indigenous Women Spotlight the Climate Crisis in New Mexico at Gathering Inside the Roundhouse",
-      "description": "SANTA FE, N.M.—With banners stating, “Water is Our First Environment” and “Honor the Breath of Life” suspended above the rotunda of the Roundhouse, In...",
-      "link": "https://insideclimatenews.org/news/12022025/indigenous-women-spotlight-climate-crisis-new-mexico/",
-      "pubDate": "Wed, 12 Feb 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EV Charging Buildout in New York Will Proceed Despite Trump’s Lack of Support",
-      "description": "On the day of his inauguration, President Trump repealed a Biden-era target of making 50 percent of all newly manufactured vehicles electric by 2030. ...",
-      "link": "https://insideclimatenews.org/news/12022025/new-york-ev-charging-buildout/",
-      "pubDate": "Wed, 12 Feb 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Georgia was about to retire coal plants. Then came the data centers.",
-      "description": "Utilities nationwide are falling back on fossil fuels to meet huge energy demand....",
-      "link": "https://grist.org/energy/georgia-was-about-to-retire-coal-plants-then-came-the-data-cen/",
-      "pubDate": "Wed, 12 Feb 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/Tr-mp-energy-dominance1.jpg?quality=75&#038;strip=all"
     }
   ]
 }
