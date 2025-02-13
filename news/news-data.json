@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-13T01:48:43.618Z",
+  "lastUpdated": "2025-02-13T02:52:06.133Z",
   "articles": [
+    {
+      "title": "WATCH: Astronaut's view of Northern Lights from International Space Station",
+      "description": "Footage from the International Space Station as it soars above an aurora dancing over Canada...",
+      "link": "https://www.bbc.com/weather/videos/c07kljvv5mko",
+      "pubDate": "Thu, 13 Feb 2025 02:34:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "With a Veteran Oil and Gas Lobbyist Nominated To Lead the BLM, Westerners Worry About Wildlife and Renewable Energy",
       "description": "A longtime oil and gas lobbyist has been nominated by President Trump to lead the Bureau of Land Management, the federal agency tasked with stewarding...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/02/Tr-mp-energy-dominance1.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "What is the [threatened species list?]",
-      "description": "&lt;p&gt;Recently ACF published &lt;a title=\"Extinction Wrapped 2024\" href=\"https://www.acf.org.au/extinction-wrapped-2024\"&gt;Extinction Wrapped 2024...",
-      "link": "http://www.acf.org.au/what-is-the-threatened-species-list",
-      "pubDate": "Wed, 12 Feb 2025 14:52:13 +1100",
-      "sourceName": "acf.org.au",
-      "author": "Darcie Carruthers",
-      "image": "../images/header2.jpg"
     }
   ]
 }
