@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-02-14T11:18:29.933Z",
+  "lastUpdated": "2025-02-14T12:44:45.513Z",
   "articles": [
     {
       "title": "Industry influence over UN aviation body ‘extremely concerning’",
@@ -33,6 +33,15 @@
       "description": "About 2,000 low-income households in Alabama are poised to lose federal assistance to help them pay high energy bills, under an executive order issued...",
       "link": "https://insideclimatenews.org/news/14022025/trump-takes-back-funds-for-low-income-alabama-electric-bills/",
       "pubDate": "Fri, 14 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "After Trump Administration Closes DOJ’s Office of Environmental Justice, Advocates Worry About Future Enforcement",
+      "description": "The Department of Justice’s Office of Environmental Justice is puny by federal agency standards. But advocates have said for years that it punches wel...",
+      "link": "https://insideclimatenews.org/news/14022025/trump-administration-closes-doj-environmental-justice-office/",
+      "pubDate": "Fri, 14 Feb 2025 09:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/Tim-Pratt.jpg"
-    },
-    {
-      "title": "Soaking up solutions: Humble marine sponges enhance ocean life",
-      "description": "Dense Invertebrates Photo Credit: Daniel Ierodiaconou Deakin University Deakin University researchers have joined scientists from SeaGen Aquaculture a...",
-      "link": "https://econews.com.au/66528/soaking-up-solutions-humble-marine-sponges-enhance-ocean-life/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=soaking-up-solutions-humble-marine-sponges-enhance-ocean-life",
-      "pubDate": "Fri, 14 Feb 2025 01:49:30 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/dense-invertebrates_resize_PhotoDaniel-Ierodiaconou-1024x679.jpg"
     }
   ]
 }
