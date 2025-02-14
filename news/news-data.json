@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-02-14T09:23:59.866Z",
+  "lastUpdated": "2025-02-14T10:24:16.342Z",
   "articles": [
+    {
+      "title": "That new land use policy that the Tories call ‘national suicide’? It’s urgent, essential – and their idea | Henry Dimbleby",
+      "description": "&lt;p&gt;No, it isn’t a leftwing plot, it’s a proposal I authored for the Conservatives in 2021. And it could be brilliantly transformative for Englan...",
+      "link": "https://www.theguardian.com/commentisfree/2025/feb/14/land-use-policy-tories-conservative-england",
+      "pubDate": "Fri, 14 Feb 2025 10:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/de5b1c6acbb4555e801e240e959c89c27e02464d/0_254_4256_2554/master/4256.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd63c7f3cc0346caa2532a891c27ae1f"
+    },
+    {
+      "title": "Trump Executive Order Takes Back Funds to Help Low-Income Alabama Residents Pay Electric Bills",
+      "description": "About 2,000 low-income households in Alabama are poised to lose federal assistance to help them pay high energy bills, under an executive order issued...",
+      "link": "https://insideclimatenews.org/news/14022025/trump-takes-back-funds-for-low-income-alabama-electric-bills/",
+      "pubDate": "Fri, 14 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Will J.D. Vance save the Great Lakes from Trump?",
+      "description": "The vice president once pushed for restoration funding. Advocates hope he hasn't forgotten....",
+      "link": "https://grist.org/politics/will-j-d-vance-save-the-great-lakes-from-trump/",
+      "pubDate": "Fri, 14 Feb 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-658932706-CROP.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Trump&#8217;s funding freeze is wreaking havoc on climate science",
+      "description": "Federal dollars have bankrolled some of humanity's biggest breakthroughs. What happens when they disappear?...",
+      "link": "https://grist.org/science/trumps-funding-freeze-is-wreaking-havoc-on-climate-science/",
+      "pubDate": "Fri, 14 Feb 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-174475335-1.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Climate change is scorching the cocoa belt — and you&#8217;re paying the price",
       "description": "Rising temperatures, erratic rainfall, and other climate impacts are throttling cocoa production and driving up chocolate prices....",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/TrusTrace-Textile-Exchange-Trackit-Square-Updated-1024x1024.png"
-    },
-    {
-      "title": "Green light for Lake Victoria Wind Farm",
-      "description": "The Minns Labor Government and wind farm developer WestWind Energy Pty Ltd have signed a lease agreement to help facilitate a wind farm with up to 201...",
-      "link": "https://econews.com.au/66526/green-light-for-lake-victoria-wind-farm/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=green-light-for-lake-victoria-wind-farm",
-      "pubDate": "Fri, 14 Feb 2025 01:49:29 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/f9ga70Rg-1024x768.jpeg"
-    },
-    {
-      "title": "Pennsylvania Climate Programs Hit by Federal Spending Cuts, Governor Says in Lawsuit vs. Trump",
-      "description": "Pennsylvania’s environmental and climate-related programs have lost hundreds of millions of federal dollars as part of a wide-ranging funding freeze i...",
-      "link": "https://insideclimatenews.org/news/13022025/pennsylvania-sues-trump-over-federal-spending-cuts-climate-programs/",
-      "pubDate": "Fri, 14 Feb 2025 00:09:11 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New Pipeline Will Bring More Permian Gas to Texas Industrial Corridor",
-      "description": "A Texas utility company this week announced an agreement to pipe an additional 1.5 billion cubic feet of Permian Basin gas to the Port Arthur industri...",
-      "link": "https://insideclimatenews.org/news/13022025/new-pipeline-to-connect-permian-basin-texas-industrial-corridor/",
-      "pubDate": "Thu, 13 Feb 2025 23:17:03 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Has Thrown a Wrench Into a National EV Charging Program. Can He Make It Disappear?",
-      "description": "For now, Priester’s will have to stick to its famous pecans in Fort Payne, Alabama. But maybe not for long.&#160; Priester’s Pecans, an Alabama staple...",
-      "link": "https://insideclimatenews.org/news/13022025/trump-national-ev-charging-program/",
-      "pubDate": "Thu, 13 Feb 2025 18:34:28 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
