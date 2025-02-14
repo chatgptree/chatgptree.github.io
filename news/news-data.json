@@ -1,14 +1,77 @@
 {
-  "lastUpdated": "2025-02-14T05:22:28.806Z",
+  "lastUpdated": "2025-02-14T06:31:25.810Z",
   "articles": [
     {
-      "title": "Richest nations ‘exporting extinction’ with demand for beef, palm oil and timber",
-      "description": "&lt;p&gt;Consumption in wealthy countries including US and UK is responsible for 13% of global forest loss beyond their borders, study finds&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/environment/2025/feb/14/richest-nations-exporting-extinction-with-demand-for-beef-palm-oil-and-timber-aoe",
-      "pubDate": "Fri, 14 Feb 2025 05:00:07 GMT",
+      "title": "EVs and datacentres driving new global ‘age of electricity’, says watchdog",
+      "description": "&lt;p&gt;Forecast for rising global electricity use likely to stoke fears of rising costs and stalled efforts to fight climate crisis&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/business/2025/feb/14/electric-cars-datacentres-new-global-age-of-electricity",
+      "pubDate": "Fri, 14 Feb 2025 06:00:08 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/3f6e059cb6f723d0e24610d6394d0e99a439725e/0_277_5082_3049/master/5082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45856df796003004bb762cc70f8de36c"
+      "image": "https://i.guim.co.uk/img/media/1f99803316941787d8d6d31a77fac0fb59ca7044/0_519_4899_2940/master/4899.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1afdea128aee977a192985e4a4cc8be0"
+    },
+    {
+      "title": "Brake pad dust can be more toxic than exhaust emissions, study says",
+      "description": "&lt;p&gt;Research shows move to electric vehicles may not be enough to enable pollution from cars to be eradicated&lt;/p&gt;&lt;p&gt;Microscopic parti...",
+      "link": "https://www.theguardian.com/environment/2025/feb/14/brake-pad-dust-toxic-exhaust-emissions",
+      "pubDate": "Fri, 14 Feb 2025 06:00:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/73fe997c3dfd371aa2add8f9328748c10d8eaad1/0_230_4144_2487/master/4144.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=104782b74527d298f17ca8e36887815f"
+    },
+    {
+      "title": "Weather tracker: extreme cold and heavy rainfall batters US",
+      "description": "&lt;p&gt;Parts of the Midwest have seen temperatures 15-30C below the climate average, while Australia temperatures hit almost 50C&lt;/p&gt;&lt;p&gt;D...",
+      "link": "https://www.theguardian.com/environment/2025/feb/14/weather-tracker-extreme-cold-and-heavy-rainfall-batters-us",
+      "pubDate": "Fri, 14 Feb 2025 06:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ee7f999292787ca23760a92702aabbfc2fb3ff31/0_2_4429_2656/master/4429.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=601b5c6178b13f7e506f4c8d86d72637"
+    },
+    {
+      "title": "Avarni launches new feature to track SBTi commitments across supply chains",
+      "description": "Avarni’s SBTi Targets tracks science-based commitments in supply chains, helping businesses assess risk, report Scope 3 emissions, and decarbonize. Av...",
+      "link": "https://econews.com.au/66540/avarni-launches-new-feature-to-track-sbti-commitments-across-supply-chains/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=avarni-launches-new-feature-to-track-sbti-commitments-across-supply-chains",
+      "pubDate": "Fri, 14 Feb 2025 05:35:32 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/avarni-hero_sbti-targets-1024x630.png"
+    },
+    {
+      "title": "Beekeeping Set To Become Effortless With the Launch of a New Invention From Flow Hive, The ‘Flow Super Lifter’",
+      "description": "Flow Super Lifter in action Flow Hive Backyard beekeeping has blossomed into a national movement, with over 855,000 registered beehives across Austral...",
+      "link": "https://econews.com.au/66538/beekeeping-set-to-become-effortless-with-the-launch-of-a-new-invention-from-flow-hive-the-flow-super-lifter/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=beekeeping-set-to-become-effortless-with-the-launch-of-a-new-invention-from-flow-hive-the-flow-super-lifter",
+      "pubDate": "Fri, 14 Feb 2025 05:35:30 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/canon_20241128-Super-Lifter-In-situ-2412-1024x683.jpg"
+    },
+    {
+      "title": "WILDLAND:   EUROPE’S MOST AMBITIOUS CONSERVATION PROJECT  AND ITS 200-YEAR LEGACY FOR THE SCOTTISH HIGHLANDS",
+      "description": "WildLand is a story of hope and regeneration, of rewilding on an epic scale and of extraordinary experiences in Scotland’s truly wild spaces. This is ...",
+      "link": "https://econews.com.au/66536/wildland-europes-most-ambitious-conservation-project-and-its-200-year-legacy-for-the-scottish-highlands/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wildland-europes-most-ambitious-conservation-project-and-its-200-year-legacy-for-the-scottish-highlands",
+      "pubDate": "Fri, 14 Feb 2025 05:35:28 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/Wildland-1024x412.png"
+    },
+    {
+      "title": "Can artificial intelligence save the Great Barrier Reef?",
+      "description": "Australian researchers are designing a global real-time monitoring system to help save the world’s coral reefs from further decline, primarily due to ...",
+      "link": "https://econews.com.au/66534/can-artificial-intelligence-save-the-great-barrier-reef/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=can-artificial-intelligence-save-the-great-barrier-reef",
+      "pubDate": "Fri, 14 Feb 2025 05:35:27 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/UniSA-logo.png"
+    },
+    {
+      "title": "Crisafulli Government announces plan to help extinguish fires",
+      "description": "The Waste and Resource Recovery (WARR) industry has welcomed the Crisafulli Government’s announcement that it will implement a three-point plan to tac...",
+      "link": "https://econews.com.au/66532/crisafulli-government-announces-plan-to-help-extinguish-fires/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=crisafulli-government-announces-plan-to-help-extinguish-fires",
+      "pubDate": "Fri, 14 Feb 2025 05:35:26 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/WMRR-logo.jpg"
     },
     {
       "title": "11 new marine sanctuary areas announced for Australia’s stressed south-eastern waters",
@@ -56,15 +119,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/f9ga70Rg-1024x768.jpeg"
     },
     {
-      "title": "PLASTICS STILL DOMINATE AS THE BIGGEST CONTRIBUTOR TO LITTER IN AUSTRALIA",
-      "description": "Clean Up Australia Litter Report FY24 released today The findings of the Clean Up Australia Litter Report FY24 were released today which has seen plas...",
-      "link": "https://econews.com.au/66525/plastics-still-dominate-as-the-biggest-contributor-to-litter-in-australia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=plastics-still-dominate-as-the-biggest-contributor-to-litter-in-australia",
-      "pubDate": "Fri, 14 Feb 2025 01:49:28 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/230305_Clean-Up-Australia-267-1024x683.jpg"
-    },
-    {
       "title": "Pennsylvania Climate Programs Hit by Federal Spending Cuts, Governor Says in Lawsuit vs. Trump",
       "description": "Pennsylvania’s environmental and climate-related programs have lost hundreds of millions of federal dollars as part of a wide-ranging funding freeze i...",
       "link": "https://insideclimatenews.org/news/13022025/pennsylvania-sues-trump-over-federal-spending-cuts-climate-programs/",
@@ -90,24 +144,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Norway to open protected rivers to hydropower plants",
-      "description": "&lt;p&gt;Green politicians describe plan as ‘a historic attack on Norwegian nature’&lt;/p&gt;&lt;p&gt;The Norwegian parliament has voted to open up pr...",
-      "link": "https://www.theguardian.com/world/2025/feb/13/norway-to-open-protected-rivers-to-hydropower-plants",
-      "pubDate": "Thu, 13 Feb 2025 18:21:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b807a1d8e9aad46935611f3866858ca2f874137c/0_194_4500_2700/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c58201cafc7447c568a814e33159c419"
-    },
-    {
-      "title": "Thirteen more oil and gas licences could be cancelled after Rosebank court ruling",
-      "description": "&lt;p&gt;Exclusive: Future of further projects uncertain after Rosebank and Jackdaw licences were found to have been unlawfully granted&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/business/2025/feb/13/thirteen-more-oil-and-gas-licences-could-be-cancelled-after-rosebank-court-ruling",
-      "pubDate": "Thu, 13 Feb 2025 17:15:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4bbc522b6e81b823c1f7d18599b26c0cd294ba57/0_387_5808_3485/master/5808.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec3ca0a0be23292d3528d5fa5fdff0fb"
     },
     {
       "title": "Trump’s New Energy Secretary Called Germany’s Energy Transition ‘Unreliable.’ But He Missed All the Nuance",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump is freezing climate funds. Can he do that?",
-      "description": "Courts have ordered the president to release Biden-era climate money — but he’s holding out....",
-      "link": "https://grist.org/politics/trump-climate-funding-freeze-ira-bil-biden/",
-      "pubDate": "Thu, 13 Feb 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-2194989581.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Where did billions in climate and infrastructure funding go? Search our map by ZIP code.",
-      "description": "From clean energy projects to bridges, this interactive tool shows what projects lawmakers announced in your neighborhood....",
-      "link": "https://grist.org/accountability/climate-infrastructure-ira-bil-map-tool/",
-      "pubDate": "Thu, 13 Feb 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What it takes to regrow a community after wildfire",
-      "description": "As it recovers, Altadena finds inspiration in other wildfire-devastated communities that have replanted lawns, gardens, and green spaces with fire-res...",
-      "link": "https://grist.org/wildfires/what-it-takes-to-regrow-a-community-after-wildfire/",
-      "pubDate": "Thu, 13 Feb 2025 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/paradise-gardens-volunteers.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Another casualty of Trump&#8217;s funding freeze: New Orleans’ tree canopy",
-      "description": "A program was trying to mitigate the loss of 200,000 trees to Hurricane Katrina....",
-      "link": "https://grist.org/cities/trump-stops-tree-replacement-new-orleans/",
-      "pubDate": "Thu, 13 Feb 2025 09:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/09/GettyImages-129369806.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
