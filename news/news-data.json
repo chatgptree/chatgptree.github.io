@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-02-15T07:19:10.798Z",
+  "lastUpdated": "2025-02-15T08:26:16.108Z",
   "articles": [
     {
       "title": "‘I closed my eyes to brace for impact’: the man who escaped a whale’s mouth",
@@ -72,6 +72,24 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/Charlotte-Uphues-launching-wave-monitoring-buoys-1.jpg"
+    },
+    {
+      "title": "World's sea-ice falls to record low",
+      "description": "The world's frozen oceans keep the planet cool, but they currently have less ice than ever recorded before. ...",
+      "link": "https://www.bbc.com/news/articles/cvgeydkz08go",
+      "pubDate": "Sat, 15 Feb 2025 00:45:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "World's sea-ice falls to record low",
+      "description": "The world's frozen oceans keep the planet cool, but they currently have less ice than ever recorded before. ...",
+      "link": "https://www.bbc.com/news/articles/cvgeydkz08go",
+      "pubDate": "Sat, 15 Feb 2025 00:45:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Former EPA Officials Blast Effort to Rescind Climate Funds, Calling It a Political ‘Smokescreen’",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-174475335-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Why chocolate is ridiculously expensive right now",
-      "description": "Rising temperatures, erratic rainfall, and other climate impacts are throttling cocoa production and driving up chocolate prices....",
-      "link": "https://grist.org/food-and-agriculture/climate-change-is-scorching-the-cocoa-belt-and-youre-paying-the-price/",
-      "pubDate": "Fri, 14 Feb 2025 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-1256416302.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Was the world&#8217;s most influential climate target doomed from the start?",
-      "description": "As the world passes 1.5 degrees C of warming, a Cambridge scholar argues that putting a deadline on climate action was the wrong way to frame it....",
-      "link": "https://grist.org/language/world-climate-target-doomed-mike-hulme-deadlines/",
-      "pubDate": "Fri, 14 Feb 2025 09:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/Climate-Clock-London.jpg?quality=75&amp;strip=all"
     }
   ]
 }
