@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-02-15T09:23:19.599Z",
+  "lastUpdated": "2025-02-15T10:22:37.039Z",
   "articles": [
+    {
+      "title": "Maryland Environmental Leaders Slam Legislative Push for Gas-Powered Plants, Split Over Nuclear Energy",
+      "description": "Maryland’s top environmental groups are pushing back against a legislative proposal that endorses gas-fired power plants as a key solution to the stat...",
+      "link": "https://insideclimatenews.org/news/15022025/maryland-gas-powered-plants-nuclear-energy/",
+      "pubDate": "Sat, 15 Feb 2025 10:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Michigan Residents Push for an Environmental Impact Statement Before Restarting the Palisades Nuclear Plant",
+      "description": "Michigan’s Palisades Nuclear Generating Station is one step closer to becoming the first nuclear power plant in the United States to reopen. After clo...",
+      "link": "https://insideclimatenews.org/news/15022025/michigan-environmental-impact-statement-palisades-nuclear-plant-restart/",
+      "pubDate": "Sat, 15 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Data Centers Drive Higher Forecasts for Electric Demand in Pennsylvania, Sparking Climate Worries",
+      "description": "Three electric-transmission zones that are wholly or partly in Pennsylvania are expected to see sharp increases in power demand from current and new d...",
+      "link": "https://insideclimatenews.org/news/15022025/pennsylvania-data-centers-electric-demand/",
+      "pubDate": "Sat, 15 Feb 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What Trump’s Evisceration of USAID Feels Like on the Ground",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Nisreen Elsaim, a Sudan...",
+      "link": "https://insideclimatenews.org/news/15022025/outcomes-of-trump-freezing-usaid-foreign-assistance/",
+      "pubDate": "Sat, 15 Feb 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Extreme weather expected to cause food price volatility in 2025 after cost of cocoa and coffee doubles",
       "description": "&lt;p&gt;Trend towards more extreme-weather events will continue to hit crop yields and create price spikes, Inverto says&lt;/p&gt;&lt;p&gt;Extreme we...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/de5b1c6acbb4555e801e240e959c89c27e02464d/0_254_4256_2554/master/4256.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd63c7f3cc0346caa2532a891c27ae1f"
-    },
-    {
-      "title": "Trump Executive Order Takes Back Funds to Help Low-Income Alabama Residents Pay Electric Bills",
-      "description": "About 2,000 low-income households in Alabama are poised to lose federal assistance to help them pay high energy bills, under an executive order issued...",
-      "link": "https://insideclimatenews.org/news/14022025/trump-takes-back-funds-for-low-income-alabama-electric-bills/",
-      "pubDate": "Fri, 14 Feb 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After Trump Administration Closes DOJ’s Office of Environmental Justice, Advocates Worry About Future Enforcement",
-      "description": "The Department of Justice’s Office of Environmental Justice is puny by federal agency standards. But advocates have said for years that it punches wel...",
-      "link": "https://insideclimatenews.org/news/14022025/trump-administration-closes-doj-environmental-justice-office/",
-      "pubDate": "Fri, 14 Feb 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Will JD Vance save the Great Lakes from Trump?",
-      "description": "The vice president once pushed for restoration funding. Advocates hope he hasn't forgotten....",
-      "link": "https://grist.org/politics/will-j-d-vance-save-the-great-lakes-from-trump/",
-      "pubDate": "Fri, 14 Feb 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-658932706-CROP.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Trump&#8217;s funding freeze is wreaking havoc on climate science",
-      "description": "Federal dollars have bankrolled some of humanity's biggest breakthroughs. What happens when they disappear?...",
-      "link": "https://grist.org/science/trumps-funding-freeze-is-wreaking-havoc-on-climate-science/",
-      "pubDate": "Fri, 14 Feb 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-174475335-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
