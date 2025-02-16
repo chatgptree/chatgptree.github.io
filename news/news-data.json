@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-02-16T09:20:54.008Z",
+  "lastUpdated": "2025-02-16T10:22:13.848Z",
   "articles": [
+    {
+      "title": "A tale of two suckers: Donald Trump’s plastic straws and Keir Starmer | Stewart Lee",
+      "description": "&lt;p&gt;The US president has scrapped paper straws because they allegedly ‘explode’ – a bit like the PM’s reputation if he keeps refusing to confront...",
+      "link": "https://www.theguardian.com/commentisfree/2025/feb/16/a-tale-of-two-suckers-donald-trumps-plastic-straws-and-keir-starmer",
+      "pubDate": "Sun, 16 Feb 2025 10:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d4b0568da632cb896da8938fd44d28f30937bca8/0_55_1476_886/master/1476.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c515de0b5bff65582b25640bb9fc43ea"
+    },
+    {
+      "title": "Climate and Environmental Justice Programs Stalled by Trump Freeze, Despite Court Orders",
+      "description": "President Donald Trump’s freeze on federal funding shows little sign of thawing for climate, energy and environmental justice programs. Despite two fe...",
+      "link": "https://insideclimatenews.org/news/16022025/climate-environmental-justice-programs-trump-freeze/",
+      "pubDate": "Sun, 16 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Railroad Commission Approves More Waste Disposal in East Texas",
+      "description": "After years of deliberations, the technical staff of the Texas Railroad Commission recommended that regulators deny a permit to dispose of oilfield wa...",
+      "link": "https://insideclimatenews.org/news/16022025/railroad-commission-approves-waste-disposal-east-texas/",
+      "pubDate": "Sun, 16 Feb 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cat person or dog person? It’s which animal we loathe that matters in the end | Andrew Anthony",
       "description": "&lt;p&gt;A councillor’s alleged attempt to blow up a bird-prowling moggie reveals the pet-loving divide runs deep &lt;/p&gt;&lt;p&gt;The resignation l...",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cvgeydkz08go",
       "pubDate": "Sat, 15 Feb 2025 00:45:06 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Former EPA Officials Blast Effort to Rescind Climate Funds, Calling It a Political ‘Smokescreen’",
-      "description": "Former U.S. Environmental Protection Agency officials are condemning the agency’s new leadership for trying to claw back billions from the Greenhouse ...",
-      "link": "https://insideclimatenews.org/news/14022025/former-epa-officials-blast-effort-to-rescind-climate-funds/",
-      "pubDate": "Fri, 14 Feb 2025 23:24:55 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The U.S. Imported Billions of Animals in Recent Decades, Fueling Global Wildlife Trade",
-      "description": "The global wildlife trade is a sprawling, multi-billion dollar market—and the United States is one of the biggest players. In the past roughly two dec...",
-      "link": "https://insideclimatenews.org/news/14022025/todays-climate-global-wildlife-trade-united-states/",
-      "pubDate": "Fri, 14 Feb 2025 21:13:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "“A perforar, baby, a perforar”: Ciudad tejana aprueba nuevo proyecto de “fracking” cerca de una guardería y escuelas",
-      "description": "Read this article in English. En el corazón del área metropolitana de Dallas-Fort Worth, el ayuntamiento de Arlington aprobó el martes que el gigante ...",
-      "link": "https://insideclimatenews.org/news/14022025/ciudad-tejana-aprueba-nuevo-proyecto-de-fracking-cerca-de-una-guarderia-y-escuelas/",
-      "pubDate": "Fri, 14 Feb 2025 18:45:56 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
