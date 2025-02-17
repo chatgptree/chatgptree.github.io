@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-02-17T13:29:29.572Z",
+  "lastUpdated": "2025-02-17T14:22:53.085Z",
   "articles": [
+    {
+      "title": "How the federal funding and hiring freezes are leaving communities vulnerable to wildfire",
+      "description": "Uncertainty over funding and hiring stemming from President Trump's executive orders has limited wildfire training and postponed work to reduce flamma...",
+      "link": "https://grist.org/wildfires/federal-funding-hiring-freezes-wildfire/",
+      "pubDate": "Mon, 17 Feb 2025 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-1680432566-1.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Tree-killing beetle found to be attracted to Britain’s most common spruce",
+      "description": "&lt;p&gt;Discovery of pest in UK raises fears for Sitka spruce, which accounts for half of country’s commercial plantations&lt;/p&gt;&lt;p&gt;A beetle...",
+      "link": "https://www.theguardian.com/environment/2025/feb/17/tree-killing-beetle-found-to-be-attracted-to-britain-most-common-spruce",
+      "pubDate": "Mon, 17 Feb 2025 13:41:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9236b6d7de68a1ac6ff6878f0c2d9be44c7a3510/0_176_5315_3191/master/5315.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=501b58e0ce9cf3e275dcccd56cb3987e"
+    },
     {
       "title": "Water chlorination levels in US and EU likely increase cancer risk, study finds",
       "description": "&lt;p&gt;Bladder cancer risk increased 33% and colorectal cancer by 15% in using chlorine to disinfect water&lt;/p&gt;&lt;p&gt;Chlorinating drinking w...",
@@ -119,15 +137,6 @@
       "image": "https://grist.org/wp-content/uploads/2025/02/trump-freeze-funding-power.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "Protesters target Tesla showrooms in US over Elon Musk’s government cost-cutting",
-      "description": "&lt;p&gt;Demonstrations across the US against tycoon’s ties to Trump highlight potential risks to firm’s reputation and sales&lt;/p&gt;&lt;p&gt;&lt;/p...",
-      "link": "https://www.theguardian.com/technology/2025/feb/16/protesters-target-tesla-stores-in-us-over-elon-musks-cost-cutting",
-      "pubDate": "Sun, 16 Feb 2025 12:37:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c0c77316bd04ef85dbec45f44725f2ce914a34fe/0_51_4800_2880/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91cdf1a4a2d37fa0b5b0b58eaf5d7d81"
-    },
-    {
       "title": "The LA fires burned down a thriving Black community. Residents are afraid of being ‘erased’",
       "description": "&lt;p&gt;The Eaton fire destroyed nearly half of the Black households in Altadena, wiping out businesses and wealth &lt;/p&gt;&lt;p&gt;A memorial serv...",
       "link": "https://www.theguardian.com/us-news/2025/feb/16/california-fires-black-community-recovery",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d4b0568da632cb896da8938fd44d28f30937bca8/0_55_1476_886/master/1476.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c515de0b5bff65582b25640bb9fc43ea"
-    },
-    {
-      "title": "Climate and Environmental Justice Programs Stalled by Trump Freeze, Despite Court Orders",
-      "description": "President Donald Trump’s freeze on federal funding shows little sign of thawing for climate, energy and environmental justice programs. Despite two fe...",
-      "link": "https://insideclimatenews.org/news/16022025/climate-environmental-justice-programs-trump-freeze/",
-      "pubDate": "Sun, 16 Feb 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
