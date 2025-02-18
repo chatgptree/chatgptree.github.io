@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-02-18T09:24:33.016Z",
+  "lastUpdated": "2025-02-18T10:25:19.040Z",
   "articles": [
+    {
+      "title": "Could the Northeast Burn Again?",
+      "description": "The last time wildfire radically engulfed New England was in 1947. Deadly blazes ripped through Bar Harbor, Maine, and down the state’s coast. Fires r...",
+      "link": "https://insideclimatenews.org/news/18022025/northeast-wildfire-risks/",
+      "pubDate": "Tue, 18 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Activists Mobilize Against Drilling, Oil and Gas Operators Sour on Colorado",
+      "description": "This article was originally published by Capital &#38; Main. It is republished with their permission. A decision by Colorado state regulators to put t...",
+      "link": "https://insideclimatenews.org/news/18022025/colorado-activists-against-oil-drilling/",
+      "pubDate": "Tue, 18 Feb 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s attack on paper straws is mostly symbolic — but the plastics industry is celebrating",
+      "description": "Trade groups are seizing the moment to call for fewer restrictions on plastics....",
+      "link": "https://grist.org/politics/trumps-executive-order-paper-straw-ban-plastic/",
+      "pubDate": "Tue, 18 Feb 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/trump-with-EO.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "‘It’s about control’: Why Trump renamed Denali to Mount McKinley",
+      "description": "America has always stripped the land of its original Indigenous names. It's had surprising climate implications....",
+      "link": "https://grist.org/indigenous/its-about-control-why-trump-renamed-denali-to-mount-mckinley/",
+      "pubDate": "Tue, 18 Feb 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "I’m obsessed with fish that clean other fish: they remember their clients, much like a hairdresser",
       "description": "&lt;p&gt;I’m campaigning for legal protection for cleaner fish, because no one has done a proper assessment of the impact of removing them from Scotti...",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Arca Announces Partnerships to Drive Carbon Removal Projects at WA Mine Sites",
-      "description": "Arca rover and measurement equipment Arca, a leader in mineral carbonation technology, today announced strategic partnerships to accelerate carbon rem...",
-      "link": "https://econews.com.au/66555/arca-announces-partnerships-to-drive-carbon-removal-projects-at-wa-mine-sites/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=arca-announces-partnerships-to-drive-carbon-removal-projects-at-wa-mine-sites",
-      "pubDate": "Mon, 17 Feb 2025 04:03:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Works commence on multi-million-dollar climate adaptation project",
-      "description": "Sod turning ceremony image caption (left to right): Iroijlaplap Michael L. Kabua; H.E. RMI President Dr. Hilda Heine; Hon. Mayor Hirata J. Kabua and M...",
-      "link": "https://econews.com.au/66553/works-commence-on-multi-million-dollar-climate-adaptation-project/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=works-commence-on-multi-million-dollar-climate-adaptation-project",
-      "pubDate": "Mon, 17 Feb 2025 04:03:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/Ebeye-aerial-seawall-location-1024x683.jpg"
-    },
-    {
-      "title": "EDP continues to be among the world’s most sustainable electricity companies in the Dow Jones index",
-      "description": "Image courtesy of EDP EDP is once again recognised as one of the world’s leading electricity companies in the area of sustainability, consolidating th...",
-      "link": "https://econews.com.au/66551/edp-continues-to-be-among-the-worlds-most-sustainable-electricity-companies-in-the-dow-jones-index/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=edp-continues-to-be-among-the-worlds-most-sustainable-electricity-companies-in-the-dow-jones-index",
-      "pubDate": "Mon, 17 Feb 2025 04:03:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "How Trump's 'drill, baby, drill' pledge is affecting other countries",
-      "description": "Some major carbon-emitting countries are hinting they may follow suit as the US opts to ramp up fossil fuels....",
-      "link": "https://www.bbc.com/news/articles/ce85709xdk4o",
-      "pubDate": "Mon, 17 Feb 2025 03:04:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
