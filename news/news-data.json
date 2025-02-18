@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-18T08:29:24.970Z",
+  "lastUpdated": "2025-02-18T09:24:33.016Z",
   "articles": [
+    {
+      "title": "I’m obsessed with fish that clean other fish: they remember their clients, much like a hairdresser",
+      "description": "&lt;p&gt;I’m campaigning for legal protection for cleaner fish, because no one has done a proper assessment of the impact of removing them from Scotti...",
+      "link": "https://www.theguardian.com/environment/2025/feb/18/im-obsessed-with-cleaner-fish-salmon-farms",
+      "pubDate": "Tue, 18 Feb 2025 09:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/727153e228f0d4a12044a8a497229347ce3a0f28/0_183_3600_2160/master/3600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=392f1d3671fcb8461ba4705ceca089de"
+    },
     {
       "title": "Sunscreen’s impact on marine life needs urgent investigation, study finds",
       "description": "&lt;p&gt;The chemical compounds that block UV rays may lead to bleaching of coral and a decrease in fish fertility&lt;/p&gt;&lt;p&gt;Urgent investigat...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mayors across the US urge Congress not to repeal clean energy tax credits",
-      "description": "The Inflation Reduction Act incentives for developing clean energy have created thousands of jobs in local communities across the country. The Trump a...",
-      "link": "https://grist.org/energy/mayors-across-us-urge-congress-not-to-repeal-clean-energy-tax-credits/",
-      "pubDate": "Sun, 16 Feb 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/trump-freeze-funding-power.jpg?quality=75&#038;strip=all"
     }
   ]
 }
