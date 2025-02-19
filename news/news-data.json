@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-02-19T18:31:04.732Z",
+  "lastUpdated": "2025-02-19T19:17:42.251Z",
   "articles": [
+    {
+      "title": "Louisiana Gas Export Terminal Gets Key Approval to Move Ahead",
+      "description": "The U.S. Department of Energy has granted conditional authorization for a contested project to export liquified natural gas in southwest Louisiana, po...",
+      "link": "https://insideclimatenews.org/news/19022025/louisiana-lng-export-terminal-energy-department-approval/",
+      "pubDate": "Wed, 19 Feb 2025 19:14:06 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Four seals die on Norfolk coast after contracting bird flu",
+      "description": "&lt;p&gt;Experts raise fears for England’s largest colony at Blakeney Point as they conduct tests to identify source of infection&lt;/p&gt;&lt;p&gt;Ex...",
+      "link": "https://www.theguardian.com/environment/2025/feb/19/seals-die-norfolk-coast-blakeney-point-bird-flu",
+      "pubDate": "Wed, 19 Feb 2025 18:37:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4ffe2fb98e590cb802e796177885d8ed2dae3f2b/0_415_2787_1673/master/2787.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d17dab208de912f5821687e5357126ef"
+    },
+    {
+      "title": "Outrage as Trump cites ‘emergency’ to fast-track fossil fuel projects",
+      "description": "&lt;p&gt;Activists warn new designation for projects such as pipelines threatens US wetlands and waters&lt;/p&gt;&lt;p&gt;Environmentalists were outra...",
+      "link": "https://www.theguardian.com/us-news/2025/feb/19/trump-fossil-fuel-climate",
+      "pubDate": "Wed, 19 Feb 2025 18:36:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5885c0fbe50c61ece014dfa0e0cc1eb9210159bd/0_201_6000_3599/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=131cc52bf570105a5da288739a08bde2"
+    },
     {
       "title": "Sellafield nuclear site taken out of special measures for physical security",
       "description": "&lt;p&gt;Site in Cumbria can now return to routine inspections but concerns remain over cybersecurity&lt;/p&gt;&lt;p&gt;The UK nuclear industry regula...",
@@ -54,15 +81,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/02/0219_WhiteLotus_d63175.jpg?quality=75&amp;strip=all&amp;w=900"
-    },
-    {
-      "title": "HSBC net zero goal delayed 20 years, as CEO offered 600% bonus",
-      "description": "&lt;p&gt;Bank is criticised for pushing climate targets to 2050 and watering down environmental goals&lt;/p&gt;&lt;p&gt;HSBC has been criticised after...",
-      "link": "https://www.theguardian.com/business/2025/feb/19/hsbc-net-zero-goal-delayed-20-years-ceo-bonus",
-      "pubDate": "Wed, 19 Feb 2025 15:01:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7a3f1058a64fae8a87a0989a6314f62da9d0ca0f/189_523_3096_1858/master/3096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78d0e9b788c5e6a821a7a7647a75ef13"
     },
     {
       "title": "‘The last plant left’: can Rapa Nui’s extinct tree be resurrected?",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/All-speakers.png"
-    },
-    {
-      "title": "More than 150 whales stranded near Arthur River in Tasmania – video",
-      "description": "&lt;p&gt;A group of 157 animals that appear to be false killer whales have stranded, according to the Department of Natural Resources and Environment ...",
-      "link": "https://www.theguardian.com/environment/video/2025/feb/19/more-than-150-whales-stranded-near-arthur-river-in-tasmania-video",
-      "pubDate": "Wed, 19 Feb 2025 02:22:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b9d78f0789cfeb5271023a42db5b59643e2ff9f1/0_104_3120_1872/master/3120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a49a307ef56b36f4d2f3e17ab730fe65"
-    },
-    {
-      "title": "TNFD launches new capacity-building platform to scale market confidence and capabilities on nature-related issues",
-      "description": "Responding to market needs for upskilling on nature-related issues, the Taskforce on Nature-related Financial Disclosures (TNFD) today released two ne...",
-      "link": "https://econews.com.au/66569/tnfd-launches-new-capacity-building-platform-to-scale-market-confidence-and-capabilities-on-nature-related-issues/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tnfd-launches-new-capacity-building-platform-to-scale-market-confidence-and-capabilities-on-nature-related-issues",
-      "pubDate": "Wed, 19 Feb 2025 02:02:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
