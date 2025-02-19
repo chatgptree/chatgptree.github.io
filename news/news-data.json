@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2025-02-19T15:25:58.236Z",
+  "lastUpdated": "2025-02-19T16:28:25.938Z",
   "articles": [
     {
+      "title": "World's glaciers melting faster than ever recorded",
+      "description": "The planet's glaciers have lost 5% of their ice in little over 20 years, according to a major study....",
+      "link": "https://www.bbc.com/news/articles/cy4ly8vde85o",
+      "pubDate": "Wed, 19 Feb 2025 16:23:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What a more sustainable tourism industry could look like",
+      "description": "With HBO's White Lotus poised to create its next tourist boom, author Sarah Stodola discusses how to prevent tourism from destroying local communities...",
+      "link": "https://grist.org/looking-forward/what-a-more-sustainable-tourism-industry-could-look-like/",
+      "pubDate": "Wed, 19 Feb 2025 16:06:50 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/0219_WhiteLotus_d63175.jpg?quality=75&amp;strip=all&amp;w=900"
+    },
+    {
       "title": "HSBC net zero goal delayed 20 years, as CEO offered 600% bonus",
-      "description": "&lt;p&gt;Bank moves climate targets from 2030 to 2050 and waters down environmental goals in plan for Georges Elhedery&lt;/p&gt;&lt;p&gt;HSBC has been...",
+      "description": "&lt;p&gt;Bank is criticised for pushing climate targets to 2050 and watering down environmental goals&lt;/p&gt;&lt;p&gt;HSBC has been criticised after...",
       "link": "https://www.theguardian.com/business/2025/feb/19/hsbc-net-zero-goal-delayed-20-years-ceo-bonus",
       "pubDate": "Wed, 19 Feb 2025 15:01:40 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/230f1f902927a21749efab02fded11d782c60af7/8_0_3032_1819/master/3032.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=902fba15b21ffd52b46358d9a6825585"
-    },
-    {
-      "title": "‘An unprecedented situation’: EPA plan for LA wildfire cleanup stirs protests over toxic dangers",
-      "description": "&lt;p&gt;Demonstrators have protested against an expedited cleanup process that would involve using a beloved beach as a toxic waste sorting site &lt;...",
-      "link": "https://www.theguardian.com/us-news/2025/feb/18/la-fire-cleanup-beach-will-rogers-epa",
-      "pubDate": "Tue, 18 Feb 2025 14:14:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d13181940c3974faa103ef3229914a1f0d9f0b12/0_174_4571_2743/master/4571.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=255a34dd0f5e25595ec30fa0b525d10c"
-    },
-    {
-      "title": "‘The path forward is clear’: how Trump taking office has ‘turbocharged’ climate accountability efforts",
-      "description": "&lt;p&gt;‘Make polluters pay’ laws, led by blue states AGs, and accountability suits will be a major front for climate litigation for the coming years...",
-      "link": "https://www.theguardian.com/us-news/2025/feb/18/trump-climate-accountability",
-      "pubDate": "Tue, 18 Feb 2025 13:00:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7b2fcaf7fe1c08476f96aaabd2c7315a8047ea01/272_0_3089_1854/master/3089.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b24913a3cb1764173bed16ea3893724"
     }
   ]
 }
