@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-02-20T04:26:58.830Z",
+  "lastUpdated": "2025-02-20T05:22:53.349Z",
   "articles": [
+    {
+      "title": "Fog harvesting could provide water for arid cities",
+      "description": "Research in Chile could help to provide drinking water for some of the world's most arid places....",
+      "link": "https://www.bbc.com/news/articles/cvgw3l7p79po",
+      "pubDate": "Thu, 20 Feb 2025 05:13:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Droughts are getting worse. Is fog-farming a fix?",
+      "description": "Tapping low-hanging clouds could be a cheap way to boost dwindling water supplies, according to new research. \n...",
+      "link": "https://grist.org/climate/droughts-solutions-fog-farming-desert/",
+      "pubDate": "Thu, 20 Feb 2025 05:01:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/20230331_1126051f.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Europe greenwashing with north Africa’s renewable energy, report says",
+      "description": "&lt;p&gt;Greenpeace argues European-backed projects hamper countries’ ability to decarbonise their own economies&lt;/p&gt;&lt;p&gt;European countries ...",
+      "link": "https://www.theguardian.com/environment/2025/feb/20/europe-greenwashing-with-north-africas-renewable-energy-report-says",
+      "pubDate": "Thu, 20 Feb 2025 05:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/69ce83fb20709434454e9d86f0d22ce16919673b/0_112_2349_1409/master/2349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bf8842b8ee061f5df727096c1793cfe"
+    },
     {
       "title": "Trump Order Fast-Tracks Projects That Would Damage Wetlands, Environmental Groups Say",
       "description": "The U.S. Army Corps of Engineers has marked for fast-track review more than 600 permit applications for projects under President Donald Trump’s “Decla...",
@@ -63,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/567ed486028ce1bdd812fac5b456a10a9fdbde44/0_238_4064_2438/master/4064.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=259e0de15f0e8aa33cad38d1527502df"
-    },
-    {
-      "title": "Melting glaciers caused almost 2cm of sea level rise this century, study reveals",
-      "description": "&lt;p&gt;Decades-long research shows world’s glaciers collectively lost 6.542tn tonnes of ice between 2000 and 2023&lt;/p&gt;&lt;p&gt;&lt;a href=\"http...",
-      "link": "https://www.theguardian.com/environment/2025/feb/19/melting-glaciers-cause-almost-2cm-of-sea-level-rise-this-century-study-reveals",
-      "pubDate": "Wed, 19 Feb 2025 17:24:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2072863979a8fec993329f94c1ec53b2929f2f8c/0_426_8192_4918/master/8192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7d218e9b4396762776ec36f37b0aa83"
     },
     {
       "title": "New Poll Finds Broad Support for Conservation and Action on Climate Change Across the West",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Maugean skate could be extinct in 10 years – and as usual Albo is making it worse | First Dog on the Moon",
-      "description": "&lt;p&gt;What is the point of this government?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://www.theguardian.com/commentisfree/2014/jun/16/-sp-firs...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2025/feb/19/the-maugean-skate-could-be-extinct-in-10-years-and-as-usual-albo-is-making-it-worse",
-      "pubDate": "Wed, 19 Feb 2025 06:01:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3ff972a37be22cfe92a53995aa0f8b3720134b77/4_0_1505_903/master/1505.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1d83ef55b33f174f7a71bd1fb46e21f"
-    },
-    {
-      "title": "QLD pays to clean up Battery Producers’ mess",
-      "description": "The QLD government has announced a three point plan aimed at reducing hazardous battery fires. TEC welcomes this initiative as a first step, but urges...",
-      "link": "https://econews.com.au/66577/qld-pays-to-clean-up-battery-producers-mess/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=qld-pays-to-clean-up-battery-producers-mess",
-      "pubDate": "Wed, 19 Feb 2025 03:03:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
