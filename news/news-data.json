@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-02-20T09:24:46.565Z",
+  "lastUpdated": "2025-02-20T10:25:30.893Z",
   "articles": [
+    {
+      "title": "Doctors and Medical Schools Are Changing Treatments and Training to Respond to the Warming Climate",
+      "description": "It took nearly a month to contain the wildfires that burned over 40,000 acres around Los Angeles in January, but doctors warn that serious health impl...",
+      "link": "https://insideclimatenews.org/news/20022025/doctors-medical-schools-changing-treatments-warming-climate/",
+      "pubDate": "Thu, 20 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s Friday Firings Leave EPA Chicago Office Down Dozens of Scientists, Staff",
+      "description": "In her short time at the Environmental Protection Agency, Nyla McCranie helped a central Ohio woman who complained that someone was burning lithium ba...",
+      "link": "https://insideclimatenews.org/news/20022025/trumps-friday-firings-leave-epa-chicago-office-down-dozens-of-scientists-staff/",
+      "pubDate": "Thu, 20 Feb 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Republicans once embraced ‘green banks.’ Trump is trying to raid them.",
+      "description": "EPA chief Lee Zeldin has launched an attack on the agency’s $20 billion clean energy loan program....",
+      "link": "https://grist.org/politics/trump-lee-zeldin-epa-green-bank-gold-bars/",
+      "pubDate": "Thu, 20 Feb 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Our community deserves beauty’: one man’s mission to green a UK tree desert",
       "description": "&lt;p&gt;In Grimsby, locals have created a society focused on the environmental and health benefits more trees provide, planting thousands in schools,...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "World's glaciers melting faster than ever recorded",
-      "description": "The planet's glaciers have lost 5% of their ice in little over 20 years, according to a major study....",
-      "link": "https://www.bbc.com/news/articles/cy4ly8vde85o",
-      "pubDate": "Wed, 19 Feb 2025 16:23:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "World's glaciers melting faster than ever recorded",
-      "description": "The planet's glaciers have lost 5% of their ice in little over 20 years, according to a major study....",
-      "link": "https://www.bbc.com/news/articles/cy4ly8vde85o",
-      "pubDate": "Wed, 19 Feb 2025 16:23:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What a more sustainable tourism industry could look like",
-      "description": "With HBO's White Lotus poised to create its next tourist boom, author Sarah Stodola discusses how to prevent tourism from destroying local communities...",
-      "link": "https://grist.org/looking-forward/what-a-more-sustainable-tourism-industry-could-look-like/",
-      "pubDate": "Wed, 19 Feb 2025 16:06:50 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/0219_WhiteLotus_d63175.jpg?quality=75&amp;strip=all&amp;w=900"
     }
   ]
 }
