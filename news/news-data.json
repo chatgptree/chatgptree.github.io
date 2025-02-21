@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2025-02-21T03:28:13.878Z",
+  "lastUpdated": "2025-02-21T04:29:34.360Z",
   "articles": [
+    {
+      "title": "'Oldest horse' thrives on linseed cake and light exercise",
+      "description": "Roana has recently celebrated her 46th birthday and is believed to be the oldest horse in the UK ...",
+      "link": "https://www.bbc.com/news/articles/cgl0kg01g26o",
+      "pubDate": "Fri, 21 Feb 2025 04:22:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Australia news live: education union boss says Dutton’s attacks on ‘woke agenda’ send dangerous message about role of knowledge",
       "description": "&lt;p&gt;Correna Haythorpe made comments at Australian Education Union’s annual conference. Follow today’s news headlines live&lt;/p&gt;&lt;ul&gt;&lt;...",
       "link": "https://www.theguardian.com/australia-news/live/2025/feb/21/australia-news-live-rba-michele-bullock-interest-rates-cost-of-living-election-anthony-albanese-peter-dutton-ntwnfb",
-      "pubDate": "Fri, 21 Feb 2025 03:12:44 GMT",
+      "pubDate": "Fri, 21 Feb 2025 04:13:25 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/25d4231c0cfb358e62956fab3dfb4af719da0840/263_624_5644_3386/master/5644.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbce35e1f73c9f15003ce18c8b5b3517"
+    },
+    {
+      "title": "Melbourne activist can’t rely on evidence from climate experts to defend protest charges, court finds",
+      "description": "&lt;p&gt;Brad Homewood is charged with four offences after a 2021 Extinction Rebellion protest at the Exxon/Mobil depot in Spotswood&lt;/p&gt;&lt;ul&g...",
+      "link": "https://www.theguardian.com/world/2025/feb/21/brad-homewood-activist-charges-extinction-rebellion-protest-ntwnfb",
+      "pubDate": "Fri, 21 Feb 2025 03:26:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6fb119319e71d122cd8214c2e57c31a04d7a6265/0_2330_4284_2570/master/4284.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bec3d7e93b42ef6a32f9a7231bef4abc"
     },
     {
       "title": "FLYING WHALES Airship Base Announced as Key Project in Mount Isa City Council’s Future Ready Economy Roadmap",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Tackling the root causes of animal cruelty",
-      "description": "Wombat on the Dove Lake Circuit, Cradle Mountain In 2023, licences were issued to kill 1,222,507 native Australian animals including 3,558 wombats In ...",
-      "link": "https://econews.com.au/66579/tackling-the-root-causes-of-animal-cruelty/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tackling-the-root-causes-of-animal-cruelty",
-      "pubDate": "Thu, 20 Feb 2025 06:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/A-humpback-whale-entangled-in-a-shark-net-off-the-Gold-Coast-1024x683.jpeg"
-    },
-    {
-      "title": "Fog harvesting could provide water for arid cities",
-      "description": "Research in Chile could help to provide drinking water for some of the world's most arid places....",
-      "link": "https://www.bbc.com/news/articles/cvgw3l7p79po",
-      "pubDate": "Thu, 20 Feb 2025 05:13:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
