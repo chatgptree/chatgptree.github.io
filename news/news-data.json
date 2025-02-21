@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-02-21T11:22:20.388Z",
+  "lastUpdated": "2025-02-21T12:45:54.962Z",
   "articles": [
     {
+      "title": "Outcry as Trump withdraws support for research that mentions ‘climate’",
+      "description": "&lt;p&gt;US government stripping funds from domestic and overseas research amid warnings for health and public safety&lt;/p&gt;&lt;p&gt;The Trump admi...",
+      "link": "https://www.theguardian.com/environment/2025/feb/21/trump-scientific-research-climate",
+      "pubDate": "Fri, 21 Feb 2025 12:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5ff3a0c4dee385485c93bcf32b21ac15e9519877/0_42_7586_4550/master/7586.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd845fd0b4cc388dea54238422b0ca9e"
+    },
+    {
       "title": "As the UK prepares its next carbon budget, what needs to be included?",
-      "description": "&lt;p&gt;Expert recommendations will impact plans for energy, housing, transport industry and farming for decades&lt;/p&gt;&lt;p&gt;Labour will next w...",
+      "description": "&lt;p&gt;Expert recommendations will influence plans for energy, housing, transport industry and farming for decades&lt;/p&gt;&lt;p&gt;Labour will nex...",
       "link": "https://www.theguardian.com/environment/2025/feb/21/as-the-uk-prepares-its-next-carbon-budget-what-needs-to-be-included",
       "pubDate": "Fri, 21 Feb 2025 11:02:28 GMT",
       "sourceName": "theguardian.com",
@@ -92,6 +101,24 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "FLYING WHALES Airship Base Announced as Key Project in Mount Isa City Council’s Future Ready Economy Roadmap",
+      "description": "On Friday 21 February, Mount Isa City Council launched their Future Ready Economy Roadmap and FLYING WHALES (FW) spoke on how their flagship airship b...",
+      "link": "https://econews.com.au/66591/flying-whales-airship-base-announced-as-key-project-in-mount-isa-city-councils-future-ready-economy-roadmap/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=flying-whales-airship-base-announced-as-key-project-in-mount-isa-city-councils-future-ready-economy-roadmap",
+      "pubDate": "Fri, 21 Feb 2025 03:03:15 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "MEGA EV AND HOME ENERGY SHOW “CHARGES” INTO SYDNEY TARGETING 7,500 TEST DRIVES AND MONEY SAVING SOLUTIONS",
+      "description": "“Everything Electric” expo show returns to Sydney March 7th –  9th showing Australians how to electrify their lives and save money doing it Show will ...",
+      "link": "https://econews.com.au/66589/mega-ev-and-home-energy-show-charges-into-sydney-targeting-7500-test-drives-and-money-saving-solutions/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mega-ev-and-home-energy-show-charges-into-sydney-targeting-7500-test-drives-and-money-saving-solutions",
+      "pubDate": "Fri, 21 Feb 2025 03:03:13 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
       "title": "Bureau of Land Management Trims Environmental Review Before $20 Million Oil and Gas Lease Sale",
       "description": "After stripping consideration of environmental justice issues and climate costs from its final analysis of the project, President Donald Trump’s admin...",
       "link": "https://insideclimatenews.org/news/20022025/blm-trims-environmental-review-before-oil-gas-lease/",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s Friday Firings Leave EPA Chicago Office Down Dozens of Scientists, Staff",
-      "description": "Read an update on this story here. In her short time at the Environmental Protection Agency, Nyla McCranie helped a central Ohio woman who complained ...",
-      "link": "https://insideclimatenews.org/news/20022025/trumps-friday-firings-leave-epa-chicago-office-down-dozens-of-scientists-staff/",
-      "pubDate": "Thu, 20 Feb 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Republicans once embraced ‘green banks.’ Trump is trying to raid them.",
-      "description": "EPA chief Lee Zeldin has launched an attack on the agency’s $20 billion clean energy loan program....",
-      "link": "https://grist.org/politics/trump-lee-zeldin-epa-green-bank-gold-bars/",
-      "pubDate": "Thu, 20 Feb 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Our community deserves beauty’: one man’s mission to green a UK tree desert",
-      "description": "&lt;p&gt;In Grimsby, locals have created a society focused on the environmental and health benefits more trees provide, planting thousands in schools,...",
-      "link": "https://www.theguardian.com/environment/2025/feb/20/our-community-deserves-beauty-grimsby-residents-unite-to-bring-tree-cover-back-aoe",
-      "pubDate": "Thu, 20 Feb 2025 09:00:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1425d6fa9c24523488c89988d7610c8ffeeedffd/0_175_6720_4032/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec5965770e2c8afc2a3288a9421ed612"
     }
   ]
 }
