@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-21T22:22:07.951Z",
+  "lastUpdated": "2025-02-21T23:22:48.188Z",
   "articles": [
+    {
+      "title": "Federal Funding Restored for Low-Income Alabama Utility Assistance After Outcry",
+      "description": "A program meant to help low-income Alabamians pay their utility bills has resumed two weeks after it was canceled due to an executive order from Presi...",
+      "link": "https://insideclimatenews.org/news/21022025/alabama-restores-low-income-energy-funds/",
+      "pubDate": "Fri, 21 Feb 2025 23:09:49 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Chaotic Moment for National Parks, Forest Service as Staff Cuts Threaten Public Lands Management",
       "description": "For Stuart Garbett, clocking into the office in the summer meant traversing the sprawling, mountainous terrain of the Bridger-Teton National Forest in...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Bureau of Land Management Trims Environmental Review Before $20 Million Oil and Gas Lease Sale",
-      "description": "After stripping consideration of environmental justice issues and climate costs from its final analysis of the project, President Donald Trump’s admin...",
-      "link": "https://insideclimatenews.org/news/20022025/blm-trims-environmental-review-before-oil-gas-lease/",
-      "pubDate": "Fri, 21 Feb 2025 00:33:41 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
