@@ -7,7 +7,6 @@
     
     <meta name="description" content="Support local environmental charities through ChatGPTree. Make a difference by donating to organizations protecting our environment.">
     
-    <!-- Use your existing favicon and font links -->
     <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
@@ -26,23 +25,34 @@
             padding: 1.5rem;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .charity-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
         }
         
         .charity-card img {
             width: 200px;
             height: 200px;
-            object-fit: contain;
+            object-fit: cover;
             margin-bottom: 1rem;
+            border-radius: 10px;
+            background-color: #f5f5f5;
         }
         
         .charity-card h3 {
             color: #2E4032;
             margin: 1rem 0;
+            font-family: 'Simonetta', serif;
         }
         
         .charity-card p {
             margin-bottom: 1.5rem;
             text-align: left;
+            height: 100px;
+            overflow: hidden;
         }
         
         .donate-button {
@@ -53,11 +63,12 @@
             text-decoration: none;
             border-radius: 5px;
             font-weight: bold;
-            transition: background-color 0.3s ease;
+            transition: all 0.3s ease;
         }
         
         .donate-button:hover {
             background-color: #45a049;
+            transform: scale(1.05);
         }
     </style>
 </head>
@@ -77,36 +88,78 @@
     
     <header>
         <div class="container">
-            <h1>Support Your Charity</h1>
+            <h1>Support Our Environment</h1>
         </div>
     </header>
     
     <main class="container">
         <div class="app-info">
-            <h2>Make a Difference</h2>
-            <p>Support local environmental organizations working to protect and preserve our natural heritage. Choose from these trusted charities making a real impact in our community.</p>
+            <h2>Make a Difference Today</h2>
+            <p>Support these incredible environmental organizations working to protect and preserve Australia's unique natural heritage. Each donation helps plant trees, restore habitats, and create a greener future for all.</p>
         </div>
         
         <div class="charity-grid">
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="Greening Australia Logo">
-                <h3>Greening Australia</h3>
-                <p>Restoring Australia's diverse landscapes and protecting biodiversity through practical, science-based solutions.</p>
-                <a href="https://www.greeningaustralia.org.au/donate/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+                <img src="/api/placeholder/200/200" alt="Carbon Positive Australia Logo">
+                <h3>Carbon Positive Australia</h3>
+                <p>Funding tree-planting projects across Australia, focusing on native species to rehabilitate degraded land.</p>
+                <a href="https://carbonpositiveaustralia.org.au/product/donate-trees/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="Bush Heritage Australia Logo">
-                <h3>Bush Heritage Australia</h3>
-                <p>Protecting millions of hectares of Australian landscapes and wildlife through conservation reserves.</p>
-                <a href="https://www.bushheritage.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+                <img src="/api/placeholder/200/200" alt="One Tree Planted Logo">
+                <h3>One Tree Planted</h3>
+                <p>Supporting Australian projects aimed at restoring forests, protecting biodiversity, and engaging local communities in conservation efforts.</p>
+                <a href="https://onetreeplanted.org/products/australia" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="Koala Clancy Foundation Logo">
+                <h3>Koala Clancy Foundation</h3>
+                <p>Dedicated to creating habitats for koalas, with a goal of planting 300,000 trees by 2030.</p>
+                <a href="https://www.koalaclancyfoundation.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="Greening Australia Logo">
+                <h3>Greening Australia</h3>
+                <p>A national not-for-profit committed to restoring Australia's diverse landscapes and protecting biodiversity through large-scale tree planting.</p>
+                <a href="https://www.greeningaustralia.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="Greenfleet Logo">
+                <h3>Greenfleet</h3>
+                <p>Planting native biodiverse forests to offset carbon emissions and restore habitats, with over 10 million native trees planted since 1997.</p>
+                <a href="https://www.greenfleet.com.au/Donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="ReForest Now Logo">
+                <h3>ReForest Now</h3>
+                <p>Dedicated to restoring critically endangered rainforests through planting trees, bush regeneration, and growing seedlings.</p>
+                <a href="https://www.reforestnow.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="TreeProject Logo">
+                <h3>TreeProject</h3>
+                <p>A volunteer-based organization focused on restoring healthy, indigenous, and sustainable ecosystems in Victoria.</p>
+                <a href="https://treeproject.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="ABC Foundation Logo">
+                <h3>ABC Foundation Ltd.</h3>
+                <p>Running the 'Plant a Tree' program, where each $5 donation plants one native tree, supporting environmental conservation.</p>
+                <a href="https://abcau.com.au/plant-a-tree/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
                 <img src="/api/placeholder/200/200" alt="Trees For Life Logo">
                 <h3>Trees For Life</h3>
-                <p>Working with volunteers and landholders to protect and restore South Australia's native vegetation.</p>
-                <a href="https://treesforlife.org.au/support-us/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+                <p>Protecting and restoring land across bush, farms, and urban areas through volunteer programs and bushland management.</p>
+                <a href="https://treesforlife.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
         </div>
     </main>
