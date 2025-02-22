@@ -33,13 +33,15 @@
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
         }
         
-        .charity-card img {
-            width: 200px;
-            height: 200px;
-            object-fit: cover;
-            margin-bottom: 1rem;
-            border-radius: 10px;
-            background-color: #f5f5f5;
+        .charity-card i {
+            font-size: 48px;
+            color: #4CAF50;
+            margin: 1rem 0;
+            transition: transform 0.3s ease;
+        }
+        
+        .charity-card:hover i {
+            transform: scale(1.1);
         }
         
         .charity-card h3 {
@@ -73,6 +75,7 @@
     </style>
 </head>
 <body>
+    <!-- Navigation remains the same -->
     <button class="nav-toggle" aria-label="Toggle navigation">
         <i class="fas fa-water"></i>
     </button>
@@ -100,63 +103,63 @@
         
         <div class="charity-grid">
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="Carbon Positive Australia Logo">
+                <i class="fas fa-seedling"></i>
                 <h3>Carbon Positive Australia</h3>
                 <p>Funding tree-planting projects across Australia, focusing on native species to rehabilitate degraded land.</p>
                 <a href="https://carbonpositiveaustralia.org.au/product/donate-trees/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="One Tree Planted Logo">
+                <i class="fas fa-tree"></i>
                 <h3>One Tree Planted</h3>
                 <p>Supporting Australian projects aimed at restoring forests, protecting biodiversity, and engaging local communities in conservation efforts.</p>
                 <a href="https://onetreeplanted.org/products/australia" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="Koala Clancy Foundation Logo">
+                <i class="fas fa-paw"></i>
                 <h3>Koala Clancy Foundation</h3>
                 <p>Dedicated to creating habitats for koalas, with a goal of planting 300,000 trees by 2030.</p>
                 <a href="https://www.koalaclancyfoundation.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="Greening Australia Logo">
+                <i class="fas fa-leaf"></i>
                 <h3>Greening Australia</h3>
                 <p>A national not-for-profit committed to restoring Australia's diverse landscapes and protecting biodiversity through large-scale tree planting.</p>
                 <a href="https://www.greeningaustralia.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="Greenfleet Logo">
+                <i class="fas fa-cloud-sun"></i>
                 <h3>Greenfleet</h3>
                 <p>Planting native biodiverse forests to offset carbon emissions and restore habitats, with over 10 million native trees planted since 1997.</p>
                 <a href="https://www.greenfleet.com.au/Donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="ReForest Now Logo">
+                <i class="fas fa-forest"></i>
                 <h3>ReForest Now</h3>
                 <p>Dedicated to restoring critically endangered rainforests through planting trees, bush regeneration, and growing seedlings.</p>
                 <a href="https://www.reforestnow.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="TreeProject Logo">
+                <i class="fas fa-hands-holding"></i>
                 <h3>TreeProject</h3>
                 <p>A volunteer-based organization focused on restoring healthy, indigenous, and sustainable ecosystems in Victoria.</p>
                 <a href="https://treeproject.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="ABC Foundation Logo">
+                <i class="fas fa-heart"></i>
                 <h3>ABC Foundation Ltd.</h3>
                 <p>Running the 'Plant a Tree' program, where each $5 donation plants one native tree, supporting environmental conservation.</p>
                 <a href="https://abcau.com.au/plant-a-tree/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
             </div>
             
             <div class="charity-card">
-                <img src="/api/placeholder/200/200" alt="Trees For Life Logo">
+                <i class="fas fa-hand-holding-heart"></i>
                 <h3>Trees For Life</h3>
                 <p>Protecting and restoring land across bush, farms, and urban areas through volunteer programs and bushland management.</p>
                 <a href="https://treesforlife.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
