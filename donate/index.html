@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donate - ChatGPTree</title>
+    
+    <meta name="description" content="Support local environmental charities through ChatGPTree. Make a difference by donating to organizations protecting our environment.">
+    
+    <!-- Use your existing favicon and font links -->
+    <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    
+    <style>
+        .charity-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            padding: 2rem 0;
+        }
+        
+        .charity-card {
+            background: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        
+        .charity-card img {
+            width: 200px;
+            height: 200px;
+            object-fit: contain;
+            margin-bottom: 1rem;
+        }
+        
+        .charity-card h3 {
+            color: #2E4032;
+            margin: 1rem 0;
+        }
+        
+        .charity-card p {
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+        
+        .donate-button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        
+        .donate-button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <button class="nav-toggle" aria-label="Toggle navigation">
+        <i class="fas fa-water"></i>
+    </button>
+    <div class="modal-menu">
+        <div class="modal-menu-content">
+            <a href="/"><i class="fas fa-home"></i> Home</a>
+            <a href="/messageboard/"><i class="fas fa-comments"></i> The Grapevine</a>
+            <a href="/news/"><i class="fas fa-newspaper"></i> Arbor Archives</a>
+            <a href="/donate/"><i class="fas fa-hand-holding-heart"></i> Donate</a>
+            <a href="mailto:hello@chatgptree.com.au"><i class="fas fa-envelope"></i> Contact Us</a>
+        </div>
+    </div>
+    
+    <header>
+        <div class="container">
+            <h1>Support Our Environment</h1>
+        </div>
+    </header>
+    
+    <main class="container">
+        <div class="app-info">
+            <h2>Make a Difference</h2>
+            <p>Support local environmental organizations working to protect and preserve our natural heritage. Choose from these trusted charities making a real impact in our community.</p>
+        </div>
+        
+        <div class="charity-grid">
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="Greening Australia Logo">
+                <h3>Greening Australia</h3>
+                <p>Restoring Australia's diverse landscapes and protecting biodiversity through practical, science-based solutions.</p>
+                <a href="https://www.greeningaustralia.org.au/donate/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="Bush Heritage Australia Logo">
+                <h3>Bush Heritage Australia</h3>
+                <p>Protecting millions of hectares of Australian landscapes and wildlife through conservation reserves.</p>
+                <a href="https://www.bushheritage.org.au/donate" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+            
+            <div class="charity-card">
+                <img src="/api/placeholder/200/200" alt="Trees For Life Logo">
+                <h3>Trees For Life</h3>
+                <p>Working with volunteers and landholders to protect and restore South Australia's native vegetation.</p>
+                <a href="https://treesforlife.org.au/support-us/" class="donate-button" target="_blank" rel="noopener">Donate Now</a>
+            </div>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 GB ChatGPTree. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const navToggle = document.querySelector('.nav-toggle');
+            const modalMenu = document.querySelector('.modal-menu');
+
+            navToggle.addEventListener('click', () => {
+                modalMenu.classList.toggle('active');
+            });
+
+            modalMenu.addEventListener('click', (e) => {
+                if (e.target === modalMenu) {
+                    modalMenu.classList.remove('active');
+                }
+            });
+
+            document.querySelectorAll('.modal-menu a').forEach(link => {
+                link.addEventListener('click', () => {
+                    modalMenu.classList.remove('active');
+                });
+            });
+        });
+    </script>
+</body>
+</html>
