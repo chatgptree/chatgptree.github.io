@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-22T21:20:29.636Z",
+  "lastUpdated": "2025-02-22T22:20:42.408Z",
   "articles": [
+    {
+      "title": "The asteroid hits and near-misses you never hear about",
+      "description": "Since a potentially hazardous asteroid was detected in December, tens of others objects have come close to Earth....",
+      "link": "https://www.bbc.com/news/articles/c5y494xkp3yo",
+      "pubDate": "Sat, 22 Feb 2025 21:33:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "These people protected US forests and lands. Their jobs have now vanished due to Trump",
       "description": "&lt;p&gt;Former federal employees devastated by president’s mass firings: ‘We’re at risk of losing our public lands to the billionaire agenda’&lt;/p&g...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4af689d8ca6b754ced89aeed9c62f9742c77eb48/0_950_3000_1799/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a01046811629e7fa3eb6d3c21120fe52"
-    },
-    {
-      "title": "Mass firings hamstring federal land agencies and wildfire response",
-      "description": "&lt;p&gt;Concerns are mounting that depleting already thinned ranks will only hamper extreme weather response efforts&lt;/p&gt;&lt;p&gt;Federal agenci...",
-      "link": "https://www.theguardian.com/us-news/2025/feb/21/trump-federal-land-wildfire-response",
-      "pubDate": "Fri, 21 Feb 2025 14:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/59a17d7ffe93b8b811915a7663cb36bc5a175e86/0_228_5750_3451/master/5750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab656437c753af4f0bc843d0067a92a3"
     }
   ]
 }
