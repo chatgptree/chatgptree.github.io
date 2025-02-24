@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-02-24T09:26:05.998Z",
+  "lastUpdated": "2025-02-24T10:26:11.544Z",
   "articles": [
+    {
+      "title": "‘Super exciting’ visit of dolphins to East River offers hope of cleaner New York",
+      "description": "&lt;p&gt;The rare sighting of two common short-beaked dolphins hints at an environmental success story&lt;/p&gt;&lt;p&gt;When New Yorkers were graced ...",
+      "link": "https://www.theguardian.com/us-news/2025/feb/24/dolphins-new-york-east-river-environment",
+      "pubDate": "Mon, 24 Feb 2025 10:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9636c238230ab01f6eb6937372e32b8978b9bc24/1229_1540_6123_3676/master/6123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0eeb0b12bae48c9c8a117178be7724e"
+    },
+    {
+      "title": "Texas Wants to Be a Nuclear Power",
+      "description": "The small West Texas city of Abilene is better known for country music and rodeos than advanced nuclear physics. But that’s where scientists are enter...",
+      "link": "https://insideclimatenews.org/news/24022025/texas-next-generation-nuclear-reactors/",
+      "pubDate": "Mon, 24 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Never Let Anyone Break Your Spirit’: How an Environmental Justice Forefather Is Thinking About Our Current Moment",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with the Rev. Ben Cha...",
+      "link": "https://insideclimatenews.org/news/24022025/how-environmental-justice-forefather-thinks-about-current-moment/",
+      "pubDate": "Mon, 24 Feb 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What climate change means for bird flu — and the soaring price of eggs",
+      "description": "Extreme weather is shifting the migratory patterns of birds, increasing the chances of deadly avian flu outbreaks on farms....",
+      "link": "https://grist.org/food-and-agriculture/egg-prices-expensive-bird-flu-avian-climate-change/",
+      "pubDate": "Mon, 24 Feb 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/bird-flu.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Why some Starbucks locations are switching from plastic to paper cups",
       "description": "Green groups say it’s a “clear admission” that the plastic ones aren’t recyclable....",
@@ -141,42 +177,6 @@
       "description": "YUKON, Pa.—In a rural pocket of western Pennsylvania, along the leafy banks of Sewickley Creek, a small, jagged pipe juts just above the waterline, it...",
       "link": "https://insideclimatenews.org/news/23022025/pennsylvania-landfill-pollution-problems-fracking-waste/",
       "pubDate": "Sun, 23 Feb 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The asteroid hits and near-misses you never hear about",
-      "description": "Since a potentially hazardous asteroid was detected in December, tens of others objects have come close to Earth....",
-      "link": "https://www.bbc.com/news/articles/c5y494xkp3yo",
-      "pubDate": "Sat, 22 Feb 2025 21:33:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "These people protected US forests and lands. Their jobs have now vanished due to Trump",
-      "description": "&lt;p&gt;Former federal employees devastated by president’s mass firings: ‘We’re at risk of losing our public lands to the billionaire agenda’&lt;/p&g...",
-      "link": "https://www.theguardian.com/environment/2025/feb/22/forest-land-workers-firings-trump",
-      "pubDate": "Sat, 22 Feb 2025 15:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5f04834afdf1cdf27fbfb45bed0524ff8b4e7742/0_0_1500_900/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cf4112e9e9ab8118ea099fbfc077958"
-    },
-    {
-      "title": "A Project 2025 advisor takes the reins at EPA Region 6",
-      "description": "Scott Mason IV is the new administrator for the EPA region covering Arkansas, Louisiana, New Mexico, Oklahoma, Texas and 66 Tribal Nations....",
-      "link": "https://grist.org/politics/project-2025-advisor-takes-the-reins-at-epa-region-6/",
-      "pubDate": "Sat, 22 Feb 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/EPA-trump.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Plan to Build a Road With Radioactive Waste in Florida Prompts Legal Challenge Against the EPA",
-      "description": "ORLANDO, Fla.—The U.S. Environmental Protection Agency faces a legal challenge after approving a controversial plan to include radioactive waste in a ...",
-      "link": "https://insideclimatenews.org/news/22022025/florida-radioactive-waste-road-project-epa/",
-      "pubDate": "Sat, 22 Feb 2025 10:00:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
