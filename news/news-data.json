@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-02-24T08:30:52.575Z",
+  "lastUpdated": "2025-02-24T09:26:05.998Z",
   "articles": [
+    {
+      "title": "Why some Starbucks locations are switching from plastic to paper cups",
+      "description": "Green groups say it’s a “clear admission” that the plastic ones aren’t recyclable....",
+      "link": "https://grist.org/accountability/why-some-starbucks-locations-are-switching-from-plastic-to-paper-cups/",
+      "pubDate": "Mon, 24 Feb 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/Starbucks-logo.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "How do you survive the end of the world? Oscar-nominated &#8216;Flow&#8217; offers an answer—through the eyes of a cat",
+      "description": "An indie animated movie from Latvia with no humans or dialogue might be the best climate movie of the year...",
+      "link": "https://grist.org/culture/flow-oscars-golden-globes-climate-cat-movie-review/",
+      "pubDate": "Mon, 24 Feb 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/FLOW_INLINE_2.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The fossil fuel industry is trying to keep buildings hooked on gas. Here’s how.",
+      "description": "Around the globe, oil and gas companies use similar strategies to fight building electrification....",
+      "link": "https://grist.org/buildings/the-fossil-fuel-industry-is-trying-to-keep-buildings-hooked-on-gas-heres-how/",
+      "pubDate": "Mon, 24 Feb 2025 09:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/gas-heater-thermostat-closeup.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Britain’s net zero economy is booming, CBI says",
       "description": "&lt;p&gt;Green sector growing at triple the rate of the UK economy, providing high-wage jobs and increasing energy security&lt;/p&gt;&lt;p&gt;The net ...",
@@ -151,33 +178,6 @@
       "link": "https://insideclimatenews.org/news/22022025/florida-radioactive-waste-road-project-epa/",
       "pubDate": "Sat, 22 Feb 2025 10:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Federal Regulator’s Approval for Gas Plant Queue-Jumping Sparks Outrage",
-      "description": "The Federal Energy Regulatory Commission’s approval of PJM Interconnection’s plan to let 50 power projects, including nuclear and gas-fired plants, cu...",
-      "link": "https://insideclimatenews.org/news/22022025/federal-regulators-approve-gas-plant-queue-jumping/",
-      "pubDate": "Sat, 22 Feb 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "An Economist’s Dire Forecast About Just How Much Climate Change Will Impact GDP",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Dr. Tim Lenton, a profe...",
-      "link": "https://insideclimatenews.org/news/22022025/climate-change-impact-on-global-gdp/",
-      "pubDate": "Sat, 22 Feb 2025 09:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "£3,000 rents cause housing fears near nuclear plant",
-      "description": "Residents living near a nuclear power plant have seen rents double to £3,000 a month....",
-      "link": "https://www.bbc.com/news/articles/cewklr7zy71o",
-      "pubDate": "Sat, 22 Feb 2025 07:45:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
