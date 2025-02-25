@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-02-25T09:25:34.446Z",
+  "lastUpdated": "2025-02-25T10:25:56.159Z",
   "articles": [
+    {
+      "title": "Seven planets to be visible in night sky for last time until 2040",
+      "description": "The best chance to see as many as possible will be after sunset on Tuesday, Wednesday and Thursday. ...",
+      "link": "https://www.bbc.com/news/articles/c5yd4z15r54o",
+      "pubDate": "Tue, 25 Feb 2025 10:13:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Chile, a Declining Forest Worries Scientists",
+      "description": "At the age of 10, Alberto Alaniz joined a school field trip to Río Clarillo National Park, a forested reserve near Chile’s capital. He remembers the e...",
+      "link": "https://insideclimatenews.org/news/25022025/chile-deforestation-drought-worries-scientists/",
+      "pubDate": "Tue, 25 Feb 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can solar power avoid Trump’s culture wars?",
+      "description": "The industry is rebranding itself as a symbol of American \"energy dominance.\"...",
+      "link": "https://grist.org/politics/solar-power-trump-culture-wars-american-energy-dominance/",
+      "pubDate": "Tue, 25 Feb 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/11/Trump-Whirlpool-washing-machine.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "&#8216;We know what it&#8217;s like&#8217;: How Appalachian towns are learning to help each other after floods",
+      "description": "From the Kentucky floods to Helene and back again, people throughout Appalachia are using their experiences to help others through disaster....",
+      "link": "https://grist.org/extreme-weather/we-know-what-its-like-how-appalachian-towns-are-learning-to-help-each-other-after-floods/",
+      "pubDate": "Tue, 25 Feb 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/Kentucky-2025-floods-climate-community-response-rescue.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "‘I know their names, what they eat’: tracking polar bears on Svalbard’s shifting icescapes",
       "description": "&lt;p&gt;For more than 20 years, scientists have followed the animals in Norway’s Arctic archipelago to understand how they may adapt to changing thre...",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Never Let Anyone Break Your Spirit’: How an Environmental Justice Forefather Is Thinking About Our Current Moment",
-      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with the Rev. Ben Cha...",
-      "link": "https://insideclimatenews.org/news/24022025/how-environmental-justice-forefather-thinks-about-current-moment/",
-      "pubDate": "Mon, 24 Feb 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What climate change means for bird flu — and the soaring price of eggs",
-      "description": "Extreme weather is shifting the migratory patterns of birds, increasing the chances of deadly avian flu outbreaks on farms....",
-      "link": "https://grist.org/food-and-agriculture/egg-prices-expensive-bird-flu-avian-climate-change/",
-      "pubDate": "Mon, 24 Feb 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/bird-flu.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Why some Starbucks locations are switching from plastic to paper cups",
-      "description": "Green groups say it’s a “clear admission” that the plastic ones aren’t recyclable....",
-      "link": "https://grist.org/accountability/why-some-starbucks-locations-are-switching-from-plastic-to-paper-cups/",
-      "pubDate": "Mon, 24 Feb 2025 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/Starbucks-logo.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How do you survive the end of the world? Oscar-nominated &#8216;Flow&#8217; offers an answer — through the eyes of a cat",
-      "description": "An indie animated movie from Latvia with no humans or dialogue might be the best climate movie of the year....",
-      "link": "https://grist.org/culture/flow-oscars-golden-globes-climate-cat-movie-review/",
-      "pubDate": "Mon, 24 Feb 2025 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/FLOW_INLINE_2.png?quality=75&amp;strip=all"
     }
   ]
 }
