@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-25T11:19:45.679Z",
+  "lastUpdated": "2025-02-25T12:50:15.835Z",
   "articles": [
+    {
+      "title": "US anti-pipeline activists say charges against them ‘meant to intimidate’",
+      "description": "&lt;p&gt;Protesters who tried to disrupt completion of Mountain Valley pipeline to defend themselves in Virginia court&lt;/p&gt;&lt;p&gt;Climate activ...",
+      "link": "https://www.theguardian.com/environment/2025/feb/25/mountain-valley-pipeline-activists",
+      "pubDate": "Tue, 25 Feb 2025 12:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a70488fd583954290b174d54f7b447fb1260127b/0_85_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=71bffd4b7fbf1b554bc1dfa8fb412e21"
+    },
     {
       "title": "Seven planets to be visible in night sky for last time until 2040",
       "description": "The best chance to see as many as possible will be after sunset on Tuesday, Wednesday and Thursday. ...",
@@ -92,33 +101,6 @@
       "image": "https://i.guim.co.uk/img/media/2254757270d7bd870da77cae3c1f08296c8acbdf/0_365_5472_3283/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af5d950c5f4f1bfc25d7ea5a13f0998"
     },
     {
-      "title": "Workplace woes: Work is the main reason Aussies aren’t spending time outdoors",
-      "description": "WWF-Australia is encouraging Aussies to join Challenge 60 and get active in nature for Earth Hour 2025.  Despite Australia’s sunshine, new research sh...",
-      "link": "https://econews.com.au/66609/workplace-woes-work-is-the-main-reason-aussies-arent-spending-time-outdoors/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=workplace-woes-work-is-the-main-reason-aussies-arent-spending-time-outdoors",
-      "pubDate": "Tue, 25 Feb 2025 04:02:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Australia’s first homegrown end-to-end ESG tech package",
-      "description": "Kate Lawson Legal tech business Verimus has created Australia’s first locally made broad range ESG (Environment, Social, Governance) tech solution by ...",
-      "link": "https://econews.com.au/66607/australias-first-homegrown-end-to-end-esg-tech-package/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australias-first-homegrown-end-to-end-esg-tech-package",
-      "pubDate": "Tue, 25 Feb 2025 04:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/02/ClearESG.png"
-    },
-    {
-      "title": "Celebrating our blue oceans at the Australian National Maritime Museum this March",
-      "description": "Australian National Maritime Museum Throughout March, the Australian National Maritime Museum will be celebrating a month of blue water as host of a v...",
-      "link": "https://econews.com.au/66605/celebrating-our-blue-oceans-at-the-australian-national-maritime-museum-this-march/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=celebrating-our-blue-oceans-at-the-australian-national-maritime-museum-this-march",
-      "pubDate": "Tue, 25 Feb 2025 03:03:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
       "title": "Conservatives Win in Germany, But New Chancellor Will Be Limited in Ability to Make Big Changes to Climate and Energy Policy",
       "description": "A rightward shift in German politics may not have been decisive enough to have a major effect on energy and climate policies. The center-right Christi...",
       "link": "https://insideclimatenews.org/news/24022025/conservatives-win-germany-election-climate-energy-policy/",
@@ -180,6 +162,24 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Never Let Anyone Break Your Spirit’: How an Environmental Justice Forefather Is Thinking About Our Current Moment",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with the Rev. Ben Cha...",
+      "link": "https://insideclimatenews.org/news/24022025/how-environmental-justice-forefather-thinks-about-current-moment/",
+      "pubDate": "Mon, 24 Feb 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What climate change means for bird flu — and the soaring price of eggs",
+      "description": "Extreme weather is shifting the migratory patterns of birds, increasing the chances of deadly avian flu outbreaks on farms....",
+      "link": "https://grist.org/food-and-agriculture/egg-prices-expensive-bird-flu-avian-climate-change/",
+      "pubDate": "Mon, 24 Feb 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/bird-flu.jpg?quality=75&amp;strip=all"
     }
   ]
 }
