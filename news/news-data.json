@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-03-01T09:22:27.874Z",
+  "lastUpdated": "2025-03-01T10:23:32.042Z",
   "articles": [
+    {
+      "title": "Does N.C. Need Another Polluting Plant to Turn Plastic Waste Into Diesel Fuel?",
+      "description": "The company tried educational chatbots and cryptocurrency. Then nonfungible tokens, or NFTs, of movies and cars. Even a service to Catholic churches a...",
+      "link": "https://insideclimatenews.org/news/01032025/north-carolina-pfas-plastic-waste-pyrolysis-plant/",
+      "pubDate": "Sat, 01 Mar 2025 10:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Dominion Gets State Approval for Liquified Natural Gas Storage Facility in Virginia",
+      "description": "Virginia’s largest utility received approval from its state regulators to construct a liquified natural gas storage facility for two of its gas-fired ...",
+      "link": "https://insideclimatenews.org/news/01032025/dominion-liquified-natural-gas-storage-facility-virginia/",
+      "pubDate": "Sat, 01 Mar 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Weathering the Storm: Maryland’s Chief Resilience Officer Reflects on Year One as Climate Threats Increase",
+      "description": "Michael Hinson stepped in as Maryland’s first chief resilience officer in November 2023, bringing more than a decade of experience in disaster managem...",
+      "link": "https://insideclimatenews.org/news/01032025/maryland-chief-resilience-officer-reflects-first-year/",
+      "pubDate": "Sat, 01 Mar 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Public Radio’s David Brancaccio Mulls the Surprising Pluses and Minuses of Rebuilding in LA After the Fires",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with journalist David...",
+      "link": "https://insideclimatenews.org/news/01032025/rebuilding-los-angeles-after-the-fires/",
+      "pubDate": "Sat, 01 Mar 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Tickled pink: rhubarb growers see explosion in demand for Yorkshire crop",
       "description": "&lt;p&gt;Despite wet weather hitting yields, supermarkets are reporting a doubling in rhubarb sales compared to last year&lt;/p&gt;&lt;p&gt;It takes a...",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Blue gropers thrown lifeline in NSW",
-      "description": "Trial protections for blue gropers in NSW to continue for another three years  Blue groper numbers have halved near some of NSW’s most populated areas...",
-      "link": "https://econews.com.au/66635/blue-gropers-thrown-lifeline-in-nsw/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blue-gropers-thrown-lifeline-in-nsw",
-      "pubDate": "Fri, 28 Feb 2025 05:03:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Native forest logging loophole puts wildlife at risk",
-      "description": "Victorian National Parks Association A loophole in Victoria’s planning laws is allowing widespread native forest logging on private land, undermining ...",
-      "link": "https://econews.com.au/66633/native-forest-logging-loophole-puts-wildlife-at-risk/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=native-forest-logging-loophole-puts-wildlife-at-risk",
-      "pubDate": "Fri, 28 Feb 2025 05:03:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Scouts honour Clean Up Australia Day",
-      "description": "Carey Bay Toronto Scout Group take part in Clean Up Australia Day annually Carey Bay Toronto Scouts Callum Reynolds and Raistlin McLachlin are on a mi...",
-      "link": "https://econews.com.au/66631/scouts-honour-clean-up-australia-day/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scouts-honour-clean-up-australia-day",
-      "pubDate": "Fri, 28 Feb 2025 05:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Nations salvage funding deal to reverse wildlife decline",
-      "description": "Funding agreed at UN conference in Rome that would attempt to tackle the rapid loss of biodiversity...",
-      "link": "https://www.bbc.com/news/articles/cg5ddnmnypvo",
-      "pubDate": "Fri, 28 Feb 2025 00:47:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
