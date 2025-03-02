@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-02T05:23:59.773Z",
+  "lastUpdated": "2025-03-02T06:31:27.148Z",
   "articles": [
     {
       "title": "CLEAN UP AUSTRALIA DAY TODAY",
@@ -9,6 +9,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Clean-Up-Australia-Day-logo-1024x348.png"
+    },
+    {
+      "title": "'They don't belong in the Med': Future of homeless orcas still uncertain",
+      "description": "Animal rights campaigners and marine zoo official say Mediterranean is 'too warm' for killer whales....",
+      "link": "https://www.bbc.com/news/articles/ceqjrnjvrv4o",
+      "pubDate": "Sun, 02 Mar 2025 00:47:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Labor backs household batteries in bid to win over voters on cost-of-living and climate worries",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/02/ny-farmer-drought.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Week in wildlife: a turtle hatchling, a curious marmoset and an oarfish",
-      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/feb/28/week-in-wildlife-a-turtle-hatchling-a-curious-marmoset-and-an-oarfish",
-      "pubDate": "Fri, 28 Feb 2025 08:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a055d4c934bd23ad636869d77dead816b67f83ff/0_0_5813_3488/master/5813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48ac62f64659a8f48a48252a0a64b018"
     }
   ]
 }
