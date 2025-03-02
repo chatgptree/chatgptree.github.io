@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-02T09:23:27.829Z",
+  "lastUpdated": "2025-03-02T10:23:55.449Z",
   "articles": [
+    {
+      "title": "A gorgeous flash of colour in a murky loch: how nudibranchs won my heart",
+      "description": "&lt;p&gt;With a beauty that belies its name, the sea slug is an invertebrate that reminds me of a happy Scottish summer&lt;/p&gt;&lt;p&gt;It has been ...",
+      "link": "https://www.theguardian.com/environment/2025/mar/02/a-gorgeous-flash-of-colour-in-a-murky-loch-how-nudibranchs-won-my-heart",
+      "pubDate": "Sun, 02 Mar 2025 10:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/66068d6b9f8cae8f4b40882a7174b85d4b3bdc2a/0_175_5241_3145/master/5241.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b09c6d1b9f414f85b0e8de9cabd7d1cc"
+    },
+    {
+      "title": "Trump, EPA Aim to Remove Finding That Mandates Action on Greenhouse Gas Pollution",
+      "description": "President Donald Trump’s energy-focused executive orders and plan to slash more than half of the Environmental Protection Agency’s staff have made cle...",
+      "link": "https://insideclimatenews.org/news/02032025/trump-epa-greenhouse-gas-pollution-endangerment-finding/",
+      "pubDate": "Sun, 02 Mar 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Windows Open, Heating On: A New York City Winter",
+      "description": "When New Yorkers hear that familiar clinking sound throughout their houses or apartments, they know winter is here. It means the city’s century-old st...",
+      "link": "https://insideclimatenews.org/news/02032025/new-york-city-heating-systems/",
+      "pubDate": "Sun, 02 Mar 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Never mind the planet’s fate when the jet set feel the urge to seek out some winter sun | Catherine Bennett",
       "description": "&lt;p&gt;Self-denial will save the Earth, we’re told. But big emitters seemingly haven’t had the memo&lt;/p&gt;&lt;p&gt;That I fully expect to be dead...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/96fcc9a4fbfc59f2c3e980caceb11959a87e0988/0_783_5272_3165/master/5272.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd7fdc32c1a4533183b939c8a8c826eb"
-    },
-    {
-      "title": "From leaping mudskippers to volcanic eruptions: the World Nature Photography awards 2025 – in pictures",
-      "description": "&lt;p&gt;The &lt;a href=\"https://www.worldnaturephotographyawards.com/winners-2025\"&gt;World Nature Photography awards have announced their winners&lt...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/mar/01/the-world-nature-photography-awards-2025-in-pictures",
-      "pubDate": "Fri, 28 Feb 2025 14:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1c5545816db35bac7dee4b0f7f2bb3d7195f2ee0/0_200_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a65946bd0111a2c06fc5ce92179f4a02"
-    },
-    {
-      "title": "Wild beaver release approved for England",
-      "description": "The decision follows years of trials but some farmers are concerned there could be negative impacts....",
-      "link": "https://www.bbc.com/news/articles/cj3nn4rlxz5o",
-      "pubDate": "Fri, 28 Feb 2025 12:32:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cop16 nature summit agrees deal at 11th hour but critics say it is not enough",
-      "description": "&lt;p&gt;UN biodiversity conference in Rome ends with fragile accord but questions remain over whether funding will emerge&lt;/p&gt;&lt;p&gt;The task ...",
-      "link": "https://www.theguardian.com/environment/2025/feb/28/cop-16-climate-nature-funding-agreement",
-      "pubDate": "Fri, 28 Feb 2025 11:14:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0c9f5e9b077d3c76b89b744d6bbf9d2267a93391/0_0_4145_2487/master/4145.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e20b034c574b6aaceb5d999894edd582"
     }
   ]
 }
