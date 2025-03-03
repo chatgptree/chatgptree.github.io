@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-03-03T09:27:12.951Z",
+  "lastUpdated": "2025-03-03T10:26:50.131Z",
   "articles": [
+    {
+      "title": "El Paso Is Going to Turn Wastewater Into Drinking Water. Other Cities Will Soon Follow",
+      "description": "EL PASO—This desert city gets less than nine inches of rain a year and experienced the two hottest years in its recorded history in 2023 and 2024.&#16...",
+      "link": "https://insideclimatenews.org/news/03032025/el-paso-wastewater-drinking-water/",
+      "pubDate": "Mon, 03 Mar 2025 10:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Water Agency Renews Concern That Sea-Level Rise Will Flood Drinking-Water Intakes in Philadelphia, Southern N.J.",
+      "description": "PHILADELPHIA—Fears that seawater may one day flood drinking-water intakes serving millions of people in the Philadelphia region and southern New Jerse...",
+      "link": "https://insideclimatenews.org/news/03032025/sea-level-rise-will-flood-philadelphia-drinking-water/",
+      "pubDate": "Mon, 03 Mar 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Big banks abandoned a voluntary climate alliance. Now, critics are calling for new laws.",
+      "description": "Environmental groups say state and international policymakers must step up to stop fossil fuel financing....",
+      "link": "https://grist.org/accountability/big-banks-abandoned-a-voluntary-climate-alliance-now-critics-are-calling-for-new-laws/",
+      "pubDate": "Mon, 03 Mar 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/Bank-of-America-exterior.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "This ancient bit of ingenuity keeps carbon trapped for thousands of years",
+      "description": "Turning plant waste into biochar captures loads of carbon. New research suggests it stays trapped for much longer than scientists thought....",
+      "link": "https://grist.org/science/ancient-carbon-credit-trapped-biochar/",
+      "pubDate": "Mon, 03 Mar 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/08/IMG_2186-1.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Technofossils: How future archeologists will study our everyday objects",
       "description": "Humans have littered Earth with a mind-boggling array of objects that will last millions of years. From plastic bags to entire cities, what will those...",
@@ -142,42 +178,6 @@
       "link": "https://insideclimatenews.org/news/02032025/new-york-city-heating-systems/",
       "pubDate": "Sun, 02 Mar 2025 09:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Never mind the planet’s fate when the jet set feel the urge to seek out some winter sun | Catherine Bennett",
-      "description": "&lt;p&gt;Self-denial will save the Earth, we’re told. But big emitters seemingly haven’t had the memo&lt;/p&gt;&lt;p&gt;That I fully expect to be dead...",
-      "link": "https://www.theguardian.com/commentisfree/2025/mar/02/jet-set-winter-sun-emissions",
-      "pubDate": "Sun, 02 Mar 2025 08:30:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/37a698917f42b4f28a22a80f314bd3592a3a0d0b/0_0_7175_4306/master/7175.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=891b94055acb4dfc6f8a51eb7d0aaadc"
-    },
-    {
-      "title": "David Archer, let it go. Beavers are nature’s answer to our broken rivers | Helena Horton",
-      "description": "&lt;p&gt;The cute rodent helps combat drought and boosts biodiversity. Its rewilding is welcome and long overdue&lt;/p&gt;&lt;p&gt;The first time I la...",
-      "link": "https://www.theguardian.com/commentisfree/2025/mar/02/david-archer-beavers-broken-rivers",
-      "pubDate": "Sun, 02 Mar 2025 07:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/60de57ebc88a1e6a795a264f70a05ef8e9055459/0_50_4096_2458/master/4096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58197b229d041c810472150dbe11e7d7"
-    },
-    {
-      "title": "CLEAN UP AUSTRALIA DAY TODAY",
-      "description": "Over 800,000 volunteers Clean Up their local communities On its 35th anniversary, Clean Up Australia Day has once again had an overwhelming attendance...",
-      "link": "https://econews.com.au/66645/clean-up-australia-day-today/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=clean-up-australia-day-today",
-      "pubDate": "Sun, 02 Mar 2025 04:03:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Clean-Up-Australia-Day-logo-1024x348.png"
-    },
-    {
-      "title": "'They don't belong in the Med': Fate of mother orca and son still uncertain",
-      "description": "Animal rights campaigners and marine zoo official say Mediterranean is 'too warm' for killer whales....",
-      "link": "https://www.bbc.com/news/articles/ceqjrnjvrv4o",
-      "pubDate": "Sun, 02 Mar 2025 00:47:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
