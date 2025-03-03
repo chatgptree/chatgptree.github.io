@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-03T11:20:12.269Z",
+  "lastUpdated": "2025-03-03T12:48:29.131Z",
   "articles": [
+    {
+      "title": "Trump purge raises extinction threat for endangered species, fired workers warn",
+      "description": "&lt;p&gt;Scientist sounds alarm over ‘canary in the coalmine’ species including beetles and spiders&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Don’t let a billionai...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/03/endangered-species-trump-federal-worker-firings",
+      "pubDate": "Mon, 03 Mar 2025 12:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/aa936b4fd22c8de29e11ff20820006ef90c5abc2/0_142_4252_2552/master/4252.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c46d889b31bf24b25d61486d6e6e6da"
+    },
+    {
+      "title": "Weather tracker: Polar vortex collapse could chill North America and Eurasia",
+      "description": "&lt;p&gt;Sudden stratospheric warming event expected to develop in next two weeks and will probably weaken the jet stream&lt;/p&gt;&lt;p&gt;A sudden s...",
+      "link": "https://www.theguardian.com/environment/2025/mar/03/weather-tracker-polar-vortex-collapse-chill-north-america-eurasia",
+      "pubDate": "Mon, 03 Mar 2025 11:35:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6bdf31ef7e319390c7df6935b43c51fbb047abe0/0_553_4160_2496/master/4160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2760e8ce5772e551f6373513276b5cce"
+    },
     {
       "title": "El Paso Is Going to Turn Wastewater Into Drinking Water. Other Cities Will Soon Follow",
       "description": "EL PASO—This desert city gets less than nine inches of rain a year and experienced the two hottest years in its recorded history in 2023 and 2024.&#16...",
@@ -63,6 +81,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/294c16cd893248a5d0717a2e730a645183003586/599_0_2385_1433/master/2385.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d1fece18ceccbe7090bb0d913604535"
+    },
+    {
+      "title": "Spring is \"fastest-warming\" season in the UK",
+      "description": "Data shows that spring has warmed by 1.8C in the UK since 1970 and this warming is having an impact on nature....",
+      "link": "https://www.bbc.com/weather/articles/clyzn3qn61no",
+      "pubDate": "Mon, 03 Mar 2025 06:49:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "NSW Environment Minister reveals dramatic drop in Kosciuszko National Park feral horse population",
@@ -128,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/d835fc453a14b5dd6eec0a6c5b4361f4fa24c23c/0_182_5472_3283/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f55d3a46b449b7345399da8ed48e110a"
     },
     {
-      "title": "Ocean rower Aurimas Mockus stranded by cyclone off Australia’s east coast safely rescued",
-      "description": "&lt;p&gt;Lithuanian rower’s two-day wait to be rescued off Queensland comes to an end&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://www.theguardian...",
-      "link": "https://www.theguardian.com/australia-news/2025/mar/03/navy-ship-on-rescue-mission-for-stranded-ocean-rower-aurimas-mockus-off-australias-east-coast",
-      "pubDate": "Sun, 02 Mar 2025 23:43:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5e6dfcc0b00ee028cc507b05229c109002cf328f/153_91_2837_1702/master/2837.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2c7b318f88122ff755e571105a1e482"
-    },
-    {
       "title": "The Guardian view on Labour eyeing green cuts: they would undermine growth and climate goals | Editorial",
       "description": "&lt;p&gt;Bold pledges to fund climate projects now appear under threat, exposing deeper fiscal constraints and policy dilemmas within the government &...",
       "link": "https://www.theguardian.com/commentisfree/2025/mar/02/the-guardian-view-on-labour-eyeing-green-cuts-they-would-undermine-growth-and-climate-goals",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/66068d6b9f8cae8f4b40882a7174b85d4b3bdc2a/0_175_5241_3145/master/5241.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b09c6d1b9f414f85b0e8de9cabd7d1cc"
-    },
-    {
-      "title": "Trump, EPA Aim to Remove Finding That Mandates Action on Greenhouse Gas Pollution",
-      "description": "President Donald Trump’s energy-focused executive orders and plan to slash more than half of the Environmental Protection Agency’s staff have made cle...",
-      "link": "https://insideclimatenews.org/news/02032025/trump-epa-greenhouse-gas-pollution-endangerment-finding/",
-      "pubDate": "Sun, 02 Mar 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Windows Open, Heating On: A New York City Winter",
-      "description": "When New Yorkers hear that familiar clinking sound throughout their houses or apartments, they know winter is here. It means the city’s century-old st...",
-      "link": "https://insideclimatenews.org/news/02032025/new-york-city-heating-systems/",
-      "pubDate": "Sun, 02 Mar 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
