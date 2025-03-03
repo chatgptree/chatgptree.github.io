@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-03T19:19:05.577Z",
+  "lastUpdated": "2025-03-03T20:25:45.651Z",
   "articles": [
+    {
+      "title": "Trump orders swathes of US forests to be cut down for timber",
+      "description": "&lt;p&gt;President’s move to expand tree cutting across 280m acres evades rules to protect endangered species &lt;/p&gt;&lt;p&gt;Donald Trump has orde...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/03/trump-national-forest-executive-order",
+      "pubDate": "Mon, 03 Mar 2025 20:02:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/17b8ff877b2453efe32159d0f017eedd1277ecd1/0_108_4000_2401/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70567a747be171fb7a56169cb76c5cbf"
+    },
+    {
+      "title": "Global Warming Will Weaken Earth’s Strongest Ocean Current",
+      "description": "Fresh water from melting Antarctic ice is projected to weaken the world’s most powerful ocean current by 20 percent in the next quarter century, an in...",
+      "link": "https://insideclimatenews.org/news/03032025/global-warming-will-weaken-antarctic-circumpolar-current/",
+      "pubDate": "Mon, 03 Mar 2025 19:46:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Spain’s rewilding of Iberian lynx at risk after lobbying by hunters and farmers",
       "description": "&lt;p&gt;Regional governments bow to pressure from agricultural industry, often amplified by far-right Vox party&lt;/p&gt;&lt;p&gt;Only last year it w...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b859ae4ff9b42d95d9a9652e5e3a4ac85888c13d/0_374_5651_3393/master/5651.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=128a54088f5de2f9e574eeb5e2941328"
-    },
-    {
-      "title": "Questions and confusion as Trump pauses key funding for shrinking Colorado River",
-      "description": "Halted funding threatens the sustainability of the entire system, experts say....",
-      "link": "https://grist.org/drought/questions-and-confusion-as-trump-pauses-key-funding-for-shrinking-colorado-river/",
-      "pubDate": "Sun, 02 Mar 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/PHOTO1-BRIDGE-min.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "A gorgeous flash of colour in a murky loch: how nudibranchs won my heart",
-      "description": "&lt;p&gt;With a beauty that belies its name, the sea slug is an invertebrate that reminds me of a happy Scottish summer&lt;/p&gt;&lt;p&gt;It has been ...",
-      "link": "https://www.theguardian.com/environment/2025/mar/02/a-gorgeous-flash-of-colour-in-a-murky-loch-how-nudibranchs-won-my-heart",
-      "pubDate": "Sun, 02 Mar 2025 10:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/66068d6b9f8cae8f4b40882a7174b85d4b3bdc2a/0_175_5241_3145/master/5241.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b09c6d1b9f414f85b0e8de9cabd7d1cc"
     }
   ]
 }
