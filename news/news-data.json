@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-03-03T23:22:10.872Z",
+  "lastUpdated": "2025-03-04T01:53:52.178Z",
   "articles": [
+    {
+      "title": "Elon Musk sparks crisis talks at UK's elite Royal Society",
+      "description": "The world's most prestigious science institution has been considering whether to remove Musk as a fellow....",
+      "link": "https://www.bbc.com/news/articles/c3e44ge0xnwo",
+      "pubDate": "Tue, 04 Mar 2025 01:42:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Threatened species: court asked to compel Australian ministers to create recovery plans",
+      "description": "&lt;p&gt;The Wilderness Society launches legal action in hope of helping animals on  brink of extinction&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"http...",
+      "link": "https://www.theguardian.com/law/2025/mar/04/wilderness-society-legal-action-australia-endangered-species",
+      "pubDate": "Tue, 04 Mar 2025 01:11:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e7e214f462ebc08cca344883653595f1b73af254/0_245_2981_1788/master/2981.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79d58e489b5cc4fca15eb3501a4a8c8c"
+    },
+    {
+      "title": "Killer whales amaze Seattle onlookers with rarely seen bird hunt",
+      "description": "&lt;p&gt;Gasps from dockside crowd watching Bigg’s orca pod in event described as ‘once-in-a-lifetime experience’&lt;/p&gt;&lt;p&gt;A pod of orcas swa...",
+      "link": "https://www.theguardian.com/environment/2025/mar/03/seattle-killer-whales-hunt",
+      "pubDate": "Tue, 04 Mar 2025 00:08:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2beee483c66c9e5c7e27e5e2c11bfe6f3d8427b9/0_0_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=492873465b90e7ee0f64e9cec74b413f"
+    },
+    {
+      "title": "Bog standard? Study seeks most effective toilet training methods",
+      "description": "&lt;p&gt;UCL team is inviting parents to share their experiences, as age at which children in west acquire the skill rises&lt;/p&gt;&lt;p&gt;Storybook...",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/mar/04/most-effective-toilet-training-methods-study",
+      "pubDate": "Tue, 04 Mar 2025 00:01:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/06dcf7a0771d51045bda26d3a54844a675fb6573/0_375_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6088c59af0771e04444e66bd04a265c4"
+    },
     {
       "title": "Trump’s Executive Order on Forests ‘A Devastating Blow,’ Activists Say",
       "description": "President Donald Trump's new executive order to increase domestic timber production could have a disastrous impact on climate change, endangered speci...",
@@ -45,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/aa936b4fd22c8de29e11ff20820006ef90c5abc2/0_142_4252_2552/master/4252.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c46d889b31bf24b25d61486d6e6e6da"
-    },
-    {
-      "title": "Weather tracker: Polar vortex collapse could chill North America and Eurasia",
-      "description": "&lt;p&gt;Sudden stratospheric warming event expected to develop in next two weeks and will probably weaken the jet stream&lt;/p&gt;&lt;p&gt;A sudden s...",
-      "link": "https://www.theguardian.com/environment/2025/mar/03/weather-tracker-polar-vortex-collapse-chill-north-america-eurasia",
-      "pubDate": "Mon, 03 Mar 2025 11:35:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6bdf31ef7e319390c7df6935b43c51fbb047abe0/0_553_4160_2496/master/4160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2760e8ce5772e551f6373513276b5cce"
     },
     {
       "title": "El Paso Is Going to Turn Wastewater Into Drinking Water. Other Cities Will Soon Follow",
@@ -110,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Earth’s strongest ocean current could slow down by 20% by 2050 in a high emissions future",
-      "description": "&lt;p&gt;Melting Antarctic ice is releasing cold, fresh water into the ocean, which is projected to cause the slowdown&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ge...",
-      "link": "https://www.theguardian.com/environment/2025/mar/03/antarctic-circumpolar-current-slow-down-ice-melting-climate",
-      "pubDate": "Mon, 03 Mar 2025 07:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/294c16cd893248a5d0717a2e730a645183003586/599_0_2385_1433/master/2385.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d1fece18ceccbe7090bb0d913604535"
-    },
-    {
       "title": "Spring is \"fastest-warming\" season in the UK",
       "description": "Data shows that spring has warmed by 1.8C in the UK since 1970 and this warming is having an impact on nature....",
       "link": "https://www.bbc.com/weather/articles/clyzn3qn61no",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Endowment Fund to transform wildlife conservation",
-      "description": "Australian Wildlife Conservancy partners with JANA to establish sustainable funding Australian Wildlife Conservancy (AWC) is celebrating World Wildlif...",
-      "link": "https://econews.com.au/66647/endowment-fund-to-transform-wildlife-conservation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=endowment-fund-to-transform-wildlife-conservation",
-      "pubDate": "Mon, 03 Mar 2025 01:03:17 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/AWC-logo.png"
-    },
-    {
-      "title": "Planes are having their GPS hacked. Could new clocks keep them safe?",
-      "description": "How a new atomic clock might be the way to tackle attacks on plane GPS systems...",
-      "link": "https://www.bbc.com/news/articles/cq6yg204pvmo",
-      "pubDate": "Mon, 03 Mar 2025 00:39:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
