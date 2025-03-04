@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-04T02:58:19.488Z",
+  "lastUpdated": "2025-03-04T03:34:10.777Z",
   "articles": [
+    {
+      "title": "‘I’ve had a gutful’: Jacqui Lambie says salmon industry should get out of Macquarie Harbour",
+      "description": "&lt;p&gt;Tasmanian senator says she is ‘pro-salmon’ but the farms should move on to land or offshore&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://...",
+      "link": "https://www.theguardian.com/australia-news/2025/mar/04/jacqui-lambie-salmon-industry-macquarie-harbour-braddon-election",
+      "pubDate": "Tue, 04 Mar 2025 02:51:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/573e1c7345788e8facf81d6efad58a81bfe5a453/18_100_4829_2897/master/4829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c31ba70617ff6bf9f1a41217ee3fa95"
+    },
+    {
+      "title": "The revellers making Trinidad's carnival more sustainable",
+      "description": "There are efforts under way to recycle and reuse more at what has been dubbed \"the greatest show on Earth\"....",
+      "link": "https://www.bbc.com/news/articles/ckgy421gmy2o",
+      "pubDate": "Tue, 04 Mar 2025 02:28:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'He was born navy blue': Real-life stories behind Toxic Town Netflix series",
       "description": "The drama tells the story of how families fought for justice over their children's birth defects....",
@@ -38,6 +56,15 @@
       "image": "https://i.guim.co.uk/img/media/2beee483c66c9e5c7e27e5e2c11bfe6f3d8427b9/0_0_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=492873465b90e7ee0f64e9cec74b413f"
     },
     {
+      "title": "Why detecting methane is difficult but crucial work",
+      "description": "From handheld to space-based, new methane detectors are making it easier to track the greenhouse gas....",
+      "link": "https://www.bbc.com/news/articles/cx2w51kg8ldo",
+      "pubDate": "Tue, 04 Mar 2025 00:01:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Bog standard? Study seeks most effective toilet training methods",
       "description": "&lt;p&gt;UCL team is inviting parents to share their experiences, as age at which children in west acquire the skill rises&lt;/p&gt;&lt;p&gt;Storybook...",
       "link": "https://www.theguardian.com/lifeandstyle/2025/mar/04/most-effective-toilet-training-methods-study",
@@ -72,15 +99,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Spain’s rewilding of Iberian lynx at risk after lobbying by hunters and farmers",
-      "description": "&lt;p&gt;Regional governments bow to pressure from agricultural industry, often amplified by far-right Vox party&lt;/p&gt;&lt;p&gt;Only last year it w...",
-      "link": "https://www.theguardian.com/world/2025/mar/03/spain-iberian-lynx-rewilding-lobbying-hunters-farmers",
-      "pubDate": "Mon, 03 Mar 2025 17:39:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/18b137fe4eb3c4db8a407e105c353617fbaa4745/0_504_4493_2696/master/4493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e8803eb14edbef8e61fa7c2cf40fc42"
     },
     {
       "title": "Trump purge raises extinction threat for endangered species, fired workers warn",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Deakin’s Seaweed Specialist team leading global conservation efforts",
-      "description": "As SeaWeek 2025 gets underway, Deakin University’s Seaweed Specialist team is at the forefront of global efforts to conserve vital seaweed species, wi...",
-      "link": "https://econews.com.au/66653/deakins-seaweed-specialist-team-leading-global-conservation-efforts/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=deakins-seaweed-specialist-team-leading-global-conservation-efforts",
-      "pubDate": "Mon, 03 Mar 2025 01:03:20 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Fowles Wine ‘batty’ biodiversity research project proves a lifeline for critically endangered critters",
-      "description": "Victorian winery reveals first-year findings of global viticulture game-changer project.  Victorian winery and sustainability champion Fowles Wine sha...",
-      "link": "https://econews.com.au/66651/fowles-wine-batty-biodiversity-research-project-proves-a-lifeline-for-critically-endangered-critters/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fowles-wine-batty-biodiversity-research-project-proves-a-lifeline-for-critically-endangered-critters",
-      "pubDate": "Mon, 03 Mar 2025 01:03:19 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Fowles-Wine-logo.jpg"
     }
   ]
 }
