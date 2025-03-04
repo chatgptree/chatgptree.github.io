@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-04T11:19:26.899Z",
+  "lastUpdated": "2025-03-04T12:48:30.854Z",
   "articles": [
+    {
+      "title": "Federal layoffs hit the deep-red, rural US west: ‘Our public lands are under threat’",
+      "description": "&lt;p&gt;As layoffs under Trump bleed out, workers in the Mountain West fear devastating consequences for their communities&lt;/p&gt;&lt;p&gt;Republic...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/04/trump-doge-federal-layoffs-national-parks",
+      "pubDate": "Tue, 04 Mar 2025 12:00:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9a81f8f04cdd8dc43d5727b6f52a8285dc5c4135/0_0_6720_4031/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=304e4c4d8a6088aee5290263704f4ed8"
+    },
     {
       "title": "World's largest iceberg runs aground off remote island",
       "description": "The iceberg appears to be stuck and may start breaking up near the island of South Georgia....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump orders swathes of US forests to be cut down for timber",
-      "description": "&lt;p&gt;President’s move to expand tree cutting across 280m acres evades rules to protect endangered species &lt;/p&gt;&lt;p&gt;Donald Trump has orde...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/03/trump-national-forest-executive-order",
-      "pubDate": "Mon, 03 Mar 2025 20:02:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/17b8ff877b2453efe32159d0f017eedd1277ecd1/0_108_4000_2401/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70567a747be171fb7a56169cb76c5cbf"
     }
   ]
 }
