@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-04T14:23:12.595Z",
+  "lastUpdated": "2025-03-04T15:26:13.387Z",
   "articles": [
+    {
+      "title": "‘Unusually strong’ storms threaten to bring tornadoes and large hail to parts of US",
+      "description": "&lt;p&gt;Powerful thunderstorms will likely sweep through Arkansas, Louisiana, Mississippi and Alabama&lt;/p&gt;&lt;p&gt;Severe thunderstorms are fore...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/04/storm-tornado-midwest-south",
+      "pubDate": "Tue, 04 Mar 2025 15:08:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c807a30c939c83845512d6d4db737ebc81017096/0_194_2198_1319/master/2198.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f2d33242a404a48872d1343590764f4"
+    },
+    {
+      "title": "First Trump threatened to nuke hurricanes. Now he’s waging war on weather forecasters | Arwa Mahdawi",
+      "description": "&lt;p&gt;How do you stop people worrying about the climate emergency? By sacking anyone whose job it is to keep an eye on it. Chalk up another win for...",
+      "link": "https://www.theguardian.com/commentisfree/2025/mar/04/trump-waging-war-weather-forecasters-nuke-hurricanes",
+      "pubDate": "Tue, 04 Mar 2025 14:54:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/84057a02ec0e75d02f076dabe2f2aa5f9bcfc58e/0_0_3500_2101/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=841254d55ded0e5a0f79230e607f2cff"
+    },
     {
       "title": "Invasive Asian hornets ‘preying on’ hundreds of native insect species in Europe",
       "description": "&lt;p&gt;Researchers at University of Exeter warn many of the hunted species are important crop pollinators&lt;/p&gt;&lt;p&gt;Invasive Asian hornets a...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2beee483c66c9e5c7e27e5e2c11bfe6f3d8427b9/0_0_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=492873465b90e7ee0f64e9cec74b413f"
-    },
-    {
-      "title": "Why detecting methane is difficult but crucial work",
-      "description": "From handheld to space-based, new methane detectors are making it easier to track the greenhouse gas....",
-      "link": "https://www.bbc.com/news/articles/cx2w51kg8ldo",
-      "pubDate": "Tue, 04 Mar 2025 00:01:51 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s Executive Order on Forests ‘A Devastating Blow,’ Activists Say",
-      "description": "President Donald Trump's new executive order to increase domestic timber production could have a disastrous impact on climate change, endangered speci...",
-      "link": "https://insideclimatenews.org/news/03032025/trums-forest-timber-production-executive-order/",
-      "pubDate": "Mon, 03 Mar 2025 23:19:18 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
