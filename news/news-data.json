@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-06T14:23:28.905Z",
+  "lastUpdated": "2025-03-06T15:25:52.488Z",
   "articles": [
+    {
+      "title": "BP cuts boss’s pay by 30% after company misses profit targets",
+      "description": "&lt;p&gt;Murray Auchincloss paid £5.4m in 2024 as oil company ditched green investment strategy and came under investor pressure&lt;/p&gt;&lt;p&gt;BP ...",
+      "link": "https://www.theguardian.com/business/2025/mar/06/bp-cuts-bosss-pay-by-30-after-company-misses-profit-targets",
+      "pubDate": "Thu, 06 Mar 2025 15:06:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/715fd7e34ba2ea8d2706574e889b868f91fb8e10/0_218_5500_3301/master/5500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ce726ae362e55d41b07de034be97b57"
+    },
+    {
+      "title": "Spaceraft carrying hopping robot to attempt Moon landing",
+      "description": "The spacecraft is carrying instruments to look for ice as part of Nasa's vision to return humans to the Moon....",
+      "link": "https://www.bbc.com/news/articles/c871eeez0yzo",
+      "pubDate": "Thu, 06 Mar 2025 15:00:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘You just hope for the best’: rarely seen froglets – the length of a grain of rice – released into small patch of Victorian wilds",
       "description": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;More than 3,000 critically endangered Baw Baw frogs set free in a high-altitude forest to bolster dwi...",
@@ -27,15 +45,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Slavish’ catch limits ignored scientific advice, say conservationists in case against Defra",
-      "description": "&lt;p&gt;Blue Marine Foundation charity asks high court to declare quota decision unlawful amid concern over sustainability of fish stocks&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/environment/2025/mar/06/catch-limits-defra-fishers-blue-marine-foundation-high-court",
-      "pubDate": "Thu, 06 Mar 2025 12:02:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c97f09a9be8b9d1410c8b635ebfad45565ab0b56/0_0_6596_3957/master/6596.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4504b31889f8f0ed6f7f4d07778cf2ef"
     },
     {
       "title": "Why fear of billion-dollar lawsuits stops countries phasing out fossil fuels",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/52db1b3ba271222d7dd04a040d36abb5ff708abc/30_0_900_540/master/900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26fad7d42a19465440cc4e6a50ea33ac"
-    },
-    {
-      "title": "Companies Tell Congressional Committee That Renewable Energy Is Needed to Keep Up With Demand",
-      "description": "The United States is in the midst of a surge in energy demand, largely driven by the rise of artificial intelligence and the power-hungry data centers...",
-      "link": "https://insideclimatenews.org/news/05032025/renewable-energy-needed-to-keep-up-with-grid-demand/",
-      "pubDate": "Wed, 05 Mar 2025 23:54:45 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
