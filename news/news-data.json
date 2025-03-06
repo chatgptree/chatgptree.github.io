@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-06T18:32:46.317Z",
+  "lastUpdated": "2025-03-06T19:18:39.251Z",
   "articles": [
+    {
+      "title": "US lost a fifth of its butterflies within two decades",
+      "description": "However the researchers say butterflies may be able to recover if urgent conservation measures are taken....",
+      "link": "https://www.bbc.com/news/articles/cwyjkn729gpo",
+      "pubDate": "Thu, 06 Mar 2025 19:06:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Genetic drive to overeat found in labradors and humans",
+      "description": "Scientists have found a genetic cause of many labradors' - and some people's - tendency to overeat....",
+      "link": "https://www.bbc.com/news/articles/cy05qw217x9o",
+      "pubDate": "Thu, 06 Mar 2025 19:02:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Butterfly population in US shrinking by 22% over last 20 years, study shows",
+      "description": "&lt;p&gt;Drop in line with rate of overall insect loss as scientists point to habitat loss, pesticide use and the climate crisis&lt;/p&gt;&lt;p&gt;But...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/06/declining-butterfly-populations",
+      "pubDate": "Thu, 06 Mar 2025 19:00:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/47fb5f46476e51e1ca4f91e880af485ced840c86/0_422_4000_2399/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=201e5e5bf71e536842d72059c5a83b55"
+    },
     {
       "title": "Scientists Are Rising Up to Resist Trump Policies",
       "description": "Thousands of scientists from scores of countries around the world are joining together in solidarity to oppose attempts by the Trump administration to...",
@@ -56,8 +83,8 @@
       "image": "https://i.guim.co.uk/img/media/953bef817aef27967b8e5508f2294685d8ee5629/0_337_5058_3036/master/5058.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=76feb10de98e08c0a3621700a400e185"
     },
     {
-      "title": "Spacecraft carrying hopping robot lands on Moon",
-      "description": "The spacecraft is carrying instruments to look for ice as part of Nasa's vision to return humans to the Moon....",
+      "title": "Spacecraft lands on Moon but 'orientation' unclear",
+      "description": "But Intuitive Machines said it had yet to confirm the \"orientation\" and condition of the spacecraft....",
       "link": "https://www.bbc.com/news/articles/c871eeez0yzo",
       "pubDate": "Thu, 06 Mar 2025 15:00:49 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f1f716571fc032c634df9f79a6d02114ff71351e/0_232_3543_2125/master/3543.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=622628f90d7b6207073ac7d1e484ec7f"
-    },
-    {
-      "title": "The pot is already boiling for 2% of the world’s amphibians: new study",
-      "description": "UNSW Sydney Amphibians are increasingly vulnerable to global warming, according to new research. Scientists will be able to better identify what amphi...",
-      "link": "https://econews.com.au/66689/the-pot-is-already-boiling-for-2-of-the-worlds-amphibians-new-study/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-pot-is-already-boiling-for-2-of-the-worlds-amphibians-new-study",
-      "pubDate": "Thu, 06 Mar 2025 04:03:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/UNSW-logo.png"
-    },
-    {
-      "title": "Howzat! Cricket Club Bowled Over by Tindo Support",
-      "description": "Tindo, Australia’s only solar panel manufacturer, is helping regional sport and a fixture of the Australian Summer slash its power bills while hitting...",
-      "link": "https://econews.com.au/66687/howzat-cricket-club-bowled-over-by-tindo-support/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=howzat-cricket-club-bowled-over-by-tindo-support",
-      "pubDate": "Thu, 06 Mar 2025 04:03:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Helsinki Achieves Green Destinations Certificate Meeting the World’s Strictest Criteria",
-      "description": "Image source: City of Helsinki, Photographer: Jussi Hellsten On Tuesday, 4 March, Helsinki was granted the Green Destinations GSTC certificate, which ...",
-      "link": "https://econews.com.au/66685/helsinki-achieves-green-destinations-certificate-meeting-the-worlds-strictest-criteria/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=helsinki-achieves-green-destinations-certificate-meeting-the-worlds-strictest-criteria",
-      "pubDate": "Thu, 06 Mar 2025 04:03:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Helsinki-logo.jpg"
     }
   ]
 }
