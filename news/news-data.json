@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-03-06T16:30:18.608Z",
+  "lastUpdated": "2025-03-06T17:21:48.564Z",
   "articles": [
     {
+      "title": "BBC Inside Science",
+      "description": "Inside Science unearths everything you need to know about these precious resources....",
+      "link": "https://www.bbc.co.uk/sounds/play/m0028jvw",
+      "pubDate": "Thu, 06 Mar 2025 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "BP cuts boss’s pay by 30% after company misses profit targets",
-      "description": "&lt;p&gt;Murray Auchincloss paid £5.4m in 2024 as oil company ditched green investment strategy and came under investor pressure&lt;/p&gt;&lt;p&gt;BP ...",
+      "description": "&lt;p&gt;Murray Auchincloss paid £5.4m in 2024 as oil company ditched green investment strategy&lt;/p&gt;&lt;p&gt;BP cut the pay of its chief executiv...",
       "link": "https://www.theguardian.com/business/2025/mar/06/bp-cuts-bosss-pay-by-30-after-company-misses-profit-targets",
       "pubDate": "Thu, 06 Mar 2025 16:14:20 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/La-Trobe-logo.png"
-    },
-    {
-      "title": "National survey launched to tackle Varroa mite threat to honey bees",
-      "description": "Credit: Megan Rutherford Photography Australia’s beekeepers are being urged to complete the Australian Colony Loss Survey as part of a national effort...",
-      "link": "https://econews.com.au/66679/national-survey-launched-to-tackle-varroa-mite-threat-to-honey-bees/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=national-survey-launched-to-tackle-varroa-mite-threat-to-honey-bees",
-      "pubDate": "Thu, 06 Mar 2025 02:03:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
