@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-06T17:21:48.564Z",
+  "lastUpdated": "2025-03-06T18:32:46.317Z",
   "articles": [
+    {
+      "title": "Scientists Are Rising Up to Resist Trump Policies",
+      "description": "Thousands of scientists from scores of countries around the world are joining together in solidarity to oppose attempts by the Trump administration to...",
+      "link": "https://insideclimatenews.org/news/06032025/stand-up-for-science-marches-resist-trump-policies/",
+      "pubDate": "Thu, 06 Mar 2025 18:27:40 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "This food researcher is on a mission to make fake meat taste better. Will she succeed?",
+      "description": "&lt;p&gt;Caroline Cotto’s research group taste-tests meat alternatives so plant-based companies can attract new customers – and help the climate&lt;/p...",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2025/mar/06/plant-based-meat-taste-testing",
+      "pubDate": "Thu, 06 Mar 2025 18:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d3a240ee50f29e79d5c6bf071d6039c5371cd56e/0_448_1200_720/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86e86195f6ce8f28102ad9d0be39057f"
+    },
     {
       "title": "BBC Inside Science",
       "description": "Inside Science unearths everything you need to know about these precious resources....",
@@ -38,7 +56,7 @@
       "image": "https://i.guim.co.uk/img/media/953bef817aef27967b8e5508f2294685d8ee5629/0_337_5058_3036/master/5058.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=76feb10de98e08c0a3621700a400e185"
     },
     {
-      "title": "Spacecraft carrying hopping robot to attempt Moon landing",
+      "title": "Spacecraft carrying hopping robot lands on Moon",
       "description": "The spacecraft is carrying instruments to look for ice as part of Nasa's vision to return humans to the Moon....",
       "link": "https://www.bbc.com/news/articles/c871eeez0yzo",
       "pubDate": "Thu, 06 Mar 2025 15:00:49 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Helsinki-logo.jpg"
-    },
-    {
-      "title": "Unlocking financial transparency for responsible business practices",
-      "description": "Public comment underway for GRI Sector Standards for Banking, Capital Markets and Insurance   Recognizing the central role of financial institutions i...",
-      "link": "https://econews.com.au/66683/unlocking-financial-transparency-for-responsible-business-practices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unlocking-financial-transparency-for-responsible-business-practices",
-      "pubDate": "Thu, 06 Mar 2025 04:03:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Iconic Australian bird reveals hidden farming talent",
-      "description": "Lyrebirds have a hidden talent for farming La Trobe University A beloved Australian bird best known for its stunning tail and powers of mimicry may ha...",
-      "link": "https://econews.com.au/66681/iconic-australian-bird-reveals-hidden-farming-talent/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=iconic-australian-bird-reveals-hidden-farming-talent",
-      "pubDate": "Thu, 06 Mar 2025 03:02:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/La-Trobe-logo.png"
     }
   ]
 }
