@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2025-03-06T21:22:31.656Z",
+  "lastUpdated": "2025-03-06T22:23:08.592Z",
   "articles": [
     {
       "title": "Tropical Cyclone Alfred live updates: wind and rain intensify as category 2 storm nears south-east Queensland and northern NSW",
       "description": "&lt;p&gt;&lt;a href=\"http://www.bom.gov.au/products/IDQ65002.shtml\"&gt;BoM path track map&lt;/a&gt; predicts TC Alfred will cross coast on Saturday ne...",
       "link": "https://www.theguardian.com/australia-news/live/2025/mar/07/tropical-cyclone-alfred-live-updates-wind-rain-category-2-storm-south-east-queensland-northern-nsw",
-      "pubDate": "Thu, 06 Mar 2025 21:13:25 GMT",
+      "pubDate": "Thu, 06 Mar 2025 22:13:18 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d12578afe42654b74027d96d70b4bf6ac91844cd/0_156_4677_2806/master/4677.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9a54fc69c7d7bac6c5df74caa77a48d"
+    },
+    {
+      "title": "Federal Judge Blocks Trump Administration’s Funding Freeze for Climate Work. Will the White House Comply?",
+      "description": "A federal judge Thursday blocked the Trump administration’s freezing of congressionally approved federal funding, which has affected a variety of serv...",
+      "link": "https://insideclimatenews.org/news/06032025/judge-blocks-trump-inflation-reduction-act-funding-freeze/",
+      "pubDate": "Thu, 06 Mar 2025 22:02:15 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Private spacecraft lands on moon - but may be on its side",
+      "description": "Private company Intuitive Machines IS aiming to look for water ice on the Moon's surface. ...",
+      "link": "https://www.bbc.com/news/articles/c871eeez0yzo",
+      "pubDate": "Thu, 06 Mar 2025 21:54:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "US lost a fifth of its butterflies within two decades",
@@ -92,15 +110,6 @@
       "image": "https://i.guim.co.uk/img/media/953bef817aef27967b8e5508f2294685d8ee5629/0_337_5058_3036/master/5058.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=76feb10de98e08c0a3621700a400e185"
     },
     {
-      "title": "Spacecraft lands on Moon but 'orientation' unclear",
-      "description": "But Intuitive Machines said it had yet to confirm the \"orientation\" and condition of the spacecraft....",
-      "link": "https://www.bbc.com/news/articles/c871eeez0yzo",
-      "pubDate": "Thu, 06 Mar 2025 15:00:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "‘You just hope for the best’: rarely seen froglets – the length of a grain of rice – released into small patch of Victorian wilds",
       "description": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;More than 3,000 critically endangered Baw Baw frogs set free in a high-altitude forest to bolster dwi...",
       "link": "https://www.theguardian.com/environment/2025/mar/07/endangered-baw-baw-frogs-set-free-victoria",
@@ -171,15 +180,6 @@
       "sourceName": "acf.org.au",
       "author": "Australian Conservation Foundation",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘The entire coastline will be cemented over’: the tiny Italian town set to become a dock for giant cruise ships",
-      "description": "&lt;p&gt;Only 20 miles from Italy’s capital, Isola Sacra was ignored for years but now  Royal Caribbean has plans to turn it into a major new port&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/mar/06/italy-fiumicino-cruise-ship-port-bilancioni-conservation-royal-caribbean",
-      "pubDate": "Thu, 06 Mar 2025 05:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f1f716571fc032c634df9f79a6d02114ff71351e/0_232_3543_2125/master/3543.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=622628f90d7b6207073ac7d1e484ec7f"
     }
   ]
 }
