@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2025-03-06T04:29:14.580Z",
+  "lastUpdated": "2025-03-06T05:23:47.679Z",
   "articles": [
     {
       "title": "Tropical Cyclone Alfred live updates: BoM tracking map forecast shows category 2 storm hitting Brisbane and south-east Qld; landfall in Queensland and NSW delayed as storm slows – latest news",
-      "description": "&lt;p&gt;&lt;a href=\"http://www.bom.gov.au/products/IDQ65002.shtml\"&gt;BoM path track map&lt;/a&gt; predicts TC Alfred will cross coast on Friday near...",
+      "description": "&lt;p&gt;&lt;a href=\"http://www.bom.gov.au/products/IDQ65002.shtml\"&gt;BoM path track map&lt;/a&gt; predicts TC Alfred will cross coast on Saturday ne...",
       "link": "https://www.theguardian.com/australia-news/live/2025/mar/06/tropical-cylone-alfred-live-update-brisbane-queensland-nsw-suburbs-weather-bom-forecast-path-track-map-school-closures",
-      "pubDate": "Thu, 06 Mar 2025 04:22:06 GMT",
+      "pubDate": "Thu, 06 Mar 2025 05:08:58 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4f153502d44765bff8ae8db194ad197f5393bc82/106_0_5282_3172/master/5282.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55e0851764e21a24ac200e28a99da246"
+    },
+    {
+      "title": "How to spot [fake news and disinformation]",
+      "description": "&lt;p&gt;With our social media feeds saturated by fake news and AI becoming more sophisticated by the day, it’s getting harder to to spot disinformati...",
+      "link": "http://www.acf.org.au/how-to-spot-fake-news-and-disinformation",
+      "pubDate": "Thu, 06 Mar 2025 16:07:47 +1100",
+      "sourceName": "acf.org.au",
+      "author": "Australian Conservation Foundation",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘The entire coastline will be cemented over’: the tiny Italian town set to become a dock for giant cruise ships",
+      "description": "&lt;p&gt;Only 20 miles from Italy’s capital, Isola Sacra was ignored for years but now  Royal Caribbean has plans to turn it into a major new port&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/mar/06/italy-fiumicino-cruise-ship-port-bilancioni-conservation-royal-caribbean",
+      "pubDate": "Thu, 06 Mar 2025 05:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f1f716571fc032c634df9f79a6d02114ff71351e/0_232_3543_2125/master/3543.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=622628f90d7b6207073ac7d1e484ec7f"
     },
     {
       "title": "The pot is already boiling for 2% of the world’s amphibians: new study",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2ad3f9df6a277ab6831dfbceeeaff442bb5da92e/0_39_6029_3620/master/6029.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3dc4adf3d725b017ef7cffc0c3459d41"
-    },
-    {
-      "title": "Supreme Court Takes Up Nuclear Waste in Texas",
-      "description": "The U.S. Supreme Court on Wednesday will hear arguments in a case that could pave the way for Texas to host the nation’s first independent disposal gr...",
-      "link": "https://insideclimatenews.org/news/05032025/supreme-court-texas-nuclear-waste/",
-      "pubDate": "Wed, 05 Mar 2025 10:10:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Does a Hudson Valley Village Have a Plan to Tame or Encourage Tourism in Its Parks? It Depends on Who You Ask",
-      "description": "COLD SPRING, N.Y.—Lori Moss led the way to the overlook, an elevated spot at the beginning of a steep hiking trail aptly named Breakneck Ridge. The ma...",
-      "link": "https://insideclimatenews.org/news/05032025/cold-spring-new-york-proposed-park-tourism/",
-      "pubDate": "Wed, 05 Mar 2025 10:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
