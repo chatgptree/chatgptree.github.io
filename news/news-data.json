@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-03-07T08:30:24.300Z",
+  "lastUpdated": "2025-03-07T09:25:01.318Z",
   "articles": [
+    {
+      "title": "Biden had a plan to keep America&#8217;s EV chargers in good working order. Trump pulled the plug.",
+      "description": "For Americans to adopt electric cars, many experts believe that charging a battery needs to be as convenient as filling a gas tank....",
+      "link": "https://grist.org/transportation/broken-ev-charger-electric-vehicles-nevi-repair-biden-trump/",
+      "pubDate": "Fri, 07 Mar 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/vandalized-cut-ev-charging-cable.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Cyclone Alfred live updates: Brisbane city CBD deserted; power outages across Gold Coast; BoM tracking map and weather forecast shows flood risk for Queensland and northern NSW  – latest news",
       "description": "&lt;p&gt;&lt;a href=\"http://www.bom.gov.au/products/IDQ65002.shtml\"&gt;BoM path track map&lt;/a&gt; predicts cyclone off Australia’s coast to make lan...",
       "link": "https://www.theguardian.com/australia-news/live/2025/mar/07/tropical-cyclone-alfred-live-updates-wind-rain-category-2-storm-south-east-queensland-northern-nsw",
-      "pubDate": "Fri, 07 Mar 2025 08:20:07 GMT",
+      "pubDate": "Fri, 07 Mar 2025 09:08:35 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/4b4931a719dcb5c95f3676f2f76f5ad0d3ded1bb/0_307_2048_1229/master/2048.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d5a481b269f5b997b5a5a9af2554943"
+      "image": "https://i.guim.co.uk/img/media/334da7f8395976b47ebdca4f73d7cb75979f6acc/0_16_5935_3561/master/5935.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cb497d7e58e85f30eeff6f12ded9512"
     },
     {
       "title": "Week in wildlife: a curious monkey, a Dorset beaver and a football rat",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/953bef817aef27967b8e5508f2294685d8ee5629/0_337_5058_3036/master/5058.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=76feb10de98e08c0a3621700a400e185"
-    },
-    {
-      "title": "Texas Leads U.S. Renewable Energy Generation by a Country Mile",
-      "description": "Texas widened its lead as the country’s renewable energy leader in 2024, with growth in solar and wind power, according to federal data. Solar and win...",
-      "link": "https://insideclimatenews.org/news/06032025/inside-clean-energy-texas-leads-renewable-generation/",
-      "pubDate": "Thu, 06 Mar 2025 14:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
