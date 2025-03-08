@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2025-03-08T09:18:56.651Z",
+  "lastUpdated": "2025-03-08T10:19:54.720Z",
   "articles": [
     {
       "title": "Ex-Cyclone Alfred live updates: cyclone downgraded to tropical low; BoM path tracking map for Brisbane, Queensland and NSW; hundreds of thousands without power; weather forecast and flooding – latest news",
-      "description": "&lt;p&gt;&lt;a href=\"http://www.bom.gov.au/products/IDQ65002.shtml\"&gt;BoM path tracker&lt;/a&gt; shows ex-Tropical Cyclone Alfred sitting off Bribie ...",
+      "description": "&lt;p&gt;&lt;a href=\"http://www.bom.gov.au/products/IDQ65231.shtml\"&gt;BoM path tracker&lt;/a&gt; shows ex-Tropical Cyclone Alfred sitting off Bribie ...",
       "link": "https://www.theguardian.com/australia-news/live/2025/mar/07/tropical-cyclone-alfred-live-updates-wind-rain-category-2-storm-south-east-queensland-northern-nsw",
-      "pubDate": "Sat, 08 Mar 2025 09:01:20 GMT",
+      "pubDate": "Sat, 08 Mar 2025 10:03:41 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c62fc5473a5fe052efd41ca7bf59c3400e1f7a7a/0_0_2499_1500/master/2499.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7fa65ab65f27ffe7d0e695f9176069a"
+    },
+    {
+      "title": "Trump&#8217;s Tariffs and New State Regulation Could Increase Power Costs in Texas",
+      "description": "The low costs of developing renewable energy infrastructure have allowed Texas to lead the nation in its deployment of clean energy. But soon the cost...",
+      "link": "https://insideclimatenews.org/news/08032025/trump-tariffs-new-texas-regulation-could-increase-power-costs/",
+      "pubDate": "Sat, 08 Mar 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How New York’s $75 Billion Climate Superfund Will Work",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Aynsley O’Neill with Anne Rabe, the former...",
+      "link": "https://insideclimatenews.org/news/08032025/how-new-york-climate-superfund-will-work/",
+      "pubDate": "Sat, 08 Mar 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Data, waves and wind to be counted in the economy",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c8f47bc708ffda3d906ad844c1c51aad1b6aca73/0_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d685dfaab3ad6ae219e4bb582253cd87"
-    },
-    {
-      "title": "Nuclear’s Resurgence: Differing Drivers &#038; Challenges",
-      "description": "Source: Emmanuel Dubois-Pelerin, EMEA Utilities Managing Director, S&#38;P Global Ratings Emmanuel Dubois-Pelerin, EMEA Utilities Managing Director, S...",
-      "link": "https://econews.com.au/66695/nuclears-resurgence-differing-drivers-challenges/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nuclears-resurgence-differing-drivers-challenges",
-      "pubDate": "Fri, 07 Mar 2025 02:02:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Leading Scientists Alarmed by Growing Chasm between Evidence and Political Action on Climate Change",
-      "description": "The latest EASAC report examines the evidence of worsening 5-year trends, the inadequate responses, and the urgent need for bold policy action globall...",
-      "link": "https://econews.com.au/66693/leading-scientists-alarmed-by-growing-chasm-between-evidence-and-political-action-on-climate-change/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=leading-scientists-alarmed-by-growing-chasm-between-evidence-and-political-action-on-climate-change",
-      "pubDate": "Fri, 07 Mar 2025 02:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
