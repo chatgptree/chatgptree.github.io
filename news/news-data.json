@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-03-09T08:23:55.572Z",
+  "lastUpdated": "2025-03-09T09:19:06.084Z",
   "articles": [
     {
-      "title": "Almost 290,000 properties without power as ex-Tropical Cyclone Alfred brings dangerous rain and winds",
-      "description": "&lt;p&gt;South-east Queensland and northern NSW struggle to recover as more rain and flash flooding hits Brisbane   &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
+      "title": "Feeding Cows Seaweed Could Cut Methane Emissions and Diversify Maine’s Coastal Economy, but Can It Scale?",
+      "description": "FREEPORT, Maine—In the cold dark of 5 a.m., Kyle Moellar, an apprentice at Wolfe’s Neck Center for Agriculture and the Environment, ushers a herd of c...",
+      "link": "https://insideclimatenews.org/news/09032025/feeding-cows-seaweed-methane-emissions-maine/",
+      "pubDate": "Sun, 09 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Almost 290,000 properties without power as ex-Tropical Cyclone Alfred brings dangerous rain",
+      "description": "&lt;p&gt;South-east Queensland and northern NSW struggle to recover amid heavy downpours and flash flooding&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get our &lt;a...",
       "link": "https://www.theguardian.com/australia-news/2025/mar/09/more-than-330000-buildings-without-power-as-ex-tropical-cyclone-alfred-brings-dangerous-rain-and-winds",
       "pubDate": "Sun, 09 Mar 2025 07:44:01 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Oil companies are dropping renewable goals — and more importantly, expanding fossil fuels",
-      "description": "And that could drive an emissions spike....",
-      "link": "https://grist.org/energy/oil-companies-are-dropping-renewable-goals-and-more-importantly-expanding-fossil-fuels/",
-      "pubDate": "Fri, 07 Mar 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2023/07/0724_Greenhushing.jpg?quality=75&#038;strip=all"
     }
   ]
 }
