@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-10T11:18:00.334Z",
+  "lastUpdated": "2025-03-10T12:49:40.775Z",
   "articles": [
     {
       "title": "Immigration’s a hot topic – and it applies to non-native plants, animals and insects, all over the world  | Tim Blackburn",
@@ -9,6 +9,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b1dc0f42cd53a1a1d8b3141ce949f4f79553e719/0_342_8473_5083/master/8473.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9708e237f53c3f306601826b559aa6e3"
+    },
+    {
+      "title": "Weatherwatch: Year’s worth of rain falls in Argentinian city in eight hours",
+      "description": "&lt;p&gt;Rainfall in Bahía Blanca led to 10 deaths, swept away vehicles, destroyed bridges and left areas underwater&lt;/p&gt;&lt;p&gt;The city of Bah...",
+      "link": "https://www.theguardian.com/news/2025/mar/10/years-worth-of-rain-falls-in-argentinian-city-in-eight-hours-bahia-blanca",
+      "pubDate": "Mon, 10 Mar 2025 10:48:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b07f9a044ce355e1a09aaff5e2c36a301b1a09ef/0_143_5417_3249/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd6870535d362f55d99cdba9616c891d"
     },
     {
       "title": "We’re facing a ‘forever chemicals’ crisis. We must stop Pfas at the source",
@@ -42,6 +51,15 @@
       "description": "For more than a decade, Matthew Tejada was at the forefront of the U.S. Environmental Protection Agency’s environmental justice efforts.&#160; Origina...",
       "link": "https://insideclimatenews.org/news/10032025/rollbacks-gut-environmental-justice-gains/",
       "pubDate": "Mon, 10 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hazel Johnson Launched an Environmental Movement in Chicago That Trump Is Trying to End",
+      "description": "Hazel Johnson was jolted by deaths of those she knew and loved throughout her life. Her mom died of tuberculosis when she was 12, her little brother d...",
+      "link": "https://insideclimatenews.org/news/10032025/hazel-johnson-chicago-environmental-movement-trump-trying-to-end/",
+      "pubDate": "Mon, 10 Mar 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
@@ -137,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "UK government vows to clean up Windermere after sewage criticism",
-      "description": "&lt;p&gt;Environment secretary points to measures to stop lake being ‘choked by unacceptable levels’ of pollution&lt;/p&gt;&lt;p&gt;The government has...",
-      "link": "https://www.theguardian.com/environment/2025/mar/09/uk-government-vows-to-clean-up-windermere-after-sewage-criticism",
-      "pubDate": "Sun, 09 Mar 2025 22:30:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f52db7feab10dfe214bf16ba29b1706ee25663b1/0_0_4032_2419/master/4032.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02aa27a2f47f681c580bd24848a1e87b"
-    },
-    {
       "title": "‘We’re losing our environmental history’: The future of government information under Trump",
       "description": "The administration’s wrecking-ball approach has raised profound questions about the integrity and future of vast amounts of information....",
       "link": "https://grist.org/politics/were-losing-our-environmental-history-the-future-of-government-information-under-trump/",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Water, water everywhere: the aftermath of Tropical Cyclone Alfred – in pictures",
-      "description": "&lt;p&gt;Millions of people in northern NSW and south-east Queensland are bunkering down for dangerous conditions including flash flooding, heavy rain...",
-      "link": "https://www.theguardian.com/australia-news/gallery/2025/mar/09/water-water-everywhere-the-aftermath-of-tropical-cyclone-alfred-in-pictures",
-      "pubDate": "Sun, 09 Mar 2025 06:24:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/04c54bb116a1fd3a372dab4dc781d8c69c7e428a/0_0_5571_3344/master/5571.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be881fcca992eda141ae112cdab2bdd7"
     }
   ]
 }
