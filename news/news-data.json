@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-10T12:49:40.775Z",
+  "lastUpdated": "2025-03-10T13:32:19.150Z",
   "articles": [
+    {
+      "title": "Households near new pylons to get hundreds off energy bills",
+      "description": "The government says it could help reduce opposition to new projects needed to deliver more clean energy. ...",
+      "link": "https://www.bbc.com/news/articles/clyd49dxyxxo",
+      "pubDate": "Mon, 10 Mar 2025 12:57:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Immigration’s a hot topic – and it applies to non-native plants, animals and insects, all over the world  | Tim Blackburn",
       "description": "&lt;p&gt;Biodiversity is great in theory, but there are reasons to fend off invasive alien species and the knock-on effect of their presence&lt;/p&gt;...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c02e97642f7ee8d9e1ad9fcb83fd59d326470172/0_83_3000_1801/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4af53fa3c84abd5c386e067c79b2d6ad"
-    },
-    {
-      "title": "Feeding Cows Seaweed Could Cut Methane Emissions and Diversify Maine’s Coastal Economy, but Can It Scale?",
-      "description": "FREEPORT, Maine—In the cold dark of 5 a.m., Kyle Moellar, an apprentice at Wolfe’s Neck Center for Agriculture and the Environment, ushers a herd of c...",
-      "link": "https://insideclimatenews.org/news/09032025/feeding-cows-seaweed-methane-emissions-maine/",
-      "pubDate": "Sun, 09 Mar 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
