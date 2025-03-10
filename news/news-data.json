@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-10T09:21:45.084Z",
+  "lastUpdated": "2025-03-10T10:23:04.640Z",
   "articles": [
+    {
+      "title": "We’re facing a ‘forever chemicals’ crisis. We must stop Pfas at the source",
+      "description": "&lt;p&gt;Pfas are poisoning our soil and polluting our lungs. The EPA is finally sounding the alarm – but that’s not enough&lt;/p&gt;&lt;p&gt;Several ...",
+      "link": "https://www.theguardian.com/commentisfree/2025/mar/10/forever-chemicals-pfas-mark-ruffalo",
+      "pubDate": "Mon, 10 Mar 2025 10:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b873031a32410c2f038bc93b7f0588078c2b5d6d/0_253_3844_2305/master/3844.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05cc30f9aab103e46fcda8d9f75d4797"
+    },
+    {
+      "title": "A cacti-smuggling case with a prickly end: the novel way courts are making poachers pay",
+      "description": "&lt;p&gt;Two Italian cacti smugglers have been fined for illegally trading plants from Chile – and for the cost of restoring the environment. Conserva...",
+      "link": "https://www.theguardian.com/environment/2025/mar/10/cacti-smuggling-case-with-prickly-end-novel-way-legal-teams-are-making-poachers-pay-aoe",
+      "pubDate": "Mon, 10 Mar 2025 10:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1e9c2abd6b5955c6c6c08d35e6311ee9d59d6131/0_400_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cca5ce62f4f73bfe4e49eaaccf64dfcb"
+    },
     {
       "title": "In Florida, State Rules Concentrate Toxic Smoke in These Underserved Communities",
       "description": "BELLE GLADE, Fla.—Of all the cane sugar produced in the United States, half of it originates in a remote area of Florida’s heartland, where from fall ...",
@@ -21,7 +39,7 @@
     },
     {
       "title": "Efforts were underway to prevent CO2 pipeline leaks. The Trump administration quietly derailed them.",
-      "description": "This coverage is made possible through a partnership between Grist and Verite News, a nonprofit news organization with a mission to produce in-depth j...",
+      "description": "The proposed safety rules would have been the first....",
       "link": "https://grist.org/regulation/efforts-were-underway-to-prevent-co2-pipeline-leaks-the-trump-administration-quietly-derailed-them/",
       "pubDate": "Mon, 10 Mar 2025 08:45:00 +0000",
       "sourceName": "grist.org",
@@ -30,7 +48,7 @@
     },
     {
       "title": "In Canada, Indigenous advocates argue mining companies violate the rights of nature",
-      "description": "In Western legal systems, arguments against pollution or the destruction of the environment tend to focus exclusively on people: It’s wrong to contami...",
+      "description": "Tribunal judges found the industry guilty of “ongoing ecocide.”...",
       "link": "https://grist.org/equity/in-canada-indigenous-advocates-argue-mining-companies-violate-the-rights-of-nature/",
       "pubDate": "Mon, 10 Mar 2025 08:30:00 +0000",
       "sourceName": "grist.org",
@@ -120,7 +138,7 @@
     },
     {
       "title": "‘We’re losing our environmental history’: The future of government information under Trump",
-      "description": "As the director of the National Security Archive’s Climate Change Transparency Project, Rachel Santarsiero is in the business of monitoring and facili...",
+      "description": "The administration’s wrecking-ball approach has raised profound questions about the integrity and future of vast amounts of information....",
       "link": "https://grist.org/politics/were-losing-our-environmental-history-the-future-of-government-information-under-trump/",
       "pubDate": "Sun, 09 Mar 2025 13:00:00 +0000",
       "sourceName": "grist.org",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2613720800d56bedca5b90b24319c4219c9056b7/0_0_4801_2881/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d11ca3d3f7444cc1ac521094c00bcc5"
-    },
-    {
-      "title": "‘It’s all been scrapped’: Bootcamps for women in wildland firefighting canceled after DEI cuts",
-      "description": "While Mikaela Balkind was working on her degree at the University of Washington in 2018, she was looking for a way to bridge her two interests in natu...",
-      "link": "https://grist.org/equity/its-all-been-scrapped-women-in-wildland-firefighting-bootcamps-canceled-after-dei-cuts/",
-      "pubDate": "Sat, 08 Mar 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-2183774325.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Trump&#8217;s Tariffs and New State Regulation Could Increase Power Costs in Texas",
-      "description": "The low costs of developing renewable energy infrastructure have allowed Texas to lead the nation in its deployment of clean energy. But soon the cost...",
-      "link": "https://insideclimatenews.org/news/08032025/trump-tariffs-new-texas-regulation-could-increase-power-costs/",
-      "pubDate": "Sat, 08 Mar 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
