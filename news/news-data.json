@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-11T15:27:10.691Z",
+  "lastUpdated": "2025-03-11T16:32:01.433Z",
   "articles": [
     {
       "title": "Trump orders likely to drive species’ extinction, wildlife advocates warn",
@@ -38,6 +38,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "USDA cuts more than $1bn in local food purchases for schools, food banks",
+      "description": "&lt;p&gt;Millions of children could lose free school meals as food costs rise, warns School Nutrition Association president&lt;/p&gt;&lt;p&gt;The &lt;...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/11/usda-cuts-food-banks-schools",
+      "pubDate": "Tue, 11 Mar 2025 13:13:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f7d65400d1ba74235801ee05719cb624494f599d/0_433_7726_4638/master/7726.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0524d347667796430e365350e7fccab7"
+    },
+    {
       "title": "Experts warn of North Sea collision’s ‘devastating’ impact on marine life",
       "description": "&lt;p&gt;Highly toxic jet fuel leaking from oil tanker threatens local ecosystems as investigations begin into collision’s cause&lt;/p&gt;&lt;p&gt;Lea...",
       "link": "https://www.theguardian.com/uk-news/2025/mar/11/north-sea-collision-may-have-devastating-impact-on-marine-life-says-expert",
@@ -47,7 +56,7 @@
       "image": "https://i.guim.co.uk/img/media/46f6ef28f746a316201b045c770d662fe36e2a76/0_157_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cc96fc617ae797f976be22b4af3dbd7"
     },
     {
-      "title": "Slow-release fertilizers can spread microplastics on US cropland – study",
+      "title": "Controlled-release fertilizers can spread microplastics on US cropland – study",
       "description": "&lt;p&gt;Tiny bits of plastic can end up in water and soil at alarming levels, said lead author of University of Missouri paper&lt;/p&gt;&lt;p&gt;Fert...",
       "link": "https://www.theguardian.com/us-news/2025/mar/11/fertilizers-microplastics-us-cropland",
       "pubDate": "Tue, 11 Mar 2025 12:00:47 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3e32a7df90819f9c3167c67355e8331b51a70524/0_175_2648_1590/master/2648.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e05158273cc19a2b4c215fe3436283b2"
-    },
-    {
-      "title": "Some Republicans Defend Clean Energy Tax Credits from Trump Administration Cuts",
-      "description": "A growing number of House Republicans are asking federal budget planners to protect Biden-era tax incentives for clean and renewable energy projects f...",
-      "link": "https://insideclimatenews.org/news/10032025/some-republicans-defend-clean-energy-tax-credits/",
-      "pubDate": "Mon, 10 Mar 2025 23:20:38 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
