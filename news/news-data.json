@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-11T13:31:31.540Z",
+  "lastUpdated": "2025-03-11T14:24:56.915Z",
   "articles": [
+    {
+      "title": "How bad could the ship collision be for the environment?",
+      "description": "Experts are assessing the potential fallout for marine species and nearby wildlife populations....",
+      "link": "https://www.bbc.com/news/articles/cg5dmv4yydpo",
+      "pubDate": "Tue, 11 Mar 2025 14:03:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What’s Causing Birmingham’s Code Red Air Quality Alert?",
+      "description": "BIRMINGHAM, Ala.—On Monday, as afternoon sank into evening, a haze fell over the Magic City. Soon, the questions began popping up.&#160; “What’s burni...",
+      "link": "https://insideclimatenews.org/news/11032025/whats-causing-birmingham-alabama-code-red-air-quality-alert-us-forest-service-prescribed-burn-pm2-5/",
+      "pubDate": "Tue, 11 Mar 2025 13:41:30 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Experts warn of North Sea collision’s ‘devastating’ impact on marine life",
       "description": "&lt;p&gt;Highly toxic jet fuel leaking from oil tanker threatens local ecosystems as investigations begin into collision’s cause&lt;/p&gt;&lt;p&gt;Lea...",
@@ -8,7 +26,7 @@
       "pubDate": "Tue, 11 Mar 2025 13:13:45 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/70fc684516c5897a59767d20f980c9d8d9c41ede/88_402_3758_2255/master/3758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c33a9d07a2b92003fd46fbe0da45e96"
+      "image": "https://i.guim.co.uk/img/media/46f6ef28f746a316201b045c770d662fe36e2a76/0_157_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cc96fc617ae797f976be22b4af3dbd7"
     },
     {
       "title": "Slow-release fertilizers can spread microplastics on US cropland – study",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What the world needs now is more fossil fuels, says Trump’s energy secretary",
-      "description": "&lt;p&gt;Chris Wright signals abandonment of Biden’s ‘irrational, quasi-religious’ climate policies at industry conference &lt;/p&gt;&lt;p&gt;The worl...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/10/chris-wright-climate-fossil-fuels",
-      "pubDate": "Mon, 10 Mar 2025 16:17:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2d2cb752945b22f38afe15503dc2db2b70d321ec/0_273_8175_4905/master/8175.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94a17ab63ec5d4378af16ee7bb5eca91"
-    },
-    {
-      "title": "To win the bush, Australian politics needs to embrace its 'curves' |  Nick Rodway",
-      "description": "&lt;p&gt;Regional voters are often stereotyped so I propose a new demographic category ahead of the election: conservative, uncommitted rural voters w...",
-      "link": "https://www.theguardian.com/australia-news/2025/mar/11/to-win-the-bush-australian-politics-needs-to-embrace-its-curves",
-      "pubDate": "Mon, 10 Mar 2025 14:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d08538df97355bc6cb5d9b4aa9958c7e5f0ac741/0_387_7851_4713/master/7851.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53bf52212fbd11ac075ba2c935a1afa3"
     }
   ]
 }
