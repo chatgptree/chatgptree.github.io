@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-11T19:21:07.371Z",
+  "lastUpdated": "2025-03-11T20:26:24.673Z",
   "articles": [
+    {
+      "title": "How Hurricanes Can Fuel Wildfires in the Southeast",
+      "description": "More than 200 wildfires broke out in the Southeastern U.S. last week, marking an active start to the region’s annual fire season. A particularly large...",
+      "link": "https://insideclimatenews.org/news/11032025/todays-climate-hurricanes-fuel-wildfires-southeast/",
+      "pubDate": "Tue, 11 Mar 2025 19:50:09 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Farmers in England furious as Defra pauses post-Brexit payment scheme",
+      "description": "&lt;p&gt;Applications to the sustainable farming initiative no longer accepted but no clarity on what will replace it and when&lt;/p&gt;&lt;p&gt;Farmi...",
+      "link": "https://www.theguardian.com/environment/2025/mar/11/farmers-in-england-furious-as-defra-pauses-post-brexit-payment-scheme",
+      "pubDate": "Tue, 11 Mar 2025 19:49:00 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/637d7bc243bfeedf6e409dcfefae1b76f8baa1bb/301_352_6197_3718/master/6197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9baeb3c6ec1188ae17c82762710a7fed"
+    },
     {
       "title": "How bad could the ship collision be for the environment?",
       "description": "Experts are assessing the potential fallout for marine species and nearby wildlife populations....",
@@ -110,15 +128,6 @@
       "image": "https://grist.org/wp-content/uploads/2024/05/Desantis-speech.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "NSW and Queensland floods update: Ipswich avoids severe flooding by inches as more rain forecast in wake of Cyclone Alfred",
-      "description": "&lt;p&gt;Concerns for elderly and vulnerable as some homes in south-east Queensland face days without power&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get our &lt;a...",
-      "link": "https://www.theguardian.com/australia-news/2025/mar/11/tropical-cyclone-alfred-tuesday-flooding-ipswich-brisbane-queensland-nsw",
-      "pubDate": "Tue, 11 Mar 2025 08:38:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dac0d038a21c8fd4dbda000991b7090e2e49a850/273_498_5707_3424/master/5707.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=181945ecb1f889b5486bd2d072826404"
-    },
-    {
       "title": "Who’s Saving our Aussie Soils?",
       "description": "Only 3 weeks left to unearth national Soil Heroes $20,000 Prize Available Health of our soil continues to decline due to erosion, acidification and sa...",
       "link": "https://econews.com.au/66713/whos-saving-our-aussie-soils/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=whos-saving-our-aussie-soils",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Sustainability-Victoria-logo.png"
-    },
-    {
-      "title": "As Trump attacks US science agencies, ex-Tropical Cyclone Alfred ushers in a fresh wave of climate denial in Australia | Adam Morton",
-      "description": "&lt;p&gt;Alfred is being used as the latest front in an ideological war, but facts are relevant to how we prepare for a climate-changed future&lt;/p&g...",
-      "link": "https://www.theguardian.com/environment/commentisfree/2025/mar/11/ex-tropical-cyclone-alfred-climate-denial-australia-trump-attacks-us-science-agencies",
-      "pubDate": "Tue, 11 Mar 2025 00:41:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3e32a7df90819f9c3167c67355e8331b51a70524/0_175_2648_1590/master/2648.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e05158273cc19a2b4c215fe3436283b2"
     }
   ]
 }
