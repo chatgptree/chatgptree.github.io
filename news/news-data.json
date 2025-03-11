@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-11T14:24:56.915Z",
+  "lastUpdated": "2025-03-11T15:27:10.691Z",
   "articles": [
+    {
+      "title": "Trump orders likely to drive species’ extinction, wildlife advocates warn",
+      "description": "&lt;p&gt;In addition to layoffs and hiring freezes, a ‘God squad’ can effectively veto ESA protections for endangered species&lt;/p&gt;&lt;p&gt;Donald...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/11/trump-wildlife-agencies-species-extinction",
+      "pubDate": "Tue, 11 Mar 2025 15:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/78615cd11b07bc6498f10bfc3d635a2952d5071c/0_107_3204_1922/master/3204.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12dc7575163caaecc9f166c35b346e94"
+    },
+    {
+      "title": "At least a dozen US states rush to ban common food dyes, citing health risks",
+      "description": "&lt;p&gt;RFK Jr’s ‘Maha’ giving fresh momentum to longtime efforts to outlaw additives, which is now a bipartisan movement&lt;/p&gt;&lt;p&gt;At least ...",
+      "link": "https://www.theguardian.com/environment/2025/mar/11/food-dye-ban-bill",
+      "pubDate": "Tue, 11 Mar 2025 15:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/29182818e638de0176af2306823618390762d24c/0_200_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37226e31e2c3950c529f56b75bf03692"
+    },
     {
       "title": "How bad could the ship collision be for the environment?",
       "description": "Experts are assessing the potential fallout for marine species and nearby wildlife populations....",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/10032025/some-republicans-defend-clean-energy-tax-credits/",
       "pubDate": "Mon, 10 Mar 2025 23:20:38 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Earth orbit is filling up with junk. Greenhouse gases are making the problem worse.",
-      "description": "By the end of the century, a shrinking atmosphere could create a minefield for satellites....",
-      "link": "https://grist.org/science/space-junk-greenhouse-gases-satellites/",
-      "pubDate": "Mon, 10 Mar 2025 18:46:38 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/GettyImages-2189441731.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Bills to rise by 80p to fund discounts for homes near pylons",
-      "description": "Households near new pylons are set to get up to £250 a year off their energy bills, under government plans....",
-      "link": "https://www.bbc.com/news/articles/clyd49dxyxxo",
-      "pubDate": "Mon, 10 Mar 2025 18:00:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
