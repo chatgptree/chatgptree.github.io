@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-12T13:31:38.208Z",
+  "lastUpdated": "2025-03-12T14:24:32.041Z",
   "articles": [
+    {
+      "title": "Balance of power: why Loch Ness hydro storage schemes are stirring up trouble",
+      "description": "&lt;p&gt;As Scottish energy firms race to meet challenges of storing power, critics fear proposals will affect delicate hydrology of loch&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2025/mar/12/loch-ness-hydro-storage-schemes-scotland",
+      "pubDate": "Wed, 12 Mar 2025 14:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f9d4bb69ac23d44e5987b34233909aa0794955d6/0_648_5357_3214/master/5357.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=944a342e2d227b63b0ef8b79843d7a82"
+    },
+    {
+      "title": "Green scheme closure a 'shattering blow' to farms, says union",
+      "description": "The government says it cannot accept any new applications for its key green farming funding scheme....",
+      "link": "https://www.bbc.com/news/articles/cx2gp9lyx5xo",
+      "pubDate": "Wed, 12 Mar 2025 13:27:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "New York approved a major gas pipeline expansion. What does it mean for its climate goals?",
       "description": "The approval of Iroquois’ enhancement project, which utility companies argue is needed to heat New Yorkers’ homes in the coldest months, amps up plane...",
@@ -38,7 +56,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How Citibank got caught in a $20 billion climate fight",
+      "title": "How Citibank got caught in a $20B climate fight",
       "description": "Trump pushed the bank to freeze a green investment program. Nonprofits are suing to save it....",
       "link": "https://grist.org/politics/trump-zeldin-epa-citi-greenhouse-gas-reduction-fund/",
       "pubDate": "Wed, 12 Mar 2025 08:45:00 +0000",
@@ -137,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "‘Global weirding’: climate whiplash hitting world’s biggest cities, study reveals",
-      "description": "&lt;p&gt;Swings between drought and floods striking from Dallas to Shanghai, while Madrid and Cairo are among cities whose climate has flipped&lt;/p&g...",
-      "link": "https://www.theguardian.com/environment/2025/mar/12/global-weirding-climate-whiplash-hitting-worlds-biggest-cities-study-reveals",
-      "pubDate": "Wed, 12 Mar 2025 00:01:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/318e9a4c38ab022d3708b37990a9644d9a3f790a/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d84447e90bf2cb12d27199795e9298d"
-    },
-    {
       "title": "A New Bill Would Allow Duke Energy to Retreat From North Carolina’s Ambitious Climate Goals",
       "description": "State Sen. Paul Newton introduced Senate Bill 261 on Tuesday with the gusto of a car salesman: “I’m here to offer you an opportunity to save North Car...",
       "link": "https://insideclimatenews.org/news/11032025/a-new-bill-would-allow-duke-energy-to-retreat-from-north-carolinas-ambitious-climate-goals/",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump orders likely to drive species’ extinction, wildlife advocates warn",
-      "description": "&lt;p&gt;In addition to layoffs and hiring freezes, a ‘God squad’ can effectively veto ESA protections for endangered species&lt;/p&gt;&lt;p&gt;&lt;a ...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/11/trump-wildlife-agencies-species-extinction",
-      "pubDate": "Tue, 11 Mar 2025 15:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/78615cd11b07bc6498f10bfc3d635a2952d5071c/0_107_3204_1922/master/3204.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12dc7575163caaecc9f166c35b346e94"
     }
   ]
 }
