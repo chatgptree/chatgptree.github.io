@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-12T20:25:59.848Z",
+  "lastUpdated": "2025-03-12T21:22:21.855Z",
   "articles": [
+    {
+      "title": "Trump officials reconsider greenhouse gas harm amid slew of climate rollbacks",
+      "description": "&lt;p&gt;Activists horrified as EPA reverses pollution laws and reviews landmark finding that greenhouse gases harm public health &lt;/p&gt;&lt;p&gt;&...",
+      "link": "https://www.theguardian.com/environment/2025/mar/12/epa-trump-climate-rules",
+      "pubDate": "Wed, 12 Mar 2025 20:55:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1b9480fe52b74a35062603386297c1bb5db65301/0_162_5852_3512/master/5852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee6325ec82322726538e7b87894b657f"
+    },
+    {
+      "title": "Virginia Judge Pauses State’s Return To RGGI During Youngkin’s Appeal",
+      "description": "A judge in Floyd County Circuit Court ruled from the bench last week that Virginia does not need to return to the Regional Greenhouse Gas Initiative, ...",
+      "link": "https://insideclimatenews.org/news/12032025/virginia-judge-pauses-states-return-to-rggi-during-youngkins-appeal/",
+      "pubDate": "Wed, 12 Mar 2025 20:44:44 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Plastic pollution leaves seabirds with brain damage similar to Alzheimer’s, study shows",
       "description": "&lt;p&gt;Blood tests on migratory chicks fed plastics by their parents show neurodegeneration, as well as cell rupture and stomach lining decay&lt;/p&...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "In the middle of cyclone preparation I found a baby bird – one tiny, wild life amid the wind and rain | Jessie Cole",
-      "description": "&lt;p&gt;My homeplace has experienced four natural disasters in eight years. But I’d never seen the like of this bird before, vibrantly green and star...",
-      "link": "https://www.theguardian.com/commentisfree/2025/mar/12/in-the-middle-of-cyclone-preparation-i-found-a-baby-bird-one-tiny-wild-life-amid-the-wind-and-rain",
-      "pubDate": "Wed, 12 Mar 2025 02:44:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5c844f83f0e08b7133e64cb4539480180e47e3fb/0_31_5547_3331/master/5547.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3972d0d838a7f811296b657dacc024e0"
-    },
-    {
-      "title": "'Blood moon' lunar eclipse to grace pre-dawn sky in the UK",
-      "description": "UK skywatchers will see a partial but still hopefully spectacular eclipse before dawn on Friday....",
-      "link": "https://www.bbc.com/news/articles/ckg8jkzlj03o",
-      "pubDate": "Wed, 12 Mar 2025 01:30:59 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
