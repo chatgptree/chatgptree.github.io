@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-12T14:24:32.041Z",
+  "lastUpdated": "2025-03-12T15:27:03.241Z",
   "articles": [
+    {
+      "title": "The wildlife all around us is doing fascinating things. Are you noticing?",
+      "description": "In his new book, biologist Thor Hanson reveals the power of paying attention to the natural world \"close to home.\"...",
+      "link": "https://grist.org/looking-forward/the-wildlife-all-around-us-is-doing-fascinating-things-are-you-noticing/",
+      "pubDate": "Wed, 12 Mar 2025 14:46:05 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/0312_CloseToHome.jpg?quality=75&amp;strip=all&amp;w=900"
+    },
     {
       "title": "Balance of power: why Loch Ness hydro storage schemes are stirring up trouble",
       "description": "&lt;p&gt;As Scottish energy firms race to meet challenges of storing power, critics fear proposals will affect delicate hydrology of loch&lt;/p&gt;&lt...",
@@ -92,6 +101,15 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
+      "title": "Amazon forest felled to build road for climate summit",
+      "description": "The infrastructure required to host COP30 in Belém is undermining the cause, campaigners say. ...",
+      "link": "https://www.bbc.com/news/articles/c9vy191rgn1o",
+      "pubDate": "Wed, 12 Mar 2025 06:02:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "A bloke at the dog park said the government was controlling the cyclones. He is accidentally sort of correct | First Dog on the Moon",
       "description": "&lt;p&gt;If you don’t believe the scientists, will you believe the insurance companies?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://www.theguardi...",
       "link": "https://www.theguardian.com/commentisfree/picture/2025/mar/12/a-bloke-at-the-dog-park-said-the-government-was-controlling-the-cyclones-he-is-accidentally-sort-of-correct",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/11032025/a-new-bill-would-allow-duke-energy-to-retreat-from-north-carolinas-ambitious-climate-goals/",
       "pubDate": "Tue, 11 Mar 2025 23:14:16 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Hurricanes Can Fuel Wildfires in the Southeast",
-      "description": "More than 200 wildfires broke out in the Southeastern U.S. last week, marking an active start to the region’s annual fire season. A particularly large...",
-      "link": "https://insideclimatenews.org/news/11032025/todays-climate-hurricanes-fuel-wildfires-southeast/",
-      "pubDate": "Tue, 11 Mar 2025 19:50:09 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How bad could the ship collision be for the environment?",
-      "description": "Experts are assessing the potential fallout for marine species and nearby wildlife populations....",
-      "link": "https://www.bbc.com/news/articles/cg5dmv4yydpo",
-      "pubDate": "Tue, 11 Mar 2025 17:28:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
