@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-12T08:32:03.950Z",
+  "lastUpdated": "2025-03-12T09:26:10.470Z",
   "articles": [
+    {
+      "title": "The UK’s gamble on solar geoengineering is like using aspirin for cancer",
+      "description": "&lt;p&gt;Injecting pollutants into the atmosphere to reflect the sun would be extremely dangerous, but the UK is funding field trials&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/commentisfree/2025/mar/12/solar-geoengineering-uk",
+      "pubDate": "Wed, 12 Mar 2025 09:00:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/18db606775c94aaf7a013659525171ac1d776acf/0_0_2085_1251/master/2085.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9fc876519f880a53b531f0f798438f9"
+    },
+    {
+      "title": "‘Weathering’ Expert Arline Geronimus Reflects on Climate Change and Health Inequities",
+      "description": "Professor Arline T. Geronimus of the University of Michigan developed the theory of “weathering” while studying health complications of first-time mot...",
+      "link": "https://insideclimatenews.org/news/12032025/arline-geronimus-climate-change-health-inequities/",
+      "pubDate": "Wed, 12 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Citibank got caught in a $20 billion climate fight",
+      "description": "Trump pushed the bank to freeze a green investment program. Nonprofits are suing to save it....",
+      "link": "https://grist.org/politics/trump-zeldin-epa-citi-greenhouse-gas-reduction-fund/",
+      "pubDate": "Wed, 12 Mar 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/Lee-Zeldin.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Supreme Court declines to hear Republicans’ ‘Hail Mary’ effort to block climate lawsuits",
       "description": "The justices shrugged off a complaint described by legal experts as a “political stunt.”...",
@@ -83,7 +110,7 @@
       "image": "https://i.guim.co.uk/img/media/5e5dbe61951c0b490117a3477135b752ca99d165/154_0_1953_1172/master/1953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edb554db31b1080c9be3a1cf0038d9a2"
     },
     {
-      "title": "Lunar eclipse to grace pre-dawn sky in the UK",
+      "title": "'Blood moon' lunar eclipse to grace pre-dawn sky in the UK",
       "description": "UK skywatchers will see a partial but still hopefully spectacular eclipse before dawn on Friday....",
       "link": "https://www.bbc.com/news/articles/ckg8jkzlj03o",
       "pubDate": "Wed, 12 Mar 2025 01:30:59 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "USDA cuts more than $1bn in local food purchases for schools, food banks",
-      "description": "&lt;p&gt;Millions of children could lose free school meals as food costs rise, warns School Nutrition Association president&lt;/p&gt;&lt;p&gt;The &lt;...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/11/usda-cuts-food-banks-schools",
-      "pubDate": "Tue, 11 Mar 2025 13:13:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f7d65400d1ba74235801ee05719cb624494f599d/0_433_7726_4638/master/7726.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0524d347667796430e365350e7fccab7"
-    },
-    {
-      "title": "Controlled-release fertilizers can spread microplastics on US cropland – study",
-      "description": "&lt;p&gt;Tiny bits of plastic can end up in water and soil at alarming levels, said lead author of University of Missouri paper&lt;/p&gt;&lt;p&gt;Fert...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/11/fertilizers-microplastics-us-cropland",
-      "pubDate": "Tue, 11 Mar 2025 12:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e327fff268af24f61bd1d9956634c7afd91f08fc/0_174_5230_3138/master/5230.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e54d223f8791a186f0a4f1b31892c88"
-    },
-    {
-      "title": "The Mexican women who defied drug-dealers, fly-tippers and chauvinists to build a thriving business",
-      "description": "&lt;p&gt;The &lt;em&gt;Guardianas del Conchalito&lt;/em&gt; ignored chants of ‘get back to your kitchens’, determined to protect the environment and c...",
-      "link": "https://www.theguardian.com/environment/2025/mar/11/mexico-el-manglito-la-paz-women-mangroves-environment-guardianas-del-conchalito-baja-california-fishing-conservation",
-      "pubDate": "Tue, 11 Mar 2025 11:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/635fab7af84ee27f86913973f2ad8864390d735f/0_495_9504_5702/master/9504.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=703108d5d19fe3f8849c2ff6bcbf36f2"
     }
   ]
 }
