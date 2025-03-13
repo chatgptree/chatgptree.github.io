@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-12T23:23:34.637Z",
+  "lastUpdated": "2025-03-13T01:55:12.486Z",
   "articles": [
+    {
+      "title": "Atmospheric river to wallop California as study finds storms getting worse",
+      "description": "&lt;p&gt;Thunderstorms and high winds forecast for San Francisco Bay while southern California under flood watch&lt;/p&gt;&lt;p&gt;A powerful atmosphe...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/12/california-atmospheric-storms-climate-rain",
+      "pubDate": "Thu, 13 Mar 2025 00:13:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e780f2c5128f945dd97294f2f49cb56d8e3bc4ee/0_0_5637_3382/master/5637.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0070ddb5c3a76d325e9c1e0a44d54ab6"
+    },
+    {
+      "title": "Trump Administration Launches All-Out Assault on Environmental Protection",
+      "description": "If there can be such a thing as bureaucratic “shock and awe,” Environmental Protection Agency Administrator Lee Zeldin tried to unleash it Wednesday. ...",
+      "link": "https://insideclimatenews.org/news/12032025/trump-administration-launches-deregulation-of-environmental-protection/",
+      "pubDate": "Wed, 12 Mar 2025 23:47:45 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "[BREAKING: 10 animals and 12 plants] added to Australia's threatened species list",
+      "description": "&lt;p&gt;Header image - Little tern. Photo: Mike Letnic&lt;/p&gt;\n&lt;p&gt;More Australian species are being pushed to the brink of extinction.&lt;/p&...",
+      "link": "http://www.acf.org.au/10-animals-12-plants-added-to-threatened-species-list",
+      "pubDate": "Thu, 13 Mar 2025 10:01:00 +1100",
+      "sourceName": "acf.org.au",
+      "author": "Darcie Carruthers",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Dead and dying Port Pirie birds and bats exposed to lead at 3,000 times acceptable levels",
       "description": "&lt;p&gt;South Australia’s EPA did not open a formal investigation into the source of the lead poisoning, despite referral from the Department of Prim...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4934db108289fe3feac18456c2ad504dbee9a67a/3_0_1305_783/master/1305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=428eff31892c67337d894c6585b924a8"
-    },
-    {
-      "title": "Green is the New Gold: How Young Aussies Are Shaping the Future of Sustainable Shopping",
-      "description": "Research Reveals a Rise in Private Labels Amid  Shifting Consumer Priorities New research finds 95% of Australians may embrace store-brand products  W...",
-      "link": "https://econews.com.au/66719/green-is-the-new-gold-how-young-aussies-are-shaping-the-future-of-sustainable-shopping/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=green-is-the-new-gold-how-young-aussies-are-shaping-the-future-of-sustainable-shopping",
-      "pubDate": "Wed, 12 Mar 2025 03:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Aussie Musicians Call on Fans to ‘Vote Climate’ – Because There’s NO MUSIC ON A DEAD PLANET",
-      "description": "With the 2025 Federal Election fast approaching, Australian musicians are joining an active, growing and passionate group of international artists to ...",
-      "link": "https://econews.com.au/66717/aussie-musicians-call-on-fans-to-vote-climate-because-theres-no-music-on-a-dead-planet/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aussie-musicians-call-on-fans-to-vote-climate-because-theres-no-music-on-a-dead-planet",
-      "pubDate": "Wed, 12 Mar 2025 03:02:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/green-music-logo.png"
-    },
-    {
-      "title": "The Circular Garden – Motivating and Practical Guide Unlocks the Secrets of Sustainable Gardening",
-      "description": "In a world increasingly aware of the importance of sustainable living, Sonja and Jim Brodie’s The Circular Garden: a Manifesto for Sustainable Growing...",
-      "link": "https://econews.com.au/66715/the-circular-garden-motivating-and-practical-guide-unlocks-the-secrets-of-sustainable-gardening/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-circular-garden-motivating-and-practical-guide-unlocks-the-secrets-of-sustainable-gardening",
-      "pubDate": "Wed, 12 Mar 2025 03:02:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
