@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-03-13T12:49:44.827Z",
+  "lastUpdated": "2025-03-13T13:31:38.742Z",
   "articles": [
+    {
+      "title": "Thousands of high-risk toxic sites unchecked due to lack of cash",
+      "description": "BBC investigation finds nine out of ten high-risk contaminated areas have not been tested....",
+      "link": "https://www.bbc.com/news/articles/c4gez4zgk8ko",
+      "pubDate": "Thu, 13 Mar 2025 13:01:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US weather forecasts save lives and money. Trump’s cuts put us all at risk",
+      "description": "&lt;p&gt;Noaa, my former employer, is an integral part of our daily lives, tracking hurricanes, supporting safe flights and helping farmers&lt;/p&gt;&...",
+      "link": "https://www.theguardian.com/commentisfree/2025/mar/13/noaa-cuts-weather-hurricanes",
+      "pubDate": "Thu, 13 Mar 2025 13:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ae8f9f40a26a1c1301c570027573323381fed2a2/81_0_4919_2954/master/4919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b176b7bf24c7c175dbf97f00b615197"
+    },
+    {
+      "title": "How Does Your State Produce Its Electricity? The Variations are Wild and Weird",
+      "description": "One of the challenges in understanding the U.S. energy transition is that the circumstances are different in every state. Some, such as Vermont, have ...",
+      "link": "https://insideclimatenews.org/news/13032025/inside-clean-energy-how-each-state-produces-electricity/",
+      "pubDate": "Thu, 13 Mar 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "An elephant buffet, a Lowry and Kenya’s melting glacier: photos of the day – Thursday",
+      "description": "&lt;p&gt;The Guardian’s picture editors select photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/news/gallery/2025/m...",
+      "link": "https://www.theguardian.com/news/gallery/2025/mar/13/an-elephant-buffet-a-lowry-and-kenyas-melting-glacier-photos-of-the-day-thursday",
+      "pubDate": "Thu, 13 Mar 2025 12:38:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/19622ede67ed119407db732ee25dabd066676138/0_648_4999_3000/master/4999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cacffc900bcc44119f6a5bff0f2f6139"
+    },
     {
       "title": "'Blood moon' lunar eclipse to grace pre-dawn sky in the UK",
       "description": "UK skywatchers will see a partial but still hopefully spectacular eclipse before dawn on Friday....",
@@ -119,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Thousands of high-risk toxic sites unchecked due to lack of cash",
-      "description": "BBC investigation finds nine out of ten high-risk contaminated areas have not been tested....",
-      "link": "https://www.bbc.com/news/articles/c4gez4zgk8ko",
-      "pubDate": "Thu, 13 Mar 2025 08:36:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "A $250M investment will help this lithium mine get up and running. That&#8217;s bad news for these tribes.",
       "description": "Tribes have tried and failed to stop the project in court. A new report says it violates Indigenous rights....",
       "link": "https://grist.org/indigenous/a-250-million-investment-will-help-this-lithium-mine-get-up-and-running-thats-bad-news-for-these-tribes/",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0560f44a8da1ddb4f316428666c2344dcc6a6aa1/632_287_1104_662/master/1104.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5747b9b5812223e831a885600ab6c01"
-    },
-    {
-      "title": "Atmospheric river to wallop California as study finds storms getting worse",
-      "description": "&lt;p&gt;Thunderstorms and high winds forecast for San Francisco Bay while southern California under flood watch&lt;/p&gt;&lt;p&gt;A powerful atmosphe...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/12/california-atmospheric-storms-climate-rain",
-      "pubDate": "Thu, 13 Mar 2025 00:13:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e780f2c5128f945dd97294f2f49cb56d8e3bc4ee/0_0_5637_3382/master/5637.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0070ddb5c3a76d325e9c1e0a44d54ab6"
-    },
-    {
-      "title": "Trump Administration Launches All-Out Assault on Environmental Protection",
-      "description": "If there can be such a thing as bureaucratic “shock and awe,” Environmental Protection Agency Administrator Lee Zeldin tried to unleash it Wednesday. ...",
-      "link": "https://insideclimatenews.org/news/12032025/trump-administration-launches-deregulation-of-environmental-protection/",
-      "pubDate": "Wed, 12 Mar 2025 23:47:45 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "[10 animals and 12 plants] added to Australia's threatened species list",
-      "description": "&lt;p&gt;Header image - Little tern. Photo: Mike Letnic&lt;/p&gt;\n&lt;p&gt;More Australian species are being pushed to the brink of extinction.&lt;/p&...",
-      "link": "http://www.acf.org.au/10-animals-12-plants-added-to-threatened-species-list",
-      "pubDate": "Thu, 13 Mar 2025 10:01:00 +1100",
-      "sourceName": "acf.org.au",
-      "author": "Darcie Carruthers",
-      "image": "../images/header2.jpg"
     }
   ]
 }
