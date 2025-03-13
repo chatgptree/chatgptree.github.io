@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-13T11:20:07.169Z",
+  "lastUpdated": "2025-03-13T12:49:44.827Z",
   "articles": [
+    {
+      "title": "'Blood moon' lunar eclipse to grace pre-dawn sky in the UK",
+      "description": "UK skywatchers will see a partial but still hopefully spectacular eclipse before dawn on Friday....",
+      "link": "https://www.bbc.com/news/articles/ckg8jkzlj03o",
+      "pubDate": "Thu, 13 Mar 2025 12:28:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Decades after peregrines came back from the brink, a new threat emerges",
+      "description": "&lt;p&gt;DDT use nearly wiped out the raptor by the 1970s. Now peregrine numbers are collapsing again in many countries and no one is quite sure why&l...",
+      "link": "https://www.theguardian.com/environment/2025/mar/13/decades-after-peregrines-came-back-from-the-brink-a-new-threat-emerges-aoe",
+      "pubDate": "Thu, 13 Mar 2025 12:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a5706fe000d97c59ca3dcb95ee57bd1460dbb81a/0_0_2400_1440/master/2400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f3640528fb7951299c0bf174a98b41f8"
+    },
     {
       "title": "UK farmers’ incomes stagnant since the 1970s, report finds",
       "description": "&lt;p&gt;Exclusive: Research shows drop in produce prices as households consume more imported and ultra-processed food&lt;/p&gt;&lt;p&gt;Farmers’ inco...",
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 13 Mar 2025 10:01:00 +1100",
       "sourceName": "acf.org.au",
       "author": "Darcie Carruthers",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump officials to reconsider whether greenhouse gases cause harm amid climate rollbacks",
-      "description": "&lt;p&gt;Activists horrified as EPA reverses pollution laws and reviews landmark finding that gases harm public health&lt;/p&gt;&lt;p&gt;&lt;a href=\"h...",
-      "link": "https://www.theguardian.com/environment/2025/mar/12/epa-trump-climate-rules",
-      "pubDate": "Wed, 12 Mar 2025 22:59:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1b9480fe52b74a35062603386297c1bb5db65301/0_162_5852_3512/master/5852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee6325ec82322726538e7b87894b657f"
-    },
-    {
-      "title": "Virginia Judge Pauses State’s Return To RGGI During Youngkin’s Appeal",
-      "description": "A judge in Floyd County Circuit Court ruled from the bench last week that Virginia does not need to return to the Regional Greenhouse Gas Initiative, ...",
-      "link": "https://insideclimatenews.org/news/12032025/virginia-judge-pauses-states-return-to-rggi-during-youngkins-appeal/",
-      "pubDate": "Wed, 12 Mar 2025 20:44:44 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
       "image": "../images/header2.jpg"
     }
   ]
