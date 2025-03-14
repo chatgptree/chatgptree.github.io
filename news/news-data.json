@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-14T09:25:14.845Z",
+  "lastUpdated": "2025-03-14T10:25:39.188Z",
   "articles": [
     {
       "title": "School Disruptions from the LA Fires Hit Latino, Disadvantaged and English-Language Learners Hardest, Experts Find",
@@ -56,7 +56,7 @@
       "image": "https://grist.org/wp-content/uploads/2025/03/tomatoes.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "The global battle against the climate crisis needs China. I am going to Beijing, and that’s what I’ll tell them | Ed Miliband",
+      "title": "The global battle against the climate crisis needs China. I’m visiting Beijing, and that’s what I’ll tell them | Ed Miliband",
       "description": "&lt;p&gt;I will be the first UK energy secretary since 2017 to visit. It is negligence towards today’s and future generations not to engage China on t...",
       "link": "https://www.theguardian.com/commentisfree/2025/mar/14/climate-crisis-china-beijing-ed-miliband",
       "pubDate": "Fri, 14 Mar 2025 07:00:20 GMT",
@@ -99,6 +99,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f8fb3b796224a05def1124266fd4503288b541ec/0_242_5472_3283/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4d51a77dca935bcac39c87d8511c907"
+    },
+    {
+      "title": "The unexpected knock-on effect of Trump's minerals 'deal of the century'",
+      "description": "The president once derided attempts to develop new green technology as a \"green new scam\" - but his deal could help boost the US's potential in the se...",
+      "link": "https://www.bbc.com/news/articles/c30mjedjzgpo",
+      "pubDate": "Fri, 14 Mar 2025 01:26:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Schneider Electric’s Innovation Summit arrives in Sydney",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Judge demands ‘some kind of evidence’ from Trump’s EPA to halt climate grants",
-      "description": "&lt;p&gt;Federal judge Tanya Chutkan issues restraining order pending new filings over billions in axed research grants&lt;/p&gt;&lt;p&gt;A federal ju...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/13/epa-grants-trump-judge-tanya-chutkan",
-      "pubDate": "Thu, 13 Mar 2025 14:25:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a06c5b96b2d43f44495a018ab9f5b673dccd439f/0_80_5410_3245/master/5410.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cc14accbb74b6637e6c147bcae0b2f1f"
     }
   ]
 }
