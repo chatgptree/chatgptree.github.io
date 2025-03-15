@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-15T06:31:51.952Z",
+  "lastUpdated": "2025-03-15T07:21:18.079Z",
   "articles": [
+    {
+      "title": "From profiteroles to moles: project uncovers gulls’ surprising diet",
+      "description": "&lt;p&gt;Salford University findings show gulls are predators – not just opportunists snatching people’s snacks&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a hre...",
+      "link": "https://www.theguardian.com/science/2025/mar/15/from-profiteroles-to-moles-project-uncovers-gulls-surprising-diet",
+      "pubDate": "Sat, 15 Mar 2025 07:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ea5fbc2bc737b6849569051aa310b77cdc9b2d87/185_66_1971_1183/master/1971.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9fe0f323f16b25789c166dccbfb2e47"
+    },
+    {
+      "title": "Exploited, recognised as a slavery victim, now facing deportation: one seafarer’s UK ordeal",
+      "description": "&lt;p&gt;After years of helping Scottish criminal investigations and despite fearing for his life in India, Vishal Sharma’s asylum claim has been reje...",
+      "link": "https://www.theguardian.com/environment/2025/mar/15/slavery-victim-vishal-sharma-uk-scottish-authorities-india-asylum-claim",
+      "pubDate": "Sat, 15 Mar 2025 07:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/135adf608153d37513eac2aaf20f4c80870ec717/0_428_8192_4915/master/8192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1af791b929f97bd785332c029a3f9182"
+    },
+    {
+      "title": "Octopus? Ice cream? Is there anything gulls don’t eat? – in pictures",
+      "description": "&lt;p&gt;Gulls are known for being ravenous – check out a selection of things they like&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/mar/15/is-there-anything-gulls-dont-eat-ice-cream-octopus-in-pictures",
+      "pubDate": "Sat, 15 Mar 2025 07:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/531efddcce36c68ddeca86ff2c9ab0fad38008d1/0_4_4896_2938/master/4896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=183b9234b979517748f761238ebfde56"
+    },
     {
       "title": "Green leader Adrian Ramsay: Labour’s ‘growth v nature’ framing is an outrage",
       "description": "&lt;p&gt;Co-leader says deprioritisation of net zero is ‘extremely dangerous’ as he rejects ‘nimby-in-chief’ characterisation&lt;/p&gt;&lt;p&gt;Labour...",
@@ -56,15 +83,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "‘Germany is back’: Merz secures Greens’ support for defence spend boost",
-      "description": "&lt;p&gt;Backing of Greens is tantamount to approval of chancellor-in-waiting’s proposal to relax debt brake&lt;/p&gt;&lt;p&gt;Germany’s conservative ...",
-      "link": "https://www.theguardian.com/world/2025/mar/14/friedrich-merz-germany-greens-support-defence-funding-plan",
-      "pubDate": "Fri, 14 Mar 2025 15:29:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/48feb37b57db5fa512d08dcbd5cb39ba939c232c/0_13_7968_4780/master/7968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74aff8fe52cc06ee73ea5568313d6509"
-    },
-    {
       "title": "Why I quit my homestead dream just as farmer tradwives became mainstream",
       "description": "&lt;p&gt;Our homesteading journey began with self-sufficiency and a dream, but it evolved through loss and social media fame&lt;/p&gt;&lt;ul&gt;&lt;li...",
       "link": "https://www.theguardian.com/lifeandstyle/2025/mar/14/homestead-farmer-tradwives",
@@ -72,6 +90,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2566fcb1b7e08a6668cf3fc2ac4aebdc1da57d89/0_718_3247_1947/master/3247.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=899cdb9d482d10a35cf4324d370b2dfc"
+    },
+    {
+      "title": "In pictures: Stargazers marvel at 'blood moon' amid lunar eclipse",
+      "description": "Early-rising UK stargazers woke up to a \"blood Moon\" lunar eclipse early on Friday....",
+      "link": "https://www.bbc.com/news/articles/cr42k4qpr7go",
+      "pubDate": "Fri, 14 Mar 2025 10:05:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "School Disruptions from the LA Fires Hit Latino, Disadvantaged and English-Language Learners Hardest, Experts Find",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c30mjedjzgpo",
       "pubDate": "Fri, 14 Mar 2025 01:26:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Schneider Electric’s Innovation Summit arrives in Sydney",
-      "description": "Over 1,500 industry leaders will gather in Sydney to accelerate the transition to a net-zero future. Speakers and high-level panels featuring AI, digi...",
-      "link": "https://econews.com.au/66746/schneider-electrics-innovation-summit-arrives-in-sydney/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=schneider-electrics-innovation-summit-arrives-in-sydney",
-      "pubDate": "Fri, 14 Mar 2025 00:03:46 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Schneider-Electric-2-1024x576.jpg"
-    },
-    {
-      "title": "Landmark Ruling on Uncontacted Indigenous Peoples’ Rights Strikes at Oil Industry",
-      "description": "The Inter-American Court of Human Rights ruled on Thursday that the Ecuadorian government violated the rights of uncontacted Indigenous peoples living...",
-      "link": "https://insideclimatenews.org/news/13032025/landmark-ruling-uncontacted-indigenous-peoples-rights-ecuador-oil-industry/",
-      "pubDate": "Thu, 13 Mar 2025 23:39:21 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Inside Climate News Wins Multiple Business Reporting Awards",
-      "description": "Inside Climate News has won four top prizes for distinguished reporting from the Society for Advancing Business Editing and Writing in health, climate...",
-      "link": "https://insideclimatenews.org/news/13032025/icn-wins-multiple-business-reporting-awards/",
-      "pubDate": "Thu, 13 Mar 2025 23:07:32 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
