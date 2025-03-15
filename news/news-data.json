@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-15T08:28:20.753Z",
+  "lastUpdated": "2025-03-15T09:22:22.447Z",
   "articles": [
+    {
+      "title": "Some US Scientists Stick with the IPCC Despite the Administration Pulling Out of International Climate Work",
+      "description": "Despite a series of directives from the Trump administration aimed at disengaging the U.S. government from international climate collaboration, five U...",
+      "link": "https://insideclimatenews.org/news/15032025/us-ipcc-scientific-authors-climate-report/",
+      "pubDate": "Sat, 15 Mar 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Chicago Considers New Approaches for PFAS Management",
+      "description": "The waters of Lake Michigan glitter alongside the entire east side of Chicago, providing nearly one billion gallons of drinking water per day to the r...",
+      "link": "https://insideclimatenews.org/news/15032025/chicago-pfas-water-management/",
+      "pubDate": "Sat, 15 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Christine Todd Whitman Thinks the EPA Is Going the Wrong Direction",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood and Paloma Beltran wi...",
+      "link": "https://insideclimatenews.org/news/15032025/former-republican-epa-administrator-thinks-agency-is-going-the-wrong-direction/",
+      "pubDate": "Sat, 15 Mar 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "From profiteroles to moles: project uncovers gulls’ surprising diet",
       "description": "&lt;p&gt;Salford University findings show gulls are predators – not just opportunists snatching people’s snacks&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a hre...",
@@ -38,7 +65,7 @@
       "image": "https://i.guim.co.uk/img/media/46c9ff405423c053fec3b6b04973c63410c4e0e9/0_221_5481_3289/master/5481.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c36d2c138dd9a8d6ee4a5ad33e20fcf3"
     },
     {
-      "title": "SpaceX rocket launches as Butch and Suni prepare return",
+      "title": "SpaceX rocket launches as stranded astronauts prepare return",
       "description": "The pair are due to begin their long delayed journey back to Earth two days after the new crew arrive....",
       "link": "https://www.bbc.com/news/articles/ce8y62jrwgwo",
       "pubDate": "Fri, 14 Mar 2025 23:38:34 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/tomatoes.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The global battle against the climate crisis needs China. I’m visiting Beijing, and that’s what I’ll tell them | Ed Miliband",
-      "description": "&lt;p&gt;I will be the first UK energy secretary since 2017 to visit. It is negligence towards today’s and future generations not to engage China on t...",
-      "link": "https://www.theguardian.com/commentisfree/2025/mar/14/climate-crisis-china-beijing-ed-miliband",
-      "pubDate": "Fri, 14 Mar 2025 07:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/66ea844c500483b3c724b5dd9b27f3c1f76054c3/0_247_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8917143230ab95f4ed9f2ae724b725e4"
-    },
-    {
-      "title": "Attacking a young tourist over her treatment of a wombat is hypocritical – and misses the point | Georgie Purcell",
-      "description": "&lt;p&gt;What’s happening to our native wildlife across the country is just as horrific as what we witnessed in that video – it’s just occurring behin...",
-      "link": "https://www.theguardian.com/commentisfree/2025/mar/14/attacking-a-young-tourist-over-her-treatment-of-a-wombat-is-hypocritical-and-misses-the-point",
-      "pubDate": "Fri, 14 Mar 2025 06:33:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eb193aef9a99408287018f89ed9fbe9b90f3cb02/198_0_2083_1250/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=347a9eb743fe4870fd09a1d5bae4de56"
-    },
-    {
-      "title": "The unexpected knock-on effect of Trump's minerals 'deal of the century'",
-      "description": "The president once derided attempts to develop new green technology as a \"green new scam\" - but his deal could help boost the US's potential in the se...",
-      "link": "https://www.bbc.com/news/articles/c30mjedjzgpo",
-      "pubDate": "Fri, 14 Mar 2025 01:26:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
