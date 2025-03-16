@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-16T08:27:41.364Z",
+  "lastUpdated": "2025-03-16T09:22:20.066Z",
   "articles": [
+    {
+      "title": "One Man’s Quest to Protect Pink River Dolphins in Colombia",
+      "description": "VICHADA, Colombia—From the bow of a canoe-shaped motor boat called a bongo, marine biologist Fernando Trujillo aimed his zoom lens toward a stretch of...",
+      "link": "https://insideclimatenews.org/news/16032025/protecting-amazon-endangered-pink-river-dolphins/",
+      "pubDate": "Sun, 16 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘An Unlikely Coalition’ Failed to Expand Rooftop Solar in Wyoming. Lawmakers Plan to Try Again",
+      "description": "When Jason Thornock applied for a grant from the Rural Energy for America Program after it was infused with over $1 billion in funds from former Presi...",
+      "link": "https://insideclimatenews.org/news/16032025/wyoming-rooftop-solar-net-metering-energy-independence/",
+      "pubDate": "Sun, 16 Mar 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "SpaceX capsule docks as astronauts prepare return after nine months",
       "description": "The pair are due to begin their long delayed journey back to Earth in coming days....",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "MAGA Teslas? Elon Musk is upending the politics of EVs.",
-      "description": "Teslas were once a green status symbol. Donald Trump's second term is changing that....",
-      "link": "https://grist.org/politics/elon-musk-tesla-trump-republicans-electric-vehicles/",
-      "pubDate": "Fri, 14 Mar 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/Trump-Cybertruck.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The future of Gaza’s recovery may rely on solar power",
-      "description": "Facing destroyed infrastructure and limited control of energy supplies, off-grid options like solar are helping Palestinians rebuild....",
-      "link": "https://grist.org/energy/the-future-of-gazas-recovery-may-rely-on-solar-power/",
-      "pubDate": "Fri, 14 Mar 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/07/water-gaza-tank.jpg?quality=75&#038;strip=all"
     }
   ]
 }
