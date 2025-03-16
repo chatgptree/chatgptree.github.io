@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-16T12:43:17.718Z",
+  "lastUpdated": "2025-03-16T13:26:06.075Z",
   "articles": [
+    {
+      "title": "Underwater ‘doorbell’ helps scientists catch coral-eating fish in Florida",
+      "description": "&lt;p&gt;Researchers use innovative cameras to identify fish species hindering coral reef restoration&lt;/p&gt;&lt;p&gt;Marine scientists in &lt;a hre...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/16/underwater-doorbell-scientists-coral-eating-fish-florida",
+      "pubDate": "Sun, 16 Mar 2025 13:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/233aba9c3519bff5039b47c0bae87842e291aa5b/0_300_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d52bbc32ef5f6bd24780f93b06843672"
+    },
+    {
+      "title": "A greener Ramadan: How Atlanta-area mosques are cutting food waste during the Muslim holy month",
+      "description": "At some places of worship, hundreds of people attend the evening breaking of the fast — which means a lot of discarded food and plastic water bottles....",
+      "link": "https://grist.org/food-and-agriculture/a-greener-ramadan-how-atlanta-area-mosques-are-cutting-food-waste-during-the-muslim-holy-month/",
+      "pubDate": "Sun, 16 Mar 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/BahadurAliSohani.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Line 5, a Trump donor, is profiting off a pipeline deal threatening pollution",
       "description": "&lt;p&gt;Trump administration accused of ‘quid pro quo’ for fast-tracking controversial fossil fuel proposal in Michigan&lt;/p&gt;&lt;p&gt;&lt;a href=...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2566fcb1b7e08a6668cf3fc2ac4aebdc1da57d89/0_718_3247_1947/master/3247.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=899cdb9d482d10a35cf4324d370b2dfc"
-    },
-    {
-      "title": "In pictures: Stargazers marvel at 'blood moon' amid lunar eclipse",
-      "description": "Early-rising UK stargazers woke up to a \"blood Moon\" lunar eclipse early on Friday....",
-      "link": "https://www.bbc.com/news/articles/cr42k4qpr7go",
-      "pubDate": "Fri, 14 Mar 2025 10:05:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "School Disruptions from the LA Fires Hit Latino, Disadvantaged and English-Language Learners Hardest, Experts Find",
-      "description": "When catastrophic floods, fires and hurricanes upend communities, the path of destruction they take may be random but the pain and suffering they caus...",
-      "link": "https://insideclimatenews.org/news/14032025/latino-disadvantaged-students-hit-hardest-after-los-angeles-fires/",
-      "pubDate": "Fri, 14 Mar 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
