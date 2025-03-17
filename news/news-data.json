@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-17T17:22:11.042Z",
+  "lastUpdated": "2025-03-17T18:32:08.454Z",
   "articles": [
+    {
+      "title": "Scientists at Antarctic base rocked by alleged assault",
+      "description": "A spokesperson for the South African government told the BBC there had been an assault at the station....",
+      "link": "https://www.bbc.com/news/articles/cgkm0k2j6edo",
+      "pubDate": "Mon, 17 Mar 2025 17:55:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'Stranded astronauts' Butch and Suni set to begin journey home",
       "description": "The Nasa astronauts prepare to head to Earth after an eight-day mission turned into nine months....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/BahadurAliSohani.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Line 5, a Trump donor, is profiting off a pipeline deal threatening pollution",
-      "description": "&lt;p&gt;Trump administration accused of ‘quid pro quo’ for fast-tracking controversial fossil fuel proposal in Michigan&lt;/p&gt;&lt;p&gt;&lt;a href=...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/16/line-5-trump-pipeline-pollution-michigan-barnard",
-      "pubDate": "Sun, 16 Mar 2025 12:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/73a34c568ea59b978f9c8cf07f346da29e8bd127/0_224_6720_4032/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=505c0fae2c28c737093d9065c555e6ad"
     }
   ]
 }
