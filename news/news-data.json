@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-18T08:31:38.646Z",
+  "lastUpdated": "2025-03-18T09:26:47.373Z",
   "articles": [
+    {
+      "title": "Scientists at Antarctic base rocked by alleged assault",
+      "description": "A spokesperson for the South African government told the BBC there had been an assault at the station....",
+      "link": "https://www.bbc.com/news/articles/cgkm0k2j6edo",
+      "pubDate": "Tue, 18 Mar 2025 09:03:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Americans Protest Attacks on Public Lands, Trump Signals National Monuments May be Shrunk or Eliminated",
+      "description": "CHIRICAHUA NATIONAL MONUMENT, Ariz.—It was a rare rainy day, with a brief sprinkle of snow in southeastern Arizona where the Rocky Mountains, Sierra M...",
+      "link": "https://insideclimatenews.org/news/18032025/trump-administration-attacks-national-monuments-protests/",
+      "pubDate": "Tue, 18 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Monterrey’s Air Quality Worsens, Citizens Demand Urgent Government Action",
+      "description": "A tall sierra rises around Monterrey, Mexico’s second-largest metropolitan area and Nuevo León’s state capital. Thick smog clings to the ground, obscu...",
+      "link": "https://insideclimatenews.org/news/18032025/monterrey-mexico-air-quality-crisis/",
+      "pubDate": "Tue, 18 Mar 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Utilities are shutting off power to a growing number of households",
       "description": "While some states ban shutoffs during winter, summer outages are on the rise....",
@@ -47,7 +74,7 @@
       "image": "https://i.guim.co.uk/img/media/b5e5d7d207fed325cd8cb06fd726d65a2d7769b0/0_198_4284_2570/master/4284.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b14d658ad5ffeb6b70fa6722e4d3a61c"
     },
     {
-      "title": "'Stranded astronauts' Butch and Suni begin journey home",
+      "title": "Stranded astronauts Butch and Suni begin journey home",
       "description": "The Nasa astronauts prepare to head to Earth after an eight-day mission turned into nine months....",
       "link": "https://www.bbc.com/news/articles/cg4k0d55q24o",
       "pubDate": "Tue, 18 Mar 2025 06:07:59 GMT",
@@ -87,15 +114,6 @@
       "description": "The Conservative leader says the target is impossible \"without a serious drop in our living standards or by bankrupting us\"....",
       "link": "https://www.bbc.com/news/articles/cly3pnjyzp4o",
       "pubDate": "Mon, 17 Mar 2025 22:55:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists at Antarctic base rocked by alleged assault",
-      "description": "A spokesperson for the South African government told the BBC there had been an assault at the station....",
-      "link": "https://www.bbc.com/news/articles/cgkm0k2j6edo",
-      "pubDate": "Mon, 17 Mar 2025 17:55:10 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The end of the EPA’s fight to protect overpolluted communities",
-      "description": "Two former EPA staffers on what the closure of the agency’s environmental justice offices means for the country and the ‘irony’ of Trump’s agenda....",
-      "link": "https://grist.org/regulation/the-end-of-the-epas-fight-to-protect-overpolluted-communities/",
-      "pubDate": "Mon, 17 Mar 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/Trmp-tariffs-groceries-2.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Eleventh annual Logicalis CIO Report 2025 finds 96 per cent of APAC CIOs are prioritising technology to drive new revenue streams",
-      "description": "Lee Chong-Win, CEO, Logicalis Asia Pacific Logicalis, the leading global technology service provider, has released its 11th annual CIO Report 2025, re...",
-      "link": "https://econews.com.au/66771/eleventh-annual-logicalis-cio-report-2025-finds-96-per-cent-of-apac-cios-are-prioritising-technology-to-drive-new-revenue-streams/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eleventh-annual-logicalis-cio-report-2025-finds-96-per-cent-of-apac-cios-are-prioritising-technology-to-drive-new-revenue-streams",
-      "pubDate": "Mon, 17 Mar 2025 02:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png"
     }
   ]
 }
