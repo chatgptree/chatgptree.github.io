@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-18T07:24:11.407Z",
+  "lastUpdated": "2025-03-18T08:31:38.646Z",
   "articles": [
+    {
+      "title": "Utilities are shutting off power to a growing number of households",
+      "description": "While some states ban shutoffs during winter, summer outages are on the rise....",
+      "link": "https://grist.org/climate-energy/utilities-are-shutting-off-power-to-a-growing-number-of-households/",
+      "pubDate": "Tue, 18 Mar 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/06/xcel-energy-cutoffs.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "‘Our people are hungry’: What federal food aid cuts mean in a warming world",
+      "description": "The USDA’s decision to cut $1 billion worth of food aid is causing layoffs, supply shortfalls, and the end of donations at charitable groups across th...",
+      "link": "https://grist.org/food-and-agriculture/our-people-are-hungry-usda-federal-food-aid-cuts/",
+      "pubDate": "Tue, 18 Mar 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/Appalachia-Lions-Club-picking-up-food-boxes-edited.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Did you catch that? On the boats with Cornish fishers – in pictures",
       "description": "&lt;p&gt;Flying lobsters, cuttlefish ink and stargazy pie … Jon Tonks got on his kayak to spend 18 months photographing the incredible fishing communi...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png"
-    },
-    {
-      "title": "Small electric cars were said to be the future – but SUVs now rule the road",
-      "description": "Despite dire predictions of climate breakdown, more Sports Utility Vehicles are being spotted on, and off, the roads....",
-      "link": "https://www.bbc.com/news/articles/c778ekg64mjo",
-      "pubDate": "Mon, 17 Mar 2025 00:03:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Small electric cars were said to be the future – but SUVs now rule the road",
-      "description": "Despite dire predictions of climate breakdown, more Sports Utility Vehicles are being spotted on, and off, the roads....",
-      "link": "https://www.bbc.com/news/articles/c778ekg64mjo",
-      "pubDate": "Mon, 17 Mar 2025 00:03:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
