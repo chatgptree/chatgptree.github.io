@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-18T01:55:34.379Z",
+  "lastUpdated": "2025-03-18T03:02:10.865Z",
   "articles": [
     {
       "title": "Severe Weather Warnings Persist After a Deadly Weekend of Tornadoes, Dust Storms and Fires",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Mysterious sea foam on South Australian beaches reportedly leaves more than 100 surfers ill",
-      "description": "&lt;p&gt;Leafy seadragons, fish, and octopuses among creatures to have washed up dead on both Waitpinga Beach and Parsons Beach&lt;/p&gt;&lt;ul&gt;&lt...",
+      "description": "&lt;p&gt;Leafy seadragons, fish, and octopuses among creatures to have washed up dead on both Waitpinga beach and Parsons beach&lt;/p&gt;&lt;ul&gt;&lt...",
       "link": "https://www.theguardian.com/australia-news/2025/mar/18/mysterious-sea-foam-on-south-australian-beaches-reportedly-leaves-more-than-100-surfers-ill",
       "pubDate": "Tue, 18 Mar 2025 00:15:21 GMT",
       "sourceName": "theguardian.com",
@@ -42,15 +42,6 @@
       "description": "A spokesperson for the South African government told the BBC there had been an assault at the station....",
       "link": "https://www.bbc.com/news/articles/cgkm0k2j6edo",
       "pubDate": "Mon, 17 Mar 2025 17:55:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Stranded astronauts' Butch and Suni set to begin journey home",
-      "description": "The Nasa astronauts prepare to head to Earth after an eight-day mission turned into nine months....",
-      "link": "https://www.bbc.com/news/articles/cg4k0d55q24o",
-      "pubDate": "Mon, 17 Mar 2025 17:12:29 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -180,6 +171,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/233aba9c3519bff5039b47c0bae87842e291aa5b/0_300_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d52bbc32ef5f6bd24780f93b06843672"
+    },
+    {
+      "title": "A greener Ramadan: How Atlanta-area mosques are cutting food waste during the Muslim holy month",
+      "description": "At some places of worship, hundreds of people attend the evening breaking of the fast — which means a lot of discarded food and plastic water bottles....",
+      "link": "https://grist.org/food-and-agriculture/a-greener-ramadan-how-atlanta-area-mosques-are-cutting-food-waste-during-the-muslim-holy-month/",
+      "pubDate": "Sun, 16 Mar 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/BahadurAliSohani.jpg?quality=75&amp;strip=all"
     }
   ]
 }
