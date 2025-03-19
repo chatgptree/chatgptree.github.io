@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-19T08:32:45.615Z",
+  "lastUpdated": "2025-03-19T09:27:58.959Z",
   "articles": [
+    {
+      "title": "The Soybean Innovation Lab Is Set to Close in April After Trump Cuts",
+      "description": "At the University of Illinois Urbana-Champaign, an island in a sea of farmland where corn and soybeans grow, sits the Soybean Innovation Lab. The inst...",
+      "link": "https://insideclimatenews.org/news/19032025/usaid-soybean-innovation-lab-to-close-after-trump-cuts/",
+      "pubDate": "Wed, 19 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the Klamath Dams Came Down",
+      "description": "Loading... How the Klamath Dams Came Down By Anita Hofschneider and Jake Bittle Illustrations by Jackie Fawn March 19, 2025 Last year, tribal nations ...",
+      "link": "https://grist.org/project/indigenous/klamath-river-dam-removal-tribe-pacificorp-salmon/",
+      "pubDate": "Wed, 19 Mar 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/klamath-dam-removal-1.webp?quality=75&amp;strip=all"
+    },
     {
       "title": "Alaska Natives want the US military to clean up its toxic waste",
       "description": "Now they're turning to the UN for help....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8b21b2845aa649d727ff6d9e5ba096d56b4cc4e5/2611_1661_4157_2494/master/4157.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80e121b451e0f561f3ad28637793f890"
-    },
-    {
-      "title": "Hope for endangered penguins as no-fishing zones agreed off South Africa",
-      "description": "&lt;p&gt;Deal will restrict fishing near colonies on Robben Island and Bird Island for 10 years, after long debate between industry and conservationis...",
-      "link": "https://www.theguardian.com/environment/2025/mar/18/hope-for-endangered-penguins-as-no-fishing-zones-agreed-off-south-africa",
-      "pubDate": "Tue, 18 Mar 2025 11:20:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/aa9f16c271c7a9e8d7cdef337b5354278f19ec5d/0_48_5085_3051/master/5085.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24c6b6bb3384fe45268a689907e92dcc"
-    },
-    {
-      "title": "Scientists at Antarctic base rocked by alleged assault",
-      "description": "A spokesperson for the South African government told the BBC there had been an assault at the station....",
-      "link": "https://www.bbc.com/news/articles/cgkm0k2j6edo",
-      "pubDate": "Tue, 18 Mar 2025 09:03:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
