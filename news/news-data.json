@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-19T22:23:32.570Z",
+  "lastUpdated": "2025-03-19T23:23:38.318Z",
   "articles": [
+    {
+      "title": "EPA Deregulation Would Be a ‘Tragedy’ for Health, Experts Say",
+      "description": "The Environmental Protection Agency’s proposed rollbacks of pollution regulations would kill Americans and be a “tragedy” for health, physicians and p...",
+      "link": "https://insideclimatenews.org/news/19032025/epa-deregulation-public-health-risk/",
+      "pubDate": "Wed, 19 Mar 2025 23:04:27 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Dark Energy experiment challenges Einstein's theory of Universe",
       "description": "New research could force a fundamental rethink of the nature of space and time....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/eb55d39b6eee01fa8027959e84d02a3edad1f2fd/0_240_5000_3001/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e2bed9c2d99338f1a431fd740f064fa"
-    },
-    {
-      "title": "You rely on this agency’s data for weather and climate forecasts. DOGE is decimating its workforce.",
-      "description": "The National Oceanic and Atmospheric Administration plans to cut 20 percent of its workforce, a move the agency's former chair warned will be felt thr...",
-      "link": "https://grist.org/politics/you-rely-on-this-agencys-data-for-weather-and-climate-forecasts-doge-is-decimating-its-workforce/",
-      "pubDate": "Tue, 18 Mar 2025 19:19:25 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
