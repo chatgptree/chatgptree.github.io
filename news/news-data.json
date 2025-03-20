@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-20T07:22:48.148Z",
+  "lastUpdated": "2025-03-20T08:31:18.509Z",
   "articles": [
+    {
+      "title": "Why a tree-planting nonprofit in Chicago is suing the Trump administration",
+      "description": "Similar programs across the country are also struggling....",
+      "link": "https://grist.org/politics/why-a-tree-planting-nonprofit-in-chicago-is-suing-the-trump-administration/",
+      "pubDate": "Thu, 20 Mar 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/09/GettyImages-129369806.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Badenoch’s attack on net zero is ridiculous. But so were the right’s Brexit claims, and look where they left us | Zoe Williams",
+      "description": "&lt;p&gt;The run-up to 2016 shows ‘common sense’ isn’t enough. Even ignorant, reactionary arguments must be properly countered&lt;/p&gt;&lt;p&gt;Kemi ...",
+      "link": "https://www.theguardian.com/commentisfree/2025/mar/20/kemi-badenoch-net-zero-brexit-right-climate",
+      "pubDate": "Thu, 20 Mar 2025 08:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/476b2acc87dac2bfe5e2ebba2502a29952d5cb0d/0_168_8256_4954/master/8256.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e53ff5b6207e9cd91d51a8380c0aaefb"
+    },
+    {
+      "title": "RSCPA revokes Huon’s accreditation after video showing live salmon being dumped in Tasmania",
+      "description": "&lt;p&gt;It means no Tasmanian salmon companies are certified as meeting the RSPCA-approved standard, its chief executive says&lt;/p&gt;&lt;ul&gt;&lt;...",
+      "link": "https://www.theguardian.com/australia-news/2025/mar/20/rscpa-revokes-huon-salmons-accreditation-after-video-showing-live-fish-being-dumped-in-tasmania-ntwnfb",
+      "pubDate": "Thu, 20 Mar 2025 07:23:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dd29f0dc3cb594a0febffd4810f6afefa438cbda/0_70_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc6819aea4e84dade0e357b5c13fdf53"
+    },
     {
       "title": "UK must spend £1.5bn a year on flood defences to protect public, experts warn",
       "description": "&lt;p&gt;Researchers cite £2.4bn annual cost of flooding and say a third of England’s critical infrastructure is at risk&lt;/p&gt;&lt;p&gt;Spending on...",
@@ -63,15 +90,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Albanese to rush through new laws to protect Tasmania’s salmon industry from legal challenge",
-      "description": "&lt;p&gt;Labor will push the contentious bill through parliament next week despite concerns about the extinction of the Maugean skate&lt;/p&gt;&lt;ul&...",
-      "link": "https://www.theguardian.com/australia-news/2025/mar/19/albanese-to-rush-through-new-laws-to-protect-tasmanias-salmon-industry-from-legal-threat",
-      "pubDate": "Thu, 20 Mar 2025 00:06:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8d1db99d054c7cd2f41394bab27a96f07f9c70cf/62_0_3600_2160/master/3600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f306ffeaa78e3cd1b650a0064e2e694c"
     },
     {
       "title": "Australia’s only food festival for kids is back!",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e45cb666f48ca3b606902e59e2c72eae86e24c15/0_0_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10e95e6d9046d192842e0ea14157a479"
-    },
-    {
-      "title": "The Soybean Innovation Lab Is Set to Close in April After Trump Cuts",
-      "description": "At the University of Illinois Urbana-Champaign, an island in a sea of farmland where corn and soybeans grow, sits the Soybean Innovation Lab. The inst...",
-      "link": "https://insideclimatenews.org/news/19032025/usaid-soybean-innovation-lab-to-close-after-trump-cuts/",
-      "pubDate": "Wed, 19 Mar 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the Klamath Dams Came Down",
-      "description": "Loading... How the Klamath Dams Came Down By Anita Hofschneider and Jake Bittle Illustrations by Jackie Fawn March 19, 2025 Last year, tribal nations ...",
-      "link": "https://grist.org/project/indigenous/klamath-river-dam-removal-tribe-pacificorp-salmon/",
-      "pubDate": "Wed, 19 Mar 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/klamath-dam-removal-1.webp?quality=75&amp;strip=all"
     }
   ]
 }
