@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-20T16:31:33.671Z",
+  "lastUpdated": "2025-03-20T17:22:08.496Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "And after two Nasa astronauts were finally brought home, we ask why SpaceX stole the show....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002909y",
+      "pubDate": "Thu, 20 Mar 2025 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Caught off guard’: EPA proposes to fire hundreds of scientists",
+      "description": "“This is not designed to cut expenses, it's designed to destroy,” one official said....",
+      "link": "https://grist.org/politics/caught-off-guard-epa-proposes-to-fire-hundreds-of-scientists/",
+      "pubDate": "Thu, 20 Mar 2025 16:42:45 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/protect_the_epa.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Defra asks England’s biggest landowners to come up with plans to restore nature",
+      "description": "&lt;p&gt;Exclusive: Representatives of king, National Trust and others called on to work together to protect environment&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/environment/2025/mar/20/defra-england-biggest-landowners-plans-restore-nature",
+      "pubDate": "Thu, 20 Mar 2025 16:32:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/67e9fc4f8ab7c08cb69122a6dbf3d6be8511b5be/0_199_5760_3456/master/5760.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99251b60125bd1a8d2ffd3f00bd96cd7"
+    },
     {
       "title": "Greenpeace verdict is ‘weaponization of legal system’, advocacy groups say",
       "description": "&lt;p&gt;Campaigners condemn North Dakota jury’s ruling as Greenpeace must pay Energy Transfer at least $660m&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Never miss ...",
@@ -137,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/901e9b0f139198431fdcd35902c774a9ae7544f9/0_0_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f81cc4278e577f29f894e90b014d4c6"
     },
     {
-      "title": "Take a blossom break at work, National Trust urges, as spring warms UK",
-      "description": "&lt;p&gt;Charity’s poll finds 80% feel more positive after spending breaks outside, but only 10% do so&lt;/p&gt;&lt;p&gt;Employees are being urged to ...",
-      "link": "https://www.theguardian.com/uk-news/2025/mar/20/blossom-break-work-national-trust-spring-warms-uk",
-      "pubDate": "Thu, 20 Mar 2025 05:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6917169ffb4bd0d3bd72900dfa753e505a9516fe/0_737_4105_2463/master/4105.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=afacccfd0a5096c2aa923542ee86c4f0"
-    },
-    {
       "title": "Boral launches Australian-first crumbed rubber asphalt bitumen surfacing derived from heavy-duty industrial vehicle tyres",
       "description": "Australian-first proprietary crumbed rubber asphalt bitumen that replaces common crumbed rubber with that from Off the Road (OTR) tyres was used in ro...",
       "link": "https://econews.com.au/66782/boral-launches-australian-first-crumbed-rubber-asphalt-bitumen-surfacing-derived-from-heavy-duty-industrial-vehicle-tyres/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=boral-launches-australian-first-crumbed-rubber-asphalt-bitumen-surfacing-derived-from-heavy-duty-industrial-vehicle-tyres",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Global-Data-1-1024x549.png"
-    },
-    {
-      "title": "HB11 Energy partners with University of Adelaide on Australian-first $8.2M national laser facility, out of Adelaide",
-      "description": "Laser fusion energy company HB11 Energy has signed an $8.2 million agreement with Defence Trailblazer to commercialise the world’s first-of-a-kind las...",
-      "link": "https://econews.com.au/66778/hb11-energy-partners-with-university-of-adelaide-on-australian-first-8-2m-national-laser-facility-out-of-adelaide/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hb11-energy-partners-with-university-of-adelaide-on-australian-first-8-2m-national-laser-facility-out-of-adelaide",
-      "pubDate": "Thu, 20 Mar 2025 02:03:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "COMPANIES FLAGGING CLIMATE RISKS IN FINANCIAL STATEMENTS DOUBLES IN FOUR YEARS",
-      "description": "Chartered Accountants ANZ The number of companies reporting the effects of climate risks in their financial statements has more than doubled in the la...",
-      "link": "https://econews.com.au/66776/companies-flagging-climate-risks-in-financial-statements-doubles-in-four-years/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=companies-flagging-climate-risks-in-financial-statements-doubles-in-four-years",
-      "pubDate": "Thu, 20 Mar 2025 02:03:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
