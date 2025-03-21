@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-03-21T08:30:43.086Z",
+  "lastUpdated": "2025-03-21T09:25:42.817Z",
   "articles": [
+    {
+      "title": "Sewage in England’s rivers and seas – in pictures",
+      "description": "&lt;p&gt;The pumping of sewage into rivers and seas has become a scandal in Britain. Photographer Dylan Martinez has spent years travelling around the...",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/mar/21/sewage-in-englands-rivers-and-seas-in-pictures",
+      "pubDate": "Fri, 21 Mar 2025 09:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e2fec3fc49323fe046277323fbf37ddcdbf15e2f/0_1156_8073_4844/master/8073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b62985a2648793d4fc3900924666c3a"
+    },
+    {
+      "title": "Bills Increasing Small-Scale Solar Requirements in Virginia Awaiting Action by Youngkin",
+      "description": "RICHMOND, Va.—It’s all eyes on Virginia Republican Gov. Glenn Youngkin now to take action on a number of bills aimed at increasing renewable energy de...",
+      "link": "https://insideclimatenews.org/news/21032025/virginia-small-scale-solar-bills-governor-glenn-youngkin/",
+      "pubDate": "Fri, 21 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "For the First Time, Alabama Says Methane ‘Likely’ Caused Fatal Home Explosion Above Coal Mine",
+      "description": "OAK GROVE, Ala.—For the first time, an Alabama official has said that a fatal March 2024 home explosion above an expanding longwall mine in the centra...",
+      "link": "https://insideclimatenews.org/news/21032025/alabama-officials-say-methane-likely-caused-fatal-home-explosion-above-coal-mine/",
+      "pubDate": "Fri, 21 Mar 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The EPA wants to roll back a rule that’s essential for protecting you from chemical disasters",
+      "description": "Few regulations have been as subject to the yo-yo of successive presidential administrations and their political whims....",
+      "link": "https://grist.org/regulation/epa-lee-zeldin-risk-management-program/",
+      "pubDate": "Fri, 21 Mar 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/GettyImages-2204326341.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Farmers and small business owners were promised financial help for energy upgrades. They&#8217;re still waiting for the money.",
       "description": "Rural residents are left holding the bills for everything from solar panels to grain dryers....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bd62d978ff3c12d63d0b9a580d1a50a821304fa2/0_96_2880_1728/master/2880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=244ad499a3902a5ca5ec09d611eba5cb"
-    },
-    {
-      "title": "UC Berkeley Faculty Organize Rally to Protest Trump’s Attacks on Academic Freedom",
-      "description": "Hundreds of people gathered on the University of California, Berkeley campus Wednesday to protest the Trump administration’s latest attack on academic...",
-      "link": "https://insideclimatenews.org/news/20032025/uc-berkeley-faculty-protest-trump-attacks-on-academic-freedom/",
-      "pubDate": "Thu, 20 Mar 2025 19:55:24 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Spanish parliament vote on cutting food waste will end ban on wolf hunting",
-      "description": "&lt;p&gt;Amendment brought by coalition of parties says wolves add to food waste due to remains of livestock they kill&lt;/p&gt;&lt;p&gt;The Spanish p...",
-      "link": "https://www.theguardian.com/world/2025/mar/20/spanish-parliament-vote-on-cutting-food-waste-will-end-ban-on-wolf-hunting",
-      "pubDate": "Thu, 20 Mar 2025 18:46:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0a58bb56b75841191142629a26a82b31f555edfc/0_34_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b90efbfaba523dd78b2b036dd31e2a1a"
-    },
-    {
-      "title": "Black farmers face setbacks over Trump budget cuts: ‘We are in survival mode’",
-      "description": "&lt;p&gt;A consortium of Black farmers in the north-east take financial hits as harsh USDA cuts threaten their operations&lt;/p&gt;&lt;p&gt;For the la...",
-      "link": "https://www.theguardian.com/environment/2025/mar/20/black-farmers-trump-usda-budget-cuts",
-      "pubDate": "Thu, 20 Mar 2025 18:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/03c2824c14378879de6ebebf042ecfa5d1815021/0_605_4032_2419/master/4032.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64cbe2672d792384e881268e74991f19"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "And after two Nasa astronauts were finally brought home, we ask why SpaceX stole the show....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002909y",
-      "pubDate": "Thu, 20 Mar 2025 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
