@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-03-21T21:21:43.698Z",
+  "lastUpdated": "2025-03-21T22:23:29.082Z",
   "articles": [
+    {
+      "title": "Trump Executive Order Streamlines Mining Permits. Environmentalists Fear What Comes Next",
+      "description": "President Donald Trump signed an executive order behind closed doors on Thursday that aims to fast-track mining projects across the country and priori...",
+      "link": "https://insideclimatenews.org/news/21032025/trump-order-streamlines-mining-permits/",
+      "pubDate": "Fri, 21 Mar 2025 22:21:51 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What a $660 Million Verdict Means for Greenpeace and the Environmental Movement",
+      "description": "This week, a jury in North Dakota found Greenpeace liable for more than $660 million in damages to Energy Transfer, the company behind the Dakota Acce...",
+      "link": "https://insideclimatenews.org/news/21032025/energy-transfer-awarded-660-million-verdict-against-greenpeace-for-role-in-standing-rock-protest/",
+      "pubDate": "Fri, 21 Mar 2025 22:11:53 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A court ordered Greenpeace to pay a pipeline company $660M. What happens next?",
+      "description": "Experts called the verdict “beyond punitive.” The organization plans to appeal and has already filed a countersuit in Europe....",
+      "link": "https://grist.org/indigenous/a-court-ordered-greenpeace-to-pay-a-pipeline-company-660m-what-happens-next/",
+      "pubDate": "Fri, 21 Mar 2025 21:49:48 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/deepa-greenpeace.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Fired National Park Service Staff Will Be Reinstated, but Long-Term Threats Loom",
+      "description": "On Feb. 14, the Trump administration fired around 1,000 employees from the National Park Service, part of a widespread federal workforce purge that ma...",
+      "link": "https://insideclimatenews.org/news/21032025/todays-climate-fired-national-parks-workers-reinstated/",
+      "pubDate": "Fri, 21 Mar 2025 21:32:27 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on climate fiction: no longer the stuff of sci-fi | Editorial",
       "description": "&lt;p&gt;A new prize recognises the power of storytelling to address the biggest issue of our time&lt;/p&gt;&lt;p&gt;No novelist should ignore the cli...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/04f20e4e7db14bde40773a94e9688211f387b3f6/0_51_2524_1514/master/2524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7e561328c613915adda282470452f08"
-    },
-    {
-      "title": "New national forest to see 20m trees planted",
-      "description": "The government says the new Western Forest project will help the UK meet its tree-planting targets....",
-      "link": "https://www.bbc.com/news/articles/c93nxj5n5g9o",
-      "pubDate": "Fri, 21 Mar 2025 06:06:16 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New national forest to see 20m trees planted",
-      "description": "The government says the new Western Forest project will help the UK meet its tree-planting targets....",
-      "link": "https://www.bbc.com/news/articles/c93nxj5n5g9o",
-      "pubDate": "Fri, 21 Mar 2025 06:06:16 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New machine makes it easy to return and earn in Tamworth",
-      "description": "Family recycling at Return and Earn Return and Earn Tamworth residents have a new location to recycle their eligible bottles, cans and cartons with th...",
-      "link": "https://econews.com.au/66790/new-machine-makes-it-easy-to-return-and-earn-in-tamworth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-machine-makes-it-easy-to-return-and-earn-in-tamworth",
-      "pubDate": "Fri, 21 Mar 2025 06:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Stockland powers up with the 2025 Big Battery Rescue school challenge",
-      "description": "Stockland is again partnering with The National Theatre for Children (NTC) for the 2025 Big Battery Rescue School Challenge—a nationwide initiative ai...",
-      "link": "https://econews.com.au/66788/stockland-powers-up-with-the-2025-big-battery-rescue-school-challenge/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stockland-powers-up-with-the-2025-big-battery-rescue-school-challenge",
-      "pubDate": "Fri, 21 Mar 2025 06:02:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/P1133655-1024x574.jpg"
     }
   ]
 }
