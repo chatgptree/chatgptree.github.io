@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-22T12:43:10.648Z",
+  "lastUpdated": "2025-03-22T13:25:12.224Z",
   "articles": [
+    {
+      "title": "Gutting clean energy incentives would drive up electric bills",
+      "description": "Rising energy costs are a problem in the U.S. Ending Inflation Reduction Act tax credits and ramping up fossil fuels would make it even worse....",
+      "link": "https://grist.org/energy/gutting-clean-energy-incentives-would-drive-up-electric-bills/",
+      "pubDate": "Sat, 22 Mar 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/Energy-Innovation-IRA-repeal-March-20-household-cost-increase-graph.webp?quality=75&amp;strip=all"
+    },
     {
       "title": "Scientists identify ‘tipping point’ that caused clumps of toxic Florida seaweed",
       "description": "&lt;p&gt;Giant blobs along 5,000-mile-wide sargassum belt has killed animals, harmed human health and discouraged tourism&lt;/p&gt;&lt;p&gt;Scientists...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e2fec3fc49323fe046277323fbf37ddcdbf15e2f/0_1156_8073_4844/master/8073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b62985a2648793d4fc3900924666c3a"
-    },
-    {
-      "title": "Bills Increasing Small-Scale Solar Requirements in Virginia Awaiting Action by Youngkin",
-      "description": "RICHMOND, Va.—It’s all eyes on Virginia Republican Gov. Glenn Youngkin now to take action on a number of bills aimed at increasing renewable energy de...",
-      "link": "https://insideclimatenews.org/news/21032025/virginia-small-scale-solar-bills-governor-glenn-youngkin/",
-      "pubDate": "Fri, 21 Mar 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
