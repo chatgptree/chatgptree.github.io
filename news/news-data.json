@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-24T08:32:49.428Z",
+  "lastUpdated": "2025-03-24T09:27:19.518Z",
   "articles": [
+    {
+      "title": "Congress Is Searching for Trillions of Dollars in Cuts. Will the Oil Industry’s Tax Breaks Skate By?",
+      "description": "If the only things certain in life are death and taxes, you might say corporate lobbyists spend much of their time trying to avoid at least one of the...",
+      "link": "https://insideclimatenews.org/news/24032025/congress-oil-industry-tax-breaks/",
+      "pubDate": "Mon, 24 Mar 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Treating Texas’ Oilfield Wastewater Could Require More Energy Than Most U.S. States",
+      "description": "As Texas stares down a water shortfall, its leaders are looking at vast volumes of brown, briney oilfield wastewater as a hopeful source of future sup...",
+      "link": "https://insideclimatenews.org/news/24032025/texas-oilfield-wastewater-treatment-small-nuclear-reactors/",
+      "pubDate": "Mon, 24 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Power companies would rather not clean their toxic messes. Trump’s EPA is granting their wish.",
+      "description": "Advocates fear the agency will “justify avoiding any enforcement whatsoever” of millions of tons of coal ash nationwide....",
+      "link": "https://grist.org/health/coal-ash-epa-lee-zeldin-trump/",
+      "pubDate": "Mon, 24 Mar 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/GettyImages-2204326341.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Environmentalists in Israel and Palestine fight to save cross-border water resources",
       "description": "\"The health of Palestinians affects the health of Israelis and vice versa. And the best example is water.\"...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/TGU_RIGHTAMOUNT_MOCK_16x9-1024x576.jpg"
-    },
-    {
-      "title": "Osmose and Neara are teaming up to enable utilities like CenterPoint Energy to evaluate asset risk with greater precision and improve underlying network data quality and utilisation.",
-      "description": "Neara founders Jack Curtis, Dan Danilatos and Karamvir Singh (left to right) Osmose, the leading provider of utility infrastructure asset assessment, ...",
-      "link": "https://econews.com.au/66792/osmose-and-neara-are-teaming-up-to-enable-utilities-like-centerpoint-energy-to-evaluate-asset-risk-with-greater-precision-and-improve-underlying-network-data-quality-and-utilisation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=osmose-and-neara-are-teaming-up-to-enable-utilities-like-centerpoint-energy-to-evaluate-asset-risk-with-greater-precision-and-improve-underlying-network-data-quality-and-utilisation",
-      "pubDate": "Sat, 22 Mar 2025 01:03:12 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Large-urban-network-model-3-1-1024x553.jpg"
-    },
-    {
-      "title": "Trump Executive Order Streamlines Mining Permits. Environmentalists Fear What Comes Next",
-      "description": "President Donald Trump signed an executive order behind closed doors on Thursday that aims to fast-track mining projects across the country and priori...",
-      "link": "https://insideclimatenews.org/news/21032025/trump-order-streamlines-mining-permits/",
-      "pubDate": "Fri, 21 Mar 2025 22:21:51 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What a $660 Million Verdict Means for Greenpeace and the Environmental Movement",
-      "description": "This week, a jury in North Dakota found Greenpeace liable for more than $660 million in damages to Energy Transfer, the company behind the Dakota Acce...",
-      "link": "https://insideclimatenews.org/news/21032025/energy-transfer-awarded-660-million-verdict-against-greenpeace-for-role-in-standing-rock-protest/",
-      "pubDate": "Fri, 21 Mar 2025 22:11:53 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
