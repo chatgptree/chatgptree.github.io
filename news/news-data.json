@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-25T09:26:34.075Z",
+  "lastUpdated": "2025-03-25T10:27:39.295Z",
   "articles": [
+    {
+      "title": "I’m a vet for bees – I think I might be the only one in the US",
+      "description": "&lt;p&gt;Every bee is precious, and as the weather gets more erratic I’m growing concerned about the effect it is having on their wellbeing&lt;/p&gt;&...",
+      "link": "https://www.theguardian.com/environment/2025/mar/25/bees-beekeepers-veterinarian-north-carolina-pollinators-climate-aoe",
+      "pubDate": "Tue, 25 Mar 2025 10:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1a7db142ab1622142689a0c4762c785c87e0a7f4/0_0_4200_2520/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae708527c53d65ceac599dab4b40f78"
+    },
+    {
+      "title": "US honeybee deaths hit record high as scientists scramble to find main cause",
+      "description": "&lt;p&gt;US Department of Agriculture calls in university to help study decline as Trump administration staff cuts sting&lt;/p&gt;&lt;p&gt;&lt;a href=...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/25/honeybees-deaths-record-high",
+      "pubDate": "Tue, 25 Mar 2025 10:00:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ddbb4889fe4a8b0686f7bdaf1b74cc7a365ba0df/0_200_3000_1799/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eac380ba35afcc1cf9e3c472abccb8e2"
+    },
     {
       "title": "The European Politician Bringing Nature Into the Halls of Power",
       "description": "In 2019, Carola Rackete faced serious jail time. She had just rescued dozens of migrants in dire condition off the coast of Libya. Defying the Italian...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "No 10 shrugs off Trump envoy’s claim that Starmer’s Ukraine policy amounts to posturing – as it happened",
-      "description": "&lt;p&gt;Downing Street says PM focusing on ‘bringing durable peace in Ukraine’ after Steve Witkoff’s comments&lt;/p&gt;&lt;p&gt;There have been a lot...",
-      "link": "https://www.theguardian.com/politics/live/2025/mar/24/keir-starmer-spring-statement-radio-5-live-potholes-uk-politics-news",
-      "pubDate": "Mon, 24 Mar 2025 17:48:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f68add2e461addfa5cca39c1136408c3a124f731/379_50_5220_3133/master/5220.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d0aa487dbc8a4fb6ef2f79093fac9b9a"
-    },
-    {
-      "title": "UK charities urge ministers to stop scapegoating nature for planning failures",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;RSPB and National Trust among groups saying rhetoric from Rachel Reeves and Keir Starmer at odds with...",
-      "link": "https://www.theguardian.com/politics/2025/mar/24/scapegoating-nature-planning-failures-charities-rspb-national-trust",
-      "pubDate": "Mon, 24 Mar 2025 15:39:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6a73e720d970cc3983e19f8c2e7bda47b4b32c73/0_107_4002_2401/master/4002.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddaa0ce94afd8853c41ca27358242094"
     }
   ]
 }
