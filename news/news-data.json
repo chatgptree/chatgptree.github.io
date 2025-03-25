@@ -1,11 +1,38 @@
 {
-  "lastUpdated": "2025-03-25T07:25:50.796Z",
+  "lastUpdated": "2025-03-25T08:31:18.013Z",
   "articles": [
     {
-      "title": "‘Alarming’ bill to protect Tasmanian salmon farming could stop communities challenging other projects",
-      "description": "&lt;p&gt;Amid fears of a ‘wide-scale rollback’ of protections, there are questions over whether ‘rushed legislation’ would actually work&lt;/p&gt;&lt;...",
+      "title": "Can cities ban natural gas in new buildings? A federal judge just said yes.",
+      "description": "After a string of discouraging rulings for other cities, a court upheld NYC's efforts to decarbonize its buildings....",
+      "link": "https://grist.org/buildings/natural-gas-in-new-buildings-nyc-berkeley-lawsuits/",
+      "pubDate": "Tue, 25 Mar 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/water-gas-pipes-meters-building.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "These vegan meat brands taste almost as good as the real thing. Taste tests prove it.",
+      "description": "New research shows which products are closest to \"taste parity\" — and which need more work....",
+      "link": "https://grist.org/food-and-agriculture/best-vegan-meat-brands-taste-test-nectar-almost-as-good-as-the-real-thing/",
+      "pubDate": "Tue, 25 Mar 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/taste-test.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Trump administration moves to shutter mine safety offices in coal country",
+      "description": "Miners and their advocates worry that DOGE's cuts to the Mine Safety and Health Administration will put them at risk....",
+      "link": "https://grist.org/accountability/trump-administration-moves-to-shutter-mine-safety-offices-in-coal-country/",
+      "pubDate": "Tue, 25 Mar 2025 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/04/silica-exposure-rule-coal-miners-black-lung.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Bill to protect Tasmanian salmon farming passes House despite fears of ‘alarming’ environmental protections rollback",
+      "description": "&lt;p&gt;Environment minister defends ‘balanced and sensible’ changes amid questions of how ‘rushed legislation’ would work&lt;/p&gt;&lt;ul&gt;&lt;li&...",
       "link": "https://www.theguardian.com/australia-news/2025/mar/25/alarming-bill-to-protect-tasmanian-salmon-farming-could-stop-communities-challenging-other-projects-ntwnfb",
-      "pubDate": "Tue, 25 Mar 2025 07:18:35 GMT",
+      "pubDate": "Tue, 25 Mar 2025 07:31:17 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/27f09db0832266df0ad9a8d7048748ab21c3762b/0_0_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf3bbcc5da85d0ee5685d6b165b6b97a"
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/GettyImages-2204326341.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Environmentalists in Israel and Palestine fight to save cross-border water resources",
-      "description": "\"The health of Palestinians affects the health of Israelis and vice versa. And the best example is water.\"...",
-      "link": "https://grist.org/international/environmentalists-in-israel-and-palestine-fight-to-save-cross-border-water-resources/",
-      "pubDate": "Mon, 24 Mar 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/WadiGazaGetty2-1244567219.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "New hi-tech buoys improve south coast scientific monitoring",
-      "description": "Charlotte Uphues with wave monitoring buoy The introduction of new Spotter buoys to measure wave height and direction, and temperature in the sea off ...",
-      "link": "https://econews.com.au/66800/new-hi-tech-buoys-improve-south-coast-scientific-monitoring/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-hi-tech-buoys-improve-south-coast-scientific-monitoring",
-      "pubDate": "Mon, 24 Mar 2025 05:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Spotter-buoys-at-Victor-Harbor-1024x701.jpg"
-    },
-    {
-      "title": "Australian Museum Lizard Island Research Station Welcomes New Co-Directors Dr Emily Howells and Dr David Abrego",
-      "description": "Dr David Abrego Dr Emily Howells. New Co-directors of Australian Museum Lizard Island Research Station Outgoing Co-Directors Dr Anne Hoggett AM and Dr...",
-      "link": "https://econews.com.au/66798/australian-museum-lizard-island-research-station-welcomes-new-co-directors-dr-emily-howells-and-dr-david-abrego/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australian-museum-lizard-island-research-station-welcomes-new-co-directors-dr-emily-howells-and-dr-david-abrego",
-      "pubDate": "Mon, 24 Mar 2025 05:02:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
