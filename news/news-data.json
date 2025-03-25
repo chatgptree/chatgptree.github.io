@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-24T23:24:12.885Z",
+  "lastUpdated": "2025-03-25T01:57:13.053Z",
   "articles": [
+    {
+      "title": "Australians deserve answers on climate before they vote. Here are five things we still don’t know | Adam Morton",
+      "description": "&lt;p&gt;From our broken environmental laws to the role of gas, there are some big questions that remain unanswered by both major parties&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/commentisfree/2025/mar/25/australians-deserve-answers-on-climate-before-they-vote-here-are-five-things-we-still-dont-know",
+      "pubDate": "Tue, 25 Mar 2025 01:27:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e54ece31ae66dfa7e84bb9fd8834fd2243be9bec/0_125_3761_2258/master/3761.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ea7409a0d65f92c9bf653e2012e51c1"
+    },
+    {
+      "title": "EPA Decimates Grant Program Aimed at Measuring and Reducing Construction Material Emissions",
+      "description": "The Trump administration has eviscerated a grant program designed to make U.S. industry cleaner and more competitive by improving measurement of emiss...",
+      "link": "https://insideclimatenews.org/news/24032025/epa-decimates-c-more-grant-program-construction-material-emissions/",
+      "pubDate": "Tue, 25 Mar 2025 00:36:02 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Will Texas Become ‘the Epicenter of a National Nuclear Renaissance’?",
+      "description": "Texas lawmakers are considering a bill to resuscitate the state’s nuclear power industry through a taxpayer-funded incentives program. State Rep. Cody...",
+      "link": "https://insideclimatenews.org/news/24032025/texas-national-nuclear-renaissance/",
+      "pubDate": "Tue, 25 Mar 2025 00:00:48 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Despite Staff and Budget Cuts, NOAA Issues Critical Drought Warnings in Its Spring Climate Outlook",
       "description": "The National Oceanic and Atmospheric Administration, although battered by Trump administration attempts to impose massive staff and budget cuts on the...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/Energy-Innovation-IRA-repeal-March-20-household-cost-increase-graph.webp?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Scientists identify ‘tipping point’ that caused clumps of toxic Florida seaweed",
-      "description": "&lt;p&gt;Giant blobs along 5,000-mile-wide sargassum belt has killed animals, harmed human health and discouraged tourism&lt;/p&gt;&lt;p&gt;Scientists...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/22/cause-toxic-seaweed-florida-sargassum",
-      "pubDate": "Sat, 22 Mar 2025 10:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3554e30c1454345c3c39bd70a12d25712ab80176/0_73_1181_709/master/1181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99b4e5191c7554e83f54ebc82740f9de"
-    },
-    {
-      "title": "Can Colorado Keep Its Momentum on Climate Action as the Trump Administration Pulls Back Federal Support?",
-      "description": "DENVER—Few states over the past decade have been as progressive on climate action as Colorado, which is endeavoring to reduce its greenhouse gas emiss...",
-      "link": "https://insideclimatenews.org/news/22032025/colorado-climate-action-trump-administration/",
-      "pubDate": "Sat, 22 Mar 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What Gutting Environmental Justice Means for the Future of the EPA",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with David Cash, the former ...",
-      "link": "https://insideclimatenews.org/news/22032025/epa-future-environmental-justice/",
-      "pubDate": "Sat, 22 Mar 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
