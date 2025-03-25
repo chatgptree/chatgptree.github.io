@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-25T22:24:27.409Z",
+  "lastUpdated": "2025-03-25T23:22:22.338Z",
   "articles": [
+    {
+      "title": "NOAA Cuts Weather Balloon Launches Due to Staff Shortages After DOGE Layoffs",
+      "description": "The National Weather Service is reducing the number of weather balloons it launches across the country, an early tangible decrease in services offered...",
+      "link": "https://insideclimatenews.org/news/25032025/noaa-cuts-weather-balloon-launches-due-to-staff-shortages-after-doge-layoffs/",
+      "pubDate": "Tue, 25 Mar 2025 23:01:27 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Study Shows Extreme and Far-Reaching Impacts of Sackett Ruling on Federal Wetland Protections",
+      "description": "Wetlands and ephemeral streams provide a wide variety of benefits to people and wildlife, from flood protection for local communities, to preventing p...",
+      "link": "https://insideclimatenews.org/news/25032025/supreme-court-sackett-decision-threatens-wetlands-nrdc-study-finds/",
+      "pubDate": "Tue, 25 Mar 2025 22:44:36 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Climate Change Is the Backdrop to Our Lives, But It’s Missing in Movies",
       "description": "During the summer of 2023, Matthew Schneider-Mayerson and a team of fellow researchers binge-watched 250 of the most-rated movies from the past decade...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/GrowAbility-logo.webp"
-    },
-    {
-      "title": "Intrepid Travel records best-ever business results in 2024",
-      "description": "Credit: Intrepid Travel Certified B Corp lays foundation for international growth with record FY24 performance  Intrepid Travel has announced a record...",
-      "link": "https://econews.com.au/66808/intrepid-travel-records-best-ever-business-results-in-2024/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intrepid-travel-records-best-ever-business-results-in-2024",
-      "pubDate": "Tue, 25 Mar 2025 03:03:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Intrepid-logo.png"
-    },
-    {
-      "title": "BioPak Commits to Reaching Net-Zero GHG Emissions Across Value Chain by 2050",
-      "description": "Globally recognised B Corp and sustainable packaging brand BioPak has today announced its commitment to reaching Net-Zero GHG Emissions across the com...",
-      "link": "https://econews.com.au/66806/biopak-commits-to-reaching-net-zero-ghg-emissions-across-value-chain-by-2050/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=biopak-commits-to-reaching-net-zero-ghg-emissions-across-value-chain-by-2050",
-      "pubDate": "Tue, 25 Mar 2025 03:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
