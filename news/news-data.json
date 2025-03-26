@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-25T23:22:22.338Z",
+  "lastUpdated": "2025-03-26T01:56:35.066Z",
   "articles": [
+    {
+      "title": "[Salmon farming is killing the Maugean Skate] - and the government is letting it happen",
+      "description": "&lt;p&gt;Header image credit: Bob Brown Foundation&lt;/p&gt;\n&lt;p&gt;The endangered Maugean skate is being pushed toward extinction by destructive sa...",
+      "link": "http://www.acf.org.au/salmon-farming-is-killing-the-maugean-skate-and-the-government-is-letting-it-happen",
+      "pubDate": "Wed, 26 Mar 2025 12:13:02 +1100",
+      "sourceName": "acf.org.au",
+      "author": "Australian Conservation Foundation",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Glencore's Hail Creek coalmine methane emissions could be higher than official reports – video",
+      "description": "&lt;p&gt;UN-backed research has found emissions of the potent greenhouse gas methane coming from Glencore's Hail Creek coalmine are probably between t...",
+      "link": "https://www.theguardian.com/environment/video/2025/mar/26/glencores-hail-creek-coalmine-methane-emissions-could-be-higher-than-official-reports-video",
+      "pubDate": "Tue, 25 Mar 2025 23:24:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bf720c8e65dd861ce7fe9fd8847e658999a9fac8/60_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9af36d9d2fc9ddf0a24aba8ca78e32ee"
+    },
     {
       "title": "NOAA Cuts Weather Balloon Launches Due to Staff Shortages After DOGE Layoffs",
       "description": "The National Weather Service is reducing the number of weather balloons it launches across the country, an early tangible decrease in services offered...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2024/04/silica-exposure-rule-coal-miners-black-lung.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Mysterious foam on South Australian beaches caused by bloom of tiny but toxic algae",
-      "description": "&lt;p&gt;Algae blooms can be a problem for marine life and people but it’s not yet clear if warmer oceans and nutrient runoff are causing more of them...",
-      "link": "https://www.theguardian.com/australia-news/commentisfree/2025/mar/25/mysterious-foam-on-south-australian-beaches-caused-by-bloom-of-tiny-but-toxic-algae",
-      "pubDate": "Tue, 25 Mar 2025 05:04:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1dd4b44df7ab2424a7cbcbfcf8676195a73fe099/64_0_1920_1153/master/1920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5033e5877d92dade33db0acba8c90d2"
-    },
-    {
-      "title": "Thriving with Nature: The Sustainable Power of Native Plants at GrowAbility",
-      "description": "Banksia victoriae By Joe Simonetta Australia’s unique climate presents both challenges and opportunities for gardeners, landscapers, and conservationi...",
-      "link": "https://econews.com.au/66810/thriving-with-nature-the-sustainable-power-of-native-plants-at-growability/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=thriving-with-nature-the-sustainable-power-of-native-plants-at-growability",
-      "pubDate": "Tue, 25 Mar 2025 04:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/GrowAbility-logo.webp"
     }
   ]
 }
