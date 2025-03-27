@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-27T08:31:42.755Z",
+  "lastUpdated": "2025-03-27T09:27:12.960Z",
   "articles": [
+    {
+      "title": "Burned Homes Can Be Rebuilt More Resilient to Wildfires, but Many Homeowners Can’t Afford the Price",
+      "description": "As the smoke cleared and the ash began to settle from January’s devastating Los Angeles wildfires, an arresting image spread across news and social me...",
+      "link": "https://insideclimatenews.org/news/27032025/wildfire-resistant-home-construction-expensive/",
+      "pubDate": "Thu, 27 Mar 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nation’s First Small Modular Nuclear Reactors Could Come to Michigan in 2030",
+      "description": "Michigan could soon host the United States’ first commercial small modular nuclear reactors—essentially mini nuclear plants with simpler and more comp...",
+      "link": "https://insideclimatenews.org/news/27032025/nations-first-small-modular-nuclear-reactors-could-come-to-michigan-in-2030/",
+      "pubDate": "Thu, 27 Mar 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump wants to wind down FEMA. Could states fill the gap?",
+      "description": "Shuttering the disaster agency could leave poor and rural communities exposed....",
+      "link": "https://grist.org/extreme-weather/trump-fema-eliminate-noem-disaster-response-state-local/",
+      "pubDate": "Thu, 27 Mar 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/Trump-and-Noem.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "The government aims to cut funding for safer streets. Here&#8217;s who would be hurt most.",
       "description": "The Department of Transportation considers freezing funding for bike lanes and other pedestrian safety projects as the Trump administration leans into...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pick for German agriculture minister withdraws after activists storm farm",
-      "description": "&lt;p&gt;Günther Felßner says wife was ‘in fear of life and limb’ after animal rights group climbed shed and set off flares&lt;/p&gt;&lt;p&gt;The cons...",
-      "link": "https://www.theguardian.com/world/2025/mar/26/pick-for-german-agriculture-minister-withdraws-after-activists-storm-farm",
-      "pubDate": "Wed, 26 Mar 2025 16:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f10f74a61e7712bcd59580d3fa17a04aa8bad519/0_0_6214_3729/master/6214.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a98b1ba7dbd8a88621ce4592230c44f3"
-    },
-    {
-      "title": "Biodiversity loss in all species and every ecosystem linked to humans – report",
-      "description": "&lt;p&gt;Sweeping synthesis of 2,000 global studies leaves no doubt about scale of problem and role of humans, say experts&lt;/p&gt;&lt;p&gt;Humans ar...",
-      "link": "https://www.theguardian.com/environment/2025/mar/26/human-link-biodiversity-loss-species-ecosystems-climate-pollution-eawag-study-nature-aoe",
-      "pubDate": "Wed, 26 Mar 2025 16:00:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/80e46295ac993da34b33dfb73d336e8f0a59297b/0_386_6720_4032/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ceb747af33ef506806727bba5ec7a9a8"
-    },
-    {
-      "title": "Trump’s ‘climate’ purge deleted a new extreme weather risk tool. We recreated it",
-      "description": "&lt;p&gt;The Guardian has recreated a searchable climate future risk tool developed by Fema but then deleted &lt;/p&gt;&lt;p&gt;When &lt;a href=\"https...",
-      "link": "https://www.theguardian.com/environment/ng-interactive/2025/mar/26/extreme-weather-risk-tool-fema-trump",
-      "pubDate": "Wed, 26 Mar 2025 12:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/439b434c99a7fb2553cc18a145da199c5a6d366e/0_0_1920_1152/master/1920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c267c102bdc73d2d59ee109d5ee14b43"
     }
   ]
 }
