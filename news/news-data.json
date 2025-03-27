@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-27T01:56:17.683Z",
+  "lastUpdated": "2025-03-27T03:03:14.275Z",
   "articles": [
+    {
+      "title": "[Deforestation in Australia:] Why it’s happening and how to stop it",
+      "description": "&lt;p&gt;Australia is a world leader in deforestation. The destruction of remaining natural ecosystems, including forests, for agriculture, infrastruc...",
+      "link": "http://www.acf.org.au/deforestation-in-australia-why-its-happening-and-how-to-stop-it",
+      "pubDate": "Thu, 27 Mar 2025 13:37:42 +1100",
+      "sourceName": "acf.org.au",
+      "author": "Darcie Carruthers",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Is there something fishy about Labor’s environmental amendments? | Fiona Katauskas",
       "description": "&lt;p&gt;It doesn’t pass the sniff test&lt;/p&gt;&lt;ul&gt;&lt;li&gt;See more of &lt;a href=\"https://www.theguardian.com/profile/fiona-katauskas\"&gt;F...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/GettyImages-1567244202_Wales16x9.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The weirdest ways scientists are mining for critical minerals, from water to weeds",
-      "description": "Not all critical minerals need to come from digging up the earth....",
-      "link": "https://grist.org/energy/the-weirdest-ways-scientists-are-mining-for-critical-minerals-from-water-to-weeds/",
-      "pubDate": "Wed, 26 Mar 2025 08:37:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/seaweed-textured.png?quality=75&amp;strip=all"
     }
   ]
 }
