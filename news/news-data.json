@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-27T20:25:58.186Z",
+  "lastUpdated": "2025-03-27T21:23:09.736Z",
   "articles": [
+    {
+      "title": "Fossil fuel companies get direct email line to Trump for exemption requests",
+      "description": "&lt;p&gt;EPA sets up email address where ‘regulated community’ can request exemption to evade air pollution rules&lt;/p&gt;&lt;p&gt;Donald Trump’s adm...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/27/epa-trump-email-fossil-fuel-exemptions",
+      "pubDate": "Thu, 27 Mar 2025 20:19:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/045e2a6bf22bacffe6d12df9765ecc79b4a6621b/0_74_6442_3868/master/6442.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce2c6838ec0fc3c80aa5a4e23be5aa1c"
+    },
     {
       "title": "Earth’s Land Masses Are Drying Out Fast, Scientists Warn",
       "description": "Earth has lost enough soil moisture in the last 40 years to change the planet’s spin and shift the location of the North Pole, according to a new stud...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/Piper.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Renewables surged in 2024 — but so did fossil fuels",
-      "description": "A new report finds that while electricity demand skyrocketed, the deployment of new wind, solar, and nuclear power did, too....",
-      "link": "https://grist.org/energy/renewables-surged-2024-iea-nuclear/",
-      "pubDate": "Thu, 27 Mar 2025 07:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
