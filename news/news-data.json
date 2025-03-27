@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-27T16:32:01.458Z",
+  "lastUpdated": "2025-03-27T17:21:54.004Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "How a ‘dark energy’ experiment could upend Einstein's theory of the universe....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002975v",
+      "pubDate": "Thu, 27 Mar 2025 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘The nation is watching’: sewage dumps in Windermere must end, says activist",
       "description": "&lt;p&gt;Ministers urged to do more after United Utilities discharged raw sewage into Unesco site for 6,327 hours last year&lt;/p&gt;&lt;p&gt;Celebrat...",
@@ -157,7 +166,7 @@
     {
       "title": "Renewables surged in 2024 — but so did fossil fuels",
       "description": "A new report finds that while electricity demand skyrocketed, the deployment of new wind, solar, and nuclear power did, too....",
-      "link": "https://grist.org/climate-energy/renewables-surged-2024-iea-nuclear/",
+      "link": "https://grist.org/energy/renewables-surged-2024-iea-nuclear/",
       "pubDate": "Thu, 27 Mar 2025 07:45:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Women change the climate in Castlemaine",
-      "description": "Future Resilience Events Friday 28 March – Sunday 30 March 2025 Castlemaine, Victoria The stage is set for ‘Women Changing the Climate’ – an unparalle...",
-      "link": "https://econews.com.au/66832/women-change-the-climate-in-castlemaine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=women-change-the-climate-in-castlemaine",
-      "pubDate": "Thu, 27 Mar 2025 05:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
