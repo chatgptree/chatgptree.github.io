@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-27T09:27:12.960Z",
+  "lastUpdated": "2025-03-27T10:26:34.418Z",
   "articles": [
+    {
+      "title": "England sewage spills hit record 3.6m hours last year",
+      "description": "Sewage spilled into England's waterways for a record number of hours last year, the Environmental Agency says....",
+      "link": "https://www.bbc.com/news/articles/c201rz925nyo",
+      "pubDate": "Thu, 27 Mar 2025 10:10:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Burned Homes Can Be Rebuilt More Resilient to Wildfires, but Many Homeowners Can’t Afford the Price",
       "description": "As the smoke cleared and the ash began to settle from January’s devastating Los Angeles wildfires, an arresting image spread across news and social me...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/89ab64de9ddff5ab62d63e6f60b5af3c8b543a6c/0_186_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55a3860ff9c4c13be3c9537cb41b8171"
-    },
-    {
-      "title": "Nearly Half of the Country’s Attorney Generals Make Legal Effort to Restore FEMA Funds",
-      "description": "President Donald Trump has recently floated the idea of scrapping the federal agency aimed at helping people through disasters like hurricanes, tornad...",
-      "link": "https://insideclimatenews.org/news/26032025/attorney-generals-legal-efforts-to-restore-fema-funds-trump/",
-      "pubDate": "Wed, 26 Mar 2025 21:54:51 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
