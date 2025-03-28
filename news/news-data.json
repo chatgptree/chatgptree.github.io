@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-28T09:27:37.207Z",
+  "lastUpdated": "2025-03-28T10:26:45.570Z",
   "articles": [
+    {
+      "title": "I was an independent observer in the Greenpeace trial. What I saw was shocking | Steven Donziger",
+      "description": "&lt;p&gt;Greenpeace lost – not because it did something wrong but because it was denied a fair trial&lt;/p&gt;&lt;p&gt;The stunning &lt;a href=\"https:...",
+      "link": "https://www.theguardian.com/commentisfree/2025/mar/28/greenpeace-verdict-pipeline-north-dakota",
+      "pubDate": "Fri, 28 Mar 2025 10:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c2457c4c35da97ff43c85b90c9ed36b150873da2/0_109_3599_2158/master/3599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d4d26296dd73253b7b84b14cbdcc0d2"
+    },
     {
       "title": "How Should You Clean Your House After It’s Engulfed in Wildfire Smoke?",
       "description": "In the aftermath of January’s Los Angeles wildfires, researcher Elliott Gall got an email from someone who had returned home after evacuating. They wa...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/28a4e8b29670e7cde24131b594dc8bbe93e60cf0/0_178_4738_2843/master/4738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f0231bf73f390d5188365cf17942a82"
-    },
-    {
-      "title": "As Offshore Wind Struggles Under Trump, There’s Still Room for Progress",
-      "description": "The U.S. offshore wind industry felt a malaise even before President Donald Trump returned to office in January and signed an order that froze develop...",
-      "link": "https://insideclimatenews.org/news/27032025/inside-clean-energy-offshore-wind-struggles-under-trump/",
-      "pubDate": "Thu, 27 Mar 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
