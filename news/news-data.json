@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-28T07:24:02.185Z",
+  "lastUpdated": "2025-03-28T08:31:50.687Z",
   "articles": [
+    {
+      "title": "The $20 billion question hanging over America’s struggling farmers",
+      "description": "Extreme weather wiped out billions in crops last year — but most federal aid may end up going to the wrong farms....",
+      "link": "https://grist.org/food-and-agriculture/the-20-billion-question-hanging-over-americas-struggling-farmers/",
+      "pubDate": "Fri, 28 Mar 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/REAPChicago.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Week in wildlife: relief for traumatised lions, a shy deer and a stork doing yoga",
+      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/mar/28/week-in-wildlife-relief-for-traumatised-lions-a-shy-deer-and-a-stork-doing-yoga",
+      "pubDate": "Fri, 28 Mar 2025 08:00:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/72d5808fb1e129317bdf729ab009f67515b2ff0c/0_327_5465_3279/master/5465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c54be72f2d498d93d4a7bf264de7adf7"
+    },
     {
       "title": "The weekend weather forecast is in – and it’s wet and wild for much of Australia, including Sydney and Brisbane",
       "description": "&lt;p&gt;Heavy rainfall expected to stretch from Queensland’s Sunshine Coast to the Victorian border, with the potential for isolated falls of up to 1...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f5b47dfbd45294ee04addaec98a8689c40b872cc/120_0_3600_2160/master/3600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db5f144390b60f55599a2fede411de6f"
-    },
-    {
-      "title": "US could see return of acid rain due to Trump’s rollbacks, says scientist who discovered it",
-      "description": "&lt;p&gt;Gene Likens, who first identified acidic rainwater in 1960s, said the Trump administration’s ‘rollbacks are alarming’&lt;/p&gt;&lt;p&gt;The U...",
-      "link": "https://www.theguardian.com/environment/2025/mar/27/acid-rain-trump-epa",
-      "pubDate": "Thu, 27 Mar 2025 11:30:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3d6d420e902fb0c81490879d2de9091eb9452b38/0_1404_2671_1602/master/2671.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56b6da360628718b74a8c8c88a025e01"
-    },
-    {
-      "title": "Burned Homes Can Be Rebuilt More Resilient to Wildfires, but Many Homeowners Can’t Afford the Price",
-      "description": "As the smoke cleared and the ash began to settle from January’s devastating Los Angeles wildfires, an arresting image spread across news and social me...",
-      "link": "https://insideclimatenews.org/news/27032025/wildfire-resistant-home-construction-expensive/",
-      "pubDate": "Thu, 27 Mar 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
