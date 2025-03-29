@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-29T14:22:39.372Z",
+  "lastUpdated": "2025-03-29T15:24:17.738Z",
   "articles": [
+    {
+      "title": "‘God knows what’s in the water’: Los Angeles surfers in limbo as wildfire toxins linger",
+      "description": "&lt;p&gt;In a city where surfing is a way of life, the wait to get back in the water has been agonizing. But new research offers a glimmer of hope &lt...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/29/los-angeles-surfers-toxins-wildfires",
+      "pubDate": "Sat, 29 Mar 2025 15:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/74c02ea999e0eea06d5d7ddcf8140116e1712310/0_402_6080_3646/master/6080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1fe4f0edd5fa3d535bce8260175b7f7"
+    },
     {
       "title": "Oil and gas money shapes research, creates ‘echo chamber’ in higher education",
       "description": "Louisiana’s flagship university is looking to partner more closely with petrochemical industries in the state....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tariffs won&#8217;t just hit your wallet. They could also increase food waste.",
-      "description": "From farm to retail, the threat of trade barriers is already impacting the food supply chain....",
-      "link": "https://grist.org/food-and-agriculture/tariffs-wont-just-hit-your-wallet-they-could-also-increase-food-waste/",
-      "pubDate": "Fri, 28 Mar 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/avocados2.jpg?quality=75&amp;strip=all"
     }
   ]
 }
