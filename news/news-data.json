@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-03-31T11:21:24.774Z",
+  "lastUpdated": "2025-03-31T12:51:33.548Z",
   "articles": [
+    {
+      "title": "‘A pandemic-level shock to the system’: RFK Jr’s old environmental group weighs EPA cuts",
+      "description": "&lt;p&gt;Head of Riverkeeper, which helped clean up Hudson River, talks about challenges during the second Trump term&lt;/p&gt;&lt;p&gt;&lt;a href=\"ht...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/31/epa-cuts-environment-rivers-water-trump",
+      "pubDate": "Mon, 31 Mar 2025 12:00:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8d87e9e5fcec7b87ac7a6e855f06bb8c66888f01/0_33_3000_1799/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da36284aebf8c9bee4c361e01cf2a3d9"
+    },
+    {
+      "title": "Logging is quietly ravaging US forests. Trump is taking an axe to protections",
+      "description": "&lt;p&gt;Unsustainable logging is one of the global north’s best-kept secrets. We’re running out of time to stop it&lt;/p&gt;&lt;p&gt;The world is run...",
+      "link": "https://www.theguardian.com/commentisfree/2025/mar/31/trump-logging-us-forests",
+      "pubDate": "Mon, 31 Mar 2025 12:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/be6ba7bebf35db01e223c5eecf2865a491b6958f/0_100_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ccefabfdf5d56bb038a1fc1faf07777b"
+    },
+    {
+      "title": "Clean energy spending boosts GOP districts. But lawmakers are keeping quiet as Trump targets incentives",
+      "description": "&lt;p&gt;We asked 18 Republicans whose districts benefit most from Biden’s IRA climate law if they back Trump’s demands&lt;/p&gt;&lt;p&gt;Billions of ...",
+      "link": "https://www.theguardian.com/us-news/2025/mar/31/clean-energy-spending-republicans-trump",
+      "pubDate": "Mon, 31 Mar 2025 11:30:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5f1fdd7e3e5e08ab1e19a708c46a795b6ab8bb34/0_159_7978_4789/master/7978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa2e60850d1be02e54723763b90f2aaa"
+    },
     {
       "title": "‘Water Is the New Oil’ as Texas Cities Square Off Over Aquifers",
       "description": "In Central Texas, a bitter fight over a $1 billion water project offers a preview of the future for much of the state as decades of rapid growth push ...",
@@ -125,7 +152,7 @@
       "pubDate": "Mon, 31 Mar 2025 06:00:42 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/23887a3a7bfbdb2adaa2b89def65985c0d8d56cd/0_174_1440_864/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d24026a4ae057e4e903e2ff367561ca2"
+      "image": "https://i.guim.co.uk/img/media/ce9f2437fcf71b51e9ee39374eeace3f57d432ff/0_200_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e5fe1d0c01b5a9ed3a95e1d6575065f"
     },
     {
       "title": "Spain’s wild horses in peril – in pictures",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Kate-Helmstedt_1-1024x768.jpg"
-    },
-    {
-      "title": "Cadia goldmine operators fined $350,000 for breaches of NSW clean-air laws",
-      "description": "&lt;p&gt;Testing had previously revealed the mine was emitting more than 11 times the legal limit of dust containing heavy metals&lt;/p&gt;&lt;ul&gt;&...",
-      "link": "https://www.theguardian.com/environment/2025/mar/31/cadia-goldmine-fine-clean-air-laws-nsw",
-      "pubDate": "Mon, 31 Mar 2025 01:56:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9d4dccdfcda5aed392322e1148e2379723f43559/0_0_5472_3283/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5aebb7fbcdd113f24d7bc56909e5ee0"
-    },
-    {
-      "title": "The Swedish city fined for missing an environmental target",
-      "description": "Gothenburg has to pay a financial penalty if it misses certain annual sustainability goals....",
-      "link": "https://www.bbc.com/news/articles/c5yx1rl8dk2o",
-      "pubDate": "Mon, 31 Mar 2025 01:39:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Swedish city fined for missing an environmental target",
-      "description": "Gothenburg has to pay a financial penalty if it misses certain annual sustainability goals....",
-      "link": "https://www.bbc.com/news/articles/c5yx1rl8dk2o",
-      "pubDate": "Mon, 31 Mar 2025 01:39:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
