@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-31T07:25:12.819Z",
+  "lastUpdated": "2025-03-31T08:33:40.049Z",
   "articles": [
+    {
+      "title": "How Trump&#8217;s funding freeze for Indigenous food programs may violate treaty law",
+      "description": "According to Indigenous legal experts, the freeze erodes the little trust Indian country has in the federal government....",
+      "link": "https://grist.org/indigenous/how-trumps-funding-freeze-for-indigenous-food-programs-may-violate-treaty-law/",
+      "pubDate": "Mon, 31 Mar 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Egg prices hit record highs. Are you ready to try a vegan egg?",
+      "description": "Bird flu has apparently done what environmentalists have long dreamed of: made Americans curious about egg alternatives....",
+      "link": "https://grist.org/food-and-agriculture/egg-prices-vegan-plant-based-alternatives-just-egg/",
+      "pubDate": "Mon, 31 Mar 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/justegg.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Positive news: Scientists and community unite to create groundbreaking reforestation model in WA",
       "description": "Carbon Positive Australia A 2,000-hectare property in Western Australia’s northern agricultural region is set to become a world-class conservation and...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "China Is Reshaping Global Development. Is That Good for the Planet?",
-      "description": "EL CALAFATE, Argentina—Deep in Southern Patagonia, Mariana Martinez wades barefoot into the turquoise waters of a glacial lake. In the rugged mountain...",
-      "link": "https://insideclimatenews.org/news/30032025/china-belt-and-road-argentina-environmental-cost/",
-      "pubDate": "Sun, 30 Mar 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "https://insideclimatenews.org/wp-content/uploads/2025/03/GettyImages-462743280w.jpg"
-    },
-    {
-      "title": "‘God knows what’s in the water’: Los Angeles surfers in limbo as wildfire toxins linger",
-      "description": "&lt;p&gt;In a city where surfing is a way of life, the wait to get back in the water has been agonizing. But new research offers a glimmer of hope &lt...",
-      "link": "https://www.theguardian.com/us-news/2025/mar/29/los-angeles-surfers-toxins-wildfires",
-      "pubDate": "Sat, 29 Mar 2025 15:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/74c02ea999e0eea06d5d7ddcf8140116e1712310/0_402_6080_3646/master/6080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1fe4f0edd5fa3d535bce8260175b7f7"
     }
   ]
 }
