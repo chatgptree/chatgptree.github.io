@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-02T10:27:15.180Z",
+  "lastUpdated": "2025-04-02T11:20:29.282Z",
   "articles": [
+    {
+      "title": "The secret to finding one of the most endangered bumblebees in the US? Dogs",
+      "description": "&lt;p&gt;Experts are desperate to analyse rusty patched bumblebee nests for information that might help save them. But they are extremely hard to find...",
+      "link": "https://www.theguardian.com/environment/2025/apr/02/the-secret-to-finding-endangered-rusty-patched-bumblebees-us-dogs",
+      "pubDate": "Wed, 02 Apr 2025 11:00:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a81cd8250ffa27709b3140bca05c54b454816669/0_28_6260_3756/master/6260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8cbc5a1d53cf5f0e17f2c5156a05fef"
+    },
     {
       "title": "More than half of UK's butterfly species in long-term decline",
       "description": "The destruction of habitats by humans is largely to blame, a conservationist warns....",
@@ -83,15 +92,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Last summer was second worst for common UK butterflies since 1976",
-      "description": "&lt;p&gt;More than half of Britain’s 59 native species are in long-term decline, UK Butterfly Monitoring Scheme finds&lt;/p&gt;&lt;p&gt;Last summer wa...",
-      "link": "https://www.theguardian.com/environment/2025/apr/02/last-summer-was-second-worst-for-common-uk-butterflies-since-1976",
-      "pubDate": "Wed, 02 Apr 2025 05:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/52e6ab85881c2bf377a46aff333670631c5759ba/0_94_1500_900/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e699ce70837e5851f3920a91c9b3a20c"
-    },
-    {
       "title": "An elusive worm: the Salinella is shrouded in mystery",
       "description": "&lt;p&gt;A 19th-century zoologist found the ‘little salt dweller’, which could be a portal to the past – if only we could locate it again&lt;/p&gt;&lt...",
       "link": "https://www.theguardian.com/environment/2025/apr/02/elusive-worm-the-salinella-is-shrouded-in-mystery",
@@ -99,6 +99,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d9a23d9f0eb5c9b1ef318918e42346bdad084b02/0_73_4032_2420/master/4032.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0ec27e8b2abf74fe514fbde1d2162aa"
+    },
+    {
+      "title": "Last summer was second worst for common UK butterflies since 1976",
+      "description": "&lt;p&gt;More than half of Britain’s 59 native species are in long-term decline, UK Butterfly Monitoring Scheme finds&lt;/p&gt;&lt;p&gt;Last summer wa...",
+      "link": "https://www.theguardian.com/environment/2025/apr/02/last-summer-was-second-worst-for-common-uk-butterflies-since-1976",
+      "pubDate": "Wed, 02 Apr 2025 05:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/52e6ab85881c2bf377a46aff333670631c5759ba/0_94_1500_900/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e699ce70837e5851f3920a91c9b3a20c"
     },
     {
       "title": "Bloom Boom: Melbourne International Flower and Garden Show blossoms into biggest success in decades",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1f056712a4d48f459970896bbdf1c56a0ba68569/0_182_5472_3283/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=349e39ee07bcd62ff0db9297e94a0fb9"
-    },
-    {
-      "title": "The invertebrate of the year competition is here. Who will you vote for? – video",
-      "description": "&lt;p&gt;Invertebrates may be the unsung heroes of the planet but they have received a lot of love and recognition from Guardian readers. A dazzling a...",
-      "link": "https://www.theguardian.com/environment/video/2025/apr/01/the-invertebrate-of-the-year-compeition-is-here-who-will-you-vote-for-video",
-      "pubDate": "Tue, 01 Apr 2025 15:29:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/94cf47c314c6b9606078bf1c0e5eb09fbd121b05/60_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27ce7d0fc062d9b6fd646a731772e7d1"
     }
   ]
 }
