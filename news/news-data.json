@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-02T13:33:03.021Z",
+  "lastUpdated": "2025-04-02T14:24:51.632Z",
   "articles": [
+    {
+      "title": "In the event of a hung parliament, one wildcard has been largely overlooked – the Nationals",
+      "description": "&lt;p&gt;If Peter Dutton needs to court the crossbench to form minority government after the election, he would risk putting his Coalition partner off...",
+      "link": "https://www.theguardian.com/australia-news/2025/apr/03/australia-election-2025-hung-parliament-chances-the-nationals",
+      "pubDate": "Wed, 02 Apr 2025 14:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/59c7c97676e354e5339808cd56439f03d24812ca/0_0_2500_1500/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7f7ad948cdea86a413e3577ad498f00"
+    },
+    {
+      "title": "New Poll Shows Americans View Water That’s Safe to Drink and Reliably Supplied as Top Issues",
+      "description": "New polling shows Americans view ensuring a reliable water supply as their top issue, beating out inflation, healthcare reform and others.&#160; The p...",
+      "link": "https://insideclimatenews.org/news/02042025/americans-view-water-safety-as-top-issue/",
+      "pubDate": "Wed, 02 Apr 2025 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The secret to finding one of the most endangered bumblebees in the US? Dogs",
       "description": "&lt;p&gt;Experts are desperate to analyse rusty patched bumblebee nests for information that might help save them. But they are extremely hard to find...",
@@ -92,15 +110,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "An elusive worm: the Salinella is shrouded in mystery",
-      "description": "&lt;p&gt;A 19th-century zoologist found the ‘little salt dweller’, which could be a portal to the past – if only we could locate it again&lt;/p&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2025/apr/02/elusive-worm-the-salinella-is-shrouded-in-mystery",
-      "pubDate": "Wed, 02 Apr 2025 05:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d9a23d9f0eb5c9b1ef318918e42346bdad084b02/0_73_4032_2420/master/4032.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0ec27e8b2abf74fe514fbde1d2162aa"
-    },
-    {
       "title": "Last summer was second worst for common UK butterflies since 1976",
       "description": "&lt;p&gt;More than half of Britain’s 59 native species are in long-term decline, UK Butterfly Monitoring Scheme finds&lt;/p&gt;&lt;p&gt;Last summer wa...",
       "link": "https://www.theguardian.com/environment/2025/apr/02/last-summer-was-second-worst-for-common-uk-butterflies-since-1976",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California wildfire threatening forest home of world’s oldest tree",
-      "description": "&lt;p&gt;Silver fire leading to fears about Methuselah, a nearly 5,000-year-old bristlecone pine in eastern part of state&lt;/p&gt;&lt;p&gt;Firefighte...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/01/california-wildfire-oldest-tree",
-      "pubDate": "Tue, 01 Apr 2025 18:53:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1f056712a4d48f459970896bbdf1c56a0ba68569/0_182_5472_3283/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=349e39ee07bcd62ff0db9297e94a0fb9"
     }
   ]
 }
