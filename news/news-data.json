@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-02T17:22:27.003Z",
+  "lastUpdated": "2025-04-02T18:34:07.729Z",
   "articles": [
+    {
+      "title": "Alcohol makes male fruit flies more attractive",
+      "description": "Alcohol increases the release of chemical sex signals and makes males more attractive to females....",
+      "link": "https://www.bbc.com/news/articles/cy8e772enngo",
+      "pubDate": "Wed, 02 Apr 2025 18:00:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US banks predict climate goals will fail – but air conditioning firms will thrive",
+      "description": "&lt;p&gt;Reports predict global heating will bring catastrophes and that air conditioning market could grow by 41%&lt;/p&gt;&lt;p&gt;The world is on t...",
+      "link": "https://www.theguardian.com/environment/2025/apr/02/us-banks-climate-goals-fail-air-conditioning",
+      "pubDate": "Wed, 02 Apr 2025 17:39:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c8fa7a0c6576899e5f2c16538cdee94885e17733/692_332_2568_1540/master/2568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c6e3c7387d76c3aa06b387b76f5b696"
+    },
     {
       "title": "What Tesla&#8217;s massive image problem means for the world&#8217;s transition to EVs",
       "description": "Tesla has long been a leader in the electric vehicles market. Now it's facing mounting protests and plummeting sales....",
@@ -54,15 +72,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a81cd8250ffa27709b3140bca05c54b454816669/0_28_6260_3756/master/6260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8cbc5a1d53cf5f0e17f2c5156a05fef"
-    },
-    {
-      "title": "More than half of UK's butterfly species in long-term decline",
-      "description": "The destruction of habitats by humans is largely to blame, a conservationist warns....",
-      "link": "https://www.bbc.com/news/articles/c230kzz73zmo",
-      "pubDate": "Wed, 02 Apr 2025 10:17:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "People Who Depend on Public Lands Say Firing National Park and Forest Workers Stresses Nearby Communities",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "End of an Era: Helsinki Shuts Down Its Last Coal Power Plant",
-      "description": "Towards greener Helsinki. Photo: Kari Ylitalo, Helsinki Partners The operations of the Salmisaari coal power plant have ended as of 1 April 2025. Abol...",
-      "link": "https://econews.com.au/66863/end-of-an-era-helsinki-shuts-down-its-last-coal-power-plant/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=end-of-an-era-helsinki-shuts-down-its-last-coal-power-plant",
-      "pubDate": "Wed, 02 Apr 2025 02:02:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Helsinki-logo.jpg"
     }
   ]
 }
