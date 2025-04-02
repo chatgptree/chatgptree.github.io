@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-02T07:24:14.507Z",
+  "lastUpdated": "2025-04-02T08:33:32.406Z",
   "articles": [
+    {
+      "title": "How the Trump administration is targeting green transportation in blue states",
+      "description": "The Department of Transportation has threatened to pull funding for high-profile climate-friendly projects in California, New York, and Washington, D....",
+      "link": "https://grist.org/transportation/trump-duffy-department-of-transportation-congestion-pricing-subway-train-new-york-california-dc/",
+      "pubDate": "Wed, 02 Apr 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/sean-duffy-transportation-secretary-speech.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Trump takes aim at the people who protect national parks from climate change",
+      "description": "After mass firings and rehiring, thousands of federal employees are bracing for deeper cuts — just as wildfires, floods, and rising temperatures threa...",
+      "link": "https://grist.org/politics/trump-takes-aim-at-the-people-who-protect-national-parks-from-climate-change/",
+      "pubDate": "Wed, 02 Apr 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What ‘the world’s loneliest whale’ may be telling us about climate change",
+      "description": "A mysterious whale that has puzzled scientists for decades may not be an anomaly, but a clue to what climate change is doing beneath the waves....",
+      "link": "https://grist.org/oceans/what-the-worlds-loneliest-whale-may-be-telling-us-about-climate-change/",
+      "pubDate": "Wed, 02 Apr 2025 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/blue-whale-hybrid-fin-whale-climate-change.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Monster surf batters Bondi Icebergs pool and leaves trail of carnage across Sydney beaches",
       "description": "&lt;p&gt;Wild 5.5 metre swells hammer the eastern NSW coastline, causing damage to key walkways and closing beaches&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a...",
@@ -11,7 +38,16 @@
       "image": "https://i.guim.co.uk/img/media/7ce1f806e4bba7ee8afa22862d581161f932ee67/0_214_7196_4318/master/7196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cdf61289ea6d470df69d4d2d4fdefcd0"
     },
     {
-      "title": "Waste tyre review after BBC investigation",
+      "title": "Last year 'one of the worst for UK butterflies'",
+      "description": "Dr Richard Fox, from Butterfly Conservation, says he is \"devastated\" by the apparent decline....",
+      "link": "https://www.bbc.com/news/articles/c230kzz73zmo",
+      "pubDate": "Wed, 02 Apr 2025 05:12:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environment Agency orders review into tyre recycling after BBC probe",
       "description": "Environment Agency review waste tyre exports after BBC probe reveals millions sent to furnaces in India....",
       "link": "https://www.bbc.com/news/articles/c4grlpyje41o",
       "pubDate": "Wed, 02 Apr 2025 05:06:12 GMT",
@@ -141,42 +177,6 @@
       "description": "The world’s no. 1 sparkling water brand renowned for its commitment to sustainability is joining Melbourne’s Herald Sun/Transurban Run for the Kids on...",
       "link": "https://econews.com.au/66859/sodastream-australia-named-first-ever-sustainability-sponsor-of-melbournes-herald-sun-transurban-run-for-the-kids/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sodastream-australia-named-first-ever-sustainability-sponsor-of-melbournes-herald-sun-transurban-run-for-the-kids",
       "pubDate": "Tue, 01 Apr 2025 09:03:18 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Should Oil and Gas Drilling Expand in This Biodiverse National Forest? The Public Overwhelmingly Says No",
-      "description": "CONECUH NATIONAL FOREST, Ala.—Jimmy Stiles knows Conecuh National Forest. He lives in it.&#160; Stiles, a field biologist, has lived in his home in th...",
-      "link": "https://insideclimatenews.org/news/01042025/should-oil-and-gas-drilling-expand-in-this-biodiverse-national-forest-the-public-overwhelmingly-says-no/",
-      "pubDate": "Tue, 01 Apr 2025 09:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "From Louisiana to Pennsylvania, Tracing Plastics Pollution Back to Its Source",
-      "description": "While filming a documentary about oceans on a boat in the Pacific Ocean several years ago, producer and director Steve Cowan encountered a shocking sc...",
-      "link": "https://insideclimatenews.org/news/01042025/single-use-planet-documentary-louisiana-pennsylvania-plastic-pollution/",
-      "pubDate": "Tue, 01 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Yellowstone&#8217;s gateway town fears for its future amid Trump funding cuts",
-      "description": "“Gardiner is a company town and Yellowstone is the mill. If somebody starts screwing with the mill, we have no choice but to be concerned.”...",
-      "link": "https://grist.org/economics/yellowstone-gateway-town-fears-future-economy-trump-funding-cuts/",
-      "pubDate": "Tue, 01 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/Roosevelt-Arch.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "New UNSW research reveals dramatically higher loss of GDP under 4°C warming",
-      "description": "UNSW Sydney New projections by the UNSW Institute for Climate Risk &#38; Response (ICRR) reveal a 4°C rise in global temperatures would cut world GDP ...",
-      "link": "https://econews.com.au/66857/new-unsw-research-reveals-dramatically-higher-loss-of-gdp-under-4c-warming/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-unsw-research-reveals-dramatically-higher-loss-of-gdp-under-4c-warming",
-      "pubDate": "Tue, 01 Apr 2025 08:03:56 +0000",
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
