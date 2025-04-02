@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-02T16:33:27.941Z",
+  "lastUpdated": "2025-04-02T17:22:27.003Z",
   "articles": [
+    {
+      "title": "What Tesla&#8217;s massive image problem means for the world&#8217;s transition to EVs",
+      "description": "Tesla has long been a leader in the electric vehicles market. Now it's facing mounting protests and plummeting sales....",
+      "link": "https://grist.org/transportation/tesla-takedown-sales-stock-musk-trump-climate-evs/",
+      "pubDate": "Wed, 02 Apr 2025 17:21:30 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/elon-musk-nazi-salute.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "I don’t want to die with a freezer full of seeds. It’s time to rethink biodiversity and preservation | Chris Smith",
       "description": "&lt;p&gt;Hurricane Helene proved a hard truth: a freezer of seeds is the literal version of putting all your eggs in one basket&lt;/p&gt;&lt;p&gt;Abou...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Helsinki-logo.jpg"
-    },
-    {
-      "title": "How We Got a Green Bank, How Trump Is Trying to Kill It and Who Gets Hurt",
-      "description": "The noise of hammers and saws was so loud that David de Leon stepped outside of the house where he was working, so he could talk and be heard. De Leon...",
-      "link": "https://insideclimatenews.org/news/01042025/trump-epa-dismantling-greenhouse-gas-reduction-fund/",
-      "pubDate": "Tue, 01 Apr 2025 21:24:14 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
