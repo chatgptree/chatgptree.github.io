@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-04T10:27:03.107Z",
+  "lastUpdated": "2025-04-04T11:21:16.898Z",
   "articles": [
+    {
+      "title": "New House Republican proposal seeks to exempt many toxic Pfas from review",
+      "description": "&lt;p&gt;Two lawmakers introduced a resolution to repeal a 2024 Biden rule that closed a ‘low volume exemption’ loophole&lt;/p&gt;&lt;p&gt;A new Repub...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/04/republican-proposal-exempt-pfas",
+      "pubDate": "Fri, 04 Apr 2025 11:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e7729b8530f4fb008bbb16349a8eae94dd414d2f/0_100_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a922803024353635fc41a49a686bd80"
+    },
     {
       "title": "American Farmers and the USDA Had Finally Embraced Their Role in the Climate Crisis. Then Came the Federal Funding Freeze",
       "description": "For two decades, farmer John Burk has been working to improve the soil on his farm in Michigan, taking a few extra steps to make it more resilient and...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Potentially historic’ flooding threat looms after almost 100 tornadoes hit US",
-      "description": "&lt;p&gt;Rainfall near Memphis, Tennessee, is expected to exceed 12in over the next three days&lt;/p&gt;&lt;p&gt;A prolific &lt;a href=\"https://www.th...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/03/potentially-historic-flooding-threat-looms-almost-100-tornadoes-hit-us",
-      "pubDate": "Thu, 03 Apr 2025 15:37:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eef4db8a70a019076a43e6a27e0f1c7af9f4d14f/0_121_8000_4799/master/8000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1699372e7ed1dfc3be4de5fe7ef86e69"
     }
   ]
 }
