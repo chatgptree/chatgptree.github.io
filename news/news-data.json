@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-04T07:23:32.293Z",
+  "lastUpdated": "2025-04-04T08:31:57.363Z",
   "articles": [
+    {
+      "title": "The deep-sea mining industry got tired of waiting for international approval. Enter Trump.",
+      "description": "Inside the little-understood fight between deep sea miners and Indigenous advocates for the ocean....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/the-deep-sea-mining-industry-got-tired-of-waiting-for-international-approval-enter-trump/",
+      "pubDate": "Fri, 04 Apr 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/08/seafloor-800.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "The quest to fix the irony at the heart of every heat pump",
+      "description": "The appliances are key to ditching fossil fuels, but they rely on powerful greenhouse gases to work. Here’s how to tackle that problem....",
+      "link": "https://grist.org/climate-energy/the-quest-to-fix-the-irony-at-the-heart-of-every-heat-pump/",
+      "pubDate": "Fri, 04 Apr 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A federal judge just hit the brakes on Trump&#8217;s plan to fast track industrial fish farming in the Gulf",
+      "description": "Advocates for marine health say aquaculture 'has no place in U.S. ocean waters.\"...",
+      "link": "https://grist.org/food-and-agriculture/judge-hits-brakes-trump-fast-track-fish-farms-gulf/",
+      "pubDate": "Fri, 04 Apr 2025 07:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/12/FishfarmGettyImages-1402739253_ab24b5.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Africa’s last glaciers: an expedition to map ice loss in the Rwenzori mountains – in pictures",
       "description": "&lt;p&gt;The project in Uganda has captured the disastrous effects of the climate crisis on a vital source of water  that is central to the lives and ...",
@@ -75,7 +102,7 @@
     },
     {
       "title": "FEMA moves to end one of its biggest disaster adaptation programs",
-      "description": "In an internal FEMA memorandum obtained by Grist, the Trump administration announced it plans to dismantle the Building Resilient Infrastructure and C...",
+      "description": "In an internal FEMA memorandum obtained by Grist, the Trump administration announced its plans to dismantle the Building Resilient Infrastructure and ...",
       "link": "https://grist.org/politics/fema-moves-to-end-one-of-its-biggest-disaster-adaptation-programs/",
       "pubDate": "Fri, 04 Apr 2025 01:40:19 +0000",
       "sourceName": "grist.org",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8d073f24380610b64330c525e4db847b73cb3be5/0_141_4000_2399/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78d673b1fa82a29f339a420b2a45964d"
-    },
-    {
-      "title": "Our lives depend on seeds. Trump’s cuts put our vast reserves at risk | Thor Hanson",
-      "description": "&lt;p&gt;Maintaining seed diversity and abundance is essential – and requires constant work. It’s time for Congress to return to the seed business&lt;...",
-      "link": "https://www.theguardian.com/commentisfree/2025/apr/03/seed-reserves-trump-cuts",
-      "pubDate": "Thu, 03 Apr 2025 12:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5f9d5de047aff5a032d033bfd1e6c92a2d0ef64e/0_0_2464_1478/master/2464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=362a22ac11c4821ca3dd1577d5c596f7"
-    },
-    {
-      "title": "After Severe Drought and Storms, Ohio Farmers Fear for Long-Term Soil Health",
-      "description": "Last summer, Brice Acton watched drought devour the fields of his small family farm in southern Ohio. It took just a matter of days. First, the corn s...",
-      "link": "https://insideclimatenews.org/news/03042025/ohio-severe-drought-hurts-farmers-soil-health/",
-      "pubDate": "Thu, 03 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A deadly mosquito-borne illness rises as the US cuts all climate-health funding",
-      "description": "Climate change is driving an explosion in dengue cases. Studying that connection is about to get much harder....",
-      "link": "https://grist.org/politics/dengue-climate-change-trump-cuts-nih-funding-mosquito-borne-disease/",
-      "pubDate": "Thu, 03 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2023/08/GettyImages-1255089843-1-e1692638248260.jpg?quality=75&amp;strip=all"
     }
   ]
 }
