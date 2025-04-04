@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-04T19:20:28.265Z",
+  "lastUpdated": "2025-04-04T20:26:18.654Z",
   "articles": [
+    {
+      "title": "Did climate change supercharge the &#8216;once-in-a-lifetime&#8217; storm pummeling the central U.S.?",
+      "description": "A relentless storm is unleashing floods and tornadoes. Here's how a warmer atmosphere and a simmering Gulf of Mexico could be making it worse....",
+      "link": "https://grist.org/climate/climate-change-supercharge-storm-atmosphere-gulf/",
+      "pubDate": "Fri, 04 Apr 2025 19:53:30 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US prepares for deadly floods with many National Weather Service offices understaffed",
+      "description": "&lt;p&gt;Dangerous weather comes after Trump administration job cuts left nearly half of offices with 20% vacancy rates&lt;/p&gt;&lt;p&gt;&lt;a href=\"...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/04/emergency-declaration-kentucky-flooding-weather",
+      "pubDate": "Fri, 04 Apr 2025 19:49:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b2c47272a528de9686a1cca8bb2d77f3ca3aeb64/0_230_5400_3240/master/5400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41126604ec0c0bd2c94551925f7b580a"
+    },
     {
       "title": "Mining firm withdraws plan for UK’s first deep coalmine in 30 years",
       "description": "&lt;p&gt;Move ends bid for site near Whitehaven, Cumbria after planning permission was quashed by high court&lt;/p&gt;&lt;p&gt;The Whitehaven coalmine...",
@@ -9,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4268e0a8d8dd3acdb2bdbe9967b66857af469d03/324_602_5220_3132/master/5220.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e63ca1770023091a7827b9d8bc75b5f1"
-    },
-    {
-      "title": "Trump issues emergency declaration for Kentucky as storms threaten heavy flooding",
-      "description": "&lt;p&gt;A deadly US storm system may intensify on Friday after killing seven throughout the central states&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://www....",
-      "link": "https://www.theguardian.com/us-news/2025/apr/04/emergency-declaration-kentucky-flooding-weather",
-      "pubDate": "Fri, 04 Apr 2025 16:10:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/974948a920318d1586ef9bf9451d8314983e6116/0_180_5400_3240/master/5400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1a18da9117332347f3bcba7b41a4d73f"
     },
     {
       "title": "Extension of huge offshore windfarm in Sussex approved",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Severe storms and tornadoes hit US south and midwest, killing at least seven",
-      "description": "&lt;p&gt;White House approves Tennessee’s state of emergency request as further fatalities expected to be confirmed&lt;/p&gt;&lt;p&gt;Violent storms a...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/03/storms-tornadoes-south-midwest",
-      "pubDate": "Thu, 03 Apr 2025 21:24:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/947734122da8b8df432925de8f5413f871c1201d/0_3_5977_3586/master/5977.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2321cecc420b6e7014232c9c6bc6b78b"
     }
   ]
 }
