@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-05T08:28:17.568Z",
+  "lastUpdated": "2025-04-05T09:22:58.825Z",
   "articles": [
+    {
+      "title": "Artificial Reefs Can Mitigate Coastal Erosion in the Great Lakes. Will Cities Agree to Adopt Them?",
+      "description": "Illinois boasts 63 miles of coastline along Lake Michigan’s southwestern shore, nearly all of which is fortified by metal breakwaters, concrete seawal...",
+      "link": "https://insideclimatenews.org/news/05042025/artificial-reefs-lake-michigan-erosion/",
+      "pubDate": "Sat, 05 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Documentary Explores the Natural Wonders of NYC’s Jamaica Bay Through One of Its Most-Beloved Characters",
+      "description": "Broad Channel is one of the lesser known of New York City’s 350 or so neighborhoods, a community of a few thousand residents on the only populated isl...",
+      "link": "https://insideclimatenews.org/news/05042025/new-york-jamaica-bay-documentary/",
+      "pubDate": "Sat, 05 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘An exciting moment’: England’s urban and rural trees mapped for first time",
       "description": "&lt;p&gt;‘Groundbreaking’ tool aims to help tree-planting efforts and identify areas to create nature-rich habitats&lt;/p&gt;&lt;p&gt;England’s non-wo...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/97a9306261afd6273a9507effbfd71bf163de3d7/0_0_2141_1284/master/2141.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e3bc919254cc97ba75819951dc6ab33"
-    },
-    {
-      "title": "Eco Voice &#038; Eco News at The 36th Banksia National Sustainability Awards",
-      "description": "Tim &#38; Charlie Langdon By Tim Langdon  It was fabulous to attend the 36th Banksia National Sustainability Awards last night on behalf of my sustain...",
-      "link": "https://econews.com.au/66889/eco-voice-eco-news-at-the-36th-banksia-national-sustainability-awards/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eco-voice-eco-news-at-the-36th-banksia-national-sustainability-awards",
-      "pubDate": "Fri, 04 Apr 2025 05:03:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Winners-of-the-2025-Banksia-Awards-1-1024x576.jpg"
-    },
-    {
-      "title": "Textile recycler BlockTexx takes home the Gold for sustainability",
-      "description": "QLD-based textile recycling company BlockTexx is the winner of this year’s Gold Banksia Sustainability Award Banksia Foundation BlockTexx, the clean t...",
-      "link": "https://econews.com.au/66887/textile-recycler-blocktexx-takes-home-the-gold-for-sustainability/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=textile-recycler-blocktexx-takes-home-the-gold-for-sustainability",
-      "pubDate": "Fri, 04 Apr 2025 03:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Banksia-Gold-Award-Winners-page-600x601-1.png"
     }
   ]
 }
