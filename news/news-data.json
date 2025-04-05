@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-05T12:44:25.680Z",
+  "lastUpdated": "2025-04-05T13:27:01.213Z",
   "articles": [
+    {
+      "title": "Millions of Americans believe they’re safe from wildfires in their cities. New research shows they’re not",
+      "description": "&lt;p&gt;Many of the suburbs and cities hit hardest in recent years were caught off-guard, and key stakeholders are racing to understand the dynamics ...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/05/us-wildfires-cities-dangers",
+      "pubDate": "Sat, 05 Apr 2025 13:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7b2bb6b4bc3ff655238c1d2700563c20f3532c42/0_0_1865_1120/master/1865.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=379a1a1cad7f8e230c5cc32eae2ae3db"
+    },
+    {
+      "title": "Closures of EPA’s regional environmental justice offices will hurt rural America",
+      "description": "Former EPA employees warn that rural and underserved communities across the country will be left with fewer protections against environmental health h...",
+      "link": "https://grist.org/justice/closures-of-epas-regional-environmental-justice-offices-will-hurt-rural-america/",
+      "pubDate": "Sat, 05 Apr 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/AP22011575725673-e1742591076437.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Trump officials quietly move to reverse bans on toxic ‘forever chemicals’",
       "description": "&lt;p&gt;EPA bids to change chemical risk evaluations, which could expose public to higher levels of PFAS and other pollutants&lt;/p&gt;&lt;p&gt;The T...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/20b1ef117459da9cb6cd23b1f08f0414575c9317/363_53_1668_1001/master/1668.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7035c9ca1593065a2e0a119ccf9eda5c"
-    },
-    {
-      "title": "The quest to fix the irony at the heart of every heat pump",
-      "description": "The appliances are key to ditching fossil fuels, but they rely on powerful greenhouse gases to work. Here’s how to tackle that problem....",
-      "link": "https://grist.org/climate-energy/the-quest-to-fix-the-irony-at-the-heart-of-every-heat-pump/",
-      "pubDate": "Fri, 04 Apr 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A federal judge just hit the brakes on Trump&#8217;s plan to fast track industrial fish farming in the Gulf",
-      "description": "Advocates for marine health say aquaculture 'has no place in U.S. ocean waters.\"...",
-      "link": "https://grist.org/food-and-agriculture/judge-hits-brakes-trump-fast-track-fish-farms-gulf/",
-      "pubDate": "Fri, 04 Apr 2025 07:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/12/FishfarmGettyImages-1402739253_ab24b5.jpg?quality=75&#038;strip=all"
     }
   ]
 }
