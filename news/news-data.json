@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-06T08:29:16.890Z",
+  "lastUpdated": "2025-04-06T09:24:01.815Z",
   "articles": [
+    {
+      "title": "Developers See Brooklyn’s Gowanus Canal as an Alluring New Waterfront. But for Years, It Stunk",
+      "description": "Hazardous: Second in a series about the ongoing struggle to clean up Brooklyn’s Superfund sites. NEW YORK—I stared at my computer on another dreary De...",
+      "link": "https://insideclimatenews.org/news/06042025/brooklyn-gowanus-canal-sewage-pollution-waterfront-development/",
+      "pubDate": "Sun, 06 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Former Tasmania premier Tony Rundle dies aged 86 – as it happened",
       "description": "&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://www.theguardian.com/australia-news/2025/apr/05/labor-targets-cost-of...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The USDA is unfreezing clean energy money — but ‘inviting’ grant recipients to remove DEI and climate language",
-      "description": "The agency is finally moving on getting gridlocked money to farmers. But at what cost?...",
-      "link": "https://grist.org/food-and-agriculture/usda-unfreezing-clean-energy-money-dei-climate/",
-      "pubDate": "Fri, 04 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/REAPChicago.jpg?quality=75&#038;strip=all"
     }
   ]
 }
