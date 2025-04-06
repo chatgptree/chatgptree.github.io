@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-06T13:27:45.954Z",
+  "lastUpdated": "2025-04-06T14:21:27.587Z",
   "articles": [
+    {
+      "title": "‘Even a freeway is redeemable’: world’s largest wildlife crossing takes shape in Los Angeles",
+      "description": "&lt;p&gt;A wildlife crossing across the 101 freeway will connect two parts of the Santa Monica mountains for animals&lt;/p&gt;&lt;p&gt;Above the whirr...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/06/la-wildlife-freeway-crossing",
+      "pubDate": "Sun, 06 Apr 2025 14:00:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/55b98d178c963bb50983b7c25b8799548cde7d6c/0_91_5280_3168/master/5280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbd0d4767e88e0883828461d305832f5"
+    },
     {
       "title": "In New England, Canadian hydropower has slowed to an ominous trickle",
       "description": "Whether due to drought, prices, or politics, the weekslong disappearance of Canadian hydropower from New England’s grid exposes risks for the region....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e7729b8530f4fb008bbb16349a8eae94dd414d2f/0_100_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a922803024353635fc41a49a686bd80"
-    },
-    {
-      "title": "American Farmers and the USDA Had Finally Embraced Their Role in the Climate Crisis. Then Came the Federal Funding Freeze",
-      "description": "For two decades, farmer John Burk has been working to improve the soil on his farm in Michigan, taking a few extra steps to make it more resilient and...",
-      "link": "https://insideclimatenews.org/news/04042025/american-farmers-and-the-usda-had-finally-embraced-their-role-in-the-climate-crisis-then-came-the-federal-funding-freeze/",
-      "pubDate": "Fri, 04 Apr 2025 09:04:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
