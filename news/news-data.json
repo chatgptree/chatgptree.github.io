@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-06T18:30:55.290Z",
+  "lastUpdated": "2025-04-06T19:17:49.895Z",
   "articles": [
+    {
+      "title": "Is eating farmed salmon worth snuffing out 40m years of Tasmanian evolution? | Tim Flannery",
+      "description": "&lt;p&gt;Without the strongest conservation efforts, it can’t be long before the Maugean skate – and other marine living fossils in Australia – are wi...",
+      "link": "https://www.theguardian.com/australia-news/2025/apr/07/is-eating-tasmanian-farmed-salmon-worth-snuffing-out-40m-years-of-evolution",
+      "pubDate": "Sun, 06 Apr 2025 19:06:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/59cd2abd7a9799b45d8ba3556feb8b445266de70/0_52_4000_2401/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ad285272cf8491fc38dfb56e8d10212"
+    },
     {
       "title": "Unsafe for Russia to restart Zaporizhzhia nuclear plant, says Ukraine energy chief",
       "description": "&lt;p&gt;Energoatom CEO, Petro Kotin, says ‘major problems’ need to be overcome before it can safely generate power&lt;/p&gt;&lt;p&gt;It would be unsa...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b2c47272a528de9686a1cca8bb2d77f3ca3aeb64/0_230_5400_3240/master/5400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41126604ec0c0bd2c94551925f7b580a"
-    },
-    {
-      "title": "Chance of asteroid hitting Moon increases slightly",
-      "description": "Asteroid 2024 YR4 won’t hit Earth but now has a 3.8% chance of striking the Moon....",
-      "link": "https://www.bbc.com/news/articles/cpdznz83x8vo",
-      "pubDate": "Fri, 04 Apr 2025 12:49:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
