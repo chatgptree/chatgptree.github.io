@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-07T11:20:42.936Z",
+  "lastUpdated": "2025-04-07T12:52:05.790Z",
   "articles": [
+    {
+      "title": "Gopher tortoises find new home on Florida coast after astonishing journey to flee hurricane",
+      "description": "&lt;p&gt;‘Everybody in the ecosystem benefits from gopher tortoises being there,’ says ranger at park where the animals settled&lt;/p&gt;&lt;p&gt;Doze...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/07/gopher-tortoises-florida-journey-hurricane-helene",
+      "pubDate": "Mon, 07 Apr 2025 11:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/baa4e81755f0ec4b107e0c9c4813e21d1d237dd0/0_41_1200_720/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03e47386877b9f2903c4135c6d7b1d43"
+    },
     {
       "title": "We passed the 1.5C climate threshhold. We must now explore extreme options | Sir David King",
       "description": "&lt;p&gt;We do not have the luxury of rejecting solutions before we have thoroughly investigated their risks, trade-offs and feasibility&lt;/p&gt;&lt;...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/f3d9e895cd24ddc7.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Developers See Brooklyn’s Gowanus Canal as an Alluring New Waterfront. But for Years, It Stunk",
-      "description": "Hazardous: Second in a series about the ongoing struggle to clean up Brooklyn’s Superfund sites. NEW YORK—I stared at my computer on another dreary De...",
-      "link": "https://insideclimatenews.org/news/06042025/brooklyn-gowanus-canal-sewage-pollution-waterfront-development/",
-      "pubDate": "Sun, 06 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
