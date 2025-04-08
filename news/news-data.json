@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-08T09:29:58.042Z",
+  "lastUpdated": "2025-04-08T10:27:37.962Z",
   "articles": [
+    {
+      "title": "Clean energy's share of world's electricity reaches 40%, report says",
+      "description": "More clean electricity was generated in 2024 but there was a rise in the amount of coal and gas burnt too. ...",
+      "link": "https://www.bbc.com/news/articles/cq80ygdd3zlo",
+      "pubDate": "Tue, 08 Apr 2025 10:17:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Is Bolivia’s $1.2 Billion Deal to Protect Its Forests a Climate Boon—or a False Solution?",
       "description": "Sometime next month, the Bolivian government and a company you probably haven’t heard of are poised to offer what could be the largest single sale of ...",
@@ -27,6 +36,51 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4f39d5ccacda6f0a1ba9f6643dbfdd2e7d8b5fc8/0_167_4819_2892/master/4819.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a213084403bb6552531a7e26052ec14"
+    },
+    {
+      "title": "SXSW SYDNEY 2025 CONFERENCE PREVIEW: 40 SPEAKERS ANNOUNCED",
+      "description": "Announcing the first of many thought leaders, including CEO of GoFundMe, Tim Cadocan, Silicon Valley Robotics MD Andra Keay, Founder of Girls That Inv...",
+      "link": "https://econews.com.au/66911/sxsw-sydney-2025-conference-preview-40-speakers-announced/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sxsw-sydney-2025-conference-preview-40-speakers-announced",
+      "pubDate": "Tue, 08 Apr 2025 06:03:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/sponsors-1024x67.png"
+    },
+    {
+      "title": "DNA breakthrough a game-changer for combating invasive plant spread",
+      "description": "Monash University A breakthrough method for analysing the DNA of centuries-old plant samples has given scientists an edge in combating the spread of i...",
+      "link": "https://econews.com.au/66909/dna-breakthrough-a-game-changer-for-combating-invasive-plant-spread/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dna-breakthrough-a-game-changer-for-combating-invasive-plant-spread",
+      "pubDate": "Tue, 08 Apr 2025 06:03:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Green Music Australia Welcomes Industry Leaders To Board",
+      "description": "Pictured Left to Right: Georgie Martin, Mark Smith, Joe Muller.  Green Music Australia – the peak body for the environment in the music industry – is ...",
+      "link": "https://econews.com.au/66907/green-music-australia-welcomes-industry-leaders-to-board/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=green-music-australia-welcomes-industry-leaders-to-board",
+      "pubDate": "Tue, 08 Apr 2025 06:03:00 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/green-music-logo.png"
+    },
+    {
+      "title": "Sufficient uranium resources exist, however investments needed to sustain high nuclear energy growth",
+      "description": "Sufficient uranium resources exist to support both the continued use of nuclear power and its significant growth through 2050 and beyond. However, tim...",
+      "link": "https://econews.com.au/66905/sufficient-uranium-resources-exist-however-investments-needed-to-sustain-high-nuclear-energy-growth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sufficient-uranium-resources-exist-however-investments-needed-to-sustain-high-nuclear-energy-growth",
+      "pubDate": "Tue, 08 Apr 2025 06:02:59 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Australian Museum Partners with Stockland to Raise Awareness of Frogs Through New Exhibition",
+      "description": "Litoria raniformis – Southern Bell frog Credit: Stephen Mahony Australian Museum Today, the Australian Museum and Stockland unveiled the FrogID Tourin...",
+      "link": "https://econews.com.au/66903/australian-museum-partners-with-stockland-to-raise-awareness-of-frogs-through-new-exhibition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australian-museum-partners-with-stockland-to-raise-awareness-of-frogs-through-new-exhibition",
+      "pubDate": "Tue, 08 Apr 2025 06:02:57 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
       "title": "Streams of medicines: what’s hiding in the UK’s waterways? – podcast",
@@ -74,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/28e8965b40f0d7633fdef6bbffc65a02a6c78e56/0_56_4896_2938/master/4896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=101b597ff8ccf3d0ea1479ed49354e1c"
     },
     {
-      "title": "Labor's home batteries policy could help people who will never take it up. Here's how | Adam Morton",
-      "description": "&lt;p&gt;The government’s promise to slash the cost of household batteries should be welcomed – it could drive a change that benefits everyone who use...",
-      "link": "https://www.theguardian.com/environment/commentisfree/2025/apr/08/labor-cheaper-household-batteries-policy-power-grid-renewable-energy-price",
-      "pubDate": "Mon, 07 Apr 2025 15:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/700e04c6195cf1798c0d0d855c913e30c7db6e6d/0_574_8660_5199/master/8660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3475b0607a7ebff3f294258eb42e7767"
-    },
-    {
       "title": "When sadness strikes I remember I’m not alone in loving the wild boundless beauty of the living world | Georgina Woods",
       "description": "&lt;p&gt;Nature will reclaim its place as a terrifying quasi-divine force that cannot be mastered. I find this strangely comforting&lt;/p&gt;&lt;ul&gt...",
       "link": "https://www.theguardian.com/australia-news/commentisfree/2025/apr/08/when-sadness-strikes-i-remember-im-not-alone-in-loving-the-wild-boundless-beauty-of-the-living-world",
@@ -90,6 +135,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/50289f6d50d45ea08243703083cf577fedf205bd/0_275_8256_4954/master/8256.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18e19ddb6361a6b0c56ab497edad268c"
+    },
+    {
+      "title": "Labor's home batteries policy could help people who will never take it up. Here's how | Adam Morton",
+      "description": "&lt;p&gt;The government’s promise to slash the cost of household batteries should be welcomed – it could drive a change that benefits everyone who use...",
+      "link": "https://www.theguardian.com/environment/commentisfree/2025/apr/08/labor-cheaper-household-batteries-policy-power-grid-renewable-energy-price",
+      "pubDate": "Mon, 07 Apr 2025 15:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/700e04c6195cf1798c0d0d855c913e30c7db6e6d/0_574_8660_5199/master/8660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3475b0607a7ebff3f294258eb42e7767"
     },
     {
       "title": "Endangered far eastern curlews, and the scientist standing up for them – video",
@@ -126,60 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c000bb62645534bf18153ec15cbc8a502f3724a3/0_266_3968_2380/master/3968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e024ec47cf3257a89fb7901a45ff126c"
-    },
-    {
-      "title": "Rural Human Rights Defenders Face Serious and Growing Risks, UN Report Reveals",
-      "description": "When a gold mine in rural Liberia spewed three million gallons of cyanide-laced wastewater into soil and groundwater in 2016, affected Indigenous comm...",
-      "link": "https://insideclimatenews.org/news/07042025/human-rights-defenders-face-serious-risks/",
-      "pubDate": "Mon, 07 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Rio Grande Valley was once covered in forest. One man is trying to bring it back.",
-      "description": "The Tamaulipan thorn forest once covered 1 million acres on both sides of the border. Restoring even a fraction of it could help the region cope with ...",
-      "link": "https://grist.org/solutions/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/",
-      "pubDate": "Mon, 07 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/jon-dale-thorn-forest-rio-grande-valley-texas.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "It's only early April and north India is bracing for extreme heat",
-      "description": "India's weather department has issued a yellow alert for parts for northern India until Wednesday. ...",
-      "link": "https://www.bbc.com/news/articles/cwyn741gg73o",
-      "pubDate": "Mon, 07 Apr 2025 07:05:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "It’s heroic, hardy and less than a millimetre long: meet the 2025 invertebrate of the year  | Patrick Barkham",
-      "description": "&lt;p&gt;Guardian readers around the world voted in the this year’s contest, celebrating our spineless, friendly neighbours. But which creature won?&l...",
-      "link": "https://www.theguardian.com/commentisfree/2025/apr/07/guardian-invertebrate-of-the-year-2025-natural-history",
-      "pubDate": "Mon, 07 Apr 2025 06:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/de643d52b54154e4f3e0a9a0e16617836eb85617/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=156b0830ad7cda0d741e7f843368d920"
-    },
-    {
-      "title": "Parrtjima, a festival in light – in pictures",
-      "description": "&lt;p&gt;Now in its 10th year, the &lt;a href=\"https://parrtjimaaustralia.com.au/\"&gt;Parrtjima festival &lt;/a&gt;is a free event showcasing installa...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/apr/07/parrtjima-a-festival-in-light-in-pictures",
-      "pubDate": "Mon, 07 Apr 2025 03:28:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7008d54d71c86742705eb17c350e6b1bd8fe838b/0_0_6500_3902/master/6500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6f4f98783c54e706d12727fba077342"
-    },
-    {
-      "title": "Endangered Carnaby’s black cockatoos, and the teenager building nests for them – video",
-      "description": "&lt;p&gt;Eva Czislowski, a student and activist, says Carnaby’s black cockatoos used to blacken the sky. ‘I can't believe that I won't be able to expe...",
-      "link": "https://www.theguardian.com/australia-news/video/2025/apr/07/endangered-carnabys-black-cockatoos-and-the-teenager-building-nests-for-them-video",
-      "pubDate": "Sun, 06 Apr 2025 15:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/edcd60a73c8ed1b8c0cde5d1fb1f8781caed071f/0_0_2500_1500/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07da9a301b5f583548e448051f2ec727"
     }
   ]
 }
