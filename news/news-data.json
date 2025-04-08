@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-08T11:20:42.564Z",
+  "lastUpdated": "2025-04-08T12:51:33.841Z",
   "articles": [
+    {
+      "title": "Titanic scan reveals ground-breaking details of ship's final hours",
+      "description": "The 3D replica corroborates eye witness accounts about what happened after the liner hit an iceberg. ...",
+      "link": "https://www.bbc.com/news/articles/cwy6gjwd0g6o",
+      "pubDate": "Tue, 08 Apr 2025 12:00:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Titanic scan reveals ground-breaking details of ship's final hours",
+      "description": "The 3D replica corroborates eye witness accounts about what happened after the liner hit an iceberg. ...",
+      "link": "https://www.bbc.com/news/articles/cwy6gjwd0g6o",
+      "pubDate": "Tue, 08 Apr 2025 12:00:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Experts dispute claims dire wolf brought back from extinction",
+      "description": "Independent experts say three white wolf puppies are not dire wolves, as claimed by US company Colossal...",
+      "link": "https://www.bbc.com/news/articles/c4g9ejy3gdvo",
+      "pubDate": "Tue, 08 Apr 2025 11:20:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Clean energy's share of world's electricity reaches 40%, report says",
       "description": "More clean electricity was generated in 2024 but there was a rise in the amount of coal and gas burnt too. ...",
@@ -21,7 +48,7 @@
     },
     {
       "title": "The world is heating up. How much can our bodies handle?",
-      "description": "Scientists put people in a heat chamber for 9 hours. Here's what they learned.\n...",
+      "description": "Scientists put people in a heat chamber for nine hours. Here's what they learned.\n...",
       "link": "https://grist.org/health/science-extreme-heat-humidity-research/",
       "pubDate": "Tue, 08 Apr 2025 08:45:00 +0000",
       "sourceName": "grist.org",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9c5aa1d7da35a2379d8ecfcdb80d43a8d7c4c280/60_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=585a4d9c68f84a23d56e70f79d40944a"
-    },
-    {
-      "title": "Gopher tortoises find new home on Florida coast after astonishing journey to flee hurricane",
-      "description": "&lt;p&gt;‘Everybody in the ecosystem benefits from gopher tortoises being there,’ says ranger at park where the animals settled&lt;/p&gt;&lt;p&gt;Doze...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/07/gopher-tortoises-florida-journey-hurricane-helene",
-      "pubDate": "Mon, 07 Apr 2025 11:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/baa4e81755f0ec4b107e0c9c4813e21d1d237dd0/0_41_1200_720/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03e47386877b9f2903c4135c6d7b1d43"
-    },
-    {
-      "title": "We passed the 1.5C climate threshhold. We must now explore extreme options | Sir David King",
-      "description": "&lt;p&gt;We do not have the luxury of rejecting solutions before we have thoroughly investigated their risks, trade-offs and feasibility&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/commentisfree/2025/apr/07/climate-solutions-extreme-options",
-      "pubDate": "Mon, 07 Apr 2025 09:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ce4ff5526ffb30688286af955e389bbedd77d150/0_1001_5000_2998/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6eb23a867200fe6e64c96d30a8c50bf0"
-    },
-    {
-      "title": "‘We made everything bear-proof’: the Italian village that learned to love its bears",
-      "description": "&lt;p&gt;By learning to live with its ursine neighbours, mountainous Pettorano sul Gizio has drawn tourists and new residents, bucking a trend of rura...",
-      "link": "https://www.theguardian.com/environment/2025/apr/07/italy-bears-conservation-pettorano-sul-gizio-apennines-town-aoe",
-      "pubDate": "Mon, 07 Apr 2025 09:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c000bb62645534bf18153ec15cbc8a502f3724a3/0_266_3968_2380/master/3968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e024ec47cf3257a89fb7901a45ff126c"
     }
   ]
 }
