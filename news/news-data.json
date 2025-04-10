@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-09T23:23:05.062Z",
+  "lastUpdated": "2025-04-10T01:58:14.966Z",
   "articles": [
+    {
+      "title": "Elon Musk’s xAI powering its facility in Memphis with ‘illegal’ generators",
+      "description": "&lt;p&gt;Advocacy group contends the firm is using 35 methane gas burning turbines, but has permission for only 15&lt;/p&gt;&lt;p&gt;KeShaun Pearson t...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/09/elon-musk-xai-memphis",
+      "pubDate": "Thu, 10 Apr 2025 01:07:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1de7b9823a50c8556a5bbbf321475f37f23f0a1d/0_200_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56d0d90930c492131a3c0cf2b00fa533"
+    },
+    {
+      "title": "The plans to put data centres in orbit and on the Moon",
+      "description": "Proponents say space-based data centres will be more secure, but sceptics say big hurdles remain....",
+      "link": "https://www.bbc.com/news/articles/cjewvpkw7weo",
+      "pubDate": "Wed, 09 Apr 2025 23:04:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why Trump&#8217;s executive order targeting state climate laws is probably illegal",
       "description": "President Trump continues dismantling climate policy with a move of questionable legality that benefits fossil fuels. States are sure to sue. ...",
@@ -30,7 +48,7 @@
     },
     {
       "title": "Trump takes aim at city and state climate laws in executive order",
-      "description": "&lt;p&gt;President orders justice department to stop enforcement of critical policies holding fossil fuel companies accountable&lt;/p&gt;&lt;ul&gt;&lt...",
+      "description": "&lt;p&gt;President orders justice department to stop enforcement of critical policies holding fossil fuel companies accountable&lt;/p&gt;&lt;p&gt;&lt;...",
       "link": "https://www.theguardian.com/us-news/2025/apr/09/trump-climate-state-laws-executive-order",
       "pubDate": "Wed, 09 Apr 2025 16:10:28 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump to reportedly cut grant for key US steel project in Vance’s home town",
-      "description": "&lt;p&gt;Outcry as CNN reports president to stop funds for program that would have created jobs in Middletown, Ohio&lt;/p&gt;&lt;p&gt;Despite promises...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/08/trump-steel-manufacturer-cuts",
-      "pubDate": "Tue, 08 Apr 2025 21:53:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b583d1b20f0cca1f390a1a7ac7d53569af16be3e/0_171_5140_3084/master/5140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62fdf1c5e21869da962981a434381c54"
-    },
-    {
-      "title": "Trump signs orders to allow coal-fired power plants to remain open",
-      "description": "&lt;p&gt;Move aimed at addressing rise in power demand for datacenters, AI and EVs, but environmentalists call it a step back&lt;/p&gt;&lt;p&gt;&lt;a ...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/08/trump-executiver-order-coal-power-plants",
-      "pubDate": "Tue, 08 Apr 2025 21:01:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/be3c5225a589f0df273099453635efb9427bf7ca/0_0_5500_3300/master/5500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d835e3748e342a9bdb8b6b783dcf5715"
     }
   ]
 }
