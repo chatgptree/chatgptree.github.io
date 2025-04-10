@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-10T07:25:01.649Z",
+  "lastUpdated": "2025-04-10T08:32:53.333Z",
   "articles": [
+    {
+      "title": "New York City is making people compost — or pay up",
+      "description": "New Yorkers can now get fined for not separating their food scraps. Some critics say that's not the right approach....",
+      "link": "https://grist.org/food-and-agriculture/new-york-city-is-making-people-compost-or-pay-up/",
+      "pubDate": "Thu, 10 Apr 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/nyc-compost.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "After the wildfires, Beverly Hills shut out students whose school burned",
+      "description": "The dispute between two Los Angeles-area districts raises a broader question of what a school district owes its neighbors after a major disaster....",
+      "link": "https://grist.org/wildfires/after-the-wildfires-beverly-hills-shut-out-students-whose-school-burned/",
+      "pubDate": "Thu, 10 Apr 2025 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/LAschoolphoto.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Trump signs executive order to 'make America's showers great again' – video",
+      "description": "&lt;p&gt;A global trade-war rollercoaster was not enough to distract &lt;a href=\"https://www.theguardian.com/us-news/donaldtrump\"&gt;Donald Trump&lt;/...",
+      "link": "https://www.theguardian.com/us-news/video/2025/apr/10/trump-signs-executive-order-to-make-americas-showers-great-again-video",
+      "pubDate": "Thu, 10 Apr 2025 07:41:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/81e7168baa2482588c185639ba4792bda0cda3b8/0_400_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39103dce2cfee4292db4d9ea643649b7"
+    },
     {
       "title": "Green activist group is pausing work after backlash by investors",
       "description": "&lt;p&gt;Dutch group Follow This says it will not file any resolutions against oil and gas companies this AGM season&lt;/p&gt;&lt;p&gt;A green shareho...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2024/11/trump-clean-energy-IRA-paris-agreement-climate.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Trump’s Nominee for EPA’s Top Lawyer Advances Despite Scant Legal Qualifications",
-      "description": "The Trump administration’s choice for the Environmental Protection Agency’s top lawyer has never taken a deposition, argued a motion or authored a leg...",
-      "link": "https://insideclimatenews.org/news/09042025/trump-nominee-epa-top-lawyer-sean-donahue-legal-qualifications/",
-      "pubDate": "Wed, 09 Apr 2025 21:17:21 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "White House ends funding for key US climate body: ‘No coming back from this’",
-      "description": "&lt;p&gt;Nasa cuts contract that convened USGCRP, which released assessments impacting environmental decision-making&lt;/p&gt;&lt;p&gt;The White House...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/09/trump-national-climate-assessment-usgcrf",
-      "pubDate": "Wed, 09 Apr 2025 20:11:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cc734db99b4442cbbd5350093e24936df18b4a2a/0_290_3900_2340/master/3900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=750736571e4f75621e098629a20dd2f6"
-    },
-    {
-      "title": "Trump takes aim at city and state climate laws in executive order",
-      "description": "&lt;p&gt;President orders justice department to stop enforcement of critical policies holding fossil fuel companies accountable&lt;/p&gt;&lt;p&gt;&lt;...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/09/trump-climate-state-laws-executive-order",
-      "pubDate": "Wed, 09 Apr 2025 16:10:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/340fd1d8e1ec23a3fc87edd07be0569c744fa4e3/0_92_2772_1663/master/2772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb89b3cb23cd24ea6d24128c3e2cad35"
     }
   ]
 }
