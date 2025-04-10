@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-10T08:32:53.333Z",
+  "lastUpdated": "2025-04-10T09:26:53.670Z",
   "articles": [
+    {
+      "title": "‘Deep Change Theory’ Could Pull Us Out of a Global Climate and Pollution Crisis, Scientists Say",
+      "description": "A team of international researchers published a new U.N. report Wednesday that adds to the rising scientific call for transformative societal and econ...",
+      "link": "https://insideclimatenews.org/news/10042025/deep-change-theory-could-lead-to-sustainable-future/",
+      "pubDate": "Thu, 10 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Logging doesn’t prevent wildfires, but Trump is trying anyway",
+      "description": "The Agriculture Department is opening more than 112 million acres of federal forests to logging in a misguided bid to prevent fires and boost timber p...",
+      "link": "https://grist.org/wildfires/logging-doesnt-prevent-wildfires-but-trump-is-trying-anyway/",
+      "pubDate": "Thu, 10 Apr 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-1644577526-e1743543627870.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "New York City is making people compost — or pay up",
       "description": "New Yorkers can now get fined for not separating their food scraps. Some critics say that's not the right approach....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1de7b9823a50c8556a5bbbf321475f37f23f0a1d/0_200_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56d0d90930c492131a3c0cf2b00fa533"
-    },
-    {
-      "title": "The plans to put data centres in orbit and on the Moon",
-      "description": "Proponents say space-based data centres will be more secure, but sceptics say big hurdles remain....",
-      "link": "https://www.bbc.com/news/articles/cjewvpkw7weo",
-      "pubDate": "Wed, 09 Apr 2025 23:04:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why Trump&#8217;s executive order targeting state climate laws is probably illegal",
-      "description": "President Trump continues dismantling climate policy with a move of questionable legality that benefits fossil fuels. States are sure to sue. ...",
-      "link": "https://grist.org/politics/why-trumps-executive-order-targeting-state-climate-laws-is-probably-illegal/",
-      "pubDate": "Wed, 09 Apr 2025 22:23:09 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/11/trump-clean-energy-IRA-paris-agreement-climate.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
