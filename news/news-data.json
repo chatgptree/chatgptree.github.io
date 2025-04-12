@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-12T15:23:19.846Z",
+  "lastUpdated": "2025-04-12T16:27:57.913Z",
   "articles": [
+    {
+      "title": "Inside the fight to save California’s dying sea lions from toxic algae: ‘We’re like 911 operators’",
+      "description": "&lt;p&gt;The chance of the marine animal’s survival after domoic acid poisoning is 50-50, and this year, the outbreak has sickened hundreds&lt;/p&gt;&...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/12/california-sea-lions-domoic-acid-poisoning",
+      "pubDate": "Sat, 12 Apr 2025 16:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8d0a728722aa938b2687cfd8b46197e633e0605f/0_76_4089_2453/master/4089.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d75d7c44a0fb9fb7dabf2fbc93388336"
+    },
     {
       "title": "Massachusetts home-electrification pilot could offer a national model",
       "description": "Installations are wrapping up this month for the turnkey program providing solar, heat pumps, and batteries to households that couldn’t otherwise affo...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c1e7d72358f40fc6f54b75fbcf837c92c98091f3/391_346_3698_2219/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c89ca1c8e8b4657a2f72450572494bac"
-    },
-    {
-      "title": "A Year After a Fatal Explosion, Alabama Extends Deadline for Coal Companies to Monitor Methane Gas Above Mines",
-      "description": "Undermined: Fifteenth in a series about the impacts of longwall mining in Alabama. JASPER, Ala.—Verby Burton said she wasn’t expecting much from Thurs...",
-      "link": "https://insideclimatenews.org/news/11042025/alabama-coal-companies-methane-monitoring-above-mines/",
-      "pubDate": "Fri, 11 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
