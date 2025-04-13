@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-13T08:28:50.478Z",
+  "lastUpdated": "2025-04-13T09:24:58.144Z",
   "articles": [
+    {
+      "title": "South Texas Developers Make a Sales Pitch to Sell Groundwater. Will Laredo Buy It?",
+      "description": "LAREDO, Texas—The Walker family property at the intersection of I-35 and US-83 in Webb County is a rugged expanse of scrub brush, cacti and a few catt...",
+      "link": "https://insideclimatenews.org/news/13042025/laredo-texas-treated-groundwater-rio-grande/",
+      "pubDate": "Sun, 13 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "https://insideclimatenews.org/wp-content/uploads/2025/04/202503_LaredoWater_50w.jpg"
+    },
+    {
+      "title": "Lakes Region Restoration Project Aims to Link Conservation Lands From Maine to New Hampshire",
+      "description": "The Rangeley Lakes region can often feel like a forgotten corner of Maine, far from the state’s famed coasts or cities. This western stretch is remote...",
+      "link": "https://insideclimatenews.org/news/13042025/maine-magalloway-river-ecosystem-restoration/",
+      "pubDate": "Sun, 13 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Unprecedented’ sightings of Asian hornets raise fears for UK bees",
       "description": "&lt;p&gt;Early reports have led experts to believe there could be a surge in the deadly invader, threatening native species &lt;/p&gt;&lt;p&gt;They ha...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Global breakthrough to tackle shipping emissions",
-      "description": "Countries break ten-year deadlock to agree measures to reduce commercial shipping emissions....",
-      "link": "https://www.bbc.com/news/articles/c20xxv22wl9o",
-      "pubDate": "Fri, 11 Apr 2025 13:27:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California’s $59bn agriculture industry reels under Trump’s wavering tariffs",
-      "description": "&lt;p&gt;Some farmers recovered from president’s first-term trade war and a fresh one is estimated to cost the state $6bn a year&lt;/p&gt;&lt;p&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2025/apr/11/trump-china-tariffs-california-farms",
-      "pubDate": "Fri, 11 Apr 2025 12:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c4d10462aea736690aad5d2b171ffeece0df43b1/0_30_4800_2883/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d52daa9541272ba1b12c73b273d637ec"
     }
   ]
 }
