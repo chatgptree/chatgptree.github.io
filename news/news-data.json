@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-14T22:24:20.745Z",
+  "lastUpdated": "2025-04-14T23:23:05.256Z",
   "articles": [
+    {
+      "title": "Couple arrested for breeding exotic cats in Spain",
+      "description": "The couple is suspected of selling exotic cats online, including protected species such as white tigers....",
+      "link": "https://www.bbc.com/news/articles/ce8g7m54gkro",
+      "pubDate": "Mon, 14 Apr 2025 22:23:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Blue Origin crew safely back on Earth after all-female space flight",
       "description": "Six women - including pop star Katy Perry - blasted off into space as part of an all-women suborbital mission...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/logo_HP_Electric_Blue_keyline-1-1024x1024.png"
-    },
-    {
-      "title": "New Trump Administration Directives to Repeal Environmental Regulations En Masse Make ‘No Sense,’ Legal Experts Say",
-      "description": "Environmental lawyers say two new White House directives—designed to greatly expand executive power to strike down federal energy and environmental re...",
-      "link": "https://insideclimatenews.org/news/12042025/new-trump-administration-directives-to-repeal-environmental-regulations-en-masse-make-no-sense-legal-experts-say/",
-      "pubDate": "Sat, 12 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
