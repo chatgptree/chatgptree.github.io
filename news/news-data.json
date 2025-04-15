@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-15T09:28:00.895Z",
+  "lastUpdated": "2025-04-15T10:27:53.500Z",
   "articles": [
+    {
+      "title": "RFK Jr urged to release nearly $400m allocated to help families combat heat",
+      "description": "&lt;p&gt;As part of Trump’s administrations ‘efficiency’ drive, staff running decades old program for energy assistance laid off&lt;/p&gt;&lt;p&gt;Rob...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/15/rfk-jr-energy-assistance-heat",
+      "pubDate": "Tue, 15 Apr 2025 10:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/51818728e815f4c0c087e8dd4e9350c1ff6fe2ed/329_725_5310_3187/master/5310.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d922399dcafd9e839fa217d04d488392"
+    },
+    {
+      "title": "Amphibious boat brings Bond-style glamour to RSPB in Northumberland",
+      "description": "&lt;p&gt;Bear Grylls-inspired vessel helps wardens on Coquet Island care for UK’s only breeding colony of roseate terns&lt;/p&gt;&lt;p&gt;It looks lik...",
+      "link": "https://www.theguardian.com/environment/2025/apr/15/amphibious-boat-rspb-northumberland-coquet-island",
+      "pubDate": "Tue, 15 Apr 2025 10:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5ae51c5c076a2ea01bfabae7693caefa81f39034/0_155_4582_2750/master/4582.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b8bd0044b7bf06be4ba9b97f55ed8fa"
+    },
+    {
+      "title": "Atomic Secrets: a Chornobyl scientist warns of a toxic future",
+      "description": "&lt;p&gt;Dmitry Kalmykov is a Ukrainian scientist who has dedicated his life to investigating environmental disasters, first at Chornobyl and now in S...",
+      "link": "https://www.theguardian.com/environment/video/2025/apr/15/atomic-secrets-a-chornobyl-scientist-warns-of-a-toxic-future",
+      "pubDate": "Tue, 15 Apr 2025 09:40:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/02a35e0ba1bd619c656ff0830c5342a1b68bac84/348_146_3218_1931/master/3218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9ee1a7fbb79a6b62a3a39483b97ba37"
+    },
     {
       "title": "New Stream Gauges and Weather Stations Poised to Help Wyoming Tribes Endure Flooding and Drought",
       "description": "ETHETE, Wyo.—Travis Shakespeare and Lokilo St. Clair of the Northern Arapaho tribe were driving through central Wyoming’s Wind River Indian Reservatio...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Blue Origin crew safely back on Earth after all-female space flight",
-      "description": "Six women - including pop star Katy Perry - blasted off into space as part of an all-women suborbital mission...",
-      "link": "https://www.bbc.com/news/articles/cvg8e5gq8ljo",
-      "pubDate": "Mon, 14 Apr 2025 21:45:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate crisis has tripled length of deadly ocean heatwaves, study finds",
-      "description": "&lt;p&gt;Hotter seas supercharge storms and destroy critical ecosystems such as kelp forests and coral reefs&lt;/p&gt;&lt;p&gt;The climate crisis has ...",
-      "link": "https://www.theguardian.com/environment/2025/apr/14/climate-crisis-has-tripled-length-of-deadly-ocean-heatwaves-study-finds",
-      "pubDate": "Mon, 14 Apr 2025 19:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/230fa9733674b75c95fb97b39207bd46ada44727/87_0_3750_2250/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c775d579f71b9e7e0b4f8cb4719239bf"
-    },
-    {
-      "title": "Birmingham bin workers reject deal to end strike",
-      "description": "&lt;p&gt;Unite leader says ‘partial deal on pay protection for a few’ was overwhelmingly rejected in vote, as rubbish piles up&lt;/p&gt;&lt;p&gt;Bin w...",
-      "link": "https://www.theguardian.com/uk-news/2025/apr/14/birmingham-bin-workers-reject-deal-to-end-strike",
-      "pubDate": "Mon, 14 Apr 2025 17:01:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/50fa64431d61122416e2cfc05c693658e05870b8/0_93_5170_3102/master/5170.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9252340e5d0a42f24087248428a62d6e"
     }
   ]
 }
