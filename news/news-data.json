@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-14T23:23:05.256Z",
+  "lastUpdated": "2025-04-15T02:01:46.173Z",
   "articles": [
+    {
+      "title": "Iraq sandstorm leaves many with breathing problems",
+      "description": "The sandstorm blanketed southern regions in an eerie, orange haze and shut down airports....",
+      "link": "https://www.bbc.com/news/articles/c0kxznxyx5do",
+      "pubDate": "Tue, 15 Apr 2025 00:52:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmental Groups Sue the Trump Administration to Restore Web Tools Critical for Gauging Climate and Pollution Impacts",
+      "description": "When the Trump administration took down websites over the past three months that track pollution and climate impacts on low-income communities, it rem...",
+      "link": "https://insideclimatenews.org/news/14042025/environmental-groups-sue-trump-administration-to-restore-climate-web-tools/",
+      "pubDate": "Mon, 14 Apr 2025 23:51:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Congressional Democrats Assail Trump’s Plans for Deep Cuts to Government Science",
+      "description": "GREENBELT, Md.—Congressional Democrats who represent the Maryland suburbs of Washington, D.C., that are home to one of NASA’s premier research centers...",
+      "link": "https://insideclimatenews.org/news/14042025/congress-democrats-speak-against-trump-government-science-cuts/",
+      "pubDate": "Mon, 14 Apr 2025 23:25:35 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Couple arrested for breeding exotic cats in Spain",
       "description": "The couple is suspected of selling exotic cats online, including protected species such as white tigers....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/214a6065338c33eb416f91e6c884d3a59d24e1cd/0_412_6995_4196/master/6995.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22e3a63ca53271bf8859e576b9c0c993"
-    },
-    {
-      "title": "Inside the fight to save California’s dying sea lions from toxic algae: ‘We’re like 911 operators’",
-      "description": "&lt;p&gt;An animal’s chance of survival after domoic acid poisoning is 50-50, and this year an outbreak has sickened hundreds&lt;/p&gt;&lt;p&gt;It was...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/12/california-sea-lions-domoic-acid-poisoning",
-      "pubDate": "Sat, 12 Apr 2025 16:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8d0a728722aa938b2687cfd8b46197e633e0605f/0_76_4089_2453/master/4089.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d75d7c44a0fb9fb7dabf2fbc93388336"
-    },
-    {
-      "title": "Massachusetts home-electrification pilot could offer a national model",
-      "description": "Installations are wrapping up this month for the turnkey program providing solar, heat pumps, and batteries to households that couldn’t otherwise affo...",
-      "link": "https://grist.org/energy/massachusetts-home-electrification-pilot-could-offer-a-national-model/",
-      "pubDate": "Sat, 12 Apr 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-1235398853fd.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Eco News Sustainability Report with Olivia West, Sustainability Manager, Americas, Asia Pacific, and Japan at HP.",
-      "description": "Olivia West, Sustainability Manager, Americas, Asia Pacific, and Japan at HP. “It was my pleasure to interview Olivia West, Sustainability Manager, Am...",
-      "link": "https://econews.com.au/66933/eco-news-sustainability-report-with-olivia-west-sustainability-manager-americas-asia-pacific-and-japan-at-hp/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eco-news-sustainability-report-with-olivia-west-sustainability-manager-americas-asia-pacific-and-japan-at-hp",
-      "pubDate": "Sat, 12 Apr 2025 09:03:37 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/logo_HP_Electric_Blue_keyline-1-1024x1024.png"
     }
   ]
 }
