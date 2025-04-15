@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-04-15T08:33:55.453Z",
+  "lastUpdated": "2025-04-15T09:28:00.895Z",
   "articles": [
+    {
+      "title": "New Stream Gauges and Weather Stations Poised to Help Wyoming Tribes Endure Flooding and Drought",
+      "description": "ETHETE, Wyo.—Travis Shakespeare and Lokilo St. Clair of the Northern Arapaho tribe were driving through central Wyoming’s Wind River Indian Reservatio...",
+      "link": "https://insideclimatenews.org/news/15042025/stream-gauges-weather-stations-help-wyoming-tribes-endure-flooding-drought/",
+      "pubDate": "Tue, 15 Apr 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Bayer Bill’ Granting Legal Protections to Pesticide Companies Fizzles Out in the Iowa Legislature Again",
+      "description": "DES MOINES, Iowa—Days before a key deadline for establishing legislative priorities, the Iowa Senate passed a bill that would make it impossible to br...",
+      "link": "https://insideclimatenews.org/news/15042025/iowa-pesticide-protections-bill-fizzles-out/",
+      "pubDate": "Tue, 15 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Do Heat Pumps Save You Money? In California, It Depends on Your Electric Utility",
+      "description": "Last year, when Shreyas Sudhakar started a heat pump installation company in the San Francisco Bay Area, he realized he wouldn’t be able to find new c...",
+      "link": "https://insideclimatenews.org/news/15042025/california-expensive-electricity-affects-heat-pump-savings/",
+      "pubDate": "Tue, 15 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Public lands, private profits: Inside the Trump plan to offload federal land",
+      "description": "Critics warn that the Trump administration’s plan to transfer public lands could enrich  wealthy developers while eliminating access for everyone else...",
+      "link": "https://grist.org/accountability/public-lands-private-profits-inside-the-trump-plan-to-offload-federal-land/",
+      "pubDate": "Tue, 15 Apr 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/Interior-Department-federal-land-sell-offload-Trump-administration.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Why the Forest Service is logging after Hurricane Helene — and why some say it’s a mistake",
       "description": "Volunteers, scientists, and hikers are asking for transparency in a process they say could prioritize profit over ecosystems...",
@@ -9,6 +45,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/Helene-National-Forest-salvage-logging-operations-02.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Fifteen years after a volcano shut European airspace, could it happen again?",
+      "description": "Could volcanic ash close down airspace  across the UK and Europe bringing widespread the disruption we experienced in 2010....",
+      "link": "https://www.bbc.com/weather/articles/ce822xzk60no",
+      "pubDate": "Tue, 15 Apr 2025 07:55:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Climate models are letting our cities down, risking Australians’ safety",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/50fa64431d61122416e2cfc05c693658e05870b8/0_93_5170_3102/master/5170.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9252340e5d0a42f24087248428a62d6e"
-    },
-    {
-      "title": "Climate Change Is Helping Heartworm Spread to Pets in the Mountain West",
-      "description": "Twenty years ago, when veterinarian Colleen Duncan arrived in Fort Collins, Colorado, there were no signs of heartworm in the region’s dogs and cats. ...",
-      "link": "https://insideclimatenews.org/news/14042025/climate-change-spreads-heartworm-through-mosquitoes-to-mountain-west-pets/",
-      "pubDate": "Mon, 14 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Global warming is melting Arctic sea ice. Can science refreeze it?",
-      "description": "But should we use them?...",
-      "link": "https://grist.org/climate/new-technologies-are-helping-to-regrow-arctic-sea-ice/",
-      "pubDate": "Mon, 14 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/NASA_sea-ice-extent-1979-2024.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Millions of Americans don’t speak English. Now they won’t be warned before weather disasters.",
-      "description": "An internal memo reviewed by Grist showed the National Weather Service has stopped translating radio alerts in the southern region, a move that has en...",
-      "link": "https://grist.org/equity/national-weather-service-translation-alerts-weather-disasters/",
-      "pubDate": "Mon, 14 Apr 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-1546524292.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘It looks like I’ve gone 10 rounds with a boxer’: when hay fever becomes debilitating – and potentially deadly",
-      "description": "&lt;p&gt;Often dismissed as summertime sniffles, the condition that affects a quarter of UK adults can lead to serious and life-limiting health proble...",
-      "link": "https://www.theguardian.com/environment/2025/apr/14/it-looks-like-ive-gone-10-rounds-with-a-boxer-when-hay-fever-becomes-debilitating-and-potentially-deadly-aoe",
-      "pubDate": "Mon, 14 Apr 2025 07:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/db0b78a42414812784ba4da49820492ce3c8bf50/0_200_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85968db31ac2ff1d5f55138e9993d2da"
-    },
-    {
-      "title": "Annual Bilby Census: Juveniles, drought and a record-breaking population",
-      "description": "Australia’s threatened Easter Bilby has been busy in the last 12 months welcoming juveniles, persisting in the challenges of drought, and in some area...",
-      "link": "https://econews.com.au/66937/annual-bilby-census-juveniles-drought-and-a-record-breaking-population/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=annual-bilby-census-juveniles-drought-and-a-record-breaking-population",
-      "pubDate": "Mon, 14 Apr 2025 05:03:16 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/AWC-logo.png"
     }
   ]
 }
