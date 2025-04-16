@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-16T04:29:41.319Z",
+  "lastUpdated": "2025-04-16T05:25:22.903Z",
   "articles": [
+    {
+      "title": "UK's rarest wildlife being 'pushed to extinction' by grass fires",
+      "description": "Wildfires 'could spell the end' for rare species such as water voles and hen harriers....",
+      "link": "https://www.bbc.com/news/articles/c2dej3x9432o",
+      "pubDate": "Wed, 16 Apr 2025 05:05:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Resurrected pools, remnants of last ice age, attract wildlife in Norfolk",
+      "description": "&lt;p&gt;Seeds can germinate having been buried in sediments of ‘ghost ponds’ for thousands of years&lt;/p&gt;&lt;p&gt;Ghosts of the ice age are being...",
+      "link": "https://www.theguardian.com/science/2025/apr/16/resurrected-pools-remnants-of-last-ice-age-attract-wildlife-in-norfolk",
+      "pubDate": "Wed, 16 Apr 2025 05:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/55a2df2abdfc10a10eccf749e44be617f856cd23/0_0_4885_2932/master/4885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6780d4c67c6c206a907ce86e8e85585"
+    },
+    {
+      "title": "Wildflowers could be absorbing toxic metals that pass on to bees, study finds",
+      "description": "&lt;p&gt;Scientists call for urban areas to be tested for contaminants and potentially cleaned before wildflowers are planted&lt;/p&gt;&lt;p&gt;Wildfl...",
+      "link": "https://www.theguardian.com/environment/2025/apr/16/wildflowers-absorb-toxic-metals-bees",
+      "pubDate": "Wed, 16 Apr 2025 05:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/03d2a4ab57313b84ecbf858666a9c27afc0da545/0_0_3000_1801/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8286d815d9677ad2d472f984087220c"
+    },
     {
       "title": "Water companies’ pollution incidents in England increased by 30% in 2024",
       "description": "&lt;p&gt;The sector, which had been set a target to reduce spillages by 40%, needs ‘radical reform’, campaigners say&lt;/p&gt;&lt;p&gt;Water companies...",
@@ -38,24 +65,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "UK's rarest wildlife being 'pushed to extinction' by grass fires",
-      "description": "Wildfires could spell the end for rare species like water voles and hen harriers, conservationists warn....",
-      "link": "https://www.bbc.com/news/articles/c2dej3x9432o",
-      "pubDate": "Tue, 15 Apr 2025 21:47:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Peter Dutton’s nuclear power plan could lead to major electricity shortages, analysis says",
-      "description": "&lt;p&gt;Coalition’s proposal overestimates the reliability of Australia’s ageing coal generators, Institute for Energy Economics and Financial Analys...",
-      "link": "https://www.theguardian.com/australia-news/2025/apr/16/peter-duttons-nuclear-power-plan-could-lead-to-major-electricity-shortages-analysis-says",
-      "pubDate": "Tue, 15 Apr 2025 21:25:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff6935da340225a6383f28b610c7f4e307bd967d/0_582_4471_2682/master/4471.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=589fd179def478566c19b0b346573bdc"
-    },
-    {
       "title": "U.S. National Security Heads Turn Away from Climate Research as Threats Mount",
       "description": "Climate change brings both direct and abstract threats to national security—from fueling deadly extreme weather events to making submarine detection m...",
       "link": "https://insideclimatenews.org/news/15042025/todays-climate-national-security-research-trump/",
@@ -81,15 +90,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Felling of ancient London oak tree by Toby Carvery owner reported to police",
-      "description": "&lt;p&gt;Whitewebbs Park oak cut down by contractors working for firm that runs nearby restaurant&lt;/p&gt;&lt;p&gt;The sudden felling of one of the o...",
-      "link": "https://www.theguardian.com/environment/2025/apr/15/felling-of-ancient-london-oak-tree-reported-to-police",
-      "pubDate": "Tue, 15 Apr 2025 16:19:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6ce77830ab0b6dff68fc28f39d9fc4881bd0f4f8/0_205_2560_1536/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8bf249a0925c85d1b3e9994632e1a88"
     },
     {
       "title": "Green groups sue Trump administration over climate webpage removals",
