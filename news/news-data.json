@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-16T09:27:36.254Z",
+  "lastUpdated": "2025-04-16T10:28:33.649Z",
   "articles": [
+    {
+      "title": "The great Mississippi tops list of most endangered rivers amid fears over Trump rollbacks",
+      "description": "&lt;p&gt;Cuts to disaster agency and deregulation of fossil fuels, plus rise of water-guzzling datacentres, highlighted in new report&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/16/most-endangered-rivers-list-trump",
+      "pubDate": "Wed, 16 Apr 2025 10:00:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c86e689372aebe4ef1c5b29b3d8197d490794b83/0_191_5762_3459/master/5762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9fc86a989007fc38e97b230a8b529838"
+    },
     {
       "title": "The Hidden Climate Costs of Exporting US Liquefied Natural Gas",
       "description": "CAMERON, La.—For a ship the length of nearly three football fields, Energy Intelligence seemed to turn on a dime. With tugboats pushing and pulling at...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c712117c039e07612e2788bcf7d70b8c16e1f5dc/0_133_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a7f034c44aec232a9913f39cecad932"
-    },
-    {
-      "title": "Trump Official Visits, Touts Alabama Coal Mine With Thousands of Federal Safety Violations",
-      "description": "TUSCALOOSA, Ala.—When Secretary of the Interior Doug Burgum visited two Warrior Met coal mines in central Alabama last week, he said he was emphasizin...",
-      "link": "https://insideclimatenews.org/news/15042025/interior-secretary-doug-burgum-visits-alabama-coal-mine-safety-violations/",
-      "pubDate": "Tue, 15 Apr 2025 17:12:14 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
