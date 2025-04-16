@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-16T11:20:54.837Z",
+  "lastUpdated": "2025-04-16T12:51:53.696Z",
   "articles": [
+    {
+      "title": "Colossal squid filmed in ocean for the first time",
+      "description": "Stunned scientists say the extremely rare squid can weigh up to 500kg (1,100lb)....",
+      "link": "https://www.bbc.com/news/articles/c99pg13yv32o",
+      "pubDate": "Wed, 16 Apr 2025 12:08:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Romania promises laws to deal with brown bears as population estimate doubles",
+      "description": "&lt;p&gt;Country may be home to as many as 13,000 bears, the highest total by far in Europe outside Russia&lt;/p&gt;&lt;p&gt;Romania may be home to as...",
+      "link": "https://www.theguardian.com/world/2025/apr/16/romania-promises-laws-to-deal-with-brown-bears-as-population-estimate-doubles",
+      "pubDate": "Wed, 16 Apr 2025 11:32:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c31d66990fb2d3ca6a7fccf4045c76505b082a02/0_66_4686_2812/master/4686.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d3cbdcb940bd3c87694328753406cea"
+    },
+    {
+      "title": "Number of UK homes overheating soars to 80% in a decade, study finds",
+      "description": "&lt;p&gt;Researchers say urgent action needed to inform people about risks of heatwave temperatures and adapt homes&lt;/p&gt;&lt;p&gt;The number of UK...",
+      "link": "https://www.theguardian.com/environment/2025/apr/16/uk-homes-overheating-soars-study",
+      "pubDate": "Wed, 16 Apr 2025 11:28:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0ca1305c0f96db810bbbb652060e3197cf449c4b/0_0_5500_3302/master/5500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4f0a0f3a24bb9bddf2d6c7edafb979d"
+    },
     {
       "title": "UK government report calls for taskforce to save England’s historic trees",
       "description": "&lt;p&gt;Exclusive: Ancient oaks ‘as precious as stately homes’ could receive stronger legal safeguards under new proposals&lt;/p&gt;&lt;p&gt;Ancient ...",
@@ -29,7 +56,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "EPA, N.C. Environmental Harms From Sewage Sludge Used as Fertilizer",
+      "title": "EPA Weighs N.C. Environmental Harms From Sewage Sludge Used as Fertilizer",
       "description": "WINSTON-SALEM, N.C.—Perhaps it was rain dripping through one of the many holes in the roof that condensed the ammonium nitrate into a potentially expl...",
       "link": "https://insideclimatenews.org/news/16042025/north-carolina-pfas-in-sewage-sludge-dairy-farm/",
       "pubDate": "Wed, 16 Apr 2025 08:55:00 +0000",
@@ -101,24 +128,6 @@
       "image": "https://grist.org/wp-content/uploads/2025/03/Faith-in-Place-Tree-Planting-in-Marion-IL.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "Australia’s next government may be Great Barrier Reef’s last chance after sixth mass bleaching, conservationist says",
-      "description": "&lt;p&gt;Consecutive and severe bleaching is ‘fundamentally changing’ nature of reef, the International Coral Reef Society says&lt;/p&gt;&lt;ul&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2025/apr/16/australias-next-government-may-be-great-barrier-reefs-last-chance-after-sixth-mass-bleaching-conservationist-says",
-      "pubDate": "Wed, 16 Apr 2025 07:58:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d3310fd4a2ea718003270e4cb11f14d747ab0882/60_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1564eb61533db0f7a59b9a63931447f1"
-    },
-    {
-      "title": "‘Let Rome burn’: Coalition MP says allowing blackouts the only way to turn voters off renewable energy",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Power outages in major cities would help build opposition to climate policies, Colin Boyce tells podc...",
-      "link": "https://www.theguardian.com/australia-news/2025/apr/16/let-rome-burn-coalition-mp-colin-boyce-says-blackouts-the-only-way-to-turn-voters-off-renewable-energy",
-      "pubDate": "Wed, 16 Apr 2025 06:08:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e898a69ca1ac86781858fea925c4ac94d4279694/1027_290_833_500/master/833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff1b0034f9cd7403e31969aba5ee3bb0"
-    },
-    {
       "title": "Underwater Argonauts! The deep-sea scientists logging Med pollution – in pictures",
       "description": "&lt;p&gt;Juliette Pavy’s photographs of eco expeditions bring an element of lyrical storytelling to the global impact of invisible pollutants, from th...",
       "link": "https://www.theguardian.com/artanddesign/gallery/2025/apr/16/underwater-argonauts-deep-sea-scientists-med-pollution-in-pictures",
@@ -146,7 +155,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Watch: New speed climbing record set in the Swiss Alps",
+      "title": "New speed climbing record set in the Swiss Alps",
       "description": "A climbing pair shatter the record for completing the daunting north faces of a famed trio of Swiss mountains....",
       "link": "https://www.bbc.com/news/videos/c3r8vx1y8eno",
       "pubDate": "Wed, 16 Apr 2025 01:45:20 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Weedkiller maker moves to settle suit over Parkinson’s disease claims",
-      "description": "&lt;p&gt;Syngenta has been besieged by lawsuits from people claiming its product caused the neurological condition&lt;/p&gt;&lt;p&gt;Besieged by thous...",
-      "link": "https://www.theguardian.com/environment/2025/apr/15/syngenta-weedkiller-parkinsons",
-      "pubDate": "Tue, 15 Apr 2025 20:23:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c712117c039e07612e2788bcf7d70b8c16e1f5dc/0_133_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a7f034c44aec232a9913f39cecad932"
     }
   ]
 }
