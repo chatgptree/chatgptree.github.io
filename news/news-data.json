@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-04-16T07:24:46.359Z",
+  "lastUpdated": "2025-04-16T08:36:25.344Z",
   "articles": [
+    {
+      "title": "UK's rarest wildlife being 'pushed to extinction' by grass fires",
+      "description": "Wildfires 'could spell the end' for rare species such as water voles and hen harriers....",
+      "link": "https://www.bbc.com/news/articles/c2dej3x9432o",
+      "pubDate": "Wed, 16 Apr 2025 08:32:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why the shipping industry’s new carbon tax is a big deal — and still not enough",
+      "description": "Modeling suggests it will only reduce emissions up to 10 percent by 2030....",
+      "link": "https://grist.org/international/why-the-shipping-industrys-new-carbon-tax-is-a-big-deal-and-still-not-enough/",
+      "pubDate": "Wed, 16 Apr 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/belgium-ship.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The obscure policy that financed many of the last decade’s riskiest energy investments is back",
+      "description": "Who pays for the risk that a power plant goes over budget or fails? In states with CWIP laws, it’s not utility companies — but their customers...",
+      "link": "https://grist.org/energy/cwip-energy-policies-are-back/",
+      "pubDate": "Wed, 16 Apr 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-1546524292.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "A Chicago law could shift where heavy industry operates — and who bears the burden of pollution",
+      "description": "As Trump dismantles protections, the ordinance is a test case for environmental justice....",
+      "link": "https://grist.org/cities/chicago-law-would-change-where-polluting-companies-operate/",
+      "pubDate": "Wed, 16 Apr 2025 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/Faith-in-Place-Tree-Planting-in-Marion-IL.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Australia’s next government may be Great Barrier Reef’s last chance after sixth mass bleaching, conservationist says",
+      "description": "&lt;p&gt;Consecutive and severe bleaching is ‘fundamentally changing’ nature of reef, the International Coral Reef Society says&lt;/p&gt;&lt;ul&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2025/apr/16/australias-next-government-may-be-great-barrier-reefs-last-chance-after-sixth-mass-bleaching-conservationist-says",
+      "pubDate": "Wed, 16 Apr 2025 07:58:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d3310fd4a2ea718003270e4cb11f14d747ab0882/60_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1564eb61533db0f7a59b9a63931447f1"
+    },
     {
       "title": "‘Let Rome burn’: Coalition MP says allowing blackouts the only way to turn voters off renewable energy",
       "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Power outages in major cities would help build opposition to climate policies, Colin Boyce tells podc...",
@@ -36,24 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2da73bcdd297c24679994186435b29322ef5568e/0_0_3525_2116/master/3525.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cb5d43e23df89b33418db3e210cd583"
-    },
-    {
-      "title": "UK's rarest wildlife being 'pushed to extinction' by grass fires",
-      "description": "Wildfires 'could spell the end' for rare species such as water voles and hen harriers....",
-      "link": "https://www.bbc.com/news/articles/c2dej3x9432o",
-      "pubDate": "Wed, 16 Apr 2025 05:05:35 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Resurrected pools, remnants of last ice age, attract wildlife in Norfolk",
-      "description": "&lt;p&gt;Seeds can germinate having been buried in sediments of ‘ghost ponds’ for thousands of years&lt;/p&gt;&lt;p&gt;Ghosts of the ice age are being...",
-      "link": "https://www.theguardian.com/science/2025/apr/16/resurrected-pools-remnants-of-last-ice-age-attract-wildlife-in-norfolk",
-      "pubDate": "Wed, 16 Apr 2025 05:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/55a2df2abdfc10a10eccf749e44be617f856cd23/0_0_4885_2932/master/4885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6780d4c67c6c206a907ce86e8e85585"
     },
     {
       "title": "England water pollution at 10-year high, campaigners say",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/02a35e0ba1bd619c656ff0830c5342a1b68bac84/348_146_3218_1931/master/3218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9ee1a7fbb79a6b62a3a39483b97ba37"
-    },
-    {
-      "title": "New Stream Gauges and Weather Stations Poised to Help Wyoming Tribes Endure Flooding and Drought",
-      "description": "ETHETE, Wyo.—Travis Shakespeare and Lokilo St. Clair of the Northern Arapaho tribe were driving through central Wyoming’s Wind River Indian Reservatio...",
-      "link": "https://insideclimatenews.org/news/15042025/stream-gauges-weather-stations-help-wyoming-tribes-endure-flooding-drought/",
-      "pubDate": "Tue, 15 Apr 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Bayer Bill’ Granting Legal Protections to Pesticide Companies Fizzles Out in the Iowa Legislature Again",
-      "description": "DES MOINES, Iowa—Days before a key deadline for establishing legislative priorities, the Iowa Senate passed a bill that would make it impossible to br...",
-      "link": "https://insideclimatenews.org/news/15042025/iowa-pesticide-protections-bill-fizzles-out/",
-      "pubDate": "Tue, 15 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Do Heat Pumps Save You Money? In California, It Depends on Your Electric Utility",
-      "description": "Last year, when Shreyas Sudhakar started a heat pump installation company in the San Francisco Bay Area, he realized he wouldn’t be able to find new c...",
-      "link": "https://insideclimatenews.org/news/15042025/california-expensive-electricity-affects-heat-pump-savings/",
-      "pubDate": "Tue, 15 Apr 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
