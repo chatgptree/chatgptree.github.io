@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-16T22:25:10.598Z",
+  "lastUpdated": "2025-04-16T23:23:07.559Z",
   "articles": [
+    {
+      "title": "Half the World’s People Depend on Rice. New Research Says Climate Change Will Make it Toxic",
+      "description": "Rice, the world’s most consumed grain, will become increasingly toxic as the atmosphere heats and as carbon dioxide emissions rise, potentially puttin...",
+      "link": "https://insideclimatenews.org/news/16042025/half-the-worlds-people-depend-on-rice-new-research-says-climate-change-will-make-it-toxic/",
+      "pubDate": "Wed, 16 Apr 2025 23:10:04 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "El eslabón no regulado de una cadena de suministro tóxica",
+      "description": "De El Paso, Texas, a Richmond, Virginia, los almacenes están liberando óxido de etileno, una sustancia química cancerígena. Casi nadie lo sabe....",
+      "link": "https://grist.org/health/el-eslabon-no-regulado-de-una-cadena-de-suministro-toxica/",
+      "pubDate": "Wed, 16 Apr 2025 22:25:18 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/4-14-25-Cardinal-Health-Warehouse-Photos-IPA-650.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Dominion Among Utilities Allowed Exemption for Coal Emissions  From Trump’s EPA",
       "description": "Dominion Energy is one of several utilities that received an exemption from stricter&#160; federal coal pollution reduction technologies under an orde...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/belgium-ship.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The obscure policy that financed many of the last decade’s riskiest energy investments is back",
-      "description": "Who pays for the risk that a power plant goes over budget or fails? In states with CWIP laws, it’s not utility companies — but their customers...",
-      "link": "https://grist.org/energy/cwip-energy-policies-are-back/",
-      "pubDate": "Wed, 16 Apr 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-1546524292.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "A Chicago law could shift where heavy industry operates — and who bears the burden of pollution",
-      "description": "As Trump dismantles protections, the ordinance is a test case for environmental justice....",
-      "link": "https://grist.org/cities/chicago-law-would-change-where-polluting-companies-operate/",
-      "pubDate": "Wed, 16 Apr 2025 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/Faith-in-Place-Tree-Planting-in-Marion-IL.jpg?quality=75&#038;strip=all"
     }
   ]
 }
