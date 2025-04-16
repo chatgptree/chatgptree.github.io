@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-16T02:01:18.988Z",
+  "lastUpdated": "2025-04-16T03:38:56.075Z",
   "articles": [
+    {
+      "title": "England water pollution at 10-year high, campaigners say",
+      "description": "Campaigners release official data showing the most serious pollution incidents in England are double the target....",
+      "link": "https://www.bbc.com/news/articles/cy5rp6e75q4o",
+      "pubDate": "Wed, 16 Apr 2025 03:24:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Watch: New speed climbing record set in the Swiss Alps",
       "description": "A climbing pair shatter the record for completing the daunting north faces of a famed trio of Swiss mountains....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/Helene-National-Forest-salvage-logging-operations-02.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Fifteen years after a volcano shut European airspace, could it happen again?",
-      "description": "Could volcanic ash close down airspace  across the UK and Europe bringing the widespread disruption we experienced in 2010....",
-      "link": "https://www.bbc.com/weather/articles/ce822xzk60no",
-      "pubDate": "Tue, 15 Apr 2025 07:55:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
