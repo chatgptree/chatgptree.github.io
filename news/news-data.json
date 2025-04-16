@@ -1,12 +1,30 @@
 {
-  "lastUpdated": "2025-04-15T23:23:24.765Z",
+  "lastUpdated": "2025-04-16T02:01:18.988Z",
   "articles": [
+    {
+      "title": "Watch: New speed climbing record set in the Swiss Alps",
+      "description": "A climbing pair shatter the record for completing the daunting north faces of a famed trio of Swiss mountains....",
+      "link": "https://www.bbc.com/news/videos/c3r8vx1y8eno",
+      "pubDate": "Wed, 16 Apr 2025 01:45:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Texas Oil Drillers Can Bury Toxic Waste on Private Property Without Telling the Landowner. A New Bill Seeks to Change That",
       "description": "A bill in the Texas Legislature would require oil and gas drillers to notify landowners before burying toxic waste on their property. In addition, Hou...",
       "link": "https://insideclimatenews.org/news/15042025/texas-bill-would-introduce-new-oil-gas-waste-pit-requirements/",
       "pubDate": "Tue, 15 Apr 2025 22:51:35 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK's rarest wildlife being 'pushed to extinction' by grass fires",
+      "description": "Wildfires could spell the end for rare species like water voles and hen harriers, conservationists warn....",
+      "link": "https://www.bbc.com/news/articles/c2dej3x9432o",
+      "pubDate": "Tue, 15 Apr 2025 21:47:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -66,7 +84,7 @@
     },
     {
       "title": "Green groups sue Trump administration over climate webpage removals",
-      "description": "&lt;p&gt;The White House has pulled federal webpages tracking climate and environmental justice data&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://...",
+      "description": "&lt;p&gt;The White House has pulled federal webpages tracking climate and environmental justice data&lt;/p&gt;&lt;p&gt;Green groups have sued the &lt;...",
       "link": "https://www.theguardian.com/us-news/2025/apr/15/trump-climate-webpage-removal-lawsuit",
       "pubDate": "Tue, 15 Apr 2025 14:58:47 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate models are letting our cities down, risking Australians’ safety",
-      "description": "UNSW Sydney Global climate models represent our coastal cities as oceans, while regional models fail to represent their true complexity, posing a barr...",
-      "link": "https://econews.com.au/66947/climate-models-are-letting-our-cities-down-risking-australians-safety/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=climate-models-are-letting-our-cities-down-risking-australians-safety",
-      "pubDate": "Tue, 15 Apr 2025 06:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "22 April 2025 is Mother Earth Day",
-      "description": "Rights of Nature – free webinar In 2009, the United Nations General Assembly recognised 22 April as International Mother Earth Day, acknowledging that...",
-      "link": "https://econews.com.au/66945/22-april-2025-is-mother-earth-day/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=22-april-2025-is-mother-earth-day",
-      "pubDate": "Tue, 15 Apr 2025 06:02:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
