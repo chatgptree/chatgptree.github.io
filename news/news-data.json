@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-04-16T08:36:25.344Z",
+  "lastUpdated": "2025-04-16T09:27:36.254Z",
   "articles": [
+    {
+      "title": "The Hidden Climate Costs of Exporting US Liquefied Natural Gas",
+      "description": "CAMERON, La.—For a ship the length of nearly three football fields, Energy Intelligence seemed to turn on a dime. With tugboats pushing and pulling at...",
+      "link": "https://insideclimatenews.org/news/16042025/liquefied-natural-gas-exports-greenhouse-gas-emissions/",
+      "pubDate": "Wed, 16 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "EPA, N.C. Environmental Harms From Sewage Sludge Used as Fertilizer",
+      "description": "WINSTON-SALEM, N.C.—Perhaps it was rain dripping through one of the many holes in the roof that condensed the ammonium nitrate into a potentially expl...",
+      "link": "https://insideclimatenews.org/news/16042025/north-carolina-pfas-in-sewage-sludge-dairy-farm/",
+      "pubDate": "Wed, 16 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Is your community at risk? How to access data and tell stories about EtO",
+      "description": "Grist journalists share how we investigated this story and how to learn more about ethylene oxide emissions in your area. ...",
+      "link": "https://grist.org/accountability/is-your-community-at-risk-eto/",
+      "pubDate": "Wed, 16 Apr 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png"
+    },
+    {
+      "title": "¿Su comunidad está en riesgo? Cómo acceder a la información y contar historias sobre el EtO",
+      "description": "Las periodistas de Grist comparten cómo investigamos esta historia y cómo aprender más sobre las emisiones de óxido de etileno en su zona. ...",
+      "link": "https://grist.org/accountability/su-comunidad-esta-en-riesgo-como-acceder-a-la-informacion-y-contar-historias-sobre-el-eto/",
+      "pubDate": "Wed, 16 Apr 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png"
+    },
+    {
+      "title": "The unregulated link in a toxic supply chain",
+      "description": "From El Paso, Texas to Richmond, Virginia, warehouses are leaking ethylene oxide, a cancer-causing chemical. Almost no one knows about them....",
+      "link": "https://grist.org/health/ethylene-oxide-el-paso-texas-unregulated-toxic-warehouse/",
+      "pubDate": "Wed, 16 Apr 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/4-14-25-Cardinal-Health-Warehouse-Photos-IPA-650.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "UK's rarest wildlife being 'pushed to extinction' by grass fires",
       "description": "Wildfires 'could spell the end' for rare species such as water voles and hen harriers....",
@@ -135,51 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Green groups sue Trump administration over climate webpage removals",
-      "description": "&lt;p&gt;The White House has pulled federal webpages tracking climate and environmental justice data&lt;/p&gt;&lt;p&gt;Green groups have sued the &lt;...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/15/trump-climate-webpage-removal-lawsuit",
-      "pubDate": "Tue, 15 Apr 2025 14:58:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b4478a83b740b5d74d6f04ddded3bff65c1a0896/0_398_5949_3568/master/5949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68b556654aadabbace4788cdca42a8fe"
-    },
-    {
-      "title": "Looking to create effective climate change policy? Ask the community.",
-      "description": "In Seattle, community assemblies are gathering frontline community members to set their own policies around extreme weather....",
-      "link": "https://grist.org/sponsored/looking-to-create-effective-climate-change-policy-community-assembly-seattle/",
-      "pubDate": "Tue, 15 Apr 2025 14:30:34 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/Labor1.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "‘Shock to the system’: farmers hit by Trump’s tariffs and cuts say they need another bailout",
-      "description": "&lt;p&gt;With extreme weather and Trump’s looming trade war, US farmers are reeling and resigned to needing more cash help&lt;/p&gt;&lt;p&gt;Farmers a...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/15/farmers-trump-tariffs-bailout-extreme-weather",
-      "pubDate": "Tue, 15 Apr 2025 12:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b8b331c3af3394d4fdd6a0a81de76622f726a818/0_192_5773_3464/master/5773.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=711a9143022cf0a30ba75de1d324c6d2"
-    },
-    {
-      "title": "RFK Jr urged to release nearly $400m allocated to help families combat heat",
-      "description": "&lt;p&gt;As part of Trump’s administrations ‘efficiency’ drive, staff running decades-old program for energy assistance laid off&lt;/p&gt;&lt;p&gt;Rob...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/15/rfk-jr-energy-assistance-heat",
-      "pubDate": "Tue, 15 Apr 2025 10:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/51818728e815f4c0c087e8dd4e9350c1ff6fe2ed/329_725_5310_3187/master/5310.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d922399dcafd9e839fa217d04d488392"
-    },
-    {
-      "title": "Atomic Secrets: a Chornobyl scientist warns of a toxic future",
-      "description": "&lt;p&gt;Dmitry Kalmykov is a Ukrainian scientist who has dedicated his life to investigating environmental disasters, first at Chornobyl and now in S...",
-      "link": "https://www.theguardian.com/environment/video/2025/apr/15/atomic-secrets-a-chornobyl-scientist-warns-of-a-toxic-future",
-      "pubDate": "Tue, 15 Apr 2025 09:40:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/02a35e0ba1bd619c656ff0830c5342a1b68bac84/348_146_3218_1931/master/3218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9ee1a7fbb79a6b62a3a39483b97ba37"
     }
   ]
 }
