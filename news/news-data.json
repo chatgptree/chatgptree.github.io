@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-04-16T23:23:07.559Z",
+  "lastUpdated": "2025-04-17T01:59:28.761Z",
   "articles": [
+    {
+      "title": "'I'm not a scientist': Dutton responds to climate change question in ABC leaders' debate – video",
+      "description": "&lt;p&gt;When asked if he accepts we are already seeing the impacts of climate change, the opposition leader responded 'there's an impact', but said t...",
+      "link": "https://www.theguardian.com/australia-news/video/2025/apr/17/im-not-a-scientist-dutton-responds-to-climate-change-question-in-abc-leaders-debate-video-ntwnfb",
+      "pubDate": "Thu, 17 Apr 2025 00:33:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/db6759d7fe245a844051749eec6689222c5a9d2d/734_132_5005_3004/master/5005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=629e5a377401b98b165eb47e48751ef3"
+    },
+    {
+      "title": "The truth about life on other planets - and what it means for humans",
+      "description": "Could discoveries of alien life ever change the human psyche in how we view ourselves and each other?...",
+      "link": "https://www.bbc.com/news/articles/cp8jwj90ejno",
+      "pubDate": "Thu, 17 Apr 2025 00:11:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Telescope finds promising hints of life on distant planet",
+      "description": "Scientists find new but tentative evidence that a faraway world orbiting another star may be home to life....",
+      "link": "https://www.bbc.com/news/articles/c39jj9vkr34o",
+      "pubDate": "Thu, 17 Apr 2025 00:01:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More Than 60 Power Plants Exempted From Federal Mercury Limits",
+      "description": "Included in the Trump administration’s order last week to boost the coal industry was a two-year exemption to a rule that would have forced some of th...",
+      "link": "https://insideclimatenews.org/news/16042025/power-plants-exempted-from-federal-mercury-limits/",
+      "pubDate": "Thu, 17 Apr 2025 00:01:16 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Half the World’s People Depend on Rice. New Research Says Climate Change Will Make it Toxic",
       "description": "Rice, the world’s most consumed grain, will become increasingly toxic as the atmosphere heats and as carbon dioxide emissions rise, potentially puttin...",
@@ -20,8 +56,8 @@
       "image": "https://grist.org/wp-content/uploads/2025/04/4-14-25-Cardinal-Health-Warehouse-Photos-IPA-650.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Dominion Among Utilities Allowed Exemption for Coal Emissions  From Trump’s EPA",
-      "description": "Dominion Energy is one of several utilities that received an exemption from stricter&#160; federal coal pollution reduction technologies under an orde...",
+      "title": "Dominion Among Utilities Allowed Exemption for Coal Emissions From Trump’s EPA",
+      "description": "Dominion Energy is one of several utilities that received an exemption from stricter federal coal pollution reduction technologies under an order from...",
       "link": "https://insideclimatenews.org/news/16042025/dominion-among-utilities-allowed-exemption-for-coal-emissions-from-trumps-epa/",
       "pubDate": "Wed, 16 Apr 2025 21:43:43 +0000",
       "sourceName": "insideclimatenews.org",
@@ -144,42 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png"
-    },
-    {
-      "title": "¿Su comunidad está en riesgo? Cómo acceder a la información y contar historias sobre el EtO",
-      "description": "Las periodistas de Grist comparten cómo investigamos esta historia y cómo aprender más sobre las emisiones de óxido de etileno en su zona. ...",
-      "link": "https://grist.org/accountability/su-comunidad-esta-en-riesgo-como-acceder-a-la-informacion-y-contar-historias-sobre-el-eto/",
-      "pubDate": "Wed, 16 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png"
-    },
-    {
-      "title": "The unregulated link in a toxic supply chain",
-      "description": "From El Paso, Texas, to Richmond, Virginia, warehouses are leaking ethylene oxide, a cancer-causing chemical. Almost no one knows about them....",
-      "link": "https://grist.org/health/ethylene-oxide-el-paso-texas-unregulated-toxic-warehouse/",
-      "pubDate": "Wed, 16 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/4-14-25-Cardinal-Health-Warehouse-Photos-IPA-650.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "UK's rarest wildlife being 'pushed to extinction' by grass fires",
-      "description": "Wildfires 'could spell the end' for rare species such as water voles and hen harriers....",
-      "link": "https://www.bbc.com/news/articles/c2dej3x9432o",
-      "pubDate": "Wed, 16 Apr 2025 08:32:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why the shipping industry’s new carbon tax is a big deal — and still not enough",
-      "description": "Modeling suggests it will only reduce emissions up to 10 percent by 2030....",
-      "link": "https://grist.org/international/why-the-shipping-industrys-new-carbon-tax-is-a-big-deal-and-still-not-enough/",
-      "pubDate": "Wed, 16 Apr 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/belgium-ship.jpg?quality=75&amp;strip=all"
     }
   ]
 }
