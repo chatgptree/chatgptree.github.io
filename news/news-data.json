@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-17T15:26:25.340Z",
+  "lastUpdated": "2025-04-17T16:31:49.661Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Translating noisy geese to time travel across the universe....",
+      "link": "https://www.bbc.co.uk/sounds/play/m0029znq",
+      "pubDate": "Thu, 17 Apr 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BP suffers investor rebellion at first AGM since climate strategy U-turn",
       "description": "&lt;p&gt;Nearly a quarter of shareholders vote against the chair, Helge Lund, as green protesters are blocked from entering&lt;/p&gt;&lt;p&gt;BP suffe...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "'I'm not a scientist': Dutton responds to climate change question in ABC leaders' debate – video",
-      "description": "&lt;p&gt;When asked if he accepts we are already seeing the impacts of climate change, the opposition leader responded 'there's an impact', but said t...",
-      "link": "https://www.theguardian.com/australia-news/video/2025/apr/17/im-not-a-scientist-dutton-responds-to-climate-change-question-in-abc-leaders-debate-video-ntwnfb",
-      "pubDate": "Thu, 17 Apr 2025 00:33:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/db6759d7fe245a844051749eec6689222c5a9d2d/734_132_5005_3004/master/5005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=629e5a377401b98b165eb47e48751ef3"
     }
   ]
 }
