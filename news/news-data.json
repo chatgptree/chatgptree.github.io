@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-04-17T10:27:36.163Z",
+  "lastUpdated": "2025-04-17T11:20:23.785Z",
   "articles": [
     {
       "title": "Scientists find 'strongest evidence yet' of life on distant planet",
@@ -9,6 +9,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the truth about supermarket salmon is being hidden – video",
+      "description": "&lt;p&gt;Salmon is often marketed as the sustainable, healthy and eco-friendly protein choice. But what you may not realise is that most of the salmon...",
+      "link": "https://www.theguardian.com/environment/video/2025/apr/17/how-the-truth-about-supermarket-salmon-is-being-hidden-video",
+      "pubDate": "Thu, 17 Apr 2025 10:17:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9bdb802e6da5d3fd249b5060f367b3a817965f0c/0_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89b55b09b8235bdf02a20a19f9bacd99"
     },
     {
       "title": "BP braces for investor rebellion at first AGM since climate strategy U-turn",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/4-14-25-Cardinal-Health-Warehouse-Photos-IPA-650.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Dominion Among Utilities Allowed Exemption for Coal Emissions From Trump’s EPA",
-      "description": "Dominion Energy is one of several utilities that received an exemption from stricter federal coal pollution reduction technologies under an order from...",
-      "link": "https://insideclimatenews.org/news/16042025/dominion-among-utilities-allowed-exemption-for-coal-emissions-from-trumps-epa/",
-      "pubDate": "Wed, 16 Apr 2025 21:43:43 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
