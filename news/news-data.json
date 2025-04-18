@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-18T07:25:56.954Z",
+  "lastUpdated": "2025-04-18T08:31:52.276Z",
   "articles": [
+    {
+      "title": "Whole, skim, or soy? The congressional battle over milk in school lunches",
+      "description": "Offering kids nondairy milk could be a climate solution. No one's talking about it that way....",
+      "link": "https://grist.org/food-and-agriculture/milk-school-lunch-plant-based-vegan-whole-dairy-lobby-congress/",
+      "pubDate": "Fri, 18 Apr 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/dairy-cows.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "How baby chickens became America&#8217;s hottest commodity",
+      "description": "Soaring egg prices have people flocking to buy chickens, creating a nationwide shortage of chicks....",
+      "link": "https://grist.org/economics/how-baby-chickens-became-americas-hottest-commodity/",
+      "pubDate": "Fri, 18 Apr 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "From butterflies to wind turbines, project preserves world’s sonic heritage",
       "description": "&lt;p&gt;Online exhibition collects soundscapes from nature reserves and sites such as Machu Picchu and Taj Mahal&lt;/p&gt;&lt;p&gt;The sounds of wind...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7bb971ce1cb86dda40e8c43fa7f801797fbe8081/0_42_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0970c1bf7afd219782c60f0aef19e671"
-    },
-    {
-      "title": "Australia opposition leader clarifies he believes in climate change after debate",
-      "description": "Peter Dutton is facing outrage after comments he made on climate change during an election debate....",
-      "link": "https://www.bbc.com/news/articles/clyq9pr47ejo",
-      "pubDate": "Thu, 17 Apr 2025 06:52:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Like the Ritz for wildlife: the joy of recreating Britain’s ancient hedges",
-      "description": "&lt;p&gt;Up and down the country, volunteers are coming together to plant more of these nature-rich reserves&lt;/p&gt;&lt;p&gt;The 30-metre ridge runs...",
-      "link": "https://www.theguardian.com/environment/2025/apr/17/england-ancient-hedges-wildlife",
-      "pubDate": "Thu, 17 Apr 2025 05:00:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/92c1cd5d7056c1af08389fafd7339779fc0c639e/0_113_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84421eb715b16bb465b4e3239cc82bd6"
     }
   ]
 }
