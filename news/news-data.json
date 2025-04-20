@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-04-20T21:21:35.955Z",
+  "lastUpdated": "2025-04-20T22:24:33.754Z",
   "articles": [
     {
       "title": "‘Last chance saloon’: the scramble to save Dorset’s vanishing Purbeck puffins",
@@ -45,6 +45,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d87a2a210aeaee241438fd385e76ab929f88434b/0_0_5000_2999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2920bb809217646ad742eebb138d48f8"
+    },
+    {
+      "title": "Oldest serving US astronaut returns to Earth on 70th birthday",
+      "description": "A capsule with Don Pettit and his two Russian crewmates lands in Kazakhstan after a space station mission....",
+      "link": "https://www.bbc.com/news/articles/czx1g0q43gqo",
+      "pubDate": "Sun, 20 Apr 2025 04:05:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Miliband in blistering attack on Farage’s UK net zero ‘nonsense and lies’",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d322f91650aa56d26eab1aae0743e514f0908710/0_112_2400_1440/master/2400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e71cc16888bb331be5819d5b379d7fb"
-    },
-    {
-      "title": "Week in wildlife: elephants on parade, a rescued serval and wandering bears",
-      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/apr/18/week-in-wildlife-elephants-rescued-serval-wandering-bears",
-      "pubDate": "Fri, 18 Apr 2025 09:21:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bed91a7b9bb38f8ba7bad7ee00371e39318a7416/1408_1110_2977_1786/master/2977.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff5281e305dddf9cc90715ebd38026da"
     }
   ]
 }
