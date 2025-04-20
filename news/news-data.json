@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-04-19T23:24:39.943Z",
+  "lastUpdated": "2025-04-20T02:06:50.733Z",
   "articles": [
     {
       "title": "Miliband in blistering attack on Farage’s UK net zero ‘nonsense and lies’",
@@ -45,6 +45,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/GettyImages-1962250534s-e1743094942521.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Microplastics found in human ovary follicular fluid for the first time",
+      "description": "&lt;p&gt;Peer-reviewed study’s findings raises fresh question on the toxic substances’  impact on fertility&lt;/p&gt;&lt;p&gt;Microplastics have been ...",
+      "link": "https://www.theguardian.com/society/2025/apr/19/microplastics-human-ovary-follicular-fluid",
+      "pubDate": "Sat, 19 Apr 2025 10:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/801d123ce53af495819452aff1aa5a70eafd1ac1/0_200_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7dd9d6ae37149b9f583e5885d93c1cda"
     },
     {
       "title": "Trump Administration Severs ‘Lifeline’ for Families Struggling to Pay Utility Bills",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The environmental policy backed by free-market Republicans",
-      "description": "The right to repair can reduce emissions and pollution. But for conservatives, it's \"a freedom and liberty issue.\"...",
-      "link": "https://grist.org/politics/right-to-repair-ohio-missouri-texas-red-states-republican-conservative/",
-      "pubDate": "Fri, 18 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/cellphone-repair.jpg?quality=75&amp;strip=all"
     }
   ]
 }
