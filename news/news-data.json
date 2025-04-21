@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-20T23:24:33.018Z",
+  "lastUpdated": "2025-04-21T02:05:31.354Z",
   "articles": [
+    {
+      "title": "Could an almighty eruption destroy a dreamy Greek island?",
+      "description": "Scientists are investigating for the first time how dangerous the island's next big one could be....",
+      "link": "https://www.bbc.com/news/articles/cm25lz56rezo",
+      "pubDate": "Sun, 20 Apr 2025 23:59:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Could AI text alerts help save snow leopards from extinction?",
+      "description": "In Pakistan, it's hoped newly-developed AI cameras could warn villagers via text to move their livestock if snow leopards enter the area. ...",
+      "link": "https://www.bbc.com/news/articles/cn80v2ngp74o",
+      "pubDate": "Sun, 20 Apr 2025 23:36:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Last chance saloon’: the scramble to save Dorset’s vanishing Purbeck puffins",
       "description": "&lt;p&gt;Numbers have plummeted in recent years, but the problem is no one really knows why nesting pairs fail to rear young&lt;/p&gt;&lt;p&gt;Reachin...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Urban Parks Can Support People and Biodiversity—if They Are Designed With Both in Mind",
-      "description": "Research shows that parks are crucial for supporting city dwellers—people or the surprising abundance of animals that inhabit urban wildlands.&#160; H...",
-      "link": "https://insideclimatenews.org/news/18042025/todays-climate-urban-parks-support-people-biodiversity/",
-      "pubDate": "Fri, 18 Apr 2025 17:25:40 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump halts construction of big wind farm off New York coast",
-      "description": "&lt;p&gt;Wind power developer eyes legal remedies to order that blocks renewable energy projects and eliminates green job opportunities&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/18/trump-new-york-wind-farm-cancellaction",
-      "pubDate": "Fri, 18 Apr 2025 15:19:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d322f91650aa56d26eab1aae0743e514f0908710/0_112_2400_1440/master/2400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e71cc16888bb331be5819d5b379d7fb"
     }
   ]
 }
