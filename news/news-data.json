@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-22T08:33:31.217Z",
+  "lastUpdated": "2025-04-22T09:27:07.432Z",
   "articles": [
+    {
+      "title": "On thin ice: the brutal cold of Canada’s Arctic was once a defence, but a warming climate has changed that",
+      "description": "&lt;p&gt;Geopolitical tensions are heating up on Canada’s borders, but the biggest threat may be from wildly fluctuating temperatures transforming the...",
+      "link": "https://www.theguardian.com/environment/2025/apr/22/canada-borders-tensions-warming-arctic-ice-military-defence-climate-change",
+      "pubDate": "Tue, 22 Apr 2025 09:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f50c8bb6d2a9fb59951170f2381681c3f3d8842c/531_1614_4243_2546/master/4243.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fce688e31b4228b2a94ab95e2a557a66"
+    },
+    {
+      "title": "Pace of Green Job Growth in New York City Is Slow",
+      "description": "NEW YORK—Early last year, New York City Mayor Eric Adams made a bold promise—green economy jobs in the city would increase to nearly 400,000 by 2040. ...",
+      "link": "https://insideclimatenews.org/news/22042025/new-york-city-green-job-training-programs/",
+      "pubDate": "Tue, 22 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s latest USDA cuts undermine his plan to “Make America Healthy Again”",
+      "description": "The abrupt cancellation of a beloved farm-to-school grant program threatens food access, school gardens, and small farms nationwide....",
+      "link": "https://grist.org/food-and-agriculture/trumps-latest-usda-cuts-undermine-his-plan-to-make-america-healthy-again/",
+      "pubDate": "Tue, 22 Apr 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/Mendota-Elementary-School-Garden-Image-3.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "A simple tweak to tax law has helped bring solar power to the communities that need it most",
       "description": "The Inflation Reduction Act lets companies sell their clean energy tax credits for cash. Now that benefit is at risk....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cedd7e9d5983b8e5d89d9371d68c656a7c863fcf/0_0_2198_1319/master/2198.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4dc9fbf0b42af1ad5dab12bc42f6d5f"
-    },
-    {
-      "title": "Wildlife, not livestock: Why the Eastern Shoshone in Wyoming are reclassifying buffalo",
-      "description": "\"Bringing the buffalo back is about our relationship with them, not domination over them.\"...",
-      "link": "https://grist.org/indigenous/wildlife-not-livestock-why-the-eastern-shoshone-in-wyoming-are-reclassifying-buffaloes/",
-      "pubDate": "Mon, 21 Apr 2025 13:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/AB250411_buffalo_11_edit.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Wave of Earth Day protests as Americans mobilize against Trump",
-      "description": "&lt;p&gt;Organizers team up with pro-democracy groups for flurry of actions to demand right to free, healthy lives&lt;/p&gt;&lt;p&gt;Hundreds of march...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/21/climate-protests-trump",
-      "pubDate": "Mon, 21 Apr 2025 10:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8a0628698fb6f0020f79ae281e90cdc0bb51004e/1199_617_4367_2620/master/4367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4acf344c73a923fb36d851796ace2ca"
-    },
-    {
-      "title": "National Park Units Dot America&#8217;s Most Endangered Rivers List",
-      "description": "National Parks Traveler is a nonprofit news organization focused on daily editorial coverage of national parks and protected places. Stay atop their c...",
-      "link": "https://insideclimatenews.org/news/21042025/national-park-endangered-rivers/",
-      "pubDate": "Mon, 21 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
