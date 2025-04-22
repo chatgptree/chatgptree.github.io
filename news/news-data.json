@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-22T13:33:41.047Z",
+  "lastUpdated": "2025-04-22T14:25:27.622Z",
   "articles": [
+    {
+      "title": "Al Gore compares Trump second term with Nazi Germany in scathing speech",
+      "description": "&lt;p&gt;Former VP said the administration was creating its ‘own preferred reality’ and slammed it for green energy U-turn&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/22/al-gore-trump-nazi-germany",
+      "pubDate": "Tue, 22 Apr 2025 13:56:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a12296a217a8ad7411fb6edb27e368f79cea55bb/430_165_4170_2503/master/4170.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=171c463bda9eecaf89fe0046da09d608"
+    },
+    {
+      "title": "UK scientists to launch outdoor geoengineering experiments",
+      "description": "&lt;p&gt;Blocking sunlight could temporarily slow the climate crisis but the technologies remain highly controversial&lt;/p&gt;&lt;p&gt;UK scientists ...",
+      "link": "https://www.theguardian.com/environment/2025/apr/22/uk-scientists-outdoor-geoengineering-experiments",
+      "pubDate": "Tue, 22 Apr 2025 13:56:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0d5659197e4e05f923549b37886cf810f2fc0f65/275_225_4290_2575/master/4290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5acd66c4a338554add96050b0ff765b"
+    },
     {
       "title": "Tariffs will raise prices. But the climate crisis is the real inflation risk | Mark Blyth and Nicolò Fraccaroli",
       "description": "&lt;p&gt;As temperatures rise and countries back off their decarbonization efforts, we must confront a reality central banks can’t correct&lt;/p&gt;&l...",
@@ -38,7 +56,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Trump’s latest USDA cuts undermine his plan to “Make America Healthy Again”",
+      "title": "Trump’s latest USDA cuts undermine his plan to &#8216;Make America Healthy Again&#8217;",
       "description": "The abrupt cancellation of a beloved farm-to-school grant program threatens food access, school gardens, and small farms nationwide....",
       "link": "https://grist.org/food-and-agriculture/trumps-latest-usda-cuts-undermine-his-plan-to-make-america-healthy-again/",
       "pubDate": "Tue, 22 Apr 2025 08:45:00 +0000",
@@ -110,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/68ff04403cc7547fb2708b29615a8890f709914c/10_465_3675_2207/master/3675.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=efd68d0cdae74b4a8e17a7dbb07dac10"
     },
     {
-      "title": "Santos wins final approval for Barossa gas project as environment advocates condemn ‘climate bomb’",
-      "description": "&lt;p&gt;Energy giant to start production off Northern Territory coast at development projected to add more than 270m tonnes of CO2 to atmosphere&lt;/...",
-      "link": "https://www.theguardian.com/australia-news/2025/apr/22/santos-barossa-field-offshore-gas-project-final-approval-environment-climate-bomb-claims-ntwnfb",
-      "pubDate": "Tue, 22 Apr 2025 06:56:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fa151c06a40b7999b47ce99d1503065469dbe69b/0_26_3967_2380/master/3967.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43166c21ac173ca184510b338dd4136e"
-    },
-    {
       "title": "Mission to boldly grow food in space labs blasts off",
       "description": "The mission will explore new ways of reducing the cost of feeding an astronaut....",
       "link": "https://www.bbc.com/news/articles/cp34wzql2xvo",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/21042025/pope-francis-fought-for-the-poor-and-the-planet/",
       "pubDate": "Mon, 21 Apr 2025 21:14:02 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What is Earth Day and what has it achieved?",
-      "description": "The worldwide event aims to raise awareness about the need to protect the environment....",
-      "link": "https://www.bbc.co.uk/news/science-environment-68610073",
-      "pubDate": "Mon, 21 Apr 2025 16:04:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
