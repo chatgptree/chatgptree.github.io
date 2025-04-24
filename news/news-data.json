@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2025-04-24T12:52:57.900Z",
+  "lastUpdated": "2025-04-24T13:34:54.887Z",
   "articles": [
     {
+      "title": "Trump administration kills landmark pollution settlement in majority-Black county",
+      "description": "&lt;p&gt;Decision will affect mostly low-income Alabama residents as DoJ dismisses agreement over untreated sewage as DEI&lt;/p&gt;&lt;p&gt;The &lt;a ...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/24/trump-sewage-pollution-settlement-alabama",
+      "pubDate": "Thu, 24 Apr 2025 13:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8fdb3a2cbcbb070c6da6e9f142ed7b9b83de36c0/0_202_5976_3587/master/5976.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10ac9b013cb42430b87b8e6d75edcc7f"
+    },
+    {
+      "title": "Community Solar Plays Defense in Minnesota",
+      "description": "A groundbreaking community solar program is fighting for its life in Minnesota. Legislation in the state Senate would end the subscription-based “sola...",
+      "link": "https://insideclimatenews.org/news/24042025/inside-clean-energy-community-solar-plays-defense-in-minnesota/",
+      "pubDate": "Thu, 24 Apr 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Norfolk bird surveyors find Britain’s oldest known oystercatchers",
-      "description": "&lt;p&gt;Birds in their 40s wintering on mudflats and coastal wetlands of the Wash received leg rings in early 1980s &lt;/p&gt;&lt;p&gt;If your ears a...",
+      "description": "&lt;p&gt;Birds in their 40s wintering on mudflats of the Wash received leg rings in early 1980s&lt;/p&gt;&lt;p&gt;If your ears are assaulted by the sh...",
       "link": "https://www.theguardian.com/environment/2025/apr/24/norfolk-birds-rspb-britains-oldest-known-oystercatchers",
       "pubDate": "Thu, 24 Apr 2025 12:04:46 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/IMG_8530-min.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "New Jersey Cut Back on Prescribed Burns in the Pine Barrens—and Faces a Wildfire That Charred Thousands of Acres",
-      "description": "New Jersey has a million acres filled with towering pitch pines. It’s springtime and the trees stand straight, bare and bonelike, above a carpet of wi...",
-      "link": "https://insideclimatenews.org/news/23042025/pine-barrens-prescribed-burns-reduced-then-wildfire-hit/",
-      "pubDate": "Wed, 23 Apr 2025 16:21:51 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump administration has set Noaa on ‘non-science trajectory’, workers warn",
-      "description": "&lt;p&gt;Researchers left at US climate agency say drastic cuts could leave air ‘not breathable’ and water ‘not drinkable’&lt;/p&gt;&lt;p&gt;The &lt;a...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/23/noaa-non-science-trump-cuts",
-      "pubDate": "Wed, 23 Apr 2025 15:58:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/228d4d769fa58cd0b417add1b081c1ee597929e3/0_133_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6022d26b79d901336a1fefc0fc03a55f"
     }
   ]
 }
