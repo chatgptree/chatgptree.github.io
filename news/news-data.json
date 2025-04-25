@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-25T18:34:04.334Z",
+  "lastUpdated": "2025-04-25T19:20:02.330Z",
   "articles": [
+    {
+      "title": "Behind the Scenes: Communities Around ‘Last-Mile Warehouses’ Struggle With Online Shopping Boom’s Pollution",
+      "description": "Online shopping has reached epic proportions in the United States—and Manhattan is its beating heart. More than 2.4 million packages are delivered to ...",
+      "link": "https://insideclimatenews.org/news/25042025/todays-climate-last-mile-warehouses-pollution-shopping/",
+      "pubDate": "Fri, 25 Apr 2025 18:35:07 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Six things we learned about the future of energy security at UK summit",
+      "description": "&lt;p&gt;Critical minerals, nuclear power and the ‘weaponisation’ of energy supplies were discussed at international conference&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/environment/2025/apr/25/five-things-we-learned-about-the-future-of-energy-security-at-uk-summit",
+      "pubDate": "Fri, 25 Apr 2025 18:32:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c60dcd75bb7b50a7114ea457a031df1203608d08/0_48_3500_2100/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8618111866d1f2d9b980a2cfad7608f4"
+    },
     {
       "title": "‘We Are Nature’: Indigenous Women Come Together at the United Nations",
       "description": "The women had come from across the world, convening at the United Nations Plaza to share the struggles they’d faced reclaiming ancestral lands, fighti...",
@@ -21,7 +39,7 @@
     },
     {
       "title": "From Greenland to Ghana, Indigenous youth work for climate justice",
-      "description": "“No matter what happens we will stand and we will fight, and we will keep pushing for solutions.”...",
+      "description": "“No matter what happens we will stand, and we will fight, and we will keep pushing for solutions.”...",
       "link": "https://grist.org/indigenous/from-greenland-to-ghana-indigenous-youth-work-for-climate-justice/",
       "pubDate": "Fri, 25 Apr 2025 14:58:30 +0000",
       "sourceName": "grist.org",
@@ -155,15 +173,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "MPs question value of billions in subsidies granted to Drax power plant",
-      "description": "&lt;p&gt;Spending watchdog warns&lt;strong&gt; &lt;/strong&gt;£6.5bn in&lt;strong&gt; &lt;/strong&gt;funding may not offer value for public money amid...",
-      "link": "https://www.theguardian.com/business/2025/apr/25/mps-question-value-of-billions-in-subsidies-granted-to-drax-power-plant",
-      "pubDate": "Thu, 24 Apr 2025 23:01:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3de55e7c20b1b444bc1b335ff3a88424f4c908a5/0_292_3500_2100/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a1ccb7f45d99115158ac0311307b92d"
-    },
-    {
       "title": "Trump denies aid for Arkansas after storms that killed more than 40 people",
       "description": "&lt;p&gt;Latest denial of disaster funding comes as Trump has repeatedly stated he wants to eliminate Fema&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://www.t...",
       "link": "https://www.theguardian.com/us-news/2025/apr/24/trump-denies-aid-arkansas-tornados",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6d141fb5d2eae9273d2547b9e3dc8bd62e503c0a/0_275_8256_4954/master/8256.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6d10269781e17a551a8426661fed9952"
-    },
-    {
-      "title": "A Grim Signal: Atmospheric CO2 Soared in 2024",
-      "description": "The latest anomaly in the climate system that can’t be fully explained by researchers is a record annual jump in the global mean concentration of carb...",
-      "link": "https://insideclimatenews.org/news/24042025/global-carbon-dioxide-concentration-in-atmosphere-soared-2024/",
-      "pubDate": "Thu, 24 Apr 2025 18:07:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
