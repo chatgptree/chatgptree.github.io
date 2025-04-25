@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-25T08:33:15.815Z",
+  "lastUpdated": "2025-04-25T09:29:26.669Z",
   "articles": [
+    {
+      "title": "How Will Trump’s Effort to Revitalize Coal Play Out in the Nation’s Most Productive Coal Fields?",
+      "description": "On a cool morning in late February, Mark Fix was up before the sun to watch the Tongue River on his ranch in southeast Montana. He was concerned that ...",
+      "link": "https://insideclimatenews.org/news/25042025/trump-wants-to-revive-coal-wyoming-powder-river-basin/",
+      "pubDate": "Fri, 25 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The World’s Biggest Meat Company Gets the Greenlight to Go Public on the New York Stock Exchange",
+      "description": "The world’s largest meat company, Brazil-based JBS, has sought a listing on the New York Stock Exchange for more than a decade, but the company, which...",
+      "link": "https://insideclimatenews.org/news/25042025/jbs-brazil-meet-company-gets-approval-for-new-york-stock-exchange/",
+      "pubDate": "Fri, 25 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s Latest USDA Cuts Undermine His Plan to ‘Make America Healthy Again’",
+      "description": "This story was originally published by Grist and is reproduced here as part of the Climate Desk collaboration. Early in the morning last Monday, a gro...",
+      "link": "https://insideclimatenews.org/news/25042025/trump-usda-cuts-cancels-school-grant-program-threatens-food-access/",
+      "pubDate": "Fri, 25 Apr 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Balcony solar took off in Germany. Why not the US?",
       "description": "From breaker-masking to voltage mismatches, America’s grid isn’t ready for balcony solar — yet....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8fdb3a2cbcbb070c6da6e9f142ed7b9b83de36c0/0_202_5976_3587/master/5976.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10ac9b013cb42430b87b8e6d75edcc7f"
-    },
-    {
-      "title": "Community Solar Plays Defense in Minnesota",
-      "description": "A groundbreaking community solar program is fighting for its life in Minnesota. Legislation in the state Senate would end the subscription-based “sola...",
-      "link": "https://insideclimatenews.org/news/24042025/inside-clean-energy-community-solar-plays-defense-in-minnesota/",
-      "pubDate": "Thu, 24 Apr 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Miliband urges global cooperation amid energy 'challenges'",
-      "description": "The UK Energy Secretary was speaking at the opening of a two day summit on energy security. ...",
-      "link": "https://www.bbc.com/news/articles/cp8kr8k28z2o",
-      "pubDate": "Thu, 24 Apr 2025 10:50:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Miliband urges global cooperation amid energy 'challenges'",
-      "description": "The UK Energy Secretary was speaking at the opening of a two day summit on energy security. ...",
-      "link": "https://www.bbc.com/news/articles/cp8kr8k28z2o",
-      "pubDate": "Thu, 24 Apr 2025 10:50:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
