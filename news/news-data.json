@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-25T09:29:26.669Z",
+  "lastUpdated": "2025-04-25T10:27:29.073Z",
   "articles": [
+    {
+      "title": "Trump sparks row with deep-sea mining order",
+      "description": "The US president speeds up permits for a practice opposed by many countries and environmentalists....",
+      "link": "https://www.bbc.com/news/articles/cx2v37z333lo",
+      "pubDate": "Fri, 25 Apr 2025 10:06:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How Will Trump’s Effort to Revitalize Coal Play Out in the Nation’s Most Productive Coal Fields?",
       "description": "On a cool morning in late February, Mark Fix was up before the sun to watch the Tongue River on his ranch in southeast Montana. He was concerned that ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ef6c3103cf231ed2601ce7aef968272e0b7663ee/0_163_4903_2942/master/4903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbb7284d18594f59314c973fbdb5b288"
-    },
-    {
-      "title": "Trump administration kills landmark pollution settlement in majority-Black county",
-      "description": "&lt;p&gt;Decision will affect mostly low-income Alabama residents as DoJ dismisses agreement over untreated sewage as DEI&lt;/p&gt;&lt;p&gt;The &lt;a ...",
-      "link": "https://www.theguardian.com/us-news/2025/apr/24/trump-sewage-pollution-settlement-alabama",
-      "pubDate": "Thu, 24 Apr 2025 13:00:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8fdb3a2cbcbb070c6da6e9f142ed7b9b83de36c0/0_202_5976_3587/master/5976.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10ac9b013cb42430b87b8e6d75edcc7f"
     }
   ]
 }
