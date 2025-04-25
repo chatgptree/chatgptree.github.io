@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-25T02:02:02.413Z",
+  "lastUpdated": "2025-04-25T03:39:15.104Z",
   "articles": [
+    {
+      "title": "Elon Musk’s xAI accused of pollution over Memphis supercomputer",
+      "description": "&lt;p&gt;Hearing scheduled for Friday as residents receive anonymous leaflets that downplay pollution dangers&lt;/p&gt;&lt;p&gt;Elon Musk’s artificial...",
+      "link": "https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis",
+      "pubDate": "Fri, 25 Apr 2025 02:09:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/35ea77469eaf6bce0c12acdb9ce4762b484e729f/0_0_8192_4915/master/8192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40f03b621d152af5de4300f5d58a7b88"
+    },
     {
       "title": "Despite global opposition, Trump just fast-tracked deep-sea mining",
       "description": "The move opens the door for companies tired of waiting for permission to scrape the ocean floor....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Trump administration says it wants a ‘nuclear renaissance.’ These actions suggest otherwise.",
-      "description": "Tariffs and a shake-up at the Tennessee Valley Authority could be getting in the way....",
-      "link": "https://grist.org/energy/the-trump-administration-says-it-wants-a-nuclear-renaissance-these-actions-suggest-otherwise/",
-      "pubDate": "Thu, 24 Apr 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/ReVamp-Energy-Sunwealth-solar-panels.jpg?quality=75&#038;strip=all"
     }
   ]
 }
