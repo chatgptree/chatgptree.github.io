@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-04-26T08:29:23.085Z",
+  "lastUpdated": "2025-04-26T09:24:03.808Z",
   "articles": [
+    {
+      "title": "How a Changing Climate Is Reshaping the Spread of Infectious Diseases",
+      "description": "As global temperatures rise, the spread of infectious diseases is rapidly evolving in unexpected ways.&#160; That’s something that Dr. Angelle Desiree...",
+      "link": "https://insideclimatenews.org/news/26042025/climate-change-shifting-spread-of-infectious-disease/",
+      "pubDate": "Sat, 26 Apr 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Maryland’s Climate Ambitions in Question After Turbulent Legislative Session",
+      "description": "Environmental leaders in Maryland are reeling from a challenging 2025 legislative session that left them questioning whether the state can still meet ...",
+      "link": "https://insideclimatenews.org/news/26042025/maryland-legislative-session-climate-ambitions-in-question/",
+      "pubDate": "Sat, 26 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "She Galvanized Her Community After a Company Contaminated It With ‘Forever Chemicals’",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with Laurene Allen, a...",
+      "link": "https://insideclimatenews.org/news/26042025/laurene-allen-goldman-environmental-prize-water-activism/",
+      "pubDate": "Sat, 26 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Snowflakes, Death Threats and Dollar Signs: Cloud Seeding Is at a Crossroads",
+      "description": "Listen to an audio version of this story below. Humans have the technology to literally make snow fall from the clouds. In the drought-stricken Southw...",
+      "link": "https://insideclimatenews.org/news/26042025/utah-cloud-seeding-technology/",
+      "pubDate": "Sat, 26 Apr 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "More than 100 landfills in England may be leaching ‘highly hazardous’ waste",
       "description": "&lt;p&gt;Inadequate record keeping means councils do not know whether former waste sites contain toxic substances&lt;/p&gt;&lt;p&gt;More than 100 old ...",
@@ -110,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Trump’s Latest USDA Cuts Undermine His Plan to ‘Make America Healthy Again’",
-      "description": "This story was originally published by Grist and is reproduced here as part of the Climate Desk collaboration. Early in the morning last Monday, a gro...",
-      "link": "https://insideclimatenews.org/news/25042025/trump-usda-cuts-cancels-school-grant-program-threatens-food-access/",
-      "pubDate": "Fri, 25 Apr 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Balcony solar took off in Germany. Why not the US?",
       "description": "From breaker-masking to voltage mismatches, America’s grid isn’t ready for balcony solar — yet....",
       "link": "https://grist.org/energy/balcony-solar-took-off-in-germany-why-not-the-us/",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a57732c1aa52e96653e5a92b56ab9f3665d09d7f/130_218_4147_2488/master/4147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2ed4062718dad8c42d55db066cfa056"
-    },
-    {
-      "title": "Elon Musk’s xAI accused of pollution over Memphis supercomputer",
-      "description": "&lt;p&gt;Hearing scheduled for Friday as residents receive anonymous leaflets that downplay pollution dangers&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://ww...",
-      "link": "https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis",
-      "pubDate": "Fri, 25 Apr 2025 02:09:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/35ea77469eaf6bce0c12acdb9ce4762b484e729f/0_0_8192_4915/master/8192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40f03b621d152af5de4300f5d58a7b88"
-    },
-    {
-      "title": "Despite global opposition, Trump just fast-tracked deep-sea mining",
-      "description": "The move opens the door for companies tired of waiting for permission to scrape the ocean floor....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/despite-global-opposition-trump-fast-tracks-deep-sea-mining/",
-      "pubDate": "Fri, 25 Apr 2025 00:13:55 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/Deep-Sea-Mining-protest-resized.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Just Stop Oil was policed to extinction - now the movement has gone deeper underground",
-      "description": "Climate activists may be going deeper underground....",
-      "link": "https://www.bbc.com/news/articles/cz6denxzweeo",
-      "pubDate": "Thu, 24 Apr 2025 23:06:26 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
