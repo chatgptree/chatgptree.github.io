@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-26T22:23:00.570Z",
+  "lastUpdated": "2025-04-26T23:23:12.902Z",
   "articles": [
+    {
+      "title": "Area burned by UK wildfires in 2025 already at annual record",
+      "description": "The prolonged dry, sunny weather in March and April created ideal conditions for wildfires to spread....",
+      "link": "https://www.bbc.com/news/articles/c0m9gm3jwljo",
+      "pubDate": "Sat, 26 Apr 2025 23:07:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "More women view climate change as their number one political issue",
       "description": "A new report shows a growing gender gap among people who vote with environmental issues in mind....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Balcony solar took off in Germany. Why not the US?",
-      "description": "From breaker-masking to voltage mismatches, America’s grid isn’t ready for balcony solar — yet....",
-      "link": "https://grist.org/energy/balcony-solar-took-off-in-germany-why-not-the-us/",
-      "pubDate": "Fri, 25 Apr 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/balcony-solar-system-germany-united-states-us-regulation-safety.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
