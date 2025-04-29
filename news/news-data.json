@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-29T11:21:38.158Z",
+  "lastUpdated": "2025-04-29T12:55:51.718Z",
   "articles": [
+    {
+      "title": "Why effects of Michigan’s ice storm will linger for months, perhaps years",
+      "description": "&lt;p&gt;Climate experts say warming atmosphere from climate change could fuel severe freezing rain and ice storms like the one that hit the upper mid...",
+      "link": "https://www.theguardian.com/us-news/2025/apr/29/michigan-ice-storm-natural-disaster",
+      "pubDate": "Tue, 29 Apr 2025 12:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/546e77760481dce8dac2f0970dc2c62baa444025/0_183_5500_3300/master/5500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3201ca3a9d458f5103451e928e69de50"
+    },
     {
       "title": "The satellite that will 'weigh' world's 1.5 trillion trees",
       "description": "The new satellite will be able to see through clouds and forest canopies....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A siege on science: How Trump is undoing an American legacy",
-      "description": "In its first 100 days, the Trump administration has slashed federal agencies, canceled national reports, and yanked funding from universities. The sho...",
-      "link": "https://grist.org/science/american-climate-research-agencies-universities-trump-100-days/",
-      "pubDate": "Mon, 28 Apr 2025 08:45:40 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/scientist-sea-water-research.jpg?quality=75&amp;strip=all"
     }
   ]
 }
