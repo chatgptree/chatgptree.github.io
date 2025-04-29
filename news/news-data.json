@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-29T08:34:49.371Z",
+  "lastUpdated": "2025-04-29T09:30:29.973Z",
   "articles": [
+    {
+      "title": "Citing Trump Emergency Order, Army Corps Expedites Review for Line 5 Oil Pipeline in Great Lakes’ Wetlands",
+      "description": "The Army Corps of Engineers, citing a recent national energy emergency order by President Trump, has expedited a permit review for a new miles-long se...",
+      "link": "https://insideclimatenews.org/news/29042025/army-corps-expedites-enbridge-line-5-oil-pipeline-great-lakes/",
+      "pubDate": "Tue, 29 Apr 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Secret Deal’ in California Would Weaken Regulations for Oil Refineries",
+      "description": "This article was originally published by Public Health Watch, a nonprofit investigative news organization. Find out more at publichealthwatch.org. On ...",
+      "link": "https://insideclimatenews.org/news/29042025/california-could-weaken-oil-refinery-regulations/",
+      "pubDate": "Tue, 29 Apr 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The New Jersey fire signals a new era for the Northeast",
+      "description": "The worst fire in New Jersey's history is a warning that \"there's no reason that what has happened in the western U.S. can't happen here.”...",
+      "link": "https://grist.org/wildfires/the-new-jersey-fire-signals-a-new-era-for-the-northeast/",
+      "pubDate": "Tue, 29 Apr 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/10/se-fires-bigger.png?quality=75&#038;strip=all"
+    },
     {
       "title": "Trump is bypassing community input to fast-track energy projects that risk pollution",
       "description": "In his first 100 days, Trump has slashed the environmental processes safeguarding the nation's energy projects....",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/scientist-sea-water-research.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Why Trump can&#8217;t stop states from fighting climate change",
-      "description": "Climate progress is still happening. You just need to know where to look....",
-      "link": "https://grist.org/cities/why-trump-cant-stop-states-from-fighting-climate-change/",
-      "pubDate": "Mon, 28 Apr 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "With climate action at stake, pro-Trump statement at UNPFII met with silence",
-      "description": "Indigenous women are among those most impacted by climate change while the Trump administration promotes entrepreneurship in Indian Country....",
-      "link": "https://grist.org/indigenous/with-climate-action-at-stake-pro-trump-statement-at-unpfii-met-with-silence/",
-      "pubDate": "Mon, 28 Apr 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/0421_UNPFII.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Indigenous delegates at the UN raise alarm on voluntary isolated peoples",
-      "description": "Deforestation in the Amazon is closing in around isolated communities....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/indigenous-delegates-at-the-u-n-raise-alarm-on-voluntary-isolated-peoples/",
-      "pubDate": "Mon, 28 Apr 2025 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/isolated-indigenous-tribe.jpg?quality=75&amp;strip=all"
     }
   ]
 }
