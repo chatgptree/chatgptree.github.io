@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-04-30T17:22:37.373Z",
+  "lastUpdated": "2025-04-30T18:34:56.095Z",
   "articles": [
+    {
+      "title": "Endangered axolotl release raises hopes for rare amphibian",
+      "description": "Study provides hope for future of the axolotl amphibian, pushed to the brink of extinction in Mexico....",
+      "link": "https://www.bbc.com/news/articles/cm2xr2jzelyo",
+      "pubDate": "Wed, 30 Apr 2025 18:00:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Downing Street forces Tony Blair to row back from net zero strategy criticism",
+      "description": "&lt;p&gt;Labour politicians warn former PM had boosted Tory and Reform climate sceptics on the eve local elections&lt;/p&gt;&lt;p&gt;Tony Blair has be...",
+      "link": "https://www.theguardian.com/environment/2025/apr/30/downing-street-forces-tony-blair-to-row-back-from-net-zero-strategy-criticism",
+      "pubDate": "Wed, 30 Apr 2025 17:58:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/df61512e031d5e9ef7e7e3497d39a3e918ea7243/0_116_3500_2101/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e75a4587b4f84a34184521e8872abc9f"
+    },
+    {
+      "title": "The Guardian view on Labour and net zero politics: lean in and ignore bad advice | Editorial",
+      "description": "&lt;p&gt;Sir Tony Blair’s ill-conceived contribution to the climate debate was a political gift to Nigel Farage. But public support for the green tran...",
+      "link": "https://www.theguardian.com/commentisfree/2025/apr/30/the-guardian-view-on-labour-and-net-zero-politics-lean-in-and-ignore-bad-advice",
+      "pubDate": "Wed, 30 Apr 2025 17:44:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/06601f9dee385e4070d81d677812d40deaff17f2/0_444_6663_3998/master/6663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=190f8d722fe237e7661306c8d2a522c3"
+    },
     {
       "title": "For Alabama’s Spotted Salamanders, a Win and a Warning",
       "description": "HOMEWOOD, Ala.—Nine-year-old Ruby Banta thought it was a pretty simple choice, even for adults. “This was the salamander’s habitat first,” she said af...",
@@ -45,15 +72,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/aad613e8e1e67b9f630fcf9cc13f84da3af63192/0_156_3756_2254/master/3756.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f24a77d5a1d071604db6cb95f47f2772"
-    },
-    {
-      "title": "Equinor considers suing Trump administration over halted US windfarm",
-      "description": "&lt;p&gt;Norway’s state energy company’s $2.5bn project off coast of New York was almost a third finished&lt;/p&gt;&lt;p&gt;Norway’s state energy comp...",
-      "link": "https://www.theguardian.com/business/2025/apr/30/equinor-may-take-legal-action-after-trump-administration-halted-us-windfarm-plan",
-      "pubDate": "Wed, 30 Apr 2025 11:46:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cc137e394b69279b4dc2069586e90e4bca63dd28/34_117_3260_1957/master/3260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=584d26bdf44e7aaf639d24a3bd1f1101"
     },
     {
       "title": "Local governments building Sydney’s resilience together",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cvgpey03pnno",
       "pubDate": "Wed, 30 Apr 2025 00:54:01 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Trump administration just dismissed all 400 experts working on America’s official climate report",
-      "description": "It’s not clear who will now write the Congressionally mandated National Climate Assessment — or whether it will be written at all....",
-      "link": "https://grist.org/science/trump-administration-experts-official-climate-report-nca/",
-      "pubDate": "Wed, 30 Apr 2025 00:05:12 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/Wildfire-smoke.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "USGS Water Data Centers May Soon Close, Threatening States’ Water Management",
-      "description": "Across the country, the data collected at stream gauges managed by the U.S. Geological Survey are used to implement drought measures when streamflows ...",
-      "link": "https://insideclimatenews.org/news/29042025/trump-terminates-usgs-water-data-center-leases-threatening-flood-management/",
-      "pubDate": "Tue, 29 Apr 2025 23:33:22 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
