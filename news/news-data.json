@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-30T22:25:05.632Z",
+  "lastUpdated": "2025-04-30T23:23:57.361Z",
   "articles": [
+    {
+      "title": "Sen. Susan Collins Blasts Trump for Cuts to Scientific Research",
+      "description": "Sen. Susan Collins (R-Maine) kicked off a Wednesday hearing criticizing ​​the Trump administration for cutting science funding, firing federal scienti...",
+      "link": "https://insideclimatenews.org/news/30042025/sen-susan-collins-criticizes-trump-for-science-cuts/",
+      "pubDate": "Wed, 30 Apr 2025 22:47:20 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "N.C. Treasurer Names Conservative Climate Skeptic to State Utilities Commission",
       "description": "Donald van der Vaart—the state’s former environment secretary and a climate skeptic who was shortlisted for EPA administrator during the first Trump a...",
@@ -48,7 +57,7 @@
     },
     {
       "title": "The Guardian view on Australia’s federal election: progressives must vote strategically",
-      "description": "&lt;p&gt;Anthony Albanese has delivered steady, gradual reform – but a minority government might force Labor to push through bolder solution&lt;/p&gt;...",
+      "description": "&lt;p&gt;Anthony Albanese has delivered steady, gradual reform – but a minority government might force Labor to push through bolder solutions&lt;/p&gt...",
       "link": "https://www.theguardian.com/australia-news/2025/may/01/the-guardian-view-australian-federal-election-2025",
       "pubDate": "Wed, 30 Apr 2025 15:00:20 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/919c19948a06d8b19314d354e722066e719ca9c1/0_93_3500_2101/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99506593a9f2ef64ff299605af37ea63"
-    },
-    {
-      "title": "Government not taking climate seriously - advisers",
-      "description": "The government has made little progress in preparing the UK for rising temperatures, climate watchdog the CCC says....",
-      "link": "https://www.bbc.com/news/articles/cvgpey03pnno",
-      "pubDate": "Wed, 30 Apr 2025 00:54:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
