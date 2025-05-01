@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-01T02:11:24.537Z",
+  "lastUpdated": "2025-05-01T03:49:14.810Z",
   "articles": [
     {
       "title": "Sen. Susan Collins Blasts Trump for Cuts to Scientific Research",
@@ -7,6 +7,15 @@
       "link": "https://insideclimatenews.org/news/30042025/sen-susan-collins-criticizes-trump-for-science-cuts/",
       "pubDate": "Wed, 30 Apr 2025 22:47:20 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mosquitoes in Scotland as far north as Shetland",
+      "description": "The extent of Scotland's mosquito population is being understood thanks to a successful citizen science project....",
+      "link": "https://www.bbc.com/news/articles/clyq59r8x7ro",
+      "pubDate": "Wed, 30 Apr 2025 22:06:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
-    },
-    {
-      "title": "Australia’s best photos of the month – April 2025",
-      "description": "&lt;p&gt;Wild weather, elections and rabbit jumping are all part of some of the month’s best images in Australia for April&lt;/p&gt; &lt;a href=\"https...",
-      "link": "https://www.theguardian.com/australia-news/gallery/2025/apr/30/australias-best-photos-of-the-month-april-2025",
-      "pubDate": "Wed, 30 Apr 2025 01:00:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/919c19948a06d8b19314d354e722066e719ca9c1/0_93_3500_2101/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99506593a9f2ef64ff299605af37ea63"
     }
   ]
 }
