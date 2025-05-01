@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-01T15:26:05.938Z",
+  "lastUpdated": "2025-05-01T16:31:42.589Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Massive power cuts brought parts of Spain, Portugal and France to a standstill this week....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002bj79",
+      "pubDate": "Thu, 01 May 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Liberal-aligned thinktank running anti-Greens ads received $600,000 from coal industry in Queensland election",
       "description": "&lt;p&gt;The Australian Institute for Progress’s ‘Can you afford the Greens?’ ads claim minor party’s housing policies would lead to increased rents&l...",
@@ -27,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/79cb017c1d96e525ebbfd55d28977b9bd7589188/0_19_4042_2425/master/4042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b0fda1d49914bc1d80afe0dfac01299"
+    },
+    {
+      "title": "Will Tariffs on Solar Cell Imports Invigorate the U.S. Manufacturing Market?",
+      "description": "The U.S. Department of Commerce determined last week solar cell imports from four Southeast Asian countries should see tariffs of up to 3,521 percent....",
+      "link": "https://insideclimatenews.org/news/01052025/inside-clean-energy-solar-cell-tariffs/",
+      "pubDate": "Thu, 01 May 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "I worked with Tony Blair when he put climate at the heart of UK policy. He must not now undermine that | David King",
@@ -161,24 +179,6 @@
       "pubDate": "Thu, 01 May 2025 05:06:03 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The BBC is utterly beholden to the right. Why else would it fear a podcast about heat pumps? | George Monbiot",
-      "description": "&lt;p&gt;The broadcaster behaves like Starmer’s government: suppress the left, cave to your critics, and undermine your own survival&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/commentisfree/2025/may/01/consistently-appeasing-platforming-right-bbc-undermines-own-survival",
-      "pubDate": "Thu, 01 May 2025 05:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/79d6a7f74185281cd8045e702b65f901151ea10c/0_0_2560_1536/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73e9e0bb676947bac51fa829107c0471"
-    },
-    {
-      "title": "[Gallery:] How people power put nature and climate on the election agenda",
-      "description": "...",
-      "link": "http://www.acf.org.au/gallery-people-power-election-2025",
-      "pubDate": "Thu, 01 May 2025 14:15:40 +1000",
-      "sourceName": "acf.org.au",
-      "author": "Australian Conservation Foundation",
       "image": "../images/header2.jpg"
     }
   ]
