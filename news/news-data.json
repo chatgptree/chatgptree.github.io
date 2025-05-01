@@ -1,8 +1,17 @@
 {
-  "lastUpdated": "2025-05-01T21:22:26.921Z",
+  "lastUpdated": "2025-05-01T22:24:59.495Z",
   "articles": [
     {
-      "title": "Justice department sues Hawaii, Michigan over suits against big oil for climate harm",
+      "title": "Ignoring Federal Law, House GOP Targets California’s Nation-Leading Vehicle Pollution Rules",
+      "description": "On a warm July morning in 1943, in the middle of World War II, a thick cloud of acrid smoke blanketed downtown Los Angeles, turning its clear blue ski...",
+      "link": "https://insideclimatenews.org/news/01052025/house-republicans-target-california-vehicle-pollution-rules/",
+      "pubDate": "Thu, 01 May 2025 21:42:35 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Justice department sues Michigan and Hawaii over climate suits against big oil",
       "description": "&lt;p&gt;DoJ says Clean Air Act creates program to oversee air pollution and ‘displaces’ states’ ability to regulate it&lt;/p&gt;&lt;p&gt;The US justi...",
       "link": "https://www.theguardian.com/us-news/2025/may/01/justice-department-lawsuit-climate-hawaii-michigan",
       "pubDate": "Thu, 01 May 2025 20:59:25 GMT",
@@ -36,6 +45,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/da840c12400ac868c7d0302ca89798ca628afa51/0_81_4500_2700/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a17e490e89d5674937286e08e52ea32"
+    },
+    {
+      "title": "The 141 executive orders Trump signed in his first 100 days",
+      "description": "&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://www.theguardian.com/us-news/ng-interactive/2025/apr/30/trumps-first-100-days-charts\"&gt;Tru...",
+      "link": "https://www.theguardian.com/us-news/2025/may/01/trump-executive-orders",
+      "pubDate": "Thu, 01 May 2025 17:32:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3ff45200d8982793183c6948d676146b4b92982c/0_0_1500_900/master/1500.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4531d37e0c4c13021d5f184640bfad5"
     },
     {
       "title": "Ben Jennings on the opposition to net zero – cartoon",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/carmen-family-cropped.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Who will finance global climate solutions? Not the West.",
-      "description": "As the U.S. and Europe slash their development funding, Chinese president Xi Jinping vowed that his country “will not slow down its climate actions.”...",
-      "link": "https://grist.org/international/who-will-finance-global-climate-solutions-not-the-west/",
-      "pubDate": "Thu, 01 May 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Arctic plant study reveals an ‘early warning sign’ of climate change upheaval",
-      "description": "&lt;p&gt;A warming tundra has seen unexpected shifts, raising the alarm about fragile ecosystems and those who rely on them&lt;/p&gt;&lt;p&gt;Scientis...",
-      "link": "https://www.theguardian.com/environment/2025/may/01/arctic-plant-study-warning-climate-change",
-      "pubDate": "Thu, 01 May 2025 06:30:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/481a2ccae92e890745cff196543fef5dfa900c8a/0_271_4103_2462/master/4103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca9fd8b9562581b81fbf2ac70758ff89"
     }
   ]
 }
