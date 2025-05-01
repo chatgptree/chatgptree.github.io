@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-05-01T08:32:38.957Z",
+  "lastUpdated": "2025-05-01T09:27:06.554Z",
   "articles": [
+    {
+      "title": "In the World’s Data Center Hotbed, How Close Is Too Close, and Who Should Pay?",
+      "description": "ALEXANDRIA, Va.—Tyler Ray and his husband were drawn to their community, Bren Pointe, by the amenities that make Fairfax County such a desirable place...",
+      "link": "https://insideclimatenews.org/news/01052025/virginia-dominion-energy-data-center-proposal/",
+      "pubDate": "Thu, 01 May 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Plans Advance for Huge New Exxon Plastics Plant in Texas",
+      "description": "Plans for a large new plastics plant on the Gulf Coast of Texas crept forward on Tuesday evening when officials at a small, rural school district move...",
+      "link": "https://insideclimatenews.org/news/01052025/texas-school-district-enters-tax-break-negotiations-with-exxonmobil-plastics-plant/",
+      "pubDate": "Thu, 01 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Consumer Watchdog Accuses Regional Grid Operator of Overcharging Marylanders for Power",
+      "description": "The Maryland Office of People’s Counsel, the state’s consumer watchdog, has filed two major complaints against the regional power grid operator, argui...",
+      "link": "https://insideclimatenews.org/news/01052025/maryland-consumer-watchdog-accuses-grid-operator-pjm-of-overcharging/",
+      "pubDate": "Thu, 01 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "100 days in, does Trump still ‘dig’ coal?",
+      "description": " Presidents have long used coal miners as political props. Yet federal policies have done little to improve their lives, and some things have actually...",
+      "link": "https://grist.org/politics/100-days-in-does-trump-still-dig-coal/",
+      "pubDate": "Thu, 01 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/trump-coal-executive-order-miners-energy-dominance.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Trump&#8217;s first 100 days shredded millions in funding for Indigenous peoples",
       "description": "Funding cuts span climate change, education, health care and more....",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on Australia’s federal election: progressives must vote strategically",
-      "description": "&lt;p&gt;Anthony Albanese has delivered steady, gradual reform – but a minority government might force Labor to push through bolder solutions&lt;/p&gt...",
-      "link": "https://www.theguardian.com/australia-news/2025/may/01/the-guardian-view-australian-federal-election-2025",
-      "pubDate": "Wed, 30 Apr 2025 15:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/64f5c37b4eef980236e8175d748ca3eb0fd1c67c/0_0_2489_1488/master/2489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0df643da21e47df0be2a3652935c41fc"
-    },
-    {
-      "title": "It’s the anti net-zero, anti-woke Tony Blair – how was this man ever considered a progressive? | Zoe Williams",
-      "description": "&lt;p&gt;The former PM has form when it comes to pushing corporate interests and meeting populists halfway&lt;/p&gt;&lt;p&gt;When Tony Blair came out ...",
-      "link": "https://www.theguardian.com/commentisfree/2025/apr/30/tony-blair-anti-net-zero-anti-woke-corporate",
-      "pubDate": "Wed, 30 Apr 2025 14:59:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ec838d74e7a088422510d017ab6e4007e590dc66/0_183_5500_3300/master/5500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d4b2665de5b58ae4b382dc5c59d056b"
-    },
-    {
-      "title": "Local governments building Sydney’s resilience together",
-      "description": "Abril Felman/City of Sydney Resilient Sydney Greater Sydney’s councils are working together to build resilience and prepare their communities for the ...",
-      "link": "https://econews.com.au/67011/local-governments-building-sydneys-resilience-together/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=local-governments-building-sydneys-resilience-together",
-      "pubDate": "Wed, 30 Apr 2025 09:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Latent heat leap: MGA Thermal achieves world-first 24/7 renewable industrial steam, outperforming conventional thermal storage",
-      "description": "Anna Starrett, Mark Croudace, Alexander Post, Erich Kisi, Glen Reynolds. Australian innovation delivers continuous, cost-effective clean steam for ind...",
-      "link": "https://econews.com.au/67009/latent-heat-leap-mga-thermal-achieves-world-first-24-7-renewable-industrial-steam-outperforming-conventional-thermal-storage/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=latent-heat-leap-mga-thermal-achieves-world-first-24-7-renewable-industrial-steam-outperforming-conventional-thermal-storage",
-      "pubDate": "Wed, 30 Apr 2025 09:03:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
