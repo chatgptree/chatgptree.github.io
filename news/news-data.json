@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-01T12:50:31.248Z",
+  "lastUpdated": "2025-05-01T13:34:39.178Z",
   "articles": [
     {
       "title": "I worked with Tony Blair when he put climate at the heart of UK policy. He must not now undermine that | David King",
@@ -137,15 +137,6 @@
       "image": "https://i.guim.co.uk/img/media/481a2ccae92e890745cff196543fef5dfa900c8a/0_271_4103_2462/master/4103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca9fd8b9562581b81fbf2ac70758ff89"
     },
     {
-      "title": "Rain, Heat, Repeat: Extreme Weather is Changing How Consumers Engage with Live Music",
-      "description": "Photo Credit: Deb Kloeden The increasingly unpredictable consequences of climate change and extreme weather will amplify the challenges already faced ...",
-      "link": "https://econews.com.au/67013/rain-heat-repeat-extreme-weather-is-changing-how-consumers-engage-with-live-music/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rain-heat-repeat-extreme-weather-is-changing-how-consumers-engage-with-live-music",
-      "pubDate": "Thu, 01 May 2025 06:02:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/Music-festivals-779x1024.jpg"
-    },
-    {
       "title": "Attenborough at 99: naturalist ‘goes further than before’ to speak out against industrial fishing in new film",
       "description": "&lt;p&gt;The celebrated presenter warns of ‘modern day colonialism at sea’ as he highlights the destruction caused by overfishing and bottom trawling&...",
       "link": "https://www.theguardian.com/environment/2025/may/01/ocean-david-attenborough-trawling-fishing-industry-film-documentary",
@@ -179,6 +170,15 @@
       "pubDate": "Thu, 01 May 2025 14:15:40 +1000",
       "sourceName": "acf.org.au",
       "author": "Australian Conservation Foundation",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sen. Susan Collins Blasts Trump for Cuts to Scientific Research",
+      "description": "Sen. Susan Collins (R-Maine) kicked off a Wednesday hearing criticizing ​​the Trump administration for cutting science funding, firing federal scienti...",
+      "link": "https://insideclimatenews.org/news/30042025/sen-susan-collins-criticizes-trump-for-science-cuts/",
+      "pubDate": "Wed, 30 Apr 2025 22:47:20 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
       "image": "../images/header2.jpg"
     }
   ]
