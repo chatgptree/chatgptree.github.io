@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-01T07:25:05.184Z",
+  "lastUpdated": "2025-05-01T08:32:38.957Z",
   "articles": [
+    {
+      "title": "Trump&#8217;s first 100 days shredded millions in funding for Indigenous peoples",
+      "description": "Funding cuts span climate change, education, health care and more....",
+      "link": "https://grist.org/indigenous/trumps-first-100-days-shredded-millions-in-funding-for-indigenous-peoples/",
+      "pubDate": "Thu, 01 May 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/carmen-family-cropped.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Solar panels to be fitted on all new-build homes in England by 2027",
+      "description": "&lt;p&gt;Government to press ahead with net zero plans as Keir Starmer rejects Tony Blair’s criticisms of climate policy&lt;/p&gt;&lt;p&gt;Almost all ...",
+      "link": "https://www.theguardian.com/environment/2025/may/01/solar-panels-fitted-all-new-build-homes-england-by-2027",
+      "pubDate": "Thu, 01 May 2025 08:17:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/79f09503c6e65e6c83a30f36e53abfc87dbe58eb/0_457_7238_4344/master/7238.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29f520e9beedadb491b89d3d156c246d"
+    },
+    {
+      "title": "Who will finance global climate solutions? Not the West.",
+      "description": "As the U.S. and Europe slash their development funding, Chinese president Xi Jinping vowed that his country “will not slow down its climate actions.”...",
+      "link": "https://grist.org/international/who-will-finance-global-climate-solutions-not-the-west/",
+      "pubDate": "Thu, 01 May 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Australians’ support for nuclear power ban rises despite Dutton’s best efforts to sell atomic future, survey finds",
       "description": "&lt;p&gt;Only one in two Liberal party voters are in favour of lifting the national ban, according to the National Climate Action Survey&lt;/p&gt;&lt;...",
@@ -128,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/64f5c37b4eef980236e8175d748ca3eb0fd1c67c/0_0_2489_1488/master/2489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0df643da21e47df0be2a3652935c41fc"
     },
     {
-      "title": "One Nation candidate whose preferences may help Coalition has railed against climate science and Covid ‘little Hitlers’",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;Stuart Bonds could hand the Nationals the seat of Hunter thanks to a preference deal and ‘last minute...",
-      "link": "https://www.theguardian.com/australia-news/2025/apr/30/one-nation-candidate-poised-to-help-coalition-in-handshake-deal-has-railed-against-climate-science-and-covid-little-hitlers",
-      "pubDate": "Wed, 30 Apr 2025 15:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bb2db4555cd013ee73266afd5b8d7b4b446c71f8/495_35_1826_1096/master/1826.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4409f7d02e60c29dd2377bab19b0e3d4"
-    },
-    {
       "title": "It’s the anti net-zero, anti-woke Tony Blair – how was this man ever considered a progressive? | Zoe Williams",
       "description": "&lt;p&gt;The former PM has form when it comes to pushing corporate interests and meeting populists halfway&lt;/p&gt;&lt;p&gt;When Tony Blair came out ...",
       "link": "https://www.theguardian.com/commentisfree/2025/apr/30/tony-blair-anti-net-zero-anti-woke-corporate",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "In His First 100 Days, Trump Launched an ‘All-Out Assault’ on the Environment",
-      "description": "One hundred days into the second Trump administration, many environmentalists’ worst fears about the new presidency have been realized—and surpassed.&...",
-      "link": "https://insideclimatenews.org/news/30042025/trump-second-administration-first-100-days-assault-on-the-environment/",
-      "pubDate": "Wed, 30 Apr 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wyoming Has Been Slow to Transition From Fossil Fuels, but Is Moving Fast Toward New Nuclear Technologies",
-      "description": "Wyoming has the largest uranium ore reserves in the U.S., and for decades, uranium mining was one of the key drivers of the state’s economy. In the la...",
-      "link": "https://insideclimatenews.org/news/30042025/wyoming-fossil-fuel-transition-to-advanced-nuclear/",
-      "pubDate": "Wed, 30 Apr 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
