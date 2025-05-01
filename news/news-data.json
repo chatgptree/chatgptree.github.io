@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-01T18:34:53.776Z",
+  "lastUpdated": "2025-05-01T19:19:59.631Z",
   "articles": [
+    {
+      "title": "EPA Funding Cuts Target Disadvantaged Communities, Analysis Shows",
+      "description": "As the nation marked the 55th anniversary of the environmental movement on Earth Day, Environmental Protection Agency Administrator Lee Zeldin declare...",
+      "link": "https://insideclimatenews.org/news/01052025/trump-epa-funding-cuts-target-disadvantaged-communities/",
+      "pubDate": "Thu, 01 May 2025 19:13:04 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Collapsing bird numbers in North America prompt fears of ecological crisis – research",
       "description": "&lt;p&gt;Study using citizen data finds three-quarters of nearly 500 species in decline, with steepest trend in areas where they once thrived&lt;/p&gt...",
@@ -11,8 +20,8 @@
       "image": "https://i.guim.co.uk/img/media/1e774504455550f2d960e3808a43380730950e11/0_59_4288_2573/master/4288.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=727be191d74215c334d804ce4a02f990"
     },
     {
-      "title": "Planning bill could allow developers to build without replacing local nature",
-      "description": "&lt;p&gt;Green spaces created to offset removal of others may not have to be in same county, sources at Defra say&lt;/p&gt;&lt;p&gt;Housing developers...",
+      "title": "Planning bill will let developers build on green spaces without replacing local nature",
+      "description": "&lt;p&gt;Campaigners warn move could worsen access to nature for millions already living more than a 10-minute walk from park or playing field&lt;/p&g...",
       "link": "https://www.theguardian.com/environment/2025/may/01/planning-bill-developers-nature-green-spaces",
       "pubDate": "Thu, 01 May 2025 17:50:05 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/Music-festivals-779x1024.jpg"
-    },
-    {
-      "title": "Attenborough at 99: naturalist ‘goes further than before’ to speak out against industrial fishing in new film",
-      "description": "&lt;p&gt;The celebrated presenter warns of ‘modern day colonialism at sea’ as he highlights the destruction caused by overfishing and bottom trawling&...",
-      "link": "https://www.theguardian.com/environment/2025/may/01/ocean-david-attenborough-trawling-fishing-industry-film-documentary",
-      "pubDate": "Thu, 01 May 2025 06:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9a982e5013ca3b9a2a284f0ed58737b1b0a16670/500_248_5260_3156/master/5260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b3844d7c0660742bc9f6b3e83cb1ae1"
     }
   ]
 }
