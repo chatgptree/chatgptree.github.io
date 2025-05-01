@@ -1,21 +1,39 @@
 {
-  "lastUpdated": "2025-05-01T04:31:36.792Z",
+  "lastUpdated": "2025-05-01T05:26:18.455Z",
   "articles": [
+    {
+      "title": "Mosquitoes in Scotland as far north as Shetland",
+      "description": "The extent of Scotland's mosquito population is being understood thanks to a successful citizen science project....",
+      "link": "https://www.bbc.com/news/articles/clyq59r8x7ro",
+      "pubDate": "Thu, 01 May 2025 05:06:03 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The BBC is utterly beholden to the right. Why else would it fear a podcast about heat pumps? | George Monbiot",
+      "description": "&lt;p&gt;The broadcaster behaves like Starmer’s government: suppress the left, cave to your critics, and undermine your own survival&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/commentisfree/2025/may/01/consistently-appeasing-platforming-right-bbc-undermines-own-survival",
+      "pubDate": "Thu, 01 May 2025 05:00:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/79d6a7f74185281cd8045e702b65f901151ea10c/0_0_2560_1536/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73e9e0bb676947bac51fa829107c0471"
+    },
+    {
+      "title": "[Gallery:] How people power put nature and climate on the election agenda",
+      "description": "...",
+      "link": "http://www.acf.org.au/gallery-people-power-election-2025",
+      "pubDate": "Thu, 01 May 2025 14:15:40 +1000",
+      "sourceName": "acf.org.au",
+      "author": "Australian Conservation Foundation",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Sen. Susan Collins Blasts Trump for Cuts to Scientific Research",
       "description": "Sen. Susan Collins (R-Maine) kicked off a Wednesday hearing criticizing ​​the Trump administration for cutting science funding, firing federal scienti...",
       "link": "https://insideclimatenews.org/news/30042025/sen-susan-collins-criticizes-trump-for-science-cuts/",
       "pubDate": "Wed, 30 Apr 2025 22:47:20 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mosquitoes in Scotland as far north as Shetland",
-      "description": "The extent of Scotland's mosquito population is being understood thanks to a successful citizen science project....",
-      "link": "https://www.bbc.com/news/articles/clyq59r8x7ro",
-      "pubDate": "Wed, 30 Apr 2025 22:06:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Vena Energy expands Wandoan South Project with 320MW solar facility",
-      "description": "Vena Energy’s existing Wandoan South Solar 1 farm and Wandoan South Battery Energy Storage System (BESS) Vena Energy (Vena), a leading green energy so...",
-      "link": "https://econews.com.au/67005/vena-energy-expands-wandoan-south-project-with-320mw-solar-facility/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vena-energy-expands-wandoan-south-project-with-320mw-solar-facility",
-      "pubDate": "Wed, 30 Apr 2025 08:02:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Volunteers protected Darwin wildlife for 50+ years, but new research suggests it’s time to stop winging conservation efforts",
-      "description": "Darwin volunteers have worked to protect migratory shorebirds such as the Far Eastern Curlew (pictured) for more than 50 years. Charles Darwin Univers...",
-      "link": "https://econews.com.au/67003/volunteers-protected-darwin-wildlife-for-50-years-but-new-research-suggests-its-time-to-stop-winging-conservation-efforts/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=volunteers-protected-darwin-wildlife-for-50-years-but-new-research-suggests-its-time-to-stop-winging-conservation-efforts",
-      "pubDate": "Wed, 30 Apr 2025 08:02:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
     }
   ]
 }
