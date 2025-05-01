@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-01T13:34:39.178Z",
+  "lastUpdated": "2025-05-01T14:24:00.892Z",
   "articles": [
+    {
+      "title": "Warmest start to May on record in UK as temperatures prompt wildfire warnings",
+      "description": "&lt;p&gt;Police say open water swimming poses ‘hidden dangers’ as Kew Gardens, in south-west London, registers 28C&lt;/p&gt;&lt;p&gt;The UK has had th...",
+      "link": "https://www.theguardian.com/uk-news/2025/may/01/warmest-start-to-may-on-record-in-uk-as-temperatures-prompt-wildfire-warnings",
+      "pubDate": "Thu, 01 May 2025 13:49:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b1d66f1b238ed091f4f83b1b80c56d0d4d1f838f/0_182_5472_3283/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b85ac56aad67560c016e9d50e2948ea1"
+    },
     {
       "title": "I worked with Tony Blair when he put climate at the heart of UK policy. He must not now undermine that | David King",
       "description": "&lt;p&gt;I support the Climate Paradox report from the Tony Blair Institute, but his foreword risks compromising what must be achieved&lt;/p&gt;&lt;ul...",
@@ -93,7 +102,7 @@
     },
     {
       "title": "Trump&#8217;s first 100 days shredded millions in funding for Indigenous peoples",
-      "description": "Funding cuts span climate change, education, health care and more....",
+      "description": "Funding cuts span climate change, education, health care, and more....",
       "link": "https://grist.org/indigenous/trumps-first-100-days-shredded-millions-in-funding-for-indigenous-peoples/",
       "pubDate": "Thu, 01 May 2025 08:30:00 +0000",
       "sourceName": "grist.org",
@@ -119,15 +128,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Australians’ support for nuclear power ban rises despite Dutton’s best efforts to sell atomic future, survey finds",
-      "description": "&lt;p&gt;Only one in two Liberal party voters are in favour of lifting the national ban, according to the National Climate Action Survey&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/australia-news/2025/may/01/australians-support-for-nuclear-power-ban-rises-despite-duttons-best-efforts-to-sell-atomic-future-survey-finds",
-      "pubDate": "Thu, 01 May 2025 07:14:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/22427ba69014d5d1dc51e459fc9fb344d5818e53/0_217_6500_3902/master/6500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcb5a0e1e0ad4aefa4803d17d6e70540"
-    },
-    {
       "title": "Arctic plant study reveals an ‘early warning sign’ of climate change upheaval",
       "description": "&lt;p&gt;A warming tundra has seen unexpected shifts, raising the alarm about fragile ecosystems and those who rely on them&lt;/p&gt;&lt;p&gt;Scientis...",
       "link": "https://www.theguardian.com/environment/2025/may/01/arctic-plant-study-warning-climate-change",
@@ -135,6 +135,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/481a2ccae92e890745cff196543fef5dfa900c8a/0_271_4103_2462/master/4103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca9fd8b9562581b81fbf2ac70758ff89"
+    },
+    {
+      "title": "Rain, Heat, Repeat: Extreme Weather is Changing How Consumers Engage with Live Music",
+      "description": "Photo Credit: Deb Kloeden The increasingly unpredictable consequences of climate change and extreme weather will amplify the challenges already faced ...",
+      "link": "https://econews.com.au/67013/rain-heat-repeat-extreme-weather-is-changing-how-consumers-engage-with-live-music/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rain-heat-repeat-extreme-weather-is-changing-how-consumers-engage-with-live-music",
+      "pubDate": "Thu, 01 May 2025 06:02:52 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/Music-festivals-779x1024.jpg"
     },
     {
       "title": "Attenborough at 99: naturalist ‘goes further than before’ to speak out against industrial fishing in new film",
@@ -170,15 +179,6 @@
       "pubDate": "Thu, 01 May 2025 14:15:40 +1000",
       "sourceName": "acf.org.au",
       "author": "Australian Conservation Foundation",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sen. Susan Collins Blasts Trump for Cuts to Scientific Research",
-      "description": "Sen. Susan Collins (R-Maine) kicked off a Wednesday hearing criticizing ​​the Trump administration for cutting science funding, firing federal scienti...",
-      "link": "https://insideclimatenews.org/news/30042025/sen-susan-collins-criticizes-trump-for-science-cuts/",
-      "pubDate": "Wed, 30 Apr 2025 22:47:20 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
       "image": "../images/header2.jpg"
     }
   ]
