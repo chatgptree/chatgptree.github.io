@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-01T22:24:59.495Z",
+  "lastUpdated": "2025-05-01T23:23:54.206Z",
   "articles": [
+    {
+      "title": "An Insurance Crisis Compounded by Climate Change Threatens the Broader U.S. Economy",
+      "description": "A trifecta of crises—accelerating climate change, a scarcity of affordable housing and escalating insurance rates—are threatening the one place where ...",
+      "link": "https://insideclimatenews.org/news/01052025/insurance-crisis-threatens-united-states-economy/",
+      "pubDate": "Thu, 01 May 2025 22:51:24 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Ignoring Federal Law, House GOP Targets California’s Nation-Leading Vehicle Pollution Rules",
       "description": "On a warm July morning in 1943, in the middle of World War II, a thick cloud of acrid smoke blanketed downtown Los Angeles, turning its clear blue ski...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/trump-coal-executive-order-miners-energy-dominance.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Trump&#8217;s first 100 days shredded millions in funding for Indigenous peoples",
-      "description": "Funding cuts span climate change, education, health care, and more....",
-      "link": "https://grist.org/indigenous/trumps-first-100-days-shredded-millions-in-funding-for-indigenous-peoples/",
-      "pubDate": "Thu, 01 May 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/carmen-family-cropped.jpg?quality=75&amp;strip=all"
     }
   ]
 }
