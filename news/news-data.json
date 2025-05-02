@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-02T09:26:37.115Z",
+  "lastUpdated": "2025-05-02T10:27:04.211Z",
   "articles": [
+    {
+      "title": "Can this lynx born in a zoo learn to live in the wild?",
+      "description": "It has been moved to Germany's Black Forest in preparation for its release...",
+      "link": "https://www.bbc.com/news/articles/c8074ry1yr5o",
+      "pubDate": "Fri, 02 May 2025 10:02:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Glut of early fruit and veg hits UK as climate change closes ‘hungry gap’",
+      "description": "&lt;p&gt;Warm weather means strawberries, aubergines and tomatoes have come weeks earlier than expected&lt;/p&gt;&lt;p&gt;A glut of early strawberries...",
+      "link": "https://www.theguardian.com/environment/2025/may/02/glut-of-early-fruit-and-veg-hits-uk-as-climate-change-closes-hungry-gap",
+      "pubDate": "Fri, 02 May 2025 09:20:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1ae6472d498faa7886c2ccb7f21befdebb4ebcee/252_230_3265_1959/master/3265.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b4f075476beb093e577abb6ffaadca9"
+    },
     {
       "title": "California Toxic Algal Bloom Blamed for Months-long Marine Life Poisoning",
       "description": "Inside the Marine Mammal Care Center in Los Angeles, more than 80 sea lions and seals lounge lethargically in outdoor fenced-in pens or paddle in smal...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Amazon’s sort centre in Melbourne achieves Australian-first Zero Carbon Certification",
-      "description": "The site designed with sustainability at its core enhances delivery speed for customers and is another step in Amazon’s Climate Pledge commitment to r...",
-      "link": "https://econews.com.au/67015/amazons-sort-centre-in-melbourne-achieves-australian-first-zero-carbon-certification/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amazons-sort-centre-in-melbourne-achieves-australian-first-zero-carbon-certification",
-      "pubDate": "Fri, 02 May 2025 03:02:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Dozens of homeless people living in national forest evicted by US Forest Service",
-      "description": "&lt;p&gt;Service closing area in Oregon for wildfire prevention plan months after Trump order to increase timber production&lt;/p&gt;&lt;p&gt;Dozens o...",
-      "link": "https://www.theguardian.com/us-news/2025/may/01/homeless-evicted-forest-service-oregon-deschutes",
-      "pubDate": "Thu, 01 May 2025 23:05:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/563c2ee1635999ecebd3b0f7066b663dc071a2ec/0_66_2350_1410/master/2350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5daf509c2bcdcc296d167713fc29f771"
     }
   ]
 }
