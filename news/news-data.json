@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2025-05-02T14:24:42.895Z",
+  "lastUpdated": "2025-05-02T15:28:27.000Z",
   "articles": [
     {
       "title": "Sandeel fishing ban to remain in place",
       "description": "Sandeels are a vital source of food for seabirds that live along the UK coastline....",
       "link": "https://www.bbc.com/news/articles/ckgrwxxzxkjo",
-      "pubDate": "Fri, 02 May 2025 13:08:41 GMT",
+      "pubDate": "Fri, 02 May 2025 14:42:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the political consensus on climate change has shattered",
+      "description": "In 2019, the UK committed in law to reducing its carbon emissions to net zero by 2050. Now the political climate has changed....",
+      "link": "https://www.bbc.com/news/articles/cx20znjejw1o",
+      "pubDate": "Fri, 02 May 2025 14:16:59 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -164,22 +173,13 @@
       "image": "https://i.guim.co.uk/img/media/02ee6f2deda2f6734429de6acc72853255e5ed24/0_200_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f47ac86335c54b514e02a07d12e8bfa1"
     },
     {
-      "title": "Australia Post increases People of Post grants program as charities face cost of living crisis",
-      "description": "Latest research commissioned by Australia Post has found that 40% of regular-giving Australians have donated less in the past 12 months due to cost-of...",
-      "link": "https://econews.com.au/67025/australia-post-increases-people-of-post-grants-program-as-charities-face-cost-of-living-crisis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australia-post-increases-people-of-post-grants-program-as-charities-face-cost-of-living-crisis",
-      "pubDate": "Fri, 02 May 2025 04:03:16 +0000",
-      "sourceName": "econews.com.au",
+      "title": "US Forest Service evicts dozens of homeless people living in Oregon woods",
+      "description": "&lt;p&gt;Action in Deschutes national forest for wildfire prevention plan follows Trump order to increase timber production&lt;/p&gt;&lt;p&gt;Dozens o...",
+      "link": "https://www.theguardian.com/us-news/2025/may/01/homeless-evicted-forest-service-oregon-deschutes",
+      "pubDate": "Thu, 01 May 2025 23:05:44 GMT",
+      "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Sir David Attenborough’s filmmaker to share insights at LEAF",
-      "description": "Dr Chadden Hunter with Sir David Attenborough Sir David Attenborough’s filmmaker and righthand man Dr Chadden Hunter leads a star-studded line-up of e...",
-      "link": "https://econews.com.au/67023/sir-david-attenboroughs-filmmaker-to-share-insights-at-leaf/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sir-david-attenboroughs-filmmaker-to-share-insights-at-leaf",
-      "pubDate": "Fri, 02 May 2025 04:03:14 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+      "image": "https://i.guim.co.uk/img/media/563c2ee1635999ecebd3b0f7066b663dc071a2ec/0_66_2350_1410/master/2350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5daf509c2bcdcc296d167713fc29f771"
     }
   ]
 }
