@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-02T02:02:56.961Z",
+  "lastUpdated": "2025-05-02T03:42:26.628Z",
   "articles": [
+    {
+      "title": "Tech on the treetops: How AI can protect forests",
+      "description": "The custom AI model was fed a dataset of images from Google Earth and was able to detect forest cover changes with an accuracy of 94.37 per cent. Char...",
+      "link": "https://econews.com.au/67019/tech-on-the-treetops-how-ai-can-protect-forests/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tech-on-the-treetops-how-ai-can-protect-forests",
+      "pubDate": "Fri, 02 May 2025 03:02:56 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
+    },
+    {
+      "title": "AI boosts wildlife monitoring and protection efforts in Tasmania",
+      "description": "MK Jose – Currawong Hiden Seek AI-powered image filtering deployed by Tasmanian Land Conservancy has significantly enhanced conservation efforts, savi...",
+      "link": "https://econews.com.au/67017/ai-boosts-wildlife-monitoring-and-protection-efforts-in-tasmania/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-boosts-wildlife-monitoring-and-protection-efforts-in-tasmania",
+      "pubDate": "Fri, 02 May 2025 03:02:54 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Amazon’s sort centre in Melbourne achieves Australian-first Zero Carbon Certification",
+      "description": "The site designed with sustainability at its core enhances delivery speed for customers and is another step in Amazon’s Climate Pledge commitment to r...",
+      "link": "https://econews.com.au/67015/amazons-sort-centre-in-melbourne-achieves-australian-first-zero-carbon-certification/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amazons-sort-centre-in-melbourne-achieves-australian-first-zero-carbon-certification",
+      "pubDate": "Fri, 02 May 2025 03:02:52 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
     {
       "title": "Dozens of homeless people living in national forest evicted by US Forest Service",
       "description": "&lt;p&gt;Service closing area in Oregon for wildfire prevention plan months after Trump order to increase timber production&lt;/p&gt;&lt;p&gt;Dozens o...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/86e1b9dac3aa9356388691b90421e676f05fb776/0_0_12500_7500/master/12500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a330210da9ff8ff5f91fc1640363b465"
-    },
-    {
-      "title": "Motorists abandon cars as 'worst wildfire in decades' rages near Jerusalem – video",
-      "description": "&lt;p&gt;Police and military personnel were seen helping people evacuate the highway connecting Jerusalem to Tel Aviv as wildfires raged. Israel's pri...",
-      "link": "https://www.theguardian.com/world/video/2025/may/01/motorists-abandon-cars-as-worst-wildfire-in-decades-rages-near-jerusalem-video",
-      "pubDate": "Thu, 01 May 2025 09:18:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d3b113ceddda1a14c50945cf1c1939c2773b9215/0_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db47925c9ccdc955e0b4c9d9829b0c02"
-    },
-    {
-      "title": "In the World’s Data Center Hotbed, How Close Is Too Close, and Who Should Pay?",
-      "description": "ALEXANDRIA, Va.—Tyler Ray and his husband were drawn to their community, Bren Pointe, by the amenities that make Fairfax County such a desirable place...",
-      "link": "https://insideclimatenews.org/news/01052025/virginia-dominion-energy-data-center-proposal/",
-      "pubDate": "Thu, 01 May 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Plans Advance for Huge New Exxon Plastics Plant in Texas",
-      "description": "Plans for a large new plastics plant on the Gulf Coast of Texas crept forward on Tuesday evening when officials at a small, rural school district move...",
-      "link": "https://insideclimatenews.org/news/01052025/texas-school-district-enters-tax-break-negotiations-with-exxonmobil-plastics-plant/",
-      "pubDate": "Thu, 01 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
