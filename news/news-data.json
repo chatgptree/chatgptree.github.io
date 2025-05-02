@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-02T08:33:14.728Z",
+  "lastUpdated": "2025-05-02T09:26:37.115Z",
   "articles": [
+    {
+      "title": "California Toxic Algal Bloom Blamed for Months-long Marine Life Poisoning",
+      "description": "Inside the Marine Mammal Care Center in Los Angeles, more than 80 sea lions and seals lounge lethargically in outdoor fenced-in pens or paddle in smal...",
+      "link": "https://insideclimatenews.org/news/02052025/california-toxic-algae-marine-life-poisoning/",
+      "pubDate": "Fri, 02 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Inside Climate News Series Is a Scripps Howard Finalist",
+      "description": "An Inside Climate News investigation into the wide-ranging environmental and human rights consequences of a little-known international arbitration sys...",
+      "link": "https://insideclimatenews.org/news/02052025/cashing-out-scripps-howard-finalist/",
+      "pubDate": "Fri, 02 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump radically remade the US food system in just 100 days",
+      "description": "The people who grow and sell America's food no longer trust the USDA. We made a timeline to show you what happened....",
+      "link": "https://grist.org/food-and-agriculture/trump-usda-food-system-agriculture-first-100-days/",
+      "pubDate": "Fri, 02 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/usda-building.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Why hasn&#8217;t Trump taken down the government&#8217;s climate adaptation plans?",
       "description": "The plans, created to protect government assets from climate change and save taxpayers money, remain online. It's unclear what Trump will do with them...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/563c2ee1635999ecebd3b0f7066b663dc071a2ec/0_66_2350_1410/master/2350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5daf509c2bcdcc296d167713fc29f771"
-    },
-    {
-      "title": "Lynx could be first UK zoo-born cat freed into the wild",
-      "description": "It has been moved to Germany's Black Forest in preparation for its release...",
-      "link": "https://www.bbc.com/news/articles/c8074ry1yr5o",
-      "pubDate": "Thu, 01 May 2025 23:03:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "An Insurance Crisis Compounded by Climate Change Threatens the Broader U.S. Economy",
-      "description": "A trifecta of crises—accelerating climate change, a scarcity of affordable housing and escalating insurance rates—are threatening the one place where ...",
-      "link": "https://insideclimatenews.org/news/01052025/insurance-crisis-threatens-united-states-economy/",
-      "pubDate": "Thu, 01 May 2025 22:51:24 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ignoring Federal Law, House GOP Targets California’s Nation-Leading Vehicle Pollution Rules",
-      "description": "On a warm July morning in 1943, in the middle of World War II, a thick cloud of acrid smoke blanketed downtown Los Angeles, turning its clear blue ski...",
-      "link": "https://insideclimatenews.org/news/01052025/house-republicans-target-california-vehicle-pollution-rules/",
-      "pubDate": "Thu, 01 May 2025 21:42:35 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
