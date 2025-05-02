@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-05-02T05:25:48.489Z",
+  "lastUpdated": "2025-05-02T06:35:53.226Z",
   "articles": [
     {
-      "title": "‘World’s largest’ electric ship measuring 130m launched by Tasmanian boat builder",
-      "description": "&lt;p&gt;Manufacturer Incat built Hull 096 to run between Buenos Aires and Uruguay, calling it their ‘most complex’ project ever&lt;/p&gt;&lt;p&gt;An ...",
+      "title": "Week in wildlife: a leopard cat, a vulture puppet and a hare playing hide and seek",
+      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/may/02/week-in-wildlife-a-leopard-cat-a-vulture-puppet-and-a-hare-playing-hide-and-seek",
+      "pubDate": "Fri, 02 May 2025 06:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d26a3f407c14bcfdf2ff3469168df4cf21bc5207/781_200_7965_4779/master/7965.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aad1b3d69a8bbef5a98cb60aabdd8a2c"
+    },
+    {
+      "title": "‘World’s largest’ electric ship measuring 130 metres launched by Tasmanian boatbuilder",
+      "description": "&lt;p&gt;Manufacturer Incat built Hull 096 to run between Buenos Aires and Uruguay, dubbing it the ‘most complex’ project it has ever undertaken&lt;/p...",
       "link": "https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched",
       "pubDate": "Fri, 02 May 2025 05:05:14 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c31cf3afb70692c85c6a303611759b2def807bb3/2_0_3031_1819/master/3031.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=482d00b303cf454306cd7b146fce384f"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Massive power cuts brought parts of Spain, Portugal and France to a standstill this week....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002bj79",
-      "pubDate": "Thu, 01 May 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
