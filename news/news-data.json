@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-01T23:23:54.206Z",
+  "lastUpdated": "2025-05-02T02:02:56.961Z",
   "articles": [
+    {
+      "title": "Dozens of homeless people living in national forest evicted by US Forest Service",
+      "description": "&lt;p&gt;Service closing area in Oregon for wildfire prevention plan months after Trump order to increase timber production&lt;/p&gt;&lt;p&gt;Dozens o...",
+      "link": "https://www.theguardian.com/us-news/2025/may/01/homeless-evicted-forest-service-oregon-deschutes",
+      "pubDate": "Thu, 01 May 2025 23:05:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/563c2ee1635999ecebd3b0f7066b663dc071a2ec/0_66_2350_1410/master/2350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5daf509c2bcdcc296d167713fc29f771"
+    },
+    {
+      "title": "Lynx could be first UK zoo-born cat freed into the wild",
+      "description": "It has been moved to Germany's Black Forest in preparation for its release...",
+      "link": "https://www.bbc.com/news/articles/c8074ry1yr5o",
+      "pubDate": "Thu, 01 May 2025 23:03:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "An Insurance Crisis Compounded by Climate Change Threatens the Broader U.S. Economy",
       "description": "A trifecta of crises—accelerating climate change, a scarcity of affordable housing and escalating insurance rates—are threatening the one place where ...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Consumer Watchdog Accuses Regional Grid Operator of Overcharging Marylanders for Power",
-      "description": "The Maryland Office of People’s Counsel, the state’s consumer watchdog, has filed two major complaints against the regional power grid operator, argui...",
-      "link": "https://insideclimatenews.org/news/01052025/maryland-consumer-watchdog-accuses-grid-operator-pjm-of-overcharging/",
-      "pubDate": "Thu, 01 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "100 days in, does Trump still ‘dig’ coal?",
-      "description": " Presidents have long used coal miners as political props. Yet federal policies have done little to improve their lives, and some things have actually...",
-      "link": "https://grist.org/politics/100-days-in-does-trump-still-dig-coal/",
-      "pubDate": "Thu, 01 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/trump-coal-executive-order-miners-energy-dominance.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
