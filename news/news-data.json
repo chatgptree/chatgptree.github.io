@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-02T12:50:46.038Z",
+  "lastUpdated": "2025-05-02T13:33:21.754Z",
   "articles": [
+    {
+      "title": "Sandeel fishing ban to remain in place",
+      "description": "Sandeels are a vital source of food for seabirds that live along the UK coastline....",
+      "link": "https://www.bbc.com/news/articles/ckgrwxxzxkjo",
+      "pubDate": "Fri, 02 May 2025 13:08:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump officials gut 25 centers that monitor flooding and drought in the US",
+      "description": "&lt;p&gt;White House orders closure of USGS water science centers, which shares data with weather service for flood warnings&lt;/p&gt;&lt;p&gt;The Tru...",
+      "link": "https://www.theguardian.com/us-news/2025/may/02/trump-administration-united-states-geological-service",
+      "pubDate": "Fri, 02 May 2025 13:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3ef0037323f40b52d40cb65056e5c762df79c4f4/105_0_3139_1884/master/3139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e109fc740a437eb39acaf9a86b60514a"
+    },
     {
       "title": "Revealed: Forecasts of greenhouse gas emissions from fossil fuels soar in Trump’s first 100 days",
       "description": "&lt;p&gt;Tariff chaos hampers Trump’s pledge to ‘drill, baby, drill’, but analysis still shows surge in planet-heating emissions&lt;/p&gt;&lt;ul&gt;&l...",
@@ -83,7 +101,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "&#8216;Build, baby, build:&#8217; Canada&#8217;s new prime minister wants to make the country into an &#8216;energy superpower&#8217;",
+      "title": "&#8216;Build, baby, build&#8217;: Canada&#8217;s new prime minister wants to make the country into an &#8216;energy superpower&#8217;",
       "description": "Mark Carney has promised to partner with Indigenous peoples. He's also promised to fast-track extractive energy projects....",
       "link": "https://grist.org/global-indigenous-affairs-desk/build-baby-build-canadas-new-prime-minister-wants-to-make-the-country-into-an-energy-superpower/",
       "pubDate": "Fri, 02 May 2025 08:15:00 +0000",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Oil and gas companies add renewable fuels to low-carbon portfolio, says GlobalData",
-      "description": "The global energy landscape is steadily moving toward cleaner sources, with a gradual decline in fossil fuel dependence. The share of fossil fuels in ...",
-      "link": "https://econews.com.au/67021/oil-and-gas-companies-add-renewable-fuels-to-low-carbon-portfolio-says-globaldata/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=oil-and-gas-companies-add-renewable-fuels-to-low-carbon-portfolio-says-globaldata",
-      "pubDate": "Fri, 02 May 2025 04:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Global-Data-logo-1.jpg"
-    },
-    {
-      "title": "Tech on the treetops: How AI can protect forests",
-      "description": "The custom AI model was fed a dataset of images from Google Earth and was able to detect forest cover changes with an accuracy of 94.37 per cent. Char...",
-      "link": "https://econews.com.au/67019/tech-on-the-treetops-how-ai-can-protect-forests/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tech-on-the-treetops-how-ai-can-protect-forests",
-      "pubDate": "Fri, 02 May 2025 03:02:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
     }
   ]
 }
