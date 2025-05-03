@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-03T05:25:31.905Z",
+  "lastUpdated": "2025-05-03T06:33:08.984Z",
   "articles": [
+    {
+      "title": "'Unparalleled' snake antivenom made from man bitten 200 times",
+      "description": "Scientists hope to make a universal antivenom from the extraordinary blood of a man exposed to snake venom for decades....",
+      "link": "https://www.bbc.com/news/articles/cr5d0l7el36o",
+      "pubDate": "Sat, 03 May 2025 06:29:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "GlobalData unveils strategies to decarbonize artificial intelligence",
       "description": "The accelerating adoption of artificial intelligence (AI) is driving up energy consumption and greenhouse gas (GHG) emissions across the AI value chai...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "&#8216;Build, baby, build&#8217;: Canada&#8217;s new prime minister wants to make the country into an &#8216;energy superpower&#8217;",
-      "description": "Mark Carney has promised to partner with Indigenous peoples. He's also promised to fast-track extractive energy projects....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/build-baby-build-canadas-new-prime-minister-wants-to-make-the-country-into-an-energy-superpower/",
-      "pubDate": "Fri, 02 May 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/Chile-landcsape.jpg?quality=75&#038;strip=all"
     }
   ]
 }
