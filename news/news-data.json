@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-03T17:20:18.125Z",
+  "lastUpdated": "2025-05-03T18:34:39.827Z",
   "articles": [
     {
       "title": "Mexico factory that imports US toxic waste to relocate after Guardian report",
@@ -81,15 +81,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "GlobalData unveils strategies to decarbonize artificial intelligence",
-      "description": "The accelerating adoption of artificial intelligence (AI) is driving up energy consumption and greenhouse gas (GHG) emissions across the AI value chai...",
-      "link": "https://econews.com.au/67027/globaldata-unveils-strategies-to-decarbonize-artificial-intelligence/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globaldata-unveils-strategies-to-decarbonize-artificial-intelligence",
-      "pubDate": "Sat, 03 May 2025 03:03:26 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Global-Data-logo-1.jpg"
     },
     {
       "title": "Science meets shape-throwing in 'Dance your PhD' contest",
@@ -180,6 +171,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/771a43d8282b6f6bc528ea0adf3e1b960ba86691/0_134_5414_3250/master/5414.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b5e77671230a7f3e99c6c8af63ed150"
+    },
+    {
+      "title": "‘Irreplaceable habitat’: planning bill raises fears for England’s chalk streams",
+      "description": "&lt;p&gt;Environmentalists worry that the post-Brexit legislation will allow the destruction of rare and fragile ecosystems &lt;/p&gt;&lt;p&gt;Walk al...",
+      "link": "https://www.theguardian.com/environment/2025/may/02/irreplaceable-habitat-planning-bill-raises-fears-for-englands-chalk-streams",
+      "pubDate": "Fri, 02 May 2025 11:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a82996c014d38de7b9c2bb79d2894d120c3fbf33/0_29_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6298ce2e4991c0dd22e4b1622616eae"
     }
   ]
 }
