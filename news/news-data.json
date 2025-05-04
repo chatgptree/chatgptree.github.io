@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-04T17:20:23.595Z",
+  "lastUpdated": "2025-05-04T18:34:26.158Z",
   "articles": [
     {
       "title": "Cost of emissions from five major Australian resource companies more than $900bn, study finds",
@@ -119,15 +119,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "GlobalData unveils strategies to decarbonize artificial intelligence",
-      "description": "The accelerating adoption of artificial intelligence (AI) is driving up energy consumption and greenhouse gas (GHG) emissions across the AI value chai...",
-      "link": "https://econews.com.au/67027/globaldata-unveils-strategies-to-decarbonize-artificial-intelligence/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globaldata-unveils-strategies-to-decarbonize-artificial-intelligence",
-      "pubDate": "Sat, 03 May 2025 03:03:26 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Global-Data-logo-1.jpg"
-    },
-    {
       "title": "Science meets shape-throwing in 'Dance your PhD' contest",
       "description": "Could you explain \"insights into oral chemesthetic perception\" using dance moves?...",
       "link": "https://www.bbc.com/news/videos/c70zdwyp9zeo",
@@ -180,6 +171,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/705b5e64e355ebb79fce725a14a82f1534699806/0_265_7952_4774/master/7952.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9a49ee2ac3e0e97fab0760338220b60"
+    },
+    {
+      "title": "Sandeel fishing ban to remain in place",
+      "description": "Sandeels are a vital source of food for seabirds that live along the UK coastline....",
+      "link": "https://www.bbc.com/news/articles/ckgrwxxzxkjo",
+      "pubDate": "Fri, 02 May 2025 16:47:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     }
   ]
 }
