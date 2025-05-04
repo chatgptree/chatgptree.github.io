@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-04T08:29:42.052Z",
+  "lastUpdated": "2025-05-04T09:24:25.978Z",
   "articles": [
+    {
+      "title": "The Malayan Tiger Is at a Tipping Point, With Increasing Deaths of Both Native Populations and Big Cats",
+      "description": "Travel funding for this project was provided by the Pulitzer Center on Crisis Reporting. On a late afternoon in early October 2023, Pisie Amud, 25, to...",
+      "link": "https://insideclimatenews.org/news/04052025/malayan-tiger-declining-populations-shrinking-forests/",
+      "pubDate": "Sun, 04 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "https://insideclimatenews.org/wp-content/uploads/2025/05/Delano_Tigers_049w.jpg"
+    },
+    {
+      "title": "Scientists Map Where Orphan Wells Pose Threats to Aquifers",
+      "description": "For the first time, scientists have mapped groundwater variables nationally to understand which aquifers are most vulnerable to contamination from orp...",
+      "link": "https://insideclimatenews.org/news/04052025/scientists-map-where-orphan-wells-pose-threats-to-aquifers/",
+      "pubDate": "Sun, 04 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Mexico factory that imports US toxic waste to relocate after Guardian report",
       "description": "&lt;p&gt;Zinc Nacional will move ‘most polluting’ operations after joint investigation found heavy-metals pollution in area&lt;/p&gt;&lt;ul&gt;&lt;li&...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump officials gut 25 centers that monitor flooding and drought in the US",
-      "description": "&lt;p&gt;White House orders closure of USGS water science centers, which shares data with weather service for flood warnings&lt;/p&gt;&lt;p&gt;The Tru...",
-      "link": "https://www.theguardian.com/us-news/2025/may/02/trump-administration-united-states-geological-service",
-      "pubDate": "Fri, 02 May 2025 13:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3ef0037323f40b52d40cb65056e5c762df79c4f4/105_0_3139_1884/master/3139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e109fc740a437eb39acaf9a86b60514a"
-    },
-    {
-      "title": "Revealed: Forecasts of greenhouse gas emissions from fossil fuels soar in Trump’s first 100 days",
-      "description": "&lt;p&gt;Tariff chaos hampers Trump’s pledge to ‘drill, baby, drill’, but analysis still shows surge in planet-heating emissions&lt;/p&gt;&lt;ul&gt;&l...",
-      "link": "https://www.theguardian.com/us-news/2025/may/02/trump-drill-baby-drill-tariffs",
-      "pubDate": "Fri, 02 May 2025 11:00:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/771a43d8282b6f6bc528ea0adf3e1b960ba86691/0_134_5414_3250/master/5414.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b5e77671230a7f3e99c6c8af63ed150"
     }
   ]
 }
