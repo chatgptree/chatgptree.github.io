@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-05T08:34:52.812Z",
+  "lastUpdated": "2025-05-05T09:28:11.832Z",
   "articles": [
+    {
+      "title": "From Blight to Bright: Michigan Explores Solar Power on Brownfield Sites",
+      "description": "Michigan has 24,000 known contaminated sites, a legacy of heavy manufacturing where industries carelessly discarded hazardous materials with minimal r...",
+      "link": "https://insideclimatenews.org/news/05052025/michigan-brownfield-sites-solar-power/",
+      "pubDate": "Mon, 05 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists just found a way to break through climate apathy",
+      "description": "In a field of muddy results, it's among the clearest findings that one cognitive scientist has seen in his career....",
+      "link": "https://grist.org/science/break-through-climate-apathy-data-visualization-lake-freezing-study/",
+      "pubDate": "Mon, 05 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/Climate-Stripes-Ed-Hawkins.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "At UN, mining groups tout protections for Indigenous people",
       "description": "Even as Oak Flat moves ahead, the mining industry commits to voluntary guidelines to consult with communities....",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/03052025/patagonian-lakes-are-rapidly-drying/",
       "pubDate": "Sat, 03 May 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Massive Cuts to NOAA Could Impact Everything From Weather Apps to Agriculture to National Security",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with journalist Abrahm Lustg...",
-      "link": "https://insideclimatenews.org/news/03052025/noaa-cuts-could-impact-weather-apps-agriculture-national-security/",
-      "pubDate": "Sat, 03 May 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Unparalleled' snake antivenom made from man bitten 200 times",
-      "description": "Scientists hope to make a universal antivenom from the extraordinary blood of a man exposed to snake venom for decades....",
-      "link": "https://www.bbc.com/news/articles/cr5d0l7el36o",
-      "pubDate": "Sat, 03 May 2025 06:29:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
