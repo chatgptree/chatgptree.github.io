@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-05T22:25:59.563Z",
+  "lastUpdated": "2025-05-05T23:23:53.667Z",
   "articles": [
+    {
+      "title": "Gold mining suspended in Peru’s north after 13 miners killed",
+      "description": "&lt;p&gt;Government response comes amid outrage over the murder of the men who had been held captive for more than a week&lt;/p&gt;&lt;p&gt;Peru’s pre...",
+      "link": "https://www.theguardian.com/world/2025/may/05/perus-north-miners-killed",
+      "pubDate": "Mon, 05 May 2025 23:15:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/478b81b3f9cf5ed90be6c86d878bcb22d0c75c24/0_217_6520_3912/master/6520.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0dd04d7e1c5b1f80a938d7cd6b356a2b"
+    },
+    {
+      "title": "Invisible Deaths: As Climate Disasters Kill in Pakistan, the True Scale Is Unknown",
+      "description": "When torrential rain in 2022 flooded Abdul Latif’s village in Badin, Pakistan, his roof caved in and he and his six children were forced to live on a ...",
+      "link": "https://insideclimatenews.org/news/05052025/pakistan-climate-disaster-deaths/",
+      "pubDate": "Mon, 05 May 2025 23:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Proposed Cuts to Energy and Environment Programs in Trump’s Budget Worry Advocates and Elected Officials",
+      "description": "Environmental and renewable energy advocates are not surprised to see their priorities skewered in President Donald Trump’s budget request. Their ques...",
+      "link": "https://insideclimatenews.org/news/05052025/trump-budget-worry-energy-environment-advocates/",
+      "pubDate": "Mon, 05 May 2025 22:26:54 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Inspired N.C. Republicans Target Environmental Justice, Clean Energy Jobs and Programs",
       "description": "Conservative North Carolina lawmakers appear to be taking a cue from the Trump administration, proposing to slash more than 25 jobs and to eliminate k...",
@@ -146,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/96da2c74f3802303cd9a3b7d755fe2f97b599027/0_200_6000_3600/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ccee87fc6f7b9bb911da473dd7f4ed3f"
     },
     {
-      "title": "Sweden’s Great Moose Migration live stream ends after 478 hours’ viewing",
-      "description": "&lt;p&gt;Seventh season of hit ‘slow TV’ show followed annual trek of moose (or elk) heading to summer pastures&lt;/p&gt;&lt;p&gt;For thousands of yea...",
-      "link": "https://www.theguardian.com/world/2025/may/04/swedens-great-moose-migration-live-stream-ends-after-478-hours-viewing",
-      "pubDate": "Sun, 04 May 2025 22:26:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4d0beb81722a02cdf3804c6cd4f7f629c1460837/232_112_488_293/master/488.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2de0ff9264332b691db784c57227ef7e"
-    },
-    {
       "title": "USAID cuts are hitting global conservation projects hard",
       "description": "The Trump administration’s dismantling of USAID has done more than cut off life-saving humanitarian assistance. It has also eliminated funding for env...",
       "link": "https://grist.org/international/usaid-cuts-are-hitting-global-conservation-projects-hard/",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/Vietmam-Forest-Guard_USAID.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The Malayan Tiger Is at a Tipping Point, With Increasing Deaths of Both Native Populations and Big Cats",
-      "description": "Travel funding for this project was provided by the Pulitzer Center on Crisis Reporting. On a late afternoon in early October 2023, Pisie Amud, 25, to...",
-      "link": "https://insideclimatenews.org/news/04052025/malayan-tiger-declining-populations-shrinking-forests/",
-      "pubDate": "Sun, 04 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "https://insideclimatenews.org/wp-content/uploads/2025/05/Delano_Tigers_049w.jpg"
-    },
-    {
-      "title": "Scientists Map Where Orphan Wells Pose Threats to Aquifers",
-      "description": "For the first time, scientists have mapped groundwater variables nationally to understand which aquifers are most vulnerable to contamination from orp...",
-      "link": "https://insideclimatenews.org/news/04052025/scientists-map-where-orphan-wells-pose-threats-to-aquifers/",
-      "pubDate": "Sun, 04 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
