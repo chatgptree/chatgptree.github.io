@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-05T07:25:47.819Z",
+  "lastUpdated": "2025-05-05T08:34:52.812Z",
   "articles": [
+    {
+      "title": "At UN, mining groups tout protections for Indigenous people",
+      "description": "Even as Oak Flat moves ahead, the mining industry commits to voluntary guidelines to consult with communities....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/at-un-mining-groups-tout-protections-for-indigenous-people/",
+      "pubDate": "Mon, 05 May 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "QBE Foundation and Sydney Swans kick Goals for Good",
       "description": "The QBE Foundation hosted its annual Goals for Good event at Sunday’s AFL clash between the Sydney Swans and GWS Giants, resulting in a donation of $1...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "GlobalData unveils strategies to decarbonize artificial intelligence",
-      "description": "The accelerating adoption of artificial intelligence (AI) is driving up energy consumption and greenhouse gas (GHG) emissions across the AI value chai...",
-      "link": "https://econews.com.au/67027/globaldata-unveils-strategies-to-decarbonize-artificial-intelligence/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=globaldata-unveils-strategies-to-decarbonize-artificial-intelligence",
-      "pubDate": "Sat, 03 May 2025 03:03:26 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Global-Data-logo-1.jpg"
     }
   ]
 }
