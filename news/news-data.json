@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-06T20:28:19.527Z",
+  "lastUpdated": "2025-05-06T21:23:55.376Z",
   "articles": [
     {
       "title": "Scientists Are Reviving Climate and Nature Research Efforts in the Wake of Trump Cuts",
@@ -45,15 +45,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3a6d30f94cd6e5266dcf175ecb34ba9e2ca3a918/1107_0_3702_2962/master/3702.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=796b2cf4fbbf5a35c4b1452a2bc5e0ed"
-    },
-    {
-      "title": "Plastics industry pushed ‘advanced recycling’ despite knowing problems – report",
-      "description": "&lt;p&gt;Producers promoted chemical recycling – processes used to break plastics into constituent molecules – but knew of limitations&lt;/p&gt;&lt;p&...",
-      "link": "https://www.theguardian.com/environment/2025/may/06/plastic-advanced-recycling-report",
-      "pubDate": "Tue, 06 May 2025 15:48:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e4c77739a79b88972b6e6f044d7914f106841693/0_201_5895_3539/master/5895.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0db8d84562d6c3b778d69fc5ed74fca4"
     },
     {
       "title": "French hunter, 81, avoids jail after killing endangered female bear in Pyrenees",
@@ -177,6 +168,15 @@
       "description": "When torrential rain in 2022 flooded Abdul Latif’s village in Badin, Pakistan, his roof caved in and he and his six children were forced to live on a ...",
       "link": "https://insideclimatenews.org/news/05052025/pakistan-climate-disaster-deaths/",
       "pubDate": "Mon, 05 May 2025 23:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Proposed Cuts to Energy and Environment Programs in Trump’s Budget Worry Advocates and Elected Officials",
+      "description": "Environmental and renewable energy advocates are not surprised to see their priorities skewered in President Donald Trump’s budget request. Their ques...",
+      "link": "https://insideclimatenews.org/news/05052025/trump-budget-worry-energy-environment-advocates/",
+      "pubDate": "Mon, 05 May 2025 22:26:54 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
