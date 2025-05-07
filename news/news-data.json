@@ -1,8 +1,17 @@
 {
-  "lastUpdated": "2025-05-07T13:37:40.169Z",
+  "lastUpdated": "2025-05-07T14:27:24.837Z",
   "articles": [
     {
-      "title": "US renewable energy has tripled in a decade – but Trump cancels almost $8bn in projects",
+      "title": "Inside the Chornobyl exclusion zone – in pictures",
+      "description": "&lt;p&gt;A &lt;a href=\"https://www.theguardian.com/world/video/2025/feb/14/russian-drone-explodes-on-chornobyl-nuclear-plant-protective-shell-video\"&g...",
+      "link": "https://www.theguardian.com/world/gallery/2025/may/07/inside-the-chornobyl-chernobyl-exclusion-zone-in-pictures",
+      "pubDate": "Wed, 07 May 2025 13:46:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4989d2ea5ab4091bedfae2075b9304e944f2d556/1426_707_2517_2013/master/2517.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4c85991b46de68882dce488c20eb094"
+    },
+    {
+      "title": "US renewable energy has tripled in a decade – but Trump cuts almost $8bn in projects",
       "description": "&lt;p&gt;Political uncertainty under Trump has dampened the market, even as red states see a boom in renewable energy&lt;/p&gt;&lt;p&gt;&lt;a href=\"ht...",
       "link": "https://www.theguardian.com/us-news/2025/may/07/clean-energy-report-environment-trump",
       "pubDate": "Wed, 07 May 2025 13:00:46 GMT",
@@ -21,7 +30,7 @@
     },
     {
       "title": "Reform’s green energy assault in Lincolnshire ‘puts 12,200 jobs at risk’",
-      "description": "&lt;p&gt;Party intends to block projects despite net zero industries contributing nearly £1bn to local economy, analysis shows&lt;/p&gt;&lt;p&gt;Refor...",
+      "description": "&lt;p&gt;Party intends to block projects despite net zero industries contributing nearly £1bn to local economy, analysis shows&lt;/p&gt;&lt;ul&gt;&lt;...",
       "link": "https://www.theguardian.com/politics/2025/may/07/reform-uk-green-energy-assault-lincolnshire-jobs-risk",
       "pubDate": "Wed, 07 May 2025 13:00:28 GMT",
       "sourceName": "theguardian.com",
@@ -112,16 +121,16 @@
     {
       "title": "Coming this summer: Record-breaking heat and plenty of hurricanes",
       "description": "Forecasters are predicting higher temperatures across the U.S. and up to 10 hurricanes. Cutting federal programs could leave people even more vulnerab...",
-      "link": "https://grist.org/climate/summer-record-breaking-heat-hurricanes-liheap/",
+      "link": "https://grist.org/extreme-heat/summer-record-breaking-heat-hurricanes-liheap/",
       "pubDate": "Wed, 07 May 2025 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "A &#8220;green backlash&#8221; helped conservatives win in Germany. What happens now?",
+      "title": "A &#8216;green backlash&#8217; helped conservatives win in Germany. What happens now?",
       "description": "Conservatives led by Friedrich Merz remain committed to renewables, but say \"we must and we will change\" an economic policy focused on climate....",
-      "link": "https://grist.org/energy/germany-friedrich-merz-renewables-electricity-price/",
+      "link": "https://grist.org/international/germany-friedrich-merz-renewables-electricity-price/",
       "pubDate": "Wed, 07 May 2025 08:15:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png"
-    },
-    {
-      "title": "Dogs, drones set to sniff out Lake Mac koala populations",
-      "description": "A koala spotted recently at Cooranbong Photo Credit: Ben Courbrough Lake Macquarie City Council is set to roll out surveys over the next 18 months to ...",
-      "link": "https://econews.com.au/67049/dogs-drones-set-to-sniff-out-lake-mac-koala-populations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dogs-drones-set-to-sniff-out-lake-mac-koala-populations",
-      "pubDate": "Wed, 07 May 2025 04:02:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
