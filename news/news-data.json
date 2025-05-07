@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-05-07T07:25:27.724Z",
+  "lastUpdated": "2025-05-07T08:35:08.040Z",
   "articles": [
+    {
+      "title": "Coming this summer: Record-breaking heat and plenty of hurricanes",
+      "description": "Forecasters are predicting higher temperatures across the U.S. and up to 10 hurricanes. Cutting federal programs could leave people even more vulnerab...",
+      "link": "https://grist.org/climate/summer-record-breaking-heat-hurricanes-liheap/",
+      "pubDate": "Wed, 07 May 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A &#8220;green backlash&#8221; helped conservatives win in Germany. What happens now?",
+      "description": "Conservatives led by Friedrich Merz remain committed to renewables, but say \"we must and we will change\" an economic policy focused on climate....",
+      "link": "https://grist.org/energy/germany-friedrich-merz-renewables-electricity-price/",
+      "pubDate": "Wed, 07 May 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/Germany-clean-energy-transition-electricity-prices-Merz-conservatives-plan.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Want climate solutions in Indigenous territories? Better get consent.",
+      "description": "For three years in a row, Indigenous leaders have called for an end to carbon markets, carbon offsets, and geoengineering technologies....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/want-climate-solutions-in-indigenous-territories-better-get-consent/",
+      "pubDate": "Wed, 07 May 2025 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/250423_UNPFII195.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Louisana already has 4 LNG terminals. It just added another.",
+      "description": "The Trump administration fast-tracked the project approval, reversing a Biden directive....",
+      "link": "https://grist.org/climate-energy/louisana-already-has-4-lng-terminals-it-just-added-another/",
+      "pubDate": "Wed, 07 May 2025 07:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/LNG2AP25065722656353.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "More than 40% of electricity used in Australia’s main power grid at start of year was renewable",
       "description": "&lt;p&gt;Data suggests pollution from energy is falling again after previously stalling, but experts say faster growth needed to achieve Labor goal of...",
@@ -143,42 +179,6 @@
       "pubDate": "Tue, 06 May 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Georgia, a fight over credit for its clean energy boom",
-      "description": "According to a new report by Georgia Senator Raphael Warnock, some 42,000 jobs are now at risk, as Republicans consider repealing IRA tax credits to p...",
-      "link": "https://grist.org/economics/in-georgia-a-fight-over-credit-for-its-clean-energy-boom/",
-      "pubDate": "Tue, 06 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "This commonly used plastic chemical caused 350,000 heart disease-related deaths in 1 year",
-      "description": "People in Asia are exposed to levels up to six times higher than their counterparts in the West....",
-      "link": "https://grist.org/health/plastic-chemical-dehp-phthalate-deaths-heart-disease-2018-lancet/",
-      "pubDate": "Tue, 06 May 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/DEHP-protest.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How AI-powered bushfire detection can protect forests and communities",
-      "description": "By Sohan Domingo, VP of Sales, Technology, and Operations, Dryad Networks Bushfires pose a significant threat to Australia and New Zealand’s environme...",
-      "link": "https://econews.com.au/67045/how-ai-powered-bushfire-detection-can-protect-forests-and-communities/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-ai-powered-bushfire-detection-can-protect-forests-and-communities",
-      "pubDate": "Tue, 06 May 2025 06:03:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/Dyrad_Insitu_product_image2-1024x578.jpg"
-    },
-    {
-      "title": "[A victory for climate and nature] as Australians make their demands clear",
-      "description": "&lt;p&gt;Australians have chosen climate, clean energy, and Country, delivering a resounding 'NO’ to the Coalition and their toxic nuclear fantasy and...",
-      "link": "http://www.acf.org.au/victory-for-climate-and-nature-as-australians-make-their-demands-clear",
-      "pubDate": "Tue, 06 May 2025 15:27:27 +1000",
-      "sourceName": "acf.org.au",
-      "author": "Australian Conservation Foundation",
       "image": "../images/header2.jpg"
     }
   ]
