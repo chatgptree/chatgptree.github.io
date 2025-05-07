@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-07T22:25:43.663Z",
+  "lastUpdated": "2025-05-07T23:24:32.782Z",
   "articles": [
+    {
+      "title": "Trump reportedly eyes $26m in funding cuts for US national parks",
+      "description": "&lt;p&gt;New York Times reports Elon Musk’s Doge agency has created spreadsheet of federal grants earmarked for cuts &lt;/p&gt;&lt;p&gt;The Trump admi...",
+      "link": "https://www.theguardian.com/us-news/2025/may/07/trump-cuts-national-parks-grants",
+      "pubDate": "Wed, 07 May 2025 23:07:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bc3672b3b6ddfcd9edb7f1714705101b368541bc/780_0_4663_3733/master/4663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abbabd25d6d5524e475282ec0d4335ed"
+    },
     {
       "title": "Trump Administration Decommissions Sea Ice Data That Sounded an Alarm on Arctic Climate Change",
       "description": "Key datasets used to monitor the impacts of climate change in the Arctic have emerged as the latest victim of cost-cutting by the Trump administration...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A malaria-like disease spread by ticks is moving into Delaware, Maryland, and Virginia",
-      "description": "The tick that causes Lyme can also spread babesiosis — and researchers fear doctors in the mid-Atlantic don't know about it....",
-      "link": "https://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/",
-      "pubDate": "Wed, 07 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/GettyImages-509401990-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
