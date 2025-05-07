@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2025-05-07T11:22:11.957Z",
+  "lastUpdated": "2025-05-07T12:55:21.606Z",
   "articles": [
+    {
+      "title": "Blow to clean energy drive as major windfarm ditched",
+      "description": "In a blow to the government's clean energy ambitions, a company cancels a huge windfarm off Yorkshire....",
+      "link": "https://www.bbc.com/news/articles/ce848g8l8vro",
+      "pubDate": "Wed, 07 May 2025 12:27:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Blow to clean energy drive as major windfarm ditched",
+      "description": "In a blow to the government's clean energy ambitions, a company cancels a huge windfarm off Yorkshire....",
+      "link": "https://www.bbc.com/news/articles/ce848g8l8vro",
+      "pubDate": "Wed, 07 May 2025 12:27:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Real-world geoengineering experiments revealed by UK agency",
       "description": "&lt;p&gt;Trials will test ways to block sunlight and slow climate crisis that threatens to trigger catastrophic tipping points&lt;/p&gt;&lt;p&gt;Real-...",
       "link": "https://www.theguardian.com/environment/2025/may/07/real-world-geoengineering-experiments-revealed-by-uk-agency",
-      "pubDate": "Wed, 07 May 2025 11:09:21 GMT",
+      "pubDate": "Wed, 07 May 2025 11:19:05 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9dff4ab46e88ca64492965108055e33bc376b7fa/504_0_5040_4032/master/5040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30710f6c48964c3c3f2b7f35dc83a4f1"
@@ -83,6 +101,15 @@
       "image": "https://grist.org/wp-content/uploads/2025/05/Germany-clean-energy-transition-electricity-prices-Merz-conservatives-plan.jpeg?quality=75&amp;strip=all"
     },
     {
+      "title": "Danish firm shelves huge UK windfarm project over rising costs",
+      "description": "&lt;p&gt;Ørsted cancels fourth stage of Hornsea project off Yorkshire coast, which was set to include enough turbines to power 1m homes&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/business/2025/may/07/danish-firm-shelves-huge-uk-windfarm-project-over-rising-costs",
+      "pubDate": "Wed, 07 May 2025 08:11:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/86b55ccacc65eaed2fd4a013e35b237560bdd0fc/0_0_3546_2836/master/3546.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ed2f229816e441f47bb71a278305637"
+    },
+    {
       "title": "Want climate solutions in Indigenous territories? Better get consent.",
       "description": "For three years in a row, Indigenous leaders have called for an end to carbon markets, carbon offsets, and geoengineering technologies....",
       "link": "https://grist.org/global-indigenous-affairs-desk/want-climate-solutions-in-indigenous-territories-better-get-consent/",
@@ -99,15 +126,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/LNG2AP25065722656353.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "More than 40% of electricity used in Australia’s main power grid at start of year was renewable",
-      "description": "&lt;p&gt;Data suggests pollution from energy is falling again after previously stalling, but experts say faster growth needed to achieve Labor goal of...",
-      "link": "https://www.theguardian.com/australia-news/2025/may/07/more-than-40-of-electricity-used-in-australias-main-power-grid-at-start-of-year-was-renewable",
-      "pubDate": "Wed, 07 May 2025 05:53:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1a49b42bf86f5d9a5445a5c9aa3f505a5f5537a3/612_0_4976_3982/master/4976.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7c19d551f809805c15f8524287e5f3d"
     },
     {
       "title": "Entries Now Open for the 2025 NSW Sustainability Awards!",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/06052025/trump-aims-to-fast-track-alabama-coal-expansion/",
       "pubDate": "Tue, 06 May 2025 21:45:54 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists Are Reviving Climate and Nature Research Efforts in the Wake of Trump Cuts",
-      "description": "The first few months of the Trump administration have been marked by deep cuts to funding and staffing for scientific research. Among them: two major ...",
-      "link": "https://insideclimatenews.org/news/06052025/todays-climate-scientists-revive-climate-nature-research-trump-cuts/",
-      "pubDate": "Tue, 06 May 2025 20:22:33 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Attenborough at 99 delivers 'greatest message he's ever told'",
-      "description": "Sir David says his new film Ocean is one of the most important of his career....",
-      "link": "https://www.bbc.com/news/articles/cn0wjxg0ex1o",
-      "pubDate": "Tue, 06 May 2025 20:13:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
