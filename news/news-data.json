@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-05-07T08:35:08.040Z",
+  "lastUpdated": "2025-05-07T09:28:51.694Z",
   "articles": [
+    {
+      "title": "Two-thirds of global heating caused by richest 10%, study suggests",
+      "description": "&lt;p&gt;Paper in Nature Climate Change journal reveals major role wealthy emitters play in driving climate extremes&lt;/p&gt;&lt;p&gt;The world’s wea...",
+      "link": "https://www.theguardian.com/environment/2025/may/07/two-thirds-of-global-heating-caused-by-richest-study-suggests",
+      "pubDate": "Wed, 07 May 2025 09:00:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/de83a47049a1976fc72a0688838f465567c7f6a8/125_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c011d1011446c913ee038188e919eba4"
+    },
+    {
+      "title": "Scientists Forecast a Big Increase of Clear-Air Turbulence That Could Lead to Bumpier Flights",
+      "description": "VIENNA—Scientists at the European Geosciences Union conference last week said there is growing scientific evidence that global warming is driving a bi...",
+      "link": "https://insideclimatenews.org/news/07052025/clear-air-turbulence-could-lead-to-bumpier-flights/",
+      "pubDate": "Wed, 07 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Seaweed Could Reduce Methane Emissions from Grazing Cattle, New Study Shows",
+      "description": "New research from the University of California, Davis on feeding seaweed to grazing cattle shows that the practice could significantly reduce the gree...",
+      "link": "https://insideclimatenews.org/news/07052025/seaweed-could-reduce-cattle-methane-emissions/",
+      "pubDate": "Wed, 07 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A malaria-like disease spread by ticks is moving into Delaware, Maryland, and Virginia",
+      "description": "The tick that causes Lyme can also spread babesiosis — and researchers fear doctors in the mid-Atlantic don't know about it....",
+      "link": "https://grist.org/health/babesiosis-mid-atlantic-delaware-maryland-virginia-tick-borne-disease-lyme-research/",
+      "pubDate": "Wed, 07 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/GettyImages-509401990-1.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Coming this summer: Record-breaking heat and plenty of hurricanes",
       "description": "Forecasters are predicting higher temperatures across the U.S. and up to 10 hurricanes. Cutting federal programs could leave people even more vulnerab...",
@@ -54,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0052ff891290b8ec5f70868527cd66254f065110/524_0_5393_4317/master/5393.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3436f565c88a77520c12815254cb4109"
-    },
-    {
-      "title": "UK government admits almost no evidence nature protections block development",
-      "description": "&lt;p&gt;Whitehall analysis provides no data or research to support the government argument that environmental legislation holds up building&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/environment/2025/may/07/uk-government-admits-almost-no-evidence-nature-protections-block-development",
-      "pubDate": "Wed, 07 May 2025 05:00:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/52b8b295f921be21e325015ceb95699eb74f03ed/532_322_3433_2748/master/3433.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=630262909ba469053e71a0d3e107e1e6"
     },
     {
       "title": "Entries Now Open for the 2025 NSW Sustainability Awards!",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/EPA-signs.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Americans’ health at risk as Trump cuts EPA staff to 1980s levels, experts warn",
-      "description": "&lt;p&gt;Advocacy groups say gutting EPA’s scientific research arm would turn it into a purely political agency&lt;/p&gt;&lt;p&gt;Americans’ health is...",
-      "link": "https://www.theguardian.com/us-news/2025/may/06/trump-epa-cuts",
-      "pubDate": "Tue, 06 May 2025 14:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/811a6b0cef602423c5c9fdfbc85cc67a026d0bba/0_206_6192_3715/master/6192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8304518f874c5367f86c4f8bc0d9fd55"
-    },
-    {
-      "title": "World’s Researchers Say They Will Resist Attacks on Science and Support Beleaguered U.S. Colleagues",
-      "description": "VIENNA, Austria—The global science community promised late last Friday that it would rally around American researchers and rise to meet a well-documen...",
-      "link": "https://insideclimatenews.org/news/06052025/world-scientists-say-they-will-resist-attacks-during-annual-conference/",
-      "pubDate": "Tue, 06 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Michigan Researcher’s Work on Air Pollution and Racial Inequities Caught in Funding Freeze at National Science Foundation",
-      "description": "For two years, Ember McCoy has been researching air quality and the gaps in data collection in neighborhoods in Southwest Detroit where mostly Black a...",
-      "link": "https://insideclimatenews.org/news/06052025/michigan-air-pollution-researcher-caught-in-federal-funding-freeze/",
-      "pubDate": "Tue, 06 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
