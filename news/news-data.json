@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-07T09:28:51.694Z",
+  "lastUpdated": "2025-05-07T10:28:51.784Z",
   "articles": [
+    {
+      "title": "‘It’s like putting a whale in a blender’: the rise of deadly ship collisions in Chile",
+      "description": "&lt;p&gt;On average, five fatal whale strikes occur in the country’s waters each year, the highest in the world – and just a fraction of the total num...",
+      "link": "https://www.theguardian.com/environment/2025/may/07/its-like-putting-a-whale-in-a-blender-the-rise-of-deadly-ship-collisions-in-chile",
+      "pubDate": "Wed, 07 May 2025 10:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2fc94ad5e779389f400414c94c211331b0628fa8/0_357_3821_2292/master/3821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7cead9a2d18601e6c2504c11832227"
+    },
+    {
+      "title": "New reports tell us cattle and sheep farming can be sustainable – don’t believe them, it’s all bull | George Monbiot",
+      "description": "&lt;p&gt;Feeding the world sustainably is an incredibly complex challenge, yet some people are trying to sell us a bucolic fairytale&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/commentisfree/2025/may/07/cattle-sheep-farming-sustainable-food",
+      "pubDate": "Wed, 07 May 2025 09:53:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3e4ba1e0f374ad15f86189e9e494ee8e2cc9ef24/0_0_2560_1536/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9cf178507850d6d5261866f046ecc6a"
+    },
     {
       "title": "Two-thirds of global heating caused by richest 10%, study suggests",
       "description": "&lt;p&gt;Paper in Nature Climate Change journal reveals major role wealthy emitters play in driving climate extremes&lt;/p&gt;&lt;p&gt;The world’s wea...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Attenborough at 99 delivers 'greatest message he's ever told'",
-      "description": "Sir David says his new film Ocean is one of the most important of his career....",
-      "link": "https://www.bbc.com/news/articles/cn0wjxg0ex1o",
-      "pubDate": "Tue, 06 May 2025 20:13:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The National Weather Service is once again translating lifesaving alerts. What happened?",
-      "description": "Political pressures may have driven the federal agency to backtrack on its decision to suspend automated weather translations....",
-      "link": "https://grist.org/extreme-weather/the-national-weather-service-reinstated-translation-alerts-what-happened/",
-      "pubDate": "Tue, 06 May 2025 18:43:25 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/EPA-signs.jpg?quality=75&#038;strip=all"
     }
   ]
 }
