@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-07T12:55:21.606Z",
+  "lastUpdated": "2025-05-07T13:37:40.169Z",
   "articles": [
+    {
+      "title": "US renewable energy has tripled in a decade – but Trump cancels almost $8bn in projects",
+      "description": "&lt;p&gt;Political uncertainty under Trump has dampened the market, even as red states see a boom in renewable energy&lt;/p&gt;&lt;p&gt;&lt;a href=\"ht...",
+      "link": "https://www.theguardian.com/us-news/2025/may/07/clean-energy-report-environment-trump",
+      "pubDate": "Wed, 07 May 2025 13:00:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/819b92e1969fda8cfb939fafa97369e17e3f6ede/89_0_2001_1600/master/2001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c694b1f032ffb3f3d4b19c4305e7589d"
+    },
+    {
+      "title": "‘A cemetery of trees’: vast green expanses turned to dust as loggers plunder South America’s Gran Chaco",
+      "description": "&lt;p&gt;Jaguars, giant armadillos and ocelots among species threatened by shrinking habitat in one of the richest areas of biodiversity in the world&...",
+      "link": "https://www.theguardian.com/environment/2025/may/07/a-cemetery-of-trees-vast-green-expanses-turned-to-dust-as-loggers-plunder-south-americas-gran-chaco",
+      "pubDate": "Wed, 07 May 2025 13:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b6e1257140710ade5dc6bd9b408e70ffedc4ee70/0_268_8053_4832/master/8053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1bf466b15c1558dfbdd71f6fe9cc7a68"
+    },
+    {
+      "title": "Reform’s green energy assault in Lincolnshire ‘puts 12,200 jobs at risk’",
+      "description": "&lt;p&gt;Party intends to block projects despite net zero industries contributing nearly £1bn to local economy, analysis shows&lt;/p&gt;&lt;p&gt;Refor...",
+      "link": "https://www.theguardian.com/politics/2025/may/07/reform-uk-green-energy-assault-lincolnshire-jobs-risk",
+      "pubDate": "Wed, 07 May 2025 13:00:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fc0705770243dc644676ebb141191a4f021f7f5a/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e272cc699caa1f5537e061832b3bcbe"
+    },
     {
       "title": "Blow to clean energy drive as major windfarm ditched",
       "description": "In a blow to the government's clean energy ambitions, a company cancels a huge windfarm off Yorkshire....",
@@ -101,15 +128,6 @@
       "image": "https://grist.org/wp-content/uploads/2025/05/Germany-clean-energy-transition-electricity-prices-Merz-conservatives-plan.jpeg?quality=75&amp;strip=all"
     },
     {
-      "title": "Danish firm shelves huge UK windfarm project over rising costs",
-      "description": "&lt;p&gt;Ørsted cancels fourth stage of Hornsea project off Yorkshire coast, which was set to include enough turbines to power 1m homes&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/business/2025/may/07/danish-firm-shelves-huge-uk-windfarm-project-over-rising-costs",
-      "pubDate": "Wed, 07 May 2025 08:11:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/86b55ccacc65eaed2fd4a013e35b237560bdd0fc/0_0_3546_2836/master/3546.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ed2f229816e441f47bb71a278305637"
-    },
-    {
       "title": "Want climate solutions in Indigenous territories? Better get consent.",
       "description": "For three years in a row, Indigenous leaders have called for an end to carbon markets, carbon offsets, and geoengineering technologies....",
       "link": "https://grist.org/global-indigenous-affairs-desk/want-climate-solutions-in-indigenous-territories-better-get-consent/",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Why Energy Was a Crucial Factor in the Youth Vote",
-      "description": "By Sophie Ryan, iSelect Comparison Expert   In the aftermath of this year’s Federal Election, one thing is clear: energy prices are no longer just a h...",
-      "link": "https://econews.com.au/67047/why-energy-was-a-crucial-factor-in-the-youth-vote/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-energy-was-a-crucial-factor-in-the-youth-vote",
-      "pubDate": "Wed, 07 May 2025 03:03:16 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/Friends-1024x651.jpeg"
-    },
-    {
-      "title": "Trump Aims to Fast Track Alabama Coal Build-Out, Citing US Need. Nearly All the Coal Is Bound for Export",
-      "description": "BROOKWOOD, Ala.—The Trump administration has announced it will aim to fast track the permitting and environmental review of a major coal mine expansio...",
-      "link": "https://insideclimatenews.org/news/06052025/trump-aims-to-fast-track-alabama-coal-expansion/",
-      "pubDate": "Tue, 06 May 2025 21:45:54 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
