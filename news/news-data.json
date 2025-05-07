@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-07T18:34:40.031Z",
+  "lastUpdated": "2025-05-07T19:21:23.375Z",
   "articles": [
+    {
+      "title": "How Trump’s latest rollback could raise your utility bills",
+      "description": "The Energy Star program has quietly saved Americans billions in energy costs and slashed emissions. Now it's now on the chopping block....",
+      "link": "https://grist.org/business/how-trumps-latest-rollback-could-raise-your-utility-bills/",
+      "pubDate": "Wed, 07 May 2025 19:13:30 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Smoke from climate-fueled fires in US contributed to 15,000 deaths over 15 years, study finds",
+      "description": "&lt;p&gt;Exposure to small particulate matter from fires contributes to thousands of annual deaths in US, according to study&lt;/p&gt;&lt;p&gt;Wildfir...",
+      "link": "https://www.theguardian.com/us-news/2025/may/07/wildfire-smoke-deaths-climate-crisis",
+      "pubDate": "Wed, 07 May 2025 19:10:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5098b12651f5e5ff0957d7060b64586e4ef4bd98/416_0_4168_3335/master/4168.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a61f2cfef182a9841e752fa20839a95"
+    },
     {
       "title": "Ill winds are blowing for Labour’s 2030 deadline for clean energy",
       "description": "&lt;p&gt;Loss of the vast Hornsea 4 offshore wind project is bad news but it reveals a big flaw in setting a deadline&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A &#8216;green backlash&#8217; helped conservatives win in Germany. What happens now?",
-      "description": "Conservatives led by Friedrich Merz remain committed to renewables, but say \"we must and we will change\" an economic policy focused on climate....",
-      "link": "https://grist.org/international/germany-friedrich-merz-renewables-electricity-price/",
-      "pubDate": "Wed, 07 May 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/Germany-clean-energy-transition-electricity-prices-Merz-conservatives-plan.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Want climate solutions in Indigenous territories? Better get consent.",
-      "description": "For three years in a row, Indigenous leaders have called for an end to carbon markets, carbon offsets, and geoengineering technologies....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/want-climate-solutions-in-indigenous-territories-better-get-consent/",
-      "pubDate": "Wed, 07 May 2025 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/250423_UNPFII195.jpg?quality=75&amp;strip=all"
     }
   ]
 }
