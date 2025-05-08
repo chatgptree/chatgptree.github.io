@@ -10,10 +10,7 @@ class TreeMessageBoard {
         this.lastUpdateTime = parseInt(localStorage.getItem('lastUpdateTime')) || 0;
         this.loadedDates = new Set();
         this.maxSearchDepth = 90; // Maximum days to look back
-        this.daysChunk = 2; // Search in smaller chunks
-        
-        // Critical: Force Australian Eastern time zone for all date operations
-        this.timeZone = 'Australia/Melbourne';
+        this.daysChunk = 2; // Reduced from 7 to 2
         
         this.setupEventListeners();
         this.initialize();
@@ -30,39 +27,21 @@ class TreeMessageBoard {
     }
 
     formatDatePath(date) {
-        // Format date in Australian Eastern time zone
-        // This ensures all users worldwide generate the same paths as the server
-        const year = this.getAustralianDate(date).getFullYear();
+        const year = date.getUTCFullYear();
         const month = date.toLocaleString('default', { 
             month: 'long', 
-            timeZone: this.timeZone 
+            timeZone: 'UTC' 
         }).toLowerCase();
-        
-        // Get YYYY-MM-DD in Australian time zone
-        const dateObj = this.getAustralianDate(date);
-        const dateStr = dateObj.toISOString().split('T')[0];
-        
-        console.log(`Formatting path for date: ${date.toISOString()} → ${dateStr} (${this.timeZone})`);
+        const dateStr = date.toISOString().split('T')[0];
         
         return `/messages/${year}/${month}/${dateStr}.json`;
     }
-    
-    // Critical helper method: Convert any date to Australian Eastern time
-    getAustralianDate(date) {
-        const options = { timeZone: this.timeZone };
-        const australianDateStr = date.toLocaleString('en-AU', options);
-        return new Date(australianDateStr);
-    }
 
     async loadInitialMessages() {
-        // Use current date in Australian time zone
-        const now = new Date();
-        const australianToday = this.getAustralianDate(now);
-        // Reset to start of day
-        australianToday.setHours(0, 0, 0, 0);
-        
+        const today = new Date();
         this.showLoadingSpinner();
-        console.log('Starting initial load for Australian date:', australianToday.toISOString().split('T')[0]);
+        
+        console.log('Starting initial load for date:', today);
         
         let startDay = 0;
         let messagesFound = false;
@@ -70,17 +49,14 @@ class TreeMessageBoard {
         while (!messagesFound && startDay < this.maxSearchDepth) {
             // Load next chunk of days
             for (let i = 0; i < this.daysChunk; i++) {
-                // Create date in Australian time zone
-                const date = new Date(australianToday);
+                const date = new Date(today);
                 date.setDate(date.getDate() - (startDay + i));
-                
                 const foundMessages = await this.loadDateMessages(date);
                 
                 // Check if we found any messages
                 if (foundMessages) {
                     console.log(`Found messages for date: ${date.toISOString().split('T')[0]}`);
                     messagesFound = true;
-                    break;
                 }
             }
             
@@ -96,40 +72,12 @@ class TreeMessageBoard {
             }
         }
         
-        // Try the exact dates from your example (guaranteed to work)
-        if (!messagesFound || this.messages.length === 0) {
-            console.log('No messages found in date search, trying known dates');
-            
-            // The dates from your example (converted to Date objects)
-            const knownDates = [
-                new Date('2025-03-15T06:16:26.442Z'),
-                new Date('2025-03-15T05:59:30.110Z')
-            ];
-            
-            for (const date of knownDates) {
-                console.log(`Trying exact message date: ${date.toISOString()}`);
-                // Convert to start of day in Australian time
-                const australianDate = this.getAustralianDate(date);
-                australianDate.setHours(0, 0, 0, 0);
-                await this.loadDateMessages(australianDate);
-                
-                if (this.messages.length > 0) {
-                    messagesFound = true;
-                    break;
-                }
-            }
-        }
-        
         console.log(`Total messages loaded: ${this.messages.length}`);
         this.filterAndRender();
     }
 
     async loadDateMessages(date) {
-        // Get formatted date string based on Australian time zone
-        const dateObj = this.getAustralianDate(date);
-        dateObj.setHours(0, 0, 0, 0);
-        const dateStr = dateObj.toISOString().split('T')[0];
-        
+        const dateStr = date.toISOString().split('T')[0];
         if (this.loadedDates.has(dateStr)) {
             return false;
         }
@@ -144,16 +92,14 @@ class TreeMessageBoard {
 
             if (!response.ok) {
                 console.log(`No messages found for ${dateStr} (${response.status})`);
-                this.loadedDates.add(dateStr);
                 return false;
             }
 
             const newMessages = await response.json();
             console.log(`Loaded ${newMessages.length} messages for ${dateStr}`);
             
-            if (!Array.isArray(newMessages) || newMessages.length === 0) {
-                console.log(`No messages in array for ${dateStr}`);
-                this.loadedDates.add(dateStr);
+            if (!Array.isArray(newMessages)) {
+                console.error(`Invalid messages format for ${dateStr}:`, newMessages);
                 return false;
             }
             
@@ -169,7 +115,7 @@ class TreeMessageBoard {
             }
             
             this.loadedDates.add(dateStr);
-            return newMessages.length > 0; // Return true if there were messages, even if we had them already
+            return false;
 
         } catch (error) {
             console.error(`Error loading messages for ${dateStr}:`, error);
@@ -191,20 +137,17 @@ class TreeMessageBoard {
 
             const oldestMessage = this.messages[this.messages.length - 1];
             if (oldestMessage) {
-                // Get date in Australian time zone
-                const messageDate = new Date(oldestMessage.timestamp);
-                const oldestDate = this.getAustralianDate(messageDate);
-                oldestDate.setHours(0, 0, 0, 0); // Reset to start of day
-                
-                console.log('Loading more messages before:', oldestDate.toISOString().split('T')[0]);
+                const oldestDate = new Date(oldestMessage.timestamp);
+                console.log('Loading more messages before:', oldestDate);
                 
                 let messagesFound = false;
                 let daysSearched = 0;
+                const maxDaysToSearch = 21;
                 
-                while (!messagesFound && daysSearched < this.maxSearchDepth) {
+                while (!messagesFound && daysSearched < maxDaysToSearch) {
                     for (let i = 1; i <= this.daysChunk; i++) {
                         const nextDate = new Date(oldestDate);
-                        nextDate.setDate(nextDate.getDate() - i);
+                        nextDate.setDate(nextDate.getDate() - (daysSearched + i));
                         const foundMessages = await this.loadDateMessages(nextDate);
                         
                         if (foundMessages) {
@@ -237,10 +180,7 @@ class TreeMessageBoard {
     async checkForNewMessages() {
         try {
             const now = new Date();
-            const australianToday = this.getAustralianDate(now);
-            australianToday.setHours(0, 0, 0, 0); // Reset to start of day
-            
-            await this.loadDateMessages(australianToday);
+            await this.loadDateMessages(now);
             
             if (this.messages.length > 0) {
                 const latestMessageTime = Math.max(
@@ -258,7 +198,6 @@ class TreeMessageBoard {
         }
     }
 
-    // The rest of the methods remain the same
     filterAndRender() {
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
         this.filteredMessages = [...this.messages];
@@ -419,3 +358,7 @@ class TreeMessageBoard {
         });
     }
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    window.messageBoard = new TreeMessageBoard();
+});
