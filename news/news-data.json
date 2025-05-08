@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-08T11:22:26.818Z",
+  "lastUpdated": "2025-05-08T12:53:11.750Z",
   "articles": [
+    {
+      "title": "‘We’re still living with the aftermath’: Floridians brace for fresh hurricane season",
+      "description": "&lt;p&gt;With less than a month before the start of the 2025 hurricane season, residents are still recovering from catastrophic damage from the past t...",
+      "link": "https://www.theguardian.com/us-news/2025/may/08/florida-hurricane-season",
+      "pubDate": "Thu, 08 May 2025 12:00:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/72e690631f7458f29b12bc16ffcb2c96403e9263/0_183_5500_3300/master/5500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5a94954fee8d830c2630c6abd7cc8ea"
+    },
+    {
+      "title": "In Southern Arizona, Community Opposition to Mining Grows in Towns That Once Depended on the Industry",
+      "description": "This story is co-published with&#160;Arizona Luminaria, a nonprofit newsroom dedicated to community-centered reporting. MAMMOTH, Ariz.—When Hector Den...",
+      "link": "https://insideclimatenews.org/news/08052025/southern-arizona-sky-islands-mining-opposition/",
+      "pubDate": "Thu, 08 May 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘The fledglings couldn’t escape’: Dartmoor blaze raises questions about wildfire strategy",
       "description": "&lt;p&gt;Commoners say restrictive grazing may be raising risk of fires like one that scorched 500ha of moorland&lt;/p&gt;&lt;p&gt;The spot where &lt;...",
@@ -27,6 +45,24 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/Figure_Houston1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "California Sues the Trump Administration for Violating the Constitution—Again",
+      "description": "California filed its latest lawsuit against the Trump administration Wednesday, this time for withholding billions of dollars allocated by Congress fo...",
+      "link": "https://insideclimatenews.org/news/08052025/california-sues-trump-administration-for-withholding-ev-funds/",
+      "pubDate": "Thu, 08 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Soybean Lab Scheduled to Close After USAID Cuts Gets a Year-Long Reprieve",
+      "description": "A lab focused on developing soybean farming in Africa was scheduled to shutter in April, a casualty of the Trump administration’s USAID cuts. Then a d...",
+      "link": "https://insideclimatenews.org/news/08052025/usaid-funded-soybean-lab-gets-lifeline-after-cuts/",
+      "pubDate": "Thu, 08 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "The Trump administration has all but stopped enforcing environmental laws",
@@ -110,6 +146,15 @@
       "image": "https://i.guim.co.uk/img/media/2413f1b944444522f1ca613a8f9688fb002cab8f/771_51_2355_1884/master/2355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2583996d4bed0eaa15a0623afa756fac"
     },
     {
+      "title": "With FEMA Under Fire, Congress Asks Whether Agency Is Ready for Hurricane Season",
+      "description": "With the Atlantic hurricane season only weeks away, the Federal Emergency Management Agency is facing an unprecedented level of turmoil and uncertaint...",
+      "link": "https://insideclimatenews.org/news/07052025/fema-questioned-over-canceled-grants-as-hurricane-season-approaches/",
+      "pubDate": "Wed, 07 May 2025 23:56:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Trump reportedly eyes $26m in funding cuts for US national parks",
       "description": "&lt;p&gt;New York Times reports Elon Musk’s Doge agency has created spreadsheet of federal grants earmarked for cuts &lt;/p&gt;&lt;p&gt;The Trump admi...",
       "link": "https://www.theguardian.com/us-news/2025/may/07/trump-cuts-national-parks-grants",
@@ -128,58 +173,13 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How Trump’s latest rollback could raise your utility bills",
-      "description": "The Energy Star program has quietly saved Americans billions in energy costs and has slashed emissions. Now it's now on the chopping block....",
-      "link": "https://grist.org/business/how-trumps-latest-rollback-could-raise-your-utility-bills/",
-      "pubDate": "Wed, 07 May 2025 19:13:30 +0000",
-      "sourceName": "grist.org",
+      "title": "Trump Administration Decommissions Sea Ice Data That Sounded an Alarm on Arctic Climate Change",
+      "description": "Key datasets used to monitor the impacts of climate change in the Arctic have emerged as the latest victim of cost-cutting by the Trump administration...",
+      "link": "https://insideclimatenews.org/news/07052025/trump-administration-cuts-sea-ice-data-center/",
+      "pubDate": "Wed, 07 May 2025 22:23:13 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/shower-head.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Smoke from climate-fueled fires in US contributed to 15,000 deaths in 15 years, study finds",
-      "description": "&lt;p&gt;Exposure to small particulate matter from fires contributes to thousands of annual deaths in US, according to study&lt;/p&gt;&lt;p&gt;Wildfir...",
-      "link": "https://www.theguardian.com/us-news/2025/may/07/wildfire-smoke-deaths-climate-crisis",
-      "pubDate": "Wed, 07 May 2025 19:10:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5098b12651f5e5ff0957d7060b64586e4ef4bd98/416_0_4168_3335/master/4168.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a61f2cfef182a9841e752fa20839a95"
-    },
-    {
-      "title": "Ill winds are blowing for Labour’s 2030 deadline for clean energy",
-      "description": "&lt;p&gt;Loss of the vast Hornsea 4 offshore wind project is bad news but it reveals a big flaw in setting a deadline&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/may/07/ill-winds-are-blowing-for-labours-2030-deadline-for-clean-energy",
-      "pubDate": "Wed, 07 May 2025 18:08:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a22517d8af5195ea4735a20d0862195dd8e6bbac/441_0_4415_3532/master/4415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d4710661988402bd43e34bad837170e"
-    },
-    {
-      "title": "Utility bills could rise as Trump’s EPA to end Energy Star program, experts warn",
-      "description": "&lt;p&gt;Reported closure of program for home appliances comes amid president’s hatred of water-conserving showers&lt;/p&gt;&lt;p&gt;US customers coul...",
-      "link": "https://www.theguardian.com/us-news/2025/may/07/energy-star-program-ends-utility-bills",
-      "pubDate": "Wed, 07 May 2025 15:19:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/23b796d0b431eda35cf69eb68cbf76a044dbe4e8/469_0_2522_2017/master/2522.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1444b159dffcd75d3b13b6c618cc8f5"
-    },
-    {
-      "title": "What is it like on the climate job market right now?",
-      "description": "Laid off workers are facing an uncertain and emotional job search. Here's what experts have to say about where to look — plus resources for those on t...",
-      "link": "https://grist.org/looking-forward/what-is-it-like-on-the-climate-job-market-right-now/",
-      "pubDate": "Wed, 07 May 2025 15:05:48 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/0507_GreenJobs.jpg?quality=75&amp;strip=all&amp;w=900"
-    },
-    {
-      "title": "Sea pigs, icefish and trilobites: Antarctica’s mysterious marine life – in pictures",
-      "description": "&lt;p&gt;Characterised by darkness and cold temperatures, the extreme environment of Antarctica’s deep sea is largely unexplored. Now, after a special...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/may/08/antarctica-marine-life-denman-glacier-rsv-nuyina-in-pictures",
-      "pubDate": "Wed, 07 May 2025 15:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/706924fa0d9331e9b7a1c64f9f7436f73c4e7302/463_724_6257_3754/master/6257.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d34665a83218012f3452278aad75cd6"
+      "image": "../images/header2.jpg"
     }
   ]
 }
