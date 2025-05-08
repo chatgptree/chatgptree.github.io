@@ -27,21 +27,24 @@ class TreeMessageBoard {
     }
 
     formatDatePath(date) {
+        // Always use UTC for consistent file paths regardless of user's time zone
         const year = date.getUTCFullYear();
         const month = date.toLocaleString('default', { 
             month: 'long', 
             timeZone: 'UTC' 
         }).toLowerCase();
-        const dateStr = date.toISOString().split('T')[0];
+        const dateStr = date.toISOString().split('T')[0]; // YYYY-MM-DD in UTC
         
         return `/messages/${year}/${month}/${dateStr}.json`;
     }
 
     async loadInitialMessages() {
+        // Start with UTC today to ensure consistency across all time zones
         const today = new Date();
-        this.showLoadingSpinner();
+        today.setUTCHours(0, 0, 0, 0); // Reset to start of day in UTC
         
-        console.log('Starting initial load for date:', today);
+        this.showLoadingSpinner();
+        console.log('Starting initial load for UTC date:', today.toISOString().split('T')[0]);
         
         let startDay = 0;
         let messagesFound = false;
@@ -49,14 +52,17 @@ class TreeMessageBoard {
         while (!messagesFound && startDay < this.maxSearchDepth) {
             // Load next chunk of days
             for (let i = 0; i < this.daysChunk; i++) {
+                // Create date in UTC to avoid time zone issues
                 const date = new Date(today);
-                date.setDate(date.getDate() - (startDay + i));
+                date.setUTCDate(date.getUTCDate() - (startDay + i));
+                
                 const foundMessages = await this.loadDateMessages(date);
                 
                 // Check if we found any messages
                 if (foundMessages) {
-                    console.log(`Found messages for date: ${date.toISOString().split('T')[0]}`);
+                    console.log(`Found messages for UTC date: ${date.toISOString().split('T')[0]}`);
                     messagesFound = true;
+                    break;
                 }
             }
             
@@ -69,6 +75,28 @@ class TreeMessageBoard {
                         <i class="fas fa-leaf fa-spin"></i>
                         <p>Searching older messages... (${startDay} days back)</p>
                     </div>`;
+            }
+        }
+        
+        // Also add fallback for maximum reliability
+        if (!messagesFound || this.messages.length === 0) {
+            console.log('No messages found in date search, trying known dates');
+            
+            // Try a specific known date that definitely has messages
+            // Replace these with dates you know have messages
+            const knownDates = [
+                new Date('2025-03-15T00:00:00Z'), 
+                new Date('2025-03-01T00:00:00Z'),
+                new Date('2025-02-15T00:00:00Z')
+            ];
+            
+            for (const date of knownDates) {
+                console.log(`Trying fallback date: ${date.toISOString().split('T')[0]}`);
+                await this.loadDateMessages(date);
+                if (this.messages.length > 0) {
+                    messagesFound = true;
+                    break;
+                }
             }
         }
         
@@ -92,14 +120,16 @@ class TreeMessageBoard {
 
             if (!response.ok) {
                 console.log(`No messages found for ${dateStr} (${response.status})`);
+                this.loadedDates.add(dateStr);
                 return false;
             }
 
             const newMessages = await response.json();
             console.log(`Loaded ${newMessages.length} messages for ${dateStr}`);
             
-            if (!Array.isArray(newMessages)) {
-                console.error(`Invalid messages format for ${dateStr}:`, newMessages);
+            if (!Array.isArray(newMessages) || newMessages.length === 0) {
+                console.log(`No messages in array for ${dateStr}`);
+                this.loadedDates.add(dateStr);
                 return false;
             }
             
@@ -115,7 +145,7 @@ class TreeMessageBoard {
             }
             
             this.loadedDates.add(dateStr);
-            return false;
+            return newMessages.length > 0; // Return true if there were messages, even if we had them already
 
         } catch (error) {
             console.error(`Error loading messages for ${dateStr}:`, error);
@@ -137,17 +167,18 @@ class TreeMessageBoard {
 
             const oldestMessage = this.messages[this.messages.length - 1];
             if (oldestMessage) {
+                // Create date in UTC to avoid time zone issues
                 const oldestDate = new Date(oldestMessage.timestamp);
-                console.log('Loading more messages before:', oldestDate);
+                console.log('Loading more messages before UTC date:', oldestDate.toISOString());
                 
                 let messagesFound = false;
                 let daysSearched = 0;
-                const maxDaysToSearch = 21;
+                const maxDaysToSearch = this.maxSearchDepth; // Use the same search depth
                 
                 while (!messagesFound && daysSearched < maxDaysToSearch) {
                     for (let i = 1; i <= this.daysChunk; i++) {
                         const nextDate = new Date(oldestDate);
-                        nextDate.setDate(nextDate.getDate() - (daysSearched + i));
+                        nextDate.setUTCDate(nextDate.getUTCDate() - (daysSearched + i));
                         const foundMessages = await this.loadDateMessages(nextDate);
                         
                         if (foundMessages) {
@@ -180,7 +211,10 @@ class TreeMessageBoard {
     async checkForNewMessages() {
         try {
             const now = new Date();
-            await this.loadDateMessages(now);
+            // Use UTC date for consistency
+            const today = new Date(now);
+            today.setUTCHours(0, 0, 0, 0);
+            await this.loadDateMessages(today);
             
             if (this.messages.length > 0) {
                 const latestMessageTime = Math.max(
