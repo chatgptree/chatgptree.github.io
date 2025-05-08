@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-08T08:34:15.591Z",
+  "lastUpdated": "2025-05-08T09:28:26.823Z",
   "articles": [
+    {
+      "title": "‘Astonishing journeys’: online tool tracking migratory animals highlights challenge of protecting them",
+      "description": "&lt;p&gt;The University of Queensland system is intended to give policymakers idea of how species traverse the oceans and what it will take to save th...",
+      "link": "https://www.theguardian.com/environment/2025/may/08/astonishing-journeys-online-tool-tracking-migratory-animals-highlights-challenge-of-protecting-them",
+      "pubDate": "Thu, 08 May 2025 09:01:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d79a7cd331674e73d33f3d400ccadd36818a4db6/2_454_4600_2760/master/4600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f3558625525231ebf1a67467d672199"
+    },
+    {
+      "title": "Why are all of America&#8217;s biggest cities sinking?",
+      "description": "A new study finds that the country's 28 most populous metros are losing elevation, from New York City to Seattle....",
+      "link": "https://grist.org/cities/study-biggest-cities-sinking-new-york-houston/",
+      "pubDate": "Thu, 08 May 2025 09:01:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/Figure_Houston1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The Trump administration has all but stopped enforcing environmental laws",
+      "description": "The EPA is the nation's top environmental cop. In the last few months, the federal agency has significantly scaled back pollution enforcement....",
+      "link": "https://grist.org/accountability/the-trump-administration-has-all-but-stopped-enforcing-environmental-laws/",
+      "pubDate": "Thu, 08 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/EPA-signs.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "April storms that killed 24 in US made more severe by burning fossil fuels – study",
       "description": "&lt;p&gt;Study finds human-caused climate change made four-day rainfall across central Mississippi valley 40% more likely&lt;/p&gt;&lt;p&gt;The &lt;a ...",
@@ -83,15 +110,6 @@
       "image": "https://i.guim.co.uk/img/media/f37b56f2b90909d9bebf0ba326297f9d16f8bb2f/0_261_1033_826/master/1033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3dc0068131a9188d3e97cc15af4f737"
     },
     {
-      "title": "With FEMA Under Fire, Congress Asks Whether Agency Is Ready for Hurricane Season",
-      "description": "With the Atlantic hurricane season only weeks away, the Federal Emergency Management Agency is facing an unprecedented level of turmoil and uncertaint...",
-      "link": "https://insideclimatenews.org/news/07052025/fema-questioned-over-canceled-grants-as-hurricane-season-approaches/",
-      "pubDate": "Wed, 07 May 2025 23:56:31 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Trump reportedly eyes $26m in funding cuts for US national parks",
       "description": "&lt;p&gt;New York Times reports Elon Musk’s Doge agency has created spreadsheet of federal grants earmarked for cuts &lt;/p&gt;&lt;p&gt;The Trump admi...",
       "link": "https://www.theguardian.com/us-news/2025/may/07/trump-cuts-national-parks-grants",
@@ -106,15 +124,6 @@
       "link": "https://www.bbc.com/news/articles/cy9vz28nyedo",
       "pubDate": "Wed, 07 May 2025 23:02:23 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Administration Decommissions Sea Ice Data That Sounded an Alarm on Arctic Climate Change",
-      "description": "Key datasets used to monitor the impacts of climate change in the Arctic have emerged as the latest victim of cost-cutting by the Trump administration...",
-      "link": "https://insideclimatenews.org/news/07052025/trump-administration-cuts-sea-ice-data-center/",
-      "pubDate": "Wed, 07 May 2025 22:23:13 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -144,15 +153,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a22517d8af5195ea4735a20d0862195dd8e6bbac/441_0_4415_3532/master/4415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d4710661988402bd43e34bad837170e"
-    },
-    {
-      "title": "Elk could return to UK after 3,000 years in rewilding project",
-      "description": "&lt;p&gt;First stage of initiative will introduce ‘keystone’ species to beaver enclosures in Derbyshire and Nottinghamshire&lt;/p&gt;&lt;p&gt;Elk coul...",
-      "link": "https://www.theguardian.com/environment/2025/may/07/elk-uk-rewilding-project-derbyshire-nottinghamshire",
-      "pubDate": "Wed, 07 May 2025 16:51:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bc27c18cbf4e8eb49a76206f12cbfa70ec974af4/0_843_2988_2389/master/2988.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4f70b28b191983fcde77e69fcab0312"
     },
     {
       "title": "Utility bills could rise as Trump’s EPA to end Energy Star program, experts warn",
