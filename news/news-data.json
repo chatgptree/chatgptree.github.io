@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-07T23:24:32.782Z",
+  "lastUpdated": "2025-05-08T02:05:29.123Z",
   "articles": [
+    {
+      "title": "With FEMA Under Fire, Congress Asks Whether Agency Is Ready for Hurricane Season",
+      "description": "With the Atlantic hurricane season only weeks away, the Federal Emergency Management Agency is facing an unprecedented level of turmoil and uncertaint...",
+      "link": "https://insideclimatenews.org/news/07052025/fema-questioned-over-canceled-grants-as-hurricane-season-approaches/",
+      "pubDate": "Wed, 07 May 2025 23:56:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump reportedly eyes $26m in funding cuts for US national parks",
       "description": "&lt;p&gt;New York Times reports Elon Musk’s Doge agency has created spreadsheet of federal grants earmarked for cuts &lt;/p&gt;&lt;p&gt;The Trump admi...",
@@ -9,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bc3672b3b6ddfcd9edb7f1714705101b368541bc/780_0_4663_3733/master/4663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abbabd25d6d5524e475282ec0d4335ed"
+    },
+    {
+      "title": "Soviet-era spacecraft likely to crash back to Earth",
+      "description": "The spacecraft was meant to go to Venus but has been stuck in orbit for more than 50 years....",
+      "link": "https://www.bbc.com/news/articles/cy9vz28nyedo",
+      "pubDate": "Wed, 07 May 2025 23:02:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Trump Administration Decommissions Sea Ice Data That Sounded an Alarm on Arctic Climate Change",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3e4ba1e0f374ad15f86189e9e494ee8e2cc9ef24/0_0_2560_1536/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9cf178507850d6d5261866f046ecc6a"
-    },
-    {
-      "title": "Scientists Forecast a Big Increase of Clear-Air Turbulence That Could Lead to Bumpier Flights",
-      "description": "VIENNA—Scientists at the European Geosciences Union conference last week said there is growing scientific evidence that global warming is driving a bi...",
-      "link": "https://insideclimatenews.org/news/07052025/clear-air-turbulence-could-lead-to-bumpier-flights/",
-      "pubDate": "Wed, 07 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Seaweed Could Reduce Methane Emissions from Grazing Cattle, New Study Shows",
-      "description": "New research from the University of California, Davis on feeding seaweed to grazing cattle shows that the practice could significantly reduce the gree...",
-      "link": "https://insideclimatenews.org/news/07052025/seaweed-could-reduce-cattle-methane-emissions/",
-      "pubDate": "Wed, 07 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
