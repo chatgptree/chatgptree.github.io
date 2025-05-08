@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-08T12:53:11.750Z",
+  "lastUpdated": "2025-05-08T13:36:32.666Z",
   "articles": [
+    {
+      "title": "Plastics industry pushed ‘advanced recycling’ despite knowing problems – report",
+      "description": "&lt;p&gt;Producers promoted chemical recycling – processes used to break plastics into constituent molecules – but knew of limitations&lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/environment/2025/may/06/plastic-advanced-recycling-report",
+      "pubDate": "Thu, 08 May 2025 13:01:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e4c77739a79b88972b6e6f044d7914f106841693/0_201_5895_3539/master/5895.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0db8d84562d6c3b778d69fc5ed74fca4"
+    },
+    {
+      "title": "Despite Federal Challenges, Two Leading Solar Advocates Are Continuing Their Forward Push",
+      "description": "Two organizations that operate close to the grassroots of solar power are struggling with the chaos of the Trump administration while also feeling inv...",
+      "link": "https://insideclimatenews.org/news/08052025/inside-clean-energy-solar-advocates-handle-adversity-under-trump/",
+      "pubDate": "Thu, 08 May 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Plastics companies know about chemical recycling’s shortcomings — but still sell it as a solution",
+      "description": "A new report casts doubt on industry narratives about the “revolutionary” technology....",
+      "link": "https://grist.org/accountability/fraud-advanced-chemical-recycling-report-center-climate-integrity/",
+      "pubDate": "Thu, 08 May 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/02/box-of-recyclables.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "‘We’re still living with the aftermath’: Floridians brace for fresh hurricane season",
       "description": "&lt;p&gt;With less than a month before the start of the 2025 hurricane season, residents are still recovering from catastrophic damage from the past t...",
@@ -92,51 +119,6 @@
       "image": "https://i.guim.co.uk/img/media/f33b5eb495c0d080ec4ce3fc3a7f450473bfa6e3/1316_0_6582_5268/master/6582.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1a0fe7e64f0970ebb876a3113fcc8a0"
     },
     {
-      "title": "Smart spongy device captures water from thin air",
-      "description": "A pair of tweezers squeezes water from the spongy material developed by the team. Credit: Xingying Zhang RMIT University Engineers from Australia and ...",
-      "link": "https://econews.com.au/67065/smart-spongy-device-captures-water-from-thin-air/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=smart-spongy-device-captures-water-from-thin-air",
-      "pubDate": "Thu, 08 May 2025 04:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/10/RMIT-logo.png"
-    },
-    {
-      "title": "Environmental toll of Melbourne’s urban sprawl to be revealed at top international exhibition",
-      "description": "Monash experts Professor Louise Wright and Associate Professor Catherine Murphy (pictured) say Melbourne’s urban sprawl has come at a great cost to ha...",
-      "link": "https://econews.com.au/67063/environmental-toll-of-melbournes-urban-sprawl-to-be-revealed-at-top-international-exhibition/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=environmental-toll-of-melbournes-urban-sprawl-to-be-revealed-at-top-international-exhibition",
-      "pubDate": "Thu, 08 May 2025 04:03:12 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "Repair It Lake Mac Returns to Warners Bay Theatre for a Day of Fixing, Connecting, and Community Spirit",
-      "description": "This Saturday 10 May, Repair It Lake Mac invites the community to join its repair café, running from 10am to 12:30pm this time at the Warners Bay Thea...",
-      "link": "https://econews.com.au/67061/repair-it-lake-mac-returns-to-warners-bay-theatre-for-a-day-of-fixing-connecting-and-community-spirit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=repair-it-lake-mac-returns-to-warners-bay-theatre-for-a-day-of-fixing-connecting-and-community-spirit",
-      "pubDate": "Thu, 08 May 2025 04:03:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "From synthetic data to AI agents, new SAS Viya innovations boost speed, productivity and trust",
-      "description": "Data and AI leader SAS today announced its latest offerings on the SAS® Viya® platform, spanning the latest leaps in AI advancement to scale and galva...",
-      "link": "https://econews.com.au/67059/from-synthetic-data-to-ai-agents-new-sas-viya-innovations-boost-speed-productivity-and-trust/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=from-synthetic-data-to-ai-agents-new-sas-viya-innovations-boost-speed-productivity-and-trust",
-      "pubDate": "Thu, 08 May 2025 04:03:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Australian engineers and architects are relying on AI every day to design cities and infrastructure, global survey reveals",
-      "description": "Global survey reveals 32% of engineers, architects, city planners, and digital leaders in Australia are relying on AI daily, compared to 33% globally....",
-      "link": "https://econews.com.au/67057/australian-engineers-and-architects-are-relying-on-ai-every-day-to-design-cities-and-infrastructure-global-survey-reveals/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australian-engineers-and-architects-are-relying-on-ai-every-day-to-design-cities-and-infrastructure-global-survey-reveals",
-      "pubDate": "Thu, 08 May 2025 04:03:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
       "title": "Scorpions ‘taking over’ Brazilian cities with reported stings rising 250%",
       "description": "&lt;p&gt;Fast and unplanned growth of cities providing ideal conditions for the creatures to thrive, say researchers&lt;/p&gt;&lt;p&gt;Scorpions are “...",
       "link": "https://www.theguardian.com/global-development/2025/may/08/scorpion-stings-rise-brazil-cities-aoe",
@@ -180,6 +162,24 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Trump’s latest rollback could raise your utility bills",
+      "description": "The Energy Star program has quietly saved Americans billions in energy costs and has slashed emissions. Now it's now on the chopping block....",
+      "link": "https://grist.org/business/how-trumps-latest-rollback-could-raise-your-utility-bills/",
+      "pubDate": "Wed, 07 May 2025 19:13:30 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/shower-head.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Smoke from climate-fueled fires in US contributed to 15,000 deaths in 15 years, study finds",
+      "description": "&lt;p&gt;Exposure to small particulate matter from fires contributes to thousands of annual deaths in US, according to study&lt;/p&gt;&lt;p&gt;Wildfir...",
+      "link": "https://www.theguardian.com/us-news/2025/may/07/wildfire-smoke-deaths-climate-crisis",
+      "pubDate": "Wed, 07 May 2025 19:10:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5098b12651f5e5ff0957d7060b64586e4ef4bd98/416_0_4168_3335/master/4168.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a61f2cfef182a9841e752fa20839a95"
     }
   ]
 }
