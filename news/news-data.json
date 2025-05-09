@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-09T12:51:37.482Z",
+  "lastUpdated": "2025-05-09T13:33:59.670Z",
   "articles": [
+    {
+      "title": "Plastics in everyday objects may disrupt sleep in same way as caffeine, study finds",
+      "description": "&lt;p&gt;Findings show for first time how plastic chemicals throw off the body’s internal clock by up to 17 minutes&lt;/p&gt;&lt;p&gt;Chemicals in eve...",
+      "link": "https://www.theguardian.com/environment/2025/may/09/plastic-chemicals-sleep",
+      "pubDate": "Fri, 09 May 2025 13:15:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cb49a9249fdd214ec4a4c7e27496bb0dc3b1f685/576_0_6629_5304/master/6629.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80141478fea12073f6432c5ac3ca2a9f"
+    },
     {
       "title": "Two men found guilty of ‘mindless, moronic’ felling of Sycamore Gap tree",
       "description": "&lt;p&gt;Daniel Graham, 39, and Adam Carruthers, 32, found to have criminally damaged tree and Hadrian’s Wall&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=...",
@@ -27,15 +36,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Midsummer butterflies spotted early in Britain after sunny spring",
-      "description": "&lt;p&gt;Scientists fear early emerging insects may fall out of sync with pathogens, predators or availability of food&lt;/p&gt;&lt;p&gt;Midsummer but...",
-      "link": "https://www.theguardian.com/environment/2025/may/09/midsummer-butterlies-spotted-early-in-britain-after-sunny-spring",
-      "pubDate": "Fri, 09 May 2025 09:04:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b1a8b76e5495956cf21a72671af7075bc3e14fc0/16_0_4405_3525/master/4405.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2940576abf61dacb1e13c3dfd6836ee2"
     },
     {
       "title": "New PacifiCorp Forecast Sees More Fossil-Fueled Electricity. How Will That Affect Western Energy Jobs?",
@@ -179,7 +179,7 @@
       "pubDate": "Thu, 08 May 2025 22:55:07 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2024/09/GettyImages-2174061526_Helene-flooding-North-Carolina.jpg?quality=75&#038;strip=all"
     }
   ]
 }
