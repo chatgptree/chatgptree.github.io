@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-09T20:30:00.364Z",
+  "lastUpdated": "2025-05-09T21:25:06.240Z",
   "articles": [
+    {
+      "title": "Captive-Bred Axolotls Were Successfully Introduced to the Wild. Can This Work for Other Species?",
+      "description": "If an animal is born in captivity, can it ever truly thrive in the wild? The answer is complicated.&#160; As escalating threats, from climate change t...",
+      "link": "https://insideclimatenews.org/news/09052025/todays-climate-axolotls-conservation-breeding-success/",
+      "pubDate": "Fri, 09 May 2025 21:02:52 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "April storms that killed 24 in US made more severe by burning fossil fuels – study",
       "description": "&lt;p&gt;Study finds human-caused climate change made four-day rainfall across central Mississippi valley 40% more likely&lt;/p&gt;&lt;p&gt;The &lt;a ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/228d4d769fa58cd0b417add1b081c1ee597929e3/425_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3deae2053dfec3ba2f732a18c79c297"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "A new study says 99.999% of the world’s deep seafloor is still unseen by humans....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002bt8r",
-      "pubDate": "Thu, 08 May 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
