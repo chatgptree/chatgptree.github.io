@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-09T05:25:55.186Z",
+  "lastUpdated": "2025-05-09T06:38:46.605Z",
   "articles": [
+    {
+      "title": "Week in wildlife: A rare chameleon, friendly starlings and hot buffaloes",
+      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/may/09/week-in-wildlife-a-rare-chameleon-friendly-starlings-and-hot-buffaloes",
+      "pubDate": "Fri, 09 May 2025 06:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b9280bdde157c45705c4303cfd9e1d6861561053/0_174_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e436be436a875156b1d43d8a530137e1"
+    },
+    {
+      "title": "Litter 'nightmare' as street cleanliness worst on record",
+      "description": "Residents say litter near their homes is \"heart-breaking\" as survey finds worst situation on record....",
+      "link": "https://www.bbc.com/news/articles/c1dr1k6933no",
+      "pubDate": "Fri, 09 May 2025 05:08:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "If illegal logging starts again, Liberia could lose more than its beloved pygmy hippos | Ellen Johnson Sirleaf",
       "description": "&lt;p&gt;About 270,000 people died in Liberia’s timber trade-fuelled civil war. I helped to rebuild and protect its forests. Now Europe is threatening...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Soybean Lab Scheduled to Close After USAID Cuts Gets a Year-Long Reprieve",
-      "description": "A lab focused on developing soybean farming in Africa was scheduled to shutter in April, a casualty of the Trump administration’s USAID cuts. Then a d...",
-      "link": "https://insideclimatenews.org/news/08052025/usaid-funded-soybean-lab-gets-lifeline-after-cuts/",
-      "pubDate": "Thu, 08 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Trump administration has all but stopped enforcing environmental laws",
-      "description": "The EPA is the nation's top environmental cop. In the last few months, the federal agency has significantly scaled back pollution enforcement....",
-      "link": "https://grist.org/accountability/the-trump-administration-has-all-but-stopped-enforcing-environmental-laws/",
-      "pubDate": "Thu, 08 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/EPA-signs.jpg?quality=75&#038;strip=all"
     }
   ]
 }
