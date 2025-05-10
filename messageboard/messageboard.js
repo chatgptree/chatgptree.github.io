@@ -27,6 +27,7 @@ class TreeMessageBoard {
     }
 
     formatDatePath(date) {
+        // Key change: Use UTC consistently for all date path formatting
         const year = date.getUTCFullYear();
         const month = date.toLocaleString('default', { 
             month: 'long', 
@@ -49,14 +50,29 @@ class TreeMessageBoard {
         while (!messagesFound && startDay < this.maxSearchDepth) {
             // Load next chunk of days
             for (let i = 0; i < this.daysChunk; i++) {
+                // KEY FIX: Use UTC for date calculations
                 const date = new Date(today);
-                date.setDate(date.getDate() - (startDay + i));
+                date.setUTCDate(date.getUTCDate() - (startDay + i));
+                
                 const foundMessages = await this.loadDateMessages(date);
                 
+                // Also check adjacent dates to handle timezone boundary issues
+                if (!foundMessages && i === 0) {
+                    // Check the day before and after in case of timezone boundaries
+                    const dayBefore = new Date(date);
+                    dayBefore.setUTCDate(dayBefore.getUTCDate() - 1);
+                    await this.loadDateMessages(dayBefore);
+                    
+                    const dayAfter = new Date(date);
+                    dayAfter.setUTCDate(dayAfter.getUTCDate() + 1);
+                    await this.loadDateMessages(dayAfter);
+                }
+                
                 // Check if we found any messages
-                if (foundMessages) {
+                if (this.messages.length > 0) {
                     console.log(`Found messages for date: ${date.toISOString().split('T')[0]}`);
                     messagesFound = true;
+                    break;
                 }
             }
             
@@ -92,6 +108,7 @@ class TreeMessageBoard {
 
             if (!response.ok) {
                 console.log(`No messages found for ${dateStr} (${response.status})`);
+                this.loadedDates.add(dateStr);
                 return false;
             }
 
@@ -146,8 +163,9 @@ class TreeMessageBoard {
                 
                 while (!messagesFound && daysSearched < maxDaysToSearch) {
                     for (let i = 1; i <= this.daysChunk; i++) {
+                        // KEY FIX: Use UTC for date calculations
                         const nextDate = new Date(oldestDate);
-                        nextDate.setDate(nextDate.getDate() - (daysSearched + i));
+                        nextDate.setUTCDate(nextDate.getUTCDate() - (daysSearched + i));
                         const foundMessages = await this.loadDateMessages(nextDate);
                         
                         if (foundMessages) {
@@ -179,8 +197,20 @@ class TreeMessageBoard {
 
     async checkForNewMessages() {
         try {
+            // KEY FIX: Use UTC date for checking new messages
             const now = new Date();
-            await this.loadDateMessages(now);
+            const utcToday = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+            
+            await this.loadDateMessages(utcToday);
+            
+            // Also check adjacent dates to catch timezone boundary messages
+            const yesterday = new Date(utcToday);
+            yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+            await this.loadDateMessages(yesterday);
+            
+            const tomorrow = new Date(utcToday);
+            tomorrow.setUTCDate(tomorrow.getUTCDate() + 1);
+            await this.loadDateMessages(tomorrow);
             
             if (this.messages.length > 0) {
                 const latestMessageTime = Math.max(
@@ -198,6 +228,7 @@ class TreeMessageBoard {
         }
     }
 
+    // Rest of the methods remain the same
     filterAndRender() {
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
         this.filteredMessages = [...this.messages];
