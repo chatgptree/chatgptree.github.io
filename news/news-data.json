@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-10T15:26:53.496Z",
+  "lastUpdated": "2025-05-10T16:29:41.839Z",
   "articles": [
+    {
+      "title": "Soviet-era spacecraft 'likely' to have re-entered Earth's atmosphere",
+      "description": "The spacecraft, which launched in 1972 on a mission to Venus, circled Earth for over five decades. ...",
+      "link": "https://www.bbc.com/news/articles/cy9vz28nyedo",
+      "pubDate": "Sat, 10 May 2025 15:32:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The hidden underwater eden of ‘California’s Galapagos’, where kelp, sea lions and giant bass reign",
       "description": "&lt;p&gt;On the remote Channel Islands, a draw for researchers and divers, preservation has transformed the ecosystem&lt;/p&gt;&lt;p&gt;Just 14 miles ...",
@@ -119,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/049e988b9122d7d3580774c6773ca0b8151a53e0/9_0_4963_3970/master/4963.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adb33629890be90a18626cf8d112e370"
     },
     {
-      "title": "Soviet-era spacecraft set to crash back to Earth",
-      "description": "The spacecraft was meant to go to Venus but has been stuck in orbit for more than 50 years....",
-      "link": "https://www.bbc.com/news/articles/cy9vz28nyedo",
-      "pubDate": "Fri, 09 May 2025 09:34:59 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "New PacifiCorp Forecast Sees More Fossil-Fueled Electricity. How Will That Affect Western Energy Jobs?",
       "description": "PacifiCorp, the parent company of Rocky Mountain Power, is walking back plans to grow its renewable energy portfolio, instead forecasting that coal pl...",
       "link": "https://insideclimatenews.org/news/09052025/mountain-west-slow-energy-transition-could-cost-jobs/",
@@ -173,13 +173,13 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Week in wildlife: A rare chameleon, friendly starlings and hot buffaloes",
-      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/may/09/week-in-wildlife-a-rare-chameleon-friendly-starlings-and-hot-buffaloes",
-      "pubDate": "Fri, 09 May 2025 06:00:51 GMT",
-      "sourceName": "theguardian.com",
+      "title": "Logitech Delivers Sustainable Communication Solution for ACCIONA’s Australian Mega-Projects",
+      "description": "Logitech ANZ, a leader in video conferencing and collaboration solutions, today announced the successful completion of a significant communication and...",
+      "link": "https://econews.com.au/67075/logitech-delivers-sustainable-communication-solution-for-accionas-australian-mega-projects/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=logitech-delivers-sustainable-communication-solution-for-accionas-australian-mega-projects",
+      "pubDate": "Fri, 09 May 2025 08:02:54 +0000",
+      "sourceName": "econews.com.au",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/1b73cf56ca83e1716f958625324181ff25450406/586_608_6120_4896/master/6120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2588bc82886b06585566f1e5cebfcec"
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/logitech2.png"
     }
   ]
 }
