@@ -1,5 +1,33 @@
 class TreeMessageBoard {
     constructor() {
+        // Force refresh mechanism - increment the version when you want to force a refresh
+        const CURRENT_VERSION = 2; // Increment this number to force a refresh for all users
+        const storedVersion = parseInt(localStorage.getItem('messageBoardVersion')) || 0;
+        
+        if (storedVersion < CURRENT_VERSION) {
+            // Clear all relevant cached data
+            console.log('Clearing cached data for new version...');
+            
+            // Clear message board specific localStorage items
+            localStorage.removeItem('lastUpdateTime');
+            localStorage.removeItem('messageBoardDiagnostics');
+            localStorage.setItem('messageBoardVersion', CURRENT_VERSION);
+            
+            // Clear the cache for service workers if you have any
+            if ('caches' in window) {
+                caches.keys().then(names => {
+                    names.forEach(name => {
+                        caches.delete(name);
+                    });
+                });
+            }
+            
+            // Force reload the page to ensure fresh resources
+            window.location.reload(true);
+            return; // Stop constructor execution as page will reload
+        }
+        
+        // Original constructor code continues here...
         this.messages = [];
         this.filteredMessages = [];
         this.currentFilter = 'all';
@@ -228,7 +256,6 @@ class TreeMessageBoard {
         }
     }
 
-    // Rest of the methods remain the same
     filterAndRender() {
         const searchTerm = (this.searchInput?.value || '').toLowerCase();
         this.filteredMessages = [...this.messages];
