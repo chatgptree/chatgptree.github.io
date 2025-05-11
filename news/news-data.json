@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-11T12:47:53.771Z",
+  "lastUpdated": "2025-05-11T13:29:33.651Z",
   "articles": [
+    {
+      "title": "FEMA is ending door-to-door canvassing in disaster areas",
+      "description": "As it shifts responsibility for recovery efforts to local authorities, FEMA workers will stop knocking on doors to provide aid to survivors in disaste...",
+      "link": "https://grist.org/politics/fema-is-ending-door-to-door-canvassing-in-disaster-areas/",
+      "pubDate": "Sun, 11 May 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/09/GettyImages-2174061526_Helene-flooding-North-Carolina.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Want to know how the world really ends? Look to TV show Families Like Ours | John Harris",
       "description": "&lt;p&gt;The Danish drama is piercing in its ordinariness. In the real world, the climate crisis worsens and authoritarians take charge as we calmly l...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4299d413a4e86de37b8f892c52b26b4e5aa5be8e/590_0_5911_4730/master/5911.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89fa9282c5038f59e1ae9cc79f7b4b4f"
-    },
-    {
-      "title": "New PacifiCorp Forecast Sees More Fossil-Fueled Electricity. How Will That Affect Western Energy Jobs?",
-      "description": "PacifiCorp, the parent company of Rocky Mountain Power, is walking back plans to grow its renewable energy portfolio, instead forecasting that coal pl...",
-      "link": "https://insideclimatenews.org/news/09052025/mountain-west-slow-energy-transition-could-cost-jobs/",
-      "pubDate": "Fri, 09 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
