@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-13T08:34:56.409Z",
+  "lastUpdated": "2025-05-13T09:28:26.937Z",
   "articles": [
+    {
+      "title": "Texas Oil and Gas Companies Drill With River Water During Extreme Drought",
+      "description": "PECOS, Texas—Extreme drought has diminished the flows of the Rio Grande and Pecos River, two of the most iconic waterways in Texas.&#160; The advocacy...",
+      "link": "https://insideclimatenews.org/news/13052025/texas-rio-grande-pecos-river-fracking/",
+      "pubDate": "Tue, 13 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Swamp Coolers’ Ability to Beat the Heat is Evaporating in Record Southwestern Temperatures",
+      "description": "“I just couldn't think straight,” Albuquerque resident Becky Wood said, describing what it felt like attempting to get work done in an 85-degree house...",
+      "link": "https://insideclimatenews.org/news/13052025/southwest-swamp-coolers-affected-by-high-temperatures/",
+      "pubDate": "Tue, 13 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "This snack company is trying to change the way you think about chocolate",
+      "description": "Making chocolate wastes most of the cacao plant. Are you ready to try other parts of the cacao fruit?...",
+      "link": "https://grist.org/food-and-agriculture/blue-stripes-cacao-farmers-chocolate-industry-pulp-fruit-husk-ecuador/",
+      "pubDate": "Tue, 13 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/oded-brenner-max-brenner-chocolate-pizza.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Georgia&#8217;s beloved shrimp industry grapples with disease and foreign imports",
       "description": "Climate change is making things worse. ...",
@@ -74,8 +101,8 @@
       "image": "https://i.guim.co.uk/img/media/3cc507ad856b81b83b3f37f2841205cce636ccc5/524_0_4436_3549/master/4436.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f81110254eed059f41f55592c1f9ec4"
     },
     {
-      "title": "Tory shadow energy minister claims 2050 net zero goal ‘not based on science’",
-      "description": "&lt;p&gt;Exclusive: Andrew Bowie calls climate scientists biased and says country should not be ‘hamstrung by arbitrary targets’&lt;/p&gt;&lt;p&gt;The...",
+      "title": "Tory energy spokesman claims UN climate experts are ‘biased’",
+      "description": "&lt;p&gt;Exclusive: Andrew Bowie says Kemi Badenoch could pull UK out of Paris climate agreement&lt;/p&gt;&lt;p&gt;The Conservative party’s energy spo...",
       "link": "https://www.theguardian.com/politics/2025/may/13/tory-shadow-energy-minister-claims-2050-net-zero-goal-not-based-on-science",
       "pubDate": "Tue, 13 May 2025 04:00:30 GMT",
       "sourceName": "theguardian.com",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The misleading accounting behind your ‘recycled’ plastic",
-      "description": "A convoluted credit system allows companies to label virgin plastic as recycled. Here's how it works....",
-      "link": "https://grist.org/accountability/recycled-packaging-triscuit-mondelez-mass-balance-chemical-recycling/",
-      "pubDate": "Mon, 12 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/Triscuit-boxes.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Sinkholes and the people who love them",
-      "description": "As climate change makes sinkholes more common, more and more people are finding \"a love of all things holey.\"...",
-      "link": "https://grist.org/arts-culture/sinkholes-and-the-people-who-love-them/",
-      "pubDate": "Mon, 12 May 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/sinkholes-climate-rain.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Deforestation and illegal evictions threaten Malaysia&#8217;s Indigenous peoples",
-      "description": "New report says the government ignores local and international laws that protect Indigenous rights....",
-      "link": "https://grist.org/indigenous/deforestation-and-illegal-evictions-threaten-malaysias-indigenous-peoples/",
-      "pubDate": "Mon, 12 May 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2023/06/amazon-deforestation-road.jpg?quality=75&#038;strip=all"
     }
   ]
 }
