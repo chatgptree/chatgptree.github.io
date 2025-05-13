@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-13T04:31:36.234Z",
+  "lastUpdated": "2025-05-13T05:28:24.770Z",
   "articles": [
+    {
+      "title": "Brontë country to become protected national nature reserve",
+      "description": "&lt;p&gt;The 1,274-hectare Bradford Pennine Gateway links eight nature sites and includes landscape that inspired sisters&lt;/p&gt;&lt;p&gt;The sweepi...",
+      "link": "https://www.theguardian.com/environment/2025/may/13/bronte-country-national-nature-reserve-bradford-pennine-gateway",
+      "pubDate": "Tue, 13 May 2025 05:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3cc507ad856b81b83b3f37f2841205cce636ccc5/524_0_4436_3549/master/4436.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f81110254eed059f41f55592c1f9ec4"
+    },
     {
       "title": "Tory shadow energy minister claims 2050 net zero goal ‘not based on science’",
       "description": "&lt;p&gt;Exclusive: Andrew Bowie calls climate scientists biased and says country should not be ‘hamstrung by arbitrary targets’&lt;/p&gt;&lt;p&gt;The...",
@@ -15,15 +24,6 @@
       "description": "Severe air pollution is obscuring visibility of the highest mountain peaks on Earth, hitting tourism hard....",
       "link": "https://www.bbc.com/news/articles/cvgdl092jj5o",
       "pubDate": "Tue, 13 May 2025 01:20:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists in a race to discover why the Universe exists",
-      "description": "Researchers in the US and Japan are racing to build new particle detectors that they hope will explain why the Universe exists....",
-      "link": "https://www.bbc.com/news/articles/cjwvgevjjl6o",
-      "pubDate": "Tue, 13 May 2025 00:09:13 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -72,15 +72,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9ec97ff21ca763ecc61a4db17a17d5805aabe92e/604_0_6043_4835/master/6043.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d42a992f01b69ff9979390bf6b22bd7a"
-    },
-    {
-      "title": "Cobalt firm taps in to electric car boom with £174m London stock market float",
-      "description": "&lt;p&gt;Cobalt Holdings aims to buy up supply of the metal from Glencore as slowing EV growth has pushed down prices&lt;/p&gt;&lt;p&gt;A cobalt tradi...",
-      "link": "https://www.theguardian.com/business/2025/may/12/cobalt-electric-car-boom-london-stock-market-float-glencore-ev-prices",
-      "pubDate": "Mon, 12 May 2025 14:54:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7452d5fffb604d7b10c36ad1ede9a70aee34910a/758_0_4199_3360/master/4199.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bfce557f7cb5bfd34d0b0f37d8001c4"
     },
     {
       "title": "Northeastern States Unveil New Grid Planning Strategy in Attempt to Regain Control Over Energy Future",
@@ -146,15 +137,6 @@
       "image": "https://i.guim.co.uk/img/media/5e9d05b408d4e185c3a2ec59cd5c332fba5c7a26/1066_216_6074_4860/master/6074.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78c5a90bf1241d3f397ed9562b0b4128"
     },
     {
-      "title": "Recommerce Revolution: How eBay is Unlocking a $367 Billion Opportunity in Circular Fashion",
-      "description": "Anne Marie Cheney As the global secondhand market accelerates toward a projected $367 billion by 2029, recommerce is reshaping the future of fashion r...",
-      "link": "https://econews.com.au/67077/recommerce-revolution-how-ebay-is-unlocking-a-367-billion-opportunity-in-circular-fashion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=recommerce-revolution-how-ebay-is-unlocking-a-367-billion-opportunity-in-circular-fashion",
-      "pubDate": "Mon, 12 May 2025 03:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
       "title": "FEMA is ending door-to-door canvassing in disaster areas",
       "description": "As it shifts responsibility for recovery efforts to local authorities, FEMA workers will stop knocking on doors to provide aid to survivors in disaste...",
       "link": "https://grist.org/politics/fema-is-ending-door-to-door-canvassing-in-disaster-areas/",
@@ -180,6 +162,24 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/dc5ac761808be733f32db6cfae600ca614cc2f6e/56_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec498281e394697ddf75a3464d3e4578"
+    },
+    {
+      "title": "Alabamians Want Answers About a Four-Million-Square-Foot Data Center Coming to Their Backyards",
+      "description": "BESSEMER, Ala.—They all came here for peace, and so far, the land has given it to them. For Marshall Killingsworth, the peace comes from the owls whos...",
+      "link": "https://insideclimatenews.org/news/11052025/bessemer-alabama-proposed-data-center/",
+      "pubDate": "Sun, 11 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Federal Incentive Rollbacks Loom, Could the Heat Pump Revolution Stall Out?",
+      "description": "PHILADELPHIA—It was an unseasonably warm spring day, and Jackie Robinson was keen to show off a machine that many climate advocates say is the cooling...",
+      "link": "https://insideclimatenews.org/news/11052025/federal-funding-rollbacks-could-stall-heat-pump-revolution/",
+      "pubDate": "Sun, 11 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     }
   ]
 }
