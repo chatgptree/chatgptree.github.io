@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-12T23:23:56.483Z",
+  "lastUpdated": "2025-05-13T02:05:58.762Z",
   "articles": [
+    {
+      "title": "Why the mighty Himalayas are getting harder and harder to see",
+      "description": "Severe air pollution is obscuring visibility of the highest mountain peaks on Earth, hitting tourism hard....",
+      "link": "https://www.bbc.com/news/articles/cvgdl092jj5o",
+      "pubDate": "Tue, 13 May 2025 01:20:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists in a race to discover why the Universe exists",
+      "description": "Researchers in the US and Japan are racing to build new particle detectors that they hope will explain why the Universe exists....",
+      "link": "https://www.bbc.com/news/articles/cjwvgevjjl6o",
+      "pubDate": "Tue, 13 May 2025 00:09:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Policy Experts Fear Laxer Climate Rules Could Leave U.S. Markets Open to Greater Volatility",
       "description": "Experts and advocates reacted with concern and disappointment after the world’s top financial regulators agreed on Monday to shift the climate focus o...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/dc5ac761808be733f32db6cfae600ca614cc2f6e/56_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec498281e394697ddf75a3464d3e4578"
-    },
-    {
-      "title": "Alabamians Want Answers About a Four-Million-Square-Foot Data Center Coming to Their Backyards",
-      "description": "BESSEMER, Ala.—They all came here for peace, and so far, the land has given it to them. For Marshall Killingsworth, the peace comes from the owls whos...",
-      "link": "https://insideclimatenews.org/news/11052025/bessemer-alabama-proposed-data-center/",
-      "pubDate": "Sun, 11 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Federal Incentive Rollbacks Loom, Could the Heat Pump Revolution Stall Out?",
-      "description": "PHILADELPHIA—It was an unseasonably warm spring day, and Jackie Robinson was keen to show off a machine that many climate advocates say is the cooling...",
-      "link": "https://insideclimatenews.org/news/11052025/federal-funding-rollbacks-could-stall-heat-pump-revolution/",
-      "pubDate": "Sun, 11 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
