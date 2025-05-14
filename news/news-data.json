@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-14T08:34:17.586Z",
+  "lastUpdated": "2025-05-14T09:28:14.106Z",
   "articles": [
+    {
+      "title": "USDA Staffing and Funding Cuts Would Threaten Virginia’s Ability to Reach Chesapeake Bay Cleanup Goals",
+      "description": "Lee Good grew up on a farm in Pennsylvania and raises cows, calfs, crops and hay on about 200 acres in the foothills of Virginia’s Shenandoah Valley.&...",
+      "link": "https://insideclimatenews.org/news/14052025/usda-cuts-threaten-virginia-chesapeake-bay-cleanup-goals/",
+      "pubDate": "Wed, 14 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Property Rights Take Center Stage as Montana Grapples With Wind Development",
+      "description": "Colstrip, in Rosebud County, Montana, sitting next door to the strip mines that feed it, remains the second-largest coal power plant in the American W...",
+      "link": "https://insideclimatenews.org/news/14052025/montana-wind-development-property-rights/",
+      "pubDate": "Wed, 14 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The government just killed an essential way to assess climate risk",
+      "description": "Cities, insurers, and the public used the Billion-Dollar Weather and Climate Disasters database to plan for the future. Now what will they do?...",
+      "link": "https://grist.org/climate/trump-noaa-billion-dollar-weather-and-climate-disasters-database/",
+      "pubDate": "Wed, 14 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "As temperatures rise, the US Corn Belt could see insurance claims soar",
       "description": "Crop insurance is a lifeline for farmers. But research shows it's not ready for climate change....",
@@ -110,6 +137,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Wild chimpanzees filmed using forest 'first aid'",
+      "description": "The research builds on the discovery that chimps seek out and eat certain plants to self-medicate....",
+      "link": "https://www.bbc.com/news/articles/cqj7ln85vxwo",
+      "pubDate": "Wed, 14 May 2025 04:35:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Chimpanzees use leaves to wipe bums and clean up after sex, study finds",
       "description": "&lt;p&gt;Research looking at hygiene and healthcare habits of the primates finds implications for understanding origin of human healthcare&lt;/p&gt;&l...",
       "link": "https://www.theguardian.com/environment/2025/may/14/chimpanzees-use-leaves-to-wipe-bums-and-clean-up-after-sex-study-finds",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In a Landmark PFAS Payout, 3M to Pay New Jersey $450 Million",
-      "description": "In a historic settlement, chemical giant 3M has agreed to pay up to $450 million to New Jersey to resolve claims over its role in decades-long contami...",
-      "link": "https://insideclimatenews.org/news/13052025/new-jersey-3m-pfas-settlement/",
-      "pubDate": "Tue, 13 May 2025 19:46:17 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Dutch Environmental Group Launches New Climate Case Against Shell to Stop All Investment in New Oil and Gas Fields",
-      "description": "The Dutch NGO that won a historic court verdict in 2021 in a pioneering climate lawsuit against the oil major Shell announced on Tuesday that it is la...",
-      "link": "https://insideclimatenews.org/news/13052025/dutch-ngo-launches-shell-climate-case-oil-gas-field-investments/",
-      "pubDate": "Tue, 13 May 2025 19:28:05 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Dutch climate campaigners vow to take Shell to court again",
-      "description": "&lt;p&gt;In a letter, Milieudefensie says it wants to stop firm developing new oil and gas projects ‘to curb crisis’&lt;/p&gt;&lt;p&gt;Climate campaig...",
-      "link": "https://www.theguardian.com/business/2025/may/13/dutch-climate-campaigners-vow-to-take-shell-to-court-again",
-      "pubDate": "Tue, 13 May 2025 17:17:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/be017ca9b550638a5ad6b742aff94fcebab06b67/662_0_3319_2658/master/3319.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa3d60db69421d0fb9e77677620aaa5a"
-    },
-    {
-      "title": "Starch-based bioplastic may be as toxic as petroleum-based plastic, study finds",
-      "description": "&lt;p&gt;Bioplastics, heralded for supposedly breaking down more quickly, can cause similar health problems to other plastics&lt;/p&gt;&lt;p&gt;Starch...",
-      "link": "https://www.theguardian.com/environment/2025/may/13/starch-based-bioplastic-petroleum-plastic-study",
-      "pubDate": "Tue, 13 May 2025 11:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d10f4d29c1cb8bd3dde2ef2038066bad296bcb4c/704_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f399c3928b0bbd7b21d4752f8300a2f9"
     }
   ]
 }
