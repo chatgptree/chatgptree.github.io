@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-14T07:25:39.619Z",
+  "lastUpdated": "2025-05-14T08:34:17.586Z",
   "articles": [
+    {
+      "title": "As temperatures rise, the US Corn Belt could see insurance claims soar",
+      "description": "Crop insurance is a lifeline for farmers. But research shows it's not ready for climate change....",
+      "link": "https://grist.org/food-and-agriculture/corn-belt-crop-insurance-farmers-research-fcip-regenerative-agriculture/",
+      "pubDate": "Wed, 14 May 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/corn-farmer.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "What Pope Leo means for global climate action and colonialism",
+      "description": "Pope Francis made a strong moral case for addressing climate change and respecting Indigenous rights. Will Leo do the same?...",
+      "link": "https://grist.org/international/pope-leo-climate-catholic-indigenous-francis/",
+      "pubDate": "Wed, 14 May 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/Pope-Francis-peru-indigenous-visit.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Help Us Keep Tomorrow Wild",
       "description": "Wildlife Victoria launches campaign to protect the next generation of native wildlife Australia is home to some of the most unique and diverse wildlif...",
@@ -63,6 +81,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/32dc60f03b32720f73c70e23f7ae8875fe9abb40/2865_57_4356_3485/master/4356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2bf44e7453f897e46ca18bec4d2c2fa"
+    },
+    {
+      "title": "Climate experts criticise handling of Tata changes",
+      "description": "Ministers should have been better at planning and making sure green jobs were available, report says....",
+      "link": "https://www.bbc.com/news/articles/c79ezrvd9neo",
+      "pubDate": "Wed, 14 May 2025 05:27:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Will this woman be the first Briton to walk on the Moon?",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d10f4d29c1cb8bd3dde2ef2038066bad296bcb4c/704_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f399c3928b0bbd7b21d4752f8300a2f9"
-    },
-    {
-      "title": "Texas Oil and Gas Companies Drill With River Water During Extreme Drought",
-      "description": "PECOS, Texas—Extreme drought has diminished the flows of the Rio Grande and Pecos River, two of the most iconic waterways in Texas.&#160; The advocacy...",
-      "link": "https://insideclimatenews.org/news/13052025/texas-rio-grande-pecos-river-fracking/",
-      "pubDate": "Tue, 13 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Swamp Coolers’ Ability to Beat the Heat is Evaporating in Record Southwestern Temperatures",
-      "description": "“I just couldn't think straight,” Albuquerque resident Becky Wood said, describing what it felt like attempting to get work done in an 85-degree house...",
-      "link": "https://insideclimatenews.org/news/13052025/southwest-swamp-coolers-affected-by-high-temperatures/",
-      "pubDate": "Tue, 13 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "This snack company is trying to change the way you think about chocolate",
-      "description": "Making chocolate wastes most of the cacao plant. Are you ready to try other parts of the cacao fruit?...",
-      "link": "https://grist.org/food-and-agriculture/blue-stripes-cacao-farmers-chocolate-industry-pulp-fruit-husk-ecuador/",
-      "pubDate": "Tue, 13 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/oded-brenner-max-brenner-chocolate-pizza.jpg?quality=75&amp;strip=all"
     }
   ]
 }
