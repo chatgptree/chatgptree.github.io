@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-05-15T08:34:29.699Z",
+  "lastUpdated": "2025-05-15T09:28:27.622Z",
   "articles": [
+    {
+      "title": "Locals Oppose ‘Insane’ Plan to Sell 500,000 Acres of Public Lands for Housing in Nevada and Utah",
+      "description": "For years, Nevada’s congressional delegation and leading Las Vegas officials have been pushing Congress to pass the Southern Nevada Economic Developme...",
+      "link": "https://insideclimatenews.org/news/15052025/nevada-utah-public-lands-housing-development/",
+      "pubDate": "Thu, 15 May 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wyoming Begins Exploring Voluntary Water Conservation Programs",
+      "description": "In Cheyenne, Wyoming, the northernmost city receiving Colorado River water, the state engineer and attorney general’s offices met with legislators on ...",
+      "link": "https://insideclimatenews.org/news/15052025/wyoming-colorado-river-voluntary-water-conservation-programs/",
+      "pubDate": "Thu, 15 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Lawyers Spar Over Whether Pennsylvania Agency Has Authority to Issue Carbon Allowances to Power Plants",
+      "description": "Pennsylvania’s highest court heard arguments over whether the state’s proposed membership of an interstate agreement to curb carbon emissions from pow...",
+      "link": "https://insideclimatenews.org/news/15052025/pennsylvania-supreme-court-regional-greenhouse-gas-initiative-arguments/",
+      "pubDate": "Thu, 15 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Toxic Cleanups in San Francisco Take More Than Four Years Longer in Communities of Color",
+      "description": "This reporting was supported by a USC Annenberg Center for Health Journalism data fellowship. Toxic site cleanups take longer in parts of San Francisc...",
+      "link": "https://insideclimatenews.org/news/15052025/san-francisco-toxic-cleanup-racial-disparities/",
+      "pubDate": "Thu, 15 May 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ice roads are a lifeline for First Nations. As Canada warms, they&#8217;re disappearing.",
+      "description": "Indigenous peoples are navigating the slow collapse of winter roads — and an even slower pace of help....",
+      "link": "https://grist.org/indigenous/ice-road-canada-truck-northern-ontario-first-nations-mining/",
+      "pubDate": "Thu, 15 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/Wesley_Final.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "After disasters, AmeriCorps was everywhere. What happens when it&#8217;s gone?",
       "description": "Elon Musk's DOGE has gutted the 30-year-old national service agency....",
@@ -135,51 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/0514_FollowUp.jpg?quality=75&amp;strip=all&amp;w=900"
-    },
-    {
-      "title": "Exceptionally low river levels raise fears over water supplies",
-      "description": "The warning comes after some parts of the UK had the driest Spring in nearly a century....",
-      "link": "https://www.bbc.com/news/articles/crmkn7rjv7zo",
-      "pubDate": "Wed, 14 May 2025 14:25:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Exceptionally low river levels raise fears over water supplies",
-      "description": "The warning comes after some parts of the UK had the driest Spring in nearly a century....",
-      "link": "https://www.bbc.com/news/articles/crmkn7rjv7zo",
-      "pubDate": "Wed, 14 May 2025 14:25:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the World’s Most Powerful Corporations Have Fought Accountability for Climate Change",
-      "description": "A new report draws on decades of internal documents and court records to lay out how some of the world’s most powerful corporations misled the public ...",
-      "link": "https://insideclimatenews.org/news/14052025/fossil-fuel-corporations-climate-change-accountability/",
-      "pubDate": "Wed, 14 May 2025 13:30:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "USDA Staffing and Funding Cuts Would Threaten Virginia’s Ability to Reach Chesapeake Bay Cleanup Goals",
-      "description": "Lee Good grew up on a farm in Pennsylvania and raises cows, calfs, crops and hay on about 200 acres in the foothills of Virginia’s Shenandoah Valley.&...",
-      "link": "https://insideclimatenews.org/news/14052025/usda-cuts-threaten-virginia-chesapeake-bay-cleanup-goals/",
-      "pubDate": "Wed, 14 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Property Rights Take Center Stage as Montana Grapples With Wind Development",
-      "description": "Colstrip, in Rosebud County, Montana, sitting next door to the strip mines that feed it, remains the second-largest coal power plant in the American W...",
-      "link": "https://insideclimatenews.org/news/14052025/montana-wind-development-property-rights/",
-      "pubDate": "Wed, 14 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
