@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-15T07:25:46.273Z",
+  "lastUpdated": "2025-05-15T08:34:29.699Z",
   "articles": [
+    {
+      "title": "After disasters, AmeriCorps was everywhere. What happens when it&#8217;s gone?",
+      "description": "Elon Musk's DOGE has gutted the 30-year-old national service agency....",
+      "link": "https://grist.org/extreme-weather/americorps-disaster-response-doge-cuts/",
+      "pubDate": "Thu, 15 May 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/Hurricane-Sandy-AmeriCorps.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "South Korea’s female freedivers: TV has made stars of the haenyeo but what is their real story?",
+      "description": "&lt;p&gt;The craze for Korean culture has brought fame to the ‘women of the sea’, but not always to their benefit. Now they want to reclaim their stor...",
+      "link": "https://www.theguardian.com/environment/2025/may/15/south-koreas-female-freedivers-tv-has-made-stars-of-the-haenyeo-but-what-is-their-real-story",
+      "pubDate": "Thu, 15 May 2025 08:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3a393402699dbc5493fff55f3303318bb219ec18/1094_0_6139_4912/master/6139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=718fc2ad8762bbc17739b29f104ffeed"
+    },
     {
       "title": "“Water is the New Carbon” – Setting the pace for building greater water resilience",
       "description": "Isle and WSAP partnership enables decision makers to deliver water efficiency, cost savings, and achieve environmental, social and governance (ESG) ta...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The government just killed an essential way to assess climate risk",
-      "description": "Cities, insurers, and the public used the Billion-Dollar Weather and Climate Disasters database to plan for the future. Now what will they do?...",
-      "link": "https://grist.org/climate/trump-noaa-billion-dollar-weather-and-climate-disasters-database/",
-      "pubDate": "Wed, 14 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As temperatures rise, the US Corn Belt could see insurance claims soar",
-      "description": "Crop insurance is a lifeline for farmers. But research shows it's not ready for climate change....",
-      "link": "https://grist.org/food-and-agriculture/corn-belt-crop-insurance-farmers-research-fcip-regenerative-agriculture/",
-      "pubDate": "Wed, 14 May 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/corn-farmer.jpg?quality=75&amp;strip=all"
     }
   ]
 }
