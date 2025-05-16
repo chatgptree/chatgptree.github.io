@@ -190,7 +190,7 @@ formatDatePath(date) {
                 
                 let messagesFound = false;
                 let daysSearched = 0;
-                const maxDaysToSearch = 21;
+                const maxDaysToSearch = 90;
                 
                 while (!messagesFound && daysSearched < maxDaysToSearch) {
                     for (let i = 1; i <= this.daysChunk; i++) {
