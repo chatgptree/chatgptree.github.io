@@ -1,7 +1,7 @@
 class TreeMessageBoard {
     constructor() {
         // Force refresh mechanism - increment when needed
-        const CURRENT_VERSION = 9;
+        const CURRENT_VERSION = 10;
         const storedVersion = parseInt(localStorage.getItem('messageBoardVersion')) || 0;
         
         if (storedVersion < CURRENT_VERSION) {
