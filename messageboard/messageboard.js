@@ -206,88 +206,97 @@ async loadMoreMessages() {
     }
 
     try {
-        // Find the oldest message we currently have
+        // Get the oldest message currently displayed
         const oldestMessage = this.messages[this.messages.length - 1];
         if (!oldestMessage) {
-            console.error("No messages found to determine older dates");
             return;
         }
 
-        // Get the UTC date of the oldest message
+        // Parse the timestamp of the oldest message
         const oldestDate = new Date(oldestMessage.timestamp);
-        console.log('Oldest message date:', oldestDate.toISOString());
         
-        // Create a date at the start of that UTC day to find the file it was loaded from
+        // Calculate the UTC day of the oldest message
         const oldestUTCDay = new Date(Date.UTC(
             oldestDate.getUTCFullYear(),
             oldestDate.getUTCMonth(),
             oldestDate.getUTCDate()
         ));
         
-        console.log('Searching for messages before:', oldestUTCDay.toISOString());
+        console.log('Looking for messages before:', oldestUTCDay.toISOString());
         
-        // We'll search a range of days BEFORE the oldest message's day
-        const searchWindow = 20; // Check up to 20 days before the oldest message
+        // Variables for our search state
+        let currentSearchDate = new Date(oldestUTCDay);
+        let daysSearched = 0;
         let messagesFound = false;
+        let searchPhase = 'daily'; // We'll start searching day by day
         
-        // Search day by day before the oldest message's date
-        for (let daysBack = 1; daysBack <= searchWindow; daysBack++) {
-            // Create a new date X days before the oldest message's day
-            const searchDate = new Date(oldestUTCDay);
-            searchDate.setUTCDate(searchDate.getUTCDate() - daysBack);
+        // We'll keep searching until we find messages or hit a very distant date
+        // 5 years (1825 days) is effectively unlimited for most applications
+        while (!messagesFound && daysSearched < 1825) {
+            // Move to the next date to search
+            currentSearchDate.setUTCDate(currentSearchDate.getUTCDate() - 1);
+            daysSearched++;
             
-            // Update the loading button with search info
+            // Update the button to show progress
             if (loadMoreBtn) {
-                loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Looking ${daysBack} days back...`;
+                loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Looking ${daysSearched} days back...`;
             }
             
-            // Try to load messages from this date
-            const foundMessages = await this.loadDateMessages(searchDate);
-            
-            // If we found messages, we can stop searching
+            // Try to load messages for this date
+            const foundMessages = await this.loadDateMessages(currentSearchDate);
             if (foundMessages) {
-                console.log(`Found older messages from ${daysBack} days before oldest message`);
+                console.log(`Found messages ${daysSearched} days before oldest message`);
                 messagesFound = true;
                 break;
             }
-        }
-        
-        // If we didn't find any messages, check further back in bigger jumps
-        if (!messagesFound) {
-            const extendedSearchStart = 20;
-            const extendedSearchEnd = 90; // Maximum 90 days back from oldest message
             
-            // Search in larger chunks (5 day jumps) to cover more ground efficiently
-            for (let daysBack = extendedSearchStart; daysBack <= extendedSearchEnd; daysBack += 5) {
-                if (loadMoreBtn) {
-                    loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Checking ${daysBack} days back...`;
-                }
-                
-                const searchDate = new Date(oldestUTCDay);
-                searchDate.setUTCDate(searchDate.getUTCDate() - daysBack);
-                
-                const foundMessages = await this.loadDateMessages(searchDate);
-                
-                if (foundMessages) {
-                    console.log(`Found older messages ${daysBack} days before oldest message`);
-                    messagesFound = true;
-                    break;
-                }
+            // After 30 days of daily checking, switch to checking weekly
+            if (daysSearched === 30 && searchPhase === 'daily') {
+                console.log('Switching to weekly search pattern');
+                searchPhase = 'weekly';
+            }
+            
+            // After 90 days of checking, switch to checking monthly
+            if (daysSearched === 90 && searchPhase === 'weekly') {
+                console.log('Switching to monthly search pattern');
+                searchPhase = 'monthly';
+            }
+            
+            // Skip days based on search phase to speed up distant searches
+            if (searchPhase === 'weekly' && daysSearched >= 30) {
+                // Skip ahead 6 days (checking every 7th day)
+                currentSearchDate.setUTCDate(currentSearchDate.getUTCDate() - 6);
+                daysSearched += 6;
+            } else if (searchPhase === 'monthly' && daysSearched >= 90) {
+                // Skip ahead 29 days (checking approximately monthly)
+                currentSearchDate.setUTCDate(currentSearchDate.getUTCDate() - 29);
+                daysSearched += 29;
+            }
+            
+            // Every 50 checks, update the UI with any messages found so far
+            if (daysSearched % 50 === 0 && this.messages.length > 0) {
+                this.filterAndRender();
             }
         }
         
-        console.log('Load more operation complete. Messages found:', messagesFound);
-        
-        // If we found no older messages, show a notification
         if (!messagesFound) {
+            console.log('No older messages found after extensive search');
             this.showNotification('No older messages found');
         }
         
-        // Always re-render to ensure messages are displayed in the right order
+        // Update the UI
         this.filterAndRender();
         
     } catch (error) {
         console.error('Error loading more messages:', error);
+        
+        // Show error in the UI
+        if (loadMoreBtn) {
+            loadMoreBtn.innerHTML = 'Error loading messages';
+            setTimeout(() => {
+                loadMoreBtn.innerHTML = 'Load More Messages';
+            }, 3000);
+        }
     } finally {
         this.isLoading = false;
         if (loadMoreBtn) {
