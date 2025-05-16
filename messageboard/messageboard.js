@@ -1,7 +1,7 @@
 class TreeMessageBoard {
     constructor() {
         // Force refresh mechanism - increment when needed
-        const CURRENT_VERSION = 8;
+        const CURRENT_VERSION = 9;
         const storedVersion = parseInt(localStorage.getItem('messageBoardVersion')) || 0;
         
         if (storedVersion < CURRENT_VERSION) {
@@ -195,53 +195,107 @@ class TreeMessageBoard {
         }
     }
 
-    async loadMoreMessages() {
-        if (this.isLoading) return;
-        
-        this.isLoading = true;
-        const loadMoreBtn = this.messageContainer.querySelector('.load-more-btn');
-        if (loadMoreBtn) {
-            loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Loading...`;
-            loadMoreBtn.disabled = true;
+async loadMoreMessages() {
+    if (this.isLoading) return;
+    
+    this.isLoading = true;
+    const loadMoreBtn = this.messageContainer.querySelector('.load-more-btn');
+    if (loadMoreBtn) {
+        loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Loading...`;
+        loadMoreBtn.disabled = true;
+    }
+
+    try {
+        // Find the oldest message we currently have
+        const oldestMessage = this.messages[this.messages.length - 1];
+        if (!oldestMessage) {
+            console.error("No messages found to determine older dates");
+            return;
         }
 
-        try {
-            const oldestMessage = this.messages[this.messages.length - 1];
-            if (oldestMessage) {
-                const oldestDate = new Date(oldestMessage.timestamp);
-                let daysSearched = 0;
-                const maxDaysToSearch = 10;
-                let messagesFound = false;
+        // Get the UTC date of the oldest message
+        const oldestDate = new Date(oldestMessage.timestamp);
+        console.log('Oldest message date:', oldestDate.toISOString());
+        
+        // Create a date at the start of that UTC day to find the file it was loaded from
+        const oldestUTCDay = new Date(Date.UTC(
+            oldestDate.getUTCFullYear(),
+            oldestDate.getUTCMonth(),
+            oldestDate.getUTCDate()
+        ));
+        
+        console.log('Searching for messages before:', oldestUTCDay.toISOString());
+        
+        // We'll search a range of days BEFORE the oldest message's day
+        const searchWindow = 20; // Check up to 20 days before the oldest message
+        let messagesFound = false;
+        
+        // Search day by day before the oldest message's date
+        for (let daysBack = 1; daysBack <= searchWindow; daysBack++) {
+            // Create a new date X days before the oldest message's day
+            const searchDate = new Date(oldestUTCDay);
+            searchDate.setUTCDate(searchDate.getUTCDate() - daysBack);
+            
+            // Update the loading button with search info
+            if (loadMoreBtn) {
+                loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Looking ${daysBack} days back...`;
+            }
+            
+            // Try to load messages from this date
+            const foundMessages = await this.loadDateMessages(searchDate);
+            
+            // If we found messages, we can stop searching
+            if (foundMessages) {
+                console.log(`Found older messages from ${daysBack} days before oldest message`);
+                messagesFound = true;
+                break;
+            }
+        }
+        
+        // If we didn't find any messages, check further back in bigger jumps
+        if (!messagesFound) {
+            const extendedSearchStart = 20;
+            const extendedSearchEnd = 90; // Maximum 90 days back from oldest message
+            
+            // Search in larger chunks (5 day jumps) to cover more ground efficiently
+            for (let daysBack = extendedSearchStart; daysBack <= extendedSearchEnd; daysBack += 5) {
+                if (loadMoreBtn) {
+                    loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Checking ${daysBack} days back...`;
+                }
                 
-                while (!messagesFound && daysSearched < maxDaysToSearch) {
-                    for (let i = 1; i <= this.daysChunk; i++) {
-                        const nextDate = new Date(oldestDate);
-                        nextDate.setUTCDate(nextDate.getUTCDate() - (daysSearched + i));
-                        
-                        if (await this.loadDateMessages(nextDate)) {
-                            messagesFound = true;
-                            break;
-                        }
-                    }
-                    
-                    daysSearched += this.daysChunk;
-                    
-                    if (!messagesFound && loadMoreBtn) {
-                        loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Searching older messages...`;
-                    }
+                const searchDate = new Date(oldestUTCDay);
+                searchDate.setUTCDate(searchDate.getUTCDate() - daysBack);
+                
+                const foundMessages = await this.loadDateMessages(searchDate);
+                
+                if (foundMessages) {
+                    console.log(`Found older messages ${daysBack} days before oldest message`);
+                    messagesFound = true;
+                    break;
                 }
             }
-        } catch (error) {
-            console.error('Error loading more messages:', error);
-        } finally {
-            this.isLoading = false;
-            if (loadMoreBtn) {
-                loadMoreBtn.innerHTML = 'Load More Messages';
-                loadMoreBtn.disabled = false;
-            }
-            this.filterAndRender();
+        }
+        
+        console.log('Load more operation complete. Messages found:', messagesFound);
+        
+        // If we found no older messages, show a notification
+        if (!messagesFound) {
+            this.showNotification('No older messages found');
+        }
+        
+        // Always re-render to ensure messages are displayed in the right order
+        this.filterAndRender();
+        
+    } catch (error) {
+        console.error('Error loading more messages:', error);
+    } finally {
+        this.isLoading = false;
+        if (loadMoreBtn) {
+            loadMoreBtn.innerHTML = 'Load More Messages';
+            loadMoreBtn.disabled = false;
         }
     }
+}
 
     async checkForNewMessages() {
         try {
