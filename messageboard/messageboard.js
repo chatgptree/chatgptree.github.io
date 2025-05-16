@@ -1,7 +1,7 @@
 class TreeMessageBoard {
     constructor() {
         // Force refresh mechanism - increment the version when you want to force a refresh
-        const CURRENT_VERSION = 3; // Increment this number to force a refresh for all users
+        const CURRENT_VERSION = 7; // Increment this number to force a refresh for all users
         const storedVersion = parseInt(localStorage.getItem('messageBoardVersion')) || 0;
         
         if (storedVersion < CURRENT_VERSION) {
