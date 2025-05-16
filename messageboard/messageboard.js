@@ -72,9 +72,24 @@ class TreeMessageBoard {
         
         console.log('Starting initial load for date:', today);
         
-        let startDay = 0;
+        // UPDATED: Check a wider range for international users
+        const initialWindow = 3; // Check 3 days in each direction initially
         let messagesFound = false;
         
+        // First check today and the days around it to handle international timezones
+        for (let offset = -initialWindow; offset <= initialWindow; offset++) {
+            const date = new Date(today);
+            date.setUTCDate(date.getUTCDate() + offset);
+            
+            console.log(`Checking date with offset ${offset}:`, date.toISOString().split('T')[0]);
+            const foundMessages = await this.loadDateMessages(date);
+            if (foundMessages) {
+                messagesFound = true;
+            }
+        }
+        
+        // If no messages found, continue with normal search pattern
+        let startDay = initialWindow + 1; // Start after our initial window
         while (!messagesFound && startDay < this.maxSearchDepth) {
             // Load next chunk of days
             for (let i = 0; i < this.daysChunk; i++) {
@@ -83,18 +98,6 @@ class TreeMessageBoard {
                 date.setUTCDate(date.getUTCDate() - (startDay + i));
                 
                 const foundMessages = await this.loadDateMessages(date);
-                
-                // Also check adjacent dates to handle timezone boundary issues
-                if (!foundMessages && i === 0) {
-                    // Check the day before and after in case of timezone boundaries
-                    const dayBefore = new Date(date);
-                    dayBefore.setUTCDate(dayBefore.getUTCDate() - 1);
-                    await this.loadDateMessages(dayBefore);
-                    
-                    const dayAfter = new Date(date);
-                    dayAfter.setUTCDate(dayAfter.getUTCDate() + 1);
-                    await this.loadDateMessages(dayAfter);
-                }
                 
                 // Check if we found any messages
                 if (this.messages.length > 0) {
@@ -225,20 +228,16 @@ class TreeMessageBoard {
 
     async checkForNewMessages() {
         try {
-            // KEY FIX: Use UTC date for checking new messages
+            // UPDATED: Check a wider range of dates for international users
             const now = new Date();
-            const utcToday = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+            const windowSize = 2; // Check 2 days in each direction
             
-            await this.loadDateMessages(utcToday);
-            
-            // Also check adjacent dates to catch timezone boundary messages
-            const yesterday = new Date(utcToday);
-            yesterday.setUTCDate(yesterday.getUTCDate() - 1);
-            await this.loadDateMessages(yesterday);
-            
-            const tomorrow = new Date(utcToday);
-            tomorrow.setUTCDate(tomorrow.getUTCDate() + 1);
-            await this.loadDateMessages(tomorrow);
+            // Check several days including today to account for timezone differences
+            for (let offset = -windowSize; offset <= windowSize; offset++) {
+                const checkDate = new Date(now);
+                checkDate.setUTCDate(checkDate.getUTCDate() + offset);
+                await this.loadDateMessages(checkDate);
+            }
             
             if (this.messages.length > 0) {
                 const latestMessageTime = Math.max(
@@ -356,17 +355,26 @@ class TreeMessageBoard {
         return div.innerHTML;
     }
 
+    // UPDATED: Fixed formatting of dates to handle timezone differences properly
     formatDate(timestamp) {
+        // Parse the timestamp into a Date object (it comes from ISO string in UTC)
         const date = new Date(timestamp);
+        
+        // Get current time in UTC for consistent comparison
         const now = new Date();
-        const diff = now - date;
+        const nowUTC = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+        const dateUTC = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
+        
+        // Calculate days difference based on UTC dates
+        const diff = nowUTC - dateUTC;
         const days = Math.floor(diff / (1000 * 60 * 60 * 24));
         
         if (days < 1) return 'Today';
         if (days === 1) return 'Yesterday';
         if (days < 7) return `${days} days ago`;
         
-        return date.toLocaleDateString('en-AU', {
+        // For older dates, show in user's local format
+        return date.toLocaleDateString(navigator.language || 'en-AU', {
             month: 'short',
             day: 'numeric'
         });
