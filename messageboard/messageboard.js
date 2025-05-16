@@ -65,17 +65,20 @@ class TreeMessageBoard {
         }
     }
 
-    formatDatePath(date) {
-        // Key change: Use UTC consistently for all date path formatting
-        const year = date.getUTCFullYear();
-        const month = date.toLocaleString('default', { 
-            month: 'long', 
-            timeZone: 'UTC' 
-        }).toLowerCase();
-        const dateStr = date.toISOString().split('T')[0];
-        
-        return `/messages/${year}/${month}/${dateStr}.json`;
-    }
+formatDatePath(date) {
+    // Force English month names regardless of browser locale
+    const year = date.getUTCFullYear();
+    const month = date.toLocaleString('en-US', { 
+        month: 'long', 
+        timeZone: 'UTC' 
+    }).toLowerCase();
+    const dateStr = date.toISOString().split('T')[0];
+    
+    // Add debugging to verify the correct path
+    console.log(`Formatted path for ${date.toISOString()}: /messages/${year}/${month}/${dateStr}.json`);
+    
+    return `/messages/${year}/${month}/${dateStr}.json`;
+}
 
     async loadInitialMessages() {
         this.showLoadingSpinner();
