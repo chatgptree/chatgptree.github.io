@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-16T16:32:11.371Z",
+  "lastUpdated": "2025-05-16T17:21:56.972Z",
   "articles": [
+    {
+      "title": "An Atmospheric River Brought This Week’s Flooding Rains to the Southeast",
+      "description": "After early signs of drought from Georgia through Virginia this spring, a slow-moving storm brought flooding rain to the Southeast this week. Between ...",
+      "link": "https://insideclimatenews.org/news/16052025/atmospheric-river-southeast-floods/",
+      "pubDate": "Fri, 16 May 2025 16:36:30 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Anglian Water fined record £1.42m for contaminating water supply",
       "description": "&lt;p&gt;Firm prosecuted after unapproved material in tanks led to flakes and powder entering drinking water of 1.3m people&lt;/p&gt;&lt;p&gt;Anglian ...",
@@ -21,7 +30,7 @@
     },
     {
       "title": "Most of LA’s trees are in wealthy, white neighborhoods. This school is smashing concrete to plant their own",
-      "description": "&lt;p&gt;Amigos de los Rios is helping campuses once paved and treeless now blooming with shade, gardens and play spaces&lt;/p&gt;&lt;p&gt;On a recent...",
+      "description": "&lt;p&gt;Parks, trees and green spaces are critical to kids’ health and wellbeing, but in many cities, residents have unequal access&lt;/p&gt;&lt;p&gt...",
       "link": "https://www.theguardian.com/us-news/2025/may/16/la-schools-green-spaces",
       "pubDate": "Fri, 16 May 2025 15:00:39 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8eefb87bb1ce3839892c79f381b7c660c8600f13/133_317_4604_3683/master/4604.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0886e1191a185ea94646717a3041d37"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "40 years since we discovered a hole in the Ozone layer, we ask what threatens it today...",
-      "link": "https://www.bbc.co.uk/sounds/play/m002c3cg",
-      "pubDate": "Thu, 15 May 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
