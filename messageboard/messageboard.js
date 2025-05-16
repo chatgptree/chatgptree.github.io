@@ -1,36 +1,44 @@
 class TreeMessageBoard {
     constructor() {
-        // Force refresh mechanism - increment when needed
-        const CURRENT_VERSION = 6;
+        // Force refresh mechanism - increment the version when you want to force a refresh
+        const CURRENT_VERSION = 3; // Increment this number to force a refresh for all users
         const storedVersion = parseInt(localStorage.getItem('messageBoardVersion')) || 0;
         
         if (storedVersion < CURRENT_VERSION) {
+            // Clear all relevant cached data
             console.log('Clearing cached data for new version...');
+            
+            // Clear message board specific localStorage items
             localStorage.removeItem('lastUpdateTime');
-            localStorage.removeItem('lastMessageDate');
+            localStorage.removeItem('messageBoardDiagnostics');
             localStorage.setItem('messageBoardVersion', CURRENT_VERSION);
             
+            // Clear the cache for service workers if you have any
             if ('caches' in window) {
-                caches.keys().then(names => names.forEach(name => caches.delete(name)));
+                caches.keys().then(names => {
+                    names.forEach(name => {
+                        caches.delete(name);
+                    });
+                });
             }
             
+            // Force reload the page to ensure fresh resources
             window.location.reload(true);
-            return;
+            return; // Stop constructor execution as page will reload
         }
         
+        // Original constructor code continues here...
         this.messages = [];
         this.filteredMessages = [];
         this.currentFilter = 'all';
         this.isLoading = false;
         this.messageContainer = document.getElementById('messageContainer');
         this.searchInput = document.getElementById('searchInput');
+        this.lastCheckedDate = null;
         this.lastUpdateTime = parseInt(localStorage.getItem('lastUpdateTime')) || 0;
         this.loadedDates = new Set();
-        this.maxSearchDepth = 90; // Reduced depth for efficiency
-        this.daysChunk = 3; // Slightly larger chunks for fewer network requests
-        this.fetchTimeout = 5000; // 5 second timeout for fetch operations
-        
-        console.log("Browser timezone:", Intl.DateTimeFormat().resolvedOptions().timeZone);
+        this.maxSearchDepth = 90; // Maximum days to look back
+        this.daysChunk = 2; // Reduced from 7 to 2
         
         this.setupEventListeners();
         this.initialize();
@@ -38,103 +46,80 @@ class TreeMessageBoard {
 
     async initialize() {
         try {
-            const initPromise = this.loadInitialMessages();
-            const timeoutPromise = new Promise((_, reject) => {
-                setTimeout(() => reject(new Error('Loading timed out')), 20000);
-            });
-            
-            await Promise.race([initPromise, timeoutPromise]);
-            setInterval(() => this.checkForNewMessages(), 10000); // Check less frequently
+            await this.loadInitialMessages();
+            setInterval(() => this.checkForNewMessages(), 5000);
         } catch (error) {
             console.error('Failed to initialize:', error);
-            this.showError(`Unable to load messages: ${error.message}`);
+            this.showError('Unable to load messages. Please try again.');
         }
     }
 
-    // KEY FIX: Always use English locale for month names
-    formatDatePath(date) {
-        const year = date.getUTCFullYear();
-        const month = date.toLocaleString('en-US', { 
-            month: 'long', 
-            timeZone: 'UTC' 
-        }).toLowerCase();
-        const dateStr = date.toISOString().split('T')[0];
-        
-        return `/messages/${year}/${month}/${dateStr}.json`;
-    }
+formatDatePath(date) {
+    // Force English month names regardless of browser locale
+    const year = date.getUTCFullYear();
+    const month = date.toLocaleString('en-US', { 
+        month: 'long', 
+        timeZone: 'UTC' 
+    }).toLowerCase();
+    const dateStr = date.toISOString().split('T')[0];
+    
+    // Add debugging to verify the correct path
+    console.log(`Formatted path for ${date.toISOString()}: /messages/${year}/${month}/${dateStr}.json`);
+    
+    return `/messages/${year}/${month}/${dateStr}.json`;
+}
 
     async loadInitialMessages() {
+        const today = new Date();
         this.showLoadingSpinner();
         
-        // Try to load from saved date first
-        const lastMessageDate = localStorage.getItem('lastMessageDate');
-        if (lastMessageDate) {
-            try {
-                const date = new Date(lastMessageDate);
-                if (await this.loadDateMessages(date)) {
-                    this.filterAndRender();
-                    return;
-                }
-            } catch (error) {
-                console.error("Error loading last message date:", error);
-            }
-        }
+        console.log('Starting initial load for date:', today);
         
-        // Check a focused range around today first
-        const today = new Date();
-        const initialWindow = 3; // Check 3 days in each direction
+        let startDay = 0;
         let messagesFound = false;
         
-        for (let offset = -initialWindow; offset <= initialWindow; offset++) {
-            const date = new Date();
-            date.setUTCDate(date.getUTCDate() + offset);
-            
-            if (await this.loadDateMessages(date)) {
-                messagesFound = true;
-                localStorage.setItem('lastMessageDate', date.toISOString());
-                
-                // Update UI as soon as we find messages
-                if (this.messages.length > 0) {
-                    this.filterAndRender();
-                }
-            }
-        }
-        
-        if (this.messages.length > 0) {
-            return;
-        }
-        
-        // If no messages found yet, search older dates
-        let startDay = initialWindow + 1;
-        const maxDays = this.maxSearchDepth;
-        
-        while (!messagesFound && startDay < maxDays) {
-            // Update loading message
-            this.messageContainer.innerHTML = `
-                <div class="loading-spinner">
-                    <i class="fas fa-leaf fa-spin"></i>
-                    <p>Searching older messages... (${startDay} days back)</p>
-                </div>`;
-            
+        while (!messagesFound && startDay < this.maxSearchDepth) {
+            // Load next chunk of days
             for (let i = 0; i < this.daysChunk; i++) {
-                const date = new Date();
+                // KEY FIX: Use UTC for date calculations
+                const date = new Date(today);
                 date.setUTCDate(date.getUTCDate() - (startDay + i));
                 
-                if (await this.loadDateMessages(date)) {
+                const foundMessages = await this.loadDateMessages(date);
+                
+                // Also check adjacent dates to handle timezone boundary issues
+                if (!foundMessages && i === 0) {
+                    // Check the day before and after in case of timezone boundaries
+                    const dayBefore = new Date(date);
+                    dayBefore.setUTCDate(dayBefore.getUTCDate() - 1);
+                    await this.loadDateMessages(dayBefore);
+                    
+                    const dayAfter = new Date(date);
+                    dayAfter.setUTCDate(dayAfter.getUTCDate() + 1);
+                    await this.loadDateMessages(dayAfter);
+                }
+                
+                // Check if we found any messages
+                if (this.messages.length > 0) {
+                    console.log(`Found messages for date: ${date.toISOString().split('T')[0]}`);
                     messagesFound = true;
-                    localStorage.setItem('lastMessageDate', date.toISOString());
                     break;
                 }
             }
             
             startDay += this.daysChunk;
             
-            // Break early if any messages found
-            if (messagesFound) {
-                break;
+            // Update loading message with search progress
+            if (!messagesFound) {
+                this.messageContainer.innerHTML = `
+                    <div class="loading-spinner">
+                        <i class="fas fa-leaf fa-spin"></i>
+                        <p>Searching older messages... (${startDay} days back)</p>
+                    </div>`;
             }
         }
         
+        console.log(`Total messages loaded: ${this.messages.length}`);
         this.filterAndRender();
     }
 
@@ -145,28 +130,24 @@ class TreeMessageBoard {
         }
 
         const url = this.formatDatePath(date);
-        
+        console.log('Loading messages from:', url);
+
         try {
-            // Use AbortController for timeout
-            const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), this.fetchTimeout);
-            
             const response = await fetch(url, { 
-                cache: 'no-store',
-                signal: controller.signal
+                cache: 'no-store'
             });
-            
-            clearTimeout(timeoutId);
 
             if (!response.ok) {
+                console.log(`No messages found for ${dateStr} (${response.status})`);
                 this.loadedDates.add(dateStr);
                 return false;
             }
 
             const newMessages = await response.json();
+            console.log(`Loaded ${newMessages.length} messages for ${dateStr}`);
             
-            if (!Array.isArray(newMessages) || newMessages.length === 0) {
-                this.loadedDates.add(dateStr);
+            if (!Array.isArray(newMessages)) {
+                console.error(`Invalid messages format for ${dateStr}:`, newMessages);
                 return false;
             }
             
@@ -174,6 +155,7 @@ class TreeMessageBoard {
             const uniqueNewMessages = newMessages.filter(m => !existingIds.has(m.id));
             
             if (uniqueNewMessages.length > 0) {
+                console.log(`Adding ${uniqueNewMessages.length} new messages from ${dateStr}`);
                 this.messages = [...this.messages, ...uniqueNewMessages]
                     .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
                 this.loadedDates.add(dateStr);
@@ -184,13 +166,7 @@ class TreeMessageBoard {
             return false;
 
         } catch (error) {
-            if (error.name === 'AbortError') {
-                console.log(`Request timeout for ${dateStr}`);
-            } else {
-                console.error(`Error loading messages for ${dateStr}:`, error);
-            }
-            
-            this.loadedDates.add(dateStr);
+            console.error(`Error loading messages for ${dateStr}:`, error);
             return false;
         }
     }
@@ -200,37 +176,45 @@ class TreeMessageBoard {
         
         this.isLoading = true;
         const loadMoreBtn = this.messageContainer.querySelector('.load-more-btn');
-        if (loadMoreBtn) {
-            loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Loading...`;
-            loadMoreBtn.disabled = true;
-        }
-
+        
         try {
+            if (loadMoreBtn) {
+                loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Loading...`;
+                loadMoreBtn.disabled = true;
+            }
+
             const oldestMessage = this.messages[this.messages.length - 1];
             if (oldestMessage) {
                 const oldestDate = new Date(oldestMessage.timestamp);
-                let daysSearched = 0;
-                const maxDaysToSearch = 10;
+                console.log('Loading more messages before:', oldestDate);
+                
                 let messagesFound = false;
+                let daysSearched = 0;
+                const maxDaysToSearch = 21;
                 
                 while (!messagesFound && daysSearched < maxDaysToSearch) {
                     for (let i = 1; i <= this.daysChunk; i++) {
+                        // KEY FIX: Use UTC for date calculations
                         const nextDate = new Date(oldestDate);
                         nextDate.setUTCDate(nextDate.getUTCDate() - (daysSearched + i));
+                        const foundMessages = await this.loadDateMessages(nextDate);
                         
-                        if (await this.loadDateMessages(nextDate)) {
+                        if (foundMessages) {
                             messagesFound = true;
                             break;
                         }
                     }
-                    
                     daysSearched += this.daysChunk;
                     
                     if (!messagesFound && loadMoreBtn) {
-                        loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Searching older messages...`;
+                        loadMoreBtn.innerHTML = `<i class="fas fa-leaf fa-spin"></i> Searching older messages... (${daysSearched} days back)`;
                     }
                 }
             }
+            
+            console.log('Rendering updated messages...');
+            this.filterAndRender();
+            
         } catch (error) {
             console.error('Error loading more messages:', error);
         } finally {
@@ -239,27 +223,27 @@ class TreeMessageBoard {
                 loadMoreBtn.innerHTML = 'Load More Messages';
                 loadMoreBtn.disabled = false;
             }
-            this.filterAndRender();
         }
     }
 
     async checkForNewMessages() {
         try {
-            // Check just today and yesterday
+            // KEY FIX: Use UTC date for checking new messages
             const now = new Date();
-            const dates = [
-                new Date(now),
-                new Date(new Date().setUTCDate(now.getUTCDate() - 1))
-            ];
+            const utcToday = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
             
-            let newMessages = false;
-            for (const date of dates) {
-                if (await this.loadDateMessages(date)) {
-                    newMessages = true;
-                }
-            }
+            await this.loadDateMessages(utcToday);
             
-            if (newMessages && this.messages.length > 0) {
+            // Also check adjacent dates to catch timezone boundary messages
+            const yesterday = new Date(utcToday);
+            yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+            await this.loadDateMessages(yesterday);
+            
+            const tomorrow = new Date(utcToday);
+            tomorrow.setUTCDate(tomorrow.getUTCDate() + 1);
+            await this.loadDateMessages(tomorrow);
+            
+            if (this.messages.length > 0) {
                 const latestMessageTime = Math.max(
                     ...this.messages.map(m => new Date(m.timestamp).getTime())
                 );
@@ -300,9 +284,10 @@ class TreeMessageBoard {
                 this.filteredMessages.sort((a, b) => {
                     const ratingA = a.rating || 0;
                     const ratingB = b.rating || 0;
-                    return ratingB === ratingA ? 
-                        new Date(b.timestamp) - new Date(a.timestamp) : 
-                        ratingB - ratingA;
+                    if (ratingB === ratingA) {
+                        return new Date(b.timestamp) - new Date(a.timestamp);
+                    }
+                    return ratingB - ratingA;
                 });
                 break;
             default:
@@ -315,12 +300,13 @@ class TreeMessageBoard {
     }
 
     renderMessages(messages) {
+        console.log(`Rendering ${messages?.length || 0} messages`);
+        
         if (!messages?.length) {
             this.messageContainer.innerHTML = `
                 <div class="no-messages">
                     <i class="fas fa-seedling"></i>
-                    <p>No messages found. <button onclick="window.messageBoard.loadInitialMessages()">Try Again</button></p>
-                    <p class="timezone-info">Your timezone: ${Intl.DateTimeFormat().resolvedOptions().timeZone}</p>
+                    <p>No messages found in the last ${this.maxSearchDepth} days.</p>
                 </div>`;
             return;
         }
@@ -374,27 +360,19 @@ class TreeMessageBoard {
     }
 
     formatDate(timestamp) {
-        try {
-            const date = new Date(timestamp);
-            const now = new Date();
-            const nowUTC = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
-            const dateUTC = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
-            
-            const diff = nowUTC - dateUTC;
-            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-            
-            if (days < 1) return 'Today';
-            if (days === 1) return 'Yesterday';
-            if (days < 7) return `${days} days ago`;
-            
-            // Use English format for consistency
-            return date.toLocaleDateString('en-US', {
-                month: 'short',
-                day: 'numeric'
-            });
-        } catch (error) {
-            return "Unknown date";
-        }
+        const date = new Date(timestamp);
+        const now = new Date();
+        const diff = now - date;
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        
+        if (days < 1) return 'Today';
+        if (days === 1) return 'Yesterday';
+        if (days < 7) return `${days} days ago`;
+        
+        return date.toLocaleDateString('en-AU', {
+            month: 'short',
+            day: 'numeric'
+        });
     }
 
     showLoadingSpinner() {
@@ -402,8 +380,6 @@ class TreeMessageBoard {
             this.messageContainer.innerHTML = `
                 <div class="loading-spinner">
                     <i class="fas fa-leaf fa-spin"></i>
-                    <p>Loading messages...</p>
-                    <p class="timezone-info">Your timezone: ${Intl.DateTimeFormat().resolvedOptions().timeZone}</p>
                 </div>`;
         }
     }
@@ -413,7 +389,6 @@ class TreeMessageBoard {
             <div class="error-message">
                 <p>${message}</p>
                 <button onclick="window.messageBoard.loadInitialMessages()">Retry</button>
-                <p class="timezone-info">Your timezone: ${Intl.DateTimeFormat().resolvedOptions().timeZone}</p>
             </div>`;
     }
 
