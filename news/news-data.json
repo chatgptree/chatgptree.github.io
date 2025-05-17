@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-17T08:30:20.506Z",
+  "lastUpdated": "2025-05-17T09:24:49.534Z",
   "articles": [
+    {
+      "title": "A 20 Percent Electric Bill Surge Tests New Jersey’s Climate Goals",
+      "description": "On June 1, New Jersey residents will face something they’ve dreaded for months: A nearly 20 percent rate increase in their electricity bills. A leadin...",
+      "link": "https://insideclimatenews.org/news/17052025/new-jersey-electric-bill-rate-hike/",
+      "pubDate": "Sat, 17 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Green Is Pope Leo XIV?",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with Erin Lothe...",
+      "link": "https://insideclimatenews.org/news/17052025/pope-leo-xiv-environment-climate-change/",
+      "pubDate": "Sat, 17 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Top winemaker ‘may have to leave its Spanish vineyards due to climate crisis’",
       "description": "&lt;p&gt;Familia Torres has been making wine in Catalonia since 1870, but says it may have to move to higher altitudes in 30 years’ time&lt;/p&gt;&lt;...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Republicans Attack Rules Designed to Keep Workers Safe From Heat",
-      "description": "A warming climate exposes more and more workers to increasingly hotter conditions every year, yet soon after taking office, Donald Trump indefinitely ...",
-      "link": "https://insideclimatenews.org/news/15052025/republicans-attack-osha-worker-heat-safety-rules/",
-      "pubDate": "Fri, 16 May 2025 00:55:42 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s USDA tried to erase climate data. This lawsuit forced it back online.",
-      "description": "The agency quietly removed web pages on rural energy, climate-smart agriculture, and federal loans — until farmers sued....",
-      "link": "https://grist.org/food-and-agriculture/trump-usda-climate-data-information-website-lawsuit-farmers-settlement/",
-      "pubDate": "Thu, 15 May 2025 20:43:44 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/GettyImages-2210854812.jpg?quality=75&amp;strip=all"
     }
   ]
 }
