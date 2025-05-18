@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-18T12:48:52.492Z",
+  "lastUpdated": "2025-05-18T13:30:18.267Z",
   "articles": [
+    {
+      "title": "This land is their land: Trump is selling out the US’s beloved wilderness",
+      "description": "&lt;p&gt;During the McCarthy era’s darkest days, public lands came under attack. History now repeats itself – and this may be the last chance to defen...",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2025/may/18/trump-public-lands-conservation-workers",
+      "pubDate": "Sun, 18 May 2025 13:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1076d5609de62bf68b3d536d4b9e6b4de00ea9c7/0_314_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01f02e54eb0bce96f0144776d950132c"
+    },
+    {
+      "title": "Solar grants held hostage in Pennsylvania legislature — as demand soars",
+      "description": "While Solar for All funds languish, the state continues to lag behind most of the nation when it comes to renewable energy....",
+      "link": "https://grist.org/energy/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars/",
+      "pubDate": "Sun, 18 May 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/residential-solar-tax-credit-IRA-Trump.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "Trump’s new border wall will threaten wildlife in an area where few people pass",
       "description": "&lt;p&gt;The San Rafael valley in Arizona is home to bears, mountain lions and wolves – now their movement will be restricted&lt;/p&gt;&lt;p&gt;Donald...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "ESG Reporting Just Got Smarter: Meet the AI Agents Taking Over Compliance in Australia",
-      "description": "Innovative AI platform set to save Australian businesses up to 85% in compliance costs while enabling sustainability teams to focus on meaningful impa...",
-      "link": "https://econews.com.au/67119/esg-reporting-just-got-smarter-meet-the-ai-agents-taking-over-compliance-in-australia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=esg-reporting-just-got-smarter-meet-the-ai-agents-taking-over-compliance-in-australia",
-      "pubDate": "Fri, 16 May 2025 06:03:14 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Eye in the sky protects local wildlife",
-      "description": "Preparing for one of thermal drone surveys at Greenbank are (from left) Ripper Corporation Senior Remote Pilot Jake MacManus, CEO Jason Young and Seni...",
-      "link": "https://econews.com.au/67117/eye-in-the-sky-protects-local-wildlife/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eye-in-the-sky-protects-local-wildlife",
-      "pubDate": "Fri, 16 May 2025 06:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
