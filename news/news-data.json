@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-05-19T08:35:54.426Z",
+  "lastUpdated": "2025-05-19T09:29:47.553Z",
   "articles": [
+    {
+      "title": "‘I was watching osprey for five hours a day’: how the world fell in love with nature live streams",
+      "description": "&lt;p&gt;More and more people are hooked on watching animals in real time. Now researchers say it could even improve your mood, help you relax and giv...",
+      "link": "https://www.theguardian.com/environment/2025/may/19/nature-live-streams-webcam-wellbeing-aoe",
+      "pubDate": "Mon, 19 May 2025 09:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a9159523ebc3c593b9706130bef94a7fc1e0e5b9/669_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37277585207e0a77fb56ec821d75c46d"
+    },
+    {
+      "title": "In California, Flawed Air Rules Threaten Farmworkers as Wildfires Pump More Smoke Onto Fields",
+      "description": "OXNARD, Calif.—The January wildfires were still raging to the east in Pacific Palisades, torching thousands of homes and painting the Southern Califor...",
+      "link": "https://insideclimatenews.org/news/19052025/california-wildfire-air-pollution-farmworker-safety/",
+      "pubDate": "Mon, 19 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Report Highlights Community Pushback Stalling $64 Billion in Data Center Development Nationwide",
+      "description": "As Elena Schlossberg of Prince William County, Virginia, sees it, the community effort to fight the richest companies in the world seeking to build da...",
+      "link": "https://insideclimatenews.org/news/19052025/virginia-data-center-development-community-pushback/",
+      "pubDate": "Mon, 19 May 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Despite backlash, more states are considering laws to make Big Oil pay for climate change",
+      "description": "After Vermont and New York passed \"climate Superfund\" legislation, 11 states have introduced similar bills this year....",
+      "link": "https://grist.org/accountability/climate-superfund-law-maryland-california-vermont-new-york-trump-lawsuits/",
+      "pubDate": "Mon, 19 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/new-york-climate-superfund-protestors.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "ReGen Expo Announces Free Two-Day Speaker Program to Accelerate Australia’s Circular Economy Action",
       "description": "Australia’s leading event for circular economy innovation, ReGen Expo, has released its free two-day speaker program set to take place on 23–24 July 2...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d0f35f662690d937a0b2c7c4f9cbf03b9834e6f7/350_0_1494_1195/master/1494.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f42bacdd112997a5e6e76e3810f6b9e0"
-    },
-    {
-      "title": "Trump’s 2-year reprieve gives coal plants ‘a free pass to pollute’",
-      "description": "A former EPA official warns exemption for some coal-fired power plants could be the first step toward gutting pollution rules for all plants....",
-      "link": "https://grist.org/energy/trumps-2-year-reprieve-gives-coal-plants-a-free-pass-to-pollute/",
-      "pubDate": "Sat, 17 May 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/coal-plants-in-the-us.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "A 20 Percent Electric Bill Surge Tests New Jersey’s Climate Goals",
-      "description": "On June 1, New Jersey residents will face something they’ve dreaded for months: A nearly 20 percent rate increase in their electricity bills. A leadin...",
-      "link": "https://insideclimatenews.org/news/17052025/new-jersey-electric-bill-rate-hike/",
-      "pubDate": "Sat, 17 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Green Is Pope Leo XIV?",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with Erin Lothe...",
-      "link": "https://insideclimatenews.org/news/17052025/pope-leo-xiv-environment-climate-change/",
-      "pubDate": "Sat, 17 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Microplastics from Texas Bays Are Washed Out to Sea, New Study Says",
-      "description": "A recent study found surprisingly low levels of harmful microplastics in the sediments of Texas bays that are notorious for plastic pollution. This le...",
-      "link": "https://insideclimatenews.org/news/16052025/texas-microplastic-bay-pollution/",
-      "pubDate": "Fri, 16 May 2025 23:07:12 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
