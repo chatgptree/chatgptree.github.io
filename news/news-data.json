@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-20T23:23:42.362Z",
+  "lastUpdated": "2025-05-21T02:06:18.884Z",
   "articles": [
+    {
+      "title": "Thames Water halts bosses bonus scheme",
+      "description": "The company pauses its \"retention scheme\", which pays out cash to top executives linked to its rescue loan....",
+      "link": "https://www.bbc.com/news/articles/c4g3300yyyno",
+      "pubDate": "Wed, 21 May 2025 01:39:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "NSW floods: BoM warns of ‘lots of flooding to come’ amid wet weather on mid-north coast",
+      "description": "&lt;p&gt;Two days of heavy rainfall still on way as SES carries out 130 rescues amid floods in Taree and nearby areas&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
+      "link": "https://www.theguardian.com/australia-news/2025/may/21/nsw-weather-bom-warns-of-lots-of-flooding-to-come-on-mid-north-coast",
+      "pubDate": "Wed, 21 May 2025 01:27:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fe2d6fa22910d6326beed1847da8856dcb49b185/15_0_1589_1271/master/1589.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d71c0fc0390d32f93ffe9a2e301874b4"
+    },
+    {
+      "title": "Defending Human Rights Is Dangerous. Defending Nature Makes It Even Riskier",
+      "description": "One evening in January 2023, Indigenous leader Antonio Díaz Valencia and human rights lawyer Ricardo Arturo Lagunes Gasca vanished.&#160; Earlier that...",
+      "link": "https://insideclimatenews.org/news/20052025/report-reveals-attacks-on-environmental-defenders/",
+      "pubDate": "Wed, 21 May 2025 01:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Chairman of Texas’ Public Utility Commission Has a To-Do List",
       "description": "Ahead of Thomas Gleeson’s unanimous full confirmation Monday as the chairman of the Public Utility Commission of Texas, Sen. Angela Paxton asked the e...",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cj93e40znl3o",
       "pubDate": "Tue, 20 May 2025 09:21:04 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sea level rise will cause ‘catastrophic inland migration’, scientists warn",
-      "description": "&lt;p&gt;Rising oceans will force millions away from coasts even if global temperature rise remains below 1.5C, analysis finds&lt;/p&gt;&lt;p&gt;Sea l...",
-      "link": "https://www.theguardian.com/environment/2025/may/20/sea-level-rise-migration",
-      "pubDate": "Tue, 20 May 2025 09:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/923890198ebd5513cdbc4ac3941638e797fe906a/288_0_2880_2304/master/2880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2668c39332c97a1591548ac584d85c86"
-    },
-    {
-      "title": "Michigan Lawmakers Aim to Revisit ‘Polluter Pay’ to Enforce Cleanup of Toxic Sites",
-      "description": "Michigan lawmakers are again aiming to boost state environmental cleanup standards and force polluting industries to rehabilitate brownfield sites. “P...",
-      "link": "https://insideclimatenews.org/news/20052025/michigan-polluter-pay-toxic-site-cleanup/",
-      "pubDate": "Tue, 20 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Unraveling the Link Between Plastics and Autism",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with Dr. Philip Landr...",
-      "link": "https://insideclimatenews.org/news/20052025/plastics-pollution-toxic-exposure-autism-links/",
-      "pubDate": "Tue, 20 May 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
