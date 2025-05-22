@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-05-22T15:28:13.534Z",
+  "lastUpdated": "2025-05-22T16:33:03.760Z",
   "articles": [
+    {
+      "title": "Penguin Poop May Help Preserve Antarctic Climate",
+      "description": "New research shows that penguin guano in Antarctica is an important source of ammonia aerosol particles that help drive the formation and persistence ...",
+      "link": "https://insideclimatenews.org/news/22052025/penguin-poop-could-preserve-antarctic-climate/",
+      "pubDate": "Thu, 22 May 2025 16:18:11 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "An international agreement to prepare for future pandemics is adopted. What does it mean?...",
+      "link": "https://www.bbc.co.uk/sounds/play/m002cfkw",
+      "pubDate": "Thu, 22 May 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Busy hurricane season expected as forecasters fear Trump cuts",
+      "description": "The warning comes as cuts to American research raise fears over the ability to track and prepare for them....",
+      "link": "https://www.bbc.com/news/articles/cp855prygj1o",
+      "pubDate": "Thu, 22 May 2025 15:43:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Busy hurricane season expected as forecasters fear Trump cuts",
+      "description": "The warning comes as cuts to American research raise fears over the ability to track and prepare for them....",
+      "link": "https://www.bbc.com/news/articles/cp855prygj1o",
+      "pubDate": "Thu, 22 May 2025 15:43:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "AI could account for nearly half of datacentre power usage ‘by end of year’",
+      "description": "&lt;p&gt;Analysis comes as energy agency predicts systems will need as much energy by end of decade as Japan uses today&lt;/p&gt;&lt;p&gt;Artificial i...",
+      "link": "https://www.theguardian.com/environment/2025/may/22/ai-data-centre-power-consumption",
+      "pubDate": "Thu, 22 May 2025 15:07:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4ffc76c74bc5f4bc5d3cc86b5cd689d5a9282fc5/911_0_4773_3819/master/4773.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e46146cb61770496fa5a1e2c554eec1a"
+    },
     {
       "title": "The weird way that penguin poop might be cooling Antarctica",
       "description": "Scientists find that ammonia wafting from all that guano kicks off an atmospheric chain reaction....",
@@ -74,15 +119,6 @@
       "image": "https://i.guim.co.uk/img/media/151fcc202b45ecd011447a683779b2b7eff8f54c/747_0_2810_2248/master/2810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=966a811f974c870b88ee11eed562ded1"
     },
     {
-      "title": "NSW floods: three dead, one missing as state faces worse flooding than many have seen in their lifetimes",
-      "description": "&lt;p&gt;With more intense rain forecast, the SES has a fleet of 500 boats and nine helicopters trying to assist 48,000 people isolated in flood water...",
-      "link": "https://www.theguardian.com/australia-news/2025/may/22/nsw-floods-thousands-stranded-in-mid-north-coast-with-more-heavy-rain-to-come",
-      "pubDate": "Thu, 22 May 2025 09:15:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a1a3c7beec02fc72a838a2cf146208134c882917/304_0_1440_1152/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4305b2b0b93963599cb82c9603f73fc"
-    },
-    {
       "title": "In Chicago, Artists Imagine a World Without Prisons or Environmental Hazards",
       "description": "Darrell Fair was in his cell at Stateville Correctional Center during a heat wave last June when he heard shouts for help. Someone in a cell nearby wa...",
       "link": "https://insideclimatenews.org/news/22052025/chicago-art-exhibit-links-environmental-injustice-and-prison-system/",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Patagonia Announces New Film ‘Sea Country — Malu Lag’ Celebrating First Nations Leadership",
-      "description": "Nicole Gormley The new documentary, titled ‘Sea Country — Malu Lag,’ which translates to ‘Our Sea’ follows the story of Tishiko King in a powerful tri...",
-      "link": "https://econews.com.au/67145/patagonia-announces-new-film-sea-country-malu-lag-celebrating-first-nations-leadership/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=patagonia-announces-new-film-sea-country-malu-lag-celebrating-first-nations-leadership",
-      "pubDate": "Thu, 22 May 2025 04:03:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Green bond issuance to hit record US$600 billion in 2025",
-      "description": "  Johann Ple, Fixed Income Portfolio Manager at AXA Investment Managers. AXA Investment Managers forecasts that green bond issuance will soar to US$60...",
-      "link": "https://econews.com.au/67143/green-bond-issuance-to-hit-record-us600-billion-in-2025/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=green-bond-issuance-to-hit-record-us600-billion-in-2025",
-      "pubDate": "Thu, 22 May 2025 04:03:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/04/AXA-IM.png"
-    },
-    {
-      "title": "We bear the brunt of the climate crisis. A Pacific Cop could help shape the global response | Surangel Whipps Jr",
-      "description": "&lt;p&gt;Australia should also make moves to address the climate impact of its fossil fuel production and exports&lt;/p&gt;&lt;p&gt;Watching from the ...",
-      "link": "https://www.theguardian.com/commentisfree/2025/may/22/we-bear-the-brunt-of-the-climate-crisis-a-pacific-cop-could-help-shape-the-global-response",
-      "pubDate": "Thu, 22 May 2025 01:44:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cef02803d79352651a111e7454c5cc4053e1740f/0_116_2800_1680/master/2800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10aab5d6b4fd8d60955e02a14c5369d6"
-    },
-    {
-      "title": "UK sea temperatures soar after exceptionally warm spring",
-      "description": "Sea temperatures in some areas off the UK and Ireland are 4C above average....",
-      "link": "https://www.bbc.com/news/articles/c7533y6l3k0o",
-      "pubDate": "Thu, 22 May 2025 01:05:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
