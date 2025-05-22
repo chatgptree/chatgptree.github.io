@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-22T16:33:03.760Z",
+  "lastUpdated": "2025-05-22T17:23:30.567Z",
   "articles": [
+    {
+      "title": "Sluggish sloth's secrets of success revealed in new study",
+      "description": "Scientists say early humans were to blame for many extinctions - but small tree-dwelling sloths survived....",
+      "link": "https://www.bbc.com/news/articles/cqj774l548po",
+      "pubDate": "Thu, 22 May 2025 17:07:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Penguin Poop May Help Preserve Antarctic Climate",
       "description": "New research shows that penguin guano in Antarctica is an important source of ammonia aerosol particles that help drive the formation and persistence ...",
@@ -49,7 +58,7 @@
     {
       "title": "The weird way that penguin poop might be cooling Antarctica",
       "description": "Scientists find that ammonia wafting from all that guano kicks off an atmospheric chain reaction....",
-      "link": "https://grist.org/climate/research-penguin-poop-cooling-antarctica/",
+      "link": "https://grist.org/science/research-penguin-poop-cooling-antarctica/",
       "pubDate": "Thu, 22 May 2025 15:00:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -84,7 +93,7 @@
     },
     {
       "title": "Fury as Republicans go ‘nuclear’ in fight over California car emissions",
-      "description": "&lt;p&gt;Newsom issues rallying cry as GOP-controlled Senate moves ahead with plan to revoke key environmental rule&lt;/p&gt;&lt;p&gt;California has l...",
+      "description": "&lt;p&gt;Newsom issues rallying cry as GOP-controlled Senate votes to reverse EPA waiver and prevent state setting own rules&lt;/p&gt;&lt;p&gt;Califor...",
       "link": "https://www.theguardian.com/us-news/2025/may/22/republicans-california-epa-waiver-cars",
       "pubDate": "Thu, 22 May 2025 11:36:27 GMT",
       "sourceName": "theguardian.com",
@@ -168,15 +177,6 @@
       "description": "Deakin University’s Institute for Frontier Materials (IFM) has partnered with iconic fashion brand Country Road to trial a fully domestic process to t...",
       "link": "https://econews.com.au/67149/from-farm-to-fashion-deakin-and-country-road-join-forces/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=from-farm-to-fashion-deakin-and-country-road-join-forces",
       "pubDate": "Thu, 22 May 2025 04:03:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "La Trobe University’s cutting-edge energy solutions address its net zero mission",
-      "description": "La Trobe’s net zero ambition is being achieved with a fully integrated solar farm and battery storage solution powered by Schneider Electric. Reductio...",
-      "link": "https://econews.com.au/67147/la-trobe-universitys-cutting-edge-energy-solutions-address-its-net-zero-mission/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-trobe-universitys-cutting-edge-energy-solutions-address-its-net-zero-mission",
-      "pubDate": "Thu, 22 May 2025 04:03:09 +0000",
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
