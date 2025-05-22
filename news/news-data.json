@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-05-22T07:25:29.179Z",
+  "lastUpdated": "2025-05-22T08:34:12.217Z",
   "articles": [
     {
-      "title": "NSW floods: second person dead and ‘grave fears’ for two still missing as crisis worsens",
-      "description": "&lt;p&gt;With 48,000 already isolated, forecasters say intense rainfall has spread north bringing life-threatening risk&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "title": "NSW floods: three dead, one missing as state faces worse flooding than many have seen in their lifetimes",
+      "description": "&lt;p&gt;With more intense rain forecast, the SES has a fleet of 500 boats and nine helicopters trying to assist 48,000 people isolated in flood water...",
       "link": "https://www.theguardian.com/australia-news/2025/may/22/nsw-floods-thousands-stranded-in-mid-north-coast-with-more-heavy-rain-to-come",
-      "pubDate": "Thu, 22 May 2025 05:53:15 GMT",
+      "pubDate": "Thu, 22 May 2025 08:07:05 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a1a3c7beec02fc72a838a2cf146208134c882917/304_0_1440_1152/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4305b2b0b93963599cb82c9603f73fc"
@@ -81,6 +81,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cef02803d79352651a111e7454c5cc4053e1740f/0_116_2800_1680/master/2800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10aab5d6b4fd8d60955e02a14c5369d6"
+    },
+    {
+      "title": "UK sea temperatures soar after exceptionally warm Spring",
+      "description": "Sea temperatures in some areas off the UK and Ireland are 4C above average....",
+      "link": "https://www.bbc.com/news/articles/c7533y6l3k0o",
+      "pubDate": "Thu, 22 May 2025 01:05:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "UK sea temperatures soar after exceptionally warm Spring",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/62a1bd29efa7eb1673324641167977ad1269b88f/0_0_4162_3329/master/4162.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d214232a22758090b5bfcd11f6471f5"
-    },
-    {
-      "title": "El Paso Hasn’t Seen This Many Dust Storms Since the Dust Bowl",
-      "description": "EL PASO, Texas—On a Tuesday afternoon in May, earth system scientist Thomas Gill was tracking yet more dust rolling through this border city.&#160; Gi...",
-      "link": "https://insideclimatenews.org/news/21052025/el-paso-dust-storm-drought-climate-change/",
-      "pubDate": "Wed, 21 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
