@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-22T09:28:33.690Z",
+  "lastUpdated": "2025-05-22T10:28:48.384Z",
   "articles": [
+    {
+      "title": "Chris Packham calls sea bass labelling in UK supermarkets a ‘dereliction of duty’",
+      "description": "&lt;p&gt;The TV naturalist’s comments come after a Guardian investigation into the complex supply chain behind the fish on sale on Britain’s high stre...",
+      "link": "https://www.theguardian.com/environment/2025/may/22/chris-packham-calls-sea-bass-labelling-in-uk-supermarkets-a-dereliction-of-duty",
+      "pubDate": "Thu, 22 May 2025 09:30:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9d4ae76286b3ddcb09aba452cab74133d881219c/2529_90_4650_3720/master/4650.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ced9c40978410b94234dcab08fb7dd19"
+    },
+    {
+      "title": "The hidden cost of your supermarket sea bass",
+      "description": "&lt;p&gt;Revealed: an investigation shows how consumers buying fish in the UK are playing a role in food insecurity and unemployment in Senegal&lt;/p&...",
+      "link": "https://www.theguardian.com/environment/2025/may/22/the-hidden-cost-of-your-supermarket-sea-bass",
+      "pubDate": "Thu, 22 May 2025 09:30:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/151fcc202b45ecd011447a683779b2b7eff8f54c/747_0_2810_2248/master/2810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=966a811f974c870b88ee11eed562ded1"
+    },
     {
       "title": "NSW floods: three dead, one missing as state faces worse flooding than many have seen in their lifetimes",
       "description": "&lt;p&gt;With more intense rain forecast, the SES has a fleet of 500 boats and nine helicopters trying to assist 48,000 people isolated in flood water...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flooding Caused by Atmospheric River Over Maryland Shows How Climate Change Is Stressing Inland Communities",
-      "description": "The water surged fast, outpacing local emergency response efforts and trapping nearly 200 students and staff inside Westernport Elementary School in M...",
-      "link": "https://insideclimatenews.org/news/21052025/maryland-atmospheric-river-flooding-climate-change-stressing-inland-communities/",
-      "pubDate": "Wed, 21 May 2025 16:48:15 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Plants produce more nectar when they ‘hear’ bees buzzing, scientists find",
-      "description": "&lt;p&gt;Researchers suggest buzzing noises could be used as environmentally friendly way to enhance crop pollination&lt;/p&gt;&lt;p&gt;Plants can “he...",
-      "link": "https://www.theguardian.com/environment/2025/may/21/plants-produce-more-nectar-when-they-hear-bees-buzzing-scientists-find",
-      "pubDate": "Wed, 21 May 2025 14:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/81f43e00cac9c76f5321973a6da119b1e627e4d2/254_0_2533_2027/master/2533.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbd2496d4c1919697e8b45ecfc111881"
     }
   ]
 }
