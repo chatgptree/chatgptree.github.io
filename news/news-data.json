@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-22T12:54:36.838Z",
+  "lastUpdated": "2025-05-22T13:36:51.787Z",
   "articles": [
+    {
+      "title": "‘Unprecedented’ marine heatwave hits waters around Devon, Cornwall and Ireland",
+      "description": "&lt;p&gt;Scientists warn of profound impacts as sea temperatures rise by up to 4C above average for springtime&lt;/p&gt;&lt;p&gt;The sea off the coast...",
+      "link": "https://www.theguardian.com/environment/2025/may/22/marine-heatwave-sea-temperatures-devon-cornwall-ireland",
+      "pubDate": "Thu, 22 May 2025 13:27:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fb006c5bcd5736e738d874a3af2523c857166c50/419_0_4339_3471/master/4339.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4826702b4186fada555b76ed00029ff4"
+    },
     {
       "title": "Fury as Republicans go ‘nuclear’ in fight over California car emissions",
       "description": "&lt;p&gt;Newsom issues rallying cry as GOP-controlled Senate moves ahead with plan to revoke key environmental rule&lt;/p&gt;&lt;p&gt;California has l...",
@@ -56,8 +65,8 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "The Kentucky tornadoes spur mounting anxiety over Weather Service warning systems",
-      "description": "Trump weakened understaffed National Weather Service offices. Some people in the storms' paths wonder if budget cuts contributed to the death and dest...",
+      "title": "The Kentucky tornadoes spur mounting anxiety over weather service warning systems",
+      "description": "Trump weakened understaffed National Weather Service offices. Some people in the storms' path wonder if budget cuts contributed to the death and destr...",
       "link": "https://grist.org/extreme-weather/the-kentucky-tornadoes-spur-mounting-anxiety-over-weather-service-warning-systems/",
       "pubDate": "Thu, 22 May 2025 08:45:00 +0000",
       "sourceName": "grist.org",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c1j554pgjgko",
       "pubDate": "Wed, 21 May 2025 23:10:41 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fish Threatened By Farms and Mining Set to Be First Species Listed As Endangered in Second Trump Term",
-      "description": "DYER, Nev.—A century ago, Fish Lake Valley looked much more like its name than it does today.&#160; Ephemeral streams flowed from the mountain ranges ...",
-      "link": "https://insideclimatenews.org/news/21052025/nevada-fish-lake-valley-tui-chub-threatened/",
-      "pubDate": "Wed, 21 May 2025 22:41:44 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
