@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-22T23:24:40.152Z",
+  "lastUpdated": "2025-05-23T02:05:25.235Z",
   "articles": [
+    {
+      "title": "William: Attenborough was 'inspiration' for new show",
+      "description": "The Prince of Wales says his new series on rangers follows in the nature broadcaster's footsteps....",
+      "link": "https://www.bbc.com/news/articles/c3087vlmljmo",
+      "pubDate": "Fri, 23 May 2025 00:21:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "NSW floods: death toll rises to four after man’s body found in car as intense rain moves south",
+      "description": "&lt;p&gt;Severe weather warning for areas further south as 48,000 stranded and water levels at their highest for 100 years&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/australia-news/2025/may/22/rain-reprieve-expected-for-north-nsw-after-deadly-flooding-smashed-communities",
+      "pubDate": "Fri, 23 May 2025 00:05:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9dacf697f0299a5f2d66db06c1217305d6858590/1078_64_3967_3173/master/3967.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a872cbe8a915ed2bfc83393fe5f8861b"
+    },
+    {
+      "title": "The Senate just voted to block California’s gas car ban",
+      "description": "Legal experts say Congress misused a federal law to do so, potentially “opening up a Pandora’s box it cannot close.”...",
+      "link": "https://grist.org/regulation/senate-rescinds-californias-ev-rules-congressional-review-act/",
+      "pubDate": "Thu, 22 May 2025 23:43:23 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/highway-california.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "New Mexico Is the Latest State Developing Standards to Protect Workers in Extreme Heat",
       "description": "Farm workers in southern New Mexico get to work hours before dawn during heat waves to harvest chile peppers. Oilfield workers don heavy gear, despite...",
@@ -146,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/f8676b5eeb80cad55fb03ce5d1f580af51442e26/827_141_2042_1633/master/2042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6dd9a4b15797b584a848c65dfdb495f"
     },
     {
-      "title": "‘Unprecedented’ marine heatwave hits waters around Devon, Cornwall and Ireland",
-      "description": "&lt;p&gt;Scientists warn of profound impacts as sea temperatures rise by up to 4C above average for springtime&lt;/p&gt;&lt;p&gt;The sea off the coast...",
-      "link": "https://www.theguardian.com/environment/2025/may/22/marine-heatwave-sea-temperatures-devon-cornwall-ireland",
-      "pubDate": "Thu, 22 May 2025 13:27:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fb006c5bcd5736e738d874a3af2523c857166c50/419_0_4339_3471/master/4339.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4826702b4186fada555b76ed00029ff4"
-    },
-    {
       "title": "Fury as Republicans go ‘nuclear’ in fight over California car emissions",
       "description": "&lt;p&gt;Newsom issues rallying cry as GOP-controlled Senate votes to reverse EPA waiver and prevent state setting own rules&lt;/p&gt;&lt;p&gt;&lt;a h...",
       "link": "https://www.theguardian.com/us-news/2025/may/22/republicans-california-epa-waiver-cars",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3ba468ccd9b44a159856c856148c9b36c1d97cc2/211_0_4710_3769/master/4710.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad234f412faa5ecf1ff562db522956f7"
-    },
-    {
-      "title": "Trump’s tax bill to cost 830,000 jobs and drive up bills and pollution emissions, experts warn",
-      "description": "&lt;p&gt;Bill will unleash millions more tonnes of planet-heating pollution and couldn’t come at a worse time, say experts&lt;/p&gt;&lt;p&gt;A Republi...",
-      "link": "https://www.theguardian.com/environment/2025/may/22/trump-republican-tax-bill",
-      "pubDate": "Thu, 22 May 2025 11:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2f8e41942b289fd011a000d8e6150308e3b9cc4b/587_0_2913_2330/master/2913.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c3444d20b709f515fae773b0186b45d"
-    },
-    {
-      "title": "The hidden cost of your supermarket sea bass",
-      "description": "&lt;p&gt;Revealed: an investigation shows how consumers buying fish in the UK are playing a role in food insecurity and unemployment in Senegal&lt;/p&...",
-      "link": "https://www.theguardian.com/environment/2025/may/22/the-hidden-cost-of-your-supermarket-sea-bass",
-      "pubDate": "Thu, 22 May 2025 09:30:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/151fcc202b45ecd011447a683779b2b7eff8f54c/747_0_2810_2248/master/2810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=966a811f974c870b88ee11eed562ded1"
     }
   ]
 }
