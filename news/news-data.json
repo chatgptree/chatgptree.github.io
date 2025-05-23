@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-23T09:28:15.978Z",
+  "lastUpdated": "2025-05-23T10:30:29.518Z",
   "articles": [
+    {
+      "title": "California hummingbird beaks transformed by feeders: ‘more tapered and longer’",
+      "description": "&lt;p&gt;Study details evolutionary change of Anna’s hummingbirds and finds ranges have expanded to follow such devices&lt;/p&gt;&lt;p&gt;Which came f...",
+      "link": "https://www.theguardian.com/environment/2025/may/23/california-hummingbird-beak-study",
+      "pubDate": "Fri, 23 May 2025 10:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f37bea35dcfe441e90990cd6e0ef5eb8f8898c9c/158_0_2096_1676/master/2096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=533bc75da3dd3bb5937f90f4e184b9f7"
+    },
     {
       "title": "NOAA Predicts Above-Average Hurricane Activity This Year",
       "description": "Forecasters at the National Oceanic and Atmospheric Administration expect above-average hurricane activity this season. The federal agency, in its ann...",
@@ -36,24 +45,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3ae5e6c8734999235e9fdd4cef8a03997fa8e0c3/1080_0_5929_4745/master/5929.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=244a103817da7be08707ebb2ff68de56"
-    },
-    {
-      "title": "Wildlife Victoria Statement on Victorian State Budget",
-      "description": "We are grateful to the Victorian State Government for its continued support of Wildlife Victoria. This support enables us to carry out our critical wo...",
-      "link": "https://econews.com.au/67155/wildlife-victoria-statement-on-victorian-state-budget/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wildlife-victoria-statement-on-victorian-state-budget",
-      "pubDate": "Fri, 23 May 2025 06:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "CH4 Global named as one of the world’s top Sustainable Development Goal leaders",
-      "description": "CH4 Global has been named as one of the world’s top 50 United Nations Sustainable Development Goal leaders, in a series featuring on CNBC in the US. T...",
-      "link": "https://econews.com.au/67153/ch4-global-named-as-one-of-the-worlds-top-sustainable-development-goal-leaders/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ch4-global-named-as-one-of-the-worlds-top-sustainable-development-goal-leaders",
-      "pubDate": "Fri, 23 May 2025 06:02:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png"
     },
     {
       "title": "Week in wildlife: blue waterfowl, a rescued baby orangutan and a real-life Pikachu",
@@ -177,6 +168,15 @@
       "description": "An international agreement to prepare for future pandemics is adopted. What does it mean?...",
       "link": "https://www.bbc.co.uk/sounds/play/m002cfkw",
       "pubDate": "Thu, 22 May 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Busy hurricane season expected as forecasters fear Trump cuts",
+      "description": "The warning comes as cuts to American research raise fears over the ability to track and prepare for them....",
+      "link": "https://www.bbc.com/news/articles/cp855prygj1o",
+      "pubDate": "Thu, 22 May 2025 15:43:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
