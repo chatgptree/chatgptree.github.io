@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-23T22:25:01.051Z",
+  "lastUpdated": "2025-05-23T23:24:30.383Z",
   "articles": [
+    {
+      "title": "Trump Signs Executive Orders to Boost Nuclear Energy, Reduce Oversight",
+      "description": "President Donald Trump signed a series of executive orders Friday focused on speeding up nuclear energy development by reducing regulations that offic...",
+      "link": "https://insideclimatenews.org/news/23052025/trump-nuclear-energy-executive-orders/",
+      "pubDate": "Fri, 23 May 2025 22:49:51 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A Double Whammy for Scientists: Big Budget Cuts, Big Climate Consequences",
       "description": "On Tuesday, a small crowd gathered outside Tom’s Restaurant in New York City. The cozy, neon-lit diner appeared regularly on the sitcom “Seinfeld,&#82...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Senate just voted to block California’s gas car ban",
-      "description": "Legal experts say Congress misused a federal law to do so, potentially “opening up a Pandora’s box it cannot close.”...",
-      "link": "https://grist.org/regulation/senate-rescinds-californias-ev-rules-congressional-review-act/",
-      "pubDate": "Thu, 22 May 2025 23:43:23 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/highway-california.jpg?quality=75&amp;strip=all"
     }
   ]
 }
