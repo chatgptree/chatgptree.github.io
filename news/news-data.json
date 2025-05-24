@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-24T09:24:16.859Z",
+  "lastUpdated": "2025-05-24T10:25:41.779Z",
   "articles": [
+    {
+      "title": "Scientists seek to save Florida’s dying reefs with hardy nursery-grown coral",
+      "description": "&lt;p&gt;Reefs off the Keys have lost 90% of healthy coral cover in 40 years, but replanting effort aims to make reef more resilient&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/us-news/2025/may/24/florida-coral-replanting-effort",
+      "pubDate": "Sat, 24 May 2025 10:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fda3089e63f29121702159a8644e4f8bee74db93/126_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3d7b453d7fb69b2296730d878a89eea"
+    },
+    {
+      "title": "Moore Vetoes Key Maryland Climate Studies, Reversing Course on Environmental Justice Commitments",
+      "description": "Maryland legislators and environmental advocates expressed dismay after Gov. Wes Moore vetoed a series of widely supported climate and environmental s...",
+      "link": "https://insideclimatenews.org/news/24052025/maryland-governor-vetoes-key-climate-studies/",
+      "pubDate": "Sat, 24 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Zoo welfare standards for Britain get first update since 2012",
       "description": "&lt;p&gt;New rules for zoos and aquariums include guidance on elephant enclosures and ban on touching fish&lt;/p&gt;&lt;p&gt;Zoos will be obliged to b...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png"
-    },
-    {
-      "title": "Week in wildlife: blue waterfowl, a rescued baby orangutan and a real-life Pikachu",
-      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/may/23/week-in-wildlife-blue-waterfowl-a-rescued-baby-orangutan-and-a-real-life-pikachu",
-      "pubDate": "Fri, 23 May 2025 06:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c8b9862e88d1310a7538cab2c89acad979b26fee/0_0_4549_3639/master/4549.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54712c296d635f2defaaa2e4f025999"
-    },
-    {
-      "title": "William: Attenborough was 'inspiration' for new show",
-      "description": "The Prince of Wales says his new series on rangers follows in the nature broadcaster's footsteps....",
-      "link": "https://www.bbc.com/news/articles/c3087vlmljmo",
-      "pubDate": "Fri, 23 May 2025 00:21:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
