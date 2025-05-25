@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-25T08:30:42.279Z",
+  "lastUpdated": "2025-05-25T09:24:21.481Z",
   "articles": [
+    {
+      "title": "After the LA Fires, Scientists Study the Toxins Left Behind",
+      "description": "After the Fires: First in a series about health risks following the Los Angeles wildfires that destroyed Pacific Palisades and Altadena. This story wa...",
+      "link": "https://insideclimatenews.org/news/25052025/scientists-study-la-fire-toxins/",
+      "pubDate": "Sun, 25 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Melbourne shopping centre placed into lockdown – as it happened",
       "description": "&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/news/ng-interactive/2025/may/22/nsw-flo...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f37bea35dcfe441e90990cd6e0ef5eb8f8898c9c/158_0_2096_1676/master/2096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=533bc75da3dd3bb5937f90f4e184b9f7"
-    },
-    {
-      "title": "NOAA Predicts Above-Average Hurricane Activity This Year",
-      "description": "Forecasters at the National Oceanic and Atmospheric Administration expect above-average hurricane activity this season. The federal agency, in its ann...",
-      "link": "https://insideclimatenews.org/news/23052025/noaa-predicts-above-average-hurricane-year-amid-fudning-uncertainty/",
-      "pubDate": "Fri, 23 May 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
