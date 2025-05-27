@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-27T08:34:10.559Z",
+  "lastUpdated": "2025-05-27T09:27:51.318Z",
   "articles": [
+    {
+      "title": "Planet’s darkening oceans pose threat to marine life, scientists say",
+      "description": "&lt;p&gt;Band of water where marine life can survive has reduced in more than a fifth of global ocean between 2003 and 2022&lt;/p&gt;&lt;p&gt;Great sw...",
+      "link": "https://www.theguardian.com/environment/2025/may/27/planets-darkening-oceans-pose-threat-marine-life-scientists-say",
+      "pubDate": "Tue, 27 May 2025 09:01:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c1c8674d75c65fe6f7b10b2e0bab4655be4928cd/1127_0_3870_3096/master/3870.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a53698f61d4d5049363aa62b4ea3297"
+    },
+    {
+      "title": "With Clean Energy Stalled, Can New Jersey Bet on Nuclear and Win?",
+      "description": "With growing energy demand and delays in renewable energy rollout, New Jersey is doubling down on nuclear—its largest source of in-state electricity—a...",
+      "link": "https://insideclimatenews.org/news/27052025/new-jersey-doubles-down-on-nuclear-energy/",
+      "pubDate": "Tue, 27 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Big Ag thwarted wetlands protections in Illinois and Iowa",
+      "description": "Two years ago, the Supreme Court made it easier to destroy swamps and marshes. Agricultural lobbyists want to keep it that way....",
+      "link": "https://grist.org/food-and-agriculture/wetlands-protections-sackett-agricultural-lobbying-illinois-iowa-farm-bureau/",
+      "pubDate": "Tue, 27 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/GettyImages-2166490129.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "More interstate dust storms expected if South Australia drought continues, expert warns",
       "description": "&lt;p&gt;Haze hits Sydney suburbs on Tuesday morning after crossing NSW from SA and Victoria&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https:/...",
@@ -101,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/b6fb67759b27b9aadc8f7075d28355b7fcb244f1/815_0_3835_3070/master/3835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1477e6ce6215293f3dbd23ba4a708242"
     },
     {
-      "title": "Four former Volkswagen managers convicted of fraud in ‘dieselgate’ trial",
-      "description": "&lt;p&gt;Braunschweig court gives two former executives prison sentences for roles in emissions test-cheating scandal&lt;/p&gt;&lt;p&gt;A German court...",
-      "link": "https://www.theguardian.com/business/2025/may/26/germany-former-volkswagen-managers-convicted-fraud-dieselgate",
-      "pubDate": "Mon, 26 May 2025 18:30:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9fd02dac17571b01440e5ddcb3f19470d3228ec7/326_0_3867_3094/master/3867.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4acff458daa22edc9f5b54e762e7f51"
-    },
-    {
       "title": "‘The spin has been wrong’: rock art expert raises concerns over critical report ahead of Woodside decision | Clear Air",
       "description": "&lt;p&gt;Environment minister Murray Watt is due to make a decision on whether to extend the controversial North West Shelf development in coming days...",
       "link": "https://www.theguardian.com/environment/2025/may/27/the-spin-has-been-wrong-rock-art-expert-raises-concerns-over-critical-report-ahead-of-woodside-decision",
@@ -159,24 +177,6 @@
       "description": "REFLECTIONS Holidays is investing $1.13 million to protect endangered fish in Australian waterways in partnership with NSW’s Department of Primary Ind...",
       "link": "https://econews.com.au/67161/reflections-holidays-invests-1-13m-to-help-bring-endangered-fish-back-from-the-brink/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reflections-holidays-invests-1-13m-to-help-bring-endangered-fish-back-from-the-brink",
       "pubDate": "Mon, 26 May 2025 05:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Queensland Government expands shark cull despite scientific evidence",
-      "description": "Expanding Queensland’s shark cull is outdated, unscientific and does nothing to improve beach safety. Peer reviewed research and court findings have c...",
-      "link": "https://econews.com.au/67159/queensland-government-expands-shark-cull-despite-scientific-evidence/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=queensland-government-expands-shark-cull-despite-scientific-evidence",
-      "pubDate": "Mon, 26 May 2025 05:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "BioPak and Greenfleet announce latest leaf cup series ahead of World Rainforest Day",
-      "description": "(L-R: Kohuhu, Makomako and Kapuka)  Kohuhu (K?h?h?) – The flowers attract pollinating moths and night insects with their honey-scented nectar. Wineber...",
-      "link": "https://econews.com.au/67157/biopak-and-greenfleet-announce-latest-leaf-cup-series-ahead-of-world-rainforest-day/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=biopak-and-greenfleet-announce-latest-leaf-cup-series-ahead-of-world-rainforest-day",
-      "pubDate": "Mon, 26 May 2025 05:02:52 +0000",
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
