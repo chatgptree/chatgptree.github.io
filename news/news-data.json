@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-28T17:24:27.929Z",
+  "lastUpdated": "2025-05-28T18:35:21.405Z",
   "articles": [
+    {
+      "title": "Cats distinguish owner's smell from stranger's, study finds",
+      "description": "Scientists believe cats can discriminate between familiar and unfamiliar humans using smell alone....",
+      "link": "https://www.bbc.com/news/articles/cvg5v11dv29o",
+      "pubDate": "Wed, 28 May 2025 18:11:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Swiss glacier collapse destroys parts of village",
       "description": "&lt;p&gt;Numerous homes in Blatten devastated after huge cloud of ice and rubble inundates evacuated town&lt;/p&gt;&lt;p&gt;A massive glacier has coll...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "The tiny island where puffins are thriving despite global decline",
-      "description": "A record number of puffins have been recorded on Skomer Island despite the birds  being at risk of extinction....",
-      "link": "https://www.bbc.com/news/articles/c0mrxwpevxmo",
-      "pubDate": "Wed, 28 May 2025 05:09:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
