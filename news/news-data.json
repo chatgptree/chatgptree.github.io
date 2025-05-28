@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-28T02:06:53.925Z",
+  "lastUpdated": "2025-05-28T03:47:35.913Z",
   "articles": [
+    {
+      "title": "A major decision on a Woodside gas plant's future hinges on WA rock art – video",
+      "description": "&lt;p&gt;Unless something extraordinary happens, Labor's new environment minister, Murray Watt, looks set to extend the life of a huge Woodside gas pl...",
+      "link": "https://www.theguardian.com/environment/video/2025/may/28/a-major-decision-on-a-woodside-gas-plants-future-hinges-on-wa-rock-art-video",
+      "pubDate": "Wed, 28 May 2025 02:47:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ebc1b277df5ed4aa91c08d9b81562d66be4f1685/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fb7d9f601f63f09e23c51898841d850"
+    },
+    {
+      "title": "Watch: Loose pigeons cause havoc on plane before take-off",
+      "description": "A US flight was delayed after two birds ended up onboard the aircraft, baffling both passengers and crew....",
+      "link": "https://www.bbc.com/news/videos/c2kqp8qewe9o",
+      "pubDate": "Wed, 28 May 2025 01:48:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'Our homes were taken for a road that was never built'",
       "description": "Three families speak of the \"utter hell\" of losing their homes to a road scheme that was cancelled....",
@@ -51,6 +69,15 @@
       "description": "A record number of puffins have been recorded on Skomer Island despite the birds  being at risk of extinction....",
       "link": "https://www.bbc.com/news/articles/c0mrxwpevxmo",
       "pubDate": "Tue, 27 May 2025 21:59:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmental rules reviewed for small housebuilders",
+      "description": "Ministers are considering how costs can be reduced for small firms to help them build more homes....",
+      "link": "https://www.bbc.com/news/articles/cgr54q5yzkzo",
+      "pubDate": "Tue, 27 May 2025 21:30:39 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Fast fashion fuels disposable culture as Australia’s landfills near breaking point",
-      "description": "Mike Twemlow, Senior Sustainability Manager at Edge Impact Australia prepares for tough new packaging laws for all businesses trading locally Just hal...",
-      "link": "https://econews.com.au/67169/fast-fashion-fuels-disposable-culture-as-australias-landfills-near-breaking-point/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fast-fashion-fuels-disposable-culture-as-australias-landfills-near-breaking-point",
-      "pubDate": "Tue, 27 May 2025 05:02:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Announcing the Winners of the Naturally Good Awards 2025!",
-      "description": "The Naturally Good Expo is excited to share the winners of the Naturally Good Awards 2025, recognising the most innovative products in Australia’s nat...",
-      "link": "https://econews.com.au/67167/announcing-the-winners-of-the-naturally-good-awards-2025/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=announcing-the-winners-of-the-naturally-good-awards-2025",
-      "pubDate": "Tue, 27 May 2025 05:02:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Unlocking Growth and Sustainability: How Packaging Powers Circularity for Consumer Packaged Goods Companies",
-      "description": "Original research in a new white paper from Avery Dennison explores how innovative pressure-sensitive labels help enable packaging circularity through...",
-      "link": "https://econews.com.au/67165/unlocking-growth-and-sustainability-how-packaging-powers-circularity-for-consumer-packaged-goods-companies/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unlocking-growth-and-sustainability-how-packaging-powers-circularity-for-consumer-packaged-goods-companies",
-      "pubDate": "Tue, 27 May 2025 05:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png"
     }
   ]
 }
