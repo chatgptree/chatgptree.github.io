@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-29T15:27:38.098Z",
+  "lastUpdated": "2025-05-29T16:32:42.534Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "We answer a selection of fascinating science questions, from Nikola Tesla to microplastics...",
+      "link": "https://www.bbc.co.uk/sounds/play/m002cqr6",
+      "pubDate": "Thu, 29 May 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "UK must consider food and climate part of national security, say top ex-military figures",
       "description": "&lt;p&gt;Former army and navy leaders urge government to think beyond military capability in advance of key defence review&lt;/p&gt;&lt;p&gt;Former mi...",
@@ -65,7 +74,7 @@
       "image": "https://i.guim.co.uk/img/media/08c01420eccf4bcba6a57bc6908003b4b7f67cb7/0_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23b437ed1f8a10f2b6d33e33845b75fa"
     },
     {
-      "title": "Nato rearmament could increase emissions by 200m tonnes a year, study finds",
+      "title": "Revealed: Nato rearmament could increase emissions by 200m tonnes a year",
       "description": "&lt;p&gt;Exclusive: researchers say defence spending boosts across world will worsen climate crisis which in turn will cause more conflict&lt;/p&gt;&l...",
       "link": "https://www.theguardian.com/environment/2025/may/29/nato-military-spending-could-increase-emissions-study-finds",
       "pubDate": "Thu, 29 May 2025 10:00:43 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Golden eagles soaring south back to English skies",
-      "description": "Golden eagles reintroduced to southern Scotland start to spread their wings back into English skies....",
-      "link": "https://www.bbc.com/news/articles/c62x408deppo",
-      "pubDate": "Thu, 29 May 2025 01:44:16 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
