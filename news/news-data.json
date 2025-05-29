@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-29T22:25:39.532Z",
+  "lastUpdated": "2025-05-29T23:24:12.065Z",
   "articles": [
+    {
+      "title": "Supreme Court Backs a Controversial Railroad in Utah for Carrying Oil",
+      "description": "The U.S. Supreme Court has ruled in favor of a controversial Utah railway project that critics say erodes the National Environmental Policy Act (NEPA)...",
+      "link": "https://insideclimatenews.org/news/29052025/supreme-court-backs-controversial-utah-oil-railroad/",
+      "pubDate": "Thu, 29 May 2025 22:55:08 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Clean Energy Project Cancellations Top $14 Billion So Far in 2025",
       "description": "Businesses have cancelled or delayed more than $14 billion of investments in U.S. clean energy projects so far this year, reflecting their uncertainty...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pesticides, antibiotics, animal medicines: the chemical cocktail seeping into our rivers",
-      "description": "&lt;p&gt;A study of Yorkshire’s rivers is helping scientists understand the impact everyday pollutants are having on waterways – and the results are s...",
-      "link": "https://www.theguardian.com/environment/2025/may/29/pesticides-antibiotics-animal-medicines-chemical-cocktail-britain-rivers-aoe",
-      "pubDate": "Thu, 29 May 2025 06:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bfb4f38ec4522304adc1cf710fa93ed882faa95d/143_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d692af75382f5d66303329795f879a02"
     }
   ]
 }
