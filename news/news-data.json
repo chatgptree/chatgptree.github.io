@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-29T08:34:37.038Z",
+  "lastUpdated": "2025-05-29T09:28:24.158Z",
   "articles": [
+    {
+      "title": "Pennsylvania Fracking Company Surrenders Water Permits Over Concerns About Stream Flow",
+      "description": "A natural gas company has surrendered its permits to pump water from a western Pennsylvania creek in a move welcomed by environmentalists fearful of r...",
+      "link": "https://insideclimatenews.org/news/29052025/pennsylvania-fracking-company-surrenders-water-permits/",
+      "pubDate": "Thu, 29 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the Trump administration is putting hundreds of sacred sites at risk",
+      "description": "Indigenous nations are facing impossible deadlines and vanishing budgets amid sweeping federal rollbacks....",
+      "link": "https://grist.org/indigenous/tribal-historic-preservation-officer-trump-budget-energy-sacred-site/",
+      "pubDate": "Thu, 29 May 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/tribal-historic-preservation-officer-chart-thacker-pass-min.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "‘Chilling and dangerous’: Grassroots groups sue over Louisiana law that censors air quality data",
       "description": "A new state law threatens massive fines for releasing air quality data, inviting a First Amendment showdown with community organizations....",
@@ -12,7 +30,7 @@
     },
     {
       "title": "First new reservoirs in England for more than 30 years given go-ahead",
-      "description": "&lt;p&gt;‘Nationally significant’ status granted to reservoirs in East Anglia and Lincolnshire, two of nine planned by 2050&lt;/p&gt;&lt;p&gt;The gove...",
+      "description": "&lt;p&gt;‘Nationally significant’ status granted to reservoirs in East Anglia and Lincolnshire with seven more planned by 2050&lt;/p&gt;&lt;p&gt;The g...",
       "link": "https://www.theguardian.com/environment/2025/may/29/first-new-reservoirs-in-england-for-more-that-30-years-given-go-ahead",
       "pubDate": "Thu, 29 May 2025 08:15:23 GMT",
       "sourceName": "theguardian.com",
@@ -29,7 +47,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Warm wet winter forecast for Australia as SA and Victoria face unseasonal fire risk",
+      "title": "Warm winter forecast for Australia as SA and Victoria face unseasonal fire risk",
       "description": "&lt;p&gt;BoM prediction follows much wetter than average autumn for northern and eastern Australia, and much drier one for south&lt;/p&gt;&lt;ul&gt;&l...",
       "link": "https://www.theguardian.com/australia-news/2025/may/29/bom-winter-longe-range-weather-forecast-rainfall-temperatures-increased-fire-risk",
       "pubDate": "Thu, 29 May 2025 07:45:03 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Glacier collapse buries most of Swiss village",
-      "description": "Many homes in Blatten have been flattened after a large chunk of the Birch glacier fell on to the village....",
-      "link": "https://www.bbc.com/news/articles/cnv1evn2p2vo",
-      "pubDate": "Wed, 28 May 2025 18:06:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hawaii will tax vacation stays and use money to help counter climate crisis",
-      "description": "&lt;p&gt;Tax expected to generate nearly $100m annually, to be used for projects such as replacing sand on eroding beaches&lt;/p&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/us-news/2025/may/28/hawaii-tourist-tax-vacation-climate-crisis",
-      "pubDate": "Wed, 28 May 2025 13:56:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/27a1671cdc03f809c58ad41b4f9c90f92c4de254/284_0_3203_2563/master/3203.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dc3b93de59ddea56827f67e6f4d3585"
     }
   ]
 }
