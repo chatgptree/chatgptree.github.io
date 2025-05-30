@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-30T07:25:06.425Z",
+  "lastUpdated": "2025-05-30T08:34:01.403Z",
   "articles": [
+    {
+      "title": "In her new book &#8216;Kuleana,&#8217; Sara Kehaulani Goo fights to keep her family&#8217;s land",
+      "description": "A Q&A with the Native Hawaiian author on what she learned writing her memoir. ...",
+      "link": "https://grist.org/arts-culture/in-her-new-book-kuleana-sara-kehaulani-goo-fights-to-keep-her-familys-land/",
+      "pubDate": "Fri, 30 May 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/09/UN-SG-at-Pacific-Islands-Forum.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "UK's muddy saltmarshes vital to tackle climate change, report finds",
       "description": "The UK's saltmarshes lock away climate-warming greenhouse gases in layers of mud, a new report from WWF says....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/587c0fd999b59f5c0ec88a7e4269d5ad20308728/380_0_3798_3039/master/3798.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d6b1b395c2d6cf5462678c71c8358dd2"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "We answer a selection of fascinating science questions, from Nikola Tesla to microplastics...",
-      "link": "https://www.bbc.co.uk/sounds/play/m002cqr6",
-      "pubDate": "Thu, 29 May 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
