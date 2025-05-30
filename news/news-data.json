@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-30T11:21:15.800Z",
+  "lastUpdated": "2025-05-30T12:53:58.432Z",
   "articles": [
+    {
+      "title": "UK farmers warn against including lower-welfare chicken in Gulf trade deal",
+      "description": "&lt;p&gt;Industry figures say allowing poultry imports that do not align with British production standards would be ‘betrayal’&lt;/p&gt;&lt;ul&gt;&lt;...",
+      "link": "https://www.theguardian.com/politics/2025/may/30/uk-farmers-warn-lower-welfare-chicken-gulf-trade-deal",
+      "pubDate": "Fri, 30 May 2025 12:37:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4bebc415f2d85f2a98ccc513f116809b247fcadc/110_0_4168_3334/master/4168.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d3809b8ff4bfbc46064d7cd3009e361"
+    },
+    {
+      "title": "Recent Canadian wildfires are record-breaking – and will threaten US air quality for days",
+      "description": "&lt;p&gt;After historic seasons in last two years, blazes continue trend of warm, dry conditions intensified by climate crisis&lt;/p&gt;&lt;p&gt;Enorm...",
+      "link": "https://www.theguardian.com/us-news/2025/may/30/canada-wildfires-air-quality",
+      "pubDate": "Fri, 30 May 2025 12:00:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8de8a40e85b579422e9f3128534e400680844dad/103_0_1705_1365/master/1705.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=31321703872537364ac844a6a5693dc9"
+    },
+    {
+      "title": "Can you live without a car in the mountains? Yes, with planning and a few different bikes",
+      "description": "&lt;p&gt;Even in the foothills of the Italian Alps, cycling can be a practical alternative to driving, and more enjoyable, too&lt;/p&gt;&lt;p&gt;Livin...",
+      "link": "https://www.theguardian.com/environment/bike-blog/2025/may/30/can-you-live-without-a-car-in-the-mountains-yes-with-planning-and-a-few-different-bikes",
+      "pubDate": "Fri, 30 May 2025 11:50:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f83494fa7529709bf477970d6125628e055ce8f8/203_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50e57706f3ec87ac6d607a3db743bd29"
+    },
     {
       "title": "How the US became the biggest military emitter and stopped everyone finding out",
       "description": "&lt;p&gt;Academic Neta Crawford warns that if Donald Trump follows through on his threats of war, emissions will soar and the planet will pay the pric...",
@@ -129,7 +156,7 @@
     },
     {
       "title": "Carbon footprint of Israel’s war on Gaza exceeds that of many entire countries",
-      "description": "&lt;p&gt;Exclusive: Climate cost of war is more than than the combined 2023 emissions of Costa Rica and Estonia, study finds&lt;/p&gt;&lt;p&gt;The car...",
+      "description": "&lt;p&gt;Exclusive: Climate cost of war is more than than the combined 2023 emissions of Costa Rica and Estonia, study finds&lt;/p&gt;&lt;ul&gt;&lt;li...",
       "link": "https://www.theguardian.com/world/2025/may/30/carbon-footprint-of-israels-war-on-gaza-exceeds-that-of-many-entire-countries",
       "pubDate": "Fri, 30 May 2025 05:00:46 GMT",
       "sourceName": "theguardian.com",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/78e2ba83da7645068e81458d61b5e64be9cee7eb/312_0_4688_3750/master/4688.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=470ecb8d2e519a30f964ac3a71697f04"
-    },
-    {
-      "title": "Supreme Court Backs a Controversial Railroad in Utah for Carrying Oil",
-      "description": "The U.S. Supreme Court has ruled in favor of a controversial Utah railway project that critics say erodes the National Environmental Policy Act (NEPA)...",
-      "link": "https://insideclimatenews.org/news/29052025/supreme-court-backs-controversial-utah-oil-railroad/",
-      "pubDate": "Thu, 29 May 2025 22:55:08 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Clean Energy Project Cancellations Top $14 Billion So Far in 2025",
-      "description": "Businesses have cancelled or delayed more than $14 billion of investments in U.S. clean energy projects so far this year, reflecting their uncertainty...",
-      "link": "https://insideclimatenews.org/news/29052025/trump-clean-energy-project-cancellations-top-14-billion-dollars/",
-      "pubDate": "Thu, 29 May 2025 21:26:08 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Twinkle in Trump’s Eye: A Shakeup at Alabama’s Top Utility Regulator",
-      "description": "MONTGOMERY, Ala.—Twinkle Cavanaugh, longtime president of the state’s top utility regulator, will begin working within days for the Trump administrati...",
-      "link": "https://insideclimatenews.org/news/29052025/alabama-public-service-commission-president-twinkle-cavanaugh-moves-to-trump-administration/",
-      "pubDate": "Thu, 29 May 2025 21:17:54 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
