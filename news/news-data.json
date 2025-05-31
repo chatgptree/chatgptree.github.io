@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-31T10:26:02.046Z",
+  "lastUpdated": "2025-05-31T11:19:31.985Z",
   "articles": [
     {
       "title": "Anger as Dorset estate withdraws public entry to ‘stunning’ local landmark",
@@ -9,6 +9,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b563675b400b3d0fcabfd5b6b969bf8cc31398e6/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02688da890af884ba3484f69afd74b07"
+    },
+    {
+      "title": "As Chicagoans Brace for Higher Water Bills, Groups Push for Affordability Reforms",
+      "description": "On Sunday Chicagoans will face another spike in their water bills after seeing rates more than double over the past 15 years. The latest increase—4 pe...",
+      "link": "https://insideclimatenews.org/news/31052025/chicago-water-bill-rate-reforms/",
+      "pubDate": "Sat, 31 May 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "How Pittsburgh’s Alcoa Is Undermining a Rare Forest To Fuel Its Global Aluminum Empire",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump&#8217;s budget bill is on the verge of transforming how America eats",
-      "description": "The drastic policy shifts will make it harder on those who grow food — and on those struggling to afford to eat. ...",
-      "link": "https://grist.org/food-and-agriculture/trump-budget-bill-is-on-the-verge-of-transforming-how-america-eats/",
-      "pubDate": "Fri, 30 May 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/SNAP-program-sign.jpg?quality=75&amp;strip=all"
     }
   ]
 }
