@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-30T23:24:10.083Z",
+  "lastUpdated": "2025-05-31T02:03:56.331Z",
   "articles": [
+    {
+      "title": "Stranded astronauts didn't know if they would 'be able to make it back'",
+      "description": "Nasa pair Butch and Suni tell the BBC they feared being unable to get home when they failed to dock on the ISS....",
+      "link": "https://www.bbc.com/news/articles/clygd1vl9yeo",
+      "pubDate": "Sat, 31 May 2025 00:09:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "U.S. Steel Is a Major Source of Pollution in Pennsylvania. Will Its Sale Lock in Emissions for Another Generation?",
+      "description": "President Donald Trump returned to western Pennsylvania Friday to announce an ending to the months-long saga to decide who would own the Pittsburgh-ba...",
+      "link": "https://insideclimatenews.org/news/30052025/trump-celebrates-japan-nippon-us-steel-deal-pennsylvania-pollution/",
+      "pubDate": "Fri, 30 May 2025 23:30:58 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump Executive Orders Violate Young People’s Rights to a Stable Climate, a Lawsuit Alleges",
       "description": "A group of 22 young people from across the country accuse the Trump administration in a new federal lawsuit of violating their constitutional rights w...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UNSW program fast-tracks green tech from lab to market",
-      "description": "UNSW Sydney The Technology Translation Squad provides critical engineering support to green tech startups to help them commercialise their products so...",
-      "link": "https://econews.com.au/67201/unsw-program-fast-tracks-green-tech-from-lab-to-market/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unsw-program-fast-tracks-green-tech-from-lab-to-market",
-      "pubDate": "Fri, 30 May 2025 06:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Green Homes Go Mainstream: Energy Efficiency now a Top Priority for Australians",
-      "description": "Domain’s Sustainability in Property Report 2025 has revealed that energy-efficient homes are not only fetching premium prices – but are now high on th...",
-      "link": "https://econews.com.au/67199/green-homes-go-mainstream-energy-efficiency-now-a-top-priority-for-australians/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=green-homes-go-mainstream-energy-efficiency-now-a-top-priority-for-australians",
-      "pubDate": "Fri, 30 May 2025 06:02:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
