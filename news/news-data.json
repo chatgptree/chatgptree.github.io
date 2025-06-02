@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-06-02T10:29:55.850Z",
+  "lastUpdated": "2025-06-02T11:23:28.979Z",
   "articles": [
     {
       "title": "Key US weather monitoring offices understaffed as hurricane season starts",
@@ -9,6 +9,24 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/07da0def066ad42d1d096fe7b887b04b66dbf2df/496_0_4955_3964/master/4955.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66d686810b856fed7843d8fd1a84e08d"
+    },
+    {
+      "title": "Trump’s Budget Wish Could Threaten Billions in Clean Energy Investment in Virginia",
+      "description": "The One Big Beautiful Bill, President Donald Trump’s budget wishlist with tax cuts for the wealthy, could have an enormous impact on Virginia’s abilit...",
+      "link": "https://insideclimatenews.org/news/02062025/trump-budget-cuts-could-threaten-virginia-clean-energy-investments/",
+      "pubDate": "Mon, 02 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Massive Pipeline Buildout in the U.S. Is Mostly for Gas Going Overseas",
+      "description": "More than three-quarters of new gas pipeline capacity currently under development in the U.S. would feed additional liquefied natural gas exports rath...",
+      "link": "https://insideclimatenews.org/news/02062025/us-gas-pipeline-buildout-mostly-for-export/",
+      "pubDate": "Mon, 02 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Trump cuts hundreds of EPA grants, leaving cities on the hook for climate resiliency",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7e983851f45c534eec8b7c4343b5e312e78f355c/437_0_4372_3498/master/4372.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84524e2207da10b456021a1d36266207"
-    },
-    {
-      "title": "Astronauts in space for nine months didn't know if they would 'be able to make it back'",
-      "description": "Nasa pair Butch and Suni tell the BBC they feared being unable to get home when they failed to dock on the ISS....",
-      "link": "https://www.bbc.com/news/articles/clygd1vl9yeo",
-      "pubDate": "Sat, 31 May 2025 00:09:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "U.S. Steel Is a Major Source of Pollution in Pennsylvania. Will Its Sale Lock in Emissions for Another Generation?",
-      "description": "President Donald Trump returned to western Pennsylvania Friday to announce an ending to the months-long saga to decide who would own the Pittsburgh-ba...",
-      "link": "https://insideclimatenews.org/news/30052025/trump-celebrates-japan-nippon-us-steel-deal-pennsylvania-pollution/",
-      "pubDate": "Fri, 30 May 2025 23:30:58 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
