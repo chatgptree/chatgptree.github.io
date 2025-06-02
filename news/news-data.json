@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-02T22:25:31.106Z",
+  "lastUpdated": "2025-06-02T23:26:01.936Z",
   "articles": [
+    {
+      "title": "Trump Administration Faces Legal Action Over Federal Cuts’ Impact on Manatees",
+      "description": "The Trump administration’s government-wide staff cuts threaten federally protected manatees in a Florida national wildlife refuge established for the ...",
+      "link": "https://insideclimatenews.org/news/02062025/center-for-biological-diversity-legal-action-over-federal-cuts-manatees-impact/",
+      "pubDate": "Mon, 02 Jun 2025 22:46:50 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump officials open up millions of acres in Alaska to drilling and mining",
+      "description": "&lt;p&gt;Doug Burgum says Biden order that banned drilling in 23m-acre National Petroleum Reserve-Alaska will be reversed&lt;/p&gt;&lt;p&gt;Millions o...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/02/trump-administration-alaska-drilling-mining",
+      "pubDate": "Mon, 02 Jun 2025 22:35:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/36ebdf1ae8913f97eae261b39b4afb105606219c/394_0_3938_3151/master/3938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8a04313dd524c6b63b98c7cecd02888"
+    },
+    {
+      "title": "Colorado River Basin Aquifers Are Declining Even More Steeply Than the River, New Research Shows",
+      "description": "Declines of underground water supplies that are vital to cities and farming in the Colorado River Basin are outpacing the losses of the river’s water,...",
+      "link": "https://insideclimatenews.org/news/02062025/colorado-river-groundwater-rapid-decline/",
+      "pubDate": "Mon, 02 Jun 2025 22:30:04 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Indonesia’s stunning microlibraries draw young readers – in pictures",
       "description": "&lt;p&gt;Using passive design and local materials such as ice cream buckets, these modern community spaces offer a respite from urban heat and hustle&...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e7a140a477aef884fbaf9e87c12e92bbb188e127/417_0_3572_2857/master/3572.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=917d1096b66bc5fdfdf6346a0224ac68"
-    },
-    {
-      "title": "Gila River Tribes Intend to Float Solar Panels on a Reservoir. Could the Technology Help the Colorado River?",
-      "description": "GILA RIVER INDIAN RESERVATION, Ariz.—About 33 miles south of Phoenix, Interstate 10 bisects a line of solar panels traversing the desert like an iride...",
-      "link": "https://insideclimatenews.org/news/01062025/gila-river-tribes-floating-solar-could-help-colorado-river/",
-      "pubDate": "Sun, 01 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Warning after millions of bees escape overturned truck in US",
-      "description": "Master bee-keepers are called to the scene after a truck containing 70,000 pounds of active honey bee hives flipped over....",
-      "link": "https://www.bbc.com/news/articles/c23mrprk952o",
-      "pubDate": "Sat, 31 May 2025 17:41:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hawaiʻi makes history as first state to charge tourists to save environment",
-      "description": "A Hawaiʻi vacation will cost you more in the near future thanks to a new “green fee” that the governor signed into law this week....",
-      "link": "https://grist.org/politics/hawai%ca%bbi-makes-history-as-first-state-to-charge-tourists-to-save-environment/",
-      "pubDate": "Sat, 31 May 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/Hikers-gather-at-the-summit-of-Diamond-Head-lookout2-1188x721-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
