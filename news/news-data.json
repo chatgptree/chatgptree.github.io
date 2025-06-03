@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2025-06-03T08:36:26.384Z",
+  "lastUpdated": "2025-06-03T09:28:43.869Z",
   "articles": [
     {
       "title": "Failing water sector needs stronger regulation, says damning review",
       "description": "The Water Commission finds \"deep-rooted, systemic and interlocking failures\" in the water industry. ...",
       "link": "https://www.bbc.com/news/articles/cz70g4vgdnxo",
-      "pubDate": "Tue, 03 Jun 2025 08:31:38 GMT",
+      "pubDate": "Tue, 03 Jun 2025 09:03:28 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "UK water industry needs ‘fundamental reset’, review finds",
+      "title": "As Summer Approaches, New Jersey’s Shore Towns Confront an Unrelenting Foe: Sea Level Rise",
+      "description": "ATLANTIC CITY, N.J. —The briny bay waters flood the parking lot and beer garden at the Vagabond Kitchen &#38; Taphouse—and not just when it rains.&#16...",
+      "link": "https://insideclimatenews.org/news/03062025/new-jersey-shore-towns-sea-level-rise/",
+      "pubDate": "Tue, 03 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Fearing Radioactive Waste, a Western Pennsylvania Community Fights to Stop a Landfill’s Re-Opening",
+      "description": "For years, residents of Grove City, Pennsylvania, have fought to stop a decades-old landfill from resuming operations in their town. They were worried...",
+      "link": "https://insideclimatenews.org/news/03062025/pennsylvania-community-fights-to-stop-landfill/",
+      "pubDate": "Tue, 03 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Water industry in England and Wales needs ‘fundamental reset’, review finds",
       "description": "&lt;p&gt;Report finds ‘deep-rooted, systemic’ failures that need stronger regulation, but critics say it is not bold enough&lt;/p&gt;&lt;ul&gt;&lt;li&...",
       "link": "https://www.theguardian.com/business/2025/jun/03/uk-water-industry-review-independent-water-commission-sir-jon-cunliffe",
-      "pubDate": "Tue, 03 Jun 2025 08:18:55 GMT",
+      "pubDate": "Tue, 03 Jun 2025 08:49:25 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4ba9a38ab9e7796ed3b21121e22b0ff6a769fec6/461_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4d72a36ca019ca390ec1e3258a7be2c"
+    },
+    {
+      "title": "Uber&#8217;s new shuttles look suspiciously familiar to anyone who&#8217;s taken a bus",
+      "description": "Beyond the jokes about Uber inventing bus lines are serious questions about what its shuttle service will mean for struggling transit systems, air qua...",
+      "link": "https://grist.org/transportation/uber-shared-route-buses/",
+      "pubDate": "Tue, 03 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘Half the tree of life’: ecologists’ horror as nature reserves are emptied of insects",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump cuts hundreds of EPA grants, leaving cities on the hook for climate resiliency",
-      "description": "Critics argue the projects losing funding aren’t \"woke,\" they’re essential....",
-      "link": "https://grist.org/cities/trump-cuts-hundreds-of-epa-grants-leaving-cities-on-the-hook-for-climate-resiliency/",
-      "pubDate": "Mon, 02 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/thomasville-epa-grant.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Indigenous land defenders face rising threats amid global push for critical minerals",
-      "description": "The past decade has seen “a consistent, sustained pattern against people who speak out against business-related human rights\" abuses....",
-      "link": "https://grist.org/indigenous/indigenous-land-defenders-face-rising-threats-amid-global-push-for-critical-minerals/",
-      "pubDate": "Mon, 02 Jun 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/mining-indigenous-consent.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "World’s First Microgrid-in-a-Box Sets New Standards for Energy Independence and Local Manufacturing",
-      "description": "China’s Nebula Electronics Co., Ltd., Germany’s ambibox GmbH, and Australia’s Red Earth Energy Storage Ltd. today announced a global strategic partner...",
-      "link": "https://econews.com.au/67207/worlds-first-microgrid-in-a-box-sets-new-standards-for-energy-independence-and-local-manufacturing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=worlds-first-microgrid-in-a-box-sets-new-standards-for-energy-independence-and-local-manufacturing",
-      "pubDate": "Mon, 02 Jun 2025 05:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
