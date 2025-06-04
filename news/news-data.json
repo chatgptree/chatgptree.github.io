@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-06-04T08:35:23.515Z",
+  "lastUpdated": "2025-06-04T09:28:52.584Z",
   "articles": [
+    {
+      "title": "A Song for the Cahaba River",
+      "description": "WEST BLOCTON, Ala.—“The lilies have bloomed this season if you know where to go.” It’s a line in Birmingham band I Declare’s newly released song “Caha...",
+      "link": "https://insideclimatenews.org/news/04062025/cahaba-river-lily-festival-musical-tribute/",
+      "pubDate": "Wed, 04 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Mexico Bans Release of Treated Oil and Gas Wastewater",
+      "description": "After months of deliberation, the New Mexico Water Quality Control Commission on May 14 voted to prohibit any discharge of treated “produced water” fr...",
+      "link": "https://insideclimatenews.org/news/04062025/new-mexico-bans-release-of-treated-oil-gas-wastewater/",
+      "pubDate": "Wed, 04 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Top Ocean Experts Sound the Alarm Over Growing Marine Crisis Due To Climate Change",
+      "description": "NICE, France—More than 2,000 scientists, advocates and policymakers from at least 100 countries convened this week at the One Ocean Science Congress, ...",
+      "link": "https://insideclimatenews.org/news/04062025/one-ocean-science-congress-destructive-industrial-fishing/",
+      "pubDate": "Wed, 04 Jun 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Funding to protect American cities from extreme heat just evaporated",
+      "description": "NOAA's Center for Heat Resilient Communities would have helped cities better understand their struggles with heat — and deploy solutions for keeping r...",
+      "link": "https://grist.org/cities/funding-american-cities-extreme-heat-noaa-ira/",
+      "pubDate": "Wed, 04 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/noaa-heat.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "The sneaky way even meat lovers can lessen their climate impact",
       "description": "Mixing vegetables into processed meat can lower emissions — without compromising taste....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d008b1342624cd4fe94b9ae94e01dab2df15c9d4/203_0_2594_2075/master/2594.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab73b6bc14278ba1e8f7993525cd2ebf"
-    },
-    {
-      "title": "Failing water sector needs stronger regulation, says damning review",
-      "description": "The Water Commission finds \"deep-rooted, systemic and interlocking failures\" in the water sector. ...",
-      "link": "https://www.bbc.com/news/articles/cz70g4vgdnxo",
-      "pubDate": "Tue, 03 Jun 2025 11:14:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Summer Approaches, New Jersey’s Shore Towns Confront an Unrelenting Foe: Sea Level Rise",
-      "description": "ATLANTIC CITY, N.J. —The briny bay waters flood the parking lot and beer garden at the Vagabond Kitchen &#38; Taphouse—and not just when it rains. Acr...",
-      "link": "https://insideclimatenews.org/news/03062025/new-jersey-shore-towns-sea-level-rise/",
-      "pubDate": "Tue, 03 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fearing Radioactive Waste, a Western Pennsylvania Community Fights to Stop a Landfill’s Re-Opening",
-      "description": "For years, residents of Grove City, Pennsylvania, have fought to stop a decades-old landfill from resuming operations in their town. They were worried...",
-      "link": "https://insideclimatenews.org/news/03062025/pennsylvania-community-fights-to-stop-landfill/",
-      "pubDate": "Tue, 03 Jun 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Uber&#8217;s new shuttles look suspiciously familiar to anyone who&#8217;s taken a bus",
-      "description": "Beyond the jokes about Uber inventing bus lines are serious questions about what its shuttle service will mean for struggling transit systems, air qua...",
-      "link": "https://grist.org/transportation/uber-shared-route-buses/",
-      "pubDate": "Tue, 03 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
