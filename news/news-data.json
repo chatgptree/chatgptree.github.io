@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-04T18:36:43.194Z",
+  "lastUpdated": "2025-06-04T19:21:00.841Z",
   "articles": [
+    {
+      "title": "Aging Pennsylvania Power Plant to Keep Running After Trump Order on Eve of Shutdown",
+      "description": "A half-century-old Pennsylvania power plant fueled by oil and natural gas will keep running beyond its scheduled shutdown date following an order from...",
+      "link": "https://insideclimatenews.org/news/04062025/trump-orders-aging-pennsylvania-power-plant-to-keep-running/",
+      "pubDate": "Wed, 04 Jun 2025 18:58:06 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Heat Waves Are Changing Disease Dynamics in Unpredictable Ways, New Research Finds",
       "description": "Scientists have long known that changes in temperature can affect the risks and spread of infectious diseases by altering the biology and behavior of ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4b9518b379c26c086fe951c9cf63eb961164b02e/627_0_4158_3326/master/4158.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a52972ca1ee3713b99b3d4fd6dc7b49a"
-    },
-    {
-      "title": "Meta Strikes 20-Year Nuclear Power Deal With Constellation Energy",
-      "description": "Facebook’s parent company Meta locked in 20 years of nuclear power on Tuesday from Constellation Energy to help meet the tech giant’s surging energy d...",
-      "link": "https://insideclimatenews.org/news/03062025/meta-constellation-nuclear-power-deal/",
-      "pubDate": "Tue, 03 Jun 2025 21:56:27 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
