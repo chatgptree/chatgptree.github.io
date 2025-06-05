@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-05T09:28:39.498Z",
+  "lastUpdated": "2025-06-05T10:30:06.500Z",
   "articles": [
+    {
+      "title": "Data Centers Are Building Their Own Gas Power Plants in Texas",
+      "description": "NEW BRAUNFELS, Texas—Abigail Lindsey worries the days of peace and quiet might be nearing an end at the rural, wooded property where she lives with he...",
+      "link": "https://insideclimatenews.org/news/05062025/texas-data-center-gas-power-plants/",
+      "pubDate": "Thu, 05 Jun 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Rich Countries’ Energy Transitions Threaten Indigenous Peoples and the Environment",
       "description": "Metals and minerals form the backbone of low-carbon energy technologies like solar panels, grid infrastructure and car batteries.&#160; Yet, in many c...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d88cd3e25cd6c1422b9685d5920b94253ae91c5e/119_0_4538_3628/master/4538.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d9cf1fd19c816673ac472087aed0e59"
-    },
-    {
-      "title": "A Song for the Cahaba River",
-      "description": "WEST BLOCTON, Ala.—“The lilies have bloomed this season if you know where to go.” It’s a line in Birmingham band I Declare’s newly released song “Caha...",
-      "link": "https://insideclimatenews.org/news/04062025/cahaba-river-lily-festival-musical-tribute/",
-      "pubDate": "Wed, 04 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
