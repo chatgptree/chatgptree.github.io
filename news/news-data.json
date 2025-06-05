@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-05T15:28:47.851Z",
+  "lastUpdated": "2025-06-05T16:33:29.594Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Inside Science heads to the One Ocean Science Congress in Nice, France....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002d1cc",
+      "pubDate": "Thu, 05 Jun 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "UK sales of new Tesla cars slump by more than a third amid Musk backlash",
       "description": "&lt;p&gt;Electric carmaker sold 36% fewer cars year on year in May as it loses ground to China’s BYD and other rivals&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
@@ -18,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3aff0813b00258f09b53655e2fcf4c3416e2aae4/1518_970_2171_1736/master/2171.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b49f9e3d362e9f6623a1e50f17a5039"
+    },
+    {
+      "title": "Rapid snowmelt and Trump cuts compound wildfire fears in US west",
+      "description": "&lt;p&gt;Region is experiencing an unusually warm spring, raising concerns of fierce wildfire season amid limited resources&lt;/p&gt;&lt;p&gt;Unusuall...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/05/wildfire-trump-cuts-climate-crisis",
+      "pubDate": "Thu, 05 Jun 2025 15:00:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/71d57881731f7dc6a6cb36440846fbcf978328b1/687_0_6882_5504/master/6882.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48a6a00e52fe9fe055ee8da7ba8f3505"
     },
     {
       "title": "For the first time in my life I’m in charge of a garden. Is it too late to plant? | Ashe Davenport",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Heat Waves Are Changing Disease Dynamics in Unpredictable Ways, New Research Finds",
-      "description": "Scientists have long known that changes in temperature can affect the risks and spread of infectious diseases by altering the biology and behavior of ...",
-      "link": "https://insideclimatenews.org/news/04062025/extreme-weather-increases-risks-and-spread-of-infectious-disease/",
-      "pubDate": "Wed, 04 Jun 2025 18:11:22 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A world built on fossil fuels is loud. Here&#8217;s how advocates are defending peace and quiet.",
-      "description": "“It's really unbelievable, how much noise impacts so many people.\"...",
-      "link": "https://grist.org/looking-forward/a-world-built-on-fossil-fuels-is-loud-heres-how-advocates-are-defending-peace-and-quiet/",
-      "pubDate": "Wed, 04 Jun 2025 15:12:44 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/0604_Noise.jpg?quality=75&amp;strip=all&amp;w=900"
     }
   ]
 }
