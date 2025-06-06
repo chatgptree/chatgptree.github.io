@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-06T21:24:24.471Z",
+  "lastUpdated": "2025-06-06T22:25:57.861Z",
   "articles": [
+    {
+      "title": "The transfer of a sacred site to a copper mine is delayed once again",
+      "description": "A federal judge in Phoenix provides a reprieve for Oak Flat....",
+      "link": "https://grist.org/indigenous/oak-flat-gets-another-reprieve/",
+      "pubDate": "Fri, 06 Jun 2025 21:40:02 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/03/oak-flat-protest.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Youth climate activists won lawsuits in Montana and Hawai‘i. Now they&#8217;re targeting Trump.",
+      "description": "“Trump’s fossil fuel orders are a death sentence for my generation.\"...",
+      "link": "https://grist.org/justice/youth-climate-activists-new-suit-trump-executive-orders/",
+      "pubDate": "Fri, 06 Jun 2025 21:29:48 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/Held.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "People Using Apps Like iNaturalist and Merlin Are Helping Fuel Scientific Discovery",
       "description": "In April, more than 100,000 people from nearly 700 cities around the world set out on a mission to document as many plants and animals as they could i...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2bead99540113501c33535c7bc4d25a6472003ae/452_452_4483_3586/master/4483.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e2e4ec6538ab7a8314c0a91ed4037ed"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Inside Science heads to the One Ocean Science Congress in Nice, France....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002d1cc",
-      "pubDate": "Thu, 05 Jun 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rapid snowmelt and Trump cuts compound wildfire fears in US west",
-      "description": "&lt;p&gt;Region is experiencing an unusually warm spring, raising concerns of fierce wildfire season amid limited resources&lt;/p&gt;&lt;p&gt;Unusuall...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/05/wildfire-trump-cuts-climate-crisis",
-      "pubDate": "Thu, 05 Jun 2025 15:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/71d57881731f7dc6a6cb36440846fbcf978328b1/687_0_6882_5504/master/6882.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48a6a00e52fe9fe055ee8da7ba8f3505"
     }
   ]
 }
