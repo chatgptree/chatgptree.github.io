@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-06-06T08:33:58.406Z",
+  "lastUpdated": "2025-06-06T09:28:18.955Z",
   "articles": [
+    {
+      "title": "Trump Hastens ‘Drumbeat’ of Deferred Coal Plant Retirements",
+      "description": "The newest player on the U.S. coal scene, Core Natural Resources, had good news and bad news for investors when it announced its results for the start...",
+      "link": "https://insideclimatenews.org/news/06062025/trump-administration-defers-coal-plant-retirements/",
+      "pubDate": "Fri, 06 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Nantucket Is Preparing for Rising Seas",
+      "description": "NANTUCKET—It’s no longer unusual to see a kayaker paddling along downtown Easy Street. The cobblestones along the town’s waterfront once were flooded ...",
+      "link": "https://insideclimatenews.org/news/06062025/nantucket-sea-level-rise-coastal-resilience/",
+      "pubDate": "Fri, 06 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Lifeblood for Pacific Islands Threatened as Warming Ocean Drives Tuna East",
+      "description": "This story was produced by Honolulu Civil Beat, a nonprofit news organization covering Hawaiʻi that specializes in accountability and in-depth enterpr...",
+      "link": "https://insideclimatenews.org/news/06062025/pacific-island-fishing-jobs-threatened-warming-ocean-drives-tuna-east/",
+      "pubDate": "Fri, 06 Jun 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Trump’s Big Beautiful Bill will raise household energy costs",
+      "description": "Analysts agree on one thing: Congress is poised to increase energy bills by hundreds of dollars per household....",
+      "link": "https://grist.org/politics/trump-big-beautiful-bill-congress-energy-costs/",
+      "pubDate": "Fri, 06 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Most new build homes must have solar panels - Miliband",
       "description": "The energy secretary says the move will cut energy bills, but house builders caution against burdensome regulations. ...",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Data Centers Are Building Their Own Gas Power Plants in Texas",
-      "description": "NEW BRAUNFELS, Texas—Abigail Lindsey worries the days of peace and quiet might be nearing an end at the rural, wooded property where she lives with he...",
-      "link": "https://insideclimatenews.org/news/05062025/texas-data-center-gas-power-plants/",
-      "pubDate": "Thu, 05 Jun 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rich Countries’ Energy Transitions Threaten Indigenous Peoples and the Environment",
-      "description": "Metals and minerals form the backbone of low-carbon energy technologies like solar panels, grid infrastructure and car batteries.&#160; Yet, in many c...",
-      "link": "https://insideclimatenews.org/news/05062025/energy-transition-global-mining-projects-threaten-indigenous-peoples/",
-      "pubDate": "Thu, 05 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How 3 years of war have ravaged Ukraine’s forests, and the people who depend on them",
-      "description": "Nearly 5 million acres have burned since Russia’s latest invasion in 2022, ignited by rocket fire, artillery shelling, and explosive devices....",
-      "link": "https://grist.org/international/how-three-years-of-war-have-ravaged-ukraines-forests-and-the-people-who-depend-on-them/",
-      "pubDate": "Thu, 05 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/Ukraine-front-lines-child-center-bomb.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "In California&#8217;s largest landback deal, the Yurok Tribe reclaims sacred land around Klamath River",
-      "description": "\"It's our job, our inherent right, to take care of the Klamath Basin and its river.”...",
-      "link": "https://grist.org/indigenous/in-californias-largest-landback-deal-the-yurok-tribe-reclaims-sacred-land-around-the-klamath-river/",
-      "pubDate": "Thu, 05 Jun 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/Klamath-Aerial.jpg?quality=75&amp;strip=all"
     }
   ]
 }
