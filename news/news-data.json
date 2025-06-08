@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-08T12:49:51.061Z",
+  "lastUpdated": "2025-06-08T13:31:46.189Z",
   "articles": [
+    {
+      "title": "Data centers are building their own gas power plants in Texas",
+      "description": "Not so long ago, developers of the massive server farms talked about powering them with wind and solar. Now, with the coming of power-hungry AI platfo...",
+      "link": "https://grist.org/energy/data-centers-are-building-their-own-gas-power-plants-in-texas/",
+      "pubDate": "Sun, 08 Jun 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/hays-energy-project.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Manta man: film profiles unlikely bond between diver and giant sea creature",
       "description": "&lt;p&gt;The Last Dive tells how a relationship with a giant Pacific manta ray turned a big game fish hunter into a conservationist&lt;/p&gt;&lt;p&gt;...",
@@ -9,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/df33a795aac46507d29e2b496ca1aa3caaa5b9f6/1096_0_2699_2160/master/2699.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5a9a14608ae898c739dd2c82e41c038"
+    },
+    {
+      "title": "William warns ocean life 'diminishing before our eyes'",
+      "description": "The Prince of Wales gave a speech in Monaco hoping to drive investments to protect the world's oceans....",
+      "link": "https://www.bbc.com/news/articles/c3d4387x1d0o",
+      "pubDate": "Sun, 08 Jun 2025 10:48:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "A Neighborhood Burned, a Home Saved, a Future in Question",
@@ -42,15 +60,6 @@
       "description": "The space agency has published its budget request to Congress which would see funding for science projects cut by nearly a half....",
       "link": "https://www.bbc.com/news/articles/c87jq0djw00o",
       "pubDate": "Sat, 07 Jun 2025 23:29:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ocean damage unspeakably awful, Attenborough tells prince",
-      "description": "Sir David Attenborough told Prince William he hopes the UN oceans conference will bring new protections....",
-      "link": "https://www.bbc.com/news/articles/ce82p6yq061o",
-      "pubDate": "Sat, 07 Jun 2025 17:00:47 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/videos/cev4lzg7zeko",
       "pubDate": "Sat, 07 Jun 2025 01:52:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Canceled Climate Grants Would Have Cut Pollution While Boosting Production, Jobs at Two Alabama Ironworks",
-      "description": "BIRMINGHAM, Ala.—Two iron pipe manufacturers in Alabama learned last week they lost a combined $150 million in promised federal funding that would hav...",
-      "link": "https://insideclimatenews.org/news/06062025/canceled-climate-grants-would-have-cut-pollution-while-boosting-production-jobs-at-two-alabama-ironworks/",
-      "pubDate": "Fri, 06 Jun 2025 23:38:15 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
