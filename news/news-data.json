@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-06-10T08:35:53.906Z",
+  "lastUpdated": "2025-06-10T09:28:50.218Z",
   "articles": [
+    {
+      "title": "As an Eastern Iowa Quarry Seeks to Quadruple Its Water Use, Residents Urge the State to Intervene",
+      "description": "The Pattison Co. quarry in Garnavillo, Iowa, pumps nearly 1 billion gallons of groundwater each year, pulling it from the bedrock in order to mine lim...",
+      "link": "https://insideclimatenews.org/news/10062025/iowa-pattison-co-quarry-seeks-to-quadruple-water-use/",
+      "pubDate": "Tue, 10 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Across the Country, Locals Rally to Protect National Monuments Threatened by the Trump Administration",
+      "description": "IRONWOOD FOREST NATIONAL MONUMENT, Ariz.—Standing in front of a crowd of 100 people Saturday, Mike Quigley pointed out into the distance to a nearby c...",
+      "link": "https://insideclimatenews.org/news/10062025/national-monuments-rally-antiquities-act-anniversary/",
+      "pubDate": "Tue, 10 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US District Court Ruling Keeps Fight Against Mining of Site Sacred to Western Apache Alive",
+      "description": "PHOENIX—A federal judge ruled Monday that the U.S. Forest Service cannot transfer land containing Oak Flat, a site sacred to the Western Apache, to a ...",
+      "link": "https://insideclimatenews.org/news/10062025/court-ruling-keeps-fight-against-mining-oak-flat-alive/",
+      "pubDate": "Tue, 10 Jun 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In California, a biomass company&#8217;s expansion raises fears of more fires",
+      "description": "Facilities that make wood pellets have a track record of catching on fire. So why are there plans to build several near Yosemite's tinderbox forests?...",
+      "link": "https://grist.org/accountability/in-california-a-biomass-companys-expansion-raises-fears-of-more-fires/",
+      "pubDate": "Tue, 10 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2021/10/summit-trail-fire.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Trump&#8217;s second term is creating &#8216;a limbo moment&#8217; for US battery recyclers",
       "description": "The president hasn't directly targeted the nascent industry, but his clean energy rollbacks could hurt it....",
@@ -142,42 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c057qrd9eejo",
       "pubDate": "Mon, 09 Jun 2025 12:03:30 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s EPA to claim power-plant emissions ‘not significant’ – but study says otherwise",
-      "description": "&lt;p&gt;US power sector would be world’s sixth largest emitter of planet-heating greenhouse gas if it were a country – study&lt;/p&gt;&lt;p&gt;Donald...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/09/trump-epa-power-plant-emissions",
-      "pubDate": "Mon, 09 Jun 2025 11:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ddcaff1cddda536c2527e4af7413c5c1244ac9be/442_0_4415_3533/master/4415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b73d5933f6d653049ce04b361426f610"
-    },
-    {
-      "title": "UK proposes wider ban on destructive ocean bottom trawling",
-      "description": "The government wants to prohibit bottom trawling from more protected areas of UK waters....",
-      "link": "https://www.bbc.com/news/articles/c3v507lx0e3o",
-      "pubDate": "Mon, 09 Jun 2025 10:42:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Israeli forces halt Gaza-bound aid yacht carrying Greta Thunberg – video",
-      "description": "&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/israel\"&gt;Israeli&lt;/a&gt; forces have taken command of a vessel that tried to circumvent its...",
-      "link": "https://www.theguardian.com/world/video/2025/jun/09/israeli-forces-halt-gaza-bound-aid-yacht-carrying-greta-thunberg-video",
-      "pubDate": "Mon, 09 Jun 2025 09:50:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a0b8074d9e5fd0858788be430ed9341b8fe856b4/226_0_1440_1152/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d271f5a88df7210af36ba4240a9cfd6e"
-    },
-    {
-      "title": "Engineering Coral Reefs of the Future",
-      "description": "ST. JOHN, U.S. Virgin Islands—Thirty-five feet deep in clear turquoise waters, a three-foot-long yellow underwater robot maneuvers over a coral reef a...",
-      "link": "https://insideclimatenews.org/news/09062025/coral-reef-monitoring-and-restoration/",
-      "pubDate": "Mon, 09 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
