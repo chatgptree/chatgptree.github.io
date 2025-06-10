@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-10T11:22:45.194Z",
+  "lastUpdated": "2025-06-10T12:55:54.449Z",
   "articles": [
+    {
+      "title": "Rolls-Royce named winning bidder for UK small nuclear reactors",
+      "description": "&lt;p&gt;FTSE 100 firm beats two US-owned companies as government pushes nuclear power with Sizewell C investment&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/business/2025/jun/10/rolls-royce-uk-small-nuclear-reactors-smr-sizewell-c",
+      "pubDate": "Tue, 10 Jun 2025 12:14:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bd0d67bd71875cc05e13b88746ec07e7bbf4b885/445_0_2110_1688/master/2110.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16554c4503153ca2a3324dc4ff344ae8"
+    },
+    {
+      "title": "What are small nuclear reactors and why does the UK want to build them?",
+      "description": "The government is betting on a new generation of 'mini' nuclear power stations.  ...",
+      "link": "https://www.bbc.com/news/articles/c62614wejk5o",
+      "pubDate": "Tue, 10 Jun 2025 11:38:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What are small nuclear reactors and why does the UK want to build them?",
+      "description": "The government is betting on a new generation of 'mini' nuclear power stations.  ...",
+      "link": "https://www.bbc.com/news/articles/c62614wejk5o",
+      "pubDate": "Tue, 10 Jun 2025 11:38:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A drop in the ocean: does experimental technology hold the key to saving the world’s seas?",
       "description": "&lt;p&gt;Investment is pouring into companies promising to geoengineer a rapid change in the pH of our waters – but critics are concerned at the speed...",
@@ -54,15 +81,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/06/waste-batteries-recycling-china.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Rolls-Royce named winning bidder for UK small nuclear reactors",
-      "description": "&lt;p&gt;FTSE 100 firm beats two US-owned companies as government pushes nuclear power with Sizewell C investment&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/business/2025/jun/10/rolls-royce-uk-small-nuclear-reactors-smr-sizewell-c",
-      "pubDate": "Tue, 10 Jun 2025 07:12:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bd0d67bd71875cc05e13b88746ec07e7bbf4b885/445_0_2110_1688/master/2110.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16554c4503153ca2a3324dc4ff344ae8"
     },
     {
       "title": "Dead elephants and feral sea lions: how poisonous algal blooms harm the planet",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/09062025/un-deep-sea-mining-bottom-trawling-moratorium/",
       "pubDate": "Mon, 09 Jun 2025 20:55:36 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Medellín’s sublime return to nature – in pictures",
-      "description": "&lt;p&gt;Over the last decade, Colombia’s ‘city of eternal spring’ has embarked on an ambitious effort to restore greenery to public parks, transit co...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/jun/09/medellin-sublime-return-to-nature-in-pictures",
-      "pubDate": "Mon, 09 Jun 2025 18:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2187caaff6e83af622993b92a5e4f629e56efa4d/138_0_4192_3355/master/4192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b33ab5c84e68a6a91fd1ea6b8a7f1ed3"
-    },
-    {
-      "title": "Oceans cannot become 'wild west', warns UN chief",
-      "description": "UN Secretary General Antonio Guterres spoke at the start of the UN Oceans Conference in Nice, France....",
-      "link": "https://www.bbc.com/news/articles/c057qrd9eejo",
-      "pubDate": "Mon, 09 Jun 2025 12:03:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
