@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-10T06:37:49.466Z",
+  "lastUpdated": "2025-06-10T07:25:35.998Z",
   "articles": [
+    {
+      "title": "Rolls-Royce named winning bidder for UK small nuclear reactors",
+      "description": "&lt;p&gt;FTSE 100 firm beats two US-owned companies as government pushes nuclear power with Sizewell C investment&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/business/2025/jun/10/rolls-royce-uk-small-nuclear-reactors-smr-sizewell-c",
+      "pubDate": "Tue, 10 Jun 2025 07:12:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bd0d67bd71875cc05e13b88746ec07e7bbf4b885/445_0_2110_1688/master/2110.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16554c4503153ca2a3324dc4ff344ae8"
+    },
+    {
+      "title": "Dead elephants and feral sea lions: how poisonous algal blooms harm the planet",
+      "description": "&lt;p&gt;As the Earth heats up, the amount of algae in our waterways is rapidly increasing, transforming the colour of lakes and killing entire ecosys...",
+      "link": "https://www.theguardian.com/environment/2025/jun/10/toxic-blooms-algae-marine-dead-zones-lakes-ecosystems-dead-elephants-fish-sea-lions-aoe",
+      "pubDate": "Tue, 10 Jun 2025 07:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ca77cb510bd6cf77d0ac88444de8ebccd8e24c11/0_0_1442_1154/master/1442.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=76eb01a663d0baa606d6cb1588929dbc"
+    },
     {
       "title": "Hickery Dickory: New climbing behavior displayed by Australia’s hopping mice",
       "description": "Mitchell’s Hopping Mouse. © Wayne Lawler Mice on the ground and mice up above – Australia’s, ground-dwelling Mitchell’s Hopping Mouse has been recorde...",
@@ -83,15 +101,6 @@
       "image": "https://i.guim.co.uk/img/media/1c7a30a5aab2a8cae8f9ad13fe29ba6631c6f71d/509_0_3905_3124/master/3905.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08f2ceac074f2a5d71c66261f9e685c8"
     },
     {
-      "title": "Sizewell C power station to be built as part of UK’s £14bn nuclear investment",
-      "description": "&lt;p&gt;Ed Miliband promises to ‘get Britain off the fossil fuel rollercoaster’ with new plant expected to create 10,000 jobs&lt;/p&gt;&lt;p&gt;The b...",
-      "link": "https://www.theguardian.com/business/2025/jun/10/sizewell-c-nuclear-power-station-ed-miliband-investment",
-      "pubDate": "Mon, 09 Jun 2025 23:01:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ad0916c33df3f7b583f2d3213d4a4a885e6ada1d/657_0_6602_5280/master/6602.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f17a9d58dc57782bc1bbdf4220be19b"
-    },
-    {
       "title": "UN Ocean Conference Opens With a Call to Defend the Deep Sea",
       "description": "NICE, France—The deep sea—Earth’s largest and least-explored biome—is taking center stage at the United Nations Ocean conference this week, where mari...",
       "link": "https://insideclimatenews.org/news/09062025/un-deep-sea-mining-bottom-trawling-moratorium/",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When will a vital system of currents in the Atlantic Ocean collapse? Depends on whom you ask.",
-      "description": "New research suggests the currents that help shape the climate may be weakening more slowly than thought....",
-      "link": "https://grist.org/oceans/amoc-atlantic-ocean-collapse-science-tipping-point/",
-      "pubDate": "Mon, 09 Jun 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/AMOC-currents.jpg?quality=75&amp;strip=all"
     }
   ]
 }
