@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-11T13:38:35.362Z",
+  "lastUpdated": "2025-06-11T14:25:49.733Z",
   "articles": [
+    {
+      "title": "&#8216;For anybody who could use a break&#8217;: A Q&#038;A with sci-fi author Becky Chambers",
+      "description": "What climate lessons can we learn from a pair of cozy solarpunk novellas?...",
+      "link": "https://grist.org/looking-forward/for-anybody-who-could-use-a-break-a-qa-with-sci-fi-author-becky-chambers/",
+      "pubDate": "Wed, 11 Jun 2025 14:18:27 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/0528_BookClub.jpg?quality=75&amp;strip=all&amp;w=900"
+    },
+    {
+      "title": "First view of the Sun's south pole filmed by spacecraft",
+      "description": "Never before seen pictures will help scientists learn how the Sun's activity changes from stormy to quiet periods...",
+      "link": "https://www.bbc.com/news/articles/clyqry9ppl9o",
+      "pubDate": "Wed, 11 Jun 2025 14:00:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "US shrimp fishers see Trump tariffs as a lifeline: ‘We’re basically on our knees’",
       "description": "&lt;p&gt;Foreign competition and natural disasters have pushed US shrimp industry to the edge of survival&lt;/p&gt;&lt;p&gt;Sandy Nguyen has strong op...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Tonga Poised to Be the First Country to Recognize Rights of Whales",
-      "description": "Tonga, a Pacific Island nation with deep connections to the ocean and its non-human inhabitants, could become the first country in the world to recogn...",
-      "link": "https://insideclimatenews.org/news/10062025/tonga-rights-of-whales/",
-      "pubDate": "Tue, 10 Jun 2025 21:55:27 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why a Fan Can’t Always Cool You Down, and Other Unexpected Challenges in Heat Waves",
-      "description": "People across the United States are in for another scorcher of a summer, according to an outlook from the National Oceanic and Atmospheric Administrat...",
-      "link": "https://insideclimatenews.org/news/10062025/todays-climate-fans-air-conditioning-heat-wave-challenges/",
-      "pubDate": "Tue, 10 Jun 2025 20:54:35 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
