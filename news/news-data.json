@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-06-11T08:35:13.958Z",
+  "lastUpdated": "2025-06-11T09:29:05.376Z",
   "articles": [
+    {
+      "title": "‘Win-win’: new maps reveal best opportunities for global reforestation",
+      "description": "&lt;p&gt;New study shows regions with best potential to regrow trees and suck climate-heating CO2 from the air&lt;/p&gt;&lt;p&gt;New maps have reveale...",
+      "link": "https://www.theguardian.com/environment/2025/jun/11/maps-forests-study-environment-wildlife-climate-crisis",
+      "pubDate": "Wed, 11 Jun 2025 09:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/573314c455dc3e3140d4d8e5936ef06f3ddb1090/175_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87f0372f2ba0440decd9cf7b822d6cbb"
+    },
+    {
+      "title": "Something in the water: how kelp is helping Maine’s mussels boom",
+      "description": "&lt;p&gt;When a US firm saw the seaweed was making their shellfish the ‘biggest and best’ scientists realised they’d hit upon a natural way to combat ...",
+      "link": "https://www.theguardian.com/environment/2025/jun/11/maine-portland-us-sea-farm-kelp-mussels-shellfish-ocean-acidification",
+      "pubDate": "Wed, 11 Jun 2025 09:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/833e4f4462f000cd837a6cdb0a0b8e8ffe2f92ff/0_0_2084_1667/master/2084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0dffd380113a2b5d5006fc6c266f252"
+    },
+    {
+      "title": "Developers Propose More Than 100 New Gas Power Plants in Texas",
+      "description": "Companies plan to build more than 100 new gas-fired power plants in Texas in the next few years amid a race to meet enormous electrical demand from en...",
+      "link": "https://insideclimatenews.org/news/11062025/texas-gas-plant-boom-ai-data-centers/",
+      "pubDate": "Wed, 11 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Virginia Vulnerable to Trump’s Proposed Cuts in Emergency Management and Disaster Relief",
+      "description": "CHESTERFIELD, Va.—Virginia was one of several states in the Appalachian region slammed by Hurricane Helene’s rainfall last September. The storm caused...",
+      "link": "https://insideclimatenews.org/news/11062025/virginia-vulnerable-to-fema-disaster-relief-cuts/",
+      "pubDate": "Wed, 11 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can a crowdsourced map of the world help save millions of people from climate disaster?",
+      "description": "Volunteer cartographers on the Caribbean island of St. Lucia are turning local knowledge into life-saving maps in the face of rising seas and stronger...",
+      "link": "https://grist.org/solutions/can-a-crowdsourced-map-of-the-world-help-save-millions-of-people-from-climate-disaster/",
+      "pubDate": "Wed, 11 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/st-lucia-house-spot.png?quality=75&amp;strip=all"
+    },
     {
       "title": "Coal miners are fighting Trump&#8217;s safety cuts — and winning",
       "description": "When the Trump administration moved to shutt mine safety offices and shutter a program that protects miners from black lung disease, miners demanded i...",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9c61613fc31649632582366f951fbb340f49d590/720_0_4911_3929/master/4911.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39f5c18d7a3db8eb47fbf4722970ce24"
-    },
-    {
-      "title": "Inside Climate News Selects 11 Summer Fellows to Report on Environmental Issues Around the Country",
-      "description": "Eleven young journalists are joining Inside Climate News as reporting fellows this summer. ICN’s summer 2025 fellowship class draws from current colle...",
-      "link": "https://insideclimatenews.org/news/10062025/summer-fellows-to-report-on-environmental-issues-around-the-country/",
-      "pubDate": "Tue, 10 Jun 2025 17:29:10 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rolls-Royce named winning bidder for UK small nuclear reactors",
-      "description": "&lt;p&gt;FTSE 100 firm beats two US-owned companies as government pushes nuclear power with Sizewell C investment&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/business/2025/jun/10/rolls-royce-uk-small-nuclear-reactors-smr-sizewell-c",
-      "pubDate": "Tue, 10 Jun 2025 12:14:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bd0d67bd71875cc05e13b88746ec07e7bbf4b885/445_0_2110_1688/master/2110.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16554c4503153ca2a3324dc4ff344ae8"
-    },
-    {
-      "title": "What are small nuclear reactors and why does the UK want to build them?",
-      "description": "The government is betting on a new generation of 'mini' nuclear power stations.  ...",
-      "link": "https://www.bbc.com/news/articles/c62614wejk5o",
-      "pubDate": "Tue, 10 Jun 2025 11:38:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What are small nuclear reactors and why does the UK want to build them?",
-      "description": "The government is betting on a new generation of 'mini' nuclear power stations.  ...",
-      "link": "https://www.bbc.com/news/articles/c62614wejk5o",
-      "pubDate": "Tue, 10 Jun 2025 11:38:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A drop in the ocean: does experimental technology hold the key to saving the world’s seas?",
-      "description": "&lt;p&gt;Investment is pouring into companies promising to geoengineer a rapid change in the pH of our waters – but critics are concerned at the speed...",
-      "link": "https://www.theguardian.com/environment/2025/jun/10/ocean-does-experimental-technology-saving-seas-acidification-geoengineering",
-      "pubDate": "Tue, 10 Jun 2025 10:00:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9bf856a9c7fe113d572df77207913a53e49fc4b1/1_0_4998_4000/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6533ae969208dd307289fd12b93e301"
     }
   ]
 }
