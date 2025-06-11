@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-11T07:25:45.917Z",
+  "lastUpdated": "2025-06-11T08:35:13.958Z",
   "articles": [
+    {
+      "title": "Coal miners are fighting Trump&#8217;s safety cuts — and winning",
+      "description": "When the Trump administration moved to shutt mine safety offices and shutter a program that protects miners from black lung disease, miners demanded i...",
+      "link": "https://grist.org/regulation/coal-miners-are-fighting-trumps-safety-cuts-and-winning/",
+      "pubDate": "Wed, 11 Jun 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ever-rising height of car bonnets a ‘clear threat’ to children, report says",
+      "description": "&lt;p&gt;High-fronted SUVs are more likely to kill and are on the rise in Europe with the UK an extreme example&lt;/p&gt;&lt;p&gt;The bonnet height of...",
+      "link": "https://www.theguardian.com/world/2025/jun/11/ever-rising-height-car-bonnets-suv-threat-to-children-report",
+      "pubDate": "Wed, 11 Jun 2025 08:00:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1125969f47e62e43f3cb4338df36a91ab5c41e19/182_0_2069_1655/master/2069.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff62729732cff1c3c06de361ec2f8bab"
+    },
     {
       "title": "Parts of Australia are suffering another devastating drought, but you wouldn’t know it in the cities | Van Badham",
       "description": "&lt;p&gt;It’s not so much that rural and metro communities hold different opinions about climate change but rather they are holding completely differe...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9bf856a9c7fe113d572df77207913a53e49fc4b1/1_0_4998_4000/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6533ae969208dd307289fd12b93e301"
-    },
-    {
-      "title": "As an Eastern Iowa Quarry Seeks to Quadruple Its Water Use, Residents Urge the State to Intervene",
-      "description": "The Pattison Co. quarry in Garnavillo, Iowa, pumps nearly 1 billion gallons of groundwater each year, pulling it from the bedrock in order to mine lim...",
-      "link": "https://insideclimatenews.org/news/10062025/iowa-pattison-co-quarry-seeks-to-quadruple-water-use/",
-      "pubDate": "Tue, 10 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Across the Country, Locals Rally to Protect National Monuments Threatened by the Trump Administration",
-      "description": "IRONWOOD FOREST NATIONAL MONUMENT, Ariz.—Standing in front of a crowd of 100 people Saturday, Mike Quigley pointed out into the distance to a nearby c...",
-      "link": "https://insideclimatenews.org/news/10062025/national-monuments-rally-antiquities-act-anniversary/",
-      "pubDate": "Tue, 10 Jun 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
