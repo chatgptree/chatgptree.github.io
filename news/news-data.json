@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-12T10:29:51.502Z",
+  "lastUpdated": "2025-06-12T11:22:51.754Z",
   "articles": [
+    {
+      "title": "‘I felt hopeful about my daughter’s future’: the farmers fixing our eco crisis – in pictures",
+      "description": "&lt;p&gt;From Northern Irish handkerchief-makers to Scilly Isles fisherman who know when to let stocks replenish, a new book showcases radical solutio...",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jun/12/farmers-fighting-the-climate-emergency-in-pictures",
+      "pubDate": "Thu, 12 Jun 2025 11:02:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/243fc547a85f0e6325609eb5f320ea483013add5/219_164_1461_1169/master/1461.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e02928e221756ea85e419cd7d6375ef"
+    },
+    {
+      "title": "Tuna, beans, Spam: Trump’s tariffs threaten the canned foods millions rely on to survive",
+      "description": "&lt;p&gt;The US president vowed to cut food costs, but experts warn metal tariffs may raise prices in a matter of months&lt;/p&gt;&lt;p&gt;Canned food...",
+      "link": "https://www.theguardian.com/environment/2025/jun/12/trump-canned-food-price-metal-tariffs",
+      "pubDate": "Thu, 12 Jun 2025 11:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/37a73845c78164bccf6be14200e303786559fc0b/318_0_3164_2533/master/3164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec76ac39ffb66692805c247fbd8136c6"
+    },
     {
       "title": "In Majority-Black Camp Hill, a Young Mayor Fights for Water",
       "description": "CAMP HILL, Ala.—A dispute over soaring water bills for this town’s 1,000 residents has ended up in court this summer after Mayor Messiah Williams-Cole...",
@@ -15,6 +33,15 @@
       "description": "Costa Rica is helping to shape the global agenda on marine protection and ocean governance this week as co-host, with France, of the 2025 United Natio...",
       "link": "https://insideclimatenews.org/news/12062025/costa-rica-president-calls-ocean-action-un-conference/",
       "pubDate": "Thu, 12 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Bills That Could Have Hurt Renewable Energy Die in Texas Legislature",
+      "description": "Four bills aimed at limiting renewable energy projects in Texas failed during the last legislative session as lawmakers, facing increasing energy dema...",
+      "link": "https://insideclimatenews.org/news/12062025/texas-anti-renewable-energy-bills-die-in-legislature/",
+      "pubDate": "Thu, 12 Jun 2025 08:50:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2b86827bf6fdee54a6bd3bda6dd7ce2be4c49dca/484_0_2110_1688/master/2110.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27a74e4191113e64418d076795b3e743"
-    },
-    {
-      "title": "Department of Justice Gives Trump Go-Ahead to Eliminate National Monuments",
-      "description": "The Department of Justice, in an opinion issued Tuesday, argues President Donald Trump has the power to review and eliminate national monuments to mak...",
-      "link": "https://insideclimatenews.org/news/11062025/doj-says-trump-has-power-to-eliminate-national-monuments/",
-      "pubDate": "Wed, 11 Jun 2025 17:06:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bison gores man who got too close in Yellowstone national park",
-      "description": "&lt;p&gt;A 30-year-old from New Jersey sustained minor injuries in latest mishap involving tourists and wildlife&lt;/p&gt;&lt;p&gt;A bison gored a man...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/11/bison-gores-new-jersey-man",
-      "pubDate": "Wed, 11 Jun 2025 15:35:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/02230ce517d87a47ba92cbbe9ac6f7a724c20242/97_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79cdc8724664e36f014749bd97463087"
-    },
-    {
-      "title": "Cost of net zero by 2050 may determine whether Coalition abandons emissions goal, shadow minister says",
-      "description": "&lt;p&gt;Dan Tehan says Coalition’s position on the Paris agreement and gas reservation scheme are also up for debate&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
-      "link": "https://www.theguardian.com/australia-news/2025/jun/12/coalition-net-zero-by-2050-cost-emissions-target-paris-agreement-party-debate-internal-review-dan-tehan-climate-policy",
-      "pubDate": "Wed, 11 Jun 2025 15:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/198333016407191a5e22f8e100a09d203dce2ce8/724_0_6013_4810/master/6013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16e0f6c4a938cb718c45f3ff8db99acd"
     }
   ]
 }
