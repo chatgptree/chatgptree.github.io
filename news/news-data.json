@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-12T13:38:20.098Z",
+  "lastUpdated": "2025-06-12T14:27:24.172Z",
   "articles": [
+    {
+      "title": "How Did the Housing Crisis Revitalize Efforts by Western Republicans to Sell Off Public Lands?",
+      "description": "A years-long effort to sell public lands has gained steam in this year’s federal budget negotiations as a proposed solution to the housing crisis, but...",
+      "link": "https://insideclimatenews.org/news/12062025/how-did-the-housing-crisis-revitalize-efforts-by-western-republicans-to-sell-off-public-lands/",
+      "pubDate": "Thu, 12 Jun 2025 13:56:10 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Yorkshire enters drought after driest spring in 132 years",
+      "description": "&lt;p&gt;Hosepipe bans possible as low reservoir levels make region second in England to enter drought status&lt;/p&gt;&lt;p&gt;Yorkshire has become t...",
+      "link": "https://www.theguardian.com/environment/2025/jun/12/yorkshire-enters-drought-after-driest-spring-in-132-years",
+      "pubDate": "Thu, 12 Jun 2025 13:38:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f06cb6f6ee5954ae4c4c14ce988b6f7f8b8274f0/339_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ecea370fbc2476f477a2b987e6138506"
+    },
     {
       "title": "Tax Cuts in the “Big Beautiful Bill” Could Kill Solar Power Progress",
       "description": "The loss of federal tax credits for rooftop solar could wreck the business that Allan O’Shea has built in Michigan. O’Shea, who runs his company along...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s EPA announces major rollbacks to power plant pollution limits",
-      "description": "&lt;p&gt;More than 200 health experts say regulatory proposals will lead to biggest increase in pollution in decades&lt;/p&gt;&lt;p&gt;US power plants...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/11/trump-administration-epa-pollution",
-      "pubDate": "Wed, 11 Jun 2025 19:03:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bc93447a3b0fed75d23c7ae0fe29934a03b91025/0_0_3087_2471/master/3087.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d80d5f5831e138b8e3aa9c15b3379b2"
-    },
-    {
-      "title": "Great British Energy’s budget has been nuked | Nils Pratley",
-      "description": "&lt;p&gt;Ed Miliband’s vehicle for investing in renewables lost 30% of its pot to small modular nuclear reactors in the spending review&lt;/p&gt;&lt;u...",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/jun/11/great-british-energys-budget-has-been-nuked",
-      "pubDate": "Wed, 11 Jun 2025 18:16:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/167f198991b432244c5fdbba6e5c087e94b35d18/663_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd5e28ca71cfea2cd95f06a86e0e095c"
     }
   ]
 }
