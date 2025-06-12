@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-12T08:35:11.466Z",
+  "lastUpdated": "2025-06-12T09:28:21.240Z",
   "articles": [
+    {
+      "title": "In Majority-Black Camp Hill, a Young Mayor Fights for Water",
+      "description": "CAMP HILL, Ala.—A dispute over soaring water bills for this town’s 1,000 residents has ended up in court this summer after Mayor Messiah Williams-Cole...",
+      "link": "https://insideclimatenews.org/news/12062025/alabama-camp-hill-water-access/",
+      "pubDate": "Thu, 12 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘We’ve Treated it as a Global Waste Dump’: Costa Rica’s President Calls for Action on the Ocean",
+      "description": "Costa Rica is helping to shape the global agenda on marine protection and ocean governance this week as co-host, with France, of the 2025 United Natio...",
+      "link": "https://insideclimatenews.org/news/12062025/costa-rica-president-calls-ocean-action-un-conference/",
+      "pubDate": "Thu, 12 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "This Alaska Native fishing village was trying to power their town. Then came Trump&#8217;s funding cuts.",
+      "description": "Port Heiden is facing an energy crisis. A $300,000 grant from the EPA would have helped the traditional Alutiiq community swap costly, polluting diese...",
+      "link": "https://grist.org/indigenous/this-alaska-native-fishing-village-was-trying-to-power-their-town-then-came-trumps-funding-cuts/",
+      "pubDate": "Thu, 12 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/epa-gold-bars.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "There&#8217;s only one statewide ballot this year in Georgia — and it&#8217;s important.",
       "description": "A guide to the candidates who want to set future energy policy....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/198333016407191a5e22f8e100a09d203dce2ce8/724_0_6013_4810/master/6013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16e0f6c4a938cb718c45f3ff8db99acd"
-    },
-    {
-      "title": "&#8216;For anybody who could use a break&#8217;: A Q&#038;A with sci-fi author Becky Chambers",
-      "description": "What climate lessons can we learn from a pair of cozy solarpunk novellas?...",
-      "link": "https://grist.org/looking-forward/for-anybody-who-could-use-a-break-a-qa-with-sci-fi-author-becky-chambers/",
-      "pubDate": "Wed, 11 Jun 2025 14:18:27 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/0528_BookClub.jpg?quality=75&amp;strip=all&amp;w=900"
-    },
-    {
-      "title": "First view of the Sun's south pole filmed by spacecraft",
-      "description": "Never before seen pictures will help scientists learn how the Sun's activity changes from stormy to quiet periods...",
-      "link": "https://www.bbc.com/news/articles/clyqry9ppl9o",
-      "pubDate": "Wed, 11 Jun 2025 14:00:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US shrimp fishers see Trump tariffs as a lifeline: ‘We’re basically on our knees’",
-      "description": "&lt;p&gt;Foreign competition and natural disasters have pushed US shrimp industry to the edge of survival&lt;/p&gt;&lt;p&gt;Sandy Nguyen has strong op...",
-      "link": "https://www.theguardian.com/environment/2025/jun/11/shrimp-industry-trump-tariffs",
-      "pubDate": "Wed, 11 Jun 2025 13:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/88d7a61f13658c0ab6b8dbd6cd9d87ea8932cd14/615_0_5273_4221/master/5273.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8fc7d7531d682b66d8c3c54a62fbad9a"
     }
   ]
 }
