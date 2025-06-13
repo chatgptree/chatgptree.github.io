@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-13T09:28:43.248Z",
+  "lastUpdated": "2025-06-13T10:29:29.057Z",
   "articles": [
+    {
+      "title": "US night-sky agency threatened by Trump administration funding cuts",
+      "description": "&lt;p&gt;The Natural Sounds and Night Skies Division strives to provide ‘full sensory experience’ in country’s national parks&lt;/p&gt;&lt;p&gt;The &l...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/13/night-sky-light-sound-pollution-trump",
+      "pubDate": "Fri, 13 Jun 2025 10:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ea818ea101f2198c6fdf463e7dbf7f8d07d74cec/620_0_4219_3375/master/4219.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63d3317d8360baf8f4b3041200972433"
+    },
     {
       "title": "Attenborough’s Ocean is the film I’ve been waiting my whole career for – now the world must act on its message | George Monbiot",
       "description": "&lt;p&gt;The documentary shows the damage that fishing does to our planet. So why does the industry still hold governments to ransom?&lt;/p&gt;&lt;p&g...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘I felt hopeful about my daughter’s future’: the farmers fixing our eco crisis – in pictures",
-      "description": "&lt;p&gt;From Northern Irish handkerchief-makers to Scilly Isles fisherman who know when to let stocks replenish, a new book showcases radical solutio...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jun/12/farmers-fighting-the-climate-emergency-in-pictures",
-      "pubDate": "Thu, 12 Jun 2025 11:02:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/243fc547a85f0e6325609eb5f320ea483013add5/219_164_1461_1169/master/1461.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e02928e221756ea85e419cd7d6375ef"
     }
   ]
 }
