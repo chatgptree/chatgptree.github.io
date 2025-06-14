@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-14T08:31:07.622Z",
+  "lastUpdated": "2025-06-14T09:27:13.410Z",
   "articles": [
+    {
+      "title": "New York City Has a Trash Problem. A Packaging Reduction Bill Could Help",
+      "description": "New York City knows it has a waste management problem. The average city household generated 1,899 pounds of trash in 2023. Only around 17 percent of t...",
+      "link": "https://insideclimatenews.org/news/14062025/new-york-city-trash-problem-packaging-reduction-bill/",
+      "pubDate": "Sat, 14 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Chesapeake Bay Health Slips in 2025 Report Card as Persistent Challenges Threaten Long-Term Gains",
+      "description": "The Chesapeake Bay’s health has taken a downturn, according to a new report card, with the estuary relegated from a “C+” to a “C” as climate extremes ...",
+      "link": "https://insideclimatenews.org/news/14062025/chesapeake-bay-report-card-health-score-drops/",
+      "pubDate": "Sat, 14 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump Officials Visit Alaska as Interior Department Pushes Proposal Rescinding Biden-era Arctic Protections",
+      "description": "The Department of the Interior announced a proposal last week to cancel its protections of 13 million acres of Alaskan land inside a previously create...",
+      "link": "https://insideclimatenews.org/news/14062025/trump-interior-department-pushes-proposal-rescinding-arctic-protections/",
+      "pubDate": "Sat, 14 Jun 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Is the ocean ‘having a moment’? This was the UN summit where the world woke up to the decline of the seas",
       "description": "&lt;p&gt;A slew of global leaders met in the south of France to discuss the future of the oceans. There was ‘momentum’ and ‘enthusiasm’, but there wer...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s EPA accidentally made the case against passing the Big Beautiful Bill",
-      "description": "GOP leaders claim that repealing power plant pollution rules and tax breaks for renewables will fuel an energy boom. Experts say they’re doing just th...",
-      "link": "https://grist.org/regulation/trump-epa-power-plant-rules-big-beautiful-bill/",
-      "pubDate": "Fri, 13 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Senate Republicans want to sell 3 million acres of public land",
-      "description": "The majority of public land is too fire prone and far away from communities to even make sense for housing, research shows....",
-      "link": "https://grist.org/politics/senate-republicans-want-to-sell-3-million-acres-of-public-land/",
-      "pubDate": "Fri, 13 Jun 2025 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/MountainAerialLight.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Brazil to auction oil exploration rights months before hosting Cop30",
-      "description": "&lt;p&gt;Sale covering 56,000 square miles set to go ahead despite opposition from Indigenous and environmental groups&lt;/p&gt;&lt;p&gt;The Brazilian...",
-      "link": "https://www.theguardian.com/environment/2025/jun/13/brazil-to-auction-oil-exploration-rights-months-before-hosting-cop30",
-      "pubDate": "Fri, 13 Jun 2025 06:00:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5f147ea606fd722f09a33e4523454d7c05b169f9/468_0_3282_2626/master/3282.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea6e4b233fe67be4d1b4e60a5465e842"
     }
   ]
 }
