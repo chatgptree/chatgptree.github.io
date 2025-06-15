@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-14T23:25:49.875Z",
+  "lastUpdated": "2025-06-15T02:24:53.441Z",
   "articles": [
+    {
+      "title": "Race to mine metals for EV batteries threatens marine paradise",
+      "description": "Photographs appear to show how nickel mining damaged one the world's most diverse marine environments ...",
+      "link": "https://www.bbc.com/news/articles/c0k36v50zvro",
+      "pubDate": "Sun, 15 Jun 2025 00:29:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Deadly algal bloom in South Australia’s Coorong an environmental ‘eye opener’, ecologist says",
       "description": "&lt;p&gt;Among the dead in the&lt;a href=\"https://www.environment.sa.gov.au/news-hub/news/articles/2025/06/sa-harmful-algal-bloom-update\"&gt; &lt;/a&g...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/efec3c49fdcf74c9357c5874fa30f0ca4b3e01cc/108_748_5536_4431/master/5536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e504c2f47d448cf8a74c63bfb4b3db4e"
-    },
-    {
-      "title": "‘A small but mighty program’: little-known US light pollution agency threatened by Trump funding cuts",
-      "description": "&lt;p&gt;The Natural Sounds and Night Skies Division strives to provide ‘full sensory experience’ in country’s national parks&lt;/p&gt;&lt;p&gt;The &l...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/13/night-sky-light-sound-pollution-trump",
-      "pubDate": "Fri, 13 Jun 2025 10:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ea818ea101f2198c6fdf463e7dbf7f8d07d74cec/620_0_4219_3375/master/4219.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63d3317d8360baf8f4b3041200972433"
     }
   ]
 }
