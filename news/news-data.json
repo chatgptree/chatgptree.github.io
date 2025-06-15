@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-06-15T10:28:00.264Z",
+  "lastUpdated": "2025-06-15T11:20:26.090Z",
   "articles": [
     {
       "title": "Native American tribe steps up to protect Florida lands for wildlife",
@@ -9,6 +9,24 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/185bdc2568788ccb78f7770ab2884d4aef609ec5/0_0_3472_2779/master/3472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=324b9b12d46e0659de4001fa105f4283"
+    },
+    {
+      "title": "The Wrestler vs. the Utility",
+      "description": "SAN DIEGO—On a walk near his house, with views of the ocean, Mark Ellis speaks with urgency about how the utility business—the industry that long empl...",
+      "link": "https://insideclimatenews.org/news/15062025/former-utility-exec-mark-ellis-talks-electricity-bills-energy-transition/",
+      "pubDate": "Sun, 15 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Saved From the Saw: Conservation Deal Spares 8,000 Acres of Sensitive Land in Alabama From Becoming a Wood Pellet Mill",
+      "description": "Long before he was writing bestselling books that defined the understanding of biodiversity, Edward O. Wilson was a boy in Mobile, Ala., exploring the...",
+      "link": "https://insideclimatenews.org/news/15062025/alabama-conservation-saves-land-from-becoming-wood-pellet-mill/",
+      "pubDate": "Sun, 15 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "EPA Grants Were Set to Address Health Risks on the Hopi and Navajo Reservations, Until the Trump Administration Cut Them",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7ec89c41a75199f1855a14ff7b934534e0e31ce6/535_0_5329_4264/master/5329.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d38eae51091f22975a8d4ee1bda1dcc"
-    },
-    {
-      "title": "New Climate Study Highlights Dire Sea Level Warnings",
-      "description": "A new set of detailed clues gleaned from ancient fossil reefs on the Seychelle Islands shows an increasing likelihood that human-caused warming will r...",
-      "link": "https://insideclimatenews.org/news/13062025/dire-sea-level-warming-polar-ice-sheets/",
-      "pubDate": "Fri, 13 Jun 2025 18:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Glimmer of hope' for marine life at UN Ocean conference",
-      "description": "Environmental groups have praised government's progress made on marine protection at the UN meeting...",
-      "link": "https://www.bbc.com/news/articles/cq69e4j6jz8o",
-      "pubDate": "Fri, 13 Jun 2025 16:17:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
