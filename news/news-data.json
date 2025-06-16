@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-15T23:23:43.079Z",
+  "lastUpdated": "2025-06-16T02:19:02.987Z",
   "articles": [
+    {
+      "title": "'Forever chemical' found in all but one of tested UK rivers",
+      "description": "The long-term impact of the chemical on human health is still unclear and being researched....",
+      "link": "https://www.bbc.com/news/articles/cm2yjxxvx08o",
+      "pubDate": "Sun, 15 Jun 2025 23:33:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Truckloads of Scotland's rubbish will be sent to England, experts say",
+      "description": "Up to 100 trucks a day could take Scotland's waste to England once a landfill ban comes in at the end of the year....",
+      "link": "https://www.bbc.com/news/articles/c0r1de24pdgo",
+      "pubDate": "Sun, 15 Jun 2025 23:17:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Ofwat should have to approve water firms’ bonuses and dividends, say MPs",
       "description": "&lt;p&gt;Report says billpayer funds are being used irresponsibly, after news that Thames Water paid bonuses from £3bn loan&lt;/p&gt;&lt;p&gt;Bonuses ...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bcfc3e32480a76d858d2644b78cc969b9e6bb535/180_0_2517_2013/master/2517.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2abbcb9f7de27f152bda7c2f8972f411"
-    },
-    {
-      "title": "Tulane University scientist resigns citing environmental censorship",
-      "description": "&lt;p&gt;Kimberley Terrell’s research into health and job disparities had triggered a backlash from state and Tulane leaders&lt;/p&gt;&lt;p&gt;&lt;em&...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/13/tulane-university-scientist-resign",
-      "pubDate": "Fri, 13 Jun 2025 21:46:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f179db0fe3bd4c6f5c77ad0f4ac9a7aea934ea0d/417_0_4005_3205/master/4005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d12e01e418fea1d894c540a132dab723"
-    },
-    {
-      "title": "Animals—Living and Dead—Can Help Track Humanity’s Toxic Legacy",
-      "description": "In the early 20th century, more than a million miners in Britain made a daily descent into the depths of the Earth to extract coal, the country’s main...",
-      "link": "https://insideclimatenews.org/news/13062025/todays-climate-animals-humanity-toxic-legacy/",
-      "pubDate": "Fri, 13 Jun 2025 20:15:44 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
