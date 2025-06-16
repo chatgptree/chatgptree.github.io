@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-16T08:36:37.318Z",
+  "lastUpdated": "2025-06-16T09:30:49.089Z",
   "articles": [
+    {
+      "title": "Two Suns, One City: Karachi’s Dueling Realities in a Warming World",
+      "description": "KARACHI, Pakistan—Inside a sprawling estate in Karachi’s elite Defense neighborhood, air conditioning hummed in a low-frequency buzz. Sherry Rehman, P...",
+      "link": "https://insideclimatenews.org/news/16062025/karachi-pakistan-extreme-heat-crisis/",
+      "pubDate": "Mon, 16 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Data Centers Proliferate Across Illinois, Communities Grapple with How to Supply the Necessary Water",
+      "description": "Illinois is already a top destination for data centers, and more are coming. One small Chicago suburb alone has approved one large complex and has pro...",
+      "link": "https://insideclimatenews.org/news/16062025/illinois-data-centers-water-use/",
+      "pubDate": "Mon, 16 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump quietly shutters the only federal agency that investigates industrial chemical explosions",
+      "description": "Hazardous chemical accidents happen in the U.S. about every other day. Who will investigate them now? ...",
+      "link": "https://grist.org/energy/trump-quietly-shutters-the-only-federal-agency-that-investigates-industrial-chemical-explosions/",
+      "pubDate": "Mon, 16 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/01/JourneytoJusticeThumb-2.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "What warped the minds of serial killers? Lead pollution, a new book argues.",
       "description": "Ted Bundy, the Green River Killer, and others terrorized the Pacific Northwest. \"Murderland\" asks what role polluters played....",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EPA Grants Were Set to Address Health Risks on the Hopi and Navajo Reservations, Until the Trump Administration Cut Them",
-      "description": "TUBA CITY, Ariz.—When Carol Parrish built her first fire using her new wood-burning stove, tears streamed down her face.&#160; “My prayers have been a...",
-      "link": "https://insideclimatenews.org/news/15062025/cut-epa-grants-hopi-navajo-reservations/",
-      "pubDate": "Sun, 15 Jun 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "On Ireland’s peat bogs: climate action clashes with tradition – in pictures",
-      "description": "&lt;p&gt;Bord na Móna, which was once a peat extraction company, has now committed to one of the largest peatland restoration projects ever undertaken...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/jun/15/on-irelands-peat-bogs-climate-action-clashes-with-tradition-in-pictures",
-      "pubDate": "Sun, 15 Jun 2025 06:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/43d41e03eb22b3db893d902909ada0679ed59cfd/413_0_4101_3280/master/4101.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=774613c15a716e81d50615781d095a32"
-    },
-    {
-      "title": "Labour will drop ‘unaffordable’ net zero policies, predicts Reform’s deputy leader",
-      "description": "&lt;p&gt;Richard Tice says voters will turn on government unless energy bills fall&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.thegu...",
-      "link": "https://www.theguardian.com/environment/2025/jun/15/labour-will-drop-unaffordable-net-zero-policies-predicts-reforms-deputy-leader",
-      "pubDate": "Sun, 15 Jun 2025 06:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/98767988100428b815124afe4e376fff0e46ab25/484_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f80c82335371969b0a7966a47f077c39"
     }
   ]
 }
