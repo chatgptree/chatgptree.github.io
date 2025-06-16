@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-16T22:26:03.119Z",
+  "lastUpdated": "2025-06-16T23:27:13.678Z",
   "articles": [
+    {
+      "title": "Jane Goodall chimpanzee conservation project in Tanzania hit by USAid cuts",
+      "description": "&lt;p&gt;US agency had pledged almost $30m over five years to Hope Through Action initiative, which was launched in 2023&lt;/p&gt;&lt;p&gt;The US gove...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/17/jane-goodall-chimpanzee-conservation-project-tanzania-usaid-cuts",
+      "pubDate": "Mon, 16 Jun 2025 23:01:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cb68e4cb011625b43fe092770fd541cad9007e59/1157_0_6033_4829/master/6033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3514b9713d0f77560e418cfe31ba2b88"
+    },
     {
       "title": "Progress and frustration mark the UN’s third Ocean Conference",
       "description": "The historic high seas treaty is not yet in effect — but countries drew closer to implementing it....",
@@ -155,31 +164,22 @@
       "image": "https://i.guim.co.uk/img/media/9e76ad0b3e9a5899bc5d252216c1c5ec84e5b4aa/562_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af214887132fd105030f7bbf0f1a7cec"
     },
     {
-      "title": "SMART NETWORK DATA UNLOCKS SOLUTIONS FOR AUSTRALIA’S GRID-EDGE CHALLENGES",
-      "description": "EA Technology, a global leader in electrical asset management and smart grid solutions, has emphasised the critical role of data insights in guiding d...",
-      "link": "https://econews.com.au/67279/smart-network-data-unlocks-solutions-for-australias-grid-edge-challenges/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=smart-network-data-unlocks-solutions-for-australias-grid-edge-challenges",
-      "pubDate": "Mon, 16 Jun 2025 04:03:01 +0000",
-      "sourceName": "econews.com.au",
+      "title": "'Forever chemical' found in all but one of tested UK rivers",
+      "description": "The long-term impact of the chemical on human health is still unclear and being researched....",
+      "link": "https://www.bbc.com/news/articles/cm2yjxxvx08o",
+      "pubDate": "Sun, 15 Jun 2025 23:33:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+      "image": "../images/header2.jpg"
     },
     {
-      "title": "L’ORÉAL INVITES CONSUMERS AROUND THE WORLD TO JOIN THE REFILL MOVEMENT",
-      "description": "L’Oréal Groupe, the world’s leading beauty company, will launch its first global multi-brand, multicategory, multi-channel campaign #JoinTheRefillMove...",
-      "link": "https://econews.com.au/67277/loreal-invites-consumers-around-the-world-to-join-the-refill-movement/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=loreal-invites-consumers-around-the-world-to-join-the-refill-movement",
-      "pubDate": "Mon, 16 Jun 2025 04:02:59 +0000",
-      "sourceName": "econews.com.au",
+      "title": "Norway is all in on electric cars. What can the U.S. learn?",
+      "description": "Norway’s crusade to eliminate gasoline powered cars was years in the making. Can that achievement be replicated?...",
+      "link": "https://grist.org/transportation/norway-is-all-in-on-electric-cars-what-can-the-u-s-learn/",
+      "pubDate": "Sun, 15 Jun 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Schneider Electric named most sustainable corporation in Europe by Corporate Knights",
-      "description": "Schneider Electric Schneider Electric, the leader in the digital transformation of energy management and automation, has been ranked the most sustaina...",
-      "link": "https://econews.com.au/67275/schneider-electric-named-most-sustainable-corporation-in-europe-by-corporate-knights/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=schneider-electric-named-most-sustainable-corporation-in-europe-by-corporate-knights",
-      "pubDate": "Mon, 16 Jun 2025 04:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+      "image": "https://grist.org/wp-content/uploads/2025/04/balcony-solar-germany-united-states-us-regulation-safety.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
