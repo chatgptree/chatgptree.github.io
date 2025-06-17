@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2025-06-17T16:34:37.053Z",
+  "lastUpdated": "2025-06-17T17:24:34.331Z",
   "articles": [
     {
-      "title": "Ed Miliband says Labour will ‘win fight’ against UK net zero critics",
-      "description": "&lt;p&gt;The energy secretary was speaking at the launch of a £1bn investment scheme to bolster jobs in offshore wind&lt;/p&gt;&lt;p&gt;Ed Miliband ha...",
-      "link": "https://www.theguardian.com/politics/2025/jun/17/ed-miliband-says-labour-will-win-fight-against-uk-net-zero-critics",
-      "pubDate": "Tue, 17 Jun 2025 15:50:03 GMT",
-      "sourceName": "theguardian.com",
+      "title": "In Canada’s ‘Silicon Valley’ of Mining, Speculators Power a Hunt for Alaska’s Minerals",
+      "description": "This story was published in partnership with Northern Journal and is the first in a two-story series. VANCOUVER, British Columbia—On a January evening...",
+      "link": "https://insideclimatenews.org/news/17062025/vancouver-canada-mining-speculators-hunt-alaska-minerals/",
+      "pubDate": "Tue, 17 Jun 2025 17:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/37836dfa2cdfae7b84d4c60e37fa5e6d5a417f3f/232_192_1593_1275/master/1593.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=838d29d23e6c79f9156f26457980290d"
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Poultry megafarm in Shropshire halted over river pollution concerns",
@@ -119,6 +119,15 @@
       "image": "https://i.guim.co.uk/img/media/8fe5f07c3932723844cfd607654d2023bd080f12/345_0_3445_2756/master/3445.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=850b73a7178f249e2d1d845d49440537"
     },
     {
+      "title": "Nasa data reveals dramatic rise in intensity of weather events",
+      "description": "&lt;p&gt;Extreme events such as floods and droughts are becoming more frequent, longer-lasting and more severe, study says&lt;/p&gt;&lt;p&gt;New data ...",
+      "link": "https://www.theguardian.com/world/2025/jun/17/nasa-data-reveals-dramatic-rise-in-intensity-of-weather-events",
+      "pubDate": "Tue, 17 Jun 2025 05:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/411a5c528ff31cd9c453d411bc86bb141ffd11b2/227_0_3533_2826/master/3533.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ef0f16320eda1d2d9bbd35fc257a520"
+    },
+    {
       "title": "England needs more hosepipe bans and smart water meters - watchdog",
       "description": "The Environment Agency warns England needs a 'continued and sustained effort' to cut water demand....",
       "link": "https://www.bbc.com/news/articles/cj939kpnvx8o",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Alaska just hit a climate milestone — its first-ever heat advisory",
-      "description": "The heat bearing down on central Alaska \"could feel like 110\" in a state where the sun can shine all day....",
-      "link": "https://grist.org/extreme-heat/alaska-just-hit-a-climate-milestone-its-first-heat-advisory/",
-      "pubDate": "Mon, 16 Jun 2025 14:07:29 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/Alaska-Fairbanks-heat-advisory-climate-change.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
