@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-17T23:24:54.251Z",
+  "lastUpdated": "2025-06-18T02:09:05.054Z",
   "articles": [
+    {
+      "title": "We should all grieve about the state of the world. It can be an integral part of activism | Kelley Swain",
+      "description": "&lt;p&gt;Activism comes in many forms. I hope, in some small way, my writing is part of it&lt;/p&gt;&lt;p&gt;Time, it seems, is moving in strange ways...",
+      "link": "https://www.theguardian.com/commentisfree/2025/jun/18/we-should-all-grieve-about-the-state-of-the-world-it-can-be-an-integral-part-of-activism",
+      "pubDate": "Wed, 18 Jun 2025 00:27:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9334113cdbf656294a30da922e200cd9af19fdf0/372_0_5375_4301/master/5375.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ef6d9b8630bfa67d9da576b1cdd1a3e"
+    },
+    {
+      "title": "US Labor Advocates Demand Heat Protections for Workers as Planet Warms",
+      "description": "A father died last summer. His son sat on the porch with a baseball glove waiting for a game he never got to play. The man didn’t die in a fire or a f...",
+      "link": "https://insideclimatenews.org/news/17062025/labor-advocates-demand-worker-heat-protections/",
+      "pubDate": "Wed, 18 Jun 2025 00:22:23 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "With new Senate legislation, Congress is one step closer to gutting the Inflation Reduction Act",
+      "description": "The so-called Big Beautiful Bill targets the tax credits designed to put the U.S. on the path to net-zero carbon emissions....",
+      "link": "https://grist.org/politics/big-beautiful-bill-inflation-reduction-act-senate/",
+      "pubDate": "Tue, 17 Jun 2025 23:36:17 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/GettyImages-2217850172.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "UK gas plants in line for large windfall payments to keep lights on this winter",
       "description": "&lt;p&gt;Gas companies can be sent multimillion pound fees to generate electricity when wind and solar power is in short supply&lt;/p&gt;&lt;p&gt;More...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "England needs more hosepipe bans and smart water meters - watchdog",
-      "description": "The Environment Agency warns England needs a 'continued and sustained effort' to cut water demand....",
-      "link": "https://www.bbc.com/news/articles/cj939kpnvx8o",
-      "pubDate": "Tue, 17 Jun 2025 04:57:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The World’s Banks are Still Betting on Fossil Fuel Industry Growth",
-      "description": "The world’s biggest banks continue to bankroll the expansion of the fossil fuel industry and have largely retreated from their climate commitments, ev...",
-      "link": "https://insideclimatenews.org/news/17062025/banks-continue-to-back-fossil-fuel-industry/",
-      "pubDate": "Tue, 17 Jun 2025 04:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Progress and frustration mark the UN’s third Ocean Conference",
-      "description": "The historic high seas treaty is not yet in effect — but countries drew closer to implementing it....",
-      "link": "https://grist.org/international/progress-frustration-un-ocean-conference-high-seas-treaty-bbnj/",
-      "pubDate": "Mon, 16 Jun 2025 20:21:07 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/Protect-the-ocean-protest.jpg?quality=75&amp;strip=all"
     }
   ]
 }
