@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-19T08:35:20.733Z",
+  "lastUpdated": "2025-06-19T09:28:53.728Z",
   "articles": [
+    {
+      "title": "A new app details where your food comes from — and just how fragile the global food system really is",
+      "description": "A “first of its kind\" tool could help untangle the complex global web of food supply chains and make it more resilient to climate shocks....",
+      "link": "https://grist.org/food-and-agriculture/a-new-app-details-where-your-food-comes-from-and-just-how-fragile-the-global-food-system-really-is/",
+      "pubDate": "Thu, 19 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Labor’s new environment laws won’t be ‘credible’ unless new projects consider climate change, advocates warn",
       "description": "&lt;p&gt;Environment minister Murray Watt says the government’s thumping federal election win created a ‘very clear mandate’ to establish the EPA 2.0 ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/935b92cd6a9f272143b776472e5f87367b736905/0_0_4181_3345/master/4181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0622afd5c5992cc68d2d7fd90cbb56b"
-    },
-    {
-      "title": "‘Cancer is just everywhere’: could farming be behind Iowa’s unfolding health crisis?",
-      "description": "&lt;p&gt;A new study investigates possible ties to pesticides, nitrates and other farm-related risks&lt;/p&gt;&lt;p&gt;Six months ago, Alex Hammer was...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/18/iowa-farm-chemicals-cancer",
-      "pubDate": "Wed, 18 Jun 2025 14:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0d695da1d681b83cc9a2f42e46cb59e4c2f859f1/319_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10eb5b41b4f5dbd234274e0ac875ff17"
     }
   ]
 }
