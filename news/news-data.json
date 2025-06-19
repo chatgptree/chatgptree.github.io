@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-19T04:34:53.933Z",
+  "lastUpdated": "2025-06-19T05:26:55.597Z",
   "articles": [
+    {
+      "title": "Huge Roman 'jigsaw' reveals 2,000-year-old wall paintings",
+      "description": "Thousands of fragments of plaster are pieced together to reveal frescos from a Roman London villa....",
+      "link": "https://www.bbc.com/news/articles/c5y5w1ldz8do",
+      "pubDate": "Thu, 19 Jun 2025 05:23:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK air pollution killing more than 500 people a week, doctors say",
+      "description": "&lt;p&gt;Royal College of Physicians also says poor air quality costs country more than £500m a week&lt;/p&gt;&lt;p&gt;Air pollution in the UK is cost...",
+      "link": "https://www.theguardian.com/environment/2025/jun/19/uk-toxic-air-killing-people-doctors-warn",
+      "pubDate": "Thu, 19 Jun 2025 05:00:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4d57f8c19e5fe02ec2590a6dd72705bf1066cfe8/557_0_4114_3293/master/4114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a604e37ddf37ed2d5bde04ce2b32290c"
+    },
     {
       "title": "Rampaging raccoons: how the American mammals took over a German city – and are heading across Europe",
       "description": "&lt;p&gt;Many in Kassel have embraced the animal but the EU classes it as an invasive species and ecologists are divided about what to do next&lt;/p&g...",
@@ -155,29 +173,11 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Antarctic seal numbers falling drastically due to melting sea ice, research shows",
-      "description": "&lt;p&gt;British Antarctic Survey finds one breed of seal has declined by 54% since 1977&lt;/p&gt;&lt;p&gt;Antarctic seal populations are drastically ...",
-      "link": "https://www.theguardian.com/environment/2025/jun/18/antarctic-seal-numbers-falling-drastically-due-to-melting-sea-ice-research-shows",
-      "pubDate": "Wed, 18 Jun 2025 09:01:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/481f7ff9aaba8c6db32011a8094bf67140773274/222_77_2333_1867/master/2333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1664548195773d1cd7a6bfbde6daa178"
-    },
-    {
       "title": "Air Pollution Is ‘Keeping Kids Out of School’ in Pennsylvania’s Allegheny County, Study Shows",
       "description": "In 2020, Dr. Deborah Gentile helped lead a study that showed children living near major sources of industrial pollution in Pennsylvania’s Allegheny Co...",
       "link": "https://insideclimatenews.org/news/18062025/clairton-coke-works-air-pollution-children-asthma/",
       "pubDate": "Wed, 18 Jun 2025 09:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Canada’s wildfire crisis is displacing First Nations at alarming rates",
-      "description": "With over 40,000 people evacuated and infrastructure overwhelmed, Indigenous leaders say climate change is hitting their homelands hardest....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/canadas-wildfire-crisis-is-displacing-first-nations-at-alarming-rates/",
-      "pubDate": "Wed, 18 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
