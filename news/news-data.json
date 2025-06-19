@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-19T12:55:02.414Z",
+  "lastUpdated": "2025-06-19T13:37:00.106Z",
   "articles": [
+    {
+      "title": "How a Data Center Company Uses Stranded Renewable Energy",
+      "description": "John Belizaire says he has a secret hiding in plain sight. But before revealing it, the CEO of Soluna, a green data center development firm headquarte...",
+      "link": "https://insideclimatenews.org/news/19062025/inside-clean-energy-stranded-renewable-data-centers/",
+      "pubDate": "Thu, 19 Jun 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Amber heat alert issued across England with warning of ‘rise in deaths’",
       "description": "&lt;p&gt;UKHSA warns of risk to people aged 65 and over as temperatures of up to 33C expected until Monday&lt;/p&gt;&lt;p&gt;Amber weather alerts have...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/058a602034fbd95d3794d5c1a2c2dfe21640fc0e/1_0_3779_3024/master/3779.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc35506608079dd68a527ed156317d0d"
-    },
-    {
-      "title": "Three years left to limit warming to 1.5C, leading scientists warn",
-      "description": "The Earth could be doomed to breach a key climate target in as little as three years, scientists warn....",
-      "link": "https://www.bbc.com/news/articles/cn4l927dj5zo",
-      "pubDate": "Thu, 19 Jun 2025 00:04:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
