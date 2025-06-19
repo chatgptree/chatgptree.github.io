@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-19T15:28:07.291Z",
+  "lastUpdated": "2025-06-19T16:33:15.367Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "We investigate the role our forests are playing in offsetting carbon emissions....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002dpns",
+      "pubDate": "Thu, 19 Jun 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK ministers reopen door to drilling at two North Sea oilfields as new guidance released",
+      "description": "&lt;p&gt;Michael Shanks says guidance brings ‘clarity’ to approval process as analysis finds UK will be almost fully dependent on foreign gas by 2050 ...",
+      "link": "https://www.theguardian.com/environment/2025/jun/19/uk-ministers-to-restart-approval-process-for-two-north-sea-oilfields",
+      "pubDate": "Thu, 19 Jun 2025 15:18:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2ade09d960469b477652b98fb14c5da17c7a3855/345_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=598f33f328b312c8f58362e70e8eafa1"
+    },
     {
       "title": "NSW budget unlikely to allocate extra funding for long-promised great koala national park",
       "description": "&lt;p&gt;‘People will see that we’re making progress on it,’ treasurer Daniel Mookhey tells Guardian Australia&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;G...",
@@ -36,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e83680ffbd1a094d5b945e44cf0f4c4233a66648/0_913_3375_2700/master/3375.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f584e08179660d7cc6c2acf50647dfa"
-    },
-    {
-      "title": "Climate misinformation turning crisis into catastrophe – major report",
-      "description": "&lt;p&gt;False claims obstructing climate action, say researchers, amid calls for climate lies to be criminalised&lt;/p&gt;&lt;p&gt;Rampant climate mi...",
-      "link": "https://www.theguardian.com/environment/2025/jun/19/climate-misinformation-turning-crisis-into-catastrophe-ipie-report",
-      "pubDate": "Thu, 19 Jun 2025 11:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c858580d7eaabf09b3050e7d179bbd4ba073846d/685_652_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ac5faab3581724dbe065a840fc0e004"
     },
     {
       "title": "‘This isn’t a gimmick’: the New Yorkers trying to restore the American chestnut",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/dc94a7d1e571d6b81d7bc3ed74773b080f43c5fc/927_126_3674_2937/master/3674.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c83c96b9c1d1b468daafb6765676ba91"
-    },
-    {
-      "title": "Bear necessity: lid stuck around US animal’s neck removed after two years",
-      "description": "&lt;p&gt;Michigan wildlife experts surprised by the bear’s ability to eat and sleep despite the uncomfortable accessory&lt;/p&gt;&lt;p&gt;Michigan wil...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/18/michigan-bear-lid-removed",
-      "pubDate": "Thu, 19 Jun 2025 00:08:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/058a602034fbd95d3794d5c1a2c2dfe21640fc0e/1_0_3779_3024/master/3779.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc35506608079dd68a527ed156317d0d"
     }
   ]
 }
