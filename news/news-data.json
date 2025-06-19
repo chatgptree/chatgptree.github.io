@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-19T11:23:03.177Z",
+  "lastUpdated": "2025-06-19T12:55:02.414Z",
   "articles": [
+    {
+      "title": "Amber heat alert issued across England with warning of ‘rise in deaths’",
+      "description": "&lt;p&gt;UKHSA warns of risk to people aged 65 and over as temperatures of up to 33C expected until Monday&lt;/p&gt;&lt;p&gt;Amber weather alerts have...",
+      "link": "https://www.theguardian.com/uk-news/2025/jun/19/amber-weather-alert-for-heat-across-england-as-temperatures-rise",
+      "pubDate": "Thu, 19 Jun 2025 12:15:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/077d60a10630fab2ff377bc50d53fd03023e24b1/320_0_5003_4000/master/5003.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab628bf622619dcab62666db3a79fc6f"
+    },
+    {
+      "title": "Flight tax could raise €100bn to tackle climate crisis, study finds",
+      "description": "&lt;p&gt;Environmental group says adding levies to airline tickets would help ease financial burden on poor countries&lt;/p&gt;&lt;p&gt;Adding a levy ...",
+      "link": "https://www.theguardian.com/environment/2025/jun/19/flight-tax-climate-crisis-airline-tickets-levy-environment",
+      "pubDate": "Thu, 19 Jun 2025 12:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e83680ffbd1a094d5b945e44cf0f4c4233a66648/0_913_3375_2700/master/3375.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f584e08179660d7cc6c2acf50647dfa"
+    },
     {
       "title": "Climate misinformation turning crisis into catastrophe – major report",
       "description": "&lt;p&gt;False claims obstructing climate action, say researchers, amid calls for climate lies to be criminalised&lt;/p&gt;&lt;p&gt;Rampant climate mi...",
@@ -29,13 +47,22 @@
       "image": "https://i.guim.co.uk/img/media/923130f04c1d432b1ced5d59930466e8bc831718/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d048ef8824d46d36ea0e1de59dcf4a25"
     },
     {
-      "title": "Lithuanian hunters refuse to kill bear that ambled around capital for two days",
-      "description": "&lt;p&gt;Government issued permit to shoot young female who entered Vilnius, despite only small number left in Baltic country&lt;/p&gt;&lt;ul&gt;&lt;l...",
-      "link": "https://www.theguardian.com/environment/2025/jun/19/lithuania-hunters-refuse-to-kill-bear-that-ambled-around-vilnius-for-two-days",
-      "pubDate": "Thu, 19 Jun 2025 09:26:19 GMT",
-      "sourceName": "theguardian.com",
+      "title": "What are the risks of bombing Iran's nuclear sites?",
+      "description": "Destroying Iran's stores of enriched uranium would bring danger for people nearby but not trigger another Chernobyl....",
+      "link": "https://www.bbc.com/news/articles/c5ykjvl1y9jo",
+      "pubDate": "Thu, 19 Jun 2025 09:56:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/df781ec8c134ca252e4195d83b926b6b83447220/66_158_1186_949/master/1186.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73b09382413820c2e2d90908e3d6bc01"
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What are the risks of bombing Iran's nuclear sites?",
+      "description": "Destroying Iran's stores of enriched uranium would bring danger for people nearby but not trigger another Chernobyl....",
+      "link": "https://www.bbc.com/news/articles/c5ykjvl1y9jo",
+      "pubDate": "Thu, 19 Jun 2025 09:56:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "As Wildfires Increase, NJ Considers the Impact on Public Health",
@@ -72,15 +99,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Labor’s new environment laws won’t be ‘credible’ unless new projects consider climate change, advocates warn",
-      "description": "&lt;p&gt;Environment minister Murray Watt says the government’s thumping federal election win created a ‘very clear mandate’ to establish the EPA 2.0 ...",
-      "link": "https://www.theguardian.com/australia-news/2025/jun/19/labors-new-environment-laws-wont-be-credible-unless-new-projects-consider-climate-change-advocates-warn",
-      "pubDate": "Thu, 19 Jun 2025 07:44:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9ec97ff21ca763ecc61a4db17a17d5805aabe92e/743_0_6043_4835/master/6043.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a842022d6369790c6b9c0589554cb148"
     },
     {
       "title": "Scientists use AI to make green ammonia even greener",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cn4l927dj5zo",
       "pubDate": "Thu, 19 Jun 2025 00:04:28 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Three years left to limit warming to 1.5C, leading scientists warn",
-      "description": "The Earth could be doomed to breach a key climate target in as little as three years, scientists warn....",
-      "link": "https://www.bbc.com/news/articles/cn4l927dj5zo",
-      "pubDate": "Thu, 19 Jun 2025 00:04:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Georgia, a runoff looms for Democrats after primary results for public utility commission seat",
-      "description": "In a state with rising energy bills, the race is key for its climate future....",
-      "link": "https://grist.org/climate-energy/run-off-among-democrats-seat-board-determines-energy-policy-in-georgia/",
-      "pubDate": "Wed, 18 Jun 2025 23:37:44 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
