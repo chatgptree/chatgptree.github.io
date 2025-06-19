@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-18T23:25:02.285Z",
+  "lastUpdated": "2025-06-19T02:09:43.755Z",
   "articles": [
+    {
+      "title": "Bear necessity: lid stuck around US animal’s neck removed after two years",
+      "description": "&lt;p&gt;Michigan wildlife experts surprised by the bear’s ability to eat and sleep despite the uncomfortable accessory&lt;/p&gt;&lt;p&gt;Michigan wil...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/18/michigan-bear-lid-removed",
+      "pubDate": "Thu, 19 Jun 2025 00:08:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/058a602034fbd95d3794d5c1a2c2dfe21640fc0e/1_0_3779_3024/master/3779.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc35506608079dd68a527ed156317d0d"
+    },
+    {
+      "title": "In Georgia, a runoff looms for Democrats after primary results for public utility commission seat",
+      "description": "In a state with rising energy bills, the race is key for its climate future....",
+      "link": "https://grist.org/climate-energy/run-off-among-democrats-seat-board-determines-energy-policy-in-georgia/",
+      "pubDate": "Wed, 18 Jun 2025 23:37:44 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "USGS Touts Potential Oil and Gas Resources Beneath Public Lands in Updated Survey",
+      "description": "The United States Geological Survey released a report on Wednesday showing vast quantities of undiscovered oil and gas resources beneath public lands....",
+      "link": "https://insideclimatenews.org/news/18062025/usgs-touts-potential-public-land-oil-gas/",
+      "pubDate": "Wed, 18 Jun 2025 23:33:18 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "An Alabama City Recommends Changing Its Laws to Accommodate One of the Country’s Largest Proposed Data Centers",
       "description": "BESSEMER, Ala.—When a representative for a hotly contested development began to speak inside City Hall here Tuesday evening, the lights went out.&#160...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png"
-    },
-    {
-      "title": "Go wild at the Maritime Museum these winter school holidays",
-      "description": "Australian National Maritime Museum Explore your creativity and curiosity at the Australian National Maritime Museum these school holidays with a jam-...",
-      "link": "https://econews.com.au/67297/go-wild-at-the-maritime-museum-these-winter-school-holidays/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=go-wild-at-the-maritime-museum-these-winter-school-holidays",
-      "pubDate": "Wed, 18 Jun 2025 06:03:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Australian Ethical and the CEFC Invest $30 Million in Climate Tech Partners as Fund Reaches First Close",
-      "description": "Climate Tech Partners (CTP) has reached first close for its new fund, anchored by $15 million each from Australian Ethical Investments (AEI) and the C...",
-      "link": "https://econews.com.au/67295/australian-ethical-and-the-cefc-invest-30-million-in-climate-tech-partners-as-fund-reaches-first-close/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australian-ethical-and-the-cefc-invest-30-million-in-climate-tech-partners-as-fund-reaches-first-close",
-      "pubDate": "Wed, 18 Jun 2025 06:03:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "The $6 billion flexibility dividend: why grid orchestration must be Australia’s next energy imperative",
-      "description": "By James Hunt, Vice President for Power Systems and Services at Schneider Electric Australia is powering ahead with its energy transition. Coal is exi...",
-      "link": "https://econews.com.au/67293/the-6-billion-flexibility-dividend-why-grid-orchestration-must-be-australias-next-energy-imperative/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-6-billion-flexibility-dividend-why-grid-orchestration-must-be-australias-next-energy-imperative",
-      "pubDate": "Wed, 18 Jun 2025 06:02:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Schneider-Electric-logo.png"
     }
   ]
 }
