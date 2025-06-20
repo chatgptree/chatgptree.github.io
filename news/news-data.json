@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-20T14:25:58.600Z",
+  "lastUpdated": "2025-06-20T15:27:38.330Z",
   "articles": [
+    {
+      "title": "Fuel firms can challenge California’s emission limits, supreme court rules",
+      "description": "&lt;p&gt;Court votes to back challenge to state waiver that allows it to set tougher car emission standards than federal limits&lt;/p&gt;&lt;p&gt;Foss...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/20/supreme-court-ruling-california-emission-limits",
+      "pubDate": "Fri, 20 Jun 2025 14:36:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2d4db1a1788b1ef58a5a9d4de2295a01b0a2ebc3/265_0_3428_2743/master/3428.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b218e068c4f58022c2d895888dc964bf"
+    },
     {
       "title": "Nigerian communities to take Shell to high court over oil pollution",
       "description": "&lt;p&gt;Residents of Bille and Ogale in Niger delta are suing Shell and subsidiary, but company denies liability&lt;/p&gt;&lt;p&gt;Residents of two N...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/m002dpns",
       "pubDate": "Thu, 19 Jun 2025 16:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How a Data Center Company Uses Stranded Renewable Energy",
-      "description": "John Belizaire says he has a secret hiding in plain sight. But before revealing it, the CEO of Soluna, a green data center development firm headquarte...",
-      "link": "https://insideclimatenews.org/news/19062025/inside-clean-energy-stranded-renewable-data-centers/",
-      "pubDate": "Thu, 19 Jun 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
