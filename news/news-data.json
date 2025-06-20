@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-20T08:34:46.873Z",
+  "lastUpdated": "2025-06-20T09:28:24.978Z",
   "articles": [
+    {
+      "title": "Can Solar and Geothermal Energy Help a Church and Its Neighbors Wean Off Fossil Fuels?",
+      "description": "SALEM, Mass.—One of the most ambitious clean energy projects under consideration in this state started after a nasty surprise. In December 2022, utili...",
+      "link": "https://insideclimatenews.org/news/20062025/massachusetts-church-solar-geothermal-energy-project/",
+      "pubDate": "Fri, 20 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Want to try lab-grown salmon? The US just approved it.",
+      "description": "Despite a growing number of state bans, advocates of cultivated seafood say it can protect waterways from overfishing....",
+      "link": "https://grist.org/food-and-agriculture/lab-grown-salmon-wildtype-cultivated-meat-politics-state-bans/",
+      "pubDate": "Fri, 20 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/WT32.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "A majority of people around the world support a carbon tax — even if they&#8217;re paying it",
       "description": "Even in the U.S., where the policy was least popular, half of those surveyed said they'd support a climate tax that redistributes wealth....",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c5ykjvl1y9jo",
       "pubDate": "Thu, 19 Jun 2025 09:56:46 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What are the risks of bombing Iran's nuclear sites?",
-      "description": "Destroying Iran's stores of enriched uranium would bring danger for people nearby but not trigger another Chernobyl....",
-      "link": "https://www.bbc.com/news/articles/c5ykjvl1y9jo",
-      "pubDate": "Thu, 19 Jun 2025 09:56:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Wildfires Increase, NJ Considers the Impact on Public Health",
-      "description": "The Jones Road fire in New Jersey scorched 15,300 acres for nearly three weeks this spring. Its sickly orange haze vanished hours after the blaze was ...",
-      "link": "https://insideclimatenews.org/news/19062025/new-jersey-wildfire-smoke-health/",
-      "pubDate": "Thu, 19 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
