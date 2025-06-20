@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-20T16:32:57.179Z",
+  "lastUpdated": "2025-06-20T17:23:38.485Z",
   "articles": [
+    {
+      "title": "The Guardian view on Our Story With David Attenborough and The Herds: a new theatre of the Anthropocene | Editorial",
+      "description": "&lt;p&gt;A cinematic immersive experience and stampeding animal puppets are bringing the climate emergency into the city&lt;/p&gt;&lt;p&gt;As parts of...",
+      "link": "https://www.theguardian.com/commentisfree/2025/jun/20/the-guardian-view-on-our-story-with-david-attenborough-and-the-herds-a-new-theatre-of-the-anthropocene",
+      "pubDate": "Fri, 20 Jun 2025 16:59:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a1f8467f4ecb5502130379182c1be7179a496f95/408_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=71d8cb64c64cbbbbf163acdeb73ce322"
+    },
     {
       "title": "Fuel firms can challenge California’s emission limits, supreme court rules",
       "description": "&lt;p&gt;Court votes to back challenge to state waiver that allows it to set tougher car emission standards than federal limits&lt;/p&gt;&lt;p&gt;Foss...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/06/malaga-spain-beach.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "We investigate the role our forests are playing in offsetting carbon emissions....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002dpns",
-      "pubDate": "Thu, 19 Jun 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
