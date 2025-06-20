@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-20T19:20:46.286Z",
+  "lastUpdated": "2025-06-20T20:28:35.689Z",
   "articles": [
+    {
+      "title": "Why Is the U.S. Proposing Protections for an Animal That Doesn’t Live Here?",
+      "description": "Earlier this week, the U.S. Fish and Wildlife Service proposed listing seven species of pangolins—scaly, armadillo-like creatures found in Asia and Af...",
+      "link": "https://insideclimatenews.org/news/20062025/todays-climate-endangered-pangolins-protection/",
+      "pubDate": "Fri, 20 Jun 2025 20:22:49 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Millions of people across central and eastern US under ‘heat dome’ warning",
+      "description": "&lt;p&gt;Temperatures at or above 100F expected as extreme hot air and humidity are trapped in atmosphere&lt;/p&gt;&lt;p&gt;Scores of millions of peop...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/20/heat-dome-warning-central-eastern-us",
+      "pubDate": "Fri, 20 Jun 2025 20:11:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fa9030e9780696dbfa50032ef12bb9884a62f2a4/417_0_4167_3335/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b56b65bf8516d715d46f7d91b2780813"
+    },
     {
       "title": "The Guardian view on Our Story With David Attenborough and The Herds: a new theatre of the Anthropocene | Editorial",
       "description": "&lt;p&gt;A cinematic immersive experience and stampeding animal puppets are bringing the climate emergency into the city&lt;/p&gt;&lt;p&gt;As parts of...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2fad6286bdec923cde766177bdf045eb8d3a776b/283_0_4503_3603/master/4503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c5244a9da02088369ca38ba08fe37f8"
-    },
-    {
-      "title": "Plastic bag bans and fees curb US shoreline litter, study suggests",
-      "description": "Shoreline litter data research shows policies caused a relative decrease in the percentage of plastic bags....",
-      "link": "https://www.bbc.com/news/articles/cdeznkxyek0o",
-      "pubDate": "Thu, 19 Jun 2025 18:01:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Science says plastic bag bans really do work",
-      "description": "A new study finds that outlawing or taxing plastic bags reduces beach litter....",
-      "link": "https://grist.org/science/plastic-bag-ban-beach-cleanups-ocean-conservancy-study/",
-      "pubDate": "Thu, 19 Jun 2025 18:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/malaga-spain-beach.jpg?quality=75&amp;strip=all"
     }
   ]
 }
