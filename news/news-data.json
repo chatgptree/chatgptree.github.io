@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-22T16:30:26.437Z",
+  "lastUpdated": "2025-06-22T17:24:31.368Z",
   "articles": [
+    {
+      "title": "The Guardian view on extreme weather: build national readiness – or let everyday life keep breaking down | Editorial",
+      "description": "&lt;p&gt;Britain faces rising climate threats, yet lacks a country adaptation plan. Urgent, coordinated investment is needed to protect lives and infr...",
+      "link": "https://www.theguardian.com/commentisfree/2025/jun/22/the-guardian-view-on-extreme-weather-build-national-readiness-or-let-everyday-life-keep-breaking-down",
+      "pubDate": "Sun, 22 Jun 2025 17:10:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9594aaa1b4f6b26349474eca296cfb122d0db4a2/1618_547_2851_2281/master/2851.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df3db6b3e1c16cc156275d6348f821e1"
+    },
     {
       "title": "This rural community fought one of the country’s biggest gas-powered data centers — and won",
       "description": "Inside the grassroots opposition that fended off a 2,200-acre data center campus in southern Virginia, and why their struggle isn’t over yet....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Millions of people across central and eastern US under ‘heat dome’ warning",
-      "description": "&lt;p&gt;Temperatures at or above 100F expected as extreme hot air and humidity are trapped in atmosphere&lt;/p&gt;&lt;p&gt;Scores of millions of peop...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/20/heat-dome-warning-central-eastern-us",
-      "pubDate": "Fri, 20 Jun 2025 20:11:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fa9030e9780696dbfa50032ef12bb9884a62f2a4/417_0_4167_3335/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b56b65bf8516d715d46f7d91b2780813"
     }
   ]
 }
