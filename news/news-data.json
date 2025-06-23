@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-23T03:58:09.573Z",
+  "lastUpdated": "2025-06-23T04:42:06.517Z",
   "articles": [
+    {
+      "title": "First celestial image unveiled from revolutionary telescope",
+      "description": "The telescope should detect killer asteroids and may even find the ninth planet in our solar system....",
+      "link": "https://www.bbc.com/news/articles/cj3rmjjgx6xo",
+      "pubDate": "Mon, 23 Jun 2025 04:01:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘A timebomb’: could a French mine full of waste poison the drinking water of millions?",
+      "description": "&lt;p&gt;Scientists fear thousands of tonnes of chemicals dumped in mining tunnels in Alsace may seep into an aquifer, with devastating consequences f...",
+      "link": "https://www.theguardian.com/environment/2025/jun/23/french-mine-stocamine-waste-drinking-water-chemicals-alsace-aquifer-aoe",
+      "pubDate": "Mon, 23 Jun 2025 04:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/67f6cdcd25174aa2e253418bc304138c939497c5/1413_724_4127_3300/master/4127.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00881ae4f2ed3087f9e6cfdc812d4e24"
+    },
     {
       "title": "How China made electric vehicles mainstream",
       "description": "The world's second largest economy is both the biggest producer and buyer of EVs....",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/21062025/scientists-urge-brazil-president-to-reject-amazon-offshore-drilling/",
       "pubDate": "Sat, 21 Jun 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Alabama Environmental Groups Secure Rare Win in Fight to Update Water Toxicity Standards",
-      "description": "Alabama environmental regulators have agreed to update standards used to limit the amounts of 12 toxic and carcinogenic substances in the state’s wate...",
-      "link": "https://insideclimatenews.org/news/21062025/alabama-water-toxicity-standards/",
-      "pubDate": "Sat, 21 Jun 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "King's Midwinter message to Antarctic researchers",
-      "description": "King Charles is the first monarch to take part in the annual BBC broadcast, which sends a morale-raising message to scientists on remote research base...",
-      "link": "https://www.bbc.com/news/articles/cn9yxv2lvl0o",
-      "pubDate": "Sat, 21 Jun 2025 05:05:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
