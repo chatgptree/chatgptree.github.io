@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-22T23:24:30.704Z",
+  "lastUpdated": "2025-06-23T02:23:03.959Z",
   "articles": [
+    {
+      "title": "How China made electric vehicles mainstream",
+      "description": "The world's second largest economy is both the biggest producer and buyer of EVs....",
+      "link": "https://www.bbc.com/news/articles/c2d5ld8y8pwo",
+      "pubDate": "Sun, 22 Jun 2025 23:17:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Mosquito colony feeds on blood from scientist's arm  – video",
       "description": "&lt;p&gt;Dr Véronique Paris has a hands-on approach to her research — she lets hundreds of mosquitoes bite her arm in order to feed and maintain her m...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New York&#8217;s mayoral race could decide the city&#8217;s climate future",
-      "description": "The nation's largest city has an ambitious plan to reduce emissions. The next mayor could make or break its success....",
-      "link": "https://grist.org/cities/new-yorks-mayoral-race-could-decide-the-citys-climate-future/",
-      "pubDate": "Fri, 20 Jun 2025 22:02:14 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/New-York-mayor-race-climate-Zohran-Mamdani-Andrew-Cuomo.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
