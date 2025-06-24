@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-24T08:36:12.253Z",
+  "lastUpdated": "2025-06-24T09:30:03.186Z",
   "articles": [
+    {
+      "title": "In North Carolina, Exploding Bulbs and Fridges on the Fritz Reveal a Town’s Fraying Electric System",
+      "description": "RED SPRINGS, N.C.—Early one evening this April, Kim Overstreet had just turned off the stove when she heard a boom. The panel box in the kitchen swung...",
+      "link": "https://insideclimatenews.org/news/24062025/north-carolina-power-surge-fraying-electric-system/",
+      "pubDate": "Tue, 24 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A New York Rooftop Blossoms with Lessons About Food Literacy",
+      "description": "NEW YORK—On the roof of Metro Baptist Church, 52 pink and blue plastic kiddie pools are filled with soil and a bounty of blossoms, legumes and leafy g...",
+      "link": "https://insideclimatenews.org/news/24062025/new-york-rooftop-garden-teaches-food-literacy/",
+      "pubDate": "Tue, 24 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How shrinking the EPA could make wildfire smoke even more dangerous",
+      "description": "\"It will leave communities more vulnerable.\"...",
+      "link": "https://grist.org/wildfires/how-shrinking-the-epa-could-make-wildfire-smoke-even-more-dangerous/",
+      "pubDate": "Tue, 24 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/GettyImages-2217847002d-e1749574352801.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "California rolls on with electric trucks, despite Trump’s roadblocks",
       "description": "California remains committed to zero-emissions trucking. But Trump's hostility to the idea means it will require creative policymaking....",
@@ -146,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/8e6f88199bf54df8676d9d0c1fca8b9e62d3a98b/451_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=933bb64259f5dd770bc1fd73881a75c3"
     },
     {
-      "title": "AustralianSuper criticised for buying up shares in Whitehaven Coal while claiming to be committed to net zero",
-      "description": "&lt;p&gt;Super fund, on the brink of becoming Whitehaven’s biggest shareholder, says company’s acquisition of metallurgical coal assets made it a more...",
-      "link": "https://www.theguardian.com/australia-news/2025/jun/24/australiansuper-criticised-for-buying-up-shares-in-whitehaven-coal-while-claiming-to-be-committed-to-net-zero-ntwnfb",
-      "pubDate": "Mon, 23 Jun 2025 15:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1d9f1c265854e60175f6e2314636dd9b498e4dca/912_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=928978fd1105ac4e79a6a0c19c32c662"
-    },
-    {
       "title": "Scientists use bacteria to turn plastic waste into paracetamol",
       "description": "&lt;p&gt;Genetically modified E coli&lt;strong&gt; &lt;/strong&gt;used to create painkillers from material produced from plastic bottles&lt;/p&gt;&lt;...",
       "link": "https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/12b7ef0ae1fa1bc96e8969c8f9c41cb682e9a97d/466_0_4636_3711/master/4636.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed1ba69133defe40ae8ed8482393d819"
-    },
-    {
-      "title": "Tasmanian leaders struggle with a basic fact: environment laws should protect the environment | Clear Air",
-      "description": "&lt;p&gt;Nature in Australia’s smallest state is in poor health, but this has been largely ignored by both major parties in the lead-up to the early s...",
-      "link": "https://www.theguardian.com/commentisfree/2025/jun/23/tasmanian-leaders-environment-laws-protect",
-      "pubDate": "Mon, 23 Jun 2025 15:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c55bb2e3e68efc1a2ff5ade5446798cc6b80087b/836_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d6912ef3b1dacdfb2c141d765f1042d"
-    },
-    {
-      "title": "Figuring Out a Battery Storage System to Fit New York’s Wind and Solar Ambitions Has Not Been Easy",
-      "description": "When New York state passed its ambitious Climate Leadership and Community Protection Act in 2019, Brooklyn-based NineDot Energy saw an opportunity. Th...",
-      "link": "https://insideclimatenews.org/news/23062025/new-york-battery-storage-system-wind-solar/",
-      "pubDate": "Mon, 23 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
