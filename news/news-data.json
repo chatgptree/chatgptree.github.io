@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-24T22:25:57.248Z",
+  "lastUpdated": "2025-06-24T23:25:25.773Z",
   "articles": [
+    {
+      "title": "This burger was made in a lab from cow cells… Should it really be served in restaurants?",
+      "description": "Lab-grown beef, chicken and even quail are served in restaurants in some countries around the world - and now some cultivated meats could soon be sold...",
+      "link": "https://www.bbc.com/news/articles/cgrxnlpln24o",
+      "pubDate": "Tue, 24 Jun 2025 23:02:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Amid Brutal Heat Wave, Officials Stress Health Risks of Hot Nights",
       "description": "Much of the United States is baking amid an unusually severe June heat wave, with more than 150 million people under some sort of heat advisory. The u...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d0cb6142513cc60aca8dba043c18a5f609eaf686/837_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ee612b291ec981f69010288bf76b4ee"
-    },
-    {
-      "title": "As GOP Tries to Pass Tax Bill, Senate Includes Billions in Benefits for Oil Industry",
-      "description": "As the Senate works this week to pass major legislation that would slash taxes, climate programs and government spending, Republicans are poised to in...",
-      "link": "https://insideclimatenews.org/news/23062025/senate-republicans-big-oil-tax-benefits/",
-      "pubDate": "Mon, 23 Jun 2025 22:38:51 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
