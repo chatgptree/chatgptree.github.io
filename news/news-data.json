@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-24T21:25:33.600Z",
+  "lastUpdated": "2025-06-24T22:25:57.248Z",
   "articles": [
+    {
+      "title": "Amid Brutal Heat Wave, Officials Stress Health Risks of Hot Nights",
+      "description": "Much of the United States is baking amid an unusually severe June heat wave, with more than 150 million people under some sort of heat advisory. The u...",
+      "link": "https://insideclimatenews.org/news/24062025/todays-climate-heat-wave-night-sleep/",
+      "pubDate": "Tue, 24 Jun 2025 21:03:23 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The US’s June heatwave is a dangerous start to summer and about to get hotter",
       "description": "&lt;p&gt;Extreme heat is bringing a stifling, dangerous, start to summer across much of the eastern US this week&lt;/p&gt;&lt;p&gt;A rare June heatwav...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New York will build first major new US nuclear power plant in over 15 years",
-      "description": "&lt;p&gt;Governor says plant upstate is ‘a critical energy initiative’ while renewable energy groups slammed the decision&lt;/p&gt;&lt;p&gt;&lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/23/new-york-nuclear-power-plant",
-      "pubDate": "Mon, 23 Jun 2025 17:09:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c30addd41ba37cde4081dd900524185f8f310e35/312_0_3294_2634/master/3294.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18f5ba852a3c302cd7359c8b3dde335d"
     }
   ]
 }
