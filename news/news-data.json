@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2025-06-25T07:26:50.007Z",
+  "lastUpdated": "2025-06-25T08:36:27.492Z",
   "articles": [
+    {
+      "title": "‘No end of problems’ for Australia’s south-east coastlines as strong winds and large waves hit again",
+      "description": "&lt;p&gt;Amid abnormally high tides this week, councils report a rising frequency of inundation and erosion events due to climate change&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/jun/25/no-end-of-problems-for-australian-south-east-coastlines-as-winds-and-waves-hit-again",
+      "pubDate": "Wed, 25 Jun 2025 08:05:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ed4eed710d920bc2ea603aecded9990d83db5480/171_0_1706_1365/master/1706.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e8d6b07bc8fb23ee777f58ffba5114b"
+    },
     {
       "title": "River pollution suffocating the sea, campaigners say",
       "description": "New reports are set to show pollution from farming and sewage is affecting protected areas of the sea....",
       "link": "https://www.bbc.com/news/articles/cj0m2vp14qno",
-      "pubDate": "Wed, 25 Jun 2025 06:40:18 GMT",
+      "pubDate": "Wed, 25 Jun 2025 07:42:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "India sends its first astronaut into space after 41 years",
+      "description": "Group Captain Shubhanshu Shukla has become only the second Indian to travel to space. ...",
+      "link": "https://www.bbc.com/news/articles/cz09lx2gjm4o",
+      "pubDate": "Wed, 25 Jun 2025 06:38:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -83,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/9130fa9170205d1476e43c660137d6fc77bcaeda/0_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=716a28d950cc4e9abbc2502d496c0410"
     },
     {
-      "title": "Courts pushing back on corporate carbon offsetting claims, LSE report finds",
+      "title": "Rise in legal challenges over carbon credit schemes",
       "description": "&lt;p&gt;Scrutiny of how companies plan to meet climate commitments is growing, with many successful legal challenges&lt;/p&gt;&lt;p&gt;Judges across ...",
       "link": "https://www.theguardian.com/environment/2025/jun/25/courts-corporate-carbon-offsetting-claims-lse-report",
       "pubDate": "Wed, 25 Jun 2025 04:00:33 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The US’s June heatwave is a dangerous start to summer and about to get hotter",
-      "description": "&lt;p&gt;Extreme heat is bringing a stifling, dangerous, start to summer across much of the eastern US this week&lt;/p&gt;&lt;p&gt;A rare June heatwav...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/24/june-heatwave",
-      "pubDate": "Tue, 24 Jun 2025 17:46:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/28a4561c5c6ec1d5262fee745d015bf8ce37a288/333_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4c704e359416f647bddfc87dabea2c2"
-    },
-    {
-      "title": "More than 150 fall ill from extreme heat at New Jersey graduations",
-      "description": "&lt;p&gt;A ‘mass casualty incident’ as temperatures soar to upper 90s fahrenheit in the region&lt;/p&gt;&lt;p&gt;More than 150 people fell ill with he...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/24/new-jersey-extreme-heat-mass-casualty-incident",
-      "pubDate": "Tue, 24 Jun 2025 17:13:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a610d25231c0d00bb57b1acd0f74c39dc0d3767c/0_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40916a9c7690b7d5bbdcea4811bb5c39"
     }
   ]
 }
