@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-26T17:24:20.238Z",
+  "lastUpdated": "2025-06-26T18:37:14.651Z",
   "articles": [
+    {
+      "title": "Shoots of hope for Britain's cherished ash trees",
+      "description": "Scientific evidence suggests ash trees are  ‘fighting back’ against a deadly disease....",
+      "link": "https://www.bbc.com/news/articles/cvg45zrex7jo",
+      "pubDate": "Thu, 26 Jun 2025 18:17:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘New hope’: ash trees rapidly evolving resistance to dieback, study reveals",
+      "description": "&lt;p&gt;Subtle DNA changes in trees demonstrate Charles Darwin’s natural selection – although human help may be needed&lt;/p&gt;&lt;p&gt;New generati...",
+      "link": "https://www.theguardian.com/environment/2025/jun/26/ash-trees-evolve-resistance-dieback-study",
+      "pubDate": "Thu, 26 Jun 2025 18:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/689453cee244e6fd6604547b5a7410cd55b31c44/595_185_4569_3655/master/4569.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfb65849e9a279ba93d5d916d32a6a81"
+    },
     {
       "title": "Elizabeth Warren presses oil companies on tax break lobbying for Senate bill",
       "description": "&lt;p&gt;Democratic senator leads calls for answers over provision that could cut fossil fuel firms’ income tax to zero&lt;/p&gt;&lt;p&gt;Democratic l...",
@@ -128,15 +146,6 @@
       "image": "https://i.guim.co.uk/img/media/5abcdbd1a7e108c5f8f893869e59bb641ac65b13/608_0_1440_1152/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad6eccacea95ec440c24eaf440b6c90f"
     },
     {
-      "title": "Australian consumer watchdog takes gas company to court alleging it misled consumers over renewables claim",
-      "description": "&lt;p&gt;The ACCC says it launched investigation into Australian Gas Networks after complaints from consumers and conservation advocates&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/jun/26/australian-consumer-watchdog-takes-gas-company-to-court-alleging-it-misled-consumers-over-renewables-claim-ntwnfb",
-      "pubDate": "Thu, 26 Jun 2025 06:19:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bae63a6d059e591094b6e58bed13c3b9d46356d0/267_0_2493_1995/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aec76e09bfd7ba96e61ae069a21f8573"
-    },
-    {
       "title": "Shipping is one of the world’s dirtiest industries – could this invention finally clean up cargo fleets?",
       "description": "&lt;p&gt;Freighters emit more greenhouse gases than jets, but a tech startup believes a simple and effective technique can help the industry change co...",
       "link": "https://www.theguardian.com/environment/2025/jun/26/global-shipping-emissions-invention-clean-up-cargo-fleets-net-zero",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/25062025/texas-increases-orphan-oil-well-plugging-budget/",
       "pubDate": "Wed, 25 Jun 2025 23:49:44 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "World's oldest boomerang doesn't actually come back",
-      "description": "The 40,000-year-old boomerang was made with an astonishing level of skill and ingenuity, say scientists....",
-      "link": "https://www.bbc.com/news/articles/cren818q5x1o",
-      "pubDate": "Wed, 25 Jun 2025 23:04:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
