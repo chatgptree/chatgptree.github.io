@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-26T09:29:24.813Z",
+  "lastUpdated": "2025-06-26T10:29:47.128Z",
   "articles": [
+    {
+      "title": "Chicago’s Plan to Replace Lead Pipes Puts It 30 Years Behind the Federal Deadline",
+      "description": "This story is a partnership between Inside Climate News, Grist and WBEZ. Growing up in Chicago, Chakena D. Perry knew not to trust the water coming ou...",
+      "link": "https://insideclimatenews.org/news/26062025/chicago-lead-pipe-replacement-plan/",
+      "pubDate": "Thu, 26 Jun 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Chicago residents risk daily lead exposure from toxic pipes. Replacing them will take decades.",
+      "description": "The city with the most lead service lines in the country doesn’t plan to finish replacing them until 2076....",
+      "link": "https://grist.org/accountability/chicago-lead-pipe-service-line-replacement-plan-epa/",
+      "pubDate": "Thu, 26 Jun 2025 10:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/Screenshot-2025-06-16-at-10.34.07 AM.png?quality=75&amp;strip=all"
+    },
     {
       "title": "Why many low-income households can&#8217;t afford this free home improvement program",
       "description": "Thousands of people “are falling through the cracks\" because they can't make repairs to qualify for the Weatherization Assistance Program....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3a6281154b17b7b5a02d09dc5e01ea4638e38c69/1199_0_3702_2962/master/3702.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f83db155c0f299e8d0de3bfc374e849"
-    },
-    {
-      "title": "Severe Weather, Uncertain Funding: What’s It Like to be a Local Emergency Manager These Days?",
-      "description": "In the middle of May, a rare, severe dust storm swept across the dry farmland of Central Illinois and headed in the direction of Chicago. Driver visib...",
-      "link": "https://insideclimatenews.org/news/25062025/emergency-manager-severe-weather-and-uncertain-funding/",
-      "pubDate": "Wed, 25 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UNESCO appoints Indigenous co-chairs to protect languages and knowledge amid climate crisis",
-      "description": "\"A single word like 'X̱maay' contains generations of climate knowledge, laws, and cultural practices.\"...",
-      "link": "https://grist.org/global-indigenous-affairs-desk/unesco-appoints-indigenous-co-chairs-to-protect-languages-and-knowledge-amid-climate-crisis/",
-      "pubDate": "Wed, 25 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
