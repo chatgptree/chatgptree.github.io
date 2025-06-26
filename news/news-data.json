@@ -1,12 +1,30 @@
 {
-  "lastUpdated": "2025-06-26T02:10:09.810Z",
+  "lastUpdated": "2025-06-26T03:52:17.683Z",
   "articles": [
+    {
+      "title": "Controversial project to create artificial human DNA begins",
+      "description": "Scientists start a controversial project to create the building blocks of human life, in what is thought to be a world first....",
+      "link": "https://www.bbc.com/news/articles/c6256wpn97ro",
+      "pubDate": "Thu, 26 Jun 2025 00:09:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Texas Legislature Increases Well Plugging Budget as Backlog Grows",
       "description": "The state of Texas will infuse more cash into a program for plugging inactive oil and gas wells in 2026 and 2027, as the average cost of sealing each ...",
       "link": "https://insideclimatenews.org/news/25062025/texas-increases-orphan-oil-well-plugging-budget/",
       "pubDate": "Wed, 25 Jun 2025 23:49:44 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "World's oldest boomerang doesn't actually come back",
+      "description": "The 40,000-year-old boomerang was made with an astonishing level of skill and ingenuity, say scientists....",
+      "link": "https://www.bbc.com/news/articles/cren818q5x1o",
+      "pubDate": "Wed, 25 Jun 2025 23:04:50 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Rare heath fritillary butterflies surge in number on Exmoor after sunny spring",
-      "description": "&lt;p&gt;More than 1,000 of one UK’s rarest butterflies seen around Holnicote Estate thanks to grazing cattle and good weather&lt;/p&gt;&lt;p&gt;The c...",
-      "link": "https://www.theguardian.com/environment/2025/jun/25/heath-fritillary-butterfly-exmoor-numbers-rise",
-      "pubDate": "Wed, 25 Jun 2025 04:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9130fa9170205d1476e43c660137d6fc77bcaeda/0_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=716a28d950cc4e9abbc2502d496c0410"
-    },
-    {
-      "title": "Rise in legal challenges over carbon credit schemes",
-      "description": "&lt;p&gt;Scrutiny of how companies plan to meet climate commitments is growing, with many successful legal challenges&lt;/p&gt;&lt;p&gt;Judges across ...",
-      "link": "https://www.theguardian.com/environment/2025/jun/25/courts-corporate-carbon-offsetting-claims-lse-report",
-      "pubDate": "Wed, 25 Jun 2025 04:00:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/173b0645b9594cbfa9fa885dc19c715a959abb6f/0_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fea6f3cf23d101b923d3f1360f9f48c"
     }
   ]
 }
