@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-27T10:29:31.574Z",
+  "lastUpdated": "2025-06-27T11:22:49.537Z",
   "articles": [
+    {
+      "title": "Trump’s tax bill seeks to prevent AI regulations. Experts fear a heavy toll on the planet",
+      "description": "&lt;p&gt;Unrestricted AI use could add 1bn tons of planet-heating emissions in the US over the next decade, researchers say&lt;/p&gt;&lt;p&gt;US Repub...",
+      "link": "https://www.theguardian.com/technology/2025/jun/27/trump-tax-bill-ai-climate-emissions",
+      "pubDate": "Fri, 27 Jun 2025 11:00:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/17cee654604e2de48077356d619ea231b9abb2e0/1301_875_2683_2147/master/2683.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=542b126a408671a0fe224501499cd00d"
+    },
     {
       "title": "Florida plan for ‘Alligator Alcatraz’ migrant jail sparks chorus of outrage",
       "description": "&lt;p&gt;Environmental groups, immigration advocates and Native Americans decry idea to set up the outdoor detention camp&lt;/p&gt;&lt;p&gt;Environmen...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/23759b0a291b32405a2eb862cdf60782ccff685f/502_0_4996_3999/master/4996.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca8fc1bd2a47abd330326a8b45cbf889"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "The science behind US attacks on Iran’s nuclear sites....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002dzyz",
-      "pubDate": "Thu, 26 Jun 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
