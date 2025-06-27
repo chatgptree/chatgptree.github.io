@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-27T19:19:28.410Z",
+  "lastUpdated": "2025-06-27T20:28:51.109Z",
   "articles": [
+    {
+      "title": "‘Systematically Failed’: Civil Society’s Latest Attempt to Reform UN Climate Talks",
+      "description": "From Pacific Island students to executives at global organizations like Greenpeace, a wide swath of people are losing patience with the slow and often...",
+      "link": "https://insideclimatenews.org/news/27062025/systematically-failed-civil-societys-latest-attempt-to-reform-un-climate-talks/",
+      "pubDate": "Fri, 27 Jun 2025 19:23:15 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "This year’s UN climate talks are already behind — 5 months before COP30 kicks off in Brazil",
       "description": "Thorny questions about who will pay for global climate action derailed a climate summit in Bonn, Germany, this week....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3def0d97b163e55fef20512db66a8bef6cf57085/528_0_2418_1935/master/2418.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=693f84a0dd5da8401469adfb09366cac"
-    },
-    {
-      "title": "How Do You Escape a Heat Wave When You Have Nowhere to Go?",
-      "description": "CHICAGO—In a large, air-conditioned room in East Garfield Park on Monday afternoon, Dhruv Trivedi waited quietly to hear if a bed would be available f...",
-      "link": "https://insideclimatenews.org/news/26062025/chicago-unhoused-people-struggle-to-escape-heat/",
-      "pubDate": "Thu, 26 Jun 2025 23:37:35 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
