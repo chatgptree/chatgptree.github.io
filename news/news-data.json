@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-27T07:25:58.455Z",
+  "lastUpdated": "2025-06-27T08:35:22.666Z",
   "articles": [
+    {
+      "title": "Pollution from wildfires can contaminate our water for up to eight years, new study finds",
+      "description": "An analysis of 500 watersheds found levels of organic carbon, phosphorus, and other pollutants up to 103 times higher after a wildfire....",
+      "link": "https://grist.org/wildfires/pollution-from-wildfires-can-contaminate-our-water-for-up-to-eight-years-new-study-finds/",
+      "pubDate": "Fri, 27 Jun 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "waterdrop® partners with Racquet Club in deal to serve sustainable hydration and the growth of padel across Sydney and Canberra",
       "description": "Catherine Dix, Managing Director of waterdrop Australia, Lee Ritson, Co-founder of Racquet Club Global hydration brand waterdrop® has announced a year...",
@@ -9,6 +18,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "A third of Pacific island nation applies for Australian climate change visa",
+      "description": "More than 4,000 Tuvalu citizens have entered the ballot for a world-first climate visa to Australia....",
+      "link": "https://www.bbc.com/news/articles/cvg9750vvwxo",
+      "pubDate": "Fri, 27 Jun 2025 06:49:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "New Climate Standards can unlock actionable and streamlined reporting on impacts",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/06/Screenshot-2025-06-16-at-10.34.07 AM.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Why many low-income households can&#8217;t afford this free home improvement program",
-      "description": "Thousands of people “are falling through the cracks\" because they can't make repairs to qualify for the Weatherization Assistance Program....",
-      "link": "https://grist.org/buildings/why-many-low-income-households-cant-afford-this-free-home-improvement-program/",
-      "pubDate": "Thu, 26 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/09/GettyImages-2174061526_Helene-flooding-North-Carolina.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Allied Pinnacle appoints first Head of Sustainability to lead ESG strategy and climate resilience",
-      "description": "Anthony Ogilvie Australia’s leading flour and bakery manufacturer, Allied Pinnacle, has appointed Anthony Ogilvie as its first Head of Sustainability,...",
-      "link": "https://econews.com.au/67357/allied-pinnacle-appoints-first-head-of-sustainability-to-lead-esg-strategy-and-climate-resilience/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=allied-pinnacle-appoints-first-head-of-sustainability-to-lead-esg-strategy-and-climate-resilience",
-      "pubDate": "Thu, 26 Jun 2025 07:02:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/06/Allied-Pinnacle-logo.png"
     }
   ]
 }
