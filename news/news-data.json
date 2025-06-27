@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-06-27T08:35:22.666Z",
+  "lastUpdated": "2025-06-27T09:28:37.716Z",
   "articles": [
+    {
+      "title": "Grizzly with checkered past swims miles to Canadian island – and prompts a row",
+      "description": "&lt;p&gt;Residents on British Columbia island fiercely divided over whether to relocate, euthanize or ignore ‘Tex’ the bear&lt;/p&gt;&lt;p&gt;Most vis...",
+      "link": "https://www.theguardian.com/environment/2025/jun/27/canada-british-columbia-texada-island-grizzly",
+      "pubDate": "Fri, 27 Jun 2025 09:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8f76fbfdab55867ff8a4addd56b782388b2944af/807_0_4423_3539/master/4423.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=922eee852fb8ef20f7c7265f9574a988"
+    },
+    {
+      "title": "Trump Joins the Opposition to Vermont’s Climate Superfund Act, Calling it ‘Burdensome’ and ‘Ideologically Motivated’",
+      "description": "Vermont’s Climate Superfund Act became law last summer. New York followed its lead in December. Four days later, the Chamber of Commerce and the Ameri...",
+      "link": "https://insideclimatenews.org/news/27062025/trump-administration-tries-to-stop-vermont-climate-superfund-act/",
+      "pubDate": "Fri, 27 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Bonn Climate Talks Rife With Roadblocks and Dead Ends",
+      "description": "As the United Nations climate talks came to a faltering end Thursday in Bonn, Germany, the world’s least developed countries and island nations feared...",
+      "link": "https://insideclimatenews.org/news/27062025/bonn-climate-talks-roadblocks/",
+      "pubDate": "Fri, 27 Jun 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A year after Helene, river guides in Appalachia are navigating a new world",
+      "description": "The first tourist season since the storm reveals how much the river and livelihoods have changed.\n...",
+      "link": "https://grist.org/extreme-weather/a-year-after-helene-river-guides-in-appalachia-are-navigating-a-new-world/",
+      "pubDate": "Fri, 27 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/smo-10.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Pollution from wildfires can contaminate our water for up to eight years, new study finds",
       "description": "An analysis of 500 watersheds found levels of organic carbon, phosphorus, and other pollutants up to 103 times higher after a wildfire....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4168d92d7ba984537de41ddda429099b124edc4b/214_0_3571_2857/master/3571.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b23f7ee16bd052abb2887c658c6d88c3"
-    },
-    {
-      "title": "The Revised ‘Big Beautiful Bill’ Still Contains a Poison Pill. A Tax Expert Explains",
-      "description": "Ever since the first draft of the “One Big Beautiful Bill Act” appeared in the House, renewable energy trade groups have been trying to make sense of ...",
-      "link": "https://insideclimatenews.org/news/26062025/inside-clean-energy-revised-big-beautiful-bill-still-hurts-renewable-credits/",
-      "pubDate": "Thu, 26 Jun 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "On r/collapse, people are ‘kept abreast of the latest doom’. Its moderators say it’s not for everyone",
-      "description": "&lt;p&gt;A subreddit tracking apocalyptic news in a calm, logical way comforts users who believe the end times are now&lt;/p&gt;&lt;p&gt;The threat of...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/26/rcollapse-reddit-apocalypse-news",
-      "pubDate": "Thu, 26 Jun 2025 11:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c24611c0f4342c054ce79b1735018dd4663643b3/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38f246111bd952db7402a60222678362"
-    },
-    {
-      "title": "Chicago’s Plan to Replace Lead Pipes Puts It 30 Years Behind the Federal Deadline",
-      "description": "This story is a partnership between Inside Climate News, Grist and WBEZ. Growing up in Chicago, Chakena D. Perry knew not to trust the water coming ou...",
-      "link": "https://insideclimatenews.org/news/26062025/chicago-lead-pipe-replacement-plan/",
-      "pubDate": "Thu, 26 Jun 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Chicago residents risk daily lead exposure from toxic pipes. Replacing them will take decades.",
-      "description": "The city with the most lead service lines in the country doesn’t plan to finish replacing them until 2076....",
-      "link": "https://grist.org/accountability/chicago-lead-pipe-service-line-replacement-plan-epa/",
-      "pubDate": "Thu, 26 Jun 2025 10:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/Screenshot-2025-06-16-at-10.34.07 AM.png?quality=75&amp;strip=all"
     }
   ]
 }
