@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-28T15:25:17.217Z",
+  "lastUpdated": "2025-06-28T16:30:55.230Z",
   "articles": [
+    {
+      "title": "Thames Water court case shows there are alternatives to massive infrastructure",
+      "description": "&lt;p&gt;It is what we might call the HS2 fallacy: new reservoirs as tall as high-rise buildings that boost water companies’ assets&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/business/2025/jun/28/thames-water-court-case-shows-there-are-alternatives-to-massive-infrastructure",
+      "pubDate": "Sat, 28 Jun 2025 16:00:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a5561d28a2b80515e5945d2e42da352edeaa311e/150_398_5102_4082/master/5102.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89f74e1ea4903630315bdd6621ec0196"
+    },
+    {
+      "title": "Week of sweltering US heat – is this the new normal in a warming world?",
+      "description": "&lt;p&gt;Experts say brutal temperatures across much of US set to become more common as planet continues to heat up&lt;/p&gt;&lt;p&gt;The list of clim...",
+      "link": "https://www.theguardian.com/environment/2025/jun/28/us-heatwave-climate-crisis",
+      "pubDate": "Sat, 28 Jun 2025 16:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/408d0e6f9aae91716c09d3b8a26c9a8b56c8b319/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45f35e08d05ce5149a8f4fd6f6855e1a"
+    },
     {
       "title": "Sudden loss of key US satellite data could send hurricane forecasting back ‘decades’",
       "description": "&lt;p&gt;Scientists left scrambling amid hurricane season after irreplaceable program is slotted to be shuttered&lt;/p&gt;&lt;p&gt;A critical US atmos...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8f76fbfdab55867ff8a4addd56b782388b2944af/807_0_4423_3539/master/4423.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=922eee852fb8ef20f7c7265f9574a988"
-    },
-    {
-      "title": "Trump Joins the Opposition to Vermont’s Climate Superfund Act, Calling it ‘Burdensome’ and ‘Ideologically Motivated’",
-      "description": "Vermont’s Climate Superfund Act became law last summer. New York followed its lead in December. Four days later, the Chamber of Commerce and the Ameri...",
-      "link": "https://insideclimatenews.org/news/27062025/trump-administration-tries-to-stop-vermont-climate-superfund-act/",
-      "pubDate": "Fri, 27 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bonn Climate Talks Rife With Roadblocks and Dead Ends",
-      "description": "As the United Nations climate talks came to a faltering end Thursday in Bonn, Germany, the world’s least developed countries and island nations feared...",
-      "link": "https://insideclimatenews.org/news/27062025/bonn-climate-talks-roadblocks/",
-      "pubDate": "Fri, 27 Jun 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
