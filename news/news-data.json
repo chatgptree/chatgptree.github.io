@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-28T12:50:46.692Z",
+  "lastUpdated": "2025-06-28T13:32:26.728Z",
   "articles": [
+    {
+      "title": "It’s not just the cities. Extreme heat is a growing threat to rural America.",
+      "description": "The urban heat island sits in a rural heat ocean....",
+      "link": "https://grist.org/extreme-heat/extreme-heat-growing-threat-rural-america/",
+      "pubDate": "Sat, 28 Jun 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/ZoomedIn_AlaskaJune16.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Sudden loss of key US satellite data could send hurricane forecasting back ‘decades’",
       "description": "&lt;p&gt;Scientists left scrambling amid hurricane season after defense department says it will drop irreplaceable program&lt;/p&gt;&lt;p&gt;The Depar...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A year after Helene, river guides in Appalachia are navigating a new world",
-      "description": "The first tourist season since the storm reveals how much the river and livelihoods have changed.\n...",
-      "link": "https://grist.org/extreme-weather/a-year-after-helene-river-guides-in-appalachia-are-navigating-a-new-world/",
-      "pubDate": "Fri, 27 Jun 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/smo-10.jpg?quality=75&amp;strip=all"
     }
   ]
 }
