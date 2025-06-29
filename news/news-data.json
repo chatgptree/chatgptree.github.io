@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-29T10:29:14.673Z",
+  "lastUpdated": "2025-06-29T11:20:41.394Z",
   "articles": [
+    {
+      "title": "‘Explosive increase’ of ticks that cause meat allergy in US due to climate crisis",
+      "description": "&lt;p&gt;Unusually aggressive lone star ticks, common in the south-east, are spreading to areas previously too cold for them&lt;/p&gt;&lt;p&gt;Blood-s...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/29/lone-star-ticks-increase-climate-crisis",
+      "pubDate": "Sun, 29 Jun 2025 11:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8b589d9c4a00c8b7fb5fa85bb3f99d69740e3d45/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=017015dedf0ed40ebe9f7bfef64a14e5"
+    },
     {
       "title": "Revealed: spies for hire used ‘Big Brother’ tactics on salmon farm activists",
       "description": "&lt;p&gt;Guardian investigation sheds light on private intelligence industry that runs covert surveillance operations&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Inside a plan to use AI to amplify doubts about the dangers of pollutants",
-      "description": "&lt;p&gt;Risk analyst Tony Cox’s work has been backed by the chemical lobby, and some health experts are alarmed&lt;/p&gt;&lt;p&gt;An industry-backed ...",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2025/jun/27/tony-cox-epidemiology-risk-assessment-chatgpt-ai",
-      "pubDate": "Fri, 27 Jun 2025 14:00:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ceeca6c0243324dd170aa6a0081b1470eef0d142/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=250585561a00dbfadec52f7d3d9e8df6"
     }
   ]
 }
