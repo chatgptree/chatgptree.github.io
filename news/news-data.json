@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-30T13:39:03.497Z",
+  "lastUpdated": "2025-06-30T14:26:58.944Z",
   "articles": [
+    {
+      "title": "How unusual is this UK heat and is climate change to blame?",
+      "description": "Scientists are clear that global warming is making heatwaves like this hotter and more likely....",
+      "link": "https://www.bbc.com/news/articles/c2k1103vljqo",
+      "pubDate": "Mon, 30 Jun 2025 14:13:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Puerto Rico’s solar-powered village: in pictures",
+      "description": "&lt;p&gt;For years, Puerto Ricans have faced high electricity costs and regular blackouts. The town of Adjuntas, in the central mountains, boasts the ...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/jun/30/puerto-rico-solar-power-in-pictures",
+      "pubDate": "Mon, 30 Jun 2025 14:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/09395f2fddc093cf5ff0973233159aa639658e80/305_0_2109_1688/master/2109.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=207a8b6ac5f3c32421aaa8d662539088"
+    },
+    {
+      "title": "EPA employees sign ‘declaration of dissent’ over agency moves under Trump",
+      "description": "&lt;p&gt;More than 170 EPA employees signed letter, with about 100 more signing anonymously out of fear of retaliation&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&l...",
+      "link": "https://www.theguardian.com/us-news/2025/jun/30/epa-employees-declaration-dissent-trump",
+      "pubDate": "Mon, 30 Jun 2025 13:59:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5343f6786dbcef72ae9dce23b0e1e8a45ade33a5/216_0_2744_2195/master/2744.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c217c8684e54c65f509c2f3356cc6fc"
+    },
     {
       "title": "Spain records highs of 46C and France under alert as Europe swelters in heatwave",
       "description": "&lt;p&gt;Extreme heat ‘the new normal’, says UN chief, as authorities across the continent issue health warnings&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
@@ -9,15 +36,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7b15fde90a9a7c388f7bc60c851f854bc05d8c67/629_0_6736_5389/master/6736.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=137a17f49a94bf75d00b2a360c4e6a7a"
-    },
-    {
-      "title": "How unusual is this UK heat and is climate change to blame?",
-      "description": "Scientists are clear that global warming is making heatwaves like this hotter and more likely....",
-      "link": "https://www.bbc.com/news/articles/c2k1103vljqo",
-      "pubDate": "Mon, 30 Jun 2025 12:35:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Wimbledon opening day hottest on record as temperatures soar",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Thames Water court case shows there are alternatives to massive infrastructure",
-      "description": "&lt;p&gt;It is what we might call the HS2 fallacy: new reservoirs as tall as high-rise buildings that boost water companies’ assets&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/business/2025/jun/28/thames-water-court-case-shows-there-are-alternatives-to-massive-infrastructure",
-      "pubDate": "Sat, 28 Jun 2025 16:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a5561d28a2b80515e5945d2e42da352edeaa311e/150_398_5102_4082/master/5102.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89f74e1ea4903630315bdd6621ec0196"
-    },
-    {
-      "title": "Week of sweltering US heat – is this the new normal in a warming world?",
-      "description": "&lt;p&gt;Experts say brutal temperatures across much of US set to become more common as planet continues to heat up&lt;/p&gt;&lt;p&gt;The list of &lt;...",
-      "link": "https://www.theguardian.com/environment/2025/jun/28/us-heatwave-climate-crisis",
-      "pubDate": "Sat, 28 Jun 2025 16:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/408d0e6f9aae91716c09d3b8a26c9a8b56c8b319/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45f35e08d05ce5149a8f4fd6f6855e1a"
     }
   ]
 }
