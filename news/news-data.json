@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-30T08:36:38.133Z",
+  "lastUpdated": "2025-06-30T09:30:57.411Z",
   "articles": [
+    {
+      "title": "I’m obsessed with brittle stars: fish often nip off bits of their arms but they regenerate",
+      "description": "&lt;p&gt;These starfish relatives have lots of remarkable features and are a keystone species. My hope is that we will recognise how vital these chari...",
+      "link": "https://www.theguardian.com/environment/2025/jun/30/martin-solan-obsessed-with-brittle-stars-sea-floor-biodiversity-climate-crisis-warming-oceans",
+      "pubDate": "Mon, 30 Jun 2025 09:15:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c40c52effa515536058aac1c1e84e96dcdede7f1/195_0_2610_2088/master/2610.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f571e18b0ffc0905a7d17dc258cbe84"
+    },
+    {
+      "title": "Helping Bees Finds New Homes Across New York City, From Fresh Kills to Street Planters",
+      "description": "Tucked away in Brooklyn’s Calvert Vaux Park near Coney Island, one of the largest bee habitats in the city was once a rose garden, full of ornamental ...",
+      "link": "https://insideclimatenews.org/news/30062025/new-york-city-bee-habitats/",
+      "pubDate": "Mon, 30 Jun 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Georgia, sheep on a solar farm is not a baaad idea",
+      "description": "We're losing vital agricultural land. But is solar the main culprit?...",
+      "link": "https://grist.org/climate-energy/in-georgia-sheep-on-a-solar-farm-is-not-a-baaad-idea/",
+      "pubDate": "Mon, 30 Jun 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/20250422DesotoSolarFarm-401.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Salmon, tribal sovereignty, and energy collide as US abandons Resilient Columbia Basin Agreement",
       "description": "The move threatens treaty rights and salmon recovery as energy demands from AI and crypto surge....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6707005ff153072ade8a0c7335a3988a782bc4f2/1318_0_6706_5366/master/6706.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f03abeb27cadf27a828360005af43bed"
-    },
-    {
-      "title": "Texas’ Risk of Summer Blackouts Reduced Thanks to Solar and Batteries",
-      "description": "The ever-increasing demand for power in Texas—not only from data centers, but due to industrial electrification, manufacturing and population expansio...",
-      "link": "https://insideclimatenews.org/news/28062025/texas-battery-storage-solar-reduces-summer-blackout-risk/",
-      "pubDate": "Sat, 28 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Class-Action Lawsuit Aims to Restore Climate and Environmental Grants",
-      "description": "The Environmental Protection Agency and its administrator, Lee Zeldin, face a class-action lawsuit after canceling $3 billion in grant funding for cli...",
-      "link": "https://insideclimatenews.org/news/28062025/class-action-lawsuit-against-epa-to-restore-climate-environmental-grants/",
-      "pubDate": "Sat, 28 Jun 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Danger of Losing the EPA’s Endangerment Finding",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host and executive producer Steve Curwoo...",
-      "link": "https://insideclimatenews.org/news/28062025/epa-decision-to-roll-back-power-plant-emissions-rules-lasting-impact/",
-      "pubDate": "Sat, 28 Jun 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
