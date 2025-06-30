@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-06-30T12:58:24.590Z",
+  "lastUpdated": "2025-06-30T13:39:03.497Z",
   "articles": [
     {
       "title": "Spain records highs of 46C and France under alert as Europe swelters in heatwave",
@@ -12,7 +12,7 @@
     },
     {
       "title": "How unusual is this UK heat and is climate change to blame?",
-      "description": "Climate scientists are clear that global warming is making heatwaves hotter and more likely....",
+      "description": "Scientists are clear that global warming is making heatwaves like this hotter and more likely....",
       "link": "https://www.bbc.com/news/articles/c2k1103vljqo",
       "pubDate": "Mon, 30 Jun 2025 12:35:03 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -44,7 +44,7 @@
       "pubDate": "Mon, 30 Jun 2025 10:31:14 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/e40d0a149cef7ced97308186f67fb625ef60a956/89_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d0dc466dbcff92e5b5993bf91a7b028"
+      "image": "https://i.guim.co.uk/img/media/a8c1eee8684be90784cbf24b446111b99d2b4edd/1070_0_6125_4900/master/6125.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da0645d8844d07fa2579fc566e29d944"
     },
     {
       "title": "I was a big orca fan – but their skincare regime is giving me the ick | Emma Beddington",
@@ -76,7 +76,7 @@
     {
       "title": "In Georgia, sheep on a solar farm is not a baaad idea",
       "description": "We're losing vital agricultural land. But is solar the main culprit?...",
-      "link": "https://grist.org/climate-energy/in-georgia-sheep-on-a-solar-farm-is-not-a-baaad-idea/",
+      "link": "https://grist.org/food-and-agriculture/in-georgia-sheep-on-a-solar-farm-is-not-a-baaad-idea/",
       "pubDate": "Mon, 30 Jun 2025 08:45:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -89,7 +89,7 @@
       "pubDate": "Mon, 30 Jun 2025 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/03/klamath-dam-removal-social.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "Did you know that there are huge caves full of weirdy bugs and ancient life right under the Nullarbor desert? | First Dog on the Moon",
@@ -155,6 +155,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "TNFD research reveals clear evidence of financial materiality of nature-related risks",
+      "description": "The Taskforce on Nature-related Financial Disclosures (TNFD) today released at London Climate Action Week a paper on the evidence of financial effects...",
+      "link": "https://econews.com.au/67365/tnfd-research-reveals-clear-evidence-of-financial-materiality-of-nature-related-risks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tnfd-research-reveals-clear-evidence-of-financial-materiality-of-nature-related-risks",
+      "pubDate": "Sun, 29 Jun 2025 05:02:50 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
       "title": "Thames Water court case shows there are alternatives to massive infrastructure",
       "description": "&lt;p&gt;It is what we might call the HS2 fallacy: new reservoirs as tall as high-rise buildings that boost water companies’ assets&lt;/p&gt;&lt;p&gt;...",
       "link": "https://www.theguardian.com/business/2025/jun/28/thames-water-court-case-shows-there-are-alternatives-to-massive-infrastructure",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/408d0e6f9aae91716c09d3b8a26c9a8b56c8b319/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45f35e08d05ce5149a8f4fd6f6855e1a"
-    },
-    {
-      "title": "Sudden loss of key US satellite data could send hurricane forecasting back ‘decades’",
-      "description": "&lt;p&gt;Scientists left scrambling amid hurricane season after irreplaceable program is slotted to be shuttered&lt;/p&gt;&lt;p&gt;A critical US atmos...",
-      "link": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
-      "pubDate": "Sat, 28 Jun 2025 14:27:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f3713d97e783b0710cc675088bec1afaa7839537/560_0_5598_4479/master/5598.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5978595d0283d0e650182afc0a512fa"
     }
   ]
 }
