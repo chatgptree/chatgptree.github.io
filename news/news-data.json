@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-30T22:26:24.398Z",
+  "lastUpdated": "2025-06-30T23:27:23.280Z",
   "articles": [
+    {
+      "title": "What does climate change mean for agriculture? Less food, and more emissions",
+      "description": "New research sheds light on how rising temperatures are squeezing farmers and raising prices for consumers....",
+      "link": "https://grist.org/food-and-agriculture/food-prices-climate-agriculture-feedback-loop-research-calories-land-clearing/",
+      "pubDate": "Mon, 30 Jun 2025 23:07:16 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/GettyImages-2180054830.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "King Charles to receive £132m next year after crown estate makes £1.1bn profit",
+      "description": "&lt;p&gt;Offshore wind power boom helps push profit from land and property to more than double what it was two years ago&lt;/p&gt;&lt;p&gt;King Charle...",
+      "link": "https://www.theguardian.com/uk-news/2025/jul/01/king-charles-crown-estate-profit-land-property",
+      "pubDate": "Mon, 30 Jun 2025 23:01:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/338f657ebd926234dd02530c85e0ae6514fcedaf/83_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d55e159fd7b39003d7ed38868fb8f3f7"
+    },
+    {
+      "title": "Latest GOP Provisions in Budget Bill Seek to Crush Renewable Energy",
+      "description": "Far from the front lines of the climate crisis, 100 men and women in air-conditioned offices, 61 of them millionaires, are making decisions that could...",
+      "link": "https://insideclimatenews.org/news/30062025/gop-budget-bill-provisions-to-crush-renewable-energy/",
+      "pubDate": "Mon, 30 Jun 2025 22:51:37 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Part of the New York City Park Experience: Joining the War on Invasives",
       "description": "It’s on the walls of brownstones and train stations and in New York City parks. And it isn’t mold—it’s English Ivy.&#160; A non-native plant, English ...",
@@ -128,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/611f6fda9d08ca6fd7bb3ef16951a4829081ff55/0_0_933_746/master/933.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16f37e6a8daa0b53d5ee20bbd0c341e4"
     },
     {
-      "title": "UN expert urges criminalizing fossil fuel disinformation, banning lobbying",
-      "description": "&lt;p&gt;Rapporteur calls for defossilization of economies and urgent reparations to avert ‘catastrophic’ rights and climate harms&lt;/p&gt;&lt;p&gt;A...",
-      "link": "https://www.theguardian.com/environment/2025/jun/30/un-expert-urges-criminalizing-fossil-fuel-disinformation-banning-lobbying",
-      "pubDate": "Mon, 30 Jun 2025 06:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff053214f27609daa3e3ee71ed778ec485e2f828/666_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b3d72d366797eda4fdad624ab8bd994"
-    },
-    {
       "title": "The Guardian view on Donald Trump’s China deal: rare earths pave the green road to militarisation | Editorial",
       "description": "&lt;p&gt;Clean tech’s key minerals now drive western rearmament, reviving extractive ambition and exposing the toxic cost of dependence&lt;/p&gt;&lt;p...",
       "link": "https://www.theguardian.com/commentisfree/2025/jun/29/the-guardian-view-on-donald-trumps-china-deal-rare-earths-pave-the-green-road-to-militarisation",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8b589d9c4a00c8b7fb5fa85bb3f99d69740e3d45/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=017015dedf0ed40ebe9f7bfef64a14e5"
-    },
-    {
-      "title": "N.C. Has Allowed a Likely Carcinogen Into Three Rivers Serving 900,000 People",
-      "description": "ASHEBORO, N.C.—Boxy, gunmetal gray buildings loom over a labyrinth of ducts and tubes and catwalks, beyond which 100 train cars loll on their tracks. ...",
-      "link": "https://insideclimatenews.org/news/29062025/north-carolina-plastics-company-dumping-likely-carcinogen-into-rivers/",
-      "pubDate": "Sun, 29 Jun 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Truckers Say Oil and Gas Companies Are Violating Hazardous Materials Transport Regulations",
-      "description": "Fracking’s Forever Problem: Fifth in a series about the gas industry’s radioactive waste. When Tom McKnight started working for the oil and gas indust...",
-      "link": "https://insideclimatenews.org/news/29062025/truckers-movement-for-justice-oil-gas-hazardous-materials/",
-      "pubDate": "Sun, 29 Jun 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
