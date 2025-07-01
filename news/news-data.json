@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-01T19:20:50.140Z",
+  "lastUpdated": "2025-07-01T20:29:39.943Z",
   "articles": [
+    {
+      "title": "As Sea Levels Rise, an Island Nation Creates an Escape Route",
+      "description": "The small island nation of Tuvalu is being swallowed by the sea.&#160; With just around 10,000 residents, this Pacific network of reef islands and ato...",
+      "link": "https://insideclimatenews.org/news/01072025/todays-climate-rising-seas-migration-displacement/",
+      "pubDate": "Tue, 01 Jul 2025 19:32:02 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on Europe’s heatwave: leaders should remind the public why ambitious targets matter | Editorial",
       "description": "&lt;p&gt;With net zero targets under attack from the populist right, dangerously high temperatures should refocus minds&lt;/p&gt;&lt;p&gt;At times lik...",
@@ -74,7 +83,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "National Science Foundation to Leave Virginia headquarters as HUD Moves Out of DC",
+      "title": "National Science Foundation to Leave Virginia Headquarters as HUD Moves Out of DC",
       "description": "The National Science Foundation will be moving so the federal Department of Housing and Urban Development can take over its offices in Alexandria.&#16...",
       "link": "https://insideclimatenews.org/news/01072025/national-science-foundation-loses-virginia-headquarters/",
       "pubDate": "Tue, 01 Jul 2025 08:55:00 +0000",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/30062025/brooklyn-prospect-park-alliance-invasive-species/",
       "pubDate": "Mon, 30 Jun 2025 21:03:54 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How unusual is this UK heat and is climate change to blame?",
-      "description": "Scientists are clear that global warming is making heatwaves like this hotter and more likely....",
-      "link": "https://www.bbc.com/news/articles/c2k1103vljqo",
-      "pubDate": "Mon, 30 Jun 2025 14:13:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
