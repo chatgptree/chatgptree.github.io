@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-01T20:29:39.943Z",
+  "lastUpdated": "2025-07-01T21:25:31.231Z",
   "articles": [
+    {
+      "title": "The Supreme Court just ended its term. Here are the decisions that will affect climate policy.",
+      "description": "Experts say the most impactful decisions have enabled the Trump administration to gut the federal workforce and freeze funding....",
+      "link": "https://grist.org/justice/supreme-court-term-climate-decisions-trump-workforce/",
+      "pubDate": "Tue, 01 Jul 2025 20:45:11 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/pumpjacks.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Key climate change reports removed from US government websites",
+      "description": "&lt;p&gt;The national climate assessments help state and local governments prepare for the impacts of a warming world&lt;/p&gt;&lt;p&gt;Legally mandat...",
+      "link": "https://www.theguardian.com/environment/2025/jul/01/climate-change-reports-removed-trump",
+      "pubDate": "Tue, 01 Jul 2025 20:21:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3fba168595f143958f30fb92c84f6170a61dc3de/471_0_4715_3772/master/4715.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ce89bc4d336bb5d4c9764b95be7bdbb"
+    },
     {
       "title": "As Sea Levels Rise, an Island Nation Creates an Escape Route",
       "description": "The small island nation of Tuvalu is being swallowed by the sea.&#160; With just around 10,000 residents, this Pacific network of reef islands and ato...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/06/GettyImages-2180054830.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Latest GOP Provisions in Budget Bill Seek to Crush Renewable Energy",
-      "description": "Far from the front lines of the climate crisis, 100 men and women in air-conditioned offices, 61 of them millionaires, are making decisions that could...",
-      "link": "https://insideclimatenews.org/news/30062025/gop-budget-bill-provisions-to-crush-renewable-energy/",
-      "pubDate": "Mon, 30 Jun 2025 22:51:37 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Part of the New York City Park Experience: Joining the War on Invasives",
-      "description": "It’s on the walls of brownstones and train stations and in New York City parks. And it isn’t mold—it’s English Ivy.&#160; A non-native plant, English ...",
-      "link": "https://insideclimatenews.org/news/30062025/brooklyn-prospect-park-alliance-invasive-species/",
-      "pubDate": "Mon, 30 Jun 2025 21:03:54 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
