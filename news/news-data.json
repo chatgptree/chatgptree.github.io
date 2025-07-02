@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-07-02T08:38:10.612Z",
+  "lastUpdated": "2025-07-02T09:30:55.156Z",
   "articles": [
+    {
+      "title": "NSW weather: storm brings 13-metre high waves and wild winds as BoM warns of ‘second surge’",
+      "description": "&lt;p&gt;Vigorous coastal low forecast to keep sending severe weather across eastern New South Wales for much of Wednesday, before gradually easing on...",
+      "link": "https://www.theguardian.com/environment/2025/jul/02/nsw-wild-weather-thousands-without-power-and-at-least-200-properties-affected-by-flooding-as-storm-continues",
+      "pubDate": "Wed, 02 Jul 2025 09:25:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/87d677d54c56527c9370435d3bb0572b0c969d9c/163_273_3033_2427/master/3033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e46e0e0810fa8ea386a00decd08ebcf"
+    },
+    {
+      "title": "In Chicago, a Landmark Environmental Justice Bill Inches Toward Passage",
+      "description": "CHICAGO—Cheryl Johnson’s perspective on the Hazel Johnson Cumulative Impacts Ordinance is that it’s been a long time coming.&#160; It’s not just the t...",
+      "link": "https://insideclimatenews.org/news/02072025/chicago-landmark-environmental-justice-bill/",
+      "pubDate": "Wed, 02 Jul 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wastewater Treatment Plants Channel ‘Forever Chemicals’ Into Waterways Nationwide",
+      "description": "Harmful “forever chemicals” flow from wastewater treatment plants into surface water across the U.S., according to a new report by a clean-water advoc...",
+      "link": "https://insideclimatenews.org/news/02072025/wastewater-treatment-plants-stream-forever-chemicals-into-waterways/",
+      "pubDate": "Wed, 02 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Trump’s Megabill, a Clean Energy Phase Out and a Big, Beautiful Tax Break for Met Coal Exporters",
+      "description": "A provision slipped into President Trump’s so-called One Big Beautiful Bill Act would provide millions of dollars in tax credits to U.S. companies tha...",
+      "link": "https://insideclimatenews.org/news/02072025/big-beautiful-bill-met-coal-tax-break/",
+      "pubDate": "Wed, 02 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Budget Crunch, New Jersey Strips Clean Energy Fund in Near-Record ‘Raid’",
+      "description": "For the 17th year in a row, the New Jersey Legislature diverted tens of millions of dollars meant for clean energy investments to plug shortfalls in t...",
+      "link": "https://insideclimatenews.org/news/02072025/new-jersey-budget-strips-clean-energy-fund/",
+      "pubDate": "Wed, 02 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "As nations lag on climate action, their cities are stepping up. Here’s proof.",
       "description": "A new report documents how cities around the world are becoming more liveable and sustainable in the face of climate change. ...",
@@ -11,6 +56,51 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Honeywell Makes Strategic Tuck-in Acquisition of Li-ion Tamer to Bolster Fire Detection Technologies, Further Strengthening Building Automation Portfolio",
+      "description": "Acquisition enhances Honeywell’s leading fire life safety portfolio in its Building Automation business, supports high growth energy storage and data ...",
+      "link": "https://econews.com.au/67385/honeywell-makes-strategic-tuck-in-acquisition-of-li-ion-tamer-to-bolster-fire-detection-technologies-further-strengthening-building-automation-portfolio/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=honeywell-makes-strategic-tuck-in-acquisition-of-li-ion-tamer-to-bolster-fire-detection-technologies-further-strengthening-building-automation-portfolio",
+      "pubDate": "Wed, 02 Jul 2025 06:03:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Billal-Hammoud_Honeywell_1-1024x656.jpg"
+    },
+    {
+      "title": "Energy Security Corporation open for business with $1 billion to accelerate key energy projects",
+      "description": "Energy Security Corporation Chair, Cameron O’Reilly The NSW Energy Security Corporation is now fully operational, with the appointment of an independe...",
+      "link": "https://econews.com.au/67383/energy-security-corporation-open-for-business-with-1-billion-to-accelerate-key-energy-projects/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=energy-security-corporation-open-for-business-with-1-billion-to-accelerate-key-energy-projects",
+      "pubDate": "Wed, 02 Jul 2025 06:03:06 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Refrigerants Australia Statement on PFAS and TFA",
+      "description": "Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) are described in media reports as a class of more than “XX 000 synthetic chemicals” that are high...",
+      "link": "https://econews.com.au/67381/refrigerants-australia-statement-on-pfas-and-tfa/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=refrigerants-australia-statement-on-pfas-and-tfa",
+      "pubDate": "Wed, 02 Jul 2025 06:03:04 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Lisbon becomes first European capital with city-wide reusable cup system",
+      "description": "Landmark partnership between the City of Lisbon, TOMRA and the Portuguese hospitality association AHRESP aims to cut litter and emissions with smart d...",
+      "link": "https://econews.com.au/67379/lisbon-becomes-first-european-capital-with-city-wide-reusable-cup-system/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lisbon-becomes-first-european-capital-with-city-wide-reusable-cup-system",
+      "pubDate": "Wed, 02 Jul 2025 06:03:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Cargill Sets a New Global Benchmark for More Sustainable Cocoa Supply Chains",
+      "description": "Amsterdam Multi-seed Cargill Cargill reimagines the cocoa journey to cut emissions and reduce waste. Cargill today announced a transformation of its g...",
+      "link": "https://econews.com.au/67377/cargill-sets-a-new-global-benchmark-for-more-sustainable-cocoa-supply-chains/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cargill-sets-a-new-global-benchmark-for-more-sustainable-cocoa-supply-chains",
+      "pubDate": "Wed, 02 Jul 2025 06:03:00 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
       "title": "‘Tiny melodies’: musician uses moths’ flight data to compose piece about their decline",
       "description": "&lt;p&gt;Ellie Wilson’s piece titled Moth x Human assigns different sounds to the species on Parsonage Down in Salisbury&lt;/p&gt;&lt;p&gt;They are vi...",
       "link": "https://www.theguardian.com/environment/2025/jul/02/moths-help-music-composer-shine-light-decline",
@@ -18,15 +108,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ea4eb3db239a17bbbb1ffb09886e61e7724bf914/604_155_2523_2018/master/2523.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d99b016ceff86d3943afe6b2de1574b4"
-    },
-    {
-      "title": "NSW weather: storm brings 13-metre high waves and wild winds as BoM warns of ‘second surge’",
-      "description": "&lt;p&gt;Vigorous coastal low forecast to keep sending severe weather across eastern New South Wales for much of Wednesday, before gradually easing on...",
-      "link": "https://www.theguardian.com/environment/2025/jul/02/nsw-wild-weather-thousands-without-power-and-at-least-200-properties-affected-by-flooding-as-storm-continues",
-      "pubDate": "Wed, 02 Jul 2025 05:24:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/87d677d54c56527c9370435d3bb0572b0c969d9c/163_273_3033_2427/master/3033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e46e0e0810fa8ea386a00decd08ebcf"
     },
     {
       "title": "More than 80% of UK farmers worried about climate crisis harming livelihood, study finds",
@@ -99,87 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/pumpjacks.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Key climate change reports removed from US government websites",
-      "description": "&lt;p&gt;The national climate assessments help state and local governments prepare for the impacts of a warming world&lt;/p&gt;&lt;p&gt;Legally mandat...",
-      "link": "https://www.theguardian.com/environment/2025/jul/01/climate-change-reports-removed-trump",
-      "pubDate": "Tue, 01 Jul 2025 20:21:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3fba168595f143958f30fb92c84f6170a61dc3de/471_0_4715_3772/master/4715.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ce89bc4d336bb5d4c9764b95be7bdbb"
-    },
-    {
-      "title": "As Sea Levels Rise, an Island Nation Creates an Escape Route",
-      "description": "The small island nation of Tuvalu is being swallowed by the sea.&#160; With just around 10,000 residents, this Pacific network of reef islands and ato...",
-      "link": "https://insideclimatenews.org/news/01072025/todays-climate-rising-seas-migration-displacement/",
-      "pubDate": "Tue, 01 Jul 2025 19:32:02 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on Europe’s heatwave: leaders should remind the public why ambitious targets matter | Editorial",
-      "description": "&lt;p&gt;With net zero targets under attack from the populist right, dangerously high temperatures should refocus minds&lt;/p&gt;&lt;p&gt;At times lik...",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/01/the-guardian-view-on-europes-heatwave-leaders-should-remind-the-public-why-ambitious-targets-matter",
-      "pubDate": "Tue, 01 Jul 2025 17:55:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/929420b99f1d4700ac864a7efc6f7583bd53abaa/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d2102de8d8f4756645ac33dea8db298"
-    },
-    {
-      "title": "Italy limits outdoor work as heatwave breaks records across Europe",
-      "description": "&lt;p&gt;Portugal and Spain suffer historic temperature highs for June, as French schools close because of heat &lt;/p&gt;&lt;p&gt;Outdoor working has...",
-      "link": "https://www.theguardian.com/world/2025/jul/01/italy-limits-outdoor-work-as-heatwave-breaks-records-across-europe",
-      "pubDate": "Tue, 01 Jul 2025 17:24:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b64cc7cf89d6da8890de10d1b785c33d1bf68b33/167_0_1666_1333/master/1666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cace5e69556e735e4d056e7b685435f"
-    },
-    {
-      "title": "California overhauls landmark environmental protection rules",
-      "description": "&lt;p&gt;Governor Gavin Newsom says bureaucratic roadblocks have made it difficult to build housing in the most populous state&lt;/p&gt;&lt;p&gt;Calif...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/01/california-environmental-protection-housing-newsom",
-      "pubDate": "Tue, 01 Jul 2025 17:11:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/564928f0c85fa9e3acb45d82e45752c7fe200209/12_0_2786_2230/master/2786.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5047bc1bd3d26e6a5babce8bea88028"
-    },
-    {
-      "title": "After 150 years, a prized box returns to an Indigenous nation in Canada: ‘I felt like royalty traveling with it’",
-      "description": "&lt;p&gt;The unlikely return of the bentwood box underscores the challenges facing Indigenous communities working to reclaim items raided from their l...",
-      "link": "https://www.theguardian.com/environment/2025/jul/01/bentwood-box-canada-indigenous-nation",
-      "pubDate": "Tue, 01 Jul 2025 12:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5a9eff262e845eddb66f66af8c6dfbfe018abf29/520_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e5f7f791a4407d73ae129d240ef53de"
-    },
-    {
-      "title": "Severe weather hits the US hard as key forecast offices reel from Trump cuts",
-      "description": "&lt;p&gt;This year marks the first time that local NWS offices have stopped round-the-clock operations in the agency’s history&lt;/p&gt;&lt;p&gt;A bru...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/01/severe-weather-nws-trump-cuts",
-      "pubDate": "Tue, 01 Jul 2025 11:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a490a23729746976a41913f7398ac9f82ea010a2/311_0_4001_3200/master/4001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3fb9cd9f9b865ac8a3408701374add7"
-    },
-    {
-      "title": "Texas Supreme Court Rules on Produced Water Ownership",
-      "description": "Texas is awash in billions of gallons of produced water, the wastewater brought to the surface in oil and gas drilling and fracking.&#160; Most produc...",
-      "link": "https://insideclimatenews.org/news/01072025/texas-supreme-court-rules-in-favor-of-drilling-company-on-produced-water-ownership/",
-      "pubDate": "Tue, 01 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "National Science Foundation to Leave Virginia Headquarters as HUD Moves Out of DC",
-      "description": "The National Science Foundation will be moving so the federal Department of Housing and Urban Development can take over its offices in Alexandria.&#16...",
-      "link": "https://insideclimatenews.org/news/01072025/national-science-foundation-loses-virginia-headquarters/",
-      "pubDate": "Tue, 01 Jul 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
