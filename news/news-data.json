@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-07-03T08:35:24.573Z",
+  "lastUpdated": "2025-07-03T09:29:25.916Z",
   "articles": [
+    {
+      "title": "More than 1,500 people evacuated in Crete as wildfires rage across Europe – live",
+      "description": "&lt;p&gt;Wildfires have been reported in Greece, Turkey, Spain and Germany as Europe’s heatwave continues&lt;/p&gt;&lt;p&gt;Portuguese prime minister ...",
+      "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
+      "pubDate": "Thu, 03 Jul 2025 09:09:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1b8e8616af8221a5ca7e66c60b9c383c7a2c01f3/184_0_3390_2712/master/3390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=074a7be6dc3f43df878ffabcb9c47449"
+    },
+    {
+      "title": "Violating California Residents’ Right to Water",
+      "description": "MOSS LANDING, Calif.—Vernon Trindade learned the water from the well he was digging wasn’t safe to drink around 1985 when he and his wife were buildin...",
+      "link": "https://insideclimatenews.org/news/03072025/trump-epa-revokes-california-residents-right-to-water/",
+      "pubDate": "Thu, 03 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Florida’s Fragile Everglades, Trump Praises ‘Alligator Alcatraz’",
+      "description": "President Donald Trump landed this week on an airstrip in the Florida Everglades for a visit to a swiftly assembled detention facility that federal an...",
+      "link": "https://insideclimatenews.org/news/03072025/trump-praises-florida-everglades-alligator-alcatraz/",
+      "pubDate": "Thu, 03 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Zohran Mamdani Made Addressing Climate Change Central to His Affordability Plan for New York",
+      "description": "On June 24, the day of the New York City primary, Central Park hit its highest temperature for the day—99 degrees—since 2012. That morning, the city's...",
+      "link": "https://insideclimatenews.org/news/03072025/new-york-zohran-mayoral-candidate-mamdani-climate-change/",
+      "pubDate": "Thu, 03 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s tax bill could be a major win for Big Ag. Everyone else? Not so much.",
+      "description": "The bill is a bailout for commodity growers and leaves small farmers — and US consumers — out to dry....",
+      "link": "https://grist.org/food-and-agriculture/trump-tax-bill-win-for-big-ag-everyone-else-not-so-much/",
+      "pubDate": "Thu, 03 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "After years of increases, Georgia power rates to hold steady — for now",
       "description": "The freeze comes after six price hikes in three years....",
@@ -9,6 +54,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/SchererPowerPlant1.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "‘Gives everyone a bit more hope’: NSW grateful for wild weather reprieve but many face damage worth thousands",
+      "description": "&lt;p&gt;Dry and sunny Friday forecast gives residents and SES volunteers chance to assess damage after vigorous coastal low wreaks havoc on east coas...",
+      "link": "https://www.theguardian.com/australia-news/2025/jul/03/gives-everyone-a-bit-more-hope-nsw-grateful-for-wild-weather-reprieve-but-many-face-damage-worth-thousands",
+      "pubDate": "Thu, 03 Jul 2025 08:15:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c05d06d6ae17c5135554ae7267e8585604f9b1a0/432_338_4161_3329/master/4161.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da827fa0b1f748a01773daf640af06b2"
     },
     {
       "title": "Cumberland City Council’s Banner to Bags Campaign Turning Waste into Opportunity",
@@ -54,15 +108,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/06/OECD-logo.png"
-    },
-    {
-      "title": "More than 1,500 people evacuated in Crete as wildfires rage across Europe – live",
-      "description": "&lt;p&gt;Wildfires have been reported in Greece, Turkey, Spain and Germany as Europe’s heatwave continues&lt;/p&gt;&lt;p&gt;Separately, &lt;strong&gt;...",
-      "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
-      "pubDate": "Thu, 03 Jul 2025 07:55:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1b8e8616af8221a5ca7e66c60b9c383c7a2c01f3/184_0_3390_2712/master/3390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=074a7be6dc3f43df878ffabcb9c47449"
     },
     {
       "title": "‘They are a species on the brink’: can trees save the salmon in Scotland’s River Dee?",
@@ -128,56 +173,11 @@
       "image": "https://grist.org/wp-content/uploads/2024/01/hillside-winchester-ridge.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "NSW weather: storm brings 13-metre high waves and wild winds as BoM warns of ‘second surge’",
-      "description": "&lt;p&gt;Vigorous coastal low forecast to keep sending severe weather across eastern New South Wales for much of Wednesday, before gradually easing on...",
-      "link": "https://www.theguardian.com/environment/2025/jul/02/nsw-wild-weather-thousands-without-power-and-at-least-200-properties-affected-by-flooding-as-storm-continues",
-      "pubDate": "Wed, 02 Jul 2025 19:31:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/87d677d54c56527c9370435d3bb0572b0c969d9c/163_273_3033_2427/master/3033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e46e0e0810fa8ea386a00decd08ebcf"
-    },
-    {
       "title": "NIH Scientists Link Air Pollution and Lung Cancer Mutations in Non-Smokers",
       "description": "New findings published Wednesday by the National Cancer Institute link tiny, toxic air pollutants to changes in lung cancer tumors at the genomic leve...",
       "link": "https://insideclimatenews.org/news/02072025/air-pollution-linked-to-lung-cancer-mutations/",
       "pubDate": "Wed, 02 Jul 2025 18:28:23 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How plants could help us detect, and even destroy, dangerous ‘forever chemicals&#8217;",
-      "description": "Tools to address PFAS pollution are limited. Here's what researchers are learning about how these chemicals travel through the environment — and what ...",
-      "link": "https://grist.org/looking-forward/how-plants-could-help-us-detect-and-even-destroy-dangerous-forever-chemicals/",
-      "pubDate": "Wed, 02 Jul 2025 15:37:13 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/0702_PFAS.jpg?quality=75&amp;strip=all&amp;w=900"
-    },
-    {
-      "title": "Ancient Egyptian history may be rewritten by DNA bone test",
-      "description": "A DNA bone test on a man who lived 4,500 years ago sheds new light on the rise of Ancient Egypt....",
-      "link": "https://www.bbc.com/news/articles/c1dnnyz0z6do",
-      "pubDate": "Wed, 02 Jul 2025 15:01:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Bezos wedding was a study in disingenuous billionaire behavior | Katrina vanden Heuvel",
-      "description": "&lt;p&gt;The event of the oligarchical season showcased the carelessness of a couple who claim to care about the climate&lt;/p&gt;&lt;p&gt;If last wee...",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/02/bezos-wedding-billionaire-oligarchy-climate",
-      "pubDate": "Wed, 02 Jul 2025 14:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9f2e9d078f510de133d46be5f02d70d87ec63044/239_0_2398_1918/master/2398.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c1d4d8a04be58c31ecd319d666cae6d"
-    },
-    {
-      "title": "Recent droughts are 'slow-moving global catastrophe' - UN report",
-      "description": "It says drought has compounded poverty, hunger, and energy insecurity worldwide....",
-      "link": "https://www.bbc.com/news/articles/ckg33r1xgymo",
-      "pubDate": "Wed, 02 Jul 2025 12:31:51 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
