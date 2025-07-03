@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-03T19:20:40.505Z",
+  "lastUpdated": "2025-07-03T20:28:37.663Z",
   "articles": [
+    {
+      "title": "Will the Trump Administration Save Workers from Preventable Overheating Deaths?",
+      "description": "Juanita Constible has analyzed state workplace heat standards across the United States for the Natural Resources Defense Council since 2018. But she f...",
+      "link": "https://insideclimatenews.org/news/03072025/osha-heat-injury-protection-hearings/",
+      "pubDate": "Thu, 03 Jul 2025 20:28:07 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Putin insisted Russia ‘will not step back from goals’ in Ukraine in hour-long call to Trump, Kremlin says – Europe live",
+      "description": "&lt;p&gt;Russian and US leaders spoke about need for ‘negotiated solution’ in Ukraine, Kremlin says&lt;/p&gt;&lt;p&gt;&lt;em&gt;in Italy&lt;/em&gt;&lt...",
+      "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
+      "pubDate": "Thu, 03 Jul 2025 19:43:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/df882105347f5eeafc61530f41adc79ed374ee34/88_0_1139_911/master/1139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61b2a44f64c534ea0f95727b922822fa"
+    },
+    {
+      "title": "EPA Employees Called on the Agency to Stop Undermining Public Health. The Trump Administration Put Them on Leave",
+      "description": "The U.S. Environmental Protection Agency placed 139 employees on administrative leave Thursday, an agency spokesperson confirmed, after they signed a ...",
+      "link": "https://insideclimatenews.org/news/03072025/epa-places-139-employees-on-leave-after-petition/",
+      "pubDate": "Thu, 03 Jul 2025 19:31:41 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Extreme heatwaves may cause global decline in dairy production, scientists warn",
       "description": "&lt;p&gt;Israel-based study finds that by 2050 average daily milk production could be reduced by 4% as a result of worsening heat stress&lt;/p&gt;&lt;...",
@@ -9,15 +36,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/001d03c9ebed7cebd4f196ee55510158591a2756/473_0_4171_3338/master/4171.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b50d6ea73b9844b5830915bc1f5bbf8d"
-    },
-    {
-      "title": "Putin insisted Russia ‘will not step back from goals’ in Ukraine in hour-long call to Trump, Kremlin says – Europe live",
-      "description": "&lt;p&gt;Russian and US leaders spoke about need for ‘negotiated solution’ in Ukraine, Kremlin says&lt;/p&gt;&lt;p&gt;&lt;em&gt;in Italy&lt;/em&gt;&lt...",
-      "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
-      "pubDate": "Thu, 03 Jul 2025 17:39:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/df882105347f5eeafc61530f41adc79ed374ee34/88_0_1139_911/master/1139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61b2a44f64c534ea0f95727b922822fa"
     },
     {
       "title": "English farms could be taken out of food production to boost nature, says minister",
@@ -65,15 +83,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
-      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
-      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
-    },
-    {
       "title": "Scientists warn US will lose a generation of talent because of Trump cuts",
       "description": "&lt;p&gt;Political interference and chaotic cuts to staff, programs and grants at the National Science Foundation are producing ‘devastating consequen...",
       "link": "https://www.theguardian.com/us-news/2025/jul/03/national-science-foundation-trump-cuts",
@@ -81,6 +90,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b84a13ef71bc6d8a8e13c4726838827b0a1d1067/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae2e8fd93ac3004a60554934a682e4f"
+    },
+    {
+      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
+      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
+      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
     },
     {
       "title": "‘We thought we’d got the numbers wrong’: how a pristine lake came to have the highest levels of ‘forever chemicals’ on record",
@@ -120,7 +138,7 @@
     },
     {
       "title": "Trump’s tax bill could be a major win for Big Ag. Everyone else? Not so much.",
-      "description": "The bill is a bailout for commodity growers and leaves small farmers — and U.S. consumers — out to dry....",
+      "description": "The bill, which just passed Congress, is a bailout for commodity growers and leaves small farmers — and U.S. consumers — out to dry....",
       "link": "https://grist.org/food-and-agriculture/trump-tax-bill-win-for-big-ag-everyone-else-not-so-much/",
       "pubDate": "Thu, 03 Jul 2025 08:45:00 +0000",
       "sourceName": "grist.org",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Australian Retailers Scale Back Returns as Delivery Costs Climb, New Shippit Report Reveals",
-      "description": "Delivery costs are rising for standard and express shipping, but same-day delivery is becoming more affordable — now averaging $17.39, down from $31 i...",
-      "link": "https://econews.com.au/67389/australian-retailers-scale-back-returns-as-delivery-costs-climb-new-shippit-report-reveals/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australian-retailers-scale-back-returns-as-delivery-costs-climb-new-shippit-report-reveals",
-      "pubDate": "Thu, 03 Jul 2025 08:02:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "OECD updates Environment at a Glance Indicators – Key insights on climate, energy, water, and biodiversity",
-      "description": "OECD has just released a new set of Environment at a Glance (EAG) Indicators. Updated twice a year, the Indicators provide a comprehensive snapshot of...",
-      "link": "https://econews.com.au/67387/oecd-updates-environment-at-a-glance-indicators-key-insights-on-climate-energy-water-and-biodiversity/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=oecd-updates-environment-at-a-glance-indicators-key-insights-on-climate-energy-water-and-biodiversity",
-      "pubDate": "Thu, 03 Jul 2025 08:02:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/06/OECD-logo.png"
     }
   ]
 }
