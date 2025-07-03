@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2025-07-03T15:29:01.379Z",
+  "lastUpdated": "2025-07-03T16:33:46.777Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Hands on with the new research at this year’s Royal Society Summer Science Exhibition...",
+      "link": "https://www.bbc.co.uk/sounds/play/m002f9g1",
+      "pubDate": "Thu, 03 Jul 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump confirms Putin call to take place today as Zelenskyy says they don’t ‘have a lot of common ideas’ to discuss – Europe live",
       "description": "&lt;p&gt;Call comes as US president is also due to speak to Ukraine’s Zelenskyy this week&lt;/p&gt;&lt;p&gt;&lt;em&gt;in Italy&lt;/em&gt;&lt;/p&gt;&lt...",
       "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
-      "pubDate": "Thu, 03 Jul 2025 15:09:52 GMT",
+      "pubDate": "Thu, 03 Jul 2025 15:59:21 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/df882105347f5eeafc61530f41adc79ed374ee34/88_0_1139_911/master/1139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61b2a44f64c534ea0f95727b922822fa"
@@ -47,15 +56,6 @@
       "image": "https://i.guim.co.uk/img/media/08c90e3fe2cee39643abaa94ec1f2146932887e0/614_0_4333_3467/master/4333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69ef89e6c3ff7cdf2b338e002d8a2921"
     },
     {
-      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
-      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
-      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
-    },
-    {
       "title": "Scientists warn US will lose a generation of talent because of Trump cuts",
       "description": "&lt;p&gt;Political interference and chaotic cuts to staff, programs and grants at the National Science Foundation are producing ‘devastating consequen...",
       "link": "https://www.theguardian.com/us-news/2025/jul/03/national-science-foundation-trump-cuts",
@@ -63,6 +63,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b84a13ef71bc6d8a8e13c4726838827b0a1d1067/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae2e8fd93ac3004a60554934a682e4f"
+    },
+    {
+      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
+      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
+      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
     },
     {
       "title": "‘We thought we’d got the numbers wrong’: how a pristine lake came to have the highest levels of ‘forever chemicals’ on record",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/06/OECD-logo.png"
-    },
-    {
-      "title": "‘They are a species on the brink’: can trees save the salmon in Scotland’s River Dee?",
-      "description": "&lt;p&gt;Last year, a single female was recorded returning to one tributary of a river usually celebrated for its fish. Now a plan is in place to chan...",
-      "link": "https://www.theguardian.com/environment/2025/jul/03/they-are-a-species-on-the-brink-can-trees-save-the-salmon-in-scotlands-river-dee",
-      "pubDate": "Thu, 03 Jul 2025 06:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2e2899850034877c57def589737cef432ec0f0e9/803_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f3e826b1a8f998cd110a5d4daa1cc9d"
     }
   ]
 }
