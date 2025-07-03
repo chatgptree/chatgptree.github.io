@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2025-07-03T09:29:25.916Z",
+  "lastUpdated": "2025-07-03T10:29:46.526Z",
   "articles": [
     {
+      "title": "‘We thought we’d got the numbers wrong’: Holloman Lake is a birder’s paradise – and has the highest levels of ‘forever chemicals’ on record",
+      "description": "&lt;p&gt;The lake was a haven for wildlife and seemed an ideal campsite. But strange foam around the shoreline turned out to be more than just an oddi...",
+      "link": "https://www.theguardian.com/environment/2025/jul/03/holloman-lake-birds-wildlife-pfas-forever-chemicals-aoe",
+      "pubDate": "Thu, 03 Jul 2025 10:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e1cb69c80ba145adbeb72f55a6a5d29fca188c48/202_0_1194_956/master/1194.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c48a79a460454069a6b42ecbed6c8945"
+    },
+    {
       "title": "More than 1,500 people evacuated in Crete as wildfires rage across Europe – live",
-      "description": "&lt;p&gt;Wildfires have been reported in Greece, Turkey, Spain and Germany as Europe’s heatwave continues&lt;/p&gt;&lt;p&gt;Portuguese prime minister ...",
+      "description": "&lt;p&gt;Wildfires have been reported in Greece, Turkey, Spain and Germany as Europe’s heatwave continues&lt;/p&gt;&lt;p&gt;Meanwhile, Ukrainian presi...",
       "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
-      "pubDate": "Thu, 03 Jul 2025 09:09:03 GMT",
+      "pubDate": "Thu, 03 Jul 2025 09:59:45 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1b8e8616af8221a5ca7e66c60b9c383c7a2c01f3/184_0_3390_2712/master/3390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=074a7be6dc3f43df878ffabcb9c47449"
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2024/01/hillside-winchester-ridge.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "NIH Scientists Link Air Pollution and Lung Cancer Mutations in Non-Smokers",
-      "description": "New findings published Wednesday by the National Cancer Institute link tiny, toxic air pollutants to changes in lung cancer tumors at the genomic leve...",
-      "link": "https://insideclimatenews.org/news/02072025/air-pollution-linked-to-lung-cancer-mutations/",
-      "pubDate": "Wed, 02 Jul 2025 18:28:23 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
