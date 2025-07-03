@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-03T21:25:09.660Z",
+  "lastUpdated": "2025-07-03T22:25:39.906Z",
   "articles": [
+    {
+      "title": "Countries must protect human right to a stable climate, court rules",
+      "description": "&lt;p&gt;Costa Rica-based inter-American court of human rights says states have obligation to respond to climate change&lt;/p&gt;&lt;p&gt;There is a h...",
+      "link": "https://www.theguardian.com/environment/2025/jul/03/countries-must-protect-human-right-to-a-stable-climate-court-rules",
+      "pubDate": "Thu, 03 Jul 2025 21:53:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f2990b5ca6e7ce2ce71cfda4a472be168dd5869e/461_0_2792_2235/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5984048675f5567d03e4dc300887f8a"
+    },
+    {
+      "title": "These Century-Old Chicago Silos Are Slated for Demolition. Neighbors Want to Save Them",
+      "description": "CHICAGO—Southwest Side residents implored city health and planning officials last week to reconsider the future of two century-old towering grain elev...",
+      "link": "https://insideclimatenews.org/news/03072025/chicago-damen-silos-demolition/",
+      "pubDate": "Thu, 03 Jul 2025 21:41:56 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘A self-inflicted tragedy’: Congress approves reversal of US climate policy",
+      "description": "Once Trump signs the megabill, the country will no longer have a federal plan to address the climate crisis....",
+      "link": "https://grist.org/politics/a-self-inflicted-tragedy-congress-approves-reversal-of-us-climate-policy/",
+      "pubDate": "Thu, 03 Jul 2025 21:35:38 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/tribal-electricity-generator-min.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Clean energy projects on tribal lands were booming. Then came Trump&#8217;s tax bill.",
       "description": "From Alaska to Arizona, tribes are confronting the possibility of stalled projects, energy outages, and economic disruption....",
@@ -8,7 +35,7 @@
       "pubDate": "Thu, 03 Jul 2025 21:22:48 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/07/big-beautiful-bill-energy-climate.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "Will the Trump Administration Save Workers from Preventable Overheating Deaths?",
@@ -56,15 +83,6 @@
       "image": "https://i.guim.co.uk/img/media/91f0e36c6fae85337baa07d45575c19a648ad981/224_0_3885_3110/master/3885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41e5a389719c928e0b58c248d0bd26f2"
     },
     {
-      "title": "Two tourists from UK and New Zealand killed by elephant, Zambian police say",
-      "description": "&lt;p&gt;Commissioner says two women were attacked by female elephant that was with a calf&lt;/p&gt;&lt;p&gt;Two female tourists from the UK and New Z...",
-      "link": "https://www.theguardian.com/world/2025/jul/03/two-tourists-uk-and-new-zealand-killed-by-elephant-zambia",
-      "pubDate": "Thu, 03 Jul 2025 17:12:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dc6e6bc2cf3238aeac4175f53ef37f33867c2350/0_0_2992_2394/master/2992.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=256a5995e746833a7f035c93124ac48d"
-    },
-    {
       "title": "BBC Inside Science",
       "description": "Hands on with the new research at this year’s Royal Society Summer Science Exhibition...",
       "link": "https://www.bbc.co.uk/sounds/play/m002f9g1",
@@ -92,15 +110,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Scientists warn US will lose a generation of talent because of Trump cuts",
-      "description": "&lt;p&gt;Political interference and chaotic cuts to staff, programs and grants at the National Science Foundation are producing ‘devastating consequen...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/03/national-science-foundation-trump-cuts",
-      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b84a13ef71bc6d8a8e13c4726838827b0a1d1067/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae2e8fd93ac3004a60554934a682e4f"
-    },
-    {
       "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
       "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
       "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
@@ -108,6 +117,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
+    },
+    {
+      "title": "Scientists warn US will lose a generation of talent because of Trump cuts",
+      "description": "&lt;p&gt;Political interference and chaotic cuts to staff, programs and grants at the National Science Foundation are producing ‘devastating consequen...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/03/national-science-foundation-trump-cuts",
+      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b84a13ef71bc6d8a8e13c4726838827b0a1d1067/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae2e8fd93ac3004a60554934a682e4f"
     },
     {
       "title": "‘We thought we’d got the numbers wrong’: how a pristine lake came to have the highest levels of ‘forever chemicals’ on record",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/02/datacenterGettyImages-2171751310.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Cumberland City Council’s Banner to Bags Campaign Turning Waste into Opportunity",
-      "description": "In celebration of Plastic Free July 2025, Cumberland City Council is proud to highlight the success of its Banners to Bags campaign, a community-drive...",
-      "link": "https://econews.com.au/67395/cumberland-city-councils-banner-to-bags-campaign-turning-waste-into-opportunity/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cumberland-city-councils-banner-to-bags-campaign-turning-waste-into-opportunity",
-      "pubDate": "Thu, 03 Jul 2025 08:03:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Ships trigger high and unexpected emissions of the greenhouse gas methane",
-      "description": "A Chalmers-led study shows that ship passages can trigger clear pulses of high methane fluxes from the water to the atmosphere. The emissions are caus...",
-      "link": "https://econews.com.au/67393/ships-trigger-high-and-unexpected-emissions-of-the-greenhouse-gas-methane/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ships-trigger-high-and-unexpected-emissions-of-the-greenhouse-gas-methane",
-      "pubDate": "Thu, 03 Jul 2025 08:03:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Chalmers-logo.png"
     }
   ]
 }
