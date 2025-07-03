@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-03T10:29:46.526Z",
+  "lastUpdated": "2025-07-03T11:23:44.967Z",
   "articles": [
+    {
+      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
+      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
+      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
+    },
+    {
+      "title": "Scientists warn US will lose a generation of talent because of Trump cuts",
+      "description": "&lt;p&gt;Political interference and chaotic cuts to staff, programs and grants at the National Science Foundation are producing ‘devastating consequen...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/03/national-science-foundation-trump-cuts",
+      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b84a13ef71bc6d8a8e13c4726838827b0a1d1067/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae2e8fd93ac3004a60554934a682e4f"
+    },
+    {
+      "title": "More than 1,500 people evacuated in Crete as wildfires rage across Europe – live",
+      "description": "&lt;p&gt;Wildfires have been reported in Greece, Turkey, Spain and Germany as Europe’s heatwave continues&lt;/p&gt;&lt;p&gt;&lt;em&gt;in Italy&lt;/em&...",
+      "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
+      "pubDate": "Thu, 03 Jul 2025 10:49:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1b8e8616af8221a5ca7e66c60b9c383c7a2c01f3/184_0_3390_2712/master/3390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=074a7be6dc3f43df878ffabcb9c47449"
+    },
     {
       "title": "‘We thought we’d got the numbers wrong’: Holloman Lake is a birder’s paradise – and has the highest levels of ‘forever chemicals’ on record",
       "description": "&lt;p&gt;The lake was a haven for wildlife and seemed an ideal campsite. But strange foam around the shoreline turned out to be more than just an oddi...",
@@ -9,15 +36,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e1cb69c80ba145adbeb72f55a6a5d29fca188c48/202_0_1194_956/master/1194.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c48a79a460454069a6b42ecbed6c8945"
-    },
-    {
-      "title": "More than 1,500 people evacuated in Crete as wildfires rage across Europe – live",
-      "description": "&lt;p&gt;Wildfires have been reported in Greece, Turkey, Spain and Germany as Europe’s heatwave continues&lt;/p&gt;&lt;p&gt;Meanwhile, Ukrainian presi...",
-      "link": "https://www.theguardian.com/world/live/2025/jul/03/europe-heatwave-live-news-latest-updates-crete-wildfire",
-      "pubDate": "Thu, 03 Jul 2025 09:59:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1b8e8616af8221a5ca7e66c60b9c383c7a2c01f3/184_0_3390_2712/master/3390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=074a7be6dc3f43df878ffabcb9c47449"
     },
     {
       "title": "Violating California Residents’ Right to Water",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "On Senate Floor, Tillis Offered Inside Look Into the Lobbying Against Clean Energy",
-      "description": "Sen. Thom Tillis had cast off any election worries by the time he took to the Senate floor this week to provide a rare window into the lobbying that a...",
-      "link": "https://insideclimatenews.org/news/02072025/inside-clean-energy-big-beautiful-bill-lobbying-against-renewables/",
-      "pubDate": "Wed, 02 Jul 2025 22:31:48 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Can weaker environmental rules help fight climate change? California just bet yes.",
-      "description": "A sweeping reform to the California Environmental Quality Act has divided environmentalists and climate advocates....",
-      "link": "https://grist.org/regulation/california-environmental-quality-act-housing-reform-climate/",
-      "pubDate": "Wed, 02 Jul 2025 20:57:53 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/01/hillside-winchester-ridge.jpg?quality=75&#038;strip=all"
     }
   ]
 }
