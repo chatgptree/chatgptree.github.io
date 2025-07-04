@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-04T07:28:06.412Z",
+  "lastUpdated": "2025-07-04T08:35:07.560Z",
   "articles": [
+    {
+      "title": "‘Slapp addict’ Italian oil firm accused of trying to silence green activists",
+      "description": "&lt;p&gt;Eni has filed at least six defamation suits against journalists and NGOs since 2019 in what critics say is intimidation campaign&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2025/jul/04/italian-oil-firm-eni-accused-of-trying-to-silence-green-activists",
+      "pubDate": "Fri, 04 Jul 2025 08:00:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/997b15b1d86e2c641191aac31c2aa701ccc7b5b0/96_0_3979_3184/master/3979.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e2adc6008609b0b5be20f4a999f7bef"
+    },
     {
       "title": "Week in wildlife: a lucky osprey, a miraculous hare and a political fox",
       "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
@@ -128,15 +137,6 @@
       "image": "https://i.guim.co.uk/img/media/001d03c9ebed7cebd4f196ee55510158591a2756/473_0_4171_3338/master/4171.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b50d6ea73b9844b5830915bc1f5bbf8d"
     },
     {
-      "title": "English farms could be taken out of food production to boost nature, says minister",
-      "description": "&lt;p&gt;Plans announced by environment secretary mean many upland farmers may be incentivised to stop farming&lt;/p&gt;&lt;p&gt;Some farms in England...",
-      "link": "https://www.theguardian.com/environment/2025/jul/03/farms-england-stop-food-production-boost-nature-labour",
-      "pubDate": "Thu, 03 Jul 2025 17:27:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/91f0e36c6fae85337baa07d45575c19a648ad981/224_0_3885_3110/master/3885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41e5a389719c928e0b58c248d0bd26f2"
-    },
-    {
       "title": "BBC Inside Science",
       "description": "Hands on with the new research at this year’s Royal Society Summer Science Exhibition...",
       "link": "https://www.bbc.co.uk/sounds/play/m002f9g1",
@@ -164,15 +164,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
-      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
-      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
-    },
-    {
       "title": "Scientists warn US will lose a generation of talent because of Trump cuts",
       "description": "&lt;p&gt;Political interference and chaotic cuts to staff, programs and grants at the National Science Foundation are producing ‘devastating consequen...",
       "link": "https://www.theguardian.com/us-news/2025/jul/03/national-science-foundation-trump-cuts",
@@ -180,6 +171,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b84a13ef71bc6d8a8e13c4726838827b0a1d1067/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae2e8fd93ac3004a60554934a682e4f"
+    },
+    {
+      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
+      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
+      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
     }
   ]
 }
