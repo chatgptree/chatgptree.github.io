@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-04T08:35:07.560Z",
+  "lastUpdated": "2025-07-04T09:29:11.324Z",
   "articles": [
+    {
+      "title": "The Heat That Seared New York City’s Primary Voters Is Just One Impact of Global Warming on Elections",
+      "description": "Election Day in New York City was a scorcher. Temperatures at Kennedy Airport reached 102 degrees last Tuesday, making it the city’s hottest June day ...",
+      "link": "https://insideclimatenews.org/news/04072025/heat-impact-on-elections/",
+      "pubDate": "Fri, 04 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Handbook Aims to Protect Scientists From Autocratic Threats",
+      "description": "As autocratic regimes around the world increasingly step up attacks on scientists and academic freedom, a team of researchers has published a new anti...",
+      "link": "https://insideclimatenews.org/news/04072025/anti-autocracy-handbook-aims-to-protect-scientists/",
+      "pubDate": "Fri, 04 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Slapp addict’ Italian oil firm accused of trying to silence green activists",
       "description": "&lt;p&gt;Eni has filed at least six defamation suits against journalists and NGOs since 2019 in what critics say is intimidation campaign&lt;/p&gt;&lt...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists warn US will lose a generation of talent because of Trump cuts",
-      "description": "&lt;p&gt;Political interference and chaotic cuts to staff, programs and grants at the National Science Foundation are producing ‘devastating consequen...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/03/national-science-foundation-trump-cuts",
-      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b84a13ef71bc6d8a8e13c4726838827b0a1d1067/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cae2e8fd93ac3004a60554934a682e4f"
-    },
-    {
-      "title": "EPA to launch program that lets people adopt its lab animals amid Trump cuts",
-      "description": "&lt;p&gt;Document detailing the new program says zebrafish and rats from a North Carolina lab will be up for adoption&lt;/p&gt;&lt;p&gt;The &lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/03/epa-lab-animals-trump-cuts",
-      "pubDate": "Thu, 03 Jul 2025 11:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/16d09effb6bf84602c6a9db419be07734ff8ee39/29_0_4024_3220/master/4024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf454cbc2365298eb875474d44d7f394"
     }
   ]
 }
