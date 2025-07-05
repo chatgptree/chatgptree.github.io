@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-05T06:35:52.538Z",
+  "lastUpdated": "2025-07-05T07:24:15.393Z",
   "articles": [
+    {
+      "title": "How a £1.5bn ‘wildlife-boosting’ bypass became an environmental disaster",
+      "description": "&lt;p&gt;A14 in Cambridgeshire promised biodiversity net gain of 11.5%, but most of the 860,000 trees planted are dead. What went wrong?&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/jul/05/cambridgeshire-a14-road-wildlife-environmental-disaster",
+      "pubDate": "Sat, 05 Jul 2025 07:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6b1d322219601641aa33ab706aadb26f3764c7fb/817_0_4077_3264/master/4077.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e7b46f8afb749fefeaa1439e961d177"
+    },
     {
       "title": "2025 NSW Sustainability Awards are open for entry.",
       "description": "The NSW Sustainability Awards celebrates and honours trailblazers and innovators who are dedicated to creating a more sustainable future for NSW. It i...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Elon Musk’s xAI gets permit for methane gas generators",
-      "description": "&lt;p&gt;NAACP plans to sue over massive Memphis datacenter near Black residents, who have long dealt with pollution&lt;/p&gt;&lt;p&gt;&lt;a href=\"htt...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/03/elon-musk-xai-pollution-memphis",
-      "pubDate": "Thu, 03 Jul 2025 22:28:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b644cf05cb8201c07ad42b11f14cde5c2c8f4f52/364_0_3472_2779/master/3472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea8e274294ecb7639552d0b1f9178625"
     }
   ]
 }
