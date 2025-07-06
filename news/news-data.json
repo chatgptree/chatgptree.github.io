@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-06T08:31:54.169Z",
+  "lastUpdated": "2025-07-06T09:26:01.999Z",
   "articles": [
+    {
+      "title": "Texas floods: search continues with dozens dead and missing",
+      "description": "&lt;p&gt;Hundreds of rescuers searching for those missing in devastating floods including girls from Camp Mystic, a Christian youth camp&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/us-news/live/2025/jul/06/texas-floods-search-missing-camp-mystic-girls-live-news-updates",
+      "pubDate": "Sun, 06 Jul 2025 09:06:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/14104e697fffa807de5a9a081ed395c4865eedb4/328_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3083ba0d7d3fd3e8a9985ce2abe9bc37"
+    },
+    {
+      "title": "‘We’ve made progress’: environment secretary is upbeat despite Labour’s struggles",
+      "description": "&lt;p&gt;Steve Reed says changes to living standards are happening and will make a big difference to trust in government&lt;/p&gt;&lt;p&gt;It was prob...",
+      "link": "https://www.theguardian.com/politics/2025/jul/06/labour-steve-reed-environment-secretary-progress",
+      "pubDate": "Sun, 06 Jul 2025 09:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b7a6cdee613aece8b810eabb76946d815a86347f/1553_238_5820_4658/master/5820.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c66cadbc52abde6cb05f477aa10846c2"
+    },
+    {
+      "title": "Florida’s Home Insurance Crisis Hits Hardest in Some of the State’s Poorest Counties",
+      "description": "OKEECHOBEE, Fla.—Steve Cates was walking back to his house from his mailbox, flipping through a clutch of newly delivered letters, when one envelope s...",
+      "link": "https://insideclimatenews.org/news/06072025/florida-poor-inland-counties-home-insurance-crisis/",
+      "pubDate": "Sun, 06 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Deadly heatwaves are the new reality – we need to transform the UK's cities and towns to survive them | Hannah Martin",
       "description": "&lt;p&gt;While we work towards net zero, we also need to adapt. And we can pay for cooling measures like splash pads and trees by taxing the worst pol...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2b97ef055fea373663765d6714b9b3abe36bae0a/110_0_3480_2783/master/3480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=710c62a19c02df321ab271e98dfd4e91"
-    },
-    {
-      "title": "‘Peaceful trespass’ planned at Dorset beauty spot after new owners shut path",
-      "description": "&lt;p&gt;Loss of access to lake and waterfall in Thomas Hardy country prompts action at Bridehead estate&lt;/p&gt;&lt;p&gt;Heaven only knows what Thom...",
-      "link": "https://www.theguardian.com/uk-news/2025/jul/04/peaceful-trespass-bridehead-dorset-beauty-spot-owners-shut-path",
-      "pubDate": "Fri, 04 Jul 2025 13:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1bedd8db1613535b9547152d4748cf60a0fd9377/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36bada518ae6a0087f7da013e1b9db88"
-    },
-    {
-      "title": "Canada races to build icebreakers amid melting ice and geopolitical tensions",
-      "description": "&lt;p&gt;In an Arctic reshaped by the climate crisis, less ice really means more as countries face risks in push for more ships&lt;/p&gt;&lt;p&gt;For ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/04/canada-icebreakers-arctic",
-      "pubDate": "Fri, 04 Jul 2025 12:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9b0d889ada4e8899aa643dde1188b74bb7d01f74/873_0_4277_3420/master/4277.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4fda975b26b3fd22a54337ca5ae24420"
-    },
-    {
-      "title": "Landmark US study reveals sewage sludge and wastewater plants tied to Pfas pollution",
-      "description": "&lt;p&gt;New study finds troubling levels of Pfas near wastewater plants and sludge sites in 19 states&lt;/p&gt;&lt;p&gt;Sewage sludge and wastewater ...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/04/pfas-pollution-sewage-wastewater",
-      "pubDate": "Fri, 04 Jul 2025 11:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0fad0ee191393b4f9c62b502ed6008baff6d6fe6/575_0_4552_3640/master/4552.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94acd1531aed20382739e0974b8e57c9"
     }
   ]
 }
