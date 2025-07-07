@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-07T08:37:32.033Z",
+  "lastUpdated": "2025-07-07T09:31:12.443Z",
   "articles": [
+    {
+      "title": "Disaster Preparation Recovery Resources",
+      "description": "No matter where you live, extreme weather can hit your area and change your life. Whether it’s a hurricane, winter storm, flash flood, tornado, wildfi...",
+      "link": "https://grist.org/extreme-weather/disaster-preparation-recovery-resources/",
+      "pubDate": "Mon, 07 Jul 2025 09:18:03 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/disaster-101-health.png?quality=75&#038;strip=all"
+    },
+    {
+      "title": "As California’s Emissions Rules Faces Court Battles, States Scramble To Save Their Climate Goals",
+      "description": "When President Donald Trump signed legislation to revoke California’s authority to enforce stricter tailpipe emissions standards and to ban sales of g...",
+      "link": "https://insideclimatenews.org/news/07072025/california-emissions-rules-court-battles-affect-other-states-climate-goals/",
+      "pubDate": "Mon, 07 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Atlanta is embracing a cheap, effective way to beat urban heat: &#8216;cool roofs&#8217;",
+      "description": "White or reflective roofs significantly reduce temperatures. Atlanta is the latest city to mandate their adoption....",
+      "link": "https://grist.org/cities/atlanta-is-embracing-a-cheap-effective-way-to-beat-urban-heat-cool-roofs/",
+      "pubDate": "Mon, 07 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Politicians are retreating from net zero because they think the public doesn’t care. But they’re wrong | Rebecca Willis",
       "description": "&lt;p&gt;Our research shows people are strongly in favour of measures to tackle the climate crisis. They just need to be listened to&lt;/p&gt;&lt;ul&g...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/06/pt-up-arrow_5c626f.png"
-    },
-    {
-      "title": "Ocean current scientists are very upset and you should be too | First Dog on the Moon",
-      "description": "&lt;p&gt;It’s bad news for the Antarctic sea ice and everyone who relies on it being there (everyone)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2025/jul/07/ocean-current-scientists-are-very-upset-and-you-should-be-too",
-      "pubDate": "Mon, 07 Jul 2025 06:41:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/71ff44974c28153f845e8bf70e24a1be1347a104/0_0_1134_907/master/1134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dd96e9986b52dd0c5a8756df8639df2"
-    },
-    {
-      "title": "New report finds Australia could build a $36b low-carbon fuel industry, cut emissions by 230m tonnes, and strengthen fuel security",
-      "description": "Australia has a $36 billion opportunity to establish a world-leading low carbon liquid fuel (LCLF) industry, reduce emissions by 230 million tonnes by...",
-      "link": "https://econews.com.au/67415/new-report-finds-australia-could-build-a-36b-low-carbon-fuel-industry-cut-emissions-by-230m-tonnes-and-strengthen-fuel-security/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-report-finds-australia-could-build-a-36b-low-carbon-fuel-industry-cut-emissions-by-230m-tonnes-and-strengthen-fuel-security",
-      "pubDate": "Mon, 07 Jul 2025 06:03:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "ReGen 2025 Makes Sustainable Packaging Solutions the Centre Focus in Australia’s Circular Economy Push",
-      "description": "Australia generates over 76 million tonnes of waste each year, with nearly 27% still going to landfill, and packaging remains a significant contributo...",
-      "link": "https://econews.com.au/67413/regen-2025-makes-sustainable-packaging-solutions-the-centre-focus-in-australias-circular-economy-push/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=regen-2025-makes-sustainable-packaging-solutions-the-centre-focus-in-australias-circular-economy-push",
-      "pubDate": "Mon, 07 Jul 2025 06:03:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
