@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-08T05:28:22.859Z",
+  "lastUpdated": "2025-07-08T06:39:50.171Z",
   "articles": [
+    {
+      "title": "Indonesian volcano spews massive ash cloud as it erupts again",
+      "description": "Following a series of eruptions three weeks ago, Mount Lewotobi Laki-laki has begun spewing hot ash and lava again....",
+      "link": "https://www.bbc.com/news/articles/cj3r8v13zrro",
+      "pubDate": "Tue, 08 Jul 2025 05:44:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Endangered Woylies released ‘beyond the fence’ in groundbreaking wildlife restoration project",
       "description": "Harriet Harte and a Woylie springing from the bag. © Brad Leue The next chapter in Australian Wildlife conservancy’s (AWC) groundbreaking Mammal Resto...",
@@ -47,15 +56,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Dream-Weaver.jpg"
     },
     {
-      "title": "Indonesian volcano spews massive ash cloud as it erupts again",
-      "description": "Following a series of eruptions three weeks ago, Mount Lewotobi Laki-laki has begun spewing hot ash and lava again....",
-      "link": "https://www.bbc.com/news/articles/cj3r8v13zrro",
-      "pubDate": "Tue, 08 Jul 2025 04:45:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Five million remain under Texas flooding watch – as it happened",
       "description": "&lt;p&gt;This blog is now closed. Our latest &lt;a href=\"https://www.theguardian.com/us-news/2025/jul/07/texas-floods-summer-camp-death-toll-victims\"&...",
       "link": "https://www.theguardian.com/us-news/live/2025/jul/07/texas-floods-rescue-teams-search-missing-more-heavy-rains-forecast-latest-news-updates",
@@ -92,8 +92,8 @@
       "image": "https://grist.org/wp-content/uploads/2025/07/d-101-600px.webp?quality=75&#038;strip=all"
     },
     {
-      "title": "Texas flash floods kill more than 100 people as more victims expected",
-      "description": "&lt;p&gt;Girls summer camp Camp Mystic confirms 27 children and counsellors dead as more rain threatens to deluge region&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "title": "Texas flash floods: more rain forecast as death toll passes 100",
+      "description": "&lt;p&gt;Girls summer camp Camp Mystic confirms 27 children and counsellors dead &lt;/p&gt;&lt;p&gt;The death toll from the flash floods that have wre...",
       "link": "https://www.theguardian.com/us-news/2025/jul/07/texas-floods-summer-camp-death-toll-victims",
       "pubDate": "Mon, 07 Jul 2025 22:16:30 GMT",
       "sourceName": "theguardian.com",
