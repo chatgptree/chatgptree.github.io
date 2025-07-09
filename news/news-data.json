@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-09T21:25:57.048Z",
+  "lastUpdated": "2025-07-09T22:26:37.324Z",
   "articles": [
+    {
+      "title": "Trump’s Pick to Head NOAA Faces Senators in the Wake of Multiple Weather-Stoked Disasters",
+      "description": "After fatal weather-related disasters battered three states over the past week, President Donald Trump’s choice to lead the country’s top weather rese...",
+      "link": "https://insideclimatenews.org/news/09072025/trump-picks-neil-jacobs-to-lead-noaa/",
+      "pubDate": "Wed, 09 Jul 2025 22:16:53 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Global Plastics Talks Set to Resume Next Month Must Prioritize Environment and Health, Experts Say",
       "description": "No place on Earth is safe from plastic pollution. Plastic garbage and tiny shards of these long-lived petroleum-based polymers taint the highest Himal...",
@@ -54,6 +63,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3159c3c16c8fb62b211fb51efd913518e55d08f5/176_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6fac96ebc4a76ea454d549b9158ce93"
+    },
+    {
+      "title": "New York City’s congestion pricing has cut pollution and traffic – but Trump still wants to kill it",
+      "description": "&lt;p&gt;With less congestion, less carbon pollution, less accidents, could it be a model for other US cities? Six months in, environmentalists say ye...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/09/new-york-city-congestion-pricing-trump",
+      "pubDate": "Wed, 09 Jul 2025 10:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/64c2447619ef0fd7597b6acedf9994dc16c28f05/0_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7467c1b4d74d3fc7fc4475afa986dfa"
     },
     {
       "title": "AI Can Help Limit the Spread of Misinformation During Natural Disaster, Study Finds",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c4gdd6jdm42o",
       "pubDate": "Tue, 08 Jul 2025 22:01:45 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Texas Flooding Signals Growing Extreme Weather Threats to Summer Camps",
-      "description": "The deluge hit in the early morning hours of July 4.&#160; In the Hill Country region of central Texas, torrential rains triggered flash flooding that...",
-      "link": "https://insideclimatenews.org/news/08072025/todays-climate-flash-floods-texas-summer-camp/",
-      "pubDate": "Tue, 08 Jul 2025 20:02:35 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Issues Executive Order Targeting ‘Unreliable’ Clean Energy Options",
-      "description": "President Donald Trump issued an executive order Monday that he said will “end taxpayer support for unaffordable and unreliable ‘green’ energy sources...",
-      "link": "https://insideclimatenews.org/news/08072025/trump-executive-order-targets-solar-wind/",
-      "pubDate": "Tue, 08 Jul 2025 19:36:47 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
