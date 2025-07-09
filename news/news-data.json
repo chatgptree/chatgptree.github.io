@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-08T23:26:14.952Z",
+  "lastUpdated": "2025-07-09T02:18:47.046Z",
   "articles": [
+    {
+      "title": "This Texas county asked for disaster resilience help. The flood came first.",
+      "description": "Amidst historic Texas floods, the Trump administration is retreating from disaster preparedness. ...",
+      "link": "https://grist.org/extreme-weather/amid-historic-texas-floods-trump-retreats-from-disaster-preparedness/",
+      "pubDate": "Tue, 08 Jul 2025 23:59:27 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/GettyImages-2222872823-1.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Trump Move to Increase Coal Mining in the Powder River Basin Will Worsen Climate Change, Experts Warn",
       "description": "The Trump administration—ignoring decades of climate science and downward economic trends—has begun the process of reopening millions of acres of publ...",
@@ -38,8 +47,8 @@
       "image": "https://i.guim.co.uk/img/media/78704c9c035b1eba385bbba1585cebfdbf8c3535/0_517_2667_2131/master/2667.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2278b29ceb1c514e8ae0b8c4687bdd97"
     },
     {
-      "title": "Marseille airport cancels all flights as wildfire encroaches on city",
-      "description": "&lt;p&gt;Authorities urge residents to stay indoors and say more than 700 firefighters battling blaze&lt;/p&gt;&lt;p&gt;A fast-moving wildfire fanned ...",
+      "title": "Marseille fire forces hundreds to evacuate, destroys homes and grounds flights",
+      "description": "&lt;p&gt;Fire has brought many of the city’s services to a halt, with all flights cancelled at Marseille airport&lt;/p&gt;&lt;p&gt;A fast-moving wildf...",
       "link": "https://www.theguardian.com/world/2025/jul/08/marseille-airport-cancels-all-flights-as-wildfire-encroaches-on-city",
       "pubDate": "Tue, 08 Jul 2025 15:50:28 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0c8576af08af7b6cd9f086747f40db768e591e96/728_0_6720_5376/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4c2000bf5ca859ec32581775860afe0"
-    },
-    {
-      "title": "Indonesian volcano spews massive ash cloud as it erupts again",
-      "description": "Following a series of eruptions three weeks ago, Mount Lewotobi Laki-laki has begun spewing hot ash and lava again....",
-      "link": "https://www.bbc.com/news/articles/cj3r8v13zrro",
-      "pubDate": "Tue, 08 Jul 2025 05:44:59 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
