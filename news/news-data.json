@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-10T12:56:58.392Z",
+  "lastUpdated": "2025-07-10T13:41:32.738Z",
   "articles": [
+    {
+      "title": "Scottish households urged to cut water use as climate crisis limits supplies",
+      "description": "&lt;p&gt;Scottish Water boss says average Scot uses 40% more water than people in Yorkshire partly due to mistaken belief water is abundant in Scotlan...",
+      "link": "https://www.theguardian.com/environment/2025/jul/10/scottish-households-urged-to-cut-water-use-as-climate-crisis-limits-supplies",
+      "pubDate": "Thu, 10 Jul 2025 13:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1543e8c9de3e7a9d923c272d7b7ced8dd151a149/744_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3dbefc384ce25707f65272c52c581fa4"
+    },
+    {
+      "title": "Trump officials axed an online portal for its key climate report. Read it in full here",
+      "description": "&lt;p&gt;Guardian makes legally mandated gold standard report widely available after administration deleted website&lt;/p&gt;&lt;p&gt;The future of th...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/10/national-climate-assessment-published",
+      "pubDate": "Thu, 10 Jul 2025 13:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b1dd8fb8e21774f1837db6c3b5111f38a17f28b3/263_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=365e982e4f333529798eec7dc36d24c9"
+    },
+    {
+      "title": "It Just Got Easier to Build Nuclear Power Plants in Wisconsin",
+      "description": "Nuclear power was one of the few zero-emissions electricity sources whose federal tax incentives remained mostly intact last week following President ...",
+      "link": "https://insideclimatenews.org/news/10072025/inside-clean-energy-wisconsin-nuclear-power-bill/",
+      "pubDate": "Thu, 10 Jul 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "With the world in crisis, many say end globalisation. I say that would be a mistake | Luiz Inácio Lula da Silva",
       "description": "&lt;p&gt;Terms like ‘deglobalisation’ have become commonplace, but what we need is true multilateralism. Erecting walls won’t bring us peace and prosp...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9721d3a38bdaf46ba7f51441414f878dd8ed86c1/183_0_8001_6401/master/8001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358c328e3b7b7144f4269f421f3b4dd7"
-    },
-    {
-      "title": "Trump’s Pick to Head NOAA Faces Senators in the Wake of Multiple Weather-Stoked Disasters",
-      "description": "After fatal weather-related disasters battered three states over the past week, President Donald Trump’s choice to lead the country’s top weather rese...",
-      "link": "https://insideclimatenews.org/news/09072025/trump-picks-neil-jacobs-to-lead-noaa/",
-      "pubDate": "Wed, 09 Jul 2025 22:16:53 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Global Plastics Talks Set to Resume Next Month Must Prioritize Environment and Health, Experts Say",
-      "description": "No place on Earth is safe from plastic pollution. Plastic garbage and tiny shards of these long-lived petroleum-based polymers taint the highest Himal...",
-      "link": "https://insideclimatenews.org/news/09072025/global-plastics-talks-resume-next-month/",
-      "pubDate": "Wed, 09 Jul 2025 20:45:07 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Drought is draining water supplies and driving up food costs where you’d least expect",
-      "description": "From Mexico City to the Mekong Delta, increasingly severe droughts caused by climate change are laying waste to ecosystems and economies everywhere....",
-      "link": "https://grist.org/food-and-agriculture/drought-water-supplies-food-costs-where-you-least-expect/",
-      "pubDate": "Wed, 09 Jul 2025 17:29:48 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/mexico-city-farmer-crop-drought-min.jpg?quality=75&amp;strip=all"
     }
   ]
 }
