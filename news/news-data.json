@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-10T16:35:17.894Z",
+  "lastUpdated": "2025-07-10T17:26:29.008Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Solutions to plastic waste from creating cleaner products to cleaning up ocean litter....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002fljl",
+      "pubDate": "Thu, 10 Jul 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cold weather blamed for killing thousands of bony herring in central west NSW lake",
       "description": "&lt;p&gt;Native Australian fish is important for fresh water ecosystems as they are a food source for bigger fish and birds such as pelicans, cormoran...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Decarbonizing fashion and luxury require action where value and impact intersect, and AI could play a key role",
-      "description": "Decarbonizing the fashion and luxury industry is no longer a side initiative, but a critical business imperative that will reshape industry dynamics o...",
-      "link": "https://econews.com.au/67439/decarbonizing-fashion-and-luxury-require-action-where-value-and-impact-intersect-and-ai-could-play-a-key-role/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=decarbonizing-fashion-and-luxury-require-action-where-value-and-impact-intersect-and-ai-could-play-a-key-role",
-      "pubDate": "Thu, 10 Jul 2025 08:03:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Matteo-Capellini.jpg"
     }
   ]
 }
