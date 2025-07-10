@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-10T09:31:00.139Z",
+  "lastUpdated": "2025-07-10T10:30:46.335Z",
   "articles": [
+    {
+      "title": "UK government abandons energy ‘zonal pricing’ plan",
+      "description": "&lt;p&gt;Proposal to vary electricity charges in England, Wales and Scotland based on location dropped in favour of ‘fair and affordable’ single price...",
+      "link": "https://www.theguardian.com/money/2025/jul/10/uk-government-abandons-energy-zonal-pricing-plan",
+      "pubDate": "Thu, 10 Jul 2025 09:45:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/31ed2c8052ac8d2bcdaf4133be73d7b3f29ee36a/338_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04f13a8875d39df05c0f07b677888a29"
+    },
+    {
+      "title": "I quit my job as an easyJet pilot because of the climate crisis. Here’s how we can transform aviation | George Hibberd",
+      "description": "&lt;p&gt;There’s no shortage of ideas for how to make air travel greener. But it has to start within the industry – and with workers&lt;/p&gt;&lt;ul&g...",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/10/pilot-climate-crisis-aviation-industry-flying",
+      "pubDate": "Thu, 10 Jul 2025 09:30:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cac6ec10707eba8f8330a0aefca4b3efcfe60635/613_0_1993_1596/master/1993.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffd9e66de2fe637f99b7a9403a213ab6"
+    },
+    {
+      "title": "Guilt Trip: pilots torn between flight and the fight for the planet - documentary",
+      "description": "&lt;p&gt;Commercial pilots George Hibberd and Todd Smith grapple with the reality of their dream jobs, torn between childhood ambitions of flying and ...",
+      "link": "https://www.theguardian.com/news/video/2025/jul/10/guilt-trip-pilots-torn-between-flight-and-the-fight-for-the-planet-documentary",
+      "pubDate": "Thu, 10 Jul 2025 09:28:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/925cc084b3f07af56db6a59ddfaa61f1dd8a2795/680_0_3030_2424/master/3030.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1879a58c8d9a1565a0983503b0486ad"
+    },
     {
       "title": "Democrats and climate groups ‘too polite’ in fight against ‘malevolent’ fossil fuel giants, says key senator",
       "description": "&lt;p&gt;Sheldon Whitehouse of Rhode Island gives 300th climate speech on the US Senate floor&lt;/p&gt;&lt;p&gt;The Democratic party and the climate m...",
@@ -36,15 +63,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/LNGAP23103769309937.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "UK government abandons energy ‘zonal pricing’ plan",
-      "description": "&lt;p&gt;Plan to split country into pricing zones dropped in favour of ‘fair and affordable’ single national price &lt;/p&gt;&lt;p&gt;The government h...",
-      "link": "https://www.theguardian.com/money/2025/jul/10/uk-government-abandons-energy-zonal-pricing-plan",
-      "pubDate": "Thu, 10 Jul 2025 08:04:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/31ed2c8052ac8d2bcdaf4133be73d7b3f29ee36a/338_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04f13a8875d39df05c0f07b677888a29"
     },
     {
       "title": "SURFERS ACROSS THE GLOBE PADDLE OUT TO DEFEND THE DEEP",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3159c3c16c8fb62b211fb51efd913518e55d08f5/176_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6fac96ebc4a76ea454d549b9158ce93"
-    },
-    {
-      "title": "New York City’s congestion pricing has cut pollution and traffic – but Trump still wants to kill it",
-      "description": "&lt;p&gt;With less congestion, less carbon pollution, less accidents, could it be a model for other US cities? Six months in, environmentalists say ye...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/09/new-york-city-congestion-pricing-trump",
-      "pubDate": "Wed, 09 Jul 2025 10:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/64c2447619ef0fd7597b6acedf9994dc16c28f05/0_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7467c1b4d74d3fc7fc4475afa986dfa"
-    },
-    {
-      "title": "AI Can Help Limit the Spread of Misinformation During Natural Disaster, Study Finds",
-      "description": "By the third day after the levees broke in August 2005, misinformation in New Orleans about lawlessness and looting was rampant. It became so pervasiv...",
-      "link": "https://insideclimatenews.org/news/09072025/ai-could-limit-natural-disaster-misinformation/",
-      "pubDate": "Wed, 09 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
