@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2025-07-11T08:36:13.592Z",
+  "lastUpdated": "2025-07-11T09:30:01.463Z",
   "articles": [
+    {
+      "title": "Mystery interstellar object could be oldest known comet",
+      "description": "Scientists have been racing to discover the origins of 3I/Atlas since it was spotted last week....",
+      "link": "https://www.bbc.com/news/articles/cx23g5jpj9go",
+      "pubDate": "Fri, 11 Jul 2025 09:01:03 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Toxic Pfas above proposed safety limits in almost all English waters tested",
+      "description": "&lt;p&gt;Exclusive: 110 of 117 bodies of water tested by Environment Agency would fail standards, with levels in fish 322 times the planned limit&lt;/...",
+      "link": "https://www.theguardian.com/environment/2025/jul/11/toxic-pfas-above-proposed-safety-limits-in-almost-all-english-waters-tested",
+      "pubDate": "Fri, 11 Jul 2025 09:00:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a079421a8c3ec5f87d647deca4e6d84e1563856f/585_21_4226_3380/master/4226.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1d2f521ef67ce6330220fb8ffef31c0"
+    },
+    {
+      "title": "Week in wildlife: a flying vole, a Wimbledon wagtail and some lovebugs",
+      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/jul/11/week-in-wildlife-flying-vole-wimbledon-wagtail-lovebugs",
+      "pubDate": "Fri, 11 Jul 2025 09:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/58ae0bdf60c383282b42fca4512e64d0f0a82c45/0_0_3250_2600/master/3250.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29daa1308ede3d7917a12e47b9d3d5f1"
+    },
+    {
+      "title": "Illinois Lawmakers Vote to Limit Carbon Sequestration Near a Major Aquifer",
+      "description": "A bill passed by the Illinois legislature could slow the growth of carbon sequestration proposals—and proposals, in particular, for projects located n...",
+      "link": "https://insideclimatenews.org/news/11072025/illinois-lawmakers-vote-to-limit-carbon-sequestration-near-a-major-aquifer/",
+      "pubDate": "Fri, 11 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Brazil’s Last Asbestos Miners Are Switching To Rare Earth Minerals. Can They Offer a Brighter Future?",
+      "description": "This report is a partnership between Agência Pública and the Guardian. Read it in Portuguese here. Minaçu, a small city in inland Brazil and home to t...",
+      "link": "https://insideclimatenews.org/news/11072025/brazil-asbestos-mines-rare-earth-minerals-transition/",
+      "pubDate": "Fri, 11 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Detection of fire ants in Queensland 800km from closest infestation sparks fury over gaps in eradication funding",
+      "description": "&lt;p&gt;Businesses and industry urged to stay alert after invasive species discovered at coalmine in Moranbah, about 150km inland from Mackay&lt;/p&g...",
+      "link": "https://www.theguardian.com/environment/2025/jul/11/detection-of-fire-ants-in-queensland-800km-from-closest-infestation-sparks-fury-over-gaps-in-eradication-funding",
+      "pubDate": "Fri, 11 Jul 2025 08:45:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6705eb08c389700d40471ac31a240f5fc7e09ba4/540_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1042baa1cb3032a3744f9d426e562c1d"
+    },
+    {
+      "title": "Seeing fewer fireflies this year? Here&#8217;s why, and how you can help.",
+      "description": "Fireflies are vulnerable to climate change and habitat loss. Some simple landscaping tricks and turning off porch lights can make a big difference. ...",
+      "link": "https://grist.org/science/seeing-fewer-fireflies-this-year-heres-why-and-how-you-can-help/",
+      "pubDate": "Fri, 11 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/smo-07-e1751911585873.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "The oceans may contain much, much more plastic than previously thought",
       "description": "A new study finds there are 27 million metric tons of invisible plastic particles in the North Atlantic alone....",
@@ -83,24 +146,6 @@
       "image": "https://i.guim.co.uk/img/media/15118474f58139106fad851dc9471f1b12314098/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4967ba81482f5d9c5c3a91afa3c7f3a3"
     },
     {
-      "title": "South West Water allowed to invest £24m rather than pay £19m fine",
-      "description": "&lt;p&gt;Campaigners say Ofwat ‘subservient to industry and its rampaging pursuit of profit’ after illegal sewage discharges&lt;/p&gt;&lt;p&gt;South W...",
-      "link": "https://www.theguardian.com/business/2025/jul/10/south-west-water-allowed-to-invest-24m-rather-than-pay-19m-fine",
-      "pubDate": "Thu, 10 Jul 2025 14:04:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/726de2449d58149db5ef91e55c67502f72610454/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed9cdbd5e80b181d2f2a3c3583974619"
-    },
-    {
-      "title": "Scottish households urged to cut water use as climate crisis limits supplies",
-      "description": "&lt;p&gt;Scottish Water boss says average Scot uses 40% more water than people in Yorkshire partly due to mistaken belief water is abundant in Scotlan...",
-      "link": "https://www.theguardian.com/environment/2025/jul/10/scottish-households-urged-to-cut-water-use-as-climate-crisis-limits-supplies",
-      "pubDate": "Thu, 10 Jul 2025 13:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1543e8c9de3e7a9d923c272d7b7ced8dd151a149/744_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3dbefc384ce25707f65272c52c581fa4"
-    },
-    {
       "title": "Trump officials axed an online portal for its key climate report. Read it in full here",
       "description": "&lt;p&gt;Guardian makes legally mandated gold standard report widely available after administration deleted website&lt;/p&gt;&lt;p&gt;The future of th...",
       "link": "https://www.theguardian.com/us-news/2025/jul/10/national-climate-assessment-published",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5750291c774a3cdb158aae76443a1972d8b96cec/145_0_2698_2158/master/2698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d0fa39f6a900855b2d3eb10bc7ac5899"
-    },
-    {
-      "title": "New Mexico sues US air force over Pfas pollution from military base",
-      "description": "&lt;p&gt;High levels of Pfas stemming from the base have tainted water, damaged crops and poisoned cows in the area&lt;/p&gt;&lt;p&gt;The state of New...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/10/new-mexico-us-air-force-pfas",
-      "pubDate": "Thu, 10 Jul 2025 11:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/49824ee014313cd74228ee76bd670f31f11c278f/156_0_5055_4045/master/5055.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4fbdbf7902273da87609158535d19d2"
-    },
-    {
-      "title": "Climate anxiety meant I could no longer work as a pilot. But I love flying – and I know we can transform aviation | George Hibberd",
-      "description": "&lt;p&gt;There’s no shortage of ideas for how to make air travel greener. But it has to start within the industry – and with workers&lt;/p&gt;&lt;ul&g...",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/10/pilot-climate-crisis-aviation-industry-flying",
-      "pubDate": "Thu, 10 Jul 2025 09:30:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cac6ec10707eba8f8330a0aefca4b3efcfe60635/613_0_1993_1596/master/1993.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffd9e66de2fe637f99b7a9403a213ab6"
-    },
-    {
-      "title": "Guilt Trip: pilots torn between flight and the fight for the planet - documentary",
-      "description": "&lt;p&gt;Commercial pilots George Hibberd and Todd Smith grapple with the reality of their dream jobs, torn between childhood ambitions of flying and ...",
-      "link": "https://www.theguardian.com/news/video/2025/jul/10/guilt-trip-pilots-torn-between-flight-and-the-fight-for-the-planet-documentary",
-      "pubDate": "Thu, 10 Jul 2025 09:28:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/925cc084b3f07af56db6a59ddfaa61f1dd8a2795/680_0_3030_2424/master/3030.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1879a58c8d9a1565a0983503b0486ad"
-    },
-    {
-      "title": "Democrats and climate groups ‘too polite’ in fight against ‘malevolent’ fossil fuel giants, says key senator",
-      "description": "&lt;p&gt;Sheldon Whitehouse of Rhode Island gives 300th climate speech on the US Senate floor&lt;/p&gt;&lt;p&gt;The Democratic party and the climate m...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/10/sheldon-whitehouse-fossil-fuels",
-      "pubDate": "Thu, 10 Jul 2025 09:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/074b6098986ecf643ca557eccf6b7ba28a1eb2b3/0_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd95da6265d2f1879c693af6aa5022a4"
-    },
-    {
-      "title": "In the Sweltering Southwest, Planting Solar Panels in Farmland Can Help Both Photovoltaics and Crops",
-      "description": "“We were getting basil leaves the size of your palm,” University of Arizona researcher Greg Barron-Gafford said, describing some of the benefits he an...",
-      "link": "https://insideclimatenews.org/news/10072025/agrivoltaic-solar-southwest-farmland/",
-      "pubDate": "Thu, 10 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
