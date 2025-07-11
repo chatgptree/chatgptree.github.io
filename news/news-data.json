@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-11T16:34:18.538Z",
+  "lastUpdated": "2025-07-11T17:25:05.961Z",
   "articles": [
+    {
+      "title": "Wildfires force evacuations at two national parks in the US west",
+      "description": "&lt;p&gt;Visitors and staff at Arizona’s Grand Canyon and Colorado’s Black Canyon national park were evacuated &lt;/p&gt;&lt;p&gt;Visitors and staff a...",
+      "link": "https://www.theguardian.com/environment/2025/jul/11/wildfires-evacuations-grand-canyon",
+      "pubDate": "Fri, 11 Jul 2025 17:04:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ab59b2cc4228f5d5e05e89efa776d6b6b32aeb4d/598_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f93ddb574dc5cd2194161aee56a08b0a"
+    },
     {
       "title": "US pollution measurement practices raise questions about reliability of data",
       "description": "&lt;p&gt;Guardian analysis heightens concerns on whether the air around many large factories is, or will be, safe to breathe&lt;/p&gt;&lt;p&gt;A Guard...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b1dd8fb8e21774f1837db6c3b5111f38a17f28b3/263_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=365e982e4f333529798eec7dc36d24c9"
-    },
-    {
-      "title": "It Just Got Easier to Build Nuclear Power Plants in Wisconsin",
-      "description": "Nuclear power was one of the few zero-emissions electricity sources whose federal tax incentives remained mostly intact last week following President ...",
-      "link": "https://insideclimatenews.org/news/10072025/inside-clean-energy-wisconsin-nuclear-power-bill/",
-      "pubDate": "Thu, 10 Jul 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
