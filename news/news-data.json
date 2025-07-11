@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-11T21:26:02.035Z",
+  "lastUpdated": "2025-07-11T22:27:25.187Z",
   "articles": [
+    {
+      "title": "What Risks Texas’ Grid Faces",
+      "description": "Texas’ independent electric grid has transformed in recent years with the significant addition of wind, solar and battery storage facilities, and face...",
+      "link": "https://insideclimatenews.org/news/11072025/what-risks-texas-grid-faces/",
+      "pubDate": "Fri, 11 Jul 2025 22:15:21 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California Congressman Vows to Challenge Trump’s ‘Big Ugly Bill’",
+      "description": "A week after the Republican-led House sent its $4 trillion budget bill to President Donald Trump, California Rep. Mark DeSaulnier vowed to fight the m...",
+      "link": "https://insideclimatenews.org/news/11072025/california-congressman-vows-to-challenge-trumps-big-ugly-bill/",
+      "pubDate": "Fri, 11 Jul 2025 21:34:36 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why Calling the Texas Flooding ‘An Act of God’ Is a Dangerous Form of Political Denial",
+      "description": "In the aftermath of the catastrophic flooding in Texas last week, government officials from President Donald Trump to the governor of Texas to county ...",
+      "link": "https://insideclimatenews.org/news/11072025/why-calling-the-texas-flooding-an-act-of-god-is-a-dangerous-form-of-political-denial/",
+      "pubDate": "Fri, 11 Jul 2025 21:31:50 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Inside New Orleans&#8217; plan to fix its energy-hogging buildings",
       "description": "The city's climate goals include cutting greenhouse gas emissions in half by 2035....",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Zonal pricing is dead. Now Miliband should be less absolutist on his 2030 goals | Nils Pratley",
-      "description": "&lt;p&gt;The imperative ought to be to bear down on costs for consumers, starting with a more pragmatic approach to generation targets&lt;/p&gt;&lt;p&...",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/10/zonal-pricing-energy-ed-miliband-2030-targets",
-      "pubDate": "Thu, 10 Jul 2025 18:36:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ec7f54871986a166b07583dcce2021b1674b9553/298_0_3640_2912/master/3640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3984d57820c45f4c2cae6f584ea5961f"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Solutions to plastic waste from creating cleaner products to cleaning up ocean litter....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002fljl",
-      "pubDate": "Thu, 10 Jul 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s inaugural fund received $19m from fossil fuel industry, analysis shows",
-      "description": "&lt;p&gt;President raised $239m for inauguration – more than previous three inaugural committees took in combined&lt;/p&gt;&lt;p&gt;The fossil fuel in...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/10/trump-inaugural-fund-fossil-fuel-industry",
-      "pubDate": "Thu, 10 Jul 2025 15:00:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/15118474f58139106fad851dc9471f1b12314098/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4967ba81482f5d9c5c3a91afa3c7f3a3"
     }
   ]
 }
