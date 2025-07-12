@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-12T08:32:26.278Z",
+  "lastUpdated": "2025-07-12T09:26:26.866Z",
   "articles": [
+    {
+      "title": "As Deadly Floods Hit America, a Meteorologist Looks Ahead",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Aynsley O’Neill with meteorologist Sean Su...",
+      "link": "https://insideclimatenews.org/news/12072025/as-deadly-floods-hit-america-a-meteorologist-looks-ahead/",
+      "pubDate": "Sat, 12 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Michigan Environmental Groups Argue Line 5 Tunnel Project Lacks Key Climate Considerations",
+      "description": "Groups submitting comments on the latest stage of the Line 5 oil pipeline project in Michigan argue the U.S. Army Corps of Engineers has failed to com...",
+      "link": "https://insideclimatenews.org/news/12072025/michigan-environmental-groups-argue-line-5-tunnel-project-lacks-key-climate-considerations/",
+      "pubDate": "Sat, 12 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Water Utility Says It Can’t Meet Demand for Alabama Data Center Without ‘Significant Upgrades’",
+      "description": "BESSEMER, Ala.—Developers of a proposed hyperscale data center may find themselves lacking a resource essential for the operation of what would be one...",
+      "link": "https://insideclimatenews.org/news/12072025/bessemer-alabama-water-utility-data-center-upgrades/",
+      "pubDate": "Sat, 12 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Risotto rice under threat from flamingoes in north-eastern Italy",
       "description": "&lt;p&gt;Farmers are seeking ways to fend off birds who are stirring up soil in flooded paddy fields in Ferrara province&lt;/p&gt;&lt;p&gt;An unusual ...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/Pelagia-ship.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "It’s 12ft tall, covered in feathers and has been extinct for 600 years – can the giant moa bird really be resurrected?",
-      "description": "&lt;p&gt;Colossal Bioscience is adding the extinct animal to its revival wishlist, joining the woolly mammoth, dodo and thylacine. But scepticism is g...",
-      "link": "https://www.theguardian.com/environment/2025/jul/11/de-extinction-extinct-giant-moa-bird-colossal-bioscience-aoe",
-      "pubDate": "Fri, 11 Jul 2025 04:00:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3a9067163d721c524a82a7cde8ebe214ba0726cc/56_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2df3929777bad93d7cd3ee373f77ea74"
-    },
-    {
-      "title": "Welcome to Prime Day, when thousands of product thumbnails blur together to form a giant pile of garbage | Anna Spargo-Ryan",
-      "description": "&lt;p&gt;I love a sale – but scrolling the list of Amazon’s deals is overwhelming to the point of delirium&lt;/p&gt;&lt;p&gt;I’m a simple girl. My ide...",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/11/prime-day-2025-sales-australia-amazon-deals-overwhelm",
-      "pubDate": "Fri, 11 Jul 2025 00:17:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/48bea6fd2ddcf935b34d41e6ca8c8600dfe11fc1/455_36_4274_3420/master/4274.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d89e396a518b411c5e72d00c9a383694"
-    },
-    {
-      "title": "Despite Catastrophic Flooding, Drought Persists in Parts of Central Texas",
-      "description": "Long-term drought persists in Texas despite catastrophic flooding that hit parts of the state last week. The torrential rainfall, which killed at leas...",
-      "link": "https://insideclimatenews.org/news/10072025/despite-catastrophic-flooding-drought-persists-in-parts-of-central-texas/",
-      "pubDate": "Thu, 10 Jul 2025 22:39:22 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
