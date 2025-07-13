@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-13T07:27:14.722Z",
+  "lastUpdated": "2025-07-13T08:32:29.353Z",
   "articles": [
     {
       "title": "On Country: photography from Australia 2025 – in pictures",
@@ -81,6 +81,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cc0ca68c0e51e6a08c79810bd3b18b51330ac876/1077_0_3700_2962/master/3700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=273e49511198bd5124659b9f14cc38ab"
+    },
+    {
+      "title": "Med Sea heatwave might feel nice for holiday swimming but there's a catch",
+      "description": "Sea temperatures around places like Majorca exceeded 30C earlier this month, far above average. ...",
+      "link": "https://www.bbc.com/news/articles/c4g2v1l7j6yo",
+      "pubDate": "Sat, 12 Jul 2025 00:33:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "What Risks Texas’ Grid Faces",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/58ae0bdf60c383282b42fca4512e64d0f0a82c45/0_0_3250_2600/master/3250.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29daa1308ede3d7917a12e47b9d3d5f1"
-    },
-    {
-      "title": "Illinois Lawmakers Vote to Limit Carbon Sequestration Near a Major Aquifer",
-      "description": "A bill passed by the Illinois legislature could slow the growth of carbon sequestration proposals—and proposals, in particular, for projects located n...",
-      "link": "https://insideclimatenews.org/news/11072025/illinois-lawmakers-vote-to-limit-carbon-sequestration-near-a-major-aquifer/",
-      "pubDate": "Fri, 11 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
