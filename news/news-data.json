@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-13T22:26:22.648Z",
+  "lastUpdated": "2025-07-13T23:26:47.174Z",
   "articles": [
+    {
+      "title": "Australia news live: adopting antisemitism definition would be ‘disaster’, says author who helped draft it; second blaze at Sydney childcare chain",
+      "description": "&lt;p&gt;Kenneth Stern, the director of the US-based Bard Center for the Study of Hate, has responded to Australia considering the adoption of a worki...",
+      "link": "https://www.theguardian.com/australia-news/live/2025/jul/14/australia-news-live-anthony-albanese-china-nsw-koala-deaths-greens-ntwnfb",
+      "pubDate": "Sun, 13 Jul 2025 23:11:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2cdf9ff5ddaac616b48e0fe14697e79bcee93560/259_0_6330_5067/master/6330.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb541e43f36e049de8abec8bce8d8a7b"
+    },
+    {
+      "title": "Extreme weather is the UK's new normal, says Met Office",
+      "description": "The UK has a notably different climate compared with just a few decades ago, the Met Office says....",
+      "link": "https://www.bbc.com/news/articles/c74w1gyd7mko",
+      "pubDate": "Sun, 13 Jul 2025 23:09:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Wildfires destroy historic lodge on Grand Canyon’s North Rim, park says",
       "description": "&lt;p&gt;Grand Canyon Lodge consumed by two wildfires that have burned more than 45,000 acres in area&lt;/p&gt;&lt;p&gt;The historic Grand Canyon Lodg...",
@@ -9,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/37affff1c9180baf5cc8478a59d396f2493be37e/0_0_2169_1735/master/2169.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c8a922e60e4e590d45dfc03edbff1aa"
-    },
-    {
-      "title": "Australia news live: Albanese to raise concerns over Chinese steel dumping; Grace Kim wins golf major in miraculous finish",
-      "description": "&lt;p&gt;Prime minister knows Australian miners – and government revenue streams – are vulnerable to downturn in iron ore price. Follow today’s news l...",
-      "link": "https://www.theguardian.com/australia-news/live/2025/jul/14/australia-news-live-anthony-albanese-china-nsw-koala-deaths-greens-ntwnfb",
-      "pubDate": "Sun, 13 Jul 2025 21:58:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/91cf8e4f84df6989d221746daeed961eca53a6e5/374_0_6342_5074/master/6342.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c424425fad8a40cca709752acb138682"
     },
     {
       "title": "Heavy rain in Texas halts rescue efforts as officials warn of further flooding",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/478a084df4357d31ef80bafd08bff0c58287e578/809_0_1735_1388/master/1735.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc6ac90a82c2c416bc3f6d868cfe40ee"
-    },
-    {
-      "title": "Med Sea heatwave might feel nice for holiday swimming but there's a catch",
-      "description": "Sea temperatures around places like Majorca exceeded 30C earlier this month, far above average. ...",
-      "link": "https://www.bbc.com/news/articles/c4g2v1l7j6yo",
-      "pubDate": "Sat, 12 Jul 2025 00:33:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
