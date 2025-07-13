@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-13T11:21:59.062Z",
+  "lastUpdated": "2025-07-13T12:52:33.979Z",
   "articles": [
+    {
+      "title": "Some gut microbes can absorb and help expel ‘forever chemicals’ from the body, research shows",
+      "description": "&lt;p&gt;Previously, the only way to reduce levels of Pfas was by bloodletting or a drug with unpleasant side effects&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2025/jul/13/pfas-gut-microbes-forever-chemicals",
+      "pubDate": "Sun, 13 Jul 2025 12:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cb190020d8d605146ff7b3acf58b552456d2f578/820_678_2114_1691/master/2114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b1424b3d3b531d0cfb2e49b55038d0"
+    },
     {
       "title": "There was a deal to fix this Alabama community’s raw sewage crisis. Trump tore it up over DEI",
       "description": "&lt;p&gt;Residents of Alabama’s Lowndes county are still fighting for basic sanitation after Trump’s DoJ canceled a landmark Biden-era agreement&lt;/p...",
@@ -8,7 +17,7 @@
       "pubDate": "Sun, 13 Jul 2025 11:00:38 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://i.guim.co.uk/img/media/f157a306a690df3ef8d6109f39f836c23ca2ae5b/388_0_3337_2670/master/3337.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e62f147ea298fb2f144bf0ddd6a6ef05"
     },
     {
       "title": "Baltimore’s Wetlands Restoration Pushes Ahead Despite Federal Funding Setbacks",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6a1b5fe3b9e0fe365e12bbf73d0f6e419207d5d0/293_0_2413_1931/master/2413.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f76dce48805ee4c8c895a98c44a3f9f8"
-    },
-    {
-      "title": "Mystery interstellar object could be oldest known comet",
-      "description": "Scientists have been racing to discover the origins of 3I/Atlas since it was spotted last week....",
-      "link": "https://www.bbc.com/news/articles/cx23g5jpj9go",
-      "pubDate": "Fri, 11 Jul 2025 11:06:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
