@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-13T10:29:22.921Z",
+  "lastUpdated": "2025-07-13T11:21:59.062Z",
   "articles": [
+    {
+      "title": "There was a deal to fix this Alabama community’s raw sewage crisis. Trump tore it up over DEI",
+      "description": "&lt;p&gt;Residents of Alabama’s Lowndes county are still fighting for basic sanitation after Trump’s DoJ canceled a landmark Biden-era agreement&lt;/p...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/13/alabama-raw-sewage-crisis-trump-dei",
+      "pubDate": "Sun, 13 Jul 2025 11:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Baltimore’s Wetlands Restoration Pushes Ahead Despite Federal Funding Setbacks",
       "description": "BALTIMORE—Gravel crunched underfoot as Brad Rogers and Andrew Forbes stepped onto a narrow strip carved along a portion of the Patapsco River shorelin...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump administration yanks $15m in research into Pfas on US farms: ‘not just stupid, it’s evil’",
-      "description": "&lt;p&gt;Pfas-laden pesticides and sewage sludge used as fertilizer move into crops and nearby water sources&lt;/p&gt;&lt;p&gt;The &lt;a href=\"https:/...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/11/trump-pfas-research-funding-farms",
-      "pubDate": "Fri, 11 Jul 2025 11:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cd2721d96b81449d9825a272aff73d50f0a89026/250_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10d923eaf0d49001585b8e8e9f595386"
     }
   ]
 }
