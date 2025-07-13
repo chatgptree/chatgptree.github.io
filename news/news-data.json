@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-13T12:52:33.979Z",
+  "lastUpdated": "2025-07-13T13:34:35.710Z",
   "articles": [
+    {
+      "title": "How US immigration raids hurt summer pleasures, from berries to barbecues",
+      "description": "&lt;p&gt;In the US, hardly a food is untouched by immigrant labor – and Ice raids will profoundly affect the food labor system&lt;/p&gt;&lt;p&gt;From ...",
+      "link": "https://www.theguardian.com/environment/2025/jul/13/ice-immigration-raids-food-labor",
+      "pubDate": "Sun, 13 Jul 2025 13:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d026f900c86e926939849b7cc4de7f7a116d2357/704_329_2525_2020/master/2525.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b076fbf9ceb7f2c73ad9bded98c8f6b"
+    },
+    {
+      "title": "How do I feel about air conditioning? I’m very hot – but it’s destroying the planet | Emma Beddington",
+      "description": "&lt;p&gt;Yes, temperatures are rising. But more and more AC means more and more CO&lt;sub&gt;2&lt;/sub&gt; – and then more and more global heating. Le...",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/13/air-conditioning-heat-destroying-planet",
+      "pubDate": "Sun, 13 Jul 2025 13:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5ac6201719ba8c1645390aa837ab797907db3ba6/1362_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=665188eebe5d34bf7cca3a832769cd15"
+    },
+    {
+      "title": "A heat wave hit New England’s grid. Clean energy saved the day.",
+      "description": "On the hottest day this year, behind-the-meter solar panels and a growing network of batteries helped prevent blackouts and saved consumers millions o...",
+      "link": "https://grist.org/energy/a-heat-wave-hit-new-englands-grid-clean-energy-saved-the-day/",
+      "pubDate": "Sun, 13 Jul 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/GettyImages-97151883h.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Some gut microbes can absorb and help expel ‘forever chemicals’ from the body, research shows",
       "description": "&lt;p&gt;Previously, the only way to reduce levels of Pfas was by bloodletting or a drug with unpleasant side effects&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/Cancer-Alley-with-cars.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Wildfires force evacuations at two national parks in the US west",
-      "description": "&lt;p&gt;Visitors and staff at Arizona’s Grand Canyon and Colorado’s Black Canyon national park were evacuated &lt;/p&gt;&lt;p&gt;Fire activity is inc...",
-      "link": "https://www.theguardian.com/environment/2025/jul/11/wildfires-evacuations-grand-canyon",
-      "pubDate": "Fri, 11 Jul 2025 20:09:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab59b2cc4228f5d5e05e89efa776d6b6b32aeb4d/598_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f93ddb574dc5cd2194161aee56a08b0a"
-    },
-    {
-      "title": "HSBC becomes first UK bank to quit industry’s net zero alliance",
-      "description": "&lt;p&gt;Campaigners condemn ‘troubling’ move that follows departure of six of largest US banks after Trump’s election&lt;/p&gt;&lt;p&gt;HSBC has beco...",
-      "link": "https://www.theguardian.com/business/2025/jul/11/hsbc-leaves-net-zero-banking-alliance-climate-crisis",
-      "pubDate": "Fri, 11 Jul 2025 17:38:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5d383d6524639dd74f7c8a48574562a40931af7e/116_0_3790_3033/master/3790.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93c9410927b5b0d5e96c049c75a4d168"
-    },
-    {
-      "title": "US pollution measurement practices raise questions about reliability of data",
-      "description": "&lt;p&gt;Guardian analysis heightens concerns on whether the air around many large factories is, or will be, safe to breathe&lt;/p&gt;&lt;p&gt;A Guard...",
-      "link": "https://www.theguardian.com/environment/2025/jul/11/air-pollution-data-accuracy",
-      "pubDate": "Fri, 11 Jul 2025 12:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6a1b5fe3b9e0fe365e12bbf73d0f6e419207d5d0/293_0_2413_1931/master/2413.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f76dce48805ee4c8c895a98c44a3f9f8"
     }
   ]
 }
