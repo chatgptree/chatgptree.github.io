@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-14T10:31:19.711Z",
+  "lastUpdated": "2025-07-14T11:24:37.309Z",
   "articles": [
+    {
+      "title": "A deadly 1987 flood foreshadowed the Texas disaster. Survivors ask, ‘why didn’t we learn?’",
+      "description": "&lt;p&gt;The Fourth of July tragedy was described as something no one could have seen coming. But in ‘flash flood alley’, an eerily similar event 40 y...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/14/texas-floods-early-warning-system",
+      "pubDate": "Mon, 14 Jul 2025 11:00:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7b5ac4d8a81d64cb01ea2facf5ceac8a89d8e0ed/216_0_2009_1608/master/2009.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c10050047fbaacb275e7ac4e7489144e"
+    },
+    {
+      "title": "Chicago Was Supposed to Warn Residents About Toxic Lead Pipes. It’s Barely Started",
+      "description": "This story is a partnership between Grist, Inside Climate News and WBEZ. This coverage is made possible through a partnership between Grist and WBEZ, ...",
+      "link": "https://insideclimatenews.org/news/14072025/chicago-was-supposed-to-warn-residents-about-toxic-lead-pipes-its-barely-started/",
+      "pubDate": "Mon, 14 Jul 2025 10:30:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Chicago was supposed to warn residents about toxic lead pipes last year. Most still have no idea.",
       "description": "Eight months past a federal deadline, more than 90 percent of at-risk Chicagoans haven’t been told their drinking water could be unsafe....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cb190020d8d605146ff7b3acf58b552456d2f578/820_678_2114_1691/master/2114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b1424b3d3b531d0cfb2e49b55038d0"
-    },
-    {
-      "title": "There was a deal to fix this Alabama community’s raw sewage crisis. Trump tore it up over DEI",
-      "description": "&lt;p&gt;Residents of Alabama’s Lowndes county are still fighting for basic sanitation after Trump’s DoJ canceled a landmark Biden-era agreement&lt;/p...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/13/alabama-raw-sewage-crisis-trump-dei",
-      "pubDate": "Sun, 13 Jul 2025 11:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f157a306a690df3ef8d6109f39f836c23ca2ae5b/388_0_3337_2670/master/3337.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e62f147ea298fb2f144bf0ddd6a6ef05"
-    },
-    {
-      "title": "Baltimore’s Wetlands Restoration Pushes Ahead Despite Federal Funding Setbacks",
-      "description": "BALTIMORE—Gravel crunched underfoot as Brad Rogers and Andrew Forbes stepped onto a narrow strip carved along a portion of the Patapsco River shorelin...",
-      "link": "https://insideclimatenews.org/news/13072025/baltimore-wetlands-restoration-federal-funding-setbacks/",
-      "pubDate": "Sun, 13 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
