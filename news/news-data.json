@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-14T15:30:53.781Z",
+  "lastUpdated": "2025-07-14T16:35:43.010Z",
   "articles": [
+    {
+      "title": "Air Pollution Can Speed Aging, New Study Finds, but Measuring Other Factors Is Challenging",
+      "description": "Delaying the aging process is a huge business, with anti-aging creams and brain health supplements claiming to slow physical and mental aging contribu...",
+      "link": "https://insideclimatenews.org/news/14072025/air-pollution-can-speed-aging/",
+      "pubDate": "Mon, 14 Jul 2025 15:59:01 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "More of England expected to enter drought status after hottest June on record",
       "description": "&lt;p&gt;Up to five areas could enter drought status and more hosepipe bans expected after three heatwaves and lack of rain &lt;/p&gt;&lt;p&gt;As many...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5ac6201719ba8c1645390aa837ab797907db3ba6/1362_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=665188eebe5d34bf7cca3a832769cd15"
-    },
-    {
-      "title": "A heat wave hit New England’s grid. Clean energy saved the day.",
-      "description": "On the hottest day this year, behind-the-meter solar panels and a growing network of batteries helped prevent blackouts and saved consumers millions o...",
-      "link": "https://grist.org/energy/a-heat-wave-hit-new-englands-grid-clean-energy-saved-the-day/",
-      "pubDate": "Sun, 13 Jul 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/GettyImages-97151883h.jpg?quality=75&#038;strip=all"
     }
   ]
 }
