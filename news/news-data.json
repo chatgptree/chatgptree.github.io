@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-07-13T23:26:47.174Z",
+  "lastUpdated": "2025-07-14T02:26:10.810Z",
   "articles": [
     {
-      "title": "Australia news live: adopting antisemitism definition would be ‘disaster’, says author who helped draft it; second blaze at Sydney childcare chain",
-      "description": "&lt;p&gt;Kenneth Stern, the director of the US-based Bard Center for the Study of Hate, has responded to Australia considering the adoption of a worki...",
+      "title": "Australia news live: Chalmers ‘relaxed’ about budget and housing targets after Treasury advice accidentally sent to ABC",
+      "description": "&lt;p&gt;Follow today’s news live&lt;/p&gt;&lt;p&gt;Authorities are appealing for information after a ‘suspicious’ fire at a childcare centre in Sydne...",
       "link": "https://www.theguardian.com/australia-news/live/2025/jul/14/australia-news-live-anthony-albanese-china-nsw-koala-deaths-greens-ntwnfb",
-      "pubDate": "Sun, 13 Jul 2025 23:11:41 GMT",
+      "pubDate": "Mon, 14 Jul 2025 02:12:17 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/2cdf9ff5ddaac616b48e0fe14697e79bcee93560/259_0_6330_5067/master/6330.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb541e43f36e049de8abec8bce8d8a7b"
+      "image": "https://i.guim.co.uk/img/media/ef6b4074e7ae13d785889d3000c43a091e5ad2ad/615_0_4841_3872/master/4841.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=347fc23400f9a2604243afdb88bec869"
+    },
+    {
+      "title": "Observatory marks 230 years of  recording weather",
+      "description": "The building holds the longest sequence of continuous weather data anywhere in the UK and Ireland....",
+      "link": "https://www.bbc.com/news/articles/c5yg4369pv0o",
+      "pubDate": "Sun, 13 Jul 2025 23:56:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Extreme weather is the UK's new normal, says Met Office",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Risotto rice under threat from flamingos in north-eastern Italy",
-      "description": "&lt;p&gt;Farmers are seeking ways to fend off birds who are stirring up soil in flooded paddy fields in Ferrara province&lt;/p&gt;&lt;p&gt;An unusual ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/12/risotto-rice-paddies-flamingoes-ferrara-italy",
-      "pubDate": "Sat, 12 Jul 2025 04:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/478a084df4357d31ef80bafd08bff0c58287e578/809_0_1735_1388/master/1735.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc6ac90a82c2c416bc3f6d868cfe40ee"
     }
   ]
 }
