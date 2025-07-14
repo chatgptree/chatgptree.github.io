@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-14T22:27:36.511Z",
+  "lastUpdated": "2025-07-14T23:25:36.790Z",
   "articles": [
+    {
+      "title": "Bessemer, Alabama, Could Face Legal Action Over Environmental Impacts From a ‘Hyperscale’ Data Center",
+      "description": "BESSEMER, Ala.—Do not move forward without more information.&#160; That’s the advice representatives of the Center for Biological Diversity have provi...",
+      "link": "https://insideclimatenews.org/news/14072025/bessemer-alabama-data-center-environmental-impact-potential-legal-action/",
+      "pubDate": "Mon, 14 Jul 2025 22:47:32 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Texas food banks are rationing meals for flood survivors because of Trump’s cuts",
       "description": "The July 4th flooding has become the first major disaster to expose the grave effects of Trump’s new food and hunger policies....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7e6bc6e3100b3f2df3cd60621fc3c43c2d0c2872/562_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2eea8e22b367499f72a7fe1e1aa265dc"
-    },
-    {
-      "title": "Observatory marks 230 years of  recording weather",
-      "description": "The building holds the longest sequence of continuous weather data anywhere in the UK and Ireland....",
-      "link": "https://www.bbc.com/news/articles/c5yg4369pv0o",
-      "pubDate": "Sun, 13 Jul 2025 23:56:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
