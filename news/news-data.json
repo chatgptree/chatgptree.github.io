@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-15T09:35:23.800Z",
+  "lastUpdated": "2025-07-15T10:30:55.667Z",
   "articles": [
+    {
+      "title": "Drought declared in Midlands after hot, dry weather takes its toll",
+      "description": "The East and West Midlands join the North West and Yorkshire in an official state of drought....",
+      "link": "https://www.bbc.com/news/articles/cx201001n79o",
+      "pubDate": "Tue, 15 Jul 2025 10:30:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump administration dashes hopes of anti-pollution plan for JD Vance’s home town",
+      "description": "&lt;p&gt;The $1.6bn Biden-era plan for a gas-powered blast furnace at a steel mill in Middletown, Ohio, is indefinitely on hold&lt;/p&gt;&lt;p&gt;A Bi...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/15/pollution-ohio-trump-administration",
+      "pubDate": "Tue, 15 Jul 2025 10:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b7f5785234fef252999cbd0b40ee15ed4c5492e2/479_0_4801_3840/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=607d117b6ff568b9a494381ab7eefb9a"
+    },
+    {
+      "title": "Republicans complain to Canada over wildfire smoke despite supporting planet-heating bill",
+      "description": "&lt;p&gt;Lawmakers send letter railing against ‘suffocating’ smoke days after voting for Trump plan likely to boost pollution&lt;/p&gt;&lt;p&gt;A grou...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/15/republicans-canada-wildfire-complaint-letter",
+      "pubDate": "Tue, 15 Jul 2025 10:00:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/907f81149f6cd38251aee918b9eb0e0a49baca33/204_0_2916_2333/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b235104547cf4dc0796b339b3e46863"
+    },
     {
       "title": "UK air pollution falling but danger levels still breached too often, say scientists",
       "description": "&lt;p&gt;NO&lt;sub&gt;2 &lt;/sub&gt;and PM2.5 levels down significantly since 2015 but climate crisis may be driving rise in harmful surface ozone&lt;...",
@@ -9,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4d57f8c19e5fe02ec2590a6dd72705bf1066cfe8/412_0_4117_3293/master/4117.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff564c3a01d8e0587d7deae1311d2f8e"
+    },
+    {
+      "title": "Illinois Communities Grapple With ‘Forever Chemicals’ in Their Drinking Water",
+      "description": "The warnings came in the mail this spring to 47 community water systems serving more than 400,000 Illinois residents: Elevated levels of harmful PFAS,...",
+      "link": "https://insideclimatenews.org/news/15072025/illinois-drinking-water-pfas-forever-chemicals/",
+      "pubDate": "Tue, 15 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "This fuel is 50% plastic — and it’s slipping through a loophole in international waste law",
@@ -101,15 +137,6 @@
       "image": "https://i.guim.co.uk/img/media/eeb0c74a137280369bb0c20f0d1192b94c31720d/688_0_3283_2627/master/3283.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9b7745a11c5fca88d20fb85830c64f0"
     },
     {
-      "title": "More of England likely to be declared in drought",
-      "description": "The National Drought Group meets on Tuesday morning after another hot, dry spell....",
-      "link": "https://www.bbc.com/news/articles/cx201001n79o",
-      "pubDate": "Tue, 15 Jul 2025 00:22:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "The fate of the Sycamore Gap tree has shed light on a deeper concern",
       "description": "The felling has prompted calls for stricter legal protections for other trees and drawn attention to wider issues...",
       "link": "https://www.bbc.com/news/articles/cnvmpz5qqe5o",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/crk661074ejo",
       "pubDate": "Mon, 14 Jul 2025 21:08:06 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Will there be a drought where I live?",
-      "description": "We take a look at river, reservoir and groundwater levels after a particularly dry few months....",
-      "link": "https://www.bbc.com/news/articles/crk661074ejo",
-      "pubDate": "Mon, 14 Jul 2025 21:08:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Texas camp leader waited over an hour after flood warning to evacuate",
-      "description": "&lt;p&gt;Camp Mystic leader, who died trying to save small children, waited over an hour after alert before starting evacuation&lt;/p&gt;&lt;ul&gt;&lt...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/14/texas-floods-girls-camp-evacuation-delay",
-      "pubDate": "Mon, 14 Jul 2025 20:30:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/83b6d81f888d9eed9c867a3f35bb2befb8555c33/1598_0_7922_6336/master/7922.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=439641c951035146c9dcc657a8e41ab2"
-    },
-    {
-      "title": "New Research Shows More Extreme Global Warming Impacts Looming for the Northeast",
-      "description": "A pair of new climate studies suggest an intensification of strong storms called nor’easters and other disruptive extremes affecting the East Coast of...",
-      "link": "https://insideclimatenews.org/news/14072025/northeast-global-warming-impacts-noreasters/",
-      "pubDate": "Mon, 14 Jul 2025 19:08:38 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
