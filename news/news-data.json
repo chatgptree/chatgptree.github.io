@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-15T08:37:37.180Z",
+  "lastUpdated": "2025-07-15T09:35:23.800Z",
   "articles": [
+    {
+      "title": "UK air pollution falling but danger levels still breached too often, say scientists",
+      "description": "&lt;p&gt;NO&lt;sub&gt;2 &lt;/sub&gt;and PM2.5 levels down significantly since 2015 but climate crisis may be driving rise in harmful surface ozone&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/jul/15/uk-air-pollution-falling-but-danger-levels-still-breached-too-often-say-scientists",
+      "pubDate": "Tue, 15 Jul 2025 09:00:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4d57f8c19e5fe02ec2590a6dd72705bf1066cfe8/412_0_4117_3293/master/4117.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff564c3a01d8e0587d7deae1311d2f8e"
+    },
+    {
+      "title": "This fuel is 50% plastic — and it’s slipping through a loophole in international waste law",
+      "description": "Environmental groups are concerned that rich countries are exporting plastic to poor countries in the form of “refuse-derived fuel.\"...",
+      "link": "https://grist.org/accountability/refuse-derived-fuel-plastic-waste-basel-convention/",
+      "pubDate": "Tue, 15 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/thailand-plastic-factory.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Torres Strait community leaders in ‘deepest pain imaginable’ as federal court dismisses landmark climate case",
       "description": "&lt;p&gt;Class action led by two community leaders argued government had legal duty of care to prevent or deal with damage linked to global heating&lt...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump officials address ‘chemtrails’ conspiracy theories while spreading misinformation, experts say",
-      "description": "&lt;p&gt;EPA’s move comes as it slashes climate research  funding and cuts weather forecasting and scientific agencies’ staff&lt;/p&gt;&lt;p&gt;Trump ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/14/trump-chemtrails-epa-conspiracy-theory",
-      "pubDate": "Mon, 14 Jul 2025 17:07:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/74a6cbccb9186fadf632bdd6f9b8a025ac761979/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3942702549e4a967e966d34020e3c115"
-    },
-    {
-      "title": "UK’s clean electricity growing too slowly to meet climate targets, report says",
-      "description": "&lt;p&gt;UK’s energy system operator forecasts emissions a third over target by 2035, in second official warning in a month&lt;/p&gt;&lt;p&gt;Britain ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/14/uks-clean-electricity-growing-too-slowly-to-meet-climate-targets",
-      "pubDate": "Mon, 14 Jul 2025 16:56:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/98da33a418289c6e13cdd0f8c60d78e5046e09dd/590_0_4410_3529/master/4410.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56badbfeaffc334337259577704eb679"
     }
   ]
 }
