@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-07-15T11:24:53.545Z",
+  "lastUpdated": "2025-07-15T12:58:26.212Z",
   "articles": [
     {
       "title": "Drought declared in Midlands after hot, dry weather takes its toll",
       "description": "The East and West Midlands join the North West and Yorkshire in an official state of drought....",
       "link": "https://www.bbc.com/news/articles/cx201001n79o",
-      "pubDate": "Tue, 15 Jul 2025 11:21:05 GMT",
+      "pubDate": "Tue, 15 Jul 2025 12:05:14 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Four areas of England now in drought as heat threatens wildlife and crops",
+      "description": "&lt;p&gt;Ministers call for hosepipe bans as East and West Midlands enter drought, joining Yorkshire and north-west&lt;/p&gt;&lt;p&gt;Four areas of En...",
+      "link": "https://www.theguardian.com/environment/2025/jul/15/four-areas-of-england-now-in-drought-as-hot-weather-threatens-wildlife-and-crops",
+      "pubDate": "Tue, 15 Jul 2025 11:34:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4fd9d1f3280c418796110a13e0841ff6e5ec69bb/273_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0146b059321a45e275589e8f19e76fe"
     },
     {
       "title": "Wildfires destroy historic lodge on Grand Canyon’s North Rim, park says",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/eeb0c74a137280369bb0c20f0d1192b94c31720d/688_0_3283_2627/master/3283.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9b7745a11c5fca88d20fb85830c64f0"
-    },
-    {
-      "title": "The fate of the Sycamore Gap tree has shed light on a deeper concern",
-      "description": "The felling has prompted calls for stricter legal protections for other trees and drawn attention to wider issues...",
-      "link": "https://www.bbc.com/news/articles/cnvmpz5qqe5o",
-      "pubDate": "Tue, 15 Jul 2025 00:04:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
