@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-16T11:25:02.063Z",
+  "lastUpdated": "2025-07-16T12:59:15.256Z",
   "articles": [
+    {
+      "title": "Southern Water issues hosepipe ban for 1m people in Hampshire and Isle of Wight",
+      "description": "&lt;p&gt;Announcement takes number of people hit by restrictions across England to about 8.5 million&lt;/p&gt;&lt;p&gt;Southern Water has become the f...",
+      "link": "https://www.theguardian.com/environment/2025/jul/16/southern-water-hosepipe-ban-hampshire-isle-of-wight",
+      "pubDate": "Wed, 16 Jul 2025 12:13:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4dea6069b617693a1d218da11e000f0c3b74c9ee/516_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5ea29d175d3a92de9f7a5727f082c5e"
+    },
     {
       "title": "UK government putting pressure on nature groups to drop opposition to planning bill",
       "description": "&lt;p&gt;Exclusive: Officials offering to amend bill if wildlife organisations stop campaigning against plans&lt;/p&gt;&lt;p&gt;The government is putt...",
@@ -47,15 +56,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Southern Water issues hosepipe ban for 1m people in Hampshire and Isle of Wight",
-      "description": "&lt;p&gt;Announcement takes number of people hit by restrictions across England to about 8.5 million&lt;/p&gt;&lt;p&gt;Southern Water has become the f...",
-      "link": "https://www.theguardian.com/environment/2025/jul/16/southern-water-hosepipe-ban-hampshire-isle-of-wight",
-      "pubDate": "Wed, 16 Jul 2025 09:23:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4dea6069b617693a1d218da11e000f0c3b74c9ee/516_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5ea29d175d3a92de9f7a5727f082c5e"
-    },
-    {
       "title": "Before Tropical Depression Chantal Swamped Hillsborough, the Town Had Been Counting on FEMA",
       "description": "HILLSBOROUGH, N.C.—About nine hours after Tropical Depression Chantal inundated central North Carolina last week, Jeff Mahagan’s phone woke him at 3 i...",
       "link": "https://insideclimatenews.org/news/16072025/hillsborough-north-carolina-canceled-fema-program-chantal-damage/",
@@ -83,7 +83,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How reducing the U.S. military budget would also reduce emissions",
+      "title": "How reducing the US military budget would also reduce emissions",
       "description": "New research shows that even with modest reductions in military funding, the United States would keep a whole lot of carbon out of the atmosphere....",
       "link": "https://grist.org/climate/how-reducing-the-us-military-budget-would-also-reduce-emissions/",
       "pubDate": "Wed, 16 Jul 2025 08:30:00 +0000",
