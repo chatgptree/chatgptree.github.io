@@ -1,11 +1,38 @@
 {
-  "lastUpdated": "2025-07-16T07:28:24.135Z",
+  "lastUpdated": "2025-07-16T08:37:21.529Z",
   "articles": [
+    {
+      "title": "How reducing the U.S. military budget would also reduce emissions",
+      "description": "New research shows that even with modest reductions in military funding, the United States would keep a whole lot of carbon out of the atmosphere....",
+      "link": "https://grist.org/climate/how-reducing-the-us-military-budget-would-also-reduce-emissions/",
+      "pubDate": "Wed, 16 Jul 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why flash flood warnings will continue to go unheeded",
+      "description": "Experts say local education and community support are key to conveying risk....",
+      "link": "https://grist.org/extreme-weather/flash-flood-warnings-cell-phones-texas/",
+      "pubDate": "Wed, 16 Jul 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Southern Water issues hosepipe ban across Hampshire and Isle of Wight",
+      "description": "&lt;p&gt;Restriction begins on Monday and follows announcement that four areas of England officially in drought&lt;/p&gt;&lt;p&gt;Southern Water has i...",
+      "link": "https://www.theguardian.com/environment/2025/jul/16/southern-water-hosepipe-ban-hampshire-isle-of-wight",
+      "pubDate": "Wed, 16 Jul 2025 07:58:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4dea6069b617693a1d218da11e000f0c3b74c9ee/516_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5ea29d175d3a92de9f7a5727f082c5e"
+    },
     {
       "title": "‘Inquisitive, relaxed’ humpback whale swimming in Sydney Harbour delays ferries and boats",
       "description": "&lt;p&gt;Whale is having a ‘full harbour experience’, says an expert aboard a maritime boat shadowing the supersized mammal&lt;/p&gt;&lt;ul&gt;&lt;li&...",
       "link": "https://www.theguardian.com/environment/2025/jul/16/humpback-whale-swimming-in-sydney-harbour-delays-ferries-and-boats",
-      "pubDate": "Wed, 16 Jul 2025 07:02:00 GMT",
+      "pubDate": "Wed, 16 Jul 2025 07:33:09 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2a97542c6983d8e3cb2af911e74a81b60a06461e/207_179_762_610/master/762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dd27d545dc652cab904ca2bc7bb8eef"
@@ -72,15 +99,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Death threats and falsehoods among online abuse reported by land and climate defenders",
-      "description": "&lt;p&gt;Survey across six continents uncovers accounts of abuse causing defenders to fear for their safety&lt;/p&gt;&lt;p&gt;Death threats, doxing an...",
-      "link": "https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders",
-      "pubDate": "Wed, 16 Jul 2025 04:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8475af78d80e57e1667a7355b8d83d3b8faa7196/723_356_4555_3644/master/4555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4dc4c60ef042ecc41fcb7e7a68b1c89"
     },
     {
       "title": "Trump Hails $90 Billion in Corporate Investment to Make Pennsylvania an AI Hub, Fueled by Natural Gas",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Drought declared in Midlands after hot, dry weather takes its toll",
-      "description": "The East and West Midlands join the North West and Yorkshire in an official state of drought....",
-      "link": "https://www.bbc.com/news/articles/cx201001n79o",
-      "pubDate": "Tue, 15 Jul 2025 14:09:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfires destroy historic lodge on Grand Canyon’s North Rim, park says",
-      "description": "&lt;p&gt;Grand Canyon Lodge consumed by two wildfires that have burned more than 45,000 acres in area&lt;/p&gt;&lt;p&gt;The historic Grand Canyon Lodg...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/13/wildfires-destroy-grand-canyon-lodge-north-rim",
-      "pubDate": "Tue, 15 Jul 2025 11:08:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8c0753fbd539ca0da19bce69ad14b03af93fe393/74_0_1505_1204/master/1505.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2336505e847f3b3630d2223b19aa1e68"
     }
   ]
 }
