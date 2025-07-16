@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-16T14:27:25.782Z",
+  "lastUpdated": "2025-07-16T15:31:30.982Z",
   "articles": [
+    {
+      "title": "US Department of Energy Grid Reliability Report Is Unreliable, Virginia Renewable Advocates Say",
+      "description": "Advocates for renewable energy in Virginia took aim at a report that the U.S. Department of Energy issued last week on the reliability and security of...",
+      "link": "https://insideclimatenews.org/news/16072025/energy-department-grid-reliability-report-dominion-coal/",
+      "pubDate": "Wed, 16 Jul 2025 15:22:47 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Inside the movement to recognize nature as an artist",
+      "description": "Musicians have long sampled nature sounds. Now, they have a way to share credit — and share their royalties with conservation efforts....",
+      "link": "https://grist.org/looking-forward/inside-the-movement-to-recognize-nature-as-an-artist/",
+      "pubDate": "Wed, 16 Jul 2025 15:19:23 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/0716_NatureSounds.jpg?quality=75&amp;strip=all&amp;w=900"
+    },
     {
       "title": "‘Our food, our heritage, our culture’: the chef highlighting Palestinian cuisine",
       "description": "&lt;p&gt;For Sami Tamimi, preparing the food of his homeland is an act of resilience and keeping his culture alive&lt;/p&gt;&lt;p&gt;Food is both deep...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Improving transparency in global fashion value chains",
-      "description": "Consultation underway for a GRI Sector Standard for textiles and apparel   A new sustainability reporting standard to advance accountability in one of...",
-      "link": "https://econews.com.au/67459/improving-transparency-in-global-fashion-value-chains/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=improving-transparency-in-global-fashion-value-chains",
-      "pubDate": "Wed, 16 Jul 2025 05:02:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "‘The place is bleached, a dead zone’: how the UK’s most beloved landscapes became biodiversity deserts",
-      "description": "&lt;p&gt;National parks, famous for their rich natural heritage, should be at the heart of efforts to protect habitats and wildlife. Instead, experts ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/16/dartmoor-is-dying-how-the-uks-national-parks-turned-into-biodiversity-deserts",
-      "pubDate": "Wed, 16 Jul 2025 04:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bc9a3e7444a81f92724c9007b8f90ace4532be6e/326_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62ab96fbf37166c345dfb21fbc93526d"
     }
   ]
 }
