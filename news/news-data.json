@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-17T13:45:41.226Z",
+  "lastUpdated": "2025-07-17T14:27:01.275Z",
   "articles": [
+    {
+      "title": "Cory Booker pitches bill to allow lawsuits against pesticide makers over ‘toxic products’",
+      "description": "&lt;p&gt;Pesticide Injury Accountability Act would ensure that Bayer, Syngenta and others can be held responsible for allegedly causing health issues&...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/17/cory-booker-pesticide-act",
+      "pubDate": "Thu, 17 Jul 2025 14:02:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/88d7072ac89d16f71aac36c520b271e9ab9f06bc/736_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3508dd72e20cfc4c550330a4718ac4e1"
+    },
     {
       "title": "Consumers (and a Utility) Get a Win in Ohio, While Data Centers Take the Loss",
       "description": "An Ohio utility has won an important fight over who assumes the financial risk of data centers, and the result may help guide decisions across the cou...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6c36339b498b65357a12dc2ddb76fd95dce91b6a/1240_417_4568_3654/master/4568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f7484df926886c39d48df12eba5be8e"
-    },
-    {
-      "title": "Virginia Governor Boosts Artificial Intelligence to Fill Jobs, Cut Regulations",
-      "description": "RESTON, Va.—Virginia’s state government is leaning into its use of artificial intelligence for workforce development and regulation cuts. It’s an ener...",
-      "link": "https://insideclimatenews.org/news/16072025/virginia-governor-youngkin-artificial-intelligence/",
-      "pubDate": "Wed, 16 Jul 2025 21:39:23 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
