@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-17T07:28:31.439Z",
+  "lastUpdated": "2025-07-17T08:37:24.540Z",
   "articles": [
+    {
+      "title": "USDA abruptly cancels rural energy grant application window",
+      "description": "It’s the latest setback for the longstanding REAP program, casting uncertainty over the future of a resource that helps farmers save on energy and ins...",
+      "link": "https://grist.org/food-and-agriculture/usda-abruptly-cancels-rural-energy-grant-application-window/",
+      "pubDate": "Thu, 17 Jul 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/solar-panel-farm.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Allegro Energy Positions Its Proprietary Long Duration Energy Storage as a Clean Power Backbone for Data Centres",
+      "description": "Allegro Co-Founder and CTO Fraser Hughson looks at one level of the battery for Origin Energy. Eventually this layer will be filled with orange batter...",
+      "link": "https://econews.com.au/67477/allegro-energy-positions-its-proprietary-long-duration-energy-storage-as-a-clean-power-backbone-for-data-centres/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=allegro-energy-positions-its-proprietary-long-duration-energy-storage-as-a-clean-power-backbone-for-data-centres",
+      "pubDate": "Thu, 17 Jul 2025 08:03:23 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Allegro-Logo-1024x380.png"
+    },
+    {
+      "title": "Proof over promises: Consumers demand action on sustainability, finds Burson report",
+      "description": "Backed by Burson’s AI-first innovation portfolio, the study uncovers sustainability conversations audiences crave and messages that deeply resonate ac...",
+      "link": "https://econews.com.au/67475/proof-over-promises-consumers-demand-action-on-sustainability-finds-burson-report/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=proof-over-promises-consumers-demand-action-on-sustainability-finds-burson-report",
+      "pubDate": "Thu, 17 Jul 2025 08:03:16 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
     {
       "title": "EPOC Enviro launch lean and nimble SAFF®10 PFAS remediation technology",
       "description": "Australian company EPOC Enviro today launched the SAFF®10, a compact new PFAS remediation technology developed in response to industry demand and engi...",
@@ -29,7 +56,7 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Soil-Health-1024x205.png"
     },
     {
-      "title": "Restaurant in China sparks concern after putting baby lion cuddles on menu",
+      "title": "Restaurant in China criticised for putting baby lion cuddles on menu",
       "description": "&lt;p&gt;Diners jump at chance to snuggle with cubs but wildlife experts accuse firm of ‘exploiting wild animals for selfies’&lt;/p&gt;&lt;p&gt;A rest...",
       "link": "https://www.theguardian.com/world/2025/jul/17/restaurant-china-baby-lion-cuddles-menu",
       "pubDate": "Thu, 17 Jul 2025 07:02:14 GMT",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/crk661074ejo",
       "pubDate": "Wed, 16 Jul 2025 09:27:56 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Will there be a drought where I live?",
-      "description": "We take a look at river, reservoir and groundwater levels after a particularly dry few months....",
-      "link": "https://www.bbc.com/news/articles/crk661074ejo",
-      "pubDate": "Wed, 16 Jul 2025 09:27:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Before Tropical Depression Chantal Swamped Hillsborough, the Town Had Been Counting on FEMA",
-      "description": "HILLSBOROUGH, N.C.—About nine hours after Tropical Depression Chantal inundated central North Carolina last week, Jeff Mahagan’s phone woke him at 3 i...",
-      "link": "https://insideclimatenews.org/news/16072025/hillsborough-north-carolina-canceled-fema-program-chantal-damage/",
-      "pubDate": "Wed, 16 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Off the Books: Maryland’s Clean Energy Push Ignores Backup Generator Pollution",
-      "description": "When thousands of gallons of diesel fuel spilled into Baltimore’s Inner Harbor from Johns Hopkins Hospital on June 4, it didn’t just contaminate the w...",
-      "link": "https://insideclimatenews.org/news/16072025/maryland-clean-energy-goals-ignore-fossil-fuel-generator-pollution/",
-      "pubDate": "Wed, 16 Jul 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
