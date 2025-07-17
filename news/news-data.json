@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-17T10:31:48.841Z",
+  "lastUpdated": "2025-07-17T11:25:21.336Z",
   "articles": [
+    {
+      "title": "US rivers are full of dumped tires. The ‘River Cowboy’ won’t stand for it",
+      "description": "&lt;p&gt;Tires take decades to decompose, and millions are improperly dumped every year. An intrepid group sets out to clear Kentucky’s ‘conveyor belt...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/17/kentucky-river-clean-up",
+      "pubDate": "Thu, 17 Jul 2025 11:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8df92696b8374c00c36f090840c1f690a42b1306/21_0_2005_1604/master/2005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c24978c7ec5f63172ed059cf35dc40cb"
+    },
     {
       "title": "Trump’s $1tn for Pentagon to add huge planet-heating emissions, study shows",
       "description": "&lt;p&gt;Exclusive: 17% increase in military spending will add emissions equivalent to those of some entire countries&lt;/p&gt;&lt;p&gt;Trump’s huge s...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Inside the movement to recognize nature as an artist",
-      "description": "Musicians have long sampled nature sounds. Now, they have a way to share credit — and share their royalties with conservation efforts....",
-      "link": "https://grist.org/looking-forward/inside-the-movement-to-recognize-nature-as-an-artist/",
-      "pubDate": "Wed, 16 Jul 2025 15:19:23 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/0716_NatureSounds.jpg?quality=75&amp;strip=all&amp;w=900"
     }
   ]
 }
