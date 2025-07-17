@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-17T14:27:01.275Z",
+  "lastUpdated": "2025-07-17T15:31:26.621Z",
   "articles": [
+    {
+      "title": "How Trump’s anti-immigrant policies could collapse the US food industry - visualized",
+      "description": "&lt;p&gt;The president is threatening to deport essential farm workers, grocery clerks and food delivery drivers. But without them, shelves could go e...",
+      "link": "https://www.theguardian.com/environment/2025/jul/17/how-many-immigrants-food-industry-workers",
+      "pubDate": "Thu, 17 Jul 2025 15:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8dd0743a7bb1b8daa93875df9226cb8dca451426/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6a8b2549e566015d246ecd70b3ff473"
+    },
+    {
+      "title": "30 Years After Chicago’s Deadliest Heat Wave, Systemic Racism Is Still the Root Problem",
+      "description": "CHICAGO—Cheryl Johnson was watching the news during the worst heat wave in her city’s history when she learned that a man she’d known since she was a ...",
+      "link": "https://insideclimatenews.org/news/17072025/30-years-after-chicagos-deadliest-heat-wave-systemic-racism-is-still-the-root-problem/",
+      "pubDate": "Thu, 17 Jul 2025 14:46:04 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cory Booker pitches bill to allow lawsuits against pesticide makers over ‘toxic products’",
       "description": "&lt;p&gt;Pesticide Injury Accountability Act would ensure that Bayer, Syngenta and others can be held responsible for allegedly causing health issues&...",
@@ -29,7 +47,7 @@
       "image": "https://i.guim.co.uk/img/media/4676f60220453780caa9585cd45415eb08799e58/453_0_2740_2193/master/2740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5778a1bf7eaeb68a9ae0bb127ab30002"
     },
     {
-      "title": "US rivers are full of dumped tires. The ‘River Cowboy’ won’t stand for it",
+      "title": "US waterways are full of dumped tires. The ‘River Cowboy’ won’t stand for it",
       "description": "&lt;p&gt;Tires take decades to decompose, and millions are improperly dumped every year. An intrepid group sets out to clear Kentucky’s ‘conveyor belt...",
       "link": "https://www.theguardian.com/us-news/2025/jul/17/kentucky-river-clean-up",
       "pubDate": "Thu, 17 Jul 2025 11:00:38 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "OSHA Just Reduced the Value of a Worker’s Life",
-      "description": "The Department of Labor announced “updates to penalty guidelines” to improve worker safety on Monday that it said will support small businesses and el...",
-      "link": "https://insideclimatenews.org/news/16072025/trumps-osha-slashes-fines-for-worker-safety-violations/",
-      "pubDate": "Wed, 16 Jul 2025 22:34:34 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ken Henry says Australia's environmental laws are 'broken' and should be rewritten - video",
-      "description": "&lt;p&gt;Using a speech to the National Press Club as a rallying cry to federal parliament to finally agree on a rewrite of the quarter-century old En...",
-      "link": "https://www.theguardian.com/environment/video/2025/jul/17/ken-henry-says-australias-environmental-laws-are-broken-and-should-be-rewritten-video",
-      "pubDate": "Wed, 16 Jul 2025 22:15:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6c36339b498b65357a12dc2ddb76fd95dce91b6a/1240_417_4568_3654/master/4568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f7484df926886c39d48df12eba5be8e"
     }
   ]
 }
