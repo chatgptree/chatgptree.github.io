@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-17T15:31:26.621Z",
+  "lastUpdated": "2025-07-17T16:35:51.563Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Science that makes living in our homes safer and cooler in a changing climate....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002fwqr",
+      "pubDate": "Thu, 17 Jul 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How Trump’s anti-immigrant policies could collapse the US food industry - visualized",
       "description": "&lt;p&gt;The president is threatening to deport essential farm workers, grocery clerks and food delivery drivers. But without them, shelves could go e...",
@@ -18,6 +27,15 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rodent wars: US city where ground squirrels outnumber people fights back",
+      "description": "&lt;p&gt;Residents of Minot, North Dakota, exasperated by proliferation of furry foot-long neighbors&lt;/p&gt;&lt;p&gt;The Richardson’s ground squirre...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/17/ground-squirrels-minot-north-dakota",
+      "pubDate": "Thu, 17 Jul 2025 14:37:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a5de86a2b323ae238376576c2e0212e84d2cc993/144_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0dc71dde5c4a9e44b2fda335a091a0d2"
     },
     {
       "title": "Cory Booker pitches bill to allow lawsuits against pesticide makers over ‘toxic products’",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0efa028f86ddeed3ab6ba8cbe0d815b8433144f0/0_1112_4443_3554/master/4443.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05cab80d62128d3a779f4d3d27fbbe33"
-    },
-    {
-      "title": "Tax on AI and crypto could fund climate action, says former Paris accords envoy",
-      "description": "&lt;p&gt;Laurence Tubiana urges governments to consider levies on energy-hungry technology&lt;/p&gt;&lt;p&gt;Governments should consider taxing artifi...",
-      "link": "https://www.theguardian.com/environment/2025/jul/17/tax-ai-crypto-climate-action-paris-accords-envoy-energy-technology",
-      "pubDate": "Thu, 17 Jul 2025 05:00:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/04ac67b54e51b378e18afe9a55efbf53d62aaea1/805_0_4009_3207/master/4009.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0256d280f6587b480b7aa83dabbcb941"
-    },
-    {
-      "title": "Bipartisan Cryptocurrency Legislation Will Fuel Further Environmental Destruction, Environmental Advocates Say",
-      "description": "Legislation currently making its way through Congress that proponents say will place much-needed guardrails on cryptocurrency will only exacerbate the...",
-      "link": "https://insideclimatenews.org/news/16072025/genius-act-cryptocurrency-legislation-environmental-impact/",
-      "pubDate": "Thu, 17 Jul 2025 00:25:42 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
