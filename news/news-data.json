@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-17T08:37:24.540Z",
+  "lastUpdated": "2025-07-17T09:32:26.507Z",
   "articles": [
+    {
+      "title": "In South Memphis, Elon Musk’s Colossus Operated Gas Turbines Without Appropriate Permits, Residents and Activists Claim",
+      "description": "The Shelby County Health Department in Memphis has approved an air quality permit that will allow Elon Musk's supercomputer facility—Colossus—to conti...",
+      "link": "https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/",
+      "pubDate": "Thu, 17 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Prominent Everglades Scientist Prepares for Jail Amid Bitter Legal Dispute with Former Employer",
+      "description": "A prominent scientist whose work has helped steer a restoration of the Everglades that is among the most ambitious of its kind in human history will s...",
+      "link": "https://insideclimatenews.org/news/17072025/everglades-scientist-tom-van-lent-prepares-for-jail/",
+      "pubDate": "Thu, 17 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "USDA abruptly cancels rural energy grant application window",
       "description": "It’s the latest setback for the longstanding REAP program, casting uncertainty over the future of a resource that helps farmers save on energy and ins...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/895ca6413f9875a69fb5d9389455f0445ad5f7a7/0_404_1500_1199/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad2af38aeea992656da8cd72e90b5019"
-    },
-    {
-      "title": "How climate crisis makes rainstorms that flooded New York more common",
-      "description": "&lt;p&gt;More than 2in of rain fell in an hour in the region, killing two people, and such storms are only going to intensify&lt;/p&gt;&lt;p&gt;Monday...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/16/new-york-floods-storm-climate-change",
-      "pubDate": "Wed, 16 Jul 2025 10:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4474687834ef4f979d7897c640f4bc46fb0d3a5f/114_0_2810_2248/master/2810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=947bba3942a46ff42c6941a01dc0becd"
-    },
-    {
-      "title": "Will there be a drought where I live?",
-      "description": "We take a look at river, reservoir and groundwater levels after a particularly dry few months....",
-      "link": "https://www.bbc.com/news/articles/crk661074ejo",
-      "pubDate": "Wed, 16 Jul 2025 09:27:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
