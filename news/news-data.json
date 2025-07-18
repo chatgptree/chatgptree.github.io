@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-18T02:24:32.926Z",
+  "lastUpdated": "2025-07-18T04:03:08.958Z",
   "articles": [
+    {
+      "title": "Unique 1.5m year-old ice to be melted to unlock mystery",
+      "description": "BBC News went inside -23C freezers to see the ice that could \"revolutionise\" our knowledge of climate change....",
+      "link": "https://www.bbc.com/news/articles/c5ygwd6yj28o",
+      "pubDate": "Fri, 18 Jul 2025 00:18:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "150 million years old and critically endangered: assassin spider stalks its prey – video",
       "description": "&lt;p&gt;The Kangaroo Island assassin spider’s only known home is in the north-west of the island off the coast of South Australia, where it hides out...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/solar-panel-farm.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Allegro Energy Positions Its Proprietary Long Duration Energy Storage as a Clean Power Backbone for Data Centres",
-      "description": "Allegro Co-Founder and CTO Fraser Hughson looks at one level of the battery for Origin Energy. Eventually this layer will be filled with orange batter...",
-      "link": "https://econews.com.au/67477/allegro-energy-positions-its-proprietary-long-duration-energy-storage-as-a-clean-power-backbone-for-data-centres/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=allegro-energy-positions-its-proprietary-long-duration-energy-storage-as-a-clean-power-backbone-for-data-centres",
-      "pubDate": "Thu, 17 Jul 2025 08:03:23 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Allegro-Logo-1024x380.png"
     }
   ]
 }
