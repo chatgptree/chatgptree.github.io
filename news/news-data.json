@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-18T20:30:17.838Z",
+  "lastUpdated": "2025-07-18T21:26:53.203Z",
   "articles": [
+    {
+      "title": "Former BP Spokesperson Is Now EPA Region 6 Chief of Staff",
+      "description": "Wynn Radford IV, chief of staff for the Environmental Protection Agency Region 6, previously worked as a spokesperson for the multinational oil compan...",
+      "link": "https://insideclimatenews.org/news/18072025/former-bp-spokesperson-joins-epa-region-6/",
+      "pubDate": "Fri, 18 Jul 2025 21:22:16 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on the cultural life of trees: we must protect our natural heritage | Editorial",
       "description": "&lt;p&gt;From Shakespeare to Radiohead, ancient woodlands have shaped the UK’s creative landscape. They deserve to be celebrated&lt;/p&gt;&lt;p&gt;If ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/00910e7a8c7a08248698f307ba39fd430ac4c615/313_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18004bc85b8b17f524abc9d61d1c2190"
-    },
-    {
-      "title": "EPA Tries to Stop Closure of Colorado Coal Plants After Meeting With Colorado Springs Utilities",
-      "description": "The U.S. Environmental Protection Agency informed Colorado Wednesday that the state could not close coal-fired power plants to improve air quality in ...",
-      "link": "https://insideclimatenews.org/news/17072025/epa-tries-to-stop-closure-of-colorado-coal-plants/",
-      "pubDate": "Thu, 17 Jul 2025 23:40:47 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
