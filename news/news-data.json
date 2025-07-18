@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-18T11:24:14.451Z",
+  "lastUpdated": "2025-07-18T12:59:18.618Z",
   "articles": [
+    {
+      "title": "Ofwat to be abolished as ministers look to create new water regulator",
+      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Watchdog has faced intense criticism over sewage spills, shareholder payouts and ballooning debts&lt;...",
+      "link": "https://www.theguardian.com/business/2025/jul/18/ofwat-to-be-abolished-as-ministers-explore-creating-new-water-regulator",
+      "pubDate": "Fri, 18 Jul 2025 12:22:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/388db29ffecdbdcc9d98c6c3d683491e284edfec/757_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3104576af083f82f777c7da6627059c"
+    },
     {
       "title": "US wetlands ‘restored’ using treated sewage tainted with forever chemicals",
       "description": "&lt;p&gt;Use of wastewater treatment plant effluent containing Pfas threatens wildlife, food and drinking water, advocates say&lt;/p&gt;&lt;p&gt;Many ...",
@@ -56,6 +65,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Analysts Expect More Oil and Gas Mergers. What Could That Mean for the Climate?",
+      "description": "Investor excitement after The Wall Street Journal reported recently that Shell was in early talks to acquire BP was quickly dampened by Shell’s outrig...",
+      "link": "https://insideclimatenews.org/news/18072025/oil-and-gas-mergers-bp-shell/",
+      "pubDate": "Fri, 18 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Standing Rock was an Indigenous-led movement. Why did Greenpeace take the fall?",
       "description": "The inside story of how Greenpeace stood with water protectors — and got hit with a $666 million court judgment....",
       "link": "https://grist.org/project/indigenous/standing-rock-greenpeace-slapp-lawsuit-dakota-access-pipeline-dapl/",
@@ -76,20 +94,11 @@
     {
       "title": "Trump is fast-tracking new coal mines &#8211; even when they don’t make economic sense",
       "description": "In Appalachian Tennessee, mines shut down and couldn't pay their debts. Now a new one is opening under the guise of an \"energy emergency.\"...",
-      "link": "https://grist.org/article/trump-is-fast-tracking-new-coal-mines-even-when-they-dont-make-economic-sense/",
+      "link": "https://grist.org/energy/trump-is-fast-tracking-new-coal-mines-even-when-they-dont-make-economic-sense/",
       "pubDate": "Fri, 18 Jul 2025 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Serious pollution incidents by English water companies rose 60% last year",
-      "description": "&lt;p&gt;Environment Agency records 75 serious incidents among total of 2,800, with Thames Water being worst offender&lt;/p&gt;&lt;p&gt;Serious pollut...",
-      "link": "https://www.theguardian.com/business/2025/jul/18/serious-pollution-incidents-englands-water-companies-data",
-      "pubDate": "Fri, 18 Jul 2025 08:27:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/50a1fc6dbabc72b018b9d40ed8511bb6b856f5ff/709_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c833950c8265e73013d999702aa5d2ff"
     },
     {
       "title": "Shocking imagery as over 6 tonnes of plastic pulled off remote Australian beaches, reignites call for Global Plastics Treaty",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/Texas-Flood-Recovery-Naveena-truck-tow.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Science that makes living in our homes safer and cooler in a changing climate....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002fwqr",
-      "pubDate": "Thu, 17 Jul 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
