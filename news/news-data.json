@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-18T07:29:12.223Z",
+  "lastUpdated": "2025-07-18T08:37:06.912Z",
   "articles": [
+    {
+      "title": "Trump is fast-tracking new coal mines &#8211; even when they don’t make economic sense",
+      "description": "In Appalachian Tennessee, mines shut down and couldn't pay their debts. Now a new one is opening under the guise of an \"energy emergency.\"...",
+      "link": "https://grist.org/article/trump-is-fast-tracking-new-coal-mines-even-when-they-dont-make-economic-sense/",
+      "pubDate": "Fri, 18 Jul 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Gas flaring created 389m tonnes of carbon pollution last year, report finds",
+      "description": "&lt;p&gt;Rules to prevent ‘enormous waste’ of fuel are seen as weak and poorly enforced and firms have little incentive to stop&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/environment/2025/jul/18/gas-flaring-created-389m-tonnes-carbon-pollution-last-year-report",
+      "pubDate": "Fri, 18 Jul 2025 08:23:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2719_2175/master/2719.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a12c6b07577af2e1da6b28089f8d2027"
+    },
+    {
+      "title": "Serious water pollution incidents up 60% in England, Environment Agency says",
+      "description": "Last year had the highest number of pollution events by water companies ever recorded....",
+      "link": "https://www.bbc.com/news/articles/cg5zl75dmm0o",
+      "pubDate": "Fri, 18 Jul 2025 08:22:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Shocking imagery as over 6 tonnes of plastic pulled off remote Australian beaches, reignites call for Global Plastics Treaty",
       "description": "Never-before-seen footage captured as 6.5 tonnes of pollution, almost all plastic, removed from just 8 km of remote coastline in Northern Australia Se...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/88d7072ac89d16f71aac36c520b271e9ab9f06bc/736_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3508dd72e20cfc4c550330a4718ac4e1"
-    },
-    {
-      "title": "Consumers (and a Utility) Get a Win in Ohio, While Data Centers Take the Loss",
-      "description": "An Ohio utility has won an important fight over who assumes the financial risk of data centers, and the result may help guide decisions across the cou...",
-      "link": "https://insideclimatenews.org/news/17072025/inside-clean-energy-ohio-data-centers-penalties/",
-      "pubDate": "Thu, 17 Jul 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Brazil passes ‘devastation bill’ that drastically weakens environmental law",
-      "description": "&lt;p&gt;President has 15 days to approve or veto legislation that critics say will lead to vast deforestation and destruction of Indigenous communiti...",
-      "link": "https://www.theguardian.com/world/2025/jul/17/brazil-passes-devastation-bill-that-drastically-weakens-environmental-law",
-      "pubDate": "Thu, 17 Jul 2025 11:25:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4676f60220453780caa9585cd45415eb08799e58/453_0_2740_2193/master/2740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5778a1bf7eaeb68a9ae0bb127ab30002"
-    },
-    {
-      "title": "US waterways are full of dumped tires. The ‘River Cowboy’ won’t stand for it",
-      "description": "&lt;p&gt;Tires take decades to decompose, and millions are improperly dumped every year. An intrepid group sets out to clear Kentucky’s ‘conveyor belt...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/17/kentucky-river-clean-up",
-      "pubDate": "Thu, 17 Jul 2025 11:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8df92696b8374c00c36f090840c1f690a42b1306/21_0_2005_1604/master/2005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c24978c7ec5f63172ed059cf35dc40cb"
     }
   ]
 }
