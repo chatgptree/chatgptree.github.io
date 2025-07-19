@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-19T13:35:27.627Z",
+  "lastUpdated": "2025-07-19T14:25:06.553Z",
   "articles": [
+    {
+      "title": "Trump’s EPA eliminates research and development office and begins layoffs",
+      "description": "&lt;p&gt;Administration’s move to cut thousands of agency jobs will be devastating for US public health, union warns&lt;/p&gt;&lt;p&gt;The Environment...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/19/trump-epa-layoffs-research-development",
+      "pubDate": "Sat, 19 Jul 2025 13:56:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4c77fbb90f68507ea7e82a5085726c9ce5e2e013/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7afebf3f5e5ce2f05f79982a81fee56c"
+    },
     {
       "title": "Exposure to a mix of pesticides raises risk of pregnancy complications, study suggests",
       "description": "&lt;p&gt;Research looks at health impacts of being exposed to multiple pesticides versus just one substance&lt;/p&gt;&lt;p&gt;Exposure to multiple pes...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Aust-Marine-logo.png"
-    },
-    {
-      "title": "Energy sector drives CCUS growth, accounting for over 70% of projects by end-2024, reveals GlobalData",
-      "description": "Carbon capture, utilization, and storage (CCUS) is rapidly emerging as a key solution in the global energy transition, offering a realistic path to de...",
-      "link": "https://econews.com.au/67481/energy-sector-drives-ccus-growth-accounting-for-over-70-of-projects-by-end-2024-reveals-globaldata/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=energy-sector-drives-ccus-growth-accounting-for-over-70-of-projects-by-end-2024-reveals-globaldata",
-      "pubDate": "Fri, 18 Jul 2025 06:03:17 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Global-carbon-capture-1024x549.png"
     }
   ]
 }
