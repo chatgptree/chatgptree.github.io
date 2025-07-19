@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-19T08:33:53.705Z",
+  "lastUpdated": "2025-07-19T09:27:24.253Z",
   "articles": [
+    {
+      "title": "What Trump’s Budget Cuts Mean for Disaster Preparedness",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Alice Hill, a senior fe...",
+      "link": "https://insideclimatenews.org/news/19072025/trump-budget-cuts-disaster-preparedness/",
+      "pubDate": "Sat, 19 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wyoming’s Crowded Lonesome Lake Tops EPA’s National Survey for Fecal Contamination",
+      "description": "This article was originally published by WyoFile, in partnership with The Water Desk at the University of Colorado Boulder's Center for Environmental ...",
+      "link": "https://insideclimatenews.org/news/19072025/wyoming-lonesome-lake-fecal-contamination/",
+      "pubDate": "Sat, 19 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Serious water pollution incidents up 60% in England, Environment Agency says",
       "description": "Last year had the highest number of pollution events by water companies ever recorded....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Week in wildlife: a hedgehog’s afternoon tea, royal cygnets and a snarling wolf",
-      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/jul/18/week-in-wildlife-a-hedgehogs-afternoon-tea-royal-cygnets-and-a-snarling-wolf",
-      "pubDate": "Fri, 18 Jul 2025 06:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/55e4738d0c6681bab30c5f804aee192af4e30cda/0_0_3250_2600/master/3250.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ce66c5995417690ea8a5ba8a31c333a"
-    },
-    {
-      "title": "Unique 1.5m year-old ice to be melted to unlock mystery",
-      "description": "BBC News went inside -23C freezers to see the ice that could \"revolutionise\" our knowledge of climate change....",
-      "link": "https://www.bbc.com/news/articles/c5ygwd6yj28o",
-      "pubDate": "Fri, 18 Jul 2025 00:18:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
