@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-19T18:36:35.383Z",
+  "lastUpdated": "2025-07-19T19:20:41.466Z",
   "articles": [
+    {
+      "title": "Trump’s EPA eliminates research and development office and begins layoffs",
+      "description": "&lt;p&gt;Administration’s move to cut thousands of agency jobs will be devastating for US public health, union warns&lt;/p&gt;&lt;p&gt;The Environment...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/19/trump-epa-layoffs-research-development",
+      "pubDate": "Sat, 19 Jul 2025 13:56:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4c77fbb90f68507ea7e82a5085726c9ce5e2e013/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7afebf3f5e5ce2f05f79982a81fee56c"
+    },
+    {
+      "title": "Exposure to a mix of pesticides raises risk of pregnancy complications, study suggests",
+      "description": "&lt;p&gt;Research looks at health impacts of being exposed to multiple pesticides versus just one substance&lt;/p&gt;&lt;p&gt;Exposure to multiple pes...",
+      "link": "https://www.theguardian.com/environment/2025/jul/19/pesticides-mix-pregnancy-complications-study",
+      "pubDate": "Sat, 19 Jul 2025 13:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ad275480ba3bea6dada0e420f87aa22b01f75f83/385_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37e1a7cde3f40a9f11a49d316cd09529"
+    },
     {
       "title": "The race to build solar and wind in New York before Trump’s tax credit deadline",
       "description": "Trump’s megabill gives wind and solar companies one year to put as many shovels in the ground as possible. They want New York officials to help....",
@@ -29,24 +47,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Ministers vow to tackle all forms of water pollution in England and Wales",
-      "description": "&lt;p&gt;Exclusive: Commitment comes as data shows serious pollution events involving water firms up by 60%&lt;/p&gt;&lt;p&gt;Ministers will take acti...",
-      "link": "https://www.theguardian.com/environment/2025/jul/19/ministers-tackle-water-pollution-england-wales",
-      "pubDate": "Sat, 19 Jul 2025 05:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a4bff55dd47780e72a71780b5a8ff158f17e786d/759_0_4271_3417/master/4271.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9954a0e038c94d034687ecb9d811724c"
-    },
-    {
-      "title": "Country diary: Farewell to my old cottage – we had some wild times | Michael White",
-      "description": "&lt;p&gt;&lt;strong&gt;Cranbrook, Kent:&lt;/strong&gt; Courting beetles in spring and ghoulish wasp larvae in late summer – it was their home every bi...",
-      "link": "https://www.theguardian.com/environment/2025/jul/19/country-diary-farewell-to-my-old-cottage-we-had-some-wild-times",
-      "pubDate": "Sat, 19 Jul 2025 04:30:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b99a42648a626938e02ac81970e176d681185eae/95_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1aa73cfe54a1b6a59a6bd17d9cf08940"
-    },
-    {
       "title": "Serious water pollution incidents up 60% in England, Environment Agency says",
       "description": "Last year had the highest number of pollution events by water companies ever recorded....",
       "link": "https://www.bbc.com/news/articles/cg5zl75dmm0o",
@@ -54,15 +54,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How to reduce your food footprint: if it’s better for you, it’s better for the planet",
-      "description": "&lt;p&gt;Curbing waste, eating a plant-rich diet and limiting ultra-processed food (and sadly, coffee and chocolate) will dramatically reduce your car...",
-      "link": "https://www.theguardian.com/australia-news/2025/jul/19/how-to-reduce-your-food-footprint-if-its-better-for-you-its-better-for-the-planet",
-      "pubDate": "Sat, 19 Jul 2025 00:00:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/44f28967a689425da7e3164bd1c3d278d51734b3/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04054a2653978207a861b83a946c99d5"
     },
     {
       "title": "Weeks After a Heat Wave Baked the US, Democrats Push to Declare Heat a Major Disaster",
@@ -101,22 +92,40 @@
       "image": "https://i.guim.co.uk/img/media/cd3eeb283038a2b8f9d73c2a679750106fccfce3/298_0_4898_3918/master/4898.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eca92c380d80ea9bcaefc61111840c65"
     },
     {
-      "title": "Turning over a new leaf: historic English gardens adapt to the changing climate",
-      "description": "&lt;p&gt;Head gardeners try out more diverse and drought-resistant plants from around the world, with fascinating results&lt;/p&gt;&lt;p&gt;Rare succu...",
-      "link": "https://www.theguardian.com/environment/2025/jul/18/gardens-future-uk-landscapers-switch-to-drought-resistant-planting-climate-changes",
-      "pubDate": "Fri, 18 Jul 2025 12:26:54 GMT",
+      "title": "Ofwat to be abolished as ministers look to create new water regulator",
+      "description": "&lt;p&gt;Watchdog has faced intense criticism over sewage spills, shareholder payouts and ballooning debts&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a...",
+      "link": "https://www.theguardian.com/business/2025/jul/18/ofwat-to-be-abolished-as-ministers-explore-creating-new-water-regulator",
+      "pubDate": "Fri, 18 Jul 2025 12:22:16 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/56a24a8092f1327db84da3f04286ae6c5a756787/170_0_4932_3948/master/4932.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eab2aa002a2fdafab0b264d845d6f5d6"
+      "image": "https://i.guim.co.uk/img/media/388db29ffecdbdcc9d98c6c3d683491e284edfec/757_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3104576af083f82f777c7da6627059c"
     },
     {
-      "title": "‘We’re the canary in the coalmine’: when will Russia take action on the climate?",
-      "description": "&lt;p&gt;World’s fourth-largest emitter of greenhouse gases pays lip service to tackling  climate crisis and, with fossil fuels central to regime’s le...",
-      "link": "https://www.theguardian.com/environment/2025/jul/18/when-will-russia-take-action-on-the-climate",
-      "pubDate": "Fri, 18 Jul 2025 11:00:50 GMT",
+      "title": "US wetlands ‘restored’ using treated sewage tainted with forever chemicals",
+      "description": "&lt;p&gt;Use of wastewater treatment plant effluent containing Pfas threatens wildlife, food and drinking water, advocates say&lt;/p&gt;&lt;p&gt;Many ...",
+      "link": "https://www.theguardian.com/environment/2025/jul/18/pfas-wetlands-wasterwater-effluent",
+      "pubDate": "Fri, 18 Jul 2025 11:00:49 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/944a6a2652b4e70357f50fde2675b08554d4ce23/0_0_5000_3000/master/5000.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72654362e8b859036ee67db811e2a8df"
+      "image": "https://i.guim.co.uk/img/media/2cd9a5fa367f3aece31d0f106adb7e20194143af/722_0_7217_5774/master/7217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e06bb3b024944f0e292f897b10b59281"
+    },
+    {
+      "title": "Labour MPs challenge Richard Tice over Reform UK’s plan to scrap green projects",
+      "description": "&lt;p&gt;Exclusive: Letter signed by 59 MPs criticises party’s deputy leader after his warning to energy firms over new contracts&lt;/p&gt;&lt;ul&gt;&...",
+      "link": "https://www.theguardian.com/politics/2025/jul/18/labour-mps-challenge-richard-tice-reform-u-plan-scrap-green-projects",
+      "pubDate": "Fri, 18 Jul 2025 10:52:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cc934b0698bac5e27bb97eca9d8fa2a7189da4f6/383_1044_5876_4701/master/5876.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8d837a3839020989d30cd7779619e2b"
+    },
+    {
+      "title": "Green groups fear business sector will dominate debate at Chalmers’ roundtable at environment’s expense",
+      "description": "&lt;p&gt;Current list of 24 invitees to next month’s economic reform summit includes only one environmental representative&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/australia-news/2025/jul/18/green-groups-fear-business-sector-will-dominate-debate-at-chalmers-roundtable-at-environments-expense",
+      "pubDate": "Fri, 18 Jul 2025 09:07:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0cd26fd4ba7cfbf25c8b0267a6c44b3c0a0155b6/536_0_5361_4289/master/5361.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c6f0d9b37d69b85ae8e17c0a36c437e"
     },
     {
       "title": "One Small Country, Nearly $20 Billion in Corporate Claims",
@@ -155,15 +164,6 @@
       "image": "https://grist.org/wp-content/uploads/2025/07/standing-rock-c1.webp?quality=75&amp;strip=all"
     },
     {
-      "title": "Britons urged to count butterfly numbers amid hopes of ‘outstanding’ summer",
-      "description": "&lt;p&gt;Big Butterfly Count asks volunteers to spend 15 minutes in local green space with big recovery expected after 2024’s dramatic decline&lt;/p&g...",
-      "link": "https://www.theguardian.com/environment/2025/jul/18/big-butterfly-count-uk-numbers-recovery",
-      "pubDate": "Fri, 18 Jul 2025 08:37:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1455f091c8102d5445d685eee2f4039ff7948c1c/148_0_2765_2213/master/2765.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=527a30dc68c681eb7b96bc1b4d4c99f5"
-    },
-    {
       "title": "Trump is fast-tracking new coal mines — even when they don’t make economic sense",
       "description": "In Appalachian Tennessee, mines shut down and couldn't pay their debts. Now a new one is opening under the guise of an \"energy emergency.\"...",
       "link": "https://grist.org/energy/trump-is-fast-tracking-new-coal-mines-even-when-they-dont-make-economic-sense/",
@@ -173,13 +173,13 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Gas flaring created 389m tonnes of carbon pollution last year, report finds",
-      "description": "&lt;p&gt;Rules to prevent ‘enormous waste’ of fuel are seen as weak and poorly enforced and firms have little incentive to stop&lt;/p&gt;&lt;p&gt;The ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/18/gas-flaring-created-389m-tonnes-carbon-pollution-last-year-report",
-      "pubDate": "Fri, 18 Jul 2025 08:23:18 GMT",
-      "sourceName": "theguardian.com",
+      "title": "Shocking imagery as over 6 tonnes of plastic pulled off remote Australian beaches, reignites call for Global Plastics Treaty",
+      "description": "Never-before-seen footage captured as 6.5 tonnes of pollution, almost all plastic, removed from just 8 km of remote coastline in Northern Australia Se...",
+      "link": "https://econews.com.au/67483/shocking-imagery-as-over-6-tonnes-of-plastic-pulled-off-remote-australian-beaches-reignites-call-for-global-plastics-treaty/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=shocking-imagery-as-over-6-tonnes-of-plastic-pulled-off-remote-australian-beaches-reignites-call-for-global-plastics-treaty",
+      "pubDate": "Fri, 18 Jul 2025 06:03:18 +0000",
+      "sourceName": "econews.com.au",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2719_2175/master/2719.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a12c6b07577af2e1da6b28089f8d2027"
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Aust-Marine-logo.png"
     }
   ]
 }
