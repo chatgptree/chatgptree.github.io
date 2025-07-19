@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-19T02:18:32.544Z",
+  "lastUpdated": "2025-07-19T03:56:29.192Z",
   "articles": [
+    {
+      "title": "Serious water pollution incidents up 60% in England, Environment Agency says",
+      "description": "Last year had the highest number of pollution events by water companies ever recorded....",
+      "link": "https://www.bbc.com/news/articles/cg5zl75dmm0o",
+      "pubDate": "Sat, 19 Jul 2025 02:56:03 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Weeks After a Heat Wave Baked the US, Democrats Push to Declare Heat a Major Disaster",
       "description": "In the United States, heat kills more people than hurricanes, floods and tornadoes—combined. Yet unlike these other extreme weather events, heat waves...",
@@ -36,15 +45,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cd3eeb283038a2b8f9d73c2a679750106fccfce3/298_0_4898_3918/master/4898.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eca92c380d80ea9bcaefc61111840c65"
-    },
-    {
-      "title": "Serious water pollution incidents up 60% in England, Environment Agency says",
-      "description": "Last year had the highest number of pollution events by water companies ever recorded....",
-      "link": "https://www.bbc.com/news/articles/cg5zl75dmm0o",
-      "pubDate": "Fri, 18 Jul 2025 13:06:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Ofwat to be abolished as ministers look to create new water regulator",
