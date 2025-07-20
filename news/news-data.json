@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-20T13:36:11.801Z",
+  "lastUpdated": "2025-07-20T14:25:27.091Z",
   "articles": [
     {
       "title": "Trump and the energy industry are eager to power AI with fossil fuels",
@@ -27,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1739937dc28b7bc4397ac4cbaefa9889dc9f6ae2/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d89228b2bb56607ec44390c54405d24"
+    },
+    {
+      "title": "Sewage discharges to halve by 2030, minister pledges",
+      "description": "Environment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken....",
+      "link": "https://www.bbc.com/news/articles/c4g8m8r6grzo",
+      "pubDate": "Sun, 20 Jul 2025 10:16:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Out in the Storm",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/388db29ffecdbdcc9d98c6c3d683491e284edfec/757_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3104576af083f82f777c7da6627059c"
-    },
-    {
-      "title": "US wetlands ‘restored’ using treated sewage tainted with forever chemicals",
-      "description": "&lt;p&gt;Use of wastewater treatment plant effluent containing Pfas threatens wildlife, food and drinking water, advocates say&lt;/p&gt;&lt;p&gt;Many ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/18/pfas-wetlands-wasterwater-effluent",
-      "pubDate": "Fri, 18 Jul 2025 11:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2cd9a5fa367f3aece31d0f106adb7e20194143af/722_0_7217_5774/master/7217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e06bb3b024944f0e292f897b10b59281"
     }
   ]
 }
