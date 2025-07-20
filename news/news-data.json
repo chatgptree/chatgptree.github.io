@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-20T08:33:37.793Z",
+  "lastUpdated": "2025-07-20T09:27:27.145Z",
   "articles": [
+    {
+      "title": "Out in the Storm",
+      "description": "We were bombing up I-10 over Lake Pontchartrain, one week to the day after Hurricane Francine passed the same way with its tempest winds and a month’s...",
+      "link": "https://insideclimatenews.org/news/20072025/lgbtq-disaster-protection-politics/",
+      "pubDate": "Sun, 20 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Are You a Customer of PJM? Its Capacity Auction Will Affect Your Electricity Prices in 2026",
+      "description": "Skyrocketing electricity prices this summer may just be the start of something big for the 65 million residents relying on PJM Interconnection, the la...",
+      "link": "https://insideclimatenews.org/news/20072025/pjm-capacity-auction-electricity-price-hike/",
+      "pubDate": "Sun, 20 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Efforts to Reduce Toxic Algae in Lake Erie Appear to Be Making Progress. Now They Face State and Federal Cuts",
+      "description": "Cuts to a major water-quality program in Ohio’s biennial budget will likely weaken efforts to control the spread of toxic blue-green algae in Lake Eri...",
+      "link": "https://insideclimatenews.org/news/20072025/lake-erie-toxic-algae-control-cuts/",
+      "pubDate": "Sun, 20 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Fashion Awards Australia (FAA) – Recognising And Supporting Students And Designers In The Textile And Fashion Industry.",
       "description": "By Heather Marcus OAM Director – Fashion Awards Australia “Fashion Awards Australia is about giving young designers the opportunity to come together a...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Southwestern Drought Likely to Continue Through 2100, Research Finds",
-      "description": "The drought in the Southwestern U.S. is likely to last for the rest of the 21st century and potentially beyond as global warming shifts the distributi...",
-      "link": "https://insideclimatenews.org/news/18072025/southwestern-drought-likely-to-continue-through-2100/",
-      "pubDate": "Fri, 18 Jul 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Analysts Expect More Oil and Gas Mergers. What Could That Mean for the Climate?",
-      "description": "Investor excitement after The Wall Street Journal reported recently that Shell was in early talks to acquire BP was quickly dampened by Shell’s outrig...",
-      "link": "https://insideclimatenews.org/news/18072025/oil-and-gas-mergers-bp-shell/",
-      "pubDate": "Fri, 18 Jul 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Standing Rock was an Indigenous-led movement. Why did Greenpeace take the fall?",
-      "description": "The inside story of how Greenpeace stood with water protectors — and got hit with a $666 million court judgment....",
-      "link": "https://grist.org/project/indigenous/standing-rock-greenpeace-slapp-lawsuit-dakota-access-pipeline-dapl/",
-      "pubDate": "Fri, 18 Jul 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/standing-rock-c1.webp?quality=75&amp;strip=all"
     }
   ]
 }
