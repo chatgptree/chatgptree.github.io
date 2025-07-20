@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-20T19:21:04.409Z",
+  "lastUpdated": "2025-07-20T20:29:41.455Z",
   "articles": [
+    {
+      "title": "How much sewage is spilled near you?",
+      "description": "Companies can release raw sewage during bad weather, but it poses risks to human health and wildlife....",
+      "link": "https://www.bbc.com/news/articles/cz9kz8ydjpno",
+      "pubDate": "Sun, 20 Jul 2025 20:10:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Sewage discharges to halve by 2030, minister pledges",
       "description": "Environment Secretary Steve Reed says the government is preparing a \"water revolution\" and that the water sector is broken....",
@@ -133,15 +142,6 @@
       "link": "https://insideclimatenews.org/news/19072025/wyoming-lonesome-lake-fecal-contamination/",
       "pubDate": "Sat, 19 Jul 2025 08:50:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Serious water pollution incidents up 60% in England, Environment Agency says",
-      "description": "Last year had the highest number of pollution events by water companies ever recorded....",
-      "link": "https://www.bbc.com/news/articles/cg5zl75dmm0o",
-      "pubDate": "Sat, 19 Jul 2025 02:56:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
