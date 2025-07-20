@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-20T04:09:46.943Z",
+  "lastUpdated": "2025-07-20T05:32:36.434Z",
   "articles": [
+    {
+      "title": "How the rise of green tech is feeding another environmental crisis",
+      "description": "The world's race to decarbonise has led to the rise of electric cars - and with it, soaring demand for lithium, which is required for the batteries...",
+      "link": "https://www.bbc.com/news/articles/c30741j351go",
+      "pubDate": "Sat, 19 Jul 2025 23:05:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump’s EPA eliminates research and development office and begins layoffs",
       "description": "&lt;p&gt;Administration’s move to cut thousands of agency jobs will be devastating for US public health, union warns&lt;/p&gt;&lt;p&gt;The Environment...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Shocking imagery as over 6 tonnes of plastic pulled off remote Australian beaches, reignites call for Global Plastics Treaty",
-      "description": "Never-before-seen footage captured as 6.5 tonnes of pollution, almost all plastic, removed from just 8 km of remote coastline in Northern Australia Se...",
-      "link": "https://econews.com.au/67483/shocking-imagery-as-over-6-tonnes-of-plastic-pulled-off-remote-australian-beaches-reignites-call-for-global-plastics-treaty/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=shocking-imagery-as-over-6-tonnes-of-plastic-pulled-off-remote-australian-beaches-reignites-call-for-global-plastics-treaty",
-      "pubDate": "Fri, 18 Jul 2025 06:03:18 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Aust-Marine-logo.png"
     }
   ]
 }
