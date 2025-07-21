@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPTree - Temporarily Growing</title>
+    <!-- Timestamp: 2025-01-21 10:45:00 -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@1,900&family=Nunito:wght@400;700&display=swap');
+        
+        * {
+            user-select: none;
+            -webkit-user-select: none;
+        }
+        
+        body {
+            font-family: 'Nunito', sans-serif;
+            background: linear-gradient(135deg, #FFB347 0%, #FF8C69 30%, #8FBC8F 60%, #228B22 100%);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            overflow: hidden;
+            color: #2E4032;
+            position: relative;
+        }
+
+        /* Animated background elements */
+        .wind-effect {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        .wind-line {
+            position: absolute;
+            width: 100px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+            animation: windBlow 4s linear infinite;
+        }
+
+        @keyframes windBlow {
+            from {
+                left: -100px;
+                opacity: 0;
+            }
+            10% {
+                opacity: 1;
+            }
+            90% {
+                opacity: 1;
+            }
+            to {
+                left: 100%;
+                opacity: 0;
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 10;
+        }
+
+        .logo {
+            font-family: 'Simonetta', serif;
+            font-size: 48px;
+            font-weight: 900;
+            font-style: italic;
+            color: #2E4032;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .message {
+            font-size: 18px;
+            margin: 10px 0 5px 0;
+            text-align: center;
+        }
+
+        .status {
+            font-size: 16px;
+            color: #4CAF50;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        .game-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            height: 400px;
+            background: linear-gradient(to bottom, #87CEEB 0%, #87CEEB 20%, #FFD700 20%, #FFB347 100%);
+            border: 3px solid #2E4032;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 15px 0;
+            cursor: none;
+        }
+
+        .basket {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 40px;
+            background: #8B4513;
+            border-radius: 0 0 40px 40px;
+            border: 3px solid #654321;
+            transition: left 0.1s ease;
+            z-index: 5;
+        }
+
+        .basket::before {
+            content: '🧺';
+            font-size: 35px;
+            position: absolute;
+            top: -15px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .falling-item {
+            position: absolute;
+            font-size: 25px;
+            animation: fall linear;
+            z-index: 3;
+            transition: all 0.1s ease;
+        }
+
+        .falling-item.swaying {
+            animation: fall linear, sway 2s ease-in-out infinite;
+        }
+
+        .leaf {
+            cursor: pointer;
+        }
+
+        .obstacle {
+            cursor: pointer;
+        }
+
+        @keyframes fall {
+            from {
+                top: -50px;
+                opacity: 1;
+            }
+            to {
+                top: 100%;
+                opacity: 0.8;
+            }
+        }
+
+        @keyframes sway {
+            0%, 100% { transform: translateX(0px) rotate(0deg); }
+            25% { transform: translateX(-10px) rotate(-5deg); }
+            75% { transform: translateX(10px) rotate(5deg); }
+        }
+
+        .score-board {
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #2E4032;
+            background: rgba(255,255,255,0.8);
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 2px solid #2E4032;
+        }
+
+        .lives {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #2E4032;
+            background: rgba(255,255,255,0.8);
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 2px solid #2E4032;
+        }
+
+        .game-over {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 25px;
+            border-radius: 15px;
+            border: 3px solid #2E4032;
+            display: none;
+            z-index: 20;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+
+        .game-over h3 {
+            color: #2E4032;
+            margin: 0 0 15px 0;
+            font-size: 24px;
+        }
+
+        .game-over p {
+            margin: 10px 0;
+            font-size: 16px;
+        }
+
+        .restart-btn {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            font-family: 'Nunito', sans-serif;
+            margin-top: 15px;
+            transition: background 0.3s ease;
+        }
+
+        .restart-btn:hover {
+            background: #45a049;
+        }
+
+        .instructions {
+            text-align: center;
+            margin: 15px 0;
+            font-size: 14px;
+            color: #2E4032;
+            background: rgba(255,255,255,0.8);
+            padding: 10px 20px;
+            border-radius: 8px;
+            max-width: 600px;
+        }
+
+        .back-link {
+            position: absolute;
+            bottom: 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .back-link a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 16px;
+            background: rgba(255,255,255,0.9);
+            padding: 8px 16px;
+            border-radius: 20px;
+        }
+
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+
+        .point-popup {
+            position: absolute;
+            font-size: 20px;
+            font-weight: bold;
+            color: #4CAF50;
+            z-index: 10;
+            animation: pointPopup 1s ease-out forwards;
+            pointer-events: none;
+        }
+
+        @keyframes pointPopup {
+            0% {
+                opacity: 1;
+                transform: translateY(0px);
+            }
+            100% {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+        }
+
+        .combo {
+            position: absolute;
+            top: 60px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 18px;
+            font-weight: bold;
+            color: #FF6347;
+            z-index: 10;
+            display: none;
+        }
+
+        @media (max-width: 600px) {
+            .logo {
+                font-size: 36px;
+            }
+            
+            .game-container {
+                max-width: 95%;
+                height: 350px;
+            }
+            
+            .basket {
+                width: 60px;
+                height: 30px;
+            }
+            
+            .basket::before {
+                font-size: 25px;
+                top: -10px;
+            }
+            
+            .falling-item {
+                font-size: 20px;
+            }
+            
+            .score-board, .lives {
+                font-size: 14px;
+                padding: 6px 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Wind effect background -->
+    <div class="wind-effect" id="windEffect"></div>
+
+    <div class="header">
+        <h1 class="logo">ChatGPTree</h1>
+        <p class="message">🍂 We're raking through some autumn updates! 🍂</p>
+        <p class="status">Help us catch falling leaves while our servers grow back! 🌱</p>
+    </div>
+
+    <div class="game-container" id="gameContainer">
+        <div class="score-board">
+            <div>Score: <span id="score">0</span></div>
+            <div>Best: <span id="bestScore">0</span></div>
+        </div>
+        <div class="lives">
+            Lives: <span id="lives">❤️❤️❤️</span>
+        </div>
+        <div class="combo" id="combo"></div>
+        <div class="basket" id="basket"></div>
+        <div class="game-over" id="gameOver">
+            <h3>🍂 Autumn Adventure Complete! 🍂</h3>
+            <p>You collected <span id="finalScore">0</span> leaves!</p>
+            <p id="newRecord" style="display:none; color: #4CAF50; font-weight: bold;">🏆 New Best Score! 🏆</p>
+            <button class="restart-btn" onclick="restartGame()">🍃 Play Again</button>
+        </div>
+    </div>
+
+    <div class="instructions">
+        <p>🎮 <strong>Move your mouse</strong> or <strong>touch/drag</strong> to move the basket</p>
+        <p>🍂 Catch leaves for points: 🍃(1pt) 🍁(2pts) 🌿(3pts) | 🪨Avoid rocks! | Get combos for bonus points! 🔥</p>
+    </div>
+
+    <div class="back-link">
+        <a href="/">🏠 Back to ChatGPTree Home</a>
+    </div>
+
+    <script>
+        // Game state
+        let gameRunning = false;
+        let score = 0;
+        let bestScore = parseInt(localStorage.getItem('leafCatcherBest') || '0');
+        let lives = 3;
+        let fallingItems = [];
+        let gameLoop;
+        let spawnTimer;
+        let combo = 0;
+        let comboTimer = null;
+
+        // Game elements
+        const basket = document.getElementById('basket');
+        const gameContainer = document.getElementById('gameContainer');
+        const scoreElement = document.getElementById('score');
+        const bestScoreElement = document.getElementById('bestScore');
+        const livesElement = document.getElementById('lives');
+        const gameOverElement = document.getElementById('gameOver');
+        const finalScoreElement = document.getElementById('finalScore');
+        const comboElement = document.getElementById('combo');
+        const windEffect = document.getElementById('windEffect');
+
+        // Leaf types with different point values
+        const leafTypes = [
+            { emoji: '🍃', points: 1, weight: 0.5 },  // Light leaf - sways more
+            { emoji: '🍁', points: 2, weight: 0.3 },  // Maple leaf
+            { emoji: '🌿', points: 3, weight: 0.2 },  // Special leaf - rare
+        ];
+
+        const obstacles = [
+            { emoji: '🪨', damage: 1 },  // Rock
+            { emoji: '⚡', damage: 2 },  // Lightning - rare but deadly
+        ];
+
+        // Initialize
+        bestScoreElement.textContent = bestScore;
+
+        function createWindLines() {
+            for (let i = 0; i < 3; i++) {
+                const windLine = document.createElement('div');
+                windLine.className = 'wind-line';
+                windLine.style.top = Math.random() * 100 + '%';
+                windLine.style.animationDelay = Math.random() * 4 + 's';
+                windEffect.appendChild(windLine);
+            }
+        }
+
+        function startGame() {
+            if (gameRunning) return;
+            
+            gameRunning = true;
+            score = 0;
+            lives = 3;
+            combo = 0;
+            fallingItems = [];
+            
+            updateDisplay();
+            gameOverElement.style.display = 'none';
+            
+            // Create wind effect
+            createWindLines();
+            
+            // Start game loops
+            gameLoop = setInterval(updateGame, 50);
+            spawnTimer = setInterval(spawnItem, 1000);
+        }
+
+        function spawnItem() {
+            if (!gameRunning) return;
+            
+            const isObstacle = Math.random() < 0.2; // 20% chance of obstacle
+            let item;
+            
+            if (isObstacle) {
+                item = obstacles[Math.floor(Math.random() * obstacles.length)];
+            } else {
+                // Weighted random selection for leaves
+                const rand = Math.random();
+                if (rand < 0.6) item = leafTypes[0];      // 60% chance - common leaf
+                else if (rand < 0.9) item = leafTypes[1]; // 30% chance - maple leaf  
+                else item = leafTypes[2];                 // 10% chance - rare leaf
+            }
+            
+            const fallingItem = document.createElement('div');
+            fallingItem.className = 'falling-item ' + (isObstacle ? 'obstacle' : 'leaf');
+            fallingItem.textContent = item.emoji;
+            fallingItem.style.left = Math.random() * (gameContainer.offsetWidth - 30) + 'px';
+            
+            // Add swaying effect for lighter leaves
+            if (!isObstacle && item.weight < 0.4) {
+                fallingItem.classList.add('swaying');
+            }
+            
+            const fallDuration = isObstacle ? 3000 : (4000 - item.weight * 1000);
+            fallingItem.style.animationDuration = fallDuration + 'ms';
+            
+            fallingItem.itemData = item;
+            fallingItem.isObstacle = isObstacle;
+            
+            gameContainer.appendChild(fallingItem);
+            fallingItems.push(fallingItem);
+            
+            // Remove after animation
+            setTimeout(() => {
+                if (fallingItem.parentNode) {
+                    fallingItem.parentNode.removeChild(fallingItem);
+                    fallingItems = fallingItems.filter(item => item !== fallingItem);
+                }
+            }, fallDuration + 100);
+        }
+
+        function updateGame() {
+            if (!gameRunning) return;
+            
+            checkCollisions();
+            
+            // Update combo display
+            if (combo > 1) {
+                comboElement.textContent = `${combo}x Combo! 🔥`;
+                comboElement.style.display = 'block';
+            } else {
+                comboElement.style.display = 'none';
+            }
+        }
+
+        function checkCollisions() {
+            const basketRect = basket.getBoundingClientRect();
+            const containerRect = gameContainer.getBoundingClientRect();
+            
+            fallingItems.forEach((item, index) => {
+                const itemRect = item.getBoundingClientRect();
+                
+                // Check if item is in basket area
+                if (itemRect.bottom >= basketRect.top && 
+                    itemRect.bottom <= basketRect.bottom + 20 &&
+                    itemRect.right >= basketRect.left && 
+                    itemRect.left <= basketRect.right) {
+                    
+                    // Collision detected!
+                    if (item.isObstacle) {
+                        // Hit obstacle
+                        lives -= item.itemData.damage;
+                        updateDisplay();
+                        showPointPopup(itemRect.left - containerRect.left, itemRect.top - containerRect.top, 
+                                     `-${item.itemData.damage} ❤️`, '#FF4444');
+                        combo = 0; // Reset combo on obstacle hit
+                        
+                        if (lives <= 0) {
+                            endGame();
+                        }
+                    } else {
+                        // Caught leaf
+                        let points = item.itemData.points;
+                        if (combo > 0) {
+                            points *= Math.min(combo, 5); // Max 5x multiplier
+                        }
+                        
+                        score += points;
+                        combo++;
+                        updateDisplay();
+                        
+                        const comboText = combo > 1 ? ` (${combo}x!)` : '';
+                        showPointPopup(itemRect.left - containerRect.left, itemRect.top - containerRect.top, 
+                                     `+${points}${comboText}`, '#4CAF50');
+                        
+                        // Reset combo timer
+                        if (comboTimer) clearTimeout(comboTimer);
+                        comboTimer = setTimeout(() => {
+                            combo = 0;
+                        }, 2000);
+                    }
+                    
+                    // Remove the item
+                    if (item.parentNode) {
+                        item.parentNode.removeChild(item);
+                    }
+                    fallingItems.splice(index, 1);
+                }
+            });
+        }
+
+        function showPointPopup(x, y, text, color) {
+            const popup = document.createElement('div');
+            popup.className = 'point-popup';
+            popup.textContent = text;
+            popup.style.left = x + 'px';
+            popup.style.top = y + 'px';
+            popup.style.color = color;
+            
+            gameContainer.appendChild(popup);
+            
+            setTimeout(() => {
+                if (popup.parentNode) {
+                    popup.parentNode.removeChild(popup);
+                }
+            }, 1000);
+        }
+
+        function updateDisplay() {
+            scoreElement.textContent = score;
+            
+            const heartIcons = '❤️'.repeat(Math.max(0, lives));
+            const brokenHearts = '💔'.repeat(Math.max(0, 3 - lives));
+            livesElement.textContent = heartIcons + brokenHearts;
+        }
+
+        function endGame() {
+            gameRunning = false;
+            clearInterval(gameLoop);
+            clearInterval(spawnTimer);
+            if (comboTimer) clearTimeout(comboTimer);
+            
+            // Clear all falling items
+            fallingItems.forEach(item => {
+                if (item.parentNode) {
+                    item.parentNode.removeChild(item);
+                }
+            });
+            fallingItems = [];
+            
+            // Clear wind lines
+            windEffect.innerHTML = '';
+            
+            // Check for new best score
+            const isNewRecord = score > bestScore;
+            if (isNewRecord) {
+                bestScore = score;
+                localStorage.setItem('leafCatcherBest', bestScore.toString());
+                bestScoreElement.textContent = bestScore;
+                document.getElementById('newRecord').style.display = 'block';
+            } else {
+                document.getElementById('newRecord').style.display = 'none';
+            }
+            
+            finalScoreElement.textContent = score;
+            gameOverElement.style.display = 'block';
+        }
+
+        function restartGame() {
+            startGame();
+        }
+
+        function moveBasket(clientX) {
+            if (!gameRunning) return;
+            
+            const containerRect = gameContainer.getBoundingClientRect();
+            const basketWidth = basket.offsetWidth;
+            
+            let newLeft = clientX - containerRect.left - basketWidth / 2;
+            newLeft = Math.max(0, Math.min(gameContainer.offsetWidth - basketWidth, newLeft));
+            
+            basket.style.left = newLeft + 'px';
+            basket.style.transform = 'translateX(0)';
+        }
+
+        // Event listeners
+        gameContainer.addEventListener('click', (e) => {
+            if (!gameRunning) {
+                startGame();
+            }
+        });
+
+        gameContainer.addEventListener('mousemove', (e) => {
+            moveBasket(e.clientX);
+        });
+
+        gameContainer.addEventListener('touchmove', (e) => {
+            e.preventDefault();
+            if (e.touches.length > 0) {
+                moveBasket(e.touches[0].clientX);
+            }
+        });
+
+        gameContainer.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            if (!gameRunning) {
+                startGame();
+            }
+        });
+
+        // Keyboard controls
+        document.addEventListener('keydown', (e) => {
+            if (e.code === 'Space' || e.key === ' ') {
+                e.preventDefault();
+                if (!gameRunning) {
+                    startGame();
+                }
+            }
+            
+            if (gameRunning) {
+                const basketRect = basket.getBoundingClientRect();
+                const containerRect = gameContainer.getBoundingClientRect();
+                let currentLeft = basketRect.left - containerRect.left;
+                
+                if (e.key === 'ArrowLeft') {
+                    e.preventDefault();
+                    moveBasket(containerRect.left + currentLeft - 20);
+                } else if (e.key === 'ArrowRight') {
+                    e.preventDefault();
+                    moveBasket(containerRect.left + currentLeft + basket.offsetWidth + 20);
+                }
+            }
+        });
+
+        // Prevent context menu
+        gameContainer.addEventListener('contextmenu', (e) => {
+            e.preventDefault();
+        });
+
+        // Initialize display
+        document.addEventListener('DOMContentLoaded', () => {
+            updateDisplay();
+        });
+    </script>
+</body>
+</html>
