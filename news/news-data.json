@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-23T14:30:24.397Z",
+  "lastUpdated": "2025-07-23T15:32:16.395Z",
   "articles": [
+    {
+      "title": "Gaps in our knowledge of ancient Rome could be filled by AI",
+      "description": "A new system fills in missing words from ancient inscriptions carved on monuments and everyday objects.\n...",
+      "link": "https://www.bbc.com/news/articles/c04dwqr5lkvo",
+      "pubDate": "Wed, 23 Jul 2025 15:01:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Effects of marine heatwave driving ‘foreseeable’ SA algal bloom could rival black summer fires, scientists warn",
+      "description": "&lt;p&gt;As Senate establishes inquiry into the ‘human-mediated disaster’, a report is calling for more long-term action&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/australia-news/2025/jul/24/effects-of-marine-heatwave-driving-foreseeable-sa-algal-bloom-could-rival-black-summer-fires-scientists-warn",
+      "pubDate": "Wed, 23 Jul 2025 15:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ba94bf3534879535b01053966a9ef99506797595/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0c0236712cbb4e804270c5480a60437"
+    },
+    {
+      "title": "Healthy environment a human right, UN court says in landmark climate ruling",
+      "description": "&lt;p&gt;Court’s decision expected to be used in future litigation and to support political negotiations by vulnerable states&lt;/p&gt;&lt;p&gt;A “cle...",
+      "link": "https://www.theguardian.com/environment/2025/jul/23/healthy-environment-is-a-human-right-top-un-court-rules",
+      "pubDate": "Wed, 23 Jul 2025 14:46:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/68c4a5c5da0d791d448c13550737b4561489b7d2/501_0_4383_3506/master/4383.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe2cfcba3a9c55d3a883ea6948a9a751"
+    },
     {
       "title": "Earth’s underground network of fungi needs urgent protection, say researchers",
       "description": "&lt;p&gt;Study finds that only 9.5% of fungal biodiversity hotspots fell within existing protected areas&lt;/p&gt;&lt;p&gt;The underground network of ...",
@@ -110,24 +137,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
-      "title": "‘Total infiltration’: How plastics industry swamped vital global treaty talks",
-      "description": "&lt;p&gt;Petrostates and well-funded lobbyists at UN-hosted talks are derailing a deal to cut plastic production and protect people and the planet&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/jul/23/total-infiltration-how-plastics-industry-swamped-vital-global-treaty-talks",
-      "pubDate": "Wed, 23 Jul 2025 04:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b460a5728f72549a38c73d8ab158d2f0629c77b5/1294_171_3031_2424/master/3031.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2024805ceac52ee955e206c83831b83"
-    },
-    {
-      "title": "Australian taxpayers on the hook to pay Chevron more than $500m to clean up oil wells",
-      "description": "&lt;p&gt;Deal struck in 1980s refunds about half of what the US multinational fossil fuel company paid in royalties, documents show&lt;/p&gt;&lt;ul&gt...",
-      "link": "https://www.theguardian.com/business/2025/jul/23/barrow-island-western-australia-taxpayers-chevron-oil-wells",
-      "pubDate": "Wed, 23 Jul 2025 03:54:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b48a2f43d28801be68834ccc950fc72495af22f7/744_0_1574_1260/master/1574.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e6159906f51b2dcb0714992c324b985"
-    },
-    {
       "title": "Teeth marks suggest 'terror bird' was killed by reptile 13 million years ago",
       "description": "Terror birds could be taller than a human and had powerful legs and hooked, flesh-ripping beaks. ...",
       "link": "https://www.bbc.com/news/articles/cvg8d2j195yo",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/Texas-flood-recovery-Naveena-flag-house-e1752864051290.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Burn Scars Can Exacerbate Flooding, Posing Compounding Climate Hazards",
-      "description": "Southern New Mexico was already parched by drought when the South Fork fire ignited on June 17, 2024. The blaze burned roughly 17,000 acres near the t...",
-      "link": "https://insideclimatenews.org/news/22072025/todays-climate-burn-scars-flooding-hazards/",
-      "pubDate": "Tue, 22 Jul 2025 18:38:04 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
