@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-23T09:34:34.146Z",
+  "lastUpdated": "2025-07-23T10:32:21.051Z",
   "articles": [
     {
       "title": "Startups Make Products from the Carbon in Fossil Fuels",
@@ -128,6 +128,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "The 'underwater bushfire' cooking Australia's reefs",
+      "description": "Divers at one of Australia's world-famous reefs said their experience was \"like swimming on a corpse\"....",
+      "link": "https://www.bbc.com/news/articles/cly82glepwyo",
+      "pubDate": "Tue, 22 Jul 2025 21:09:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Canadian Company Exits Contentious Uranium Mining Project in Western Alaska",
       "description": "This story was originally published by Northern Journal. A small Canadian company behind a controversial effort to mine uranium in Western Alaska has ...",
       "link": "https://insideclimatenews.org/news/22072025/canadian-company-exits-alaska-uranium-mining-project/",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/10f4d478f8e0dc071595fa40f9315f7e3af0d202/646_299_1833_1467/master/1833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4e54988c23fae34ffd26b971115f73d"
-    },
-    {
-      "title": "Sizewell C nuclear power plant costs rise to £38bn",
-      "description": "Households will pay £1 a month towards the construction of the UK's second new nuclear power plant....",
-      "link": "https://www.bbc.com/news/articles/cev03wer0p2o",
-      "pubDate": "Tue, 22 Jul 2025 11:11:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
