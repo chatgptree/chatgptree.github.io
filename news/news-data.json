@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-23T07:30:52.911Z",
+  "lastUpdated": "2025-07-23T08:38:58.973Z",
   "articles": [
     {
       "title": "Want to import toxic chemicals into Britain with scant scrutiny? Labour says: go right ahead | George Monbiot",
@@ -128,6 +128,15 @@
       "image": "https://i.guim.co.uk/img/media/10f4d478f8e0dc071595fa40f9315f7e3af0d202/646_299_1833_1467/master/1833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4e54988c23fae34ffd26b971115f73d"
     },
     {
+      "title": "Sizewell C nuclear power plant costs rise to £38bn",
+      "description": "Households will pay £1 a month towards the construction of the UK's second new nuclear power plant....",
+      "link": "https://www.bbc.com/news/articles/cev03wer0p2o",
+      "pubDate": "Tue, 22 Jul 2025 11:11:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Diving for the disappeared: the dangerous underwater hunt for Colombia’s missing",
       "description": "&lt;p&gt;The dark waters of San Antonio estuary are thought to hide 190 bodies, killed over decades of conflict. The first state-backed search turned ...",
       "link": "https://www.theguardian.com/environment/2025/jul/22/diving-for-the-disappeared-the-dangerous-underwater-hunt-for-colombias-missing",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/22072025/roadless-rule-repeal-midwest-national-forests/",
       "pubDate": "Tue, 22 Jul 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rising seas, vanishing voices: An Indigenous story from Martha’s Vineyard",
-      "description": "In \"Nothing More of This Land,\" writer Joseph Lee reflects on being Wampanoag in a place shaped by colonization....",
-      "link": "https://grist.org/indigenous/rising-seas-vanishing-voices-an-indigenous-story-from-marthas-vineyard/",
-      "pubDate": "Tue, 22 Jul 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
