@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-07-23T16:36:56.707Z",
+  "lastUpdated": "2025-07-23T17:28:49.655Z",
   "articles": [
     {
       "title": "Top UN court says countries can sue each other over climate change",
       "description": "The decision from the world's highest court has been welcomed by developing nations at most risk from climate change....",
       "link": "https://www.bbc.com/news/articles/ce379k4v3pwo",
-      "pubDate": "Wed, 23 Jul 2025 15:59:36 GMT",
+      "pubDate": "Wed, 23 Jul 2025 16:45:52 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,8 +14,17 @@
       "title": "Top UN court says countries can sue each other over climate change",
       "description": "The decision from the world's highest court has been welcomed by developing nations at most risk from climate change....",
       "link": "https://www.bbc.com/news/articles/ce379k4v3pwo",
-      "pubDate": "Wed, 23 Jul 2025 15:59:36 GMT",
+      "pubDate": "Wed, 23 Jul 2025 16:45:52 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Journalism, Propaganda and Climate Change",
+      "description": "Recently I was on a Zoom call with a philanthropic advisor who toward the end of our conversation asked me an open-ended question: What do you think i...",
+      "link": "https://insideclimatenews.org/news/23072025/journalism-propaganda-and-climate-change/",
+      "pubDate": "Wed, 23 Jul 2025 16:41:09 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -56,8 +65,8 @@
       "image": "https://i.guim.co.uk/img/media/68c4a5c5da0d791d448c13550737b4561489b7d2/501_0_4383_3506/master/4383.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe2cfcba3a9c55d3a883ea6948a9a751"
     },
     {
-      "title": "Earth’s underground network of fungi needs urgent protection, say researchers",
-      "description": "&lt;p&gt;Study finds that only 9.5% of fungal biodiversity hotspots fell within existing protected areas&lt;/p&gt;&lt;p&gt;The underground network of ...",
+      "title": "Earth’s underground networks of fungi need urgent protection, say researchers",
+      "description": "&lt;p&gt;Study finds that only 9.5% of fungal biodiversity hotspots fell within existing protected areas&lt;/p&gt;&lt;p&gt;The underground networks of...",
       "link": "https://www.theguardian.com/science/2025/jul/23/underground-network-of-fungi-on-earth-needs-urgent-protection-say-researchers",
       "pubDate": "Wed, 23 Jul 2025 14:00:39 GMT",
       "sourceName": "theguardian.com",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cvg8d2j195yo",
       "pubDate": "Wed, 23 Jul 2025 03:17:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "PJM Capacity Price Hits Cap as Clean Energy Projects Remain Stalled",
-      "description": "PJM Interconnection, the electric grid operator for 13 Mid-Atlantic and Midwest states and the District of Columbia, announced its capacity price on T...",
-      "link": "https://insideclimatenews.org/news/22072025/pjm-auction-hits-price-cap/",
-      "pubDate": "Tue, 22 Jul 2025 23:30:03 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
