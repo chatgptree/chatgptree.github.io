@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-24T15:29:04.392Z",
+  "lastUpdated": "2025-07-24T16:34:03.873Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The latest science of how animals communicate, with a live audience at the Hay Festival....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002g4q5",
+      "pubDate": "Thu, 24 Jul 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Tesla’s European sales slump as Musk warns of ‘rough quarters’ ahead",
       "description": "&lt;p&gt;Electric carmaker struggles to emerge from sales rut on continent despite updating its bestselling Model Y&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
@@ -155,7 +164,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Texas Emergency Management Chief Raises Disaster Communication Concerns with State Lawmakers",
+      "title": "Texas Emergency Management Chief Raises Disaster Communication Concerns With State Lawmakers",
       "description": "Texas lawmakers heard nearly three hours of testimony Wednesday from the state’s emergency management chief about a system reliant on local emergency ...",
       "link": "https://insideclimatenews.org/news/23072025/texas-emergency-management-chief-disaster-communication-concerns-after-floods/",
       "pubDate": "Wed, 23 Jul 2025 22:50:59 +0000",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate advocates outraged at Trump administration plans to fast-track AI sector",
-      "description": "&lt;p&gt;Scheme rolled out Wednesday reveals intent to dismantle some environmental and land-use regulations&lt;/p&gt;&lt;p&gt;The &lt;a href=\"https:/...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/23/trump-ai-climate-change",
-      "pubDate": "Wed, 23 Jul 2025 20:27:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2834aafbe55e5a39e89d1d88c66663af4333348b/542_0_5417_4335/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=287021fff9a696d2cab6419b0a0572d9"
     }
   ]
 }
