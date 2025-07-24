@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-07-24T08:38:05.535Z",
+  "lastUpdated": "2025-07-24T09:32:59.430Z",
   "articles": [
+    {
+      "title": "Trump’s war on windmills started in Scotland. Now he’s taking it global",
+      "description": "&lt;p&gt;President’s opposition to offshore wind more than a decade ago now threatens a huge industry in the US and beyond&lt;/p&gt;&lt;p&gt;Donald Tr...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/24/trump-clean-energy-war-global",
+      "pubDate": "Thu, 24 Jul 2025 09:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4b97afece49d98fa2987c1b2f1c34b76718659f0/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a7636299d48b8ece566a738836cc6e5"
+    },
+    {
+      "title": "How flood-ravaged Boston took on the climate deniers – and won",
+      "description": "&lt;p&gt;As the Trump administration dismisses global heating, the coastal city is getting on with becoming one of the most climate resilient in the w...",
+      "link": "https://www.theguardian.com/environment/2025/jul/24/flood-boston-climate-deniers-trump-administration-coastal-city-resilient",
+      "pubDate": "Thu, 24 Jul 2025 09:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e634514121a9ab619c82457a345dc4525f61d693/69_0_3041_2433/master/3041.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c10359b361bb6111cebbe2467809be64"
+    },
+    {
+      "title": "Hurricane Helene and Subsequent Cleanup Efforts Have Decimated North America’s Most Biodiverse Waters",
+      "description": "In Knoxville, Tennessee, there’s a minuscule warehouse tucked off the side of the road. Its tiny gravel parking lot is full. In the back of the crampe...",
+      "link": "https://insideclimatenews.org/news/24072025/hurricane-helene-cleanup-decimated-biodiverse-waters/",
+      "pubDate": "Thu, 24 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "On the Navajo Nation, the List of Mystery Wells Continues to Grow",
+      "description": "This story was originally published by Capital &#38; Main. On a warm evening in early June, Loretta Johnson pointed her white Chevy Silverado with a N...",
+      "link": "https://insideclimatenews.org/news/24072025/navajo-nation-oil-wells-contaminated-water/",
+      "pubDate": "Thu, 24 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "They lost their jobs and funding under Trump. What did communities lose?",
+      "description": "We asked those affected by federal climate and environment cuts to reach out. Their stories illuminate how these losses are reverberating across the c...",
+      "link": "https://grist.org/climate/trump-federal-funding-cuts-fired-workers-community-impact/",
+      "pubDate": "Thu, 24 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/caroline-frischmon.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "The national fight for public power comes to Oakland",
       "description": "Oakland residents wanted to take a modest step toward ditching an investor-owned utility. Then PG&E got involved....",
@@ -20,7 +65,7 @@
       "image": "https://grist.org/wp-content/uploads/2025/07/ES-10.-Credit-Seth-Carnill-Mycorrhizal-fungi-in-Apennine-Mountains-Italy1.jpeg?quality=75&amp;strip=all"
     },
     {
-      "title": "Australia lifts ban on US beef but denies decision was made to appease Trump",
+      "title": "Trump administration claims credit for Australia lifting ban on US beef imports",
       "description": "&lt;p&gt;Move expected to help negotiations with US for lower trade tariffs on exports, but Labor says decision was made after scientific assessment&l...",
       "link": "https://www.theguardian.com/australia-news/2025/jul/24/labor-lifts-ban-on-us-beef-saying-new-measures-effectively-manage-biosecurity-risks",
       "pubDate": "Thu, 24 Jul 2025 07:56:59 GMT",
@@ -132,51 +177,6 @@
       "description": "In the soils of most ecosystems around the world, mycorrhizal fungal communities form intimate relationships with the roots of the plants above them, ...",
       "link": "https://insideclimatenews.org/news/23072025/mycorrhizal-fungal-hotspots-lack-protections/",
       "pubDate": "Wed, 23 Jul 2025 15:35:46 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gaps in our knowledge of ancient Rome could be filled by AI",
-      "description": "A new system fills in missing words from ancient inscriptions carved on monuments and everyday objects.\n...",
-      "link": "https://www.bbc.com/news/articles/c04dwqr5lkvo",
-      "pubDate": "Wed, 23 Jul 2025 15:01:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Startups Make Products From the Carbon in Fossil Fuels",
-      "description": "At a San Antonio research campus, a four-story-tall contraption breaks apart the molecules of Texas shale gas, producing hydrogen and carbon.&#160; Bu...",
-      "link": "https://insideclimatenews.org/news/23072025/fossil-fuels-carbon-utilization-startups/",
-      "pubDate": "Wed, 23 Jul 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Building Better Together: Rebuilt, Think Brick Australia and CMAA partner to accelerate sector-wide product carbon action",
-      "description": "New partnership lays the groundwork for sector-wide benchmarks and credible carbon data across Australia’s brick and paver industry. Rebuilt, the fast...",
-      "link": "https://econews.com.au/67517/building-better-together-rebuilt-think-brick-australia-and-cmaa-partner-to-accelerate-sector-wide-product-carbon-action/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=building-better-together-rebuilt-think-brick-australia-and-cmaa-partner-to-accelerate-sector-wide-product-carbon-action",
-      "pubDate": "Wed, 23 Jul 2025 09:03:21 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Think-Brick-Australia-Logo-Clay-1-1024x669.png"
-    },
-    {
-      "title": "Republican Excitement for Wyoming Rare Earth Mining Contradicts the Party’s Disdain for Renewables",
-      "description": "At the foot of Wyoming’s Big Horn Mountains sits a mine potentially full of minerals crucial for renewable energy, yet capable of drawing praise from ...",
-      "link": "https://insideclimatenews.org/news/23072025/wyoming-rare-earth-mining-contradicts-republican-renewables-disdain/",
-      "pubDate": "Wed, 23 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nine Governors Write to Regional Grid Operator PJM, Expressing Frustration Over Governance and Interconnection Delays",
-      "description": "A bipartisan group of governors wants a larger seat at the table of PJM Interconnection, the regional electric grid operator that has had issues getti...",
-      "link": "https://insideclimatenews.org/news/23072025/nine-governors-express-frustration-over-pjm-interconnection-delays/",
-      "pubDate": "Wed, 23 Jul 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
