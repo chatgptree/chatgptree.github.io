@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-24T07:30:01.447Z",
+  "lastUpdated": "2025-07-24T08:38:05.535Z",
   "articles": [
+    {
+      "title": "The national fight for public power comes to Oakland",
+      "description": "Oakland residents wanted to take a modest step toward ditching an investor-owned utility. Then PG&E got involved....",
+      "link": "https://grist.org/energy/the-national-fight-for-public-power-comes-to-oakland/",
+      "pubDate": "Thu, 24 Jul 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/shutoffAP23250641911900.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "There’s a surprising climate solution right under your feet",
+      "description": "Mycorrhizal fungi help plants thrive, and sequester an enormous amount of carbon. But a new atlas shows that they need urgent protection....",
+      "link": "https://grist.org/climate/theres-a-surprising-climate-solution-right-under-your-feet/",
+      "pubDate": "Thu, 24 Jul 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/ES-10.-Credit-Seth-Carnill-Mycorrhizal-fungi-in-Apennine-Mountains-Italy1.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Australia lifts ban on US beef but denies decision was made to appease Trump",
+      "description": "&lt;p&gt;Move expected to help negotiations with US for lower trade tariffs on exports, but Labor says decision was made after scientific assessment&l...",
+      "link": "https://www.theguardian.com/australia-news/2025/jul/24/labor-lifts-ban-on-us-beef-saying-new-measures-effectively-manage-biosecurity-risks",
+      "pubDate": "Thu, 24 Jul 2025 07:56:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6363c1b86e688076cb43669e0a5a5b68953cd136/437_0_3862_3090/master/3862.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed95db50d8f1832a1ca0ec098044d41b"
+    },
     {
       "title": "Australia warned it could face legal action over ‘wrongful’ fossil fuel actions after landmark climate ruling from world’s top court",
       "description": "&lt;p&gt;Vanuatu climate change minister says ICJ opinion gives Pacific island nations ‘much greater leverage’ in dealing with partners such as Austra...",
@@ -36,15 +63,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Australia lifts ban on US beef but denies decision was made to appease Trump",
-      "description": "&lt;p&gt;Move expected to help negotiations with US for lower trade tariffs on exports, but Labor says decision was made after scientific assessment&l...",
-      "link": "https://www.theguardian.com/australia-news/2025/jul/24/labor-lifts-ban-on-us-beef-saying-new-measures-effectively-manage-biosecurity-risks",
-      "pubDate": "Thu, 24 Jul 2025 02:01:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6363c1b86e688076cb43669e0a5a5b68953cd136/437_0_3862_3090/master/3862.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed95db50d8f1832a1ca0ec098044d41b"
     },
     {
       "title": "Albanese government plotted to maintain native forest logging in NSW if court battle was lost, documents show",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A South Bronx Park is a Hive of Activity—for Bees and for New Yorkers Training for Green Jobs",
-      "description": "The buzz of bees at Concrete Plant Park in the South Bronx is a hint to some grand ambitions for job opportunities in this once abandoned industrial s...",
-      "link": "https://insideclimatenews.org/news/23072025/new-york-city-concrete-plant-park-green-jobs/",
-      "pubDate": "Wed, 23 Jul 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Want to import toxic chemicals into Britain with scant scrutiny? Labour says: go right ahead | George Monbiot",
-      "description": "&lt;p&gt;Jacob Rees-Mogg’s Tory fantasy of a post-Brexit bonfire of regulations is coming true. Our bodies and ecosystems will pay the price&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/23/britain-toxic-chemicals-labour-tory-brexit-regulations",
-      "pubDate": "Wed, 23 Jul 2025 05:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0c172ade55ae703f5378e98ceda7cabfc5f070ea/0_1_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95352f3f014bacfbb05c02bc4ab9283c"
     }
   ]
 }
