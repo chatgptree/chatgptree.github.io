@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2025-07-24T12:59:43.719Z",
+  "lastUpdated": "2025-07-24T13:47:34.004Z",
   "articles": [
     {
+      "title": "Fears UK gas stockpile to drop for winter as British Gas owner plans sell-off",
+      "description": "&lt;p&gt;Centrica keen to stem losses from North Sea Rough storage after company profits halve&lt;/p&gt;&lt;p&gt;Britain may have lower gas stockpiles...",
+      "link": "https://www.theguardian.com/business/2025/jul/24/fears-uk-gas-stockpile-drop-for-winter-british-gas-owner-centrica-sell-off",
+      "pubDate": "Thu, 24 Jul 2025 13:29:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f0e7ffbf6b1b19d4b7a9b39d06f39f686b0b56cc/0_0_6532_5225/master/6532.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e14ec8cf90dedda862eeed5b064ebedd"
+    },
+    {
+      "title": "As Consumer Tax Credits Vanish, What Do You Need to Know?",
+      "description": "Consumers are facing a Sept. 30 deadline to be eligible for tax credits for EVs, followed by a Dec. 31 deadline when credits vanish for rooftop solar,...",
+      "link": "https://insideclimatenews.org/news/24072025/inside-clean-energy-consumer-tax-credits-vanish/",
+      "pubDate": "Thu, 24 Jul 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "World’s smallest snake rediscovered in Barbados 20 years after last sighting",
-      "description": "&lt;p&gt;Conservationists feared the 10cm threadsnake, as thin as a strand of spaghetti, had become extinct&lt;/p&gt;&lt;p&gt;The world’s smallest sna...",
+      "description": "&lt;p&gt;Conservationists feared 10cm threadsnake as thin as a strand of spaghetti had become extinct&lt;/p&gt;&lt;p&gt;The world’s smallest snake has...",
       "link": "https://www.theguardian.com/environment/2025/jul/24/worlds-smallest-snake-rediscovered-in-barbados-20-years-after-last-sighting",
       "pubDate": "Thu, 24 Jul 2025 12:40:48 GMT",
       "sourceName": "theguardian.com",
@@ -110,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/6363c1b86e688076cb43669e0a5a5b68953cd136/437_0_3862_3090/master/3862.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed95db50d8f1832a1ca0ec098044d41b"
     },
     {
-      "title": "Australia warned it could face legal action over ‘wrongful’ fossil fuel actions after landmark climate ruling from world’s top court",
-      "description": "&lt;p&gt;Vanuatu climate change minister says ICJ opinion gives Pacific island nations ‘much greater leverage’ in dealing with partners such as Austra...",
-      "link": "https://www.theguardian.com/environment/2025/jul/24/australia-warned-it-could-face-legal-action-over-fossil-fuels-after-icj-landmark-climate-ruling",
-      "pubDate": "Thu, 24 Jul 2025 06:10:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8d4ae9ccc31cc8e7f1067927b599fb3551517b9e/960_641_4140_3312/master/4140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=079efa775be17e947fb2d114ba8821b6"
-    },
-    {
       "title": "I travelled the globe to document how humans became addicted to faking the natural world. Here’s what I found",
       "description": "&lt;p&gt;In his new book, &lt;a href=\"https://guesteditions.com/products/the-anthropocene-illusion-zed-nelson\"&gt;The Anthropocene Illusion&lt;/a&gt;,...",
       "link": "https://www.theguardian.com/environment/2025/jul/24/humans-addicted-faking-natural-world-anthropocene-illusion-zed-nelson-aoe",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c41ec779e174c15fb4cad05841cf29e72a008a4b/1151_0_6457_5167/master/6457.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82d932a2a9fdb1c780992d41885064cc"
-    },
-    {
-      "title": "Top UN court says countries can sue each other over climate change",
-      "description": "The decision from the world's highest court has been welcomed by developing nations at most risk from climate change....",
-      "link": "https://www.bbc.com/news/articles/ce379k4v3pwo",
-      "pubDate": "Wed, 23 Jul 2025 17:33:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
