@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-25T08:37:12.348Z",
+  "lastUpdated": "2025-07-25T09:32:35.497Z",
   "articles": [
+    {
+      "title": "Fact-Checking Claims About a Proposed Hyperscale Data Center",
+      "description": "BESSEMER, Ala.—For Ron Morgan, the signs told the tale. He was among the dozens of residents who spilled into the Birmingham suburb’s city hall chambe...",
+      "link": "https://insideclimatenews.org/news/25072025/alabama-proposed-hyperscale-data-center-impacts/",
+      "pubDate": "Fri, 25 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Activists Pledge to Resist Any Federal Effort to Lift Fracking Ban in Delaware River Basin",
+      "description": "Fears that the Trump administration is looking for ways to lift a longstanding ban on fracking for natural gas in the densely populated Delaware River...",
+      "link": "https://insideclimatenews.org/news/25072025/activists-will-resist-any-federal-effort-to-lift-delaware-river-fracking-ban/",
+      "pubDate": "Fri, 25 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Seaweed brought fishers, farmers, and scientists together. Trump tore them apart.",
+      "description": "A Puget Sound project turned seaweed from a nuisance into a “climate-smart commodity.” That inserted it into the president’s culture wars....",
+      "link": "https://grist.org/food-and-agriculture/seaweed-climate-smart-commodities-trump-usda/",
+      "pubDate": "Fri, 25 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/Seaweed-on-Baywater-1.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "How musicians and concert venues are upping the tempo on climate action",
       "description": "As sustainability initiatives in other industries stall out, big acts like Coldplay, Dave Matthews, and Billie Eilish are pushing live music to go gre...",
@@ -38,15 +65,6 @@
       "image": "https://i.guim.co.uk/img/media/9ea74694c5717d93b194c24ca02e643e8c0ee7cf/0_0_613_490/master/613.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=752a6ac640bc4aaf426893c1e7c9559a"
     },
     {
-      "title": "Closing classroom windows does not cut air pollution, study finds",
-      "description": "&lt;p&gt;Tests conducted at 500 sites show particle pollution exceeded health guidelines on 6% of school days&lt;/p&gt;&lt;p&gt;Keeping the classroom ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/25/closing-classroom-windows-does-not-cut-air-pollution-uk-study-finds",
-      "pubDate": "Fri, 25 Jul 2025 05:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3f4ecf5cd10d51ce72955d3ea25df4261411a1f6/17_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1abc3e5fed1ef6f55b8298cc9bdc906e"
-    },
-    {
       "title": "Volunteers map 10,000 routes in Great Britain to help make walking accessible",
       "description": "&lt;p&gt;Campaign group Slow Ways developing app for disabled people, parents with children, older people and others&lt;/p&gt;&lt;p&gt;Volunteers have...",
       "link": "https://www.theguardian.com/lifeandstyle/2025/jul/25/volunteers-map-10000-routes-in-great-britain-to-help-make-walking-accessible",
@@ -54,6 +72,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ceca387a3ee411944c29aea15e56e34299adab0d/681_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70309345180cfb8baea0bac8067c3980"
+    },
+    {
+      "title": "Closing classroom windows does not cut air pollution, study finds",
+      "description": "&lt;p&gt;Tests conducted at 500 UK sites show particle pollution exceeded health guidelines on 6% of school days&lt;/p&gt;&lt;p&gt;Keeping the classro...",
+      "link": "https://www.theguardian.com/environment/2025/jul/25/closing-classroom-windows-does-not-cut-air-pollution-uk-study-finds",
+      "pubDate": "Fri, 25 Jul 2025 05:00:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3f4ecf5cd10d51ce72955d3ea25df4261411a1f6/17_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1abc3e5fed1ef6f55b8298cc9bdc906e"
     },
     {
       "title": "Fortescue axes two green hydrogen projects after Trump administration’s shift on renewables",
@@ -81,6 +108,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9b0f3a4e2d4bdf133dbf44bf3baaf5e720703f96/1303_0_6284_5027/master/6284.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95586bd1b6b5ac0fd9aa5313bf197a37"
+    },
+    {
+      "title": "Government raises maximum price for wind energy",
+      "description": "The government increases the maximum price it will guarantee wind farm developers for electricity....",
+      "link": "https://www.bbc.com/news/articles/cly8ynegwn4o",
+      "pubDate": "Thu, 24 Jul 2025 16:34:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "BBC Inside Science",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e634514121a9ab619c82457a345dc4525f61d693/69_0_3041_2433/master/3041.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c10359b361bb6111cebbe2467809be64"
-    },
-    {
-      "title": "Hurricane Helene and Subsequent Cleanup Efforts Have Decimated North America’s Most Biodiverse Waters",
-      "description": "In Knoxville, Tennessee, there’s a minuscule warehouse tucked off the side of the road. Its tiny gravel parking lot is full. In the back of the crampe...",
-      "link": "https://insideclimatenews.org/news/24072025/hurricane-helene-cleanup-decimated-biodiverse-waters/",
-      "pubDate": "Thu, 24 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "On the Navajo Nation, the List of Mystery Wells Continues to Grow",
-      "description": "This story was originally published by Capital &#38; Main. On a warm evening in early June, Loretta Johnson pointed her white Chevy Silverado with a N...",
-      "link": "https://insideclimatenews.org/news/24072025/navajo-nation-oil-wells-contaminated-water/",
-      "pubDate": "Thu, 24 Jul 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "They lost their jobs and funding under Trump. What did communities lose?",
-      "description": "We asked those affected by federal climate and environment cuts to reach out. Their stories illuminate how these losses are reverberating across the c...",
-      "link": "https://grist.org/climate/trump-federal-funding-cuts-fired-workers-community-impact/",
-      "pubDate": "Thu, 24 Jul 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/caroline-frischmon.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The national fight for public power comes to Oakland",
-      "description": "Oakland residents wanted to take a modest step toward ditching an investor-owned utility. Then PG&E got involved....",
-      "link": "https://grist.org/energy/the-national-fight-for-public-power-comes-to-oakland/",
-      "pubDate": "Thu, 24 Jul 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/shutoffAP23250641911900.jpg?quality=75&#038;strip=all"
     }
   ]
 }
