@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-26T12:54:07.090Z",
+  "lastUpdated": "2025-07-26T13:37:47.031Z",
   "articles": [
+    {
+      "title": "Georgia sterilization plants using toxic gas among those exempt from new rules",
+      "description": "Exemption allows facilities using ethylene oxide, a gas linked to health problems in humans, two more years to meet federal standards....",
+      "link": "https://grist.org/regulation/georgia-sterilization-plants-using-toxic-gas-among-those-exempt-from-new-rules/",
+      "pubDate": "Sat, 26 Jul 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/02/0229_ETO-e1709142940180.png?quality=75&#038;strip=all"
+    },
     {
       "title": "Lessons From a Climate Disaster",
       "description": "Last year, record wildfires fueled by dry conditions incinerated large swaths of Bolivia’s forests, wetlands and other ecosystems, burning an area lar...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9ea74694c5717d93b194c24ca02e643e8c0ee7cf/0_0_613_490/master/613.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=752a6ac640bc4aaf426893c1e7c9559a"
-    },
-    {
-      "title": "Trump’s AI Action Plan Waives Federal Environmental Rules in the Development of Data Centers",
-      "description": "Some of the most exclusive seats at President Donald Trump’s inauguration in January were reserved for the leaders of Big Tech companies like Meta, Am...",
-      "link": "https://insideclimatenews.org/news/24072025/trump-ai-action-plan-waives-federal-environmental-rules/",
-      "pubDate": "Thu, 24 Jul 2025 23:25:14 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
