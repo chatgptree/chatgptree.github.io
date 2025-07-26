@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2025-07-26T08:33:58.266Z",
+  "lastUpdated": "2025-07-26T09:27:37.438Z",
   "articles": [
     {
-      "title": "Make wet wipe producers pay for polluting England’s waterways, says report",
+      "title": "Lessons From a Climate Disaster",
+      "description": "Last year, record wildfires fueled by dry conditions incinerated large swaths of Bolivia’s forests, wetlands and other ecosystems, burning an area lar...",
+      "link": "https://insideclimatenews.org/news/26072025/lessons-from-bolivia-record-setting-2024-wildfire-season/",
+      "pubDate": "Sat, 26 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the Trump Budget Cuts Are Playing Out at Oregon’s Crater Lake National Park",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Kevin Heatley, the for...",
+      "link": "https://insideclimatenews.org/news/26072025/oregon-crater-lake-national-park-budget-cuts/",
+      "pubDate": "Sat, 26 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Call to make wet wipe producers pay for polluting England’s waterways",
       "description": "&lt;p&gt;Water firms claim wet wipes, which shed microplastics and cause blockages, are main source of sewage pollution&lt;/p&gt;&lt;p&gt;Wet wipe pro...",
       "link": "https://www.theguardian.com/environment/2025/jul/26/make-wet-wipe-producers-pay-for-polluting-england-waterways-says-report",
       "pubDate": "Sat, 26 Jul 2025 06:00:45 GMT",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/24072025/trump-ai-action-plan-waives-federal-environmental-rules/",
       "pubDate": "Thu, 24 Jul 2025 23:25:14 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Government raises maximum price for wind energy",
-      "description": "The government increases the maximum price it will guarantee wind farm developers for electricity....",
-      "link": "https://www.bbc.com/news/articles/cly8ynegwn4o",
-      "pubDate": "Thu, 24 Jul 2025 16:34:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "The latest science of how animals communicate, with a live audience at the Hay Festival....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002g4q5",
-      "pubDate": "Thu, 24 Jul 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
