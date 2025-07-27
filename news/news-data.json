@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-27T12:55:32.148Z",
+  "lastUpdated": "2025-07-27T13:36:10.932Z",
   "articles": [
+    {
+      "title": "Why your energy bill is suddenly so much more expensive",
+      "description": "And why it’s not getting cheaper any time soon....",
+      "link": "https://grist.org/energy/why-your-energy-bill-is-suddenly-so-much-more-expensive/",
+      "pubDate": "Sun, 27 Jul 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/GettyImages-139035359.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Alabama Research Center Works to Understand ‘One of the Last Great Wild Places’",
       "description": "Bill Finch was bumping along in a muddy four-wheel utility vehicle on a rocky road near the Paint Rock Forest Research Center when a research assistan...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/DMB-Concert-Reverb-eco-village-e1753395432882.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Will new Interior Department rules shackle wind and solar? Insiders are divided.",
-      "description": "We know new Interior Department rules will slow wind and solar development — but we don’t yet know how much....",
-      "link": "https://grist.org/energy/interior-department-rules-wind-solar/",
-      "pubDate": "Fri, 25 Jul 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
