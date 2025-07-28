@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-28T22:29:47.137Z",
+  "lastUpdated": "2025-07-28T23:29:23.990Z",
   "articles": [
+    {
+      "title": "Why Farmers May Be Able to Continue Fertilizing Fields With PFAS-Contaminated Sewage Sludge",
+      "description": "Republicans are quietly moving to kill proposed regulations for PFAS-contaminated sewage sludge that is spread on farmland as fertilizer, a practice t...",
+      "link": "https://insideclimatenews.org/news/28072025/pfas-sewage-sludge-fertilizer/",
+      "pubDate": "Mon, 28 Jul 2025 22:51:50 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Trump Shrinks FEMA, State and Local Emergency Managers Say They’re Barely Getting By",
+      "description": "For months, President Donald Trump threatened to dismantle the Federal Emergency Management Agency, arguing that it is “extremely expensive” and that ...",
+      "link": "https://insideclimatenews.org/news/28072025/emergency-managers-overworked-as-fema-shrinks/",
+      "pubDate": "Mon, 28 Jul 2025 22:36:43 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "As a Heat Wave Roiled Illinois, People Incarcerated Suffered The Most",
       "description": "As heat grips Illinois this summer, one group is more vulnerable to extreme heat than any other: Those incarcerated inside the state’s decaying prison...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b2f14325745f75b0c4c58c4f1a71baaf5b412a58/1365_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e00bbf84d2e0c6175e19a7f248cdbfee"
-    },
-    {
-      "title": "Georgia sterilization plants using toxic gas among those exempt from new rules",
-      "description": "Exemption allows facilities using ethylene oxide, a gas linked to health problems in humans, two more years to meet federal standards....",
-      "link": "https://grist.org/regulation/georgia-sterilization-plants-using-toxic-gas-among-those-exempt-from-new-rules/",
-      "pubDate": "Sat, 26 Jul 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/02/0229_ETO-e1709142940180.png?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Lessons From a Climate Disaster",
-      "description": "Last year, record wildfires fueled by dry conditions incinerated large swaths of Bolivia’s forests, wetlands and other ecosystems, burning an area lar...",
-      "link": "https://insideclimatenews.org/news/26072025/lessons-from-bolivia-record-setting-2024-wildfire-season/",
-      "pubDate": "Sat, 26 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
