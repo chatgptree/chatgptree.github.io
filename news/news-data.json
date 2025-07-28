@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-07-28T08:39:53.780Z",
+  "lastUpdated": "2025-07-28T09:35:50.322Z",
   "articles": [
+    {
+      "title": "Clean Energy Brought Data Centers to Iowa. The Big Beautiful Bill Could Change That",
+      "description": "A line of gnarled elm trees separates Willow Creek Street in West Des Moines from a quintessentially Iowan corn field, deep green at the height of mid...",
+      "link": "https://insideclimatenews.org/news/28072025/big-beautiful-bill-iowa-data-centers/",
+      "pubDate": "Mon, 28 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The guerilla campaign to save a Texas prairie from &#8216;silent extinction&#8217;",
+      "description": "“This is a war between us and the developers, and nobody’s calling uncle or throwing up white flags.”...",
+      "link": "https://grist.org/solutions/the-guerilla-campaign-to-save-a-texas-prairie-from-silent-extinction/",
+      "pubDate": "Mon, 28 Jul 2025 09:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/Prairies-Coneflower-Crest-boys.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "A New Jersey Shore Town Has Turned to Oysters to Fight Sea Level Rise and Erosion",
+      "description": "LONG BEACH TOWNSHIP, N.J.—Every year, hungry restaurant patrons slurp down fat, juicy oysters, their greyish-white shells cast aside with little thoug...",
+      "link": "https://insideclimatenews.org/news/28072025/new-jersey-oyster-coastal-restoration/",
+      "pubDate": "Mon, 28 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A long-awaited rule to protect workers from heat stress moves forward, even under Trump",
+      "description": "While labor experts say the regulation is progressing quickly, advocacy groups wonder what has taken so long....",
+      "link": "https://grist.org/labor/federal-workplace-heat-protections-osha-temperature-regulation-trump-farmworkers/",
+      "pubDate": "Mon, 28 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/water-break.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Trial to remove shark nets from three Sydney and Central Coast beaches a good first step, scientists say",
       "description": "&lt;p&gt;Experts welcome move by NSW government, saying nets are ineffective at preventing shark bites and ‘indiscriminately’ kill marine life&lt;/p&g...",
@@ -92,13 +128,13 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Call to make wet wipe producers pay for polluting England’s waterways",
-      "description": "&lt;p&gt;Water firms claim wet wipes, which shed microplastics and cause blockages, are main source of sewage pollution&lt;/p&gt;&lt;p&gt;Wet wipe pro...",
-      "link": "https://www.theguardian.com/environment/2025/jul/26/make-wet-wipe-producers-pay-for-polluting-england-waterways-says-report",
+      "title": "‘The sorest my legs have ever been’: hordes to descend on Hackney for litter-picking world cup",
+      "description": "&lt;p&gt;The public-spirited sport of spogomi is catching on across Britain, which boasts its world champion team&lt;/p&gt;&lt;p&gt;Armed with gloves,...",
+      "link": "https://www.theguardian.com/environment/2025/jul/26/japanese-competitive-litter-picking-spogomi-sport-thrives-in-uk",
       "pubDate": "Sat, 26 Jul 2025 06:00:45 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/c66192064d58bb65b3c3e11eb91a8ac66c80082f/373_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=71a892e49b2fbfd9930a486ef361e440"
+      "image": "https://i.guim.co.uk/img/media/8882693900b836cd5c93e7581823987feeb62d9d/164_0_3867_3095/master/3867.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59642de2f9af451029e6e37d26a93376"
     },
     {
       "title": "Layoffs, Votes of No Confidence and a Leader on Leave at One of the Nation’s Oldest Environmental Groups",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/560817941f12f7c24d00b2951fe99c28cfe28b92/456_0_4558_3646/master/4558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa7c45ad8575013a5281c3681851f052"
-    },
-    {
-      "title": "From punk rock to gardening classes: the cemeteries getting a new lease on life",
-      "description": "&lt;p&gt;‘Instead of just a choral group in a chapel, now it’s a rock group in a mausoleum,’ says one unspooked supporter&lt;/p&gt;&lt;p&gt;Rodney Ano...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/25/cemetery-community-event-green-space",
-      "pubDate": "Fri, 25 Jul 2025 11:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5cb163c922660d6f794acbe936aa0a4b9ebcb687/399_0_1801_1441/master/1801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6519b46fed04a0b5217b948adc9de345"
-    },
-    {
-      "title": "Fact-Checking Claims About a Proposed Hyperscale Data Center",
-      "description": "BESSEMER, Ala.—For Ron Morgan, the signs told the tale. He was among the dozens of residents who spilled into the Birmingham suburb’s city hall chambe...",
-      "link": "https://insideclimatenews.org/news/25072025/alabama-proposed-hyperscale-data-center-impacts/",
-      "pubDate": "Fri, 25 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Activists Pledge to Resist Any Federal Effort to Lift Fracking Ban in Delaware River Basin",
-      "description": "Fears that the Trump administration is looking for ways to lift a longstanding ban on fracking for natural gas in the densely populated Delaware River...",
-      "link": "https://insideclimatenews.org/news/25072025/activists-will-resist-any-federal-effort-to-lift-delaware-river-fracking-ban/",
-      "pubDate": "Fri, 25 Jul 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Seaweed brought fishers, farmers, and scientists together. Trump tore them apart.",
-      "description": "A Puget Sound project turned seaweed from a nuisance into a “climate-smart commodity.” That inserted it into the president’s culture wars....",
-      "link": "https://grist.org/food-and-agriculture/seaweed-climate-smart-commodities-trump-usda/",
-      "pubDate": "Fri, 25 Jul 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/Seaweed-on-Baywater-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
