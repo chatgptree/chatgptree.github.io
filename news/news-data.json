@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-07-29T08:38:38.587Z",
+  "lastUpdated": "2025-07-29T09:33:55.893Z",
   "articles": [
+    {
+      "title": "Nations Denounce Deep Sea Mining Company’s Bid to Exploit Metals in the Pacific Under US Law",
+      "description": "As delegates from member states of the International Seabed Authority entered the third and final week of high-stakes negotiations on deep-sea mining,...",
+      "link": "https://insideclimatenews.org/news/29072025/nations-denounce-deep-sea-mining-bid-pacific-us/",
+      "pubDate": "Tue, 29 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump Promised a Drilling Boom. The New Rigs Haven’t Showed Up Yet",
+      "description": "“We will drill, baby, drill,” President Donald Trump declared at his inauguration on Jan. 20. Echoing the slogan that exemplified his energy policies ...",
+      "link": "https://insideclimatenews.org/news/29072025/trump-drilling-boom-promise-stagnant/",
+      "pubDate": "Tue, 29 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildfire Evacuees and Asylum Seekers Strain Niagara Falls’ Housing Capacity During Tourism Season",
+      "description": "NIAGARA FALLS, Ontario—Geoffrey Ross is no stranger to wildfire evacuations. But in late May, when the flames of one of the conflagrations that have p...",
+      "link": "https://insideclimatenews.org/news/29072025/wildfire-evacuees-niagara-falls-housing-capacity/",
+      "pubDate": "Tue, 29 Jul 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate change has sent coffee prices soaring. Trump&#8217;s tariffs will send them higher.",
+      "description": "From drought-stricken farms to rising trade barriers, the global coffee industry is facing unprecedented strain....",
+      "link": "https://grist.org/food-and-agriculture/coffee-expensive-climate-change-trump-tariffs-brazil-vietnam/",
+      "pubDate": "Tue, 29 Jul 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/GettyImages-2014670390.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Troubling scenes from an Arctic in full-tilt crisis",
       "description": "The heat that hit Svalbard in February was so intense that scientists could dig into the ground with spoons, \"like it was soft ice cream.\"...",
@@ -144,42 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/Prairies-Coneflower-Crest-boys.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "A New Jersey Shore Town Has Turned to Oysters to Fight Sea Level Rise and Erosion",
-      "description": "LONG BEACH TOWNSHIP, N.J.—Every year, hungry restaurant patrons slurp down fat, juicy oysters, their greyish-white shells cast aside with little thoug...",
-      "link": "https://insideclimatenews.org/news/28072025/new-jersey-oyster-coastal-restoration/",
-      "pubDate": "Mon, 28 Jul 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A long-awaited rule to protect workers from heat stress moves forward, even under Trump",
-      "description": "While labor experts say the regulation is progressing quickly, advocacy groups wonder what has taken so long....",
-      "link": "https://grist.org/labor/federal-workplace-heat-protections-osha-temperature-regulation-trump-farmworkers/",
-      "pubDate": "Mon, 28 Jul 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/water-break.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Wildfires rage in Greece and Turkey as extreme heat persists",
-      "description": "Firefighters warn of a \"difficult day\" ahead, with temperatures are forecast to reach up to 44C (111.2F) on Sunday....",
-      "link": "https://www.bbc.com/news/articles/cvgv313e381o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 27 Jul 2025 22:53:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why your energy bill is suddenly so much more expensive",
-      "description": "And why it’s not getting cheaper any time soon....",
-      "link": "https://grist.org/energy/why-your-energy-bill-is-suddenly-so-much-more-expensive/",
-      "pubDate": "Sun, 27 Jul 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/GettyImages-139035359.jpg?quality=75&#038;strip=all"
     }
   ]
 }
