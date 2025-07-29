@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-29T21:28:16.007Z",
+  "lastUpdated": "2025-07-29T22:28:49.052Z",
   "articles": [
+    {
+      "title": "Will ‘The Power Bill Reduction Act’ Make Electric Bills Go Down or Up in N.C.?",
+      "description": "Duke Energy can now backslide on its legally mandated carbon emissions reductions, offload a greater share of fuel costs to residential customers and ...",
+      "link": "https://insideclimatenews.org/news/29072025/will-north-carolina-power-bill-reduction-act-work/",
+      "pubDate": "Tue, 29 Jul 2025 21:50:08 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Brazil development law risks Amazon deforestation, UN expert warns",
+      "description": "A new environmental licensing law has been criticised by environmentalists as Brazil prepares for COP30....",
+      "link": "https://www.bbc.com/news/articles/cy98jqr4p0xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Jul 2025 21:36:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "As Climate-Related Wastewater Threats Grow, U.S. and Mexico Sign a Deal to End the Tijuana Sewage Crisis",
       "description": "Every day, the Tijuana River spews millions of gallons of untreated sewage from Mexico into California, much of which ends up in the ocean. For decade...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As a Heat Wave Roiled Illinois, People Incarcerated Suffered The Most",
-      "description": "As heat grips Illinois this summer, one group is more vulnerable to extreme heat than any other: Those incarcerated inside the state’s decaying prison...",
-      "link": "https://insideclimatenews.org/news/28072025/illinois-heat-wave-prisons/",
-      "pubDate": "Mon, 28 Jul 2025 21:22:07 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the world&#8217;s highest court bolstered the fight for climate reparations",
-      "description": "The International Court of Justice ruling that climate harm violates international law is expected to shape current — and future — climate lawsuits as...",
-      "link": "https://grist.org/global-indigenous-affairs-desk/the-worlds-highest-court-bolstered-the-fight-for-climate-reparations/",
-      "pubDate": "Mon, 28 Jul 2025 20:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/international-court-justice-climate-change-ruling-Vanuatu-impact-Ralph-Regenvanu.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
