@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-30T04:08:26.783Z",
+  "lastUpdated": "2025-07-30T05:36:34.132Z",
   "articles": [
+    {
+      "title": "Half of UK councils still use pesticides in public places, research finds",
+      "description": "&lt;p&gt;Pesticide-free movement has grown, but many local authorities still spray weedkiller linked to wildlife declines and cancer&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2025/jul/30/uk-councils-pesticides-weedkiller-glyphosate",
+      "pubDate": "Wed, 30 Jul 2025 05:00:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f05a90acab5117942062830f156db19ea01115c9/728_0_3640_2912/master/3640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbbf283015fabb439ef822e1c9908c99"
+    },
     {
       "title": "Deadly China floods leave trail of destruction – in pictures",
       "description": "&lt;p&gt;Floods have caused extensive damage in Beijing and northern China, killing 30 people and forcing tens of thousands to evacuate. &lt;/p&gt;&lt...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/Hero.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "This Indian rapper is spitting bars about climate justice, caste, and Indigenous rights",
-      "description": "In her latest single, Mahi G spotlights the outdoor workers vulnerable to extreme heat....",
-      "link": "https://grist.org/arts-culture/indian-rapper-climate-justice-caste-and-indigenous-rights/",
-      "pubDate": "Tue, 29 Jul 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
