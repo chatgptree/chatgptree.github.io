@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-30T17:28:40.416Z",
+  "lastUpdated": "2025-07-30T18:41:30.940Z",
   "articles": [
+    {
+      "title": "The Guardian view on England’s riverbanks: landscapes that everyone should be able to enjoy | Editorial",
+      "description": "&lt;p&gt;Only a small sliver of riverside land is accessible to the public. Rights of way shouldn’t depend on the goodwill of landowners&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/30/the-guardian-view-on-englands-riverbanks-landscapes-that-everyone-should-be-able-to-enjoy",
+      "pubDate": "Wed, 30 Jul 2025 17:48:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e8a0994d41de9d20050627d681cea6b5eea30ad7/451_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a718baffccab41e5ef0f09d4ffde476"
+    },
     {
       "title": "Four Montagu’s harrier chicks take flight in first UK breeding success since 2019",
       "description": "&lt;p&gt;Young birds were closely monitored and protected from predators after six summers without fledging success&lt;/p&gt;&lt;p&gt;A pair of Montag...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump moves to scrap climate rule tying greenhouse gases to public health harm",
-      "description": "&lt;p&gt;EPA administrator Lee Zeldin announced plans to revoke key scientific finding that allows for US climate regulation&lt;/p&gt;&lt;p&gt;Donald ...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/29/trump-zeldin-epa-greenhouse-gas-emissions",
-      "pubDate": "Tue, 29 Jul 2025 16:18:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4f65b8b9cede5541663eea3491eeb470ddbdb0e0/780_0_3086_2470/master/3086.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80e2050af7f6cd1bdebf86acbce8772f"
     }
   ]
 }
