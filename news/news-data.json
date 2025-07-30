@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-30T07:32:10.316Z",
+  "lastUpdated": "2025-07-30T08:39:05.873Z",
   "articles": [
+    {
+      "title": "Trump&#8217;s EPA is attacking its own power to fight climate change",
+      "description": "The decision could have far-reaching consequences — including for the fossil fuel industry, which may find itself exposed to a flood of new litigation...",
+      "link": "https://grist.org/politics/epa-endangerment-finding-zeldin-announcement/",
+      "pubDate": "Wed, 30 Jul 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-2196949508.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Trump&#8217;s environmental policies are reshaping everyday life. Here&#8217;s how.",
+      "description": "The president’s rollbacks and funding cuts are affecting your food, water, and air — even if you don’t realize it....",
+      "link": "https://grist.org/politics/trumps-environmental-policies-are-impacting-your-daily-routine/",
+      "pubDate": "Wed, 30 Jul 2025 08:08:48 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/trump-climate-rollback-energy-water-weather.webp?quality=75&#038;strip=all"
+    },
     {
       "title": "Ethnic minorities in England at higher risk of heat-related deaths, says study",
       "description": "&lt;p&gt;Research links poor housing, access to cooling and other economic factors to higher mortality rates during heatwaves&lt;/p&gt;&lt;p&gt;Ethnic...",
@@ -47,7 +65,7 @@
       "image": "https://i.guim.co.uk/img/media/0a862aab946408925cba727a5bd94d9fc3054976/240_0_3544_2834/master/3544.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0152efaa32a55302423aa55ef23c1321"
     },
     {
-      "title": "Why plane turbulence is really becoming more frequent - and more severe",
+      "title": "Why plane turbulence is becoming more frequent - and more severe",
       "description": "Flights are getting bumpier, thanks in part to climate change. But new studies are looking into innovative potential ways to turbulence-proof wings - ...",
       "link": "https://www.bbc.com/news/articles/ckgy7jx082ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 29 Jul 2025 23:00:12 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfire Evacuees and Asylum Seekers Strain Niagara Falls’ Housing Capacity During Tourism Season",
-      "description": "NIAGARA FALLS, Ontario—Geoffrey Ross is no stranger to wildfire evacuations. But in late May, when the flames of one of the conflagrations that have p...",
-      "link": "https://insideclimatenews.org/news/29072025/wildfire-evacuees-niagara-falls-housing-capacity/",
-      "pubDate": "Tue, 29 Jul 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate change has sent coffee prices soaring. Trump&#8217;s tariffs will send them higher.",
-      "description": "From drought-stricken farms to rising trade barriers, the global coffee industry is facing unprecedented strain....",
-      "link": "https://grist.org/food-and-agriculture/coffee-expensive-climate-change-trump-tariffs-brazil-vietnam/",
-      "pubDate": "Tue, 29 Jul 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/GettyImages-2014670390.jpg?quality=75&amp;strip=all"
     }
   ]
 }
