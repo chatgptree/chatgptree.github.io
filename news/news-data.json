@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-30T08:39:05.873Z",
+  "lastUpdated": "2025-07-30T09:36:12.906Z",
   "articles": [
+    {
+      "title": "UN Human Rights Experts and Scientists Urge Brazil’s President to Veto a Law That Would Cut Environmental Reviews",
+      "description": "Independent experts with the United Nations Human Rights Council on Friday publicly called on President Luiz Inácio Lula da Silva of Brazil to veto pa...",
+      "link": "https://insideclimatenews.org/news/30072025/un-human-rights-council-brazil-environmental-review-law/",
+      "pubDate": "Wed, 30 Jul 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Illinois’ Governor Has Led on Climate Policy. Here’s How Experts Assess His Work So Far",
+      "description": "Illinois Gov. JB Pritzker, who announced last month that he’s running for a third term in 2026, has been outspoken in challenging the Democratic Party...",
+      "link": "https://insideclimatenews.org/news/30072025/illinois-governor-jb-pritzker-climate-policy/",
+      "pubDate": "Wed, 30 Jul 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump&#8217;s EPA is attacking its own power to fight climate change",
       "description": "The decision could have far-reaching consequences — including for the fossil fuel industry, which may find itself exposed to a flood of new litigation...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/13db5c14599a48faba065cb0e946d9071e2ad932/0_74_1000_800/master/1000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f064a516e3813986e1f375becbbde70d"
-    },
-    {
-      "title": "Nations Denounce Deep Sea Mining Company’s Bid to Exploit Metals in the Pacific Under US Law",
-      "description": "As delegates from member states of the International Seabed Authority entered the third and final week of high-stakes negotiations on deep-sea mining,...",
-      "link": "https://insideclimatenews.org/news/29072025/nations-denounce-deep-sea-mining-bid-pacific-us/",
-      "pubDate": "Tue, 29 Jul 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Promised a Drilling Boom. The New Rigs Haven’t Showed Up Yet",
-      "description": "“We will drill, baby, drill,” President Donald Trump declared at his inauguration on Jan. 20. Echoing the slogan that exemplified his energy policies ...",
-      "link": "https://insideclimatenews.org/news/29072025/trump-drilling-boom-promise-stagnant/",
-      "pubDate": "Tue, 29 Jul 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
