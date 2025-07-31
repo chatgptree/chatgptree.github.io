@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-07-31T04:07:22.769Z",
+  "lastUpdated": "2025-07-31T05:35:09.390Z",
   "articles": [
+    {
+      "title": "After nearly 100 years, adult winter-run Chinook salmon seen in California river",
+      "description": "&lt;p&gt;State’s fish and wildlife department posted a video showing an adult female guarding a nest of eggs&lt;/p&gt;&lt;p&gt;Adult winter-run Chinoo...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/31/winter-run-chinook-salmon-california",
+      "pubDate": "Thu, 31 Jul 2025 05:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e6cada58a8af0923eb1a5a551b10a4cbbac07d63/739_310_4612_3690/master/4612.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d7219e4376af4530b580fe4e8334793"
+    },
+    {
+      "title": "‘Best job in the natural world’: seed collector enlisted as modern-day Darwin to document the world’s plants",
+      "description": "&lt;p&gt;Newly appointed expedition botanist Matthew Jeffery feels ‘daunted’ but inspired by his unique globetrotting role collecting wild species&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/jul/31/matthew-jeffery-expedition-botanist-best-job-darwin-cambridge-university-botanic-garden-aoe",
+      "pubDate": "Thu, 31 Jul 2025 05:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/67b0cca32519620ff20ab9e0e8b232555d500732/726_0_6083_4867/master/6083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57c47b4a9ad7be76191bb63ceb59abae"
+    },
     {
       "title": "Supersized stick insect discovered in high-altitude trees in Australia",
       "description": "&lt;p&gt;The 40cm-long insect, named &lt;em&gt;Acrophylla alta,&lt;/em&gt; weighs slightly less than a golf ball and may be the heaviest insect in Aus...",
@@ -101,6 +119,15 @@
       "image": "https://i.guim.co.uk/img/media/ac61a094ee48fda43e19035e91ba5614960d363f/942_0_6653_5322/master/6653.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17b125d37fa0ec230cb476d757aff904"
     },
     {
+      "title": "Experts baffled as rarely seen beaked whales involved in series of strandings",
+      "description": "&lt;p&gt;Incidents across northern Europe on 26 and 27 July have left scientists trying to understand why so many of the deep-diving whales have appea...",
+      "link": "https://www.theguardian.com/environment/2025/jul/30/beaked-whales-strandings-july-western-ireland-orkney-netherlands",
+      "pubDate": "Wed, 30 Jul 2025 10:00:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c64b46c27529e6158baf31bf7ab2c8333a8dffb4/546_0_3931_3147/master/3931.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33912502c40a0dd1c1ed2419c1562867"
+    },
+    {
       "title": "UN Human Rights Experts and Scientists Urge Brazil’s President to Veto a Law That Would Cut Environmental Reviews",
       "description": "Independent experts with the United Nations Human Rights Council on Friday publicly called on President Luiz Inácio Lula da Silva of Brazil to veto pa...",
       "link": "https://insideclimatenews.org/news/30072025/un-human-rights-council-brazil-environmental-review-law/",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c741lll88q5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 29 Jul 2025 23:05:11 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why plane turbulence is becoming more frequent - and more severe",
-      "description": "Flights are getting bumpier, thanks in part to climate change. But new studies are looking into innovative potential ways to turbulence-proof wings - ...",
-      "link": "https://www.bbc.com/news/articles/ckgy7jx082ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Jul 2025 23:00:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Capped Alabama Coal Ash Pond Still Polluting Groundwater 7 Years After Closure, Lawsuit Claims",
-      "description": "GADSDEN, Ala.—The coal ash lagoon at Alabama Power’s Plant Gadsden was supposed to be a model for how to close ash ponds by covering them in place, a ...",
-      "link": "https://insideclimatenews.org/news/29072025/alabama-coal-ash-groundwater-pollution-lawsuit/",
-      "pubDate": "Tue, 29 Jul 2025 22:37:34 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EPA Rescinds Finding That Greenhouse Gas Emissions Harm Human Health, Hobbling U.S. Climate Action",
-      "description": "At an automobile dealership in Indianapolis on Tuesday, Environmental Protection Agency administrator Lee Zeldin announced plans to rescind the scienc...",
-      "link": "https://insideclimatenews.org/news/29072025/epa-rescinds-endangerment-finding-greenhouse-gas-emissions/",
-      "pubDate": "Tue, 29 Jul 2025 22:29:21 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
