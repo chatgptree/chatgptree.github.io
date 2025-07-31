@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-30T23:28:00.192Z",
+  "lastUpdated": "2025-07-31T02:26:33.736Z",
   "articles": [
+    {
+      "title": "Fears for South Australia’s annual cuttlefish gathering amid deadly algal bloom",
+      "description": "&lt;p&gt;Breeding event known as Cuttlefest takes place in waters off Point Lowly but this year scientists warn the effect of toxic algae could be ‘ca...",
+      "link": "https://www.theguardian.com/environment/2025/jul/31/fears-for-south-australias-annual-cuttlefish-gathering-amid-deadly-algal-bloom",
+      "pubDate": "Thu, 31 Jul 2025 01:32:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f0b01558fa61d5a61a08b64b7a94b4e6b7c55af4/396_0_1756_1406/master/1756.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3c278f412744cfe8847c01eeda65a15"
+    },
+    {
+      "title": "'Communities' of strange, extreme life seen for first time in deep ocean",
+      "description": "A Chinese-led research team captures pictures of life at depths of more than 9km in the northwest Pacific Ocean....",
+      "link": "https://www.bbc.com/news/articles/c3wnqe5j99do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 31 Jul 2025 00:02:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate Scientists Look to Fight Back Against DOE’s ‘Antiscientific,’ ‘Deceptive’ Climate Report",
+      "description": "Several top climate scientists are weighing how to respond to a new climate report issued by the Trump administration that they are calling “deceptive...",
+      "link": "https://insideclimatenews.org/news/30072025/climate-scientists-fight-against-energy-department-report/",
+      "pubDate": "Thu, 31 Jul 2025 00:02:11 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Countries failing to act on UN climate pledge to triple renewables, thinktank finds",
       "description": "&lt;p&gt;Fossil fuel reliance likely to continue and Cop28 target of limiting global heating to below 1.5C will be missed&lt;/p&gt;&lt;p&gt;&lt;/p&gt;...",
@@ -9,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/51ba33bd936dc5aeb97df176b28f925b270aedd3/185_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f29d239c2d7cc5349dfbe919608db80"
+    },
+    {
+      "title": "First Australian-made rocket crashes shortly after lift-off",
+      "description": "The company behind the country's first orbital rocket called the launch a 'giant leap' despite crashing after only 14 seconds....",
+      "link": "https://www.bbc.com/news/videos/cz93xzv3njjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Jul 2025 22:10:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Hundreds of Old EV Batteries Have New Jobs in Texas: Stabilizing the Grid",
@@ -54,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1a7bc5460e8b942857bee6528df7bd81941ecad9/76_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8241dc7d315ea3cbf8d45c4f787da6f1"
-    },
-    {
-      "title": "UN holds emergency talks over sky-high accommodation costs at Cop30 in Brazil",
-      "description": "&lt;p&gt;Concerns poorer countries could be priced out of negotiations in Belém as room rates soar amid shortage&lt;/p&gt;&lt;p&gt;The UN climate bure...",
-      "link": "https://www.theguardian.com/environment/2025/jul/30/un-emergency-talks-sky-high-accommodation-costs-cop30-brazil",
-      "pubDate": "Wed, 30 Jul 2025 14:12:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/14a002c310a1fb0c048550bb591b913b623ecc3a/55_0_4006_3208/master/4006.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ec09ef725d73438dd0381df92382a97"
     },
     {
       "title": "Elon Musk is turning US liberals off not just Tesla but electric vehicles in general",
@@ -150,33 +177,6 @@
       "description": "At an automobile dealership in Indianapolis on Tuesday, Environmental Protection Agency administrator Lee Zeldin announced plans to rescind the scienc...",
       "link": "https://insideclimatenews.org/news/29072025/epa-rescinds-endangerment-finding-greenhouse-gas-emissions/",
       "pubDate": "Tue, 29 Jul 2025 22:29:21 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Will ‘The Power Bill Reduction Act’ Make Electric Bills Go Down or Up in N.C.?",
-      "description": "Duke Energy can now backslide on its legally mandated carbon emissions reductions, offload a greater share of fuel costs to residential customers and ...",
-      "link": "https://insideclimatenews.org/news/29072025/will-north-carolina-power-bill-reduction-act-work/",
-      "pubDate": "Tue, 29 Jul 2025 21:50:08 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New Brazil development law risks Amazon deforestation, UN expert warns",
-      "description": "A new environmental licensing law has been criticised by environmentalists as Brazil prepares for COP30....",
-      "link": "https://www.bbc.com/news/articles/cy98jqr4p0xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Jul 2025 21:36:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Climate-Related Wastewater Threats Grow, U.S. and Mexico Sign a Deal to End the Tijuana Sewage Crisis",
-      "description": "Every day, the Tijuana River spews millions of gallons of untreated sewage from Mexico into California, much of which ends up in the ocean. For decade...",
-      "link": "https://insideclimatenews.org/news/29072025/todays-climate-sewage-mexico-united-states-overflow-agreement/",
-      "pubDate": "Tue, 29 Jul 2025 17:44:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
