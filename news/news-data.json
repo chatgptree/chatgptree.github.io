@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-07-31T15:31:18.311Z",
+  "lastUpdated": "2025-07-31T16:36:47.902Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The 8.8 magnitude quake sent tsunami waves into Japan, Hawaii and the US west coast....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002gg7p?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 31 Jul 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Jason White on water management – cartoon",
+      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2025/jul/31/jason-white-on-water-management-cartoon\"&gt;Continue reading...&lt;/a&gt;...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2025/jul/31/jason-white-on-water-management-cartoon",
+      "pubDate": "Thu, 31 Jul 2025 15:58:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/af8f65298e7ce81b537705585ba17fbc81dec160/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ecedc781e8c6d1e57e437754b5d69078"
+    },
+    {
+      "title": "Farmers and scientists join forces in Cornwall to vaccinate badgers against TB",
+      "description": "&lt;p&gt;The groups have long been at odds over culling of badgers in England as a way to control TB in cattle&lt;/p&gt;&lt;p&gt;The first farmer-led ...",
+      "link": "https://www.theguardian.com/environment/2025/jul/31/farmers-scientists-badgers-tuberculosis-tb-vaccination-cornwall",
+      "pubDate": "Thu, 31 Jul 2025 15:01:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/564f429645dd4fb4d965bdd7d474d816b26bbf58/530_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ce60f50bd7f15c8b651c24ae0802be5"
+    },
     {
       "title": "Coalition is wedging itself on climate crisis with net zero debate, warns Liberal MP in Scott Morrison’s former seat",
       "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Simon Kennedy warns closed-door party meeting against backsliding on efforts to cut carbon emissions&...",
@@ -101,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/67b0cca32519620ff20ab9e0e8b232555d500732/726_0_6083_4867/master/6083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57c47b4a9ad7be76191bb63ceb59abae"
     },
     {
-      "title": "Supersized stick insect discovered in high-altitude trees in Australia",
-      "description": "&lt;p&gt;The 40cm-long insect, named &lt;em&gt;Acrophylla alta,&lt;/em&gt; weighs slightly less than a golf ball and may be the heaviest insect in Aus...",
-      "link": "https://www.theguardian.com/environment/2025/jul/31/big-stick-insect-acrophylla-alta-found-north-queensland-trees",
-      "pubDate": "Thu, 31 Jul 2025 03:16:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3ed0318d5edec601708fc49fa81fd32691cd3920/0_299_540_432/master/540.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfd1b78ebf2e3b1b1d7161b2a80c7fde"
-    },
-    {
       "title": "'Communities' of strange, extreme life seen for first time in deep ocean",
       "description": "A Chinese-led research team captures pictures of life at depths of more than 9km in the northwest Pacific Ocean....",
       "link": "https://www.bbc.com/news/articles/c3wnqe5j99do?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Elon Musk is turning US liberals off not just Tesla but electric vehicles in general",
-      "description": "&lt;p&gt;Disgust at the CEO’s rightwing activism is casting a pall but conservatives are no more likely to buy EVs&lt;/p&gt;&lt;p&gt;US liberals have ...",
-      "link": "https://www.theguardian.com/environment/2025/jul/30/elon-musk-tesla-liberals-electric-vehicles",
-      "pubDate": "Wed, 30 Jul 2025 10:00:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ac61a094ee48fda43e19035e91ba5614960d363f/942_0_6653_5322/master/6653.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17b125d37fa0ec230cb476d757aff904"
-    },
-    {
-      "title": "Experts baffled as rarely seen beaked whales involved in series of strandings",
-      "description": "&lt;p&gt;Incidents across northern Europe on 26 and 27 July have left scientists trying to understand why so many of the deep-diving whales have appea...",
-      "link": "https://www.theguardian.com/environment/2025/jul/30/beaked-whales-strandings-july-western-ireland-orkney-netherlands",
-      "pubDate": "Wed, 30 Jul 2025 10:00:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c64b46c27529e6158baf31bf7ab2c8333a8dffb4/546_0_3931_3147/master/3931.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33912502c40a0dd1c1ed2419c1562867"
     }
   ]
 }
