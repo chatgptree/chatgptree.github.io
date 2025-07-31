@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-31T19:24:34.633Z",
+  "lastUpdated": "2025-07-31T20:32:16.069Z",
   "articles": [
+    {
+      "title": "Top Texas emergency official says he was sick and asleep as deadly floods hit",
+      "description": "&lt;p&gt;William Thomas of Kerr county tells hearing illness meant he did not take part in emergency planning meetings&lt;/p&gt;&lt;p&gt;A key emergen...",
+      "link": "https://www.theguardian.com/us-news/2025/jul/31/texas-floods-hearing",
+      "pubDate": "Thu, 31 Jul 2025 19:56:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7a5fd4f3ea1de400046d93ee80801e49a1a260dc/646_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e41c9f2420f699beea86d00895745f3"
+    },
     {
       "title": "BBC Inside Science",
       "description": "The 8.8 magnitude quake sent tsunami waves into Japan, Hawaii and the US west coast....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e8a0994d41de9d20050627d681cea6b5eea30ad7/451_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a718baffccab41e5ef0f09d4ffde476"
-    },
-    {
-      "title": "Why did Russian mega earthquake not cause more tsunami damage?",
-      "description": "The earthquake was one of the strongest ever recorded, but its tsunami was not as bad as feared....",
-      "link": "https://www.bbc.com/news/articles/c0l6pj7kjg7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Jul 2025 16:09:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
