@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-01T10:32:15.995Z",
+  "lastUpdated": "2025-08-01T11:24:57.373Z",
   "articles": [
+    {
+      "title": "Monarch butterflies’ mass die off in 2024 caused by pesticide exposure – study",
+      "description": "&lt;p&gt;New peer-reviewed research found an average of seven pesticides in each of 10 butterflies tested&lt;/p&gt;&lt;p&gt;A 2024 mass monarch butter...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/01/monarch-butterflies-mass-die-off-pesticides",
+      "pubDate": "Fri, 01 Aug 2025 11:00:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/95c8ec96338fc5b12fe57fa973d059361960b00f/391_0_2558_2047/master/2558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=698571cfe51a0eeae60e086b4d303b9f"
+    },
     {
       "title": "Wet and wintry weekend in store for NSW, with warnings of heavy rainfall and damaging winds",
       "description": "&lt;p&gt;Weather bureau says bulk of the rain forecast to hit on weekend as a low-pressure system deepens off the coast&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
@@ -74,15 +83,6 @@
       "image": "https://i.guim.co.uk/img/media/814abc23a16a6f3ad6430d1aa26fec0d2092aabd/307_287_2882_2305/master/2882.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eca993d9377ad9296b2728a13ac2c196"
     },
     {
-      "title": "What will expanding Heathrow do to UK’s net zero plans?",
-      "description": "&lt;p&gt;Government is counting on tech to provide a panacea, but there may be simpler ways to keep climate goals on track&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
-      "link": "https://www.theguardian.com/environment/2025/aug/01/labour-plans-offset-heathrow-expansion-emissions",
-      "pubDate": "Fri, 01 Aug 2025 05:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c9987b216b856023833d749e03e1d81ce72c0b94/703_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58f88b0f7156c40ba12eb17e48db9df0"
-    },
-    {
       "title": "Tourist discovers ‘extinct’ jellyfish while rock-pooling in Outer Hebrides",
       "description": "&lt;p&gt;Thistle-shaped &lt;em&gt;Depastrum cyathiforme &lt;/em&gt;was last seen in France in 1976, but has now been found on South Uist&lt;/p&gt;&lt;...",
       "link": "https://www.theguardian.com/environment/2025/aug/01/tourist-rediscovers-jellyfish-rock-pooling-outer-hebrides",
@@ -90,6 +90,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/37bd05938556d5f6660c27cd54d7bf160f605826/18_64_1092_874/master/1092.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a815c700db531998691c25c0c5f71683"
+    },
+    {
+      "title": "What will expanding Heathrow do to UK’s net zero plans?",
+      "description": "&lt;p&gt;Government is counting on tech to provide a panacea, but there may be simpler ways to keep climate goals on track&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/environment/2025/aug/01/labour-plans-offset-heathrow-expansion-emissions",
+      "pubDate": "Fri, 01 Aug 2025 05:00:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c9987b216b856023833d749e03e1d81ce72c0b94/703_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58f88b0f7156c40ba12eb17e48db9df0"
     },
     {
       "title": "Heathrow submits ‘shovel-ready’ plans for third runway",
@@ -102,7 +111,7 @@
     },
     {
       "title": "EPA Delays Compliance with Methane Rule, Fulfilling Oil and Gas Industry’s Request",
-      "description": "The United States Environmental Protection Agency on Thursday published a rule extending deadlines for the oil and natural gas industry to limit emiss...",
+      "description": "The Environmental Protection Agency on Thursday published a rule extending deadlines for the oil and natural gas industry to limit emissions of methan...",
       "link": "https://insideclimatenews.org/news/31072025/epa-delays-methane-rule-compliance/",
       "pubDate": "Thu, 31 Jul 2025 21:45:41 +0000",
       "sourceName": "insideclimatenews.org",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The USDA announced the cancellation of $148M in ‘woke’ grants. Then it went dark.",
-      "description": "Farms, ranches, and food organizations brace for cuts, but the federal agency won’t say who’s next....",
-      "link": "https://grist.org/food-and-agriculture/usda-148-million-woke-grants-cancellation/",
-      "pubDate": "Thu, 31 Jul 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/climate-program.jpg?quality=75&#038;strip=all"
     }
   ]
 }
