@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-01T08:38:18.363Z",
+  "lastUpdated": "2025-08-01T09:34:16.665Z",
   "articles": [
+    {
+      "title": "Private Companies Step up to Gather Weather Data for NOAA as Staffing Cuts Hobble Agency Forecasting",
+      "description": "When staffing shortages caused the National Weather Service (NWS) to suspend weather balloon launches at its Kotzebue, Alaska, station earlier this ye...",
+      "link": "https://insideclimatenews.org/news/01082025/private-companies-noaa-weather-data/",
+      "pubDate": "Fri, 01 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Rural Puerto Rico, Water Systems Depend on Volunteers—and Threatened Federal Grants",
+      "description": "In Puerto Rico’s most rural municipalities, residents are often not connected to the main water system. The Puerto Rico Aqueduct and Sewer Authority (...",
+      "link": "https://insideclimatenews.org/news/01082025/puerto-rico-small-water-systems/",
+      "pubDate": "Fri, 01 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can protecting nature be nonpartisan?",
+      "description": "A conservative push for environmental stewardship clashes with federal policies that expand drilling, logging, and deregulation....",
+      "link": "https://grist.org/politics/nature-nonpartisan-conservation-make-america-beautifaul-again/",
+      "pubDate": "Fri, 01 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/Benji-Backer.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Texas lawmakers grill Kerr County officials as flood recovery plods on",
       "description": "Local officials emphasized the need for river gauges and real-time rainfall monitoring to better predict flash floods....",
@@ -151,33 +178,6 @@
       "link": "https://grist.org/indigenous/data-centers-drought-and-dispossession-the-real-nightmares-in-ari-asters-eddington/",
       "pubDate": "Thu, 31 Jul 2025 08:30:00 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After nearly 100 years, adult winter-run Chinook salmon seen in California river",
-      "description": "&lt;p&gt;State’s fish and wildlife department posted a video showing an adult female guarding a nest of eggs&lt;/p&gt;&lt;p&gt;Adult winter-run Chinoo...",
-      "link": "https://www.theguardian.com/us-news/2025/jul/31/winter-run-chinook-salmon-california",
-      "pubDate": "Thu, 31 Jul 2025 05:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e6cada58a8af0923eb1a5a551b10a4cbbac07d63/739_310_4612_3690/master/4612.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d7219e4376af4530b580fe4e8334793"
-    },
-    {
-      "title": "‘Best job in the natural world’: seed collector enlisted as modern-day Darwin to document the world’s plants",
-      "description": "&lt;p&gt;Newly appointed expedition botanist Matthew Jeffery feels ‘daunted’ but inspired by his unique globetrotting role collecting wild species&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/jul/31/matthew-jeffery-expedition-botanist-best-job-darwin-cambridge-university-botanic-garden-aoe",
-      "pubDate": "Thu, 31 Jul 2025 05:00:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67b0cca32519620ff20ab9e0e8b232555d500732/726_0_6083_4867/master/6083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57c47b4a9ad7be76191bb63ceb59abae"
-    },
-    {
-      "title": "'Communities' of strange, extreme life seen for first time in deep ocean",
-      "description": "A Chinese-led research team captures pictures of life at depths of more than 9km in the northwest Pacific Ocean....",
-      "link": "https://www.bbc.com/news/articles/c3wnqe5j99do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 31 Jul 2025 00:02:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
