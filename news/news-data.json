@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-02T12:55:05.409Z",
+  "lastUpdated": "2025-08-02T13:36:10.681Z",
   "articles": [
+    {
+      "title": "Hundreds of old EV batteries have new jobs in Texas: Stabilizing the grid",
+      "description": "After reaching the end of their automotive lives, the batteries are being reused to provide lower-cost grid energy storage....",
+      "link": "https://grist.org/energy/hundreds-of-old-ev-batteries-have-new-jobs-in-texas-stabilizing-the-grid/",
+      "pubDate": "Sat, 02 Aug 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/Houston-water-treatment-plant.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Nordic countries hit by ‘truly unprecedented’ heatwave",
       "description": "&lt;p&gt;Scientists record longest streak of temperatures higher than 30C in region in records going back to 1961&lt;/p&gt;&lt;p&gt;Cold Nordic countr...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/814abc23a16a6f3ad6430d1aa26fec0d2092aabd/307_287_2882_2305/master/2882.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eca993d9377ad9296b2728a13ac2c196"
-    },
-    {
-      "title": "EPA Delays Compliance with Methane Rule, Fulfilling Oil and Gas Industry’s Request",
-      "description": "The Environmental Protection Agency on Thursday published a rule extending deadlines for the oil and natural gas industry to limit emissions of methan...",
-      "link": "https://insideclimatenews.org/news/31072025/epa-delays-methane-rule-compliance/",
-      "pubDate": "Thu, 31 Jul 2025 21:45:41 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
