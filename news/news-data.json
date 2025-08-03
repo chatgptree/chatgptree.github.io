@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-03T08:34:14.836Z",
+  "lastUpdated": "2025-08-03T09:28:05.801Z",
   "articles": [
+    {
+      "title": "Sweden, an Early Climate Leader, Is Retreating From Its Environmental Commitments, Part of an EU Trend",
+      "description": "Five years after the European Union vowed to lead the creation of the “first climate neutral continent” by 2050, and pledged at least a trillion euros...",
+      "link": "https://insideclimatenews.org/news/03082025/sweden-retreats-from-environmental-commitments/",
+      "pubDate": "Sun, 03 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Virginia’s Democratic Gubernatorial Candidate Embraces Renewables, Natural Gas and Community Planning for Data Centers",
+      "description": "Former Congresswoman Abigail Spanberger is campaigning for Virginia’s governor’s race on an energy platform that supports robust renewable development...",
+      "link": "https://insideclimatenews.org/news/03082025/virginia-democratic-gubernatorial-candidate-abigail-spanberger/",
+      "pubDate": "Sun, 03 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Melting glaciers threaten to wipe out European villages - is the steep cost to protect them worth it?",
       "description": "Switzerland spends almost $500m a year on protective structures. Is it worth it - or, as some suggest, should people move away from the mountain villa...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/08/Benji-Backer.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Texas lawmakers grill Kerr County officials as flood recovery plods on",
-      "description": "Local officials emphasized the need for river gauges and real-time rainfall monitoring to better predict flash floods....",
-      "link": "https://grist.org/extreme-weather/texas-lawmakers-kerr-county-hearing-flood-recovery-fema/",
-      "pubDate": "Fri, 01 Aug 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Your politics, age, and gender predict your disaster readiness",
-      "description": "Disaster-readiness might depend more on who you are than where you live....",
-      "link": "https://grist.org/extreme-weather/floods-fires-and-false-confidence-americas-disaster-problem-is-personal/",
-      "pubDate": "Fri, 01 Aug 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
