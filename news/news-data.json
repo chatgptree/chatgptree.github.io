@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-04T19:26:02.328Z",
+  "lastUpdated": "2025-08-04T20:32:32.185Z",
   "articles": [
+    {
+      "title": "New Data Center Proposals Would ‘Kill’ Michigan’s Strong New Climate Laws",
+      "description": "The “offramp” provision in Michigan’s 2023 climate and clean energy laws allows utilities to keep running or building fossil fuel plants if renewable ...",
+      "link": "https://insideclimatenews.org/news/04082025/michigan-data-centers-would-kill-climate-laws/",
+      "pubDate": "Mon, 04 Aug 2025 19:42:13 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Central California issues evacuation orders after wildfire burns 65,000 acres",
+      "description": "&lt;p&gt;More than 450 structures are under threat by the Gifford blaze, with only 3% of its perimeter contained&lt;/p&gt;&lt;p&gt;Evacuations have be...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/04/california-evacuations-gifford-fire",
+      "pubDate": "Mon, 04 Aug 2025 19:20:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2a625f0364bc0fb3567146b91fec9a3ffc9101a1/338_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=877db3421a42706fa54c911c9a790bf3"
+    },
     {
       "title": "Canada wildfires prompt severe air quality alerts across country and US",
       "description": "&lt;p&gt;More than 700 active wildfires burning across Canada and about two-thirds are currently out-of-control&lt;/p&gt;&lt;p&gt;Billowing smoke from...",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cj4w9ggzxv4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 02 Aug 2025 23:06:56 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hundreds of old EV batteries have new jobs in Texas: Stabilizing the grid",
-      "description": "After reaching the end of their automotive lives, the batteries are being reused to provide lower-cost grid energy storage....",
-      "link": "https://grist.org/energy/hundreds-of-old-ev-batteries-have-new-jobs-in-texas-stabilizing-the-grid/",
-      "pubDate": "Sat, 02 Aug 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/Houston-water-treatment-plant.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Marine Tourism in Mexico Remains Damaging to Wildlife Despite Regulations, Research Finds",
-      "description": "Every December, hundreds of humpback whales arrive at Bahía de Banderas, a warm and turquoise bay nestled along Mexico’s western coast, right where th...",
-      "link": "https://insideclimatenews.org/news/02082025/mexico-marine-tourism-damaging-wildlife/",
-      "pubDate": "Sat, 02 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
