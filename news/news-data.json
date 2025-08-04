@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-03T23:27:53.082Z",
+  "lastUpdated": "2025-08-04T02:36:34.395Z",
   "articles": [
+    {
+      "title": "Mission begins to save snails threatened by own beauty",
+      "description": "Researchers in Cuba and the UK are working together to reveal the biological secrets of the beautiful but endangered Polymita snail. ...",
+      "link": "https://www.bbc.com/news/articles/clyrv8ndzzjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 04 Aug 2025 00:46:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Rewilding group to assess possible return of white storks to London",
       "description": "&lt;p&gt;Citizen Zoo to map habitats in the capital and consult boroughs and the public about reintroduction of the birds&lt;/p&gt;&lt;p&gt;An urban r...",
@@ -38,8 +47,8 @@
       "image": "https://grist.org/wp-content/uploads/2025/07/WindTurbineLI.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "Clean energy subsidies should be replaced with ‘market-based incentives’ from 2030, Productivity Commission says",
-      "description": "&lt;p&gt;Interim report on investing in cheaper, cleaner energy and the net zero transformation sets out reforms to boost Australia’s productivity&lt;...",
+      "title": "Clean energy subsidies should be replaced with ‘market-based incentives’ from 2030, Australia’s Productivity Commission says",
+      "description": "&lt;p&gt;Interim report on investing in cheaper, cleaner energy and the net zero transformation sets out reforms&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
       "link": "https://www.theguardian.com/australia-news/2025/aug/03/clean-energy-subsidies-should-be-replaced-with-market-based-incentives-from-2030-productivity-commission-says",
       "pubDate": "Sun, 03 Aug 2025 12:30:39 GMT",
       "sourceName": "theguardian.com",
@@ -54,6 +63,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b13dec65d1fda24335d32e018af1bbe025c04245/2756_1309_3964_3171/master/3964.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba875af4dec58ea6ffeeec63225adbb3"
+    },
+    {
+      "title": "Russian volcano erupts for first time in more than 500 years",
+      "description": "The eruption of a volcano in Russia's Kamchatka peninsula may be linked to a massive earthquake last week, experts say....",
+      "link": "https://www.bbc.com/news/articles/c0r7qlwg4zro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 03 Aug 2025 09:05:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Sweden, an Early Climate Leader, Is Retreating From Its Environmental Commitments, Part of an EU Trend",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/95c8ec96338fc5b12fe57fa973d059361960b00f/391_0_2558_2047/master/2558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=698571cfe51a0eeae60e086b4d303b9f"
-    },
-    {
-      "title": "He may talk rubbish but Trump has an eye for beauty, and that is a breath of fresh air | Simon Jenkins",
-      "description": "&lt;p&gt;The US president promotes classical architecture and loathes ‘ugly’ wind turbines. Keir Starmer would dismiss him as a nimby, but on this Tru...",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/01/donald-trump-beauty-wind-turbines-natural-landscape",
-      "pubDate": "Fri, 01 Aug 2025 09:32:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dffbbf6951ec4eeed2afe21c3ec881dc05de80c6/422_0_4220_3376/master/4220.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e2a45c107a2e8604a392ab6692f7dfe"
-    },
-    {
-      "title": "Private Companies Step up to Gather Weather Data for NOAA as Staffing Cuts Hobble Agency Forecasting",
-      "description": "When staffing shortages caused the National Weather Service (NWS) to suspend weather balloon launches at its Kotzebue, Alaska, station earlier this ye...",
-      "link": "https://insideclimatenews.org/news/01082025/private-companies-noaa-weather-data/",
-      "pubDate": "Fri, 01 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
