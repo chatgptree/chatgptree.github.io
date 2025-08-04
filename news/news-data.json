@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-04T08:39:54.661Z",
+  "lastUpdated": "2025-08-04T09:40:11.003Z",
   "articles": [
+    {
+      "title": "Experts Slam Chesapeake Bay Draft Plan Over Lack of Pollution Targets and Accountability",
+      "description": "The newest draft of the Chesapeake Bay Watershed Agreement lacks meaningful pollution reduction targets and allows states to evade legal accountabilit...",
+      "link": "https://insideclimatenews.org/news/04082025/chesapeake-bay-draft-plan-lacks-accountability/",
+      "pubDate": "Mon, 04 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate disasters are killing small businesses",
+      "description": "Climate change could wipe out your favorite small businesses....",
+      "link": "https://grist.org/extreme-weather/climate-disasters-are-killing-small-businesses/",
+      "pubDate": "Mon, 04 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/corn.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "New Zealand to charge foreign tourists to visit most famous sites",
       "description": "&lt;p&gt;Visitors to pay up to NZ$40 to access certain attractions in coming years amid overhaul of conservation laws&lt;/p&gt;&lt;p&gt;New Zealand pl...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/27f9d4dc597972c11f6a5d33ef48d2d3cf58b2c1/1174_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28a86a71b2dd095f79038307f5ee7ffc"
-    },
-    {
-      "title": "Scientists slam Trump administration climate report as a ‘farce’ full of misinformation",
-      "description": "&lt;p&gt;Experts say the report being used to justify the mass rollback of climate regulations has many claims based on long-debunked research&lt;/p&g...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/01/trump-epa-climate-change-report",
-      "pubDate": "Fri, 01 Aug 2025 16:01:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/477624dadfcc046b6646ce3fb75131eda1555d5f/127_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=83e963fbd45d5d846f5fa6a59f88d6a6"
-    },
-    {
-      "title": "Monarch butterflies’ mass die-off in 2024 caused by pesticide exposure – study",
-      "description": "&lt;p&gt;New peer-reviewed research found an average of seven pesticides in each of 10 butterflies tested&lt;/p&gt;&lt;p&gt;A 2024 mass monarch butter...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/01/monarch-butterflies-mass-die-off-pesticides",
-      "pubDate": "Fri, 01 Aug 2025 11:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/95c8ec96338fc5b12fe57fa973d059361960b00f/391_0_2558_2047/master/2558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=698571cfe51a0eeae60e086b4d303b9f"
     }
   ]
 }
