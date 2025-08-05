@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-05T19:27:31.494Z",
+  "lastUpdated": "2025-08-05T20:30:20.497Z",
   "articles": [
+    {
+      "title": "Copper Mines Close in on Western Apache Sacred Site, and the Forest Protected to Mitigate The Damage",
+      "description": "MAMMOTH, Ariz.—On the banks of the San Pedro River lies one of the American Southwest’s few remaining old-growth mesquite bosques—a streamside forest ...",
+      "link": "https://insideclimatenews.org/news/05082025/western-apache-sacred-site-copper-mines/",
+      "pubDate": "Tue, 05 Aug 2025 20:16:56 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Great Barrier Reef suffers worst coral decline on record",
+      "description": "Reefs have been battered by cyclones and starfish that eat coral, but heat stress driven by climate change is the main cause of damage....",
+      "link": "https://www.bbc.com/news/articles/cvg3pp52m65o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 05 Aug 2025 19:38:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on plastic pollution: global action is desperately needed to deal with this scourge | Editorial",
       "description": "&lt;p&gt;Delegates at UN treaty talks must not allow negotiations to be derailed again by fossil fuel interests&lt;/p&gt;&lt;p&gt;Plastic pollution ha...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/febb9e6ab170b16c9da352cb6598e668a029a5c7/241_722_2157_1726/master/2157.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=902ce1d0c3a12e88f8aea3f8552179d3"
-    },
-    {
-      "title": "Central California issues evacuation orders after wildfire burns 72,000 acres",
-      "description": "&lt;p&gt;At least three people injured and over 450 structures under threat by Gifford blaze, with only 3% of perimeter contained&lt;/p&gt;&lt;p&gt;A ...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/04/california-evacuations-gifford-fire",
-      "pubDate": "Tue, 05 Aug 2025 02:06:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2a625f0364bc0fb3567146b91fec9a3ffc9101a1/338_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=877db3421a42706fa54c911c9a790bf3"
-    },
-    {
-      "title": "Amid Federal PFAS Rollbacks, New Jersey Scores Record $2 Billion DuPont Settlement",
-      "description": "While the federal government is scaling back regulations on “forever chemicals,” New Jersey is holding polluters accountable, announcing a record-brea...",
-      "link": "https://insideclimatenews.org/news/04082025/new-jersey-record-2-billion-dupont-settlement/",
-      "pubDate": "Mon, 04 Aug 2025 22:06:22 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
