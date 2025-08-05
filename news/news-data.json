@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-05T11:26:02.000Z",
+  "lastUpdated": "2025-08-05T13:02:39.909Z",
   "articles": [
+    {
+      "title": "Nasa to put nuclear reactor on the Moon by 2030 - US media",
+      "description": "The reactor would provide power for humans on the Moon but there are questions about feasability....",
+      "link": "https://www.bbc.com/news/articles/cev2dylxv74o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 05 Aug 2025 11:36:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "First-of-a-kind US class action lawsuit would force EPA to reinstate $3bn climate program",
+      "description": "&lt;p&gt;Coalition of non-profits, tribes and local governments sued EPA chief for halting climate justice grants&lt;/p&gt;&lt;p&gt;The Trump administ...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/05/environmental-agency-climate-justice-grants-freeze-lawsuit",
+      "pubDate": "Tue, 05 Aug 2025 11:30:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9c7a7003ffd8f29a0d0bde07423fe52b761e892e/275_0_5209_4168/master/5209.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8e3e875ed457ab41fd5a583272da1fa"
+    },
     {
       "title": "Kids in Pennsylvania Are Breathing (Much) Easier After a Coal Plant Shuttered",
       "description": "In 2015, when Karen Grzywinski heard that the Shenango Coke Works near Pittsburgh was closing after 54 years in operation, she didn’t believe it. Neit...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/913d85fd6b2686685053ed73d8adffc86a9232d8/499_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1527f1b3ff3c5eb8dcf5241ebb22aaf4"
-    },
-    {
-      "title": "Scientists Pinpoint Cause of Massive Sea Star Die-Offs, and Suspect a Link to Global Warming",
-      "description": "After years of scientific sleuthing, a team of West Coast researchers reported that they have identified a particular strain of ocean bacteria that ha...",
-      "link": "https://insideclimatenews.org/news/04082025/massive-sea-star-die-offs-global-warming/",
-      "pubDate": "Mon, 04 Aug 2025 15:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "This New York City island was once a military base. Now it’s becoming a climate solutions hub – in pictures",
-      "description": "&lt;p&gt;Governors Island, a 172-acre island in New York Harbor only accessible by ferry, attracts nearly a million visitors each year. More recently,...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/aug/04/governors-island-climate-solutions-hub",
-      "pubDate": "Mon, 04 Aug 2025 13:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8e484e8644446e4845354c078642b63e0978aa44/445_0_2110_1688/master/2110.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d48a6c58bce6e8b449332dd309a3f752"
     }
   ]
 }
