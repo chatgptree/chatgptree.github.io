@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-04T23:28:34.936Z",
+  "lastUpdated": "2025-08-05T02:29:59.507Z",
   "articles": [
+    {
+      "title": "Central California issues evacuation orders after wildfire burns 72,000 acres",
+      "description": "&lt;p&gt;At least three people injured and over 450 structures under threat by Gifford blaze, with only 3% of perimeter contained&lt;/p&gt;&lt;p&gt;A ...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/04/california-evacuations-gifford-fire",
+      "pubDate": "Tue, 05 Aug 2025 02:06:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2a625f0364bc0fb3567146b91fec9a3ffc9101a1/338_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=877db3421a42706fa54c911c9a790bf3"
+    },
     {
       "title": "Amid Federal PFAS Rollbacks, New Jersey Scores Record $2 Billion DuPont Settlement",
       "description": "While the federal government is scaling back regulations on “forever chemicals,” New Jersey is holding polluters accountable, announcing a record-brea...",
@@ -27,15 +36,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Central California issues evacuation orders after wildfire burns 65,000 acres",
-      "description": "&lt;p&gt;More than 450 structures are under threat by the Gifford blaze, with only 3% of its perimeter contained&lt;/p&gt;&lt;p&gt;Evacuations have be...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/04/california-evacuations-gifford-fire",
-      "pubDate": "Mon, 04 Aug 2025 19:20:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2a625f0364bc0fb3567146b91fec9a3ffc9101a1/338_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=877db3421a42706fa54c911c9a790bf3"
     },
     {
       "title": "Canada wildfires prompt severe air quality alerts across country and US",
@@ -116,7 +116,7 @@
       "pubDate": "Mon, 04 Aug 2025 04:36:35 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/ccdf4ee084522fd17a6350387b420c049bddbace/456_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a116487005f83ba73f18b45c836f2e5f"
+      "image": "https://i.guim.co.uk/img/media/a3de3c319e80eb310f8be885933cf9b6c2191405/480_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=905f873f45b327d909f2d45da0745ae2"
     },
     {
       "title": "Mission begins to save snails threatened by own beauty",
