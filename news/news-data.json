@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-05T08:39:51.804Z",
+  "lastUpdated": "2025-08-05T09:35:02.937Z",
   "articles": [
+    {
+      "title": "Kids in Pennsylvania Are Breathing (Much) Easier After a Coal Plant Shuttered",
+      "description": "In 2015, when Karen Grzywinski heard that the Shenango Coke Works near Pittsburgh was closing after 54 years in operation, she didn’t believe it. Neit...",
+      "link": "https://insideclimatenews.org/news/05082025/pittsburgh-asthma-cases-drop-after-coal-plant-closure/",
+      "pubDate": "Tue, 05 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New York Can’t Meet Its Ambitious Climate Targets. Maybe the Plan Was Doomed From the Start",
+      "description": "It’s hot and humid in New York City. After a long, cold winter, the heat came suddenly—days after the official start of summer. Central Park hit its h...",
+      "link": "https://insideclimatenews.org/news/05082025/new-york-fails-ambitious-climate-targets-utility-bills/",
+      "pubDate": "Tue, 05 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Here’s what to watch for at this month’s global plastics treaty talks",
+      "description": "Delegates are meeting in Geneva for a sixth — and potentially final — round of negotiations....",
+      "link": "https://grist.org/international/global-plastics-treaty-talks-explained-negotiations-geneva-inc-5-2/",
+      "pubDate": "Tue, 05 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/ENB_INC5_27Nov24_KiaraWorth-18.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "A new report shows how local climate activism leads to &#8216;remarkable&#8217; gains",
       "description": "Efforts to pass laws and advance clean energy projects can significantly reduce emissions, and at a low cost....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8e484e8644446e4845354c078642b63e0978aa44/445_0_2110_1688/master/2110.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d48a6c58bce6e8b449332dd309a3f752"
-    },
-    {
-      "title": "Tapirs, hummingbirds and a billion-dollar bedrock of gold: the Ecuador reserve that is now a battlefield over a new mine",
-      "description": "&lt;p&gt;A licence to dig in the Cajas region has been welcomed by some as an answer to economic woes. Yet many fear it will devastate a fragile ecosy...",
-      "link": "https://www.theguardian.com/environment/2025/aug/04/ecuador-cajas-mining-gold-silver-copper-exploitation-paramo-ecosystem-aoe",
-      "pubDate": "Mon, 04 Aug 2025 11:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2eaf66439c13fc4fda4722c13a66639a741bf6e2/743_0_5030_4024/master/5030.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca51caf81111858a00167048eee58e59"
-    },
-    {
-      "title": "Experts Slam Chesapeake Bay Draft Plan Over Lack of Pollution Targets and Accountability",
-      "description": "The newest draft of the Chesapeake Bay Watershed Agreement lacks meaningful pollution reduction targets and allows states to evade legal accountabilit...",
-      "link": "https://insideclimatenews.org/news/04082025/chesapeake-bay-draft-plan-lacks-accountability/",
-      "pubDate": "Mon, 04 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate disasters are killing small businesses",
-      "description": "Climate change could wipe out your favorite small businesses....",
-      "link": "https://grist.org/business/climate-disasters-are-killing-small-businesses/",
-      "pubDate": "Mon, 04 Aug 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/corn.jpg?quality=75&#038;strip=all"
     }
   ]
 }
