@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-06T09:35:41.534Z",
+  "lastUpdated": "2025-08-06T10:32:12.648Z",
   "articles": [
+    {
+      "title": "Meet the AI vegans | Arwa Mahdawi",
+      "description": "&lt;p&gt;They are choosing to abstain from using artificial intelligence for environmental, ethical and personal reasons. Maybe they have a point&lt;/...",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/06/meet-the-ai-vegans",
+      "pubDate": "Wed, 06 Aug 2025 10:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/32c97644ee92137425b44c2e81483a807bcec537/544_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=570b74b1b0eca8fa371a274ee31afb61"
+    },
     {
       "title": "To Florida’s Miccosukee Tribe, the Lands Around Alligator Alcatraz Are Sacred, Pythons and All",
       "description": "MIAMI—Less than four miles from Alligator Alcatraz, the Everglades detention site where the Trump administration aims to incarcerate and deport thousa...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on plastic pollution: global action is desperately needed to deal with this scourge | Editorial",
-      "description": "&lt;p&gt;Delegates at UN treaty talks must not allow negotiations to be derailed again by fossil fuel interests&lt;/p&gt;&lt;p&gt;Plastic pollution ha...",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/05/the-guardian-view-on-plastic-pollution-global-action-is-desperately-needed-to-deal-with-this-scourge",
-      "pubDate": "Tue, 05 Aug 2025 18:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/be323987708276f272eaef9f99988294db93de31/618_0_5906_4724/master/5906.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=257258c551ca128210f4a2bee3213c76"
     }
   ]
 }
