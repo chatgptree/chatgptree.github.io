@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-06T07:33:27.148Z",
+  "lastUpdated": "2025-08-06T08:39:23.097Z",
   "articles": [
+    {
+      "title": "The unlikely coalition fighting to keep Energy Star labels on your appliances",
+      "description": "The Trump administration wants to eliminate the energy-efficiency program, but bakers, builders, hot tub lobbyists, and chemical companies are trying ...",
+      "link": "https://grist.org/energy/unlikely-coalition-fighting-keep-energy-star-labels-appliances/",
+      "pubDate": "Wed, 06 Aug 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/Energy-Star-Trump-EPA-consumers-climate.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Following the USDA’s food and farm funding",
+      "description": "Your guide to what federal grants have been canceled or frozen, plus resources for farmers and food businesses that have been affected....",
+      "link": "https://grist.org/food-and-agriculture/following-the-usda-food-and-farm-funding/",
+      "pubDate": "Wed, 06 Aug 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/usda-building.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Oceangate's Titan whistleblower: 'People were sold a lie'",
       "description": "A former Oceangate employee says he told US authorities about safety concerns with the sub before it imploded....",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cev2dylxv74o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 05 Aug 2025 11:36:24 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "First-of-a-kind US class-action lawsuit would force EPA to reinstate $3bn climate program",
-      "description": "&lt;p&gt;Coalition of non-profits, tribes and local governments sued EPA chief for halting climate justice grants&lt;/p&gt;&lt;p&gt;The Trump administ...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/05/environmental-agency-climate-justice-grants-freeze-lawsuit",
-      "pubDate": "Tue, 05 Aug 2025 11:30:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9c7a7003ffd8f29a0d0bde07423fe52b761e892e/275_0_5209_4168/master/5209.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8e3e875ed457ab41fd5a583272da1fa"
-    },
-    {
-      "title": "Kids in Pennsylvania Are Breathing (Much) Easier After a Coal Plant Shuttered",
-      "description": "In 2015, when Karen Grzywinski heard that the Shenango Coke Works near Pittsburgh was closing after 54 years in operation, she didn’t believe it. Neit...",
-      "link": "https://insideclimatenews.org/news/05082025/pittsburgh-asthma-cases-drop-after-coal-plant-closure/",
-      "pubDate": "Tue, 05 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
