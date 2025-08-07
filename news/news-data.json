@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-08-07T08:39:10.912Z",
+  "lastUpdated": "2025-08-07T09:34:52.234Z",
   "articles": [
+    {
+      "title": "This summer brought an abundance of butterflies and birds. Nature is ready to spring back – if we let it | Patrick Barkham",
+      "description": "&lt;p&gt;The recent hopeful surge of some wildlife isn’t down to us. But in an era of climatic decline, it shows the resilience of our fellow species&...",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/07/summer-abundance-butterflies-birds-wildlife-species",
+      "pubDate": "Thu, 07 Aug 2025 09:00:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d73dcc5cfb315428927f086a1c6793b2ea1ab4b5/348_0_1877_1502/master/1877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8522e27cf49178bd8b5ec7f07dad231"
+    },
+    {
+      "title": "As a Critical Minerals Mine Nears Approval in Arizona, Residents Fear It’s Already Affecting Area Water",
+      "description": "PATAGONIA, Ariz.—When Becky and John Ball retired from careers in firefighting, they found their dream home in the foothills of Arizona’s famed Patago...",
+      "link": "https://insideclimatenews.org/news/07082025/arizona-south32-hermosa-mine-water/",
+      "pubDate": "Thu, 07 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Activists Target Wells Fargo for Dropping its Climate Commitments",
+      "description": "Outside the opulent, 73-story Hudson Yards tower in Midtown Manhattan, a group of climate activists gathered at the building’s northwest entrance at 3...",
+      "link": "https://insideclimatenews.org/news/07082025/wells-fargo-drops-climate-commitments-protest/",
+      "pubDate": "Thu, 07 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "After Texas’ catastrophic floods, families face a daunting question: Rebuild or let go?",
+      "description": "Brian Keeper survived the July 4 floods that devastated Hunt, Texas. But moving on may be the hardest part....",
+      "link": "https://grist.org/extreme-weather/texas-floods-hunt-kerrville-rebuild/",
+      "pubDate": "Thu, 07 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/Brian-Keeper-dog-hunt-texas-flood-portrait.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Food banks have long prevented emissions. Now they&#8217;re getting into the carbon credit business.",
       "description": "To stay afloat, food banks in the Global South are considering selling controversial offsets for revenue....",
@@ -144,42 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/01/florida_water-2.png?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The unlikely coalition fighting to keep Energy Star labels on your appliances",
-      "description": "The Trump administration wants to eliminate the energy-efficiency program, but bakers, builders, hot tub lobbyists, and chemical companies are trying ...",
-      "link": "https://grist.org/energy/unlikely-coalition-fighting-keep-energy-star-labels-appliances/",
-      "pubDate": "Wed, 06 Aug 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/Energy-Star-Trump-EPA-consumers-climate.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Following the USDA’s food and farm funding: Here&#8217;s what&#8217;s been canceled and frozen, and resources for those affected",
-      "description": "Your guide to federal funding cuts, plus resources for farmers and food businesses seeking support and solutions....",
-      "link": "https://grist.org/food-and-agriculture/following-the-usda-food-and-farm-funding/",
-      "pubDate": "Wed, 06 Aug 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/usda-building.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Oceangate's Titan whistleblower: 'People were sold a lie'",
-      "description": "A former Oceangate employee says he told US authorities about safety concerns with the sub before it imploded....",
-      "link": "https://www.bbc.com/news/articles/cy0wpe9479wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 06 Aug 2025 05:35:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Oceangate's Titan whistleblower: 'People were sold a lie'",
-      "description": "A former Oceangate employee says he told US authorities about safety concerns with the sub before it imploded....",
-      "link": "https://www.bbc.com/news/articles/cy0wpe9479wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 06 Aug 2025 05:35:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
