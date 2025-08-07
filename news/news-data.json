@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-07T09:34:52.234Z",
+  "lastUpdated": "2025-08-07T10:31:32.980Z",
   "articles": [
+    {
+      "title": "US national parks staff in ‘survival mode’ to keep parks open amid Trump cuts",
+      "description": "&lt;p&gt;Park bosses say they’re running visitor centers and even cleaning bathrooms as remaining staff try to keep sites open&lt;/p&gt;&lt;p&gt;Acros...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/07/us-national-parks-trump-cuts",
+      "pubDate": "Thu, 07 Aug 2025 10:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2d3ca80fa52ce6145f9ff39cae4fc3b2ad92f6a7/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff74b6937393b60d70abd16f8f54b6df"
+    },
     {
       "title": "This summer brought an abundance of butterflies and birds. Nature is ready to spring back – if we let it | Patrick Barkham",
       "description": "&lt;p&gt;The recent hopeful surge of some wildlife isn’t down to us. But in an era of climatic decline, it shows the resilience of our fellow species&...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Groundwater is drying out, heating up, and causing sea level rise",
-      "description": "Overuse has created zones of “mega-drying” around the world — and caused more sea level rise than Greenland’s ice sheet....",
-      "link": "https://grist.org/science/groundwater-depletion-study-sea-level-rise/",
-      "pubDate": "Wed, 06 Aug 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/01/florida_water-2.png?quality=75&#038;strip=all"
     }
   ]
 }
