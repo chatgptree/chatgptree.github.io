@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-07T23:28:25.673Z",
+  "lastUpdated": "2025-08-08T02:28:05.404Z",
   "articles": [
+    {
+      "title": "Southern European butterfly spotted in UK for first time",
+      "description": "Experts have tracked the Southern Small White's expansion northwards through Europe over decades....",
+      "link": "https://www.bbc.com/news/articles/cwy1wgly21zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 08 Aug 2025 01:06:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "N.C.’s Democratic Congressional Delegation Condemns EPA Cancellation of Solar for All",
       "description": "Democratic U.S. House members from North Carolina on Thursday condemned the Environmental Protection Agency’s plan to cancel $7 billion in grants for ...",
@@ -15,6 +24,15 @@
       "description": "The nation’s premier group of scientific advisers announced Thursday that it will conduct an independent, fast-track review of the latest climate scie...",
       "link": "https://insideclimatenews.org/news/07082025/national-academies-will-review-endangerment-finding-science/",
       "pubDate": "Thu, 07 Aug 2025 23:06:37 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump Dismisses Civil Rights, Fair Housing Cases in Chicago To Focus on ‘Real Concerns’",
+      "description": "Saying it wants to focus on “real concerns” around fair housing, President Donald Trump’s administration is dropping two long-fought cases in Chicago ...",
+      "link": "https://insideclimatenews.org/news/07082025/trump-chicago-housing-environmental-racism/",
+      "pubDate": "Thu, 07 Aug 2025 23:00:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Journalist Corey Mitchell Joins Inside Climate News as a Senior Editor",
-      "description": "Corey Mitchell, an award-winning journalist, has joined Inside Climate News as a senior editor overseeing bureaus in the Midwest and New York and corr...",
-      "link": "https://insideclimatenews.org/news/06082025/journalist-corey-mitchell-joins-icn-as-senior-editor/",
-      "pubDate": "Wed, 06 Aug 2025 17:49:57 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfire in France tears through area as big as Paris overnight – video",
-      "description": "&lt;p&gt;Firefighters in southern France are tackling the country's biggest wildfire of the year so far. At least one person has died, with almost a d...",
-      "link": "https://www.theguardian.com/world/video/2025/aug/06/wildfire-in-france-tears-through-area-as-big-as-paris-overnight-video",
-      "pubDate": "Wed, 06 Aug 2025 11:08:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8bf93c2d19b789a931dd2fed4044ba94ba14a5a2/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc82c04143545999bb704d492cc917e4"
     }
   ]
 }
