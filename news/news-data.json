@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-08T13:00:54.784Z",
+  "lastUpdated": "2025-08-08T14:29:57.711Z",
   "articles": [
+    {
+      "title": "New signs found of giant gas planet in 'Earth's neighbourhood'",
+      "description": "The possible planet is just four-and-a-half light years away and may have moons that sustain life....",
+      "link": "https://www.bbc.com/news/articles/cx2xezw3dkpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 08 Aug 2025 13:12:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Asian hornet’s unique buzz may hold secret to containing invasive species",
       "description": "&lt;p&gt;Researchers say distinct frequency is ‘great news’ as it will allow their nests to be located with greater ease&lt;/p&gt;&lt;p&gt;Asian horne...",
@@ -164,22 +173,13 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "BBC Inside Science",
-      "description": "Cuts of $500 million to vaccines research have been announced by the US government....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002gr01?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 07 Aug 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
+      "title": "Scientists decry Trump energy chief’s plan to ‘update’ climate reports: ‘Exactly what Stalin did’",
+      "description": "&lt;p&gt;Ex-fossil fuel executive Chris Wright said administration is reviewing national assessments made by past governments&lt;/p&gt;&lt;p&gt;The US...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/07/climate-assessments-chris-wright-trump",
+      "pubDate": "Thu, 07 Aug 2025 22:04:11 GMT",
+      "sourceName": "theguardian.com",
       "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why Prices Are Soaring in the Country’s Largest Grid Region, Explained in 5 Charts",
-      "description": "PJM Interconnection, the nonprofit that manages the country’s largest electricity grid region, is barely known by the general public and almost never ...",
-      "link": "https://insideclimatenews.org/news/07082025/inside-clean-energy-pjm-utility-prices-soar/",
-      "pubDate": "Thu, 07 Aug 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://i.guim.co.uk/img/media/cf7b9ee754ba5701dfe4cd703ff6bb1bfc5539c2/292_0_2922_2338/master/2922.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84228bfa789c751d71fa24e7b6f35c78"
     }
   ]
 }
