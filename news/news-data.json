@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-08T22:26:55.488Z",
+  "lastUpdated": "2025-08-08T23:26:29.238Z",
   "articles": [
+    {
+      "title": "Canyon Wildfire in Los Angeles Forces Thousands to Evacuate",
+      "description": "Thousands are being forced to evacuate in Southern California as an explosive wildfire grows rapidly, fueled by extreme heat and dry conditions. The C...",
+      "link": "https://insideclimatenews.org/news/08082025/los-angeles-canyon-wildfire/",
+      "pubDate": "Fri, 08 Aug 2025 22:48:35 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Federal Judge Halts New Construction at Alligator Alcatraz",
       "description": "MIAMI—A federal judge has paused new construction at Alligator Alcatraz, the Everglades detention site where the Trump administration aims to incarcer...",
@@ -35,7 +44,7 @@
       "pubDate": "Fri, 08 Aug 2025 17:47:32 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/06/GettyImages-2218483735f.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "Record Krill Catch Prompts Early End to Fishing Season in Antarctica and Growing Calls to Protect its Fragile Ecosystems",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cwy1wgly21zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 08 Aug 2025 01:06:28 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "N.C.’s Democratic Congressional Delegation Condemns EPA Cancellation of Solar for All",
-      "description": "Democratic U.S. House members from North Carolina on Thursday condemned the Environmental Protection Agency’s plan to cancel $7 billion in grants for ...",
-      "link": "https://insideclimatenews.org/news/07082025/nc-house-democrats-condemn-solar-for-all-cancellation/",
-      "pubDate": "Thu, 07 Aug 2025 23:20:01 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
