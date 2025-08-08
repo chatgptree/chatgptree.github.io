@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-08T17:23:01.594Z",
+  "lastUpdated": "2025-08-08T18:38:44.155Z",
   "articles": [
+    {
+      "title": "As California burns, new research shows smoke is wildfire’s silent killer",
+      "description": "The official death count from the Palisades and Eaton fires was 30 — the real number may be 15 times higher....",
+      "link": "https://grist.org/health/california-wildfire-smoke-eaton-palisades-excess-mortality/",
+      "pubDate": "Fri, 08 Aug 2025 17:47:32 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Record Krill Catch Prompts Early End to Fishing Season in Antarctica and Growing Calls to Protect its Fragile Ecosystems",
       "description": "Antarctica’s krill fishery has shut down months ahead of schedule after reaching its full seasonal catch-limit—a historic first. The early closure is ...",
@@ -107,7 +116,7 @@
       "pubDate": "Fri, 08 Aug 2025 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/08/1-Plastic-production-is-increasing-exponentially.png"
     },
     {
       "title": "Who’s who at the plastics treaty talks, from delegates to lobbyists",
@@ -168,15 +177,6 @@
       "description": "The nation’s premier group of scientific advisers announced Thursday that it will conduct an independent, fast-track review of the latest climate scie...",
       "link": "https://insideclimatenews.org/news/07082025/national-academies-will-review-endangerment-finding-science/",
       "pubDate": "Thu, 07 Aug 2025 23:06:37 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Dismisses Civil Rights, Fair Housing Cases in Chicago To Focus on ‘Real Concerns’",
-      "description": "Saying it wants to focus on “real concerns” around fair housing, President Donald Trump’s administration is dropping two long-fought cases in Chicago ...",
-      "link": "https://insideclimatenews.org/news/07082025/trump-chicago-housing-environmental-racism/",
-      "pubDate": "Thu, 07 Aug 2025 23:00:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
