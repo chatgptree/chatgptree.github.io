@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-08T07:32:18.512Z",
+  "lastUpdated": "2025-08-08T08:38:43.756Z",
   "articles": [
+    {
+      "title": "The global plastics crisis explained in 6 charts",
+      "description": "Research shows the extent of plastic pollution today — and why the U.N. is negotiating a treaty to keep it from getting worse....",
+      "link": "https://grist.org/international/the-global-plastics-crisis-explained-in-6-charts/",
+      "pubDate": "Fri, 08 Aug 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Who’s who at the plastics treaty talks, from delegates to lobbyists",
+      "description": "Your guide to the major coalitions and observers....",
+      "link": "https://grist.org/international/plastics-treaty-coalitions-guide-groups-geneva-inc-5-2/",
+      "pubDate": "Fri, 08 Aug 2025 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/Nairobi-plastic-protest.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "England’s swimming waters five times more likely to be polluted than in EU, research finds",
       "description": "&lt;p&gt;Experts warn country is in danger of becoming ‘dirty man of Europe’ as it falls to bottom of bathing water leaderboard&lt;/p&gt;&lt;p&gt;Engl...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/Brian-Keeper-dog-hunt-texas-flood-portrait.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Food banks have long prevented emissions. Now they&#8217;re getting into the carbon credit business.",
-      "description": "To stay afloat, food banks in the Global South are considering selling controversial offsets for revenue....",
-      "link": "https://grist.org/food-and-agriculture/food-banks-carbon-credits-food-waste-methane-controversy/",
-      "pubDate": "Thu, 07 Aug 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/forests.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "What recreating Scott’s Antarctic expedition reveals about our seas today",
-      "description": "&lt;p&gt;A new polar project compared samples with those collected more than a century ago by by Scott, along with voyages led by Shackleton and Borch...",
-      "link": "https://www.theguardian.com/environment/2025/aug/07/crumbling-shells-melting-ice-and-a-wildlife-boom-what-recreating-scotts-antarctic-trip-reveals-about-our-seas-today",
-      "pubDate": "Thu, 07 Aug 2025 08:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/18793dbe4ea11f980e77ee70ac9be3b67e3bff11/251_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a23ce5b1d4dd789d56d35837a5e787a"
     }
   ]
 }
