@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-08T08:38:43.756Z",
+  "lastUpdated": "2025-08-08T09:34:44.997Z",
   "articles": [
+    {
+      "title": "Led by Gen Z Activists, Community Opposition Mounts to Residential Development Next to South Jersey’s Black Run Reserve",
+      "description": "When Zoe Welsch learned that her favorite nature spot, Black Run Reserve, could soon be neighbors with a cul de sac in a subdivision, she was devastat...",
+      "link": "https://insideclimatenews.org/news/08082025/new-jersey-black-run-reserve-housing-development/",
+      "pubDate": "Fri, 08 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Where’s the Money Going?’: Why Brazilian Towns Awash With Royalties From Oil Are Still Among the Poorest",
+      "description": "This report is a partnership between&#160;Agência Pública&#160;and&#160;the Guardian. Read it&#160;in Portuguese here. Though 60 miles (100km) apart, ...",
+      "link": "https://insideclimatenews.org/news/08082025/brazil-oil-wealth-underdevelopment-poverty/",
+      "pubDate": "Fri, 08 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Energy projects across the country are in limbo after Trump&#8217;s &#8216;One Big Beautiful Bill&#8217;",
+      "description": "Community groups, businesses, and consumers say projects face an uncertain future after Republicans slashed renewable energy tax credits....",
+      "link": "https://grist.org/energy/energy-projects-across-the-country-are-in-limbo-after-trumps-one-big-beautiful-bill/",
+      "pubDate": "Fri, 08 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/solar-panel-home-tax-credit.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "The global plastics crisis explained in 6 charts",
       "description": "Research shows the extent of plastic pollution today — and why the U.N. is negotiating a treaty to keep it from getting worse....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d73dcc5cfb315428927f086a1c6793b2ea1ab4b5/348_0_1877_1502/master/1877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8522e27cf49178bd8b5ec7f07dad231"
-    },
-    {
-      "title": "As a Critical Minerals Mine Nears Approval in Arizona, Residents Fear It’s Already Affecting Area Water",
-      "description": "PATAGONIA, Ariz.—When Becky and John Ball retired from careers in firefighting, they found their dream home in the foothills of Arizona’s famed Patago...",
-      "link": "https://insideclimatenews.org/news/07082025/arizona-south32-hermosa-mine-water/",
-      "pubDate": "Thu, 07 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Activists Target Wells Fargo for Dropping its Climate Commitments",
-      "description": "Outside the opulent, 73-story Hudson Yards tower in Midtown Manhattan, a group of climate activists gathered at the building’s northwest entrance at 3...",
-      "link": "https://insideclimatenews.org/news/07082025/wells-fargo-drops-climate-commitments-protest/",
-      "pubDate": "Thu, 07 Aug 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After Texas’ catastrophic floods, families face a daunting question: Rebuild or let go?",
-      "description": "Brian Keeper survived the July 4 floods that devastated Hunt, Texas. But moving on may be the hardest part....",
-      "link": "https://grist.org/extreme-weather/texas-floods-hunt-kerrville-rebuild/",
-      "pubDate": "Thu, 07 Aug 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/Brian-Keeper-dog-hunt-texas-flood-portrait.jpg?quality=75&amp;strip=all"
     }
   ]
 }
