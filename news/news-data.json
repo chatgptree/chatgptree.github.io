@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-09T08:33:33.804Z",
+  "lastUpdated": "2025-08-09T09:27:14.932Z",
   "articles": [
+    {
+      "title": "Atmospheric Rivers May be Diminishing on the West Coast and Surging in the East, Study Finds",
+      "description": "It makes sense that atmospheric rivers would flood West Coast headlines as well as its coastlines. Eighty percent of all West Coast flood damage is at...",
+      "link": "https://insideclimatenews.org/news/09082025/atmospheric-rivers-move-east/",
+      "pubDate": "Sat, 09 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Human connection to nature has declined 60% in 200 years, study finds",
       "description": "&lt;p&gt;Prof Miles Richardson says people risk ‘extinction of experience’ in the natural world without new policies&lt;/p&gt;&lt;p&gt;People’s &lt;a ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/70edab5c143144ed7c1d5fe7c5f823ee3ac38532/151_0_2876_2301/master/2876.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4bf9b9b4c8d8a912e7031e9ff44f9f1"
-    },
-    {
-      "title": "Southern European butterfly spotted in UK for first time",
-      "description": "Experts have tracked the Southern Small White's expansion northwards through Europe over decades....",
-      "link": "https://www.bbc.com/news/articles/cwy1wgly21zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 08 Aug 2025 01:06:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
