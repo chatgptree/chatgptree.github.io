@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-09T09:27:14.932Z",
+  "lastUpdated": "2025-08-09T10:27:32.849Z",
   "articles": [
+    {
+      "title": "OpenAI will not disclose GPT-5’s energy use. It could be higher than past models",
+      "description": "&lt;p&gt;Experts working to benchmark resource use of AI models say new version’s enhanced capabilities come at a steep cost&lt;/p&gt;&lt;p&gt;In mid-...",
+      "link": "https://www.theguardian.com/technology/2025/aug/09/open-ai-chat-gpt5-energy-use",
+      "pubDate": "Sat, 09 Aug 2025 10:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/52e21e9254d1b2d4abeb4045224f576af40d90d0/1438_0_7202_5760/master/7202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=232f5d38653f0b3fd5f8d00e004bf1ad"
+    },
     {
       "title": "Atmospheric Rivers May be Diminishing on the West Coast and Surging in the East, Study Finds",
       "description": "It makes sense that atmospheric rivers would flood West Coast headlines as well as its coastlines. Eighty percent of all West Coast flood damage is at...",
@@ -90,15 +99,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Asian hornet’s unique buzz may hold secret to containing invasive species",
-      "description": "&lt;p&gt;Researchers say distinct frequency is ‘great news’ as it will allow their nests to be located with greater ease&lt;/p&gt;&lt;p&gt;Asian horne...",
-      "link": "https://www.theguardian.com/environment/2025/aug/08/asian-hornets-unique-buzz-may-hold-secret-to-containing-invasive-species",
-      "pubDate": "Fri, 08 Aug 2025 12:19:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b48092562c0c6472a7fb0f40f9b79af903228f40/0_0_4149_3319/master/4149.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94234a2f22d42c303339d29d58834200"
     },
     {
       "title": "New York energy company ramps up disconnections as it seeks 11% price hike",
