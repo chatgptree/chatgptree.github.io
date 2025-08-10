@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-10T08:33:36.422Z",
+  "lastUpdated": "2025-08-10T09:27:35.819Z",
   "articles": [
+    {
+      "title": "A huge stick insect has been discovered in Australia. Here’s why that’s important | Gwen Pearson",
+      "description": "&lt;p&gt;Yes, they can be hard to spot – but this find highlights how little we know about creatures crucial to our ecosystem&lt;/p&gt;&lt;ul&gt;&lt;l...",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/10/huge-stick-insects-australia-creatures-ecosystem",
+      "pubDate": "Sun, 10 Aug 2025 09:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c632bea12aaa8397716ec286d471ad225e091131/107_0_961_769/master/961.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1af859a631271a837727005ceb51f88b"
+    },
+    {
+      "title": "The Slow-Moving Fight to Clean New Jersey’s Most Contaminated River",
+      "description": "Isiah Cruz is alone on the banks of the Passaic River—in North Ironbound, just east of Newark, New Jersey—hacking away at a bundle of tall, leafy plan...",
+      "link": "https://insideclimatenews.org/news/10082025/new-jersey-contaminated-passaic-river-superfund-site/",
+      "pubDate": "Sun, 10 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can We Alter the Ocean to Counter Climate Change Faster? This Experiment Aims to Find Out",
+      "description": "Later this summer, a fluorescent reddish-pink spiral will bloom across the Wilkinson Basin in the Gulf of Maine, about 40 miles northeast of Cape Cod....",
+      "link": "https://insideclimatenews.org/news/10082025/ocean-carbon-removal-climate-change/",
+      "pubDate": "Sun, 10 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Amid federal PFAS rollbacks, New Jersey scores record $2B DuPont settlement",
       "description": "The state’s largest ever settlement for “forever chemicals\" holds DuPont and its spin-offs accountable for contamination at four sites and ensures tax...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/solar-panel-home-tax-credit.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The global plastics crisis explained in 6 charts",
-      "description": "Research shows the extent of plastic pollution today — and why the U.N. is negotiating a treaty to keep it from getting worse....",
-      "link": "https://grist.org/international/the-global-plastics-crisis-explained-in-6-charts/",
-      "pubDate": "Fri, 08 Aug 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/1-Plastic-production-is-increasing-exponentially.png"
-    },
-    {
-      "title": "Who’s who at the plastics treaty talks, from delegates to lobbyists",
-      "description": "Your guide to the major coalitions and observers....",
-      "link": "https://grist.org/international/plastics-treaty-coalitions-guide-groups-geneva-inc-5-2/",
-      "pubDate": "Fri, 08 Aug 2025 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/Nairobi-plastic-protest.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The elephant whisperer: one Thai woman’s lifelong quest to protect a rescued herd",
-      "description": "&lt;p&gt;Lek Chailert devoted her life to rescuing abused elephants. Now caring for 120 of them, she fears for their future in Asia&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/environment/2025/aug/08/animal-welfare-asian-elephants-thailand-conservation-aoe",
-      "pubDate": "Fri, 08 Aug 2025 06:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9cf1967311d2c38608b519b2c5a0c76915ec356f/1043_0_5840_4672/master/5840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06aecb935a2a421e076db674a4fbde35"
     }
   ]
 }
