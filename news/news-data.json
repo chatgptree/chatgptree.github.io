@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-10T12:54:46.059Z",
+  "lastUpdated": "2025-08-10T13:35:12.763Z",
   "articles": [
+    {
+      "title": "Offshore wind leasing is officially dead under Trump",
+      "description": "Over 3.5 million acres of federal waters are no longer eligible for offshore wind development following an order from the Interior Department....",
+      "link": "https://grist.org/energy/offshore-wind-leasing-is-officially-dead-under-trump/",
+      "pubDate": "Sun, 10 Aug 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/WindTurbineLI.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Wildfires close Mount Vesuvius trails while fierce blazes continue in France",
+      "description": "&lt;p&gt;French officials says heatwave in southern Europe complicates efforts to contain biggest wildfire since 1949&lt;/p&gt;&lt;p&gt;Tourist trails...",
+      "link": "https://www.theguardian.com/world/2025/aug/10/wildfires-close-mount-vesuvius-trails-while-fierce-blazes-continue-in-france",
+      "pubDate": "Sun, 10 Aug 2025 12:56:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5575a7ffd7364a925671fb01b2e5fbf30f0f36d7/256_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85a0a84824a08b10d2454f9156005960"
+    },
     {
       "title": "Climate change is killing fireflies – threatening a US summer ritual",
       "description": "&lt;p&gt;Scientists say lightning bugs are having a revival this year – but they’re concerned about the insects’ long-term viability&lt;/p&gt;&lt;p&gt...",
@@ -128,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Brazil’s president signs environmental ‘devastation bill’ but vetoes key articles",
-      "description": "&lt;p&gt;Campaigners had urged Lula to veto the bill entirely, but many have welcomed his alterations&lt;/p&gt;&lt;p&gt;Brazil’s president, Luiz Ináci...",
-      "link": "https://www.theguardian.com/world/2025/aug/08/brazil-president-lula-devastation-bill-law-environment",
-      "pubDate": "Fri, 08 Aug 2025 19:54:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c112007fa1ad2216eb4939f7c072052531885abc/687_488_3946_3156/master/3946.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f5790a3a8db877125e83cedbfbc5497"
-    },
-    {
       "title": "As California burns, new research shows smoke is wildfire’s silent killer",
       "description": "The official death count from the Palisades and Eaton fires was 30 — the real number may be 15 times higher....",
       "link": "https://grist.org/health/california-wildfire-smoke-eaton-palisades-excess-mortality/",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/513b08870a510585f24ac6343c81489f4636ac1a/526_0_2225_1781/master/2225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f523783bea08921c81e2a9a6f145453d"
-    },
-    {
-      "title": "Led by Gen Z Activists, Community Opposition Mounts to Residential Development Next to South Jersey’s Black Run Reserve",
-      "description": "When Zoe Welsch learned that her favorite nature spot, Black Run Reserve, could soon be neighbors with a cul de sac in a subdivision, she was devastat...",
-      "link": "https://insideclimatenews.org/news/08082025/new-jersey-black-run-reserve-housing-development/",
-      "pubDate": "Fri, 08 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
