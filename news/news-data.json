@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-10T11:22:04.060Z",
+  "lastUpdated": "2025-08-10T12:54:46.059Z",
   "articles": [
+    {
+      "title": "Climate change is killing fireflies – threatening a US summer ritual",
+      "description": "&lt;p&gt;Scientists say lightning bugs are having a revival this year – but they’re concerned about the insects’ long-term viability&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2025/aug/10/fireflies-summer-climate-change",
+      "pubDate": "Sun, 10 Aug 2025 12:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dfae83bf39521b41aae4eb9da155a16d3b66bc1a/0_0_1600_1279/master/1600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=11679c1b18c0c4d5c893ca4218f96e32"
+    },
+    {
+      "title": "Meteorite that hit home is older than Earth, scientists say",
+      "description": "Scientists who analysed fragments that crashed into a roof in Georgia, US, say it likely formed 4.56 billion years ago....",
+      "link": "https://www.bbc.com/news/articles/cwy003l0pw0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 10 Aug 2025 11:28:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A huge stick insect has been discovered in Australia. Here’s why that’s important | Gwen Pearson",
       "description": "&lt;p&gt;Yes, they can be hard to spot – but this find highlights how little we know about creatures crucial to our ecosystem&lt;/p&gt;&lt;ul&gt;&lt;l...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Where’s the Money Going?’: Why Brazilian Towns Awash With Royalties From Oil Are Still Among the Poorest",
-      "description": "This report is a partnership between&#160;Agência Pública&#160;and&#160;the Guardian. Read it&#160;in Portuguese here. Though 60 miles (100km) apart, ...",
-      "link": "https://insideclimatenews.org/news/08082025/brazil-oil-wealth-underdevelopment-poverty/",
-      "pubDate": "Fri, 08 Aug 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Energy projects across the country are in limbo after Trump&#8217;s &#8216;One Big Beautiful Bill&#8217;",
-      "description": "Community groups, businesses, and consumers say projects face an uncertain future after Republicans slashed renewable energy tax credits....",
-      "link": "https://grist.org/energy/energy-projects-across-the-country-are-in-limbo-after-trumps-one-big-beautiful-bill/",
-      "pubDate": "Fri, 08 Aug 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/solar-panel-home-tax-credit.jpg?quality=75&#038;strip=all"
     }
   ]
 }
