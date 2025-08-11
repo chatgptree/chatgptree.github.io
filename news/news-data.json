@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-11T08:39:18.590Z",
+  "lastUpdated": "2025-08-11T09:33:53.976Z",
   "articles": [
+    {
+      "title": "British man who perished in Antarctic glacier found 65 years later",
+      "description": "His brother tells BBC News that he had lost hope he would ever be found....",
+      "link": "https://www.bbc.com/news/articles/c4g034yx4gjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 11 Aug 2025 09:05:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Moving on From the Heartbreak Hotel",
+      "description": "PLAINFIELD, Vt.—Eli Barlow loved his home in the Heartbreak Hotel.&#160; His back porch sat above the water and held memories of dinners and parties, ...",
+      "link": "https://insideclimatenews.org/news/11082025/rural-vermont-rebuilds-after-devastating-flood/",
+      "pubDate": "Mon, 11 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Tracking sea turtles is a long, slow process that just might keep them alive",
+      "description": "This summer’s hatchlings won’t be back on land for 30 years. It’ll take at least that long to know how global warming is changing them....",
+      "link": "https://grist.org/oceans/tracking-sea-turtles-is-a-long-slow-process/",
+      "pubDate": "Mon, 11 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/sorting-turtles-savannah.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Tribal nations scramble to save clean energy projects as federal support vanishes",
       "description": "As federal programs are frozen or eliminated, Indigenous communities are seeking new ways to fund and finish urgently needed renewable energy plans....",
@@ -54,6 +81,24 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Cornice-Store-Logo-black-1024x576.png"
+    },
+    {
+      "title": "Record warm seas help to bring extraordinary new species to UK waters",
+      "description": "The UK's seas have had their warmest first seven months of the year on average since records began. ...",
+      "link": "https://www.bbc.com/news/articles/c05enyryqvmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 11 Aug 2025 00:36:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Record warm seas help to bring extraordinary new species to UK waters",
+      "description": "The UK's seas have had their warmest first seven months of the year on average since records began. ...",
+      "link": "https://www.bbc.com/news/articles/c05enyryqvmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 11 Aug 2025 00:36:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Court overrides Trump officials’ rollback and blocks fishing in Pacific Islands monument",
@@ -135,51 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A huge stick insect has been discovered in Australia. Here’s why that’s important | Gwen Pearson",
-      "description": "&lt;p&gt;Yes, they can be hard to spot – but this find highlights how little we know about creatures crucial to our ecosystem&lt;/p&gt;&lt;ul&gt;&lt;l...",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/10/huge-stick-insects-australia-creatures-ecosystem",
-      "pubDate": "Sun, 10 Aug 2025 09:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c632bea12aaa8397716ec286d471ad225e091131/107_0_961_769/master/961.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1af859a631271a837727005ceb51f88b"
-    },
-    {
-      "title": "The Slow-Moving Fight to Clean New Jersey’s Most Contaminated River",
-      "description": "Isiah Cruz is alone on the banks of the Passaic River—in North Ironbound, just east of Newark, New Jersey—hacking away at a bundle of tall, leafy plan...",
-      "link": "https://insideclimatenews.org/news/10082025/new-jersey-contaminated-passaic-river-superfund-site/",
-      "pubDate": "Sun, 10 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Can We Alter the Ocean to Counter Climate Change Faster? This Experiment Aims to Find Out",
-      "description": "Later this summer, a fluorescent reddish-pink spiral will bloom across the Wilkinson Basin in the Gulf of Maine, about 40 miles northeast of Cape Cod....",
-      "link": "https://insideclimatenews.org/news/10082025/ocean-carbon-removal-climate-change/",
-      "pubDate": "Sun, 10 Aug 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Amid federal PFAS rollbacks, New Jersey scores record $2B DuPont settlement",
-      "description": "The state’s largest ever settlement for “forever chemicals\" holds DuPont and its spin-offs accountable for contamination at four sites and ensures tax...",
-      "link": "https://grist.org/accountability/amid-federal-pfas-rollbacks-new-jersey-scores-record-2-billion-dupont-settlement/",
-      "pubDate": "Sat, 09 Aug 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/hand-with-faucet.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘Erasure of years of work’: outcry as White House moves to open Arctic reserve to oil and gas drilling",
-      "description": "&lt;p&gt;US Bureau of Land management is working to rapidly strip protections to largest tract of land in the US&lt;/p&gt;&lt;p&gt;The &lt;a href=\"htt...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/09/national-petroleum-reserve-alaska-oil-gas-drilling",
-      "pubDate": "Sat, 09 Aug 2025 12:00:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/227a0ecf25ee4ffef3cdaccea5fd5b9b5ef7f4aa/424_0_1406_1125/master/1406.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a1be49aaeff0acbd94440adcb7eb574"
     }
   ]
 }
