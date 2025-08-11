@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-08-11T14:29:52.986Z",
+  "lastUpdated": "2025-08-11T15:31:12.223Z",
   "articles": [
     {
-      "title": "Firefighters tackle wildfires in Portugal – video",
-      "description": "&lt;p&gt;Portuguese firefighters have been battling wildfires in the historic city of Trancoso, eastern Portugal, as temperatures continue to soar acr...",
+      "title": "Firefighters tackle wildfires across southern Europe - video",
+      "description": "&lt;p&gt;Portuguese firefighters have been battling wildfires across southern Europe, as scientists warn of a 'molotov cocktail' of climatic condition...",
       "link": "https://www.theguardian.com/world/video/2025/aug/11/firefighters-tackle-wildfires-in-portugal-video",
       "pubDate": "Mon, 11 Aug 2025 13:15:00 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fcef493c38bb226e93503df024a55bc7bfc1ca52/612_0_3059_2447/master/3059.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=265d68dd3f6e91ab6479ee14138b4d18"
+    },
+    {
+      "title": "Flooding hits midwest as Milwaukee experiences second wettest day ever",
+      "description": "&lt;p&gt;Heavy rainfall cut power and closed roads across Kansas, Iowa, Nebraska, Missouri, Illinois and Wisconsin&lt;/p&gt;&lt;p&gt;Heavy &lt;a href=...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/11/flooding-wisconsin-milwaukee-midwest",
+      "pubDate": "Mon, 11 Aug 2025 12:25:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ff0324d7b068094fab5d4732eaf90c6e2527427b/596_0_3486_2789/master/3486.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f714fd9cde6acac4c67f97de380f1ea4"
     },
     {
       "title": "Waste from agricultural plant poisoned US town’s water with Pfas, lawsuits allege",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on climate finance: crumbling under a second Trump presidency | Editorial",
-      "description": "&lt;p&gt;Voluntary climate commitments were supposed to be a step towards progress. A change in political climate has revealed their weaknesses&lt;/p&...",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/10/the-guardian-view-on-climate-finance-crumbling-under-a-second-trump-presidency",
-      "pubDate": "Sun, 10 Aug 2025 17:25:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3786e1d4a7c7ad94aacae3f44c6ec215a941c506/0_0_5345_4277/master/5345.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=548e233a214533df628ef798201a0c39"
     }
   ]
 }
