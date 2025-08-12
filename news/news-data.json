@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-12T06:40:33.381Z",
+  "lastUpdated": "2025-08-12T07:27:16.113Z",
   "articles": [
+    {
+      "title": "Buoyant, the size of a lentil and almost impossible to recover: how nurdles are polluting the oceans",
+      "description": "&lt;p&gt;Millions of the tiny plastic pellets are being washed up on the coast of Kerala in India in the latest in a series of global spills, as plast...",
+      "link": "https://www.theguardian.com/environment/2025/aug/12/nurdles-kerala-india-microplastic-pellets-pollution-fishing-environment-law",
+      "pubDate": "Tue, 12 Aug 2025 07:00:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f1468706d09e30a549e8e0b0e5a449e31ceac7cd/370_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1897a722b9744d707deb270c430f9a4"
+    },
     {
       "title": "Worst bleaching on record for Western Australian coral reefs",
       "description": "Scientists say the damage was caused by the \"longest, largest and most intense\" marine heatwave on record....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tracking sea turtles is a long, slow process that just might keep them alive",
-      "description": "This summer’s hatchlings won’t be back on land for 30 years. It’ll take at least that long to know how global warming is changing them....",
-      "link": "https://grist.org/oceans/tracking-sea-turtles-is-a-long-slow-process/",
-      "pubDate": "Mon, 11 Aug 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/sorting-turtles-savannah.jpg?quality=75&amp;strip=all"
     }
   ]
 }
