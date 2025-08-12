@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-12T10:30:10.609Z",
+  "lastUpdated": "2025-08-12T11:23:54.026Z",
   "articles": [
     {
       "title": "All the buzz: US dog helps researchers identify bacteria that harms honeybees",
@@ -9,15 +9,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e541135b3747f02b4ff1cbf1f31375e9d04a6953/94_0_943_754/master/943.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a68353825f2f8a731241469c96db4dbd"
-    },
-    {
-      "title": "Homeowners affected by the 2023 Maui wildfires: Here’s how to keep and rebuild your home",
-      "description": "Hereʻs a list of resources to get funding and help to save and rebuild your house....",
-      "link": "https://grist.org/article/homeowners-affected-by-the-2023-maui-wildfires-heres-how-to-keep-and-rebuild-your-home/",
-      "pubDate": "Tue, 12 Aug 2025 09:36:04 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/pt-up-arrow_5c626f.png"
     },
     {
       "title": "Thousands evacuated in Spain amid deadly wildfires and new heatwave",
@@ -63,6 +54,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Homeowners affected by the 2023 Maui wildfires: Here’s how to keep and rebuild your home",
+      "description": "Hereʻs a list of resources to get funding and help to save and rebuild your house....",
+      "link": "https://grist.org/extreme-weather/homeowners-affected-by-the-2023-maui-wildfires-heres-how-to-keep-and-rebuild-your-home/",
+      "pubDate": "Tue, 12 Aug 2025 08:40:04 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/06/pt-up-arrow_5c626f.png"
     },
     {
       "title": "Illegal price-gouging is rampant after disasters. Can it be stopped?",
