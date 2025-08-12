@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-08-12T08:35:50.829Z",
+  "lastUpdated": "2025-08-12T09:30:25.107Z",
   "articles": [
+    {
+      "title": "Risks of climate crisis to Australia’s economy and environment are ‘intense and scary’, unreleased government report says",
+      "description": "&lt;p&gt;Sources say delayed risk assessment includes modelling of effects of climate crisis in ways that have been little discussed in political deba...",
+      "link": "https://www.theguardian.com/australia-news/2025/aug/12/risks-of-climate-crisis-to-australias-economy-and-environment-are-intense-and-scary-unreleased-government-report-says",
+      "pubDate": "Tue, 12 Aug 2025 09:06:00 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1debd916264ca7c2b56faf35db50b75300304f1a/381_0_2733_2187/master/2733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a7d190aeda3e7ffabee1b59f0618739"
+    },
+    {
+      "title": "Broiled by Heat Waves, Residents of the Concrete Jungle Suffer",
+      "description": "Summer heat in New York City beats down on asphalt and tall buildings, which get hotter, scorching the locals, who can’t stop sweating. Exhaust from t...",
+      "link": "https://insideclimatenews.org/news/12082025/new-york-city-heat-island-effect/",
+      "pubDate": "Tue, 12 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Climate Change Makes Hail More Destructive, Illinois Residents Pay the Price",
+      "description": "For 40 days this summer, Illinois atmospheric scientist Victor Gensini and roughly 100 other specialists and students traveled the Great Plains chasin...",
+      "link": "https://insideclimatenews.org/news/12082025/illinois-hail-damage-insurance-rates/",
+      "pubDate": "Tue, 12 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A look at the growing ‘disaster economy’ turning crisis into cash",
+      "description": "Disasters are big business. These charts show just how big....",
+      "link": "https://grist.org/business/a-look-at-the-growing-disaster-economy-turning-crisis-into-cash/",
+      "pubDate": "Tue, 12 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Illegal price-gouging is rampant after disasters. Can it be stopped?",
+      "description": "Rents jumped 20 percent after this year’s Los Angeles wildfires, forcing displaced residents to scramble for housing in an already-tough market....",
+      "link": "https://grist.org/extreme-weather/illegal-price-gouging-is-rampant-after-disasters-can-it-be-stopped/",
+      "pubDate": "Tue, 12 Aug 2025 08:40:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/GettyImages-2193547929_price-gouging.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Two years after a wildfire took everything, Maui homeowners are facing a new threat: Foreclosure",
       "description": "A Native Hawaiian mother’s fight to keep her family in Lāhainā despite soaring costs, mortgage limbo, and land-hungry investors eager to own a piece o...",
@@ -128,55 +173,10 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Southern Europe swelters under deadly heatwave as temperatures pass 40C",
-      "description": "&lt;p&gt;Four-year-old boy dies of heatstroke in Italy as scientists warn of ‘molotov cocktail’ of climatic conditions&lt;/p&gt;&lt;p&gt;Deadly heat o...",
-      "link": "https://www.theguardian.com/world/2025/aug/11/southern-europe-swelters-under-deadly-heatwave-as-temperatures-pass-40c",
-      "pubDate": "Mon, 11 Aug 2025 20:15:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cd7707e4ce2d8fabbd5cb823fc84222a8f8a1319/190_0_900_720/master/900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=089fd471294dacfc48a64294c7c4952d"
-    },
-    {
       "title": "Perseid meteor shower: When, where and how to catch a glimpse",
       "description": "The Perseids are considered the best meteor shower of the year...",
       "link": "https://www.bbc.com/news/articles/cwy7d7e82gno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 11 Aug 2025 16:02:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Firefighters tackle wildfires across southern Europe – video",
-      "description": "&lt;p&gt;Portuguese firefighters have been battling wildfires across southern Europe, as scientists warn of a 'molotov cocktail' of climatic condition...",
-      "link": "https://www.theguardian.com/world/video/2025/aug/11/firefighters-tackle-wildfires-in-portugal-video",
-      "pubDate": "Mon, 11 Aug 2025 13:15:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fcef493c38bb226e93503df024a55bc7bfc1ca52/612_0_3059_2447/master/3059.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=265d68dd3f6e91ab6479ee14138b4d18"
-    },
-    {
-      "title": "Flooding hits midwest as Milwaukee experiences second wettest day ever",
-      "description": "&lt;p&gt;Heavy rainfall cut power and closed roads across Kansas, Iowa, Nebraska, Missouri, Illinois and Wisconsin&lt;/p&gt;&lt;p&gt;Heavy &lt;a href=...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/11/flooding-wisconsin-milwaukee-midwest",
-      "pubDate": "Mon, 11 Aug 2025 12:25:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff0324d7b068094fab5d4732eaf90c6e2527427b/596_0_3486_2789/master/3486.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f714fd9cde6acac4c67f97de380f1ea4"
-    },
-    {
-      "title": "Waste from agricultural plant poisoned US town’s water with Pfas, lawsuits allege",
-      "description": "&lt;p&gt;Some Salisbury, Maryland, residents say the contaminated water from Perdue Farms’s local plant has sickened them&lt;/p&gt;&lt;p&gt;Wastewater...",
-      "link": "https://www.theguardian.com/environment/2025/aug/11/wastewater-perdue-pfas-lawsuits",
-      "pubDate": "Mon, 11 Aug 2025 12:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fe49622d9fea5dc709c40ce19352e863915209da/626_0_6687_5348/master/6687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=619e9346b0e667536e67ab5b054e31e8"
-    },
-    {
-      "title": "British man who perished in Antarctic glacier found 65 years later",
-      "description": "His brother tells BBC News that he had lost hope he would ever be found....",
-      "link": "https://www.bbc.com/news/articles/c4g034yx4gjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 11 Aug 2025 09:05:51 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
