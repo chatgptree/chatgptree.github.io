@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-13T13:42:30.942Z",
+  "lastUpdated": "2025-08-13T14:28:16.635Z",
   "articles": [
+    {
+      "title": "Alaska’s Juneau orders evacuations as record glacier flood looms",
+      "description": "&lt;p&gt;Mendenhall Glacier outburst threatens homes, with scientists warning events are intensifying&lt;/p&gt;&lt;p&gt;Alaska’s capital city of Junea...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/13/alaskas-juneau-glacier-flood-record-climate",
+      "pubDate": "Wed, 13 Aug 2025 14:14:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b55795e1761435ab45433615b1ada48f83a93cbc/801_460_2108_1687/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64a4e188e2be3e0eb2c018247fd030d4"
+    },
     {
       "title": "Plastic pollution is toxic and everywhere. Now, legal experts say it’s a human rights violation.",
       "description": "This week, they’re advocating for a U.N. treaty to safeguard people’s basic rights....",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cgm2z91mvlvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 12 Aug 2025 22:05:03 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Trump Administration’s Concerted Attacks on Wind Threaten the Industry’s Future",
-      "description": "In the weeks leading up to his inauguration, President Donald Trump made a pledge: “no new windmills.” He’s made major headway on that this year. Sinc...",
-      "link": "https://insideclimatenews.org/news/12082025/todays-climate-trump-wind-energy-threats/",
-      "pubDate": "Tue, 12 Aug 2025 20:45:44 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
