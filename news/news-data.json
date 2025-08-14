@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-14T08:37:25.461Z",
+  "lastUpdated": "2025-08-14T09:31:32.135Z",
   "articles": [
+    {
+      "title": "A Vermont Forest Tries a New Model of Growth, Diversity and Logging",
+      "description": "Each year, Justin Lindholm uses about two-and-a-half gallons of gasoline to get through the winter. It’s just enough, he said, to power his chainsaw t...",
+      "link": "https://insideclimatenews.org/news/14082025/vermont-green-mountain-forest-old-growth-logging/",
+      "pubDate": "Thu, 14 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Installing heat pumps in factories could save $1.5 trillion and 77,000 lives",
+      "description": "A new report finds that replacing conventional boilers with heat pumps could also avoid 33 million asthma attacks by 2050, thanks to improved air qual...",
+      "link": "https://grist.org/energy/installing-heat-pumps-in-factories-could-save-1-5-trillion-and-77000-lives/",
+      "pubDate": "Thu, 14 Aug 2025 09:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "For Indigenous communities, AI brings peril — and promise",
+      "description": "The boom in AI and data centers is driving Indigenous communities to defend their land, resources, and cultural knowledge from new forms of extraction...",
+      "link": "https://grist.org/indigenous/indigenous-peoples-examine-impact-of-ai-on-communities/",
+      "pubDate": "Thu, 14 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The tiny ocean organisms that could help the climate in a big way",
       "description": "Scientists are exploring whether encouraging the growth of phytoplankton could draw down more atmospheric carbon — without unintended side effects in ...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0462316e63b4fb4066ad808f5d80a1ac6ce1244b/445_0_4428_3545/master/4428.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4eb2ec79f173e35e7c6663ee121d1cd2"
-    },
-    {
-      "title": "Talks stall on world’s first plastic pollution treaty one day before deadline",
-      "description": "&lt;p&gt;Almost 100 countries reject draft treaty as ‘unambitious’ and ‘inadequate’&lt;/p&gt;&lt;p&gt;Talks on the world’s first legally binding treat...",
-      "link": "https://www.theguardian.com/environment/2025/aug/13/plastic-pollution-treaty-talks-stall-one-day-before-deadline",
-      "pubDate": "Wed, 13 Aug 2025 18:56:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a2cb491a8e5e137f07ec04e5275dab6a7377f07a/330_0_4471_3577/master/4471.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f04a3c2ea8e8d23efdc171763a303a7c"
-    },
-    {
-      "title": "Wildlife groups condemn approval of ‘barbaric’ Florida black bear hunt",
-      "description": "&lt;p&gt;Commission approves limited season despite calls of cruelty over use of bows and arrows, food traps and dogs&lt;/p&gt;&lt;p&gt;Wildlife group...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/13/florida-black-bear-hunt",
-      "pubDate": "Wed, 13 Aug 2025 18:51:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/77e70051a524b3de534df6c643dd0667e86f19e8/276_0_2658_2126/master/2658.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eeb1dad9688ca2b666e3d1b806f7f101"
-    },
-    {
-      "title": "Flash flooding leaves at least three dead in Tennessee",
-      "description": "&lt;p&gt;State of emergency declared around Chattanooga as child and two adults killed and heavy rain closes roads&lt;/p&gt;&lt;p&gt;Flash &lt;a href=...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/13/tennessee-flash-floods",
-      "pubDate": "Wed, 13 Aug 2025 15:47:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8aa19605ce18d44c6c0715b0c0303a5927f54ae6/565_0_2698_2160/master/2698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=819e4afa4666787185d213c0a6de11bb"
     }
   ]
 }
