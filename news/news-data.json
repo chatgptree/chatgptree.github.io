@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-14T15:29:48.039Z",
+  "lastUpdated": "2025-08-14T16:35:15.909Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Fashion meets science. An expert panel discuss the clothing of the future....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002h0fn?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 14 Aug 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s space order risks environmental disaster while rewarding Musk and Bezos, experts say",
+      "description": "&lt;p&gt;US president is pushing an ‘end run around’ on safeguards, risking harm to wildlife, air and water, attorney says&lt;/p&gt;&lt;p&gt;A draft e...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/14/trump-rocket-launches-environment-musk-bezos",
+      "pubDate": "Thu, 14 Aug 2025 15:53:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f9529df7fe429c8cfee822976888f07e10c1b0e6/364_0_2988_2392/master/2988.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f00940f66eb8d3b022ff00ba7a7a1fa"
+    },
     {
       "title": "Plan to extend Queensland coalmine would bulldoze ‘critical’ koala habitat",
       "description": "&lt;p&gt;Glencore says it is working with state and federal governments to minimise the impact of flora and fauna in the 680ha area west of Mackay&lt;...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3a37646917685478c1b4fa133b6554a6fdb8748e/181_0_4078_3262/master/4078.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb008d8dd468abc7ae2d53817f8c8ebe"
-    },
-    {
-      "title": "Watch: Meteor shower seen in skies above UK",
-      "description": "The astronomical event was captured on camera at North York Moors National Park on 13 August....",
-      "link": "https://www.bbc.com/news/videos/cvgnkmpkd77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 14 Aug 2025 01:55:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump orders relaxed rules for rocket launches, appearing to benefit Musk and Bezos",
-      "description": "&lt;p&gt;Companies such as SpaceX and Blue Origin may be able to forgo reviews required under National Environmental Policy Act&lt;/p&gt;&lt;p&gt;&lt;...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/13/trump-order-rocket-launches-musk-bezos",
-      "pubDate": "Thu, 14 Aug 2025 00:50:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d55614b700eb769dbaeb6dfb9439107ff9f59bb7/2545_243_2654_2123/master/2654.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26698fae1ac4e01a0f1fdff521f2b515"
     }
   ]
 }
