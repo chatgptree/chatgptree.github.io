@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-14T07:27:11.888Z",
+  "lastUpdated": "2025-08-14T08:37:25.461Z",
   "articles": [
+    {
+      "title": "The tiny ocean organisms that could help the climate in a big way",
+      "description": "Scientists are exploring whether encouraging the growth of phytoplankton could draw down more atmospheric carbon — without unintended side effects in ...",
+      "link": "https://grist.org/climate/the-tiny-ocean-organisms-that-could-help-the-climate-in-a-big-way/",
+      "pubDate": "Thu, 14 Aug 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Ecotone Partners secures $25 million first close for Planet Fund to back fast-growing climate companies",
       "description": "Ecotone Partners, a climate-focused capital advisory firm, has completed the first close of its new Planet Fund, securing AU $25 million to invest in ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8aa19605ce18d44c6c0715b0c0303a5927f54ae6/565_0_2698_2160/master/2698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=819e4afa4666787185d213c0a6de11bb"
-    },
-    {
-      "title": "Dominion Changes Its Answer—Admitting There Was No Independent Review–On Key Application For Natural Gas Plant",
-      "description": "Dominion Energy, Virginia’s largest electric utility, did not have an independent monitor review&#160; bids for its planned gas plant in Chesterfield ...",
-      "link": "https://insideclimatenews.org/news/13082025/dominion-energy-admits-no-independent-review-for-virginia-gas-plant/",
-      "pubDate": "Wed, 13 Aug 2025 15:09:50 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
