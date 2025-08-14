@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-14T02:14:57.936Z",
+  "lastUpdated": "2025-08-14T03:55:11.622Z",
   "articles": [
+    {
+      "title": "Night skies glitter with Perseids meteor shower",
+      "description": "The astronomical event was captured on camera at North York Moors National Park on 13 August....",
+      "link": "https://www.bbc.com/news/videos/cvgnkmpkd77o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 14 Aug 2025 01:55:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Labor to use black summer-era measure to fast-track algal bloom response as dolphin carcass washes up on beach",
       "description": "&lt;p&gt;Murray Watt and Sussan Ley survey devastation in Adelaide as scientists call for urgent funding for affected species&lt;/p&gt;&lt;ul&gt;&lt;l...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/13082025/iowa-ragbrai-bike-ride-heat/",
       "pubDate": "Wed, 13 Aug 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A hidden fuel source beneath the Midwest? Scientists are investigating.",
-      "description": "Natural hydrogen could transform the clean energy sector — if we can find enough of it....",
-      "link": "https://grist.org/energy/natural-hydrogen-midcontinent-rift/",
-      "pubDate": "Wed, 13 Aug 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
