@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-14T12:58:46.505Z",
+  "lastUpdated": "2025-08-14T13:42:46.787Z",
   "articles": [
+    {
+      "title": "Virtual Power Plants Showed Up for Their Biggest Test Yet. Here Are the Results",
+      "description": "If what happened on July 29 in California is any indication of the future of the power grid, then there is reason for optimism. Let’s look at it from ...",
+      "link": "https://insideclimatenews.org/news/14082025/inside-clean-energy-battery-virtual-power-plants-california/",
+      "pubDate": "Thu, 14 Aug 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Huge ‘Butchered’ artwork installed on North Sea gas rig by Greenpeace activists",
       "description": "&lt;p&gt;Anish Kapoor work referring to ‘butchering of our environment’ believed to be first fine artwork exhibited from a working gas extraction plat...",
@@ -71,7 +80,7 @@
       "pubDate": "Thu, 14 Aug 2025 08:45:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/07/eddington.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "The tiny ocean organisms that could help the climate in a big way",
@@ -146,7 +155,7 @@
       "image": "https://i.guim.co.uk/img/media/3a37646917685478c1b4fa133b6554a6fdb8748e/181_0_4078_3262/master/4078.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb008d8dd468abc7ae2d53817f8c8ebe"
     },
     {
-      "title": "Night skies glitter with Perseid meteor shower",
+      "title": "Watch: Meteor shower seen in skies above UK",
       "description": "The astronomical event was captured on camera at North York Moors National Park on 13 August....",
       "link": "https://www.bbc.com/news/videos/cvgnkmpkd77o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 14 Aug 2025 01:55:07 GMT",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 14 Aug 2025 00:04:14 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Department of Energy Announces the Selection of 11 Projects for New Nuclear Reactor Pilot Program",
-      "description": "The U.S. Department of Energy has selected 11 projects for a nuclear reactor pilot program, with hopes of fully developing three of the projects by Ju...",
-      "link": "https://insideclimatenews.org/news/13082025/energy-department-announces-projects-for-nuclear-reactor-pilot-program/",
-      "pubDate": "Wed, 13 Aug 2025 23:21:08 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
