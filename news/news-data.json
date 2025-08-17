@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-17T08:33:36.140Z",
+  "lastUpdated": "2025-08-17T09:25:57.151Z",
   "articles": [
+    {
+      "title": "The Chinese Dam Threatening the World’s Most Endangered Ape",
+      "description": "Planet China: Fourth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. NORTH SUMATRA, Ind...",
+      "link": "https://insideclimatenews.org/news/17082025/chinese-indonesia-dam-threatens-endangered-ape/",
+      "pubDate": "Sun, 17 Aug 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Deadlocked on Plastic Pollution",
+      "description": "Global talks on plastics fell apart this week as participating countries failed to agree on next steps for curbing harmful plastic pollution. Several ...",
+      "link": "https://insideclimatenews.org/news/17082025/icn-sunday-morning-plastic-pollution-treaty-talks-fail/",
+      "pubDate": "Sun, 17 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "El Paso’s Heat Is Killing in Record Numbers. It May Only Get Worse",
+      "description": "EL PASO—Retired Catholic priest Arturo Bañuelas leaned into the microphone as he urged county commissioners to do something about the growing crisis o...",
+      "link": "https://insideclimatenews.org/news/17082025/el-paso-extreme-heat-illness-death/",
+      "pubDate": "Sun, 17 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Countries must choose new path after UN plastics treaty talks collapse",
       "description": "Plastic waste on a beach © Ake Ngiamsanguan, iStockphoto, Getty Images WWF-Australia WWF has called on countries including Australia to pursue a new p...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c52b44a7a17a3d39ae0799c23fae8d6a3f29e1b3/0_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f3fa4036bb514212b324ee0d6168736b"
-    },
-    {
-      "title": "The International Seabed Authority’s war with itself",
-      "description": "As the U.N. body faces an American threat to its jurisdiction over deep-sea mining, diplomats have more or less left all the important questions unans...",
-      "link": "https://grist.org/oceans/the-international-seabed-authoritys-war-with-itself/",
-      "pubDate": "Fri, 15 Aug 2025 16:30:33 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/GettyImages-2224753537.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The Guardian view on the collapse of environmental talks: petrostates blocked a global plastics deal, but we must not despair | Editorial",
-      "description": "&lt;p&gt;The failure of UN talks in Geneva should anger us all. The increasing threat to our health, our environments and wildlife must be addressed. ...",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/15/the-guardian-view-on-the-collapse-of-environmental-talks-petrostates-blocked-a-global-plastics-deal-but-we-must-not-despair",
-      "pubDate": "Fri, 15 Aug 2025 16:05:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2579e09def3a97aad5202e3d7d1cc366686f9016/523_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12867a220a38196a42a7722d7453ed6f"
-    },
-    {
-      "title": "The Guardian view on France’s wine crisis: the answer to claret could be clairet | Editorial",
-      "description": "&lt;p&gt;Consumers are drinking less red wine than ever. Producers need to revive the fresher and lighter vintages that their medieval ancestors once ...",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/15/the-guardian-view-on-frances-wine-crisis-the-answer-to-claret-could-be-clairet",
-      "pubDate": "Fri, 15 Aug 2025 16:04:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4b9c8dcf0dda688918d6e72f636e7cc839f3a538/712_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96203fa5cf6a445244edaecd63db155f"
     }
   ]
 }
