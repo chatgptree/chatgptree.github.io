@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-18T05:31:16.327Z",
+  "lastUpdated": "2025-08-18T06:44:41.603Z",
   "articles": [
     {
       "title": "As summers of extreme heat become more common, the UK must protect its workers | John Harris",
@@ -9,6 +9,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/994b4bf0ff4d35c98a7f6304dcf3ae4b723345dc/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94a64f4a58126f14553d7a5d69539c39"
+    },
+    {
+      "title": "Broccoli harvest hit by heatwave and lack of water",
+      "description": "The British Growers Association warns that supplies of broccoli are 'tight' thanks to the heatwave....",
+      "link": "https://www.bbc.com/news/articles/c7541rxgez1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 18 Aug 2025 01:07:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘Pray for rain’: wildfires in Canada are now burning where they never used to",
@@ -101,6 +110,15 @@
       "image": "https://i.guim.co.uk/img/media/3dcadad569208885b4b16ef7ea140dd0cbc2d16c/291_1_4639_3711/master/4639.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=337dec63e88335e455d06f3495d63b0e"
     },
     {
+      "title": "Leaves falling, berries ripe, but it's hot. Is autumn coming early?",
+      "description": "Has autumn come sooner than expected to the UK - and does it even matter if it has?...",
+      "link": "https://www.bbc.com/news/articles/c2enmn7j3zjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 16 Aug 2025 23:12:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Trump administration reopens $5B EV charging program after losses in court",
       "description": "The Transportation Department says states can reapply for funding under the Biden-era program it had halted. Groups fighting the freeze in court decry...",
       "link": "https://grist.org/energy/trump-administration-reopens-5b-ev-charging-program-after-losses-in-court/",
@@ -159,24 +177,6 @@
       "description": "Wind and solar projects will have to meet more difficult work requirements to continue to access federal tax credits over the next four years, under g...",
       "link": "https://insideclimatenews.org/news/15082025/treasury-department-wind-solar-tax-credits/",
       "pubDate": "Fri, 15 Aug 2025 23:23:26 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘It Didn’t Have to Be This Way’: After Another Explosion at Clairton Coke Works, Advocates Call for Accountability",
-      "description": "In the aftermath of an explosion at U.S. Steel’s Clairton Coke Works that injured 20 workers in July 2010, the Allegheny County emergency management c...",
-      "link": "https://insideclimatenews.org/news/15082025/another-explosion-at-us-steel-clairton-coke-works-pennsylvania/",
-      "pubDate": "Fri, 15 Aug 2025 21:07:05 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Delaying Even More Coal, Gas Plant Closures Could Cost Ratepayers Billions",
-      "description": "In May, the U.S. Department of Energy ordered Michigan’s Campbell coal plant to stay open, despite its plans to shut down after more than 60 years of ...",
-      "link": "https://insideclimatenews.org/news/15082025/delaying-fossil-fuel-plant-closures-could-cost-ratepayers/",
-      "pubDate": "Fri, 15 Aug 2025 19:20:37 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
