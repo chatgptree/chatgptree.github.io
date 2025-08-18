@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-18T04:04:15.332Z",
+  "lastUpdated": "2025-08-18T05:31:16.327Z",
   "articles": [
+    {
+      "title": "As summers of extreme heat become more common, the UK must protect its workers | John Harris",
+      "description": "&lt;p&gt;There’s been fury in Spain over the tragic death of a street cleaner. It’s not hard to imagine something similar playing out in the UK&lt;/p&...",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/18/outdoor-workers-extreme-heat-risk-lives-politicians-spain-street-cleaner",
+      "pubDate": "Mon, 18 Aug 2025 05:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/994b4bf0ff4d35c98a7f6304dcf3ae4b723345dc/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94a64f4a58126f14553d7a5d69539c39"
+    },
     {
       "title": "‘Pray for rain’: wildfires in Canada are now burning where they never used to",
       "description": "&lt;p&gt;Canada’s response to the extreme weather threat is being upended as the traditional epicentre of the blazes shifts as the climate warms&lt;/p...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tropical storm turns into Hurricane Erin as it approaches Puerto Rico and Virgin Islands",
-      "description": "&lt;p&gt;Hurricane is predicted pick up steam toward Florida before veering away from the US mainland&lt;/p&gt;&lt;p&gt;A tropical storm sped up to be...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/15/tropical-storm-erin-hurricane",
-      "pubDate": "Fri, 15 Aug 2025 18:43:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c71eccaf2147c41632ba2b7f2e2fd640a3ee228b/0_93_1503_1202/master/1503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2dd6172dffc8a1410392832998d3fad"
     }
   ]
 }
