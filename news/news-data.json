@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-18T23:24:25.040Z",
+  "lastUpdated": "2025-08-19T02:05:06.820Z",
   "articles": [
+    {
+      "title": "US pipeline protester’s obstruction conviction overturned by appeals court",
+      "description": "&lt;p&gt;New trial for Mylene Vialard after Minnesota judges find ‘pervasive’ prosecutorial misconduct in Line 3 protest case&lt;/p&gt;&lt;p&gt;The co...",
+      "link": "https://www.theguardian.com/environment/2025/aug/18/mylene-vialard-pipeline-protester-conviction-overturned",
+      "pubDate": "Tue, 19 Aug 2025 01:25:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a437d30c70fc0837409674959c4a2612526d027e/0_521_5152_4117/master/5152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad116a1ffc4ed974051ecdf95843bde0"
+    },
+    {
+      "title": "New Jersey Orders Probe, Demands Transparency From PJM",
+      "description": "New Jersey has reached the forefront of a regional revolt against PJM Interconnection, the grid operator serving 65 million people across 13 states an...",
+      "link": "https://insideclimatenews.org/news/18082025/new-jersey-measures-demand-pjm-interconnection-transparency/",
+      "pubDate": "Mon, 18 Aug 2025 23:25:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How long tubes of mud could reveal how Antarctica is changing",
+      "description": "How long tubes of mud - drilled out of the Antarctic seafloor - could reveal how the frozen continent is changing.  ...",
+      "link": "https://www.bbc.com/news/articles/cm2vz9jg8jzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 18 Aug 2025 23:21:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Make Billionaires Pay’ March Will Bring Together Climate and Social Justice Movements",
       "description": "As world leaders converge on New York City for September’s United Nations General Assembly, thousands of activists across a range of social movements ...",
@@ -9,15 +36,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US pipeline protester’s obstruction conviction overturned by appeals court",
-      "description": "&lt;p&gt;New trial for Mylene Vialard after Minnesota judges find ‘pervasive’ prosecutorial misconduct in Line 3 protest case&lt;/p&gt;&lt;p&gt;The co...",
-      "link": "https://www.theguardian.com/environment/2025/aug/18/mylene-vialard-pipeline-protester-conviction-overturned",
-      "pubDate": "Mon, 18 Aug 2025 21:02:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a437d30c70fc0837409674959c4a2612526d027e/0_521_5152_4117/master/5152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad116a1ffc4ed974051ecdf95843bde0"
     },
     {
       "title": "The Guardian view on food and farming: climate chaos hits crops hard – and that should worry everyone | Editorial",
@@ -159,24 +177,6 @@
       "description": "The Renewable Energy Alliance (RE-Alliance) Rural and regional communities across Victoria now have a plan for the build out of the renewable energy i...",
       "link": "https://econews.com.au/67603/a-tick-for-certainty-but-regions-need-more-support-in-victorian-transmission-plan/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-tick-for-certainty-but-regions-need-more-support-in-victorian-transmission-plan",
       "pubDate": "Mon, 18 Aug 2025 08:03:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Industry Welcomes National Push for Mandatory Solar Panel Stewardship",
-      "description": "The Waste Management and Resource Recovery Association of Australia (WMRR) welcomes Friday’s commitment by Commonwealth, state, and territory governme...",
-      "link": "https://econews.com.au/67601/industry-welcomes-national-push-for-mandatory-solar-panel-stewardship/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=industry-welcomes-national-push-for-mandatory-solar-panel-stewardship",
-      "pubDate": "Mon, 18 Aug 2025 08:03:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Carbon280 Launches $16m Pilot Plant Demonstrating Hydrogen Storage Breakthrough",
-      "description": "Australian startup unveils Hydrilite® Technology Pilot Plant for safe and cost-effective Hydrogen storage and transportation Carbon280, an Australian-...",
-      "link": "https://econews.com.au/67599/carbon280-launches-16m-pilot-plant-demonstrating-hydrogen-storage-breakthrough/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=carbon280-launches-16m-pilot-plant-demonstrating-hydrogen-storage-breakthrough",
-      "pubDate": "Mon, 18 Aug 2025 08:03:01 +0000",
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
