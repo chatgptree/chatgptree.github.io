@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-20T15:28:32.082Z",
+  "lastUpdated": "2025-08-20T16:32:02.926Z",
   "articles": [
+    {
+      "title": "Hurricane Erin pounds US east coast as residents brace for ‘life-threatening’ waves",
+      "description": "&lt;p&gt;North Carolina anticipates the most brutal surf conditions after storm reportedly rebuilds inner eye wall&lt;/p&gt;&lt;p&gt;Hurricane Erin’s ...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/20/hurricane-erin-east-coast-storm-surge",
+      "pubDate": "Wed, 20 Aug 2025 15:18:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/30b530e20287a16807160da2f483a9d0da97c50b/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff23bb52022b2603e65641e75530384a"
+    },
     {
       "title": "Scientists make 'superfood' that could save honeybees",
       "description": "We rely on honeybees to pollinate our crops and a new food could protect them from growing threats....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/dddac8a656b5215e0be14dd446b017424d7e1a78/202_0_2734_2189/master/2734.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3a74a3c578adab8d2693ccd3e82e84e"
-    },
-    {
-      "title": "The US Department of Agriculture Bans Support for Renewables, a Lifeline for Farmers",
-      "description": "The U.S. Department of Agriculture announced this week that it will stop funding wind and solar energy on American farmland, a move that continues the...",
-      "link": "https://insideclimatenews.org/news/19082025/usda-bans-farm-renewables-support/",
-      "pubDate": "Tue, 19 Aug 2025 22:25:21 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
