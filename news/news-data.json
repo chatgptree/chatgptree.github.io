@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-20T18:38:00.445Z",
+  "lastUpdated": "2025-08-20T19:20:38.197Z",
   "articles": [
+    {
+      "title": "Will there be a drought where I live?",
+      "description": "We take a look at river, reservoir and groundwater levels after a particularly dry few months....",
+      "link": "https://www.bbc.com/news/articles/crk661074ejo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 20 Aug 2025 19:10:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A Geothermal Network in Colorado Could Help A Rural Town Diversify Its Economy",
       "description": "Hayden, a small town in the mountains of northwest Colorado, is searching for ways to diversify its economy, much like other energy communities across...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/904bb6d3e600ecf48e6a7d426ac8bd05dbfa8f18/161_0_4668_3732/master/4668.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=11d435bfb578cf4ee35a268e3e2038ff"
-    },
-    {
-      "title": "Monkeys falling from trees and baking barnacles: how heat is driving animals to extinction",
-      "description": "&lt;p&gt;With the number of very hot days rising as well as average temperatures, more and more animals are vulnerable. But while some species can ada...",
-      "link": "https://www.theguardian.com/environment/2025/aug/20/monkeys-falling-trees-baking-barnacles-heat-driving-animals-extinction-climate",
-      "pubDate": "Wed, 20 Aug 2025 04:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4c5a3d37a8ca3d756caf3672e47a16f13643e82e/1094_774_4232_3386/master/4232.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36749dfb1548b0f73173ee21a1cae078"
     }
   ]
 }
