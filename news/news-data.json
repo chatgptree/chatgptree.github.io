@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-19T23:23:55.996Z",
+  "lastUpdated": "2025-08-20T02:03:08.573Z",
   "articles": [
+    {
+      "title": "UK independent space agency scrapped to cut costs",
+      "description": "Britain's space agency is set to be scrapped - a scientist fears the UK space sector could fall behind as a result...",
+      "link": "https://www.bbc.com/news/articles/c4gmjm8z47jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 20 Aug 2025 00:35:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Voices arguing that climate action is a waste of time are getting louder. Here’s why they are wrong | Clear Air",
+      "description": "&lt;p&gt;Optimism may be hard to come by but the evidence shows some progress on emissions is not just possible – it’s happening before our eyes&lt;/p...",
+      "link": "https://www.theguardian.com/environment/commentisfree/2025/aug/20/voices-arguing-climate-crisis-action-is-a-waste-of-time-are-wrong",
+      "pubDate": "Tue, 19 Aug 2025 23:57:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dddac8a656b5215e0be14dd446b017424d7e1a78/202_0_2734_2189/master/2734.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3a74a3c578adab8d2693ccd3e82e84e"
+    },
     {
       "title": "The US Department of Agriculture Bans Support for Renewables, a Lifeline for Farmers",
       "description": "The U.S. Department of Agriculture announced this week that it will stop funding wind and solar energy on American farmland, a move that continues the...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Dr-Billy-2-724x1024.jpg"
-    },
-    {
-      "title": "US pipeline protester’s obstruction conviction overturned by appeals court",
-      "description": "&lt;p&gt;New trial for Mylene Vialard after Minnesota judges find ‘pervasive’ prosecutorial misconduct in Line 3 protest case&lt;/p&gt;&lt;p&gt;The co...",
-      "link": "https://www.theguardian.com/environment/2025/aug/18/mylene-vialard-pipeline-protester-conviction-overturned",
-      "pubDate": "Tue, 19 Aug 2025 01:25:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a437d30c70fc0837409674959c4a2612526d027e/0_521_5152_4117/master/5152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad116a1ffc4ed974051ecdf95843bde0"
-    },
-    {
-      "title": "New Jersey Orders Probe, Demands Transparency From PJM",
-      "description": "New Jersey has reached the forefront of a regional revolt against PJM Interconnection, the grid operator serving 65 million people across 13 states an...",
-      "link": "https://insideclimatenews.org/news/18082025/new-jersey-measures-demand-pjm-interconnection-transparency/",
-      "pubDate": "Mon, 18 Aug 2025 23:25:31 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
