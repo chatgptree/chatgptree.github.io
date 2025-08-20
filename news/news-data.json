@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-20T17:23:12.210Z",
+  "lastUpdated": "2025-08-20T18:38:00.445Z",
   "articles": [
+    {
+      "title": "A Geothermal Network in Colorado Could Help A Rural Town Diversify Its Economy",
+      "description": "Hayden, a small town in the mountains of northwest Colorado, is searching for ways to diversify its economy, much like other energy communities across...",
+      "link": "https://insideclimatenews.org/news/20082025/colorado-rural-geothermal-energy-network/",
+      "pubDate": "Wed, 20 Aug 2025 18:09:48 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "15 Children in Wisconsin File the Latest Youth Lawsuit Citing Climate Dangers",
       "description": "Youth climate activists in Wisconsin are suing the state’s Public Service Commission over state laws that they say perpetuate a fossil fuel-dominated ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4c5a3d37a8ca3d756caf3672e47a16f13643e82e/1094_774_4232_3386/master/4232.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36749dfb1548b0f73173ee21a1cae078"
-    },
-    {
-      "title": "UK independent space agency scrapped to cut costs",
-      "description": "Britain's space agency is set to be scrapped - a scientist fears the UK space sector could fall behind as a result...",
-      "link": "https://www.bbc.com/news/articles/c4gmjm8z47jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 20 Aug 2025 00:35:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
