@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-21T17:23:30.140Z",
+  "lastUpdated": "2025-08-21T18:35:00.562Z",
   "articles": [
+    {
+      "title": "Light pollution causes urban birds to stay awake longer each day, study finds",
+      "description": "&lt;p&gt;Researchers ‘shocked’ to discover some species settling down for sleep 50 minutes later than rural counterparts&lt;/p&gt;&lt;p&gt;Urban birds...",
+      "link": "https://www.theguardian.com/environment/2025/aug/21/light-pollution-causes-urban-birds-to-stay-awake-longer-each-day-study-finds",
+      "pubDate": "Thu, 21 Aug 2025 18:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2ed705b4db38ba64426abb9368d10d2bb4422f48/66_0_4037_3230/master/4037.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ac1d1b9b6d705ce4bef81a06dc5d98e"
+    },
+    {
+      "title": "US mines are literally throwing away critical minerals",
+      "description": "There’s enough lithium in one year of U.S. mine waste to power 10 million electric vehicles....",
+      "link": "https://grist.org/science/us-mines-are-literally-throwing-away-critical-minerals/",
+      "pubDate": "Thu, 21 Aug 2025 18:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Drought bringing autumn harvest two weeks early, Waitrose says",
       "description": "&lt;p&gt;Farmers that supply supermarket are already harvesting wheat, oilseed rape and oats amid dry conditions&lt;/p&gt;&lt;p&gt;Harvests are coming...",
@@ -54,15 +72,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Eden Project wildflower centre issues climate warning as it marks 25th year",
-      "description": "&lt;p&gt;Changing weather patterns are affecting planting and pose a threat to a variety of species, says head of development&lt;/p&gt;&lt;p&gt;Rising...",
-      "link": "https://www.theguardian.com/uk-news/2025/aug/21/eden-project-wildflower-centre-issues-climate-warning-as-it-marks-25th-year",
-      "pubDate": "Thu, 21 Aug 2025 11:27:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/27caf02881ecc931b4c0a7b716a887a509acd73b/276_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff95d80c52fc15b49ffaa2fe561155f9"
     },
     {
       "title": "Navigating the Troubled Waters of Newtown Creek Means an Environmental Cleanup in Brooklyn and Queens That Will Cost At Least $3.3 Billion",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f7eb6a9f0ec90a80ad81f83f2a0458a512d4d620/310_0_9340_7470/master/9340.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08969b15ed96eaf34647003b89274c72"
-    },
-    {
-      "title": "Californians brace for worst multiday heatwave of the year",
-      "description": "&lt;p&gt;Temperatures are expected to spike with a trio of heat, thunderstorms and fire risks compounding dangers&lt;/p&gt;&lt;p&gt;&lt;a href=\"https:...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/20/california-extreme-heat-wave",
-      "pubDate": "Thu, 21 Aug 2025 00:09:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1ba7c4bf61a0daa508fd107befec20fcb6d6dfc3/619_0_3687_2950/master/3687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=737d7340e637e2cb3089694f77a7fe27"
     }
   ]
 }
