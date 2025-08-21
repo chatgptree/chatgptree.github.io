@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-21T09:28:39.936Z",
+  "lastUpdated": "2025-08-21T10:28:11.874Z",
   "articles": [
+    {
+      "title": "Brazil authorities suspend key Amazon rainforest protection measure",
+      "description": "&lt;p&gt;Suspension of soy moratorium could open up area of rainforest the size of Portugal to destruction&lt;/p&gt;&lt;p&gt;One of the key agreements...",
+      "link": "https://www.theguardian.com/environment/2025/aug/21/brazil-authorities-suspend-key-amazon-rainforest-protection-measure",
+      "pubDate": "Thu, 21 Aug 2025 09:34:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6a005aabcf172f338af36ada6dd77905aff3dd10/575_0_4202_3361/master/4202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51ff5d37ed54a0c83a0d6cf554d477a7"
+    },
     {
       "title": "Navigating the Troubled Waters of Newton Creek Means an Environmental Cleanup in Brooklyn and Queens That Will Cost At Least $3.3 Billion",
       "description": "Hazardous: Last in a series about the ongoing struggle to clean up Brooklyn’s Superfund sites. Water has memory. I was told that once by Eymund Diegel...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/30b530e20287a16807160da2f483a9d0da97c50b/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff23bb52022b2603e65641e75530384a"
-    },
-    {
-      "title": "Scientists make 'superfood' that could save honeybees",
-      "description": "We rely on honeybees to pollinate our crops and a new food could protect them from growing threats....",
-      "link": "https://www.bbc.com/news/articles/c776kynn771o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 20 Aug 2025 15:03:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
