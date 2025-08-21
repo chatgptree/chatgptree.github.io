@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-21T15:28:06.642Z",
+  "lastUpdated": "2025-08-21T16:37:15.678Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The science of extraterrestrial solar panels and whether they can power our energy needs....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002hb9f?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 21 Aug 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Victoria’s mountain ash forests could lose a quarter of ‘giant’ trees as temperatures rise",
       "description": "&lt;p&gt;Eucalyptus regnans – which regularly reach 60 to 80m tall – lose about 9% of their trees for every degree of warming, research finds&lt;/p&gt...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1ba7c4bf61a0daa508fd107befec20fcb6d6dfc3/619_0_3687_2950/master/3687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=737d7340e637e2cb3089694f77a7fe27"
-    },
-    {
-      "title": "Amid Tense Negotiations Over the Colorado River’s Future, Arizona Mayors Unite Against ‘Threat’ to State’s Water",
-      "description": "SCOTTSDALE, Ariz.—Arizona mayors, from major metropolises to rural agriculture communities, came together Wednesday to announce a new coalition focuse...",
-      "link": "https://insideclimatenews.org/news/20082025/arizona-mayors-unite-against-water-threat/",
-      "pubDate": "Wed, 20 Aug 2025 23:40:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
