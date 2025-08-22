@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-22T11:21:02.375Z",
+  "lastUpdated": "2025-08-22T12:52:47.906Z",
   "articles": [
+    {
+      "title": "Alarm over Fema aid rule requiring email address for disaster victims",
+      "description": "&lt;p&gt;Experts call change likely to pose problems for Americans with limited internet access ‘troubling to say the least’ &lt;/p&gt;&lt;p&gt;Curren...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/22/fema-rule-aid-disaster-victims",
+      "pubDate": "Fri, 22 Aug 2025 12:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/85e0b6d6e40929bd3a829dfeb517f1f026f22201/433_0_4311_3451/master/4311.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2dc60fa7341ec41a674be0dd552a051"
+    },
     {
       "title": "New dinosaur named after record-breaking sailor",
       "description": "The medium-sized herbivore once roamed the floodplains of what is now the Island's south-west coast....",
@@ -168,15 +177,6 @@
       "description": "Hazardous: Last in a series about the ongoing struggle to clean up Brooklyn’s Superfund sites. Water has memory. I was told that once by Eymund Diegel...",
       "link": "https://insideclimatenews.org/news/21082025/new-york-city-newton-creek-wastewater-cleanup/",
       "pubDate": "Thu, 21 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Amid Community Opposition, Alabama Hyperscale Data Center Project Hits a Speed Bump",
-      "description": "BESSEMER, Ala.—Residents living near the site of a proposed 4.5 million square foot data center delight in even small victories.&#160; Their satisfact...",
-      "link": "https://insideclimatenews.org/news/21082025/alabama-hyperscale-data-center-community-opposition/",
-      "pubDate": "Thu, 21 Aug 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
