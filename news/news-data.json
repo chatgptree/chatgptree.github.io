@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-22T14:25:41.247Z",
+  "lastUpdated": "2025-08-22T15:26:11.832Z",
   "articles": [
+    {
+      "title": "Hurricane Erin intensified at a near-record rate. Is Florida ready for the next big storm?",
+      "description": "&lt;p&gt;Erin went from a tropical storm to a category 5 in about 24 hours, underscoring the danger of hurricane season amid a diminished Fema and Nat...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/22/hurricane-erin-analysis-florida",
+      "pubDate": "Fri, 22 Aug 2025 15:11:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/74504bd40d8450c1e42a90155f02dea6a3999600/0_0_6000_3608/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90877d25b2ade4538958b11436d3223b"
+    },
     {
       "title": "Wolf hunting in western US does little to prevent livestock losses, study finds",
       "description": "&lt;p&gt;Analysis of legal hunting in Montana and Idaho shows that eliminating one wolf protected just 7% of a single cow&lt;/p&gt;&lt;p&gt;Legalized ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/768e9517082e84f467cf677b6db9029fe74b62e5/816_300_2944_2356/master/2944.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=782a2d6a0463b3e958fcdb1064a341b0"
-    },
-    {
-      "title": "The Researcher Who Wrote the Book on How Solar Got Cheap Is Back to Assess the Current Moment",
-      "description": "Five years ago, Greg Nemet wrote about the economic and technological factors that were helping to make solar power one of the world’s least-expensive...",
-      "link": "https://insideclimatenews.org/news/21082025/inside-clean-energy-solar-affordability-book/",
-      "pubDate": "Thu, 21 Aug 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
