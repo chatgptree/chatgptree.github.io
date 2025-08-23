@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-23T11:19:22.967Z",
+  "lastUpdated": "2025-08-23T12:49:35.802Z",
   "articles": [
+    {
+      "title": "‘We want builders on site, not filling in forms’: Albanese government cuts red tape in bid to boost home building",
+      "description": "&lt;p&gt;Pausing changes to Construction Code, establishment of ‘strike team’ within environment department and use of AI in planning among reforms&lt...",
+      "link": "https://www.theguardian.com/australia-news/2025/aug/23/we-want-builders-on-site-not-filling-in-forms-albanese-government-cuts-red-tape-in-bid-to-boost-home-building",
+      "pubDate": "Sat, 23 Aug 2025 12:30:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0aa0e5d5a5bb084a824a93a2363c1fd4998c54c5/653_0_6533_5226/master/6533.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfdc36d369059374b570d3ca04491903"
+    },
+    {
+      "title": "Alarming levels of Pfas in blood of those living near US air force base, study finds",
+      "description": "&lt;p&gt;Toxic ‘forever chemicals’ were found at a level 10 times higher than people who did not work in contaminated zone&lt;/p&gt;&lt;p&gt;New resea...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/23/pfas-air-force-base",
+      "pubDate": "Sat, 23 Aug 2025 12:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d7d335c91d9bc61c34c046d9b2c3db2376226a52/329_0_3375_2700/master/3375.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f02679e7ae54eab20a7c18fcf9862693"
+    },
     {
       "title": "Do heatwaves, wildfires and travel costs signal the end of the holiday abroad?",
       "description": "&lt;p&gt;Leading researcher forecasts ‘beginning of the age of non-tourism’ despite industry returning to pre-pandemic highs&lt;/p&gt;&lt;p&gt;It was ...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hurricane Erin intensified at a near-record rate. Is Florida ready for the next big storm?",
-      "description": "&lt;p&gt;Erin went from a tropical storm to a category 5 in about 24 hours, underscoring the danger of hurricane season amid a diminished Fema and Nat...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/22/hurricane-erin-analysis-florida",
-      "pubDate": "Fri, 22 Aug 2025 15:11:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/74504bd40d8450c1e42a90155f02dea6a3999600/0_0_6000_3608/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90877d25b2ade4538958b11436d3223b"
-    },
-    {
-      "title": "Wolf hunting in western US does little to prevent livestock losses, study finds",
-      "description": "&lt;p&gt;Analysis of legal hunting in Montana and Idaho shows that eliminating one wolf protected just 7% of a single cow&lt;/p&gt;&lt;p&gt;Legalized ...",
-      "link": "https://www.theguardian.com/environment/2025/aug/22/wolf-hunting-livestock-western-us",
-      "pubDate": "Fri, 22 Aug 2025 14:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/655154b216bca5de341e748c2dd65ef8fc2ed871/724_0_7211_5773/master/7211.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc7a920c9e274dfd9313dc8c79617865"
     }
   ]
 }
