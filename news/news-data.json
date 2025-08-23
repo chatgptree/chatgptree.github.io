@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-23T12:49:35.802Z",
+  "lastUpdated": "2025-08-23T13:29:44.944Z",
   "articles": [
+    {
+      "title": "A coal-fired plant in Michigan was supposed to close. But Trump forced it to keep running at $1M a day.",
+      "description": "The community had big plans for the facility site, until the Trump administration ordered it to stay open, a move it extended this week....",
+      "link": "https://grist.org/energy/a-coal-fired-plant-in-michigan-was-supposed-to-close-but-trump-forced-it-to-keep-running-at-1m-a-day/",
+      "pubDate": "Sat, 23 Aug 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/Trump-energy-emergency-dominance-coal-Tennessee-mine.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "‘We want builders on site, not filling in forms’: Albanese government cuts red tape in bid to boost home building",
       "description": "&lt;p&gt;Pausing changes to Construction Code, establishment of ‘strike team’ within environment department and use of AI in planning among reforms&lt...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a507531a55ca882affdb1c4315f9729cb9bf85d6/562_0_5624_4504/master/5624.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7afc990aef0af104c1140ea6c1c62130"
-    },
-    {
-      "title": "Antarctica is in extreme peril",
-      "description": "\"Abrupt changes\" threaten to send the continent past the point of no return, a new study finds....",
-      "link": "https://grist.org/climate/antarctica-is-in-extreme-peril/",
-      "pubDate": "Fri, 22 Aug 2025 17:17:58 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
