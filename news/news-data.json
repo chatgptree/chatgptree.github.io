@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-23T19:18:48.548Z",
+  "lastUpdated": "2025-08-23T20:25:43.873Z",
   "articles": [
+    {
+      "title": "Australia’s amount of plastic waste surges as recycling rates fail to improve",
+      "description": "&lt;p&gt;Australians produced 3.2m tonnes of plastic waste in 2023-24, up from 3m tonnes the previous year&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get o...",
+      "link": "https://www.theguardian.com/environment/2025/aug/24/australias-amount-of-plastic-waste-surges-as-recycling-rates-fail-to-improve",
+      "pubDate": "Sat, 23 Aug 2025 20:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6578e8877457f24e14619b3cb44e7d0b2c27c1bf/539_0_3541_2832/master/3541.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ceb1dbd045ee4782a19e4c04f848f36d"
+    },
     {
       "title": "Alaska was lucky to avoid disaster after a landslide and tsunami. What about next time?",
       "description": "&lt;p&gt;The close call in Tracy Arm 50 miles south of Juneau on 10 August is the latest sign that as glaciers melt, risks may rise&lt;/p&gt;&lt;p&gt;...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Young climate activists in Wisconsin sue state over pro-fossil fuel policies",
-      "description": "&lt;p&gt;Lawsuit brought by two non-profit law firms have had previous wins in Montana and Wisconsin&lt;/p&gt;&lt;p&gt;Fifteen young climate advocates...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/22/young-climate-activists-sue-wisconsin",
-      "pubDate": "Fri, 22 Aug 2025 18:43:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/461488f3029cdc4dd1063e0e5ec3608f6d43f548/586_0_3828_3063/master/3828.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93466b5ce0bea5f81218f7a75c8f8da4"
     }
   ]
 }
