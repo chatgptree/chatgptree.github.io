@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-24T12:50:01.548Z",
+  "lastUpdated": "2025-08-24T13:30:35.916Z",
   "articles": [
+    {
+      "title": "FEMA now requires disaster victims to have an email address",
+      "description": "Workers at FEMA worry that demanding disaster survivors access services using email could shut out people without internet connectivity from receiving...",
+      "link": "https://grist.org/extreme-weather/fema-now-requires-disaster-victims-to-have-an-email-address/",
+      "pubDate": "Sun, 24 Aug 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/fema-jacket.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Don’t let Donald Trump undermine your faith in the climate fight | Gina McCarthy",
       "description": "&lt;p&gt;The president’s fossil-fuel obsession can’t stop global progress, writes the former Environmental Protection Agency head&lt;/p&gt;&lt;p&gt;Ov...",
@@ -56,15 +65,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "UK carmakers claimed leaving EV sales rules unchanged would cost jobs and investment",
-      "description": "&lt;p&gt;BMW, Jaguar Land Rover, Nissan and Toyota lobbied against zero emission vehicle mandate, documents show&lt;/p&gt;&lt;p&gt;Carmakers claimed t...",
-      "link": "https://www.theguardian.com/business/2025/aug/24/uk-carmakers-ev-sales-rules-zev-mandate",
-      "pubDate": "Sun, 24 Aug 2025 06:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/910ebd1e193148ceec6eee97d659ebfd5b1b6354/19_43_2753_2204/master/2753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f68e8b83e3bb33b436563e3dcb0f5fa"
-    },
-    {
       "title": "Trout farm in Cotswolds tourist hotspot accused of welfare abuses",
       "description": "&lt;p&gt;Exclusive: Charity says footage shows fish being struck repeatedly and at least one child taking part in killing fish&lt;/p&gt;&lt;p&gt;Anima...",
       "link": "https://www.theguardian.com/world/2025/aug/24/bibury-trout-farm-cotswolds-accused-animal-welfare-abuses",
@@ -72,6 +72,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cc7d7150381012807343b2b6fbde072d87c88f6d/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61689c847b85aad89cdc262e6bcbc3d4"
+    },
+    {
+      "title": "UK carmakers claimed leaving EV sales rules unchanged would cost jobs and investment",
+      "description": "&lt;p&gt;BMW, Jaguar Land Rover, Nissan and Toyota lobbied against zero emission vehicle mandate, documents show&lt;/p&gt;&lt;p&gt;Carmakers claimed t...",
+      "link": "https://www.theguardian.com/business/2025/aug/24/uk-carmakers-ev-sales-rules-zev-mandate",
+      "pubDate": "Sun, 24 Aug 2025 06:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/910ebd1e193148ceec6eee97d659ebfd5b1b6354/19_43_2753_2204/master/2753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f68e8b83e3bb33b436563e3dcb0f5fa"
     },
     {
       "title": "Taiwan referendum on reopening last nuclear plant fails",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Smart-UNSW.png"
-    },
-    {
-      "title": "A NEW INITIATIVE IN THE FIGHT TO SAVE WILD KOALAS",
-      "description": "Australian Koala Foundation To coincide with September’s, Save the Koala Month, the Australian Koala Foundation and Wild Dog Books announce the releas...",
-      "link": "https://econews.com.au/67645/a-new-initiative-in-the-fight-to-save-wild-koalas/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-new-initiative-in-the-fight-to-save-wild-koalas",
-      "pubDate": "Sat, 23 Aug 2025 04:02:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/One-Koala.jpg"
     }
   ]
 }
