@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2025-08-24T08:30:12.426Z",
+  "lastUpdated": "2025-08-24T09:24:20.695Z",
   "articles": [
     {
-      "title": "UK carmakers claimed leaving EV sales rules unchanged would cost jobs and investment",
-      "description": "&lt;p&gt;BMW, Jaguar Land Rover, Nissan and Toyota lobbied against zero emission vehicle mandate, documents show&lt;/p&gt;&lt;p&gt;Carmakers claimed t...",
-      "link": "https://www.theguardian.com/business/2025/aug/24/uk-carmakers-ev-sales-rules-zev-mandate",
-      "pubDate": "Sun, 24 Aug 2025 06:00:25 GMT",
-      "sourceName": "theguardian.com",
+      "title": "The Woman Holding Chinese Mining Giants Accountable",
+      "description": "Planet China:&#160;Fifth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. When Jingjing ...",
+      "link": "https://insideclimatenews.org/news/24082025/fighting-for-environmental-justice-china-belt-and-road-zambia/",
+      "pubDate": "Sun, 24 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/910ebd1e193148ceec6eee97d659ebfd5b1b6354/19_43_2753_2204/master/2753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f68e8b83e3bb33b436563e3dcb0f5fa"
+      "image": "https://insideclimatenews.org/wp-content/uploads/2025/08/GettyImages-1249563790.jpg"
+    },
+    {
+      "title": "The Trump Administration Dismisses the Endangered Species List as ‘Hotel California.’ But There’s Far More to the Story",
+      "description": "“You can check out any time you like, but you can never leave.”&#160; It’s the ominous slogan for “Hotel California,” an iconic fictional lodging drea...",
+      "link": "https://insideclimatenews.org/news/24082025/trump-administration-dismisses-endangered-species-list/",
+      "pubDate": "Sun, 24 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sewage Taints Canadian Oysters. Then Americans Eat Them",
+      "description": "Mark Kapczynski had been looking forward to it for weeks.&#160; He had VIP tickets for him and his wife to attend an upscale seafood festival in Los A...",
+      "link": "https://insideclimatenews.org/news/24082025/canada-oysters-tainted-by-sewage-supplied-to-united-states-norovirus/",
+      "pubDate": "Sun, 24 Aug 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The ‘Hotel California’ of Biodiversity",
+      "description": "More than 2,370 species have received protections from the federal government under the Endangered Species Act, from schoolbus-sized North Atlantic ri...",
+      "link": "https://insideclimatenews.org/news/24082025/icn-sunday-morning-biodiversity-hotel-california/",
+      "pubDate": "Sun, 24 Aug 2025 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Trout farm in Cotswolds tourist hotspot accused of welfare abuses",
@@ -18,6 +45,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cc7d7150381012807343b2b6fbde072d87c88f6d/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61689c847b85aad89cdc262e6bcbc3d4"
+    },
+    {
+      "title": "UK carmakers claimed leaving EV sales rules unchanged would cost jobs and investment",
+      "description": "&lt;p&gt;BMW, Jaguar Land Rover, Nissan and Toyota lobbied against zero emission vehicle mandate, documents show&lt;/p&gt;&lt;p&gt;Carmakers claimed t...",
+      "link": "https://www.theguardian.com/business/2025/aug/24/uk-carmakers-ev-sales-rules-zev-mandate",
+      "pubDate": "Sun, 24 Aug 2025 06:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/910ebd1e193148ceec6eee97d659ebfd5b1b6354/19_43_2753_2204/master/2753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f68e8b83e3bb33b436563e3dcb0f5fa"
     },
     {
       "title": "Taiwan referendum on reopening last nuclear plant fails",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/OSWLogo-1.jpg"
-    },
-    {
-      "title": "Explosion and fire in Louisiana leads to elementary school being evacuated",
-      "description": "&lt;p&gt;Flames and a tower of smoke rose above an automotive supply company 50 miles north-east of Baton Rouge&lt;/p&gt;&lt;p&gt;An explosion and fir...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/22/explosion-fire-louisiana-evacuations",
-      "pubDate": "Sat, 23 Aug 2025 00:02:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/85045c08282fb884c1ed25157c3a5d9162485d98/15_0_1228_982/master/1228.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04beef9d3d2e73a600f91057f7c2dc5a"
-    },
-    {
-      "title": "Wildfire explodes in California wine country as heatwave scorches US west",
-      "description": "&lt;p&gt;Multiple fires have ignited this week with searing heat expected to last days and extend to Pacific north-west&lt;/p&gt;&lt;p&gt;Multiple &lt...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/22/california-wildfire-napa-county",
-      "pubDate": "Fri, 22 Aug 2025 23:27:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5abcf44a1de11c60e39e9f68052f6474d341b342/398_0_4167_3335/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d19b4523a34a1d3b540123640d825702"
-    },
-    {
-      "title": "Citing Environmental Concerns, Judge Orders Alligator Alcatraz to Wind Down Operations",
-      "description": "A federal judge has ordered a winding down of operations at Florida’s Alligator Alcatraz, the hastily assembled Everglades detention site where the Tr...",
-      "link": "https://insideclimatenews.org/news/22082025/judge-orders-alligator-alcatraz-to-wind-down-environmental-concerns/",
-      "pubDate": "Fri, 22 Aug 2025 21:58:35 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In the wake of destructive floods, Wisconsin youth sue state utility regulator over failure to consider climate change",
-      "description": "The case is part of a growing movement to force climate action through the courts, led in part by Indigenous youth....",
-      "link": "https://grist.org/justice/in-the-wake-of-destructive-floods-wisconsin-youth-sue-state-utility-regulator-over-failure-to-consider-climate-change/",
-      "pubDate": "Fri, 22 Aug 2025 20:09:19 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/Waazakone_Our-Childrens-Trust.jpg?quality=75&amp;strip=all"
     }
   ]
 }
