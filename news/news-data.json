@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-25T20:28:40.982Z",
+  "lastUpdated": "2025-08-25T21:23:38.413Z",
   "articles": [
+    {
+      "title": "Trump Administration Issues Stop Work Order for Offshore Wind Project, Citing National Security Concerns",
+      "description": "The Trump administration on Friday issued an order to stop work on a nearly complete offshore wind energy project, the latest step in the Trump admini...",
+      "link": "https://insideclimatenews.org/news/25082025/trump-administration-halts-rhode-island-offshore-wind-project/",
+      "pubDate": "Mon, 25 Aug 2025 21:20:55 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Fema staff warn Trump’s cuts risk exposing US to another Hurricane Katrina",
+      "description": "&lt;p&gt;Workers say president’s attacks on the agency and lack of qualified leadership could lead to deadly catastrophe&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/25/fema-trump-hurricane-katrina",
+      "pubDate": "Mon, 25 Aug 2025 21:02:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/aa1168160e80a7a8a3958e24ef340680b45aaee6/478_373_3989_3191/master/3989.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0426881af983dfd1e44fc8b26dfa2566"
+    },
     {
       "title": "The Guardian view on the carnivore diet: red meat for influencers, but bad news for health | Editorial",
       "description": "&lt;p&gt;A fad for consuming high-protein, high-fat food, while avoiding vegetables, has taken off online. Followers are doing themselves no favours&l...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3836e7bd7c62757413a6dd34041f97c519b529d5/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5de8349313767cf3464ef7ce3b8e472a"
-    },
-    {
-      "title": "The Woman Holding Chinese Mining Giants Accountable",
-      "description": "Planet China:&#160;Fifth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. When Jingjing ...",
-      "link": "https://insideclimatenews.org/news/24082025/fighting-for-environmental-justice-china-belt-and-road-zambia/",
-      "pubDate": "Sun, 24 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "https://insideclimatenews.org/wp-content/uploads/2025/08/GettyImages-1249563790.jpg"
-    },
-    {
-      "title": "The Trump Administration Dismisses the Endangered Species List as ‘Hotel California.’ But There’s Far More to the Story",
-      "description": "“You can check out any time you like, but you can never leave.”&#160; It’s the ominous slogan for “Hotel California,” an iconic fictional lodging drea...",
-      "link": "https://insideclimatenews.org/news/24082025/trump-administration-dismisses-endangered-species-list/",
-      "pubDate": "Sun, 24 Aug 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
