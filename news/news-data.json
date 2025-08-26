@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-26T08:35:30.653Z",
+  "lastUpdated": "2025-08-26T09:28:47.430Z",
   "articles": [
+    {
+      "title": "The Colorado River Is This Tribe’s ‘Lifeblood,’ Now They Want To Give It the Same Legal Rights as a Person",
+      "description": "In far western Arizona, the dusty beige expanse of desert stretches as far as the eye can see. Under the baking summer sun, which regularly pushes tem...",
+      "link": "https://insideclimatenews.org/news/26082025/colorado-river-indian-tribes-rights-of-nature/",
+      "pubDate": "Tue, 26 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump administration halts construction of nearly finished offshore wind farm",
+      "description": "Ørsted’s Revolution Wind project off the coast of Massachusetts and Rhode Island is hit with a stop-work order over vague ​“national security” concern...",
+      "link": "https://grist.org/energy/trump-administration-halts-construction-of-nearly-finished-offshore-wind-farm-revolution-wind/",
+      "pubDate": "Tue, 26 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/Trump-and-Bergum.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "India’s supreme court orders inquiry into giant zoo run by son of Asia’s richest person",
+      "description": "&lt;p&gt;Activists claim Anant Ambani’s Vantara facility has no plan to return its endangered species to the wild&lt;/p&gt;&lt;p&gt;India’s supreme co...",
+      "link": "https://www.theguardian.com/world/2025/aug/26/india-supreme-court-giant-zoo-son-asia-richest-person-vantara",
+      "pubDate": "Tue, 26 Aug 2025 08:37:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9b4d9347454b135a3c60979abf0456534ff10836/32_26_2103_1681/master/2103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f27ddf9a27daa20aa60eab7fdd0f631d"
+    },
     {
       "title": "Tuesday briefing: How ‘climateflation’ is pushing food prices ever higher – and changing how we eat",
       "description": "&lt;p&gt;In today’s newsletter: Extreme heat, droughts and floods are proving disastrous for farmers on the frontline of climate change, and consumers...",
@@ -36,15 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e9e00fdb36a90a63d8634ff57f4ff69e73de79d0/1839_379_6353_5085/master/6353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6261c5ae0ced04ffa276b657d1fef3b6"
-    },
-    {
-      "title": "Marks &amp; Spencer to open secondhand clothing store on eBay",
-      "description": "&lt;p&gt;Customers to get £5 vouchers for donating M&amp;amp;S clothes to Oxfam, which will get 15% of profits from eBay sales&lt;/p&gt;&lt;p&gt;&lt;a...",
-      "link": "https://www.theguardian.com/business/2025/aug/26/marks-spencer-to-open-secondhand-clothing-store-on-ebay",
-      "pubDate": "Mon, 25 Aug 2025 23:01:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6f1110443c3925642209d88c51371eb706c28ffa/155_0_6369_5099/master/6369.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3840d40dc961613eee9f382ca7d8ef92"
     },
     {
       "title": "Trump Administration Issues Stop Work Order for Offshore Wind Project, Citing National Security Concerns",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "RESET returns to Fed Square this September with a month-long celebration of sustainability, creativity and care for the environment",
-      "description": "This spring, Fed Square invites visitors to take a breath and press RESET. Returning from 1 September to 6 October 2025, RESET is Fed Square’s free, f...",
-      "link": "https://econews.com.au/67651/reset-returns-to-fed-square-this-september-with-a-month-long-celebration-of-sustainability-creativity-and-care-for-the-environment/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reset-returns-to-fed-square-this-september-with-a-month-long-celebration-of-sustainability-creativity-and-care-for-the-environment",
-      "pubDate": "Mon, 25 Aug 2025 04:02:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/250728-RESET-Media-Header-Footer-2496x380-1-1024x156.jpg"
-    },
-    {
-      "title": "Climate change pushing winemakers to blend wines from different years",
-      "description": "Non-vintage still wine is now increasingly being made in response to more challenging weather....",
-      "link": "https://www.bbc.com/news/articles/czxp41y3n7lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 24 Aug 2025 23:38:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
