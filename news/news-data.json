@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-26T05:26:39.317Z",
+  "lastUpdated": "2025-08-26T06:39:20.607Z",
   "articles": [
+    {
+      "title": "Tuesday briefing: How ‘climateflation’ is pushing food prices ever higher – and changing how we eat",
+      "description": "&lt;p&gt;In today’s newsletter: Extreme heat, droughts and floods are proving disastrous for farmers on the frontline of climate change, and consumers...",
+      "link": "https://www.theguardian.com/world/2025/aug/26/tuesday-briefing-how-climateflation-is-pushing-food-prices-ever-higher-and-changing-how-we-eat",
+      "pubDate": "Tue, 26 Aug 2025 05:43:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ad0dbaac47c875d10d3c2003fb8009d4e6ba51bd/359_0_3180_2546/master/3180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1998a293fb0a1c144b83ecd19ad6a4a"
+    },
     {
       "title": "Life of Exmoor nature writer Hope Bourne recognised with exhibition",
       "description": "&lt;p&gt;Views of forward-thinking artist and writer who lived off land in national park celebrated at museum in Glastonbury&lt;/p&gt;&lt;p&gt;She was...",
@@ -63,15 +72,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/17069ce5ac4f83b47dd3c95501af284b57794990/451_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70d2389bd487979b869bd0685fda7136"
-    },
-    {
-      "title": "Heatwaves are making people age faster, study suggests",
-      "description": "&lt;p&gt;Exposure to high temperatures could result in long-lasting damage to health of billions of people, scientists warn&lt;/p&gt;&lt;p&gt;Repeated...",
-      "link": "https://www.theguardian.com/environment/2025/aug/25/heatwaves-making-people-age-faster-study-suggests",
-      "pubDate": "Mon, 25 Aug 2025 15:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ee442777f07c418f214f5a80b4a5a0915ea722d3/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54100c52d3188e7d11011132c879109f"
     },
     {
       "title": "The LA chefs and shops delivering food to immigrants scared to go out: ‘I know how to feed people’",
@@ -173,13 +173,13 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/250728-RESET-Media-Header-Footer-2496x380-1-1024x156.jpg"
     },
     {
-      "title": "FEMA now requires disaster victims to have an email address",
-      "description": "Workers at FEMA worry that demanding disaster survivors access services using email could shut out people without internet connectivity from receiving...",
-      "link": "https://grist.org/extreme-weather/fema-now-requires-disaster-victims-to-have-an-email-address/",
-      "pubDate": "Sun, 24 Aug 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
+      "title": "Climate change pushing winemakers to blend wines from different years",
+      "description": "Non-vintage still wine is now increasingly being made in response to more challenging weather....",
+      "link": "https://www.bbc.com/news/articles/czxp41y3n7lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 24 Aug 2025 23:38:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/05/fema-jacket.jpg?quality=75&#038;strip=all"
+      "image": "../images/header2.jpg"
     }
   ]
 }
