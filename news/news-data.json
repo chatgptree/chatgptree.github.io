@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-27T23:22:30.799Z",
+  "lastUpdated": "2025-08-28T01:58:47.637Z",
   "articles": [
+    {
+      "title": "Google Expands Data Center Investment in Virginia, Doesn’t Share Site Specifics",
+      "description": "CHESTER, Va.—And just like that, there’s another data center to be built in Virginia by one of the richest companies in the world, Google. Except, ins...",
+      "link": "https://insideclimatenews.org/news/27082025/google-virginia-data-center-investment/",
+      "pubDate": "Wed, 27 Aug 2025 23:45:21 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How Trump’s Anti-Environment Crusade Enriches Drug Traffickers",
       "description": "President Donald Trump vowed to combat drug trafficking organizations and the opioid crisis, but a new report details how his extensive cuts to staff ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/aadcf5bcdacebc904247fdcfa36a7aa7bd994b6c/500_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc9e70a2bbb98ebe8158cf6433953512"
-    },
-    {
-      "title": "Snow flurries forecast across four states as cold weather fronts push through Australia’s south-east",
-      "description": "&lt;p&gt;‘Burst of wet and windy weather’ on the way signals chilly start to spring for much of the country&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/aug/27/australia-weather-forecast-snow-cold-fronts-south-east",
-      "pubDate": "Wed, 27 Aug 2025 05:11:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/71e2682a31be3a780ea05f3d0a4e5bc4dda1a95d/0_0_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84d529fd2984e555b4a0c99bec89a751"
     }
   ]
 }
