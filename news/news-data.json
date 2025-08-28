@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-28T15:26:35.228Z",
+  "lastUpdated": "2025-08-28T16:31:50.683Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "What’s the evidence behind rat infestation warnings? And farewell to wet wipe island...",
+      "link": "https://www.bbc.co.uk/sounds/play/m002hky2?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 28 Aug 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Activists blend science and folklore as they try to revive Somerset’s eel population",
+      "description": "&lt;p&gt;Hugh Fearnley-Whittingstall and Feargal Sharkey back campaign to save the animal, which once inspired placenames, songs and stories&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/uk-news/2025/aug/28/activists-blend-science-and-folklore-as-they-try-to-revive-somersets-eel-population",
+      "pubDate": "Thu, 28 Aug 2025 15:32:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3134505d3167027c44015a69b6ab285b7708d356/98_0_464_371/master/464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=744762922b49296680784ccbedabbbbc"
+    },
     {
       "title": "Collapse of critical Atlantic current is no longer low likelihood, study finds",
       "description": "&lt;p&gt;Scientists say ‘shocking’ discovery shows rapid cuts in carbon emissions are needed to avoid catastrophic fallout&lt;/p&gt;&lt;p&gt;The colla...",
@@ -57,7 +75,7 @@
     },
     {
       "title": "Chicago Has a Huge Lead Pipe Problem—and We Mapped It",
-      "description": "This story is a partnership between Inside Climate News, Grist and WBEZ. CHICAGO—As Gina Ramirez buckled her 11-year-old son into her car last month f...",
+      "description": "This story is a partnership between&#160;Inside Climate News,&#160;Grist and&#160;WBEZ. CHICAGO—As Gina Ramirez buckled her 11-year-old son into her c...",
       "link": "https://insideclimatenews.org/news/28082025/chicago-lead-water-pipes-map/",
       "pubDate": "Thu, 28 Aug 2025 10:31:00 +0000",
       "sourceName": "insideclimatenews.org",
@@ -75,7 +93,7 @@
     },
     {
       "title": "How We Mapped Chicago’s Lead Pipe Problem and What We Learned",
-      "description": "This story is a partnership between Inside Climate News, Grist and WBEZ. Chicago has a lead pipe problem. The city estimates that about 412,000 out of...",
+      "description": "This story is a partnership between&#160;Inside Climate News,&#160;Grist and&#160;WBEZ. Chicago has a lead pipe problem. The city estimates that about...",
       "link": "https://insideclimatenews.org/news/28082025/how-we-mapped-chicago-lead-pipe-problem/",
       "pubDate": "Thu, 28 Aug 2025 10:30:00 +0000",
       "sourceName": "insideclimatenews.org",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0de0e8d5e5cf2e9325a78fa78e68fbf91a6910a3/438_0_4381_3505/master/4381.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3d89db3a3049bdcd1494b9b4f8ab2a5"
-    },
-    {
-      "title": "How a Koch-funded campaign is trying to reverse climate action in Vermont",
-      "description": "In one of the bluest U.S. states, Americans for Prosperity is making inroads against climate action....",
-      "link": "https://grist.org/politics/how-a-koch-funded-campaign-is-trying-to-reverse-climate-action-in-vermont/",
-      "pubDate": "Thu, 28 Aug 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/americans-prosperity-5-20250812.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "We now know just how much climate change supercharged Hurricane Katrina",
-      "description": "Two decades after the devastating storm, scientists can more easily determine how much global warming is intensifying tropical cyclones....",
-      "link": "https://grist.org/science/we-now-know-just-how-much-climate-change-supercharged-hurricane-katrina/",
-      "pubDate": "Thu, 28 Aug 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-2174918879r.jpg?quality=75&#038;strip=all"
     }
   ]
 }
