@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-28T12:53:20.925Z",
+  "lastUpdated": "2025-08-28T13:33:59.819Z",
   "articles": [
+    {
+      "title": "To Handle Data Centers, the Electricity System May Need New Rules. Here Is a Proposal",
+      "description": "There are not many desirable options for accommodating the electricity needs of data centers. And some of the possibilities are especially bad—bad for...",
+      "link": "https://insideclimatenews.org/news/28082025/inside-clean-energy-data-center-electricity-regulations/",
+      "pubDate": "Thu, 28 Aug 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Incinerator broke air pollution limits 916 times",
+      "description": "The Environment Agency are currently considering enforcement action against the operator, Viridor. ...",
+      "link": "https://www.bbc.com/news/articles/c627evk7yrzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 28 Aug 2025 12:48:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
       "description": "&lt;p&gt;Particles are small enough to burrow into lungs, says report, with health impacts ‘more substantial than we realize’&lt;/p&gt;&lt;p&gt;Every ...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Weatherwatch: does August rain bring honey and wine?",
-      "description": "&lt;p&gt;The old saying about late summer rain being good for vineyards and bees may be plausible&lt;/p&gt;&lt;p&gt;Each month has its weather folklor...",
-      "link": "https://www.theguardian.com/environment/2025/aug/28/weatherwatch-does-august-rain-bring-honey-and-wine",
-      "pubDate": "Thu, 28 Aug 2025 05:00:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/511645a254936cc2926f690c4f2c96972edbdb73/256_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55c17facc0d6cae93a5b69d64b531eb5"
-    },
-    {
-      "title": "Where have all the crabs gone? How development is squeezing out southern Malaysia’s sea people",
-      "description": "&lt;p&gt;In the waters of the Johor strait, Indigenous communities are struggling to survive as nearby cities expand and fishing stocks dwindle&lt;/p&...",
-      "link": "https://www.theguardian.com/environment/2025/aug/28/where-have-all-the-crabs-gone-how-development-is-squeezing-out-southern-malaysias-sea-people",
-      "pubDate": "Thu, 28 Aug 2025 04:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8b5e73b3f5b8dabf5b06dd26c58c34aa73158ed6/833_0_5067_4053/master/5067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad3417578ab0fbdd3d0c40bfc192f9a4"
     }
   ]
 }
