@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-29T21:22:02.127Z",
+  "lastUpdated": "2025-08-29T22:23:26.175Z",
   "articles": [
+    {
+      "title": "California Updates Pesticide Alert System",
+      "description": "Farmworkers and their families have long demanded the right to know when and where growers plan to spray dangerous pesticides in their communities. Th...",
+      "link": "https://insideclimatenews.org/news/29082025/california-pesticide-alert-system/",
+      "pubDate": "Fri, 29 Aug 2025 22:03:23 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Settlement Signed in Texas v. New Mexico Rio Grande Case",
       "description": "EL PASO—The Rio Grande flows over 1,800 miles from the mountains of southwestern Colorado to the Gulf of Mexico. A lawsuit filed in 2013 between Texas...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/56a5ba562711602294bbd692995ce1ec72a8cf68/455_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2c7f77d81552ff6b30e226fface77d8"
-    },
-    {
-      "title": "Chicago Has a Huge Lead Pipe Problem—and We Mapped It",
-      "description": "This story is a partnership between&#160;Inside Climate News,&#160;Grist and&#160;WBEZ. CHICAGO—As Gina Ramirez buckled her 11-year-old son into her c...",
-      "link": "https://insideclimatenews.org/news/28082025/chicago-lead-water-pipes-map/",
-      "pubDate": "Thu, 28 Aug 2025 10:31:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
