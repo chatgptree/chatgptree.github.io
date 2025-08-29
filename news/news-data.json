@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2025-08-29T15:23:32.302Z",
+  "lastUpdated": "2025-08-29T16:31:25.686Z",
   "articles": [
-    {
-      "title": "Murray Watt backs ‘no-go’ zones where development is banned – but not for Tasmania’s Robbins Island",
-      "description": "&lt;p&gt;Environment minister says scientific evidence did not convince government that remote island qualified&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/environment/2025/aug/30/murray-watt-backs-no-go-zones-where-development-is-banned-but-not-for-tasmanias-robbins-island",
-      "pubDate": "Fri, 29 Aug 2025 15:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9ec97ff21ca763ecc61a4db17a17d5805aabe92e/596_0_6043_4835/master/6043.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5023a8f2983d6559fb743077c02e8ea"
-    },
     {
       "title": "‘It’s like Sleeping Beauty; we have to wake them’: winemakers urged to help save earthworms",
       "description": "&lt;p&gt;Transforming bare and compacted soil in vineyards can boost numbers of important invertebrate, say advocates&lt;/p&gt;&lt;p&gt;Vineyards are ...",
@@ -20,15 +11,6 @@
       "image": "https://i.guim.co.uk/img/media/37c4cebed56384faa15716cc7f918be2437e12c5/800_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4573ec8a896275f160621c47910f2d07"
     },
     {
-      "title": "Newly elected Scottish Green leaders to campaign on universal income and free bus travel",
-      "description": "&lt;p&gt;Ross Greer and Gillian Mackay, elected after 12.7% turnout, also vow to campaign on higher taxation of rich&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
-      "link": "https://www.theguardian.com/politics/2025/aug/29/newly-elected-scottish-green-leaders-ross-greer-gillian-mackay-campaign-universal-income-free-bus-travel",
-      "pubDate": "Fri, 29 Aug 2025 11:55:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d15875e4968abefd788d2594854ad13947a6fef8/92_0_4738_3790/master/4738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f108513bd3c65ce6b5952e19ca7f3908"
-    },
-    {
       "title": "Weather tracker: Typhoon Kajiki lashes south-east Asia with fatalities in Vietnam",
       "description": "&lt;p&gt;Duration of torrential rains from Typhoon Kajiki lead to elevated landslide risk  across Laos and Thailand&lt;/p&gt;&lt;p&gt;&lt;a href=\"http...",
       "link": "https://www.theguardian.com/environment/2025/aug/29/weather-tracker-typhoon-kajiki-lashes-south-east-asia-with-fatalities-vietnam",
@@ -36,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f535a381dcda0599bfb6f88eb1da4cae6d742047/69_0_2893_2315/master/2893.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64b962547db4641278eb30734e5f91db"
+    },
+    {
+      "title": "Down and dirty: how regenerative farming is digging into microscopic soil life",
+      "description": "&lt;p&gt;Nurturing everything from bacteria and fungi to worms is seen as essential to helping minimise use of chemicals and machinery&lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/environment/2025/aug/29/down-and-dirty-how-regenerative-farming-is-digging-into-microscopic-soil-life",
+      "pubDate": "Fri, 29 Aug 2025 09:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b118848ae1d058f27bdb298f5b269140840162c6/380_0_6091_4873/master/6091.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e4415b24d91b80cbbc4f25e511d5618"
     },
     {
       "title": "Despite HUD Mandate Withdrawal, the Push for Clean Air Moves Forward in Chicago",
@@ -72,6 +63,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/08/IMG_4739.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Heatwaves, wildfires and the hot summers that could change how we holiday",
+      "description": "&lt;p&gt;With rising temperatures causing chaos worldwide, what does it mean to be a tourist in a world on fire?&lt;/p&gt;&lt;p&gt;• &lt;strong&gt;Don...",
+      "link": "https://www.theguardian.com/environment/2025/aug/28/down-to-earth-wildfires-holiday-tourism",
+      "pubDate": "Fri, 29 Aug 2025 06:00:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c5aed37152ef6cdffb674a89aedab60c59adc680/138_0_2008_1608/master/2008.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed47550de8677a25b7e20131cb1ee628"
     },
     {
       "title": "Week in wildlife: harvest mice, a basking hippo and a hungry egret",
@@ -128,6 +128,33 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Activists blend science and folklore as they try to revive Somerset’s eel population",
+      "description": "&lt;p&gt;Hugh Fearnley-Whittingstall and Feargal Sharkey back campaign to save the animal, which once inspired placenames, songs and stories&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/uk-news/2025/aug/28/activists-blend-science-and-folklore-as-they-try-to-revive-somersets-eel-population",
+      "pubDate": "Thu, 28 Aug 2025 15:32:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3134505d3167027c44015a69b6ab285b7708d356/98_0_464_371/master/464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=744762922b49296680784ccbedabbbbc"
+    },
+    {
+      "title": "Collapse of critical Atlantic current is no longer low-likelihood, study finds",
+      "description": "&lt;p&gt;Scientists say ‘shocking’ discovery shows rapid cuts in carbon emissions are needed to avoid catastrophic fallout&lt;/p&gt;&lt;p&gt;The colla...",
+      "link": "https://www.theguardian.com/environment/2025/aug/28/collapse-critical-atlantic-current-amoc-no-longer-low-likelihood-study",
+      "pubDate": "Thu, 28 Aug 2025 15:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2a4cd2e5bcd905b1a3342e8494baba283482994e/418_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e323e54baab73e65c7b6e619b8a26321"
+    },
+    {
+      "title": "Over 11 gruesome kilometres, teams fill bag after bag of marine life killed by SA’s stubborn algal bloom",
+      "description": "&lt;p&gt;As council workers collect up to 200kg of dead marine life a day, experts warn the disaster could take a mental toll on the community&lt;/p&g...",
+      "link": "https://www.theguardian.com/environment/2025/aug/28/over-11-gruesome-kilometres-teams-fill-bag-after-bag-of-marine-life-killed-by-sas-stubborn-algal-bloom",
+      "pubDate": "Thu, 28 Aug 2025 15:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/379f6e3bc3e8f9352feb696bbb56ffc05f6554b1/1210_0_6665_5332/master/6665.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d00e02ede997b6a8708f0c61fc3f8676"
+    },
+    {
       "title": "‘The tree is trying its best’: why New Yorkers are counting – and rating – every park tree",
       "description": "&lt;p&gt;Volunteers are tasked with logging about 150,000 park trees by hand – and for some, it’s become a strange obsession&lt;/p&gt;&lt;p&gt;On a re...",
       "link": "https://www.theguardian.com/us-news/2025/aug/28/new-york-tree-count",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c627evk7yrzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 28 Aug 2025 12:48:19 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
-      "description": "&lt;p&gt;Particles are small enough to burrow into lungs, says report, with health impacts ‘more substantial than we realize’&lt;/p&gt;&lt;p&gt;Every ...",
-      "link": "https://www.theguardian.com/environment/2025/aug/28/microplastics-in-hair-study",
-      "pubDate": "Thu, 28 Aug 2025 12:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/56a5ba562711602294bbd692995ce1ec72a8cf68/455_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2c7f77d81552ff6b30e226fface77d8"
-    },
-    {
-      "title": "Chicago Has a Huge Lead Pipe Problem—and We Mapped It",
-      "description": "This story is a partnership between&#160;Inside Climate News,&#160;Grist and&#160;WBEZ. CHICAGO—As Gina Ramirez buckled her 11-year-old son into her c...",
-      "link": "https://insideclimatenews.org/news/28082025/chicago-lead-water-pipes-map/",
-      "pubDate": "Thu, 28 Aug 2025 10:31:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Lead Pipes Are Everywhere in Chicago. Here’s How to Protect Yourself",
-      "description": "This story is a partnership between&#160;Inside Climate News,&#160;Grist,&#160;WBEZ&#160;and&#160;City Bureau. Chicago residents risk daily lead expos...",
-      "link": "https://insideclimatenews.org/news/28082025/how-to-protect-yourself-from-lead-water/",
-      "pubDate": "Thu, 28 Aug 2025 10:30:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
