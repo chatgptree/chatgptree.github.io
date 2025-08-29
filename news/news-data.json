@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-08-29T08:33:12.914Z",
+  "lastUpdated": "2025-08-29T09:27:08.258Z",
   "articles": [
+    {
+      "title": "Despite HUD Mandate Withdrawal, the Push for Clean Air Moves Forward in Chicago",
+      "description": "CHICAGO—Samuel Corona’s environmental organizing career started over coffee. He was only supposed to talk with Peggy Salazar, then executive director ...",
+      "link": "https://insideclimatenews.org/news/29082025/chicago-clean-air-action/",
+      "pubDate": "Fri, 29 Aug 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Texas Suit Alleging Anti-Coal ‘Cartel’ of Top Wall Street Firms Could Reshape ESG—and Wall Street Itself",
+      "description": "Since 2022, Republican lawmakers in Congress and state attorneys general have sent letters to major banks, pension funds, asset managers, accounting f...",
+      "link": "https://insideclimatenews.org/news/29082025/texas-coal-antitrust-lawsuit-against-asset-managers/",
+      "pubDate": "Fri, 29 Aug 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Disasters destroyed their homes. Then the real estate ‘vultures’ swooped in.",
+      "description": "“We buy homes” companies are procuring disaster-damaged properties for cheap. Survivors say they're taking advantage of tragedy....",
+      "link": "https://grist.org/housing/disasters-destroyed-their-homes-then-the-real-estate-vultures-swooped-in/",
+      "pubDate": "Fri, 29 Aug 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/AP25136829048175_st-louis-tornado-may-16-2025.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Workers are facing dangerous heat — even inside fast-food restaurants",
       "description": "Rising temperatures and chronically broken cooling systems are turning the lunch rush into a deadly risk for some workers....",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How We Mapped Chicago’s Lead Pipe Problem and What We Learned",
-      "description": "This story is a partnership between&#160;Inside Climate News,&#160;Grist and&#160;WBEZ. Chicago has a lead pipe problem. The city estimates that about...",
-      "link": "https://insideclimatenews.org/news/28082025/how-we-mapped-chicago-lead-pipe-problem/",
-      "pubDate": "Thu, 28 Aug 2025 10:30:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How we mapped Chicago’s lead pipe problem and what we learned",
-      "description": "Here’s what we found, how to know if you’re at risk, and how to replicate our work....",
-      "link": "https://grist.org/accountability/how-we-mapped-chicago-lead-pipe-crisis-methods-data/",
-      "pubDate": "Thu, 28 Aug 2025 10:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/chi-pb-material-graphic.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Chicago has the most lead pipes in the nation. We mapped them all.",
-      "description": "Here's what the data reveals about who's most at risk....",
-      "link": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/",
-      "pubDate": "Thu, 28 Aug 2025 10:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/Gina-7561.jpg?quality=75&amp;strip=all"
     }
   ]
 }
