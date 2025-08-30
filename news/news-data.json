@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-30T09:22:51.337Z",
+  "lastUpdated": "2025-08-30T10:24:03.644Z",
   "articles": [
+    {
+      "title": "Scientists breathe new life into climate website after shutdown under Trump",
+      "description": "&lt;p&gt;Climate.gov, which went dark this summer, set to be revived by volunteers as climate.us with expanded mission&lt;/p&gt;&lt;p&gt;Earlier this ...",
+      "link": "https://www.theguardian.com/environment/2025/aug/30/climate-gov-website-trump",
+      "pubDate": "Sat, 30 Aug 2025 10:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f255e59b1df9494d2bf782873fac2de0e22a1656/443_0_4465_3572/master/4465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56d27de13e54096e2d4cf44d98514d4d"
+    },
     {
       "title": "In Far Northeastern Maine, a Native Community Fights to Adapt to Climate Change",
       "description": "First of two articles about the Passamaquoddy Tribe’s struggles with sea level rise, water quality and habitat resilience on the coast of Maine. &#160...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Make Drax wait for its next subsidy deal. An FCA investigation is serious | Nils Pratley",
-      "description": "&lt;p&gt;Ministers should find out what the regulator says before signing away a further £1.8bn of public money&lt;/p&gt;&lt;p&gt;There is already a s...",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/aug/28/make-drax-wait-subsidy-deal-fca-investigation-serious",
-      "pubDate": "Thu, 28 Aug 2025 16:35:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/66699bbfa5212f417905addaf7465c9a1ce4a58b/193_278_1977_1581/master/1977.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90ccb20a3bb780dba1fbfa251c4d04d7"
     }
   ]
 }
