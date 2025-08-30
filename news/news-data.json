@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-29T23:22:33.318Z",
+  "lastUpdated": "2025-08-30T01:53:15.836Z",
   "articles": [
+    {
+      "title": "Military drills spark hundreds of wildfires in UK",
+      "description": "Live explosives on army training sites in the UK countryside mean many wildfires cannot be tackled....",
+      "link": "https://www.bbc.com/news/articles/cy08j04je2jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 30 Aug 2025 00:55:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "California Updates Pesticide Alert System",
       "description": "Farmworkers and their families have long demanded the right to know when and where growers plan to spray dangerous pesticides in their communities. Th...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
-      "description": "&lt;p&gt;Particles are small enough to burrow into lungs, says report, with health impacts ‘more substantial than we realize’&lt;/p&gt;&lt;p&gt;Every ...",
-      "link": "https://www.theguardian.com/environment/2025/aug/28/microplastics-in-hair-study",
-      "pubDate": "Thu, 28 Aug 2025 12:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/56a5ba562711602294bbd692995ce1ec72a8cf68/455_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2c7f77d81552ff6b30e226fface77d8"
     }
   ]
 }
