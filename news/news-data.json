@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-30T12:47:17.346Z",
+  "lastUpdated": "2025-08-30T13:27:01.048Z",
   "articles": [
+    {
+      "title": "US EV sales are booming — for now",
+      "description": "Changes in U.S. government support for electric vehicles have led to a buying bonanza — and a darker long-term future for the auto industry....",
+      "link": "https://grist.org/transportation/us-ev-sales-are-booming-for-now/",
+      "pubDate": "Sat, 30 Aug 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/solar-panel-home-tax-credit.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Scientists breathe new life into climate website after shutdown under Trump",
       "description": "&lt;p&gt;Climate.gov, which went dark this summer, set to be revived by volunteers as climate.us with expanded mission&lt;/p&gt;&lt;p&gt;Earlier this ...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/CYRION-Technologies-1-logo.jpg"
-    },
-    {
-      "title": "Children of the Storm",
-      "description": "BAYOU LA BATRE, Ala.—It was already too late.&#160; As Hurricane Katrina blew ashore along the Gulf Coast with winds over 125 miles an hour, Truong Va...",
-      "link": "https://insideclimatenews.org/news/28082025/hurricane-katrina-twenty-years-alabama-gulf-coast/",
-      "pubDate": "Thu, 28 Aug 2025 21:49:27 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
