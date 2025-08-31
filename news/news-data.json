@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2025-08-31T15:23:10.073Z",
+  "lastUpdated": "2025-08-31T16:28:30.532Z",
   "articles": [
+    {
+      "title": "‘The forgotten forest’: how smashing 5.6m urchins saved a California kelp paradise",
+      "description": "&lt;p&gt;Pollution, warm oceans and hungry urchins devastated Pacific kelp. Now, thanks to divers with hammers, one of the world’s most successful reh...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/31/california-pacific-kelp-forest",
+      "pubDate": "Sun, 31 Aug 2025 16:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/028e4b43f6e3ddc35e2f07122b681069066423cf/125_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bfd149dc15a51bb71a2ad099637e4eec"
+    },
     {
       "title": "Tories pledge to get all oil and gas out of North Sea",
       "description": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\"....",
       "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 31 Aug 2025 14:54:05 GMT",
+      "pubDate": "Sun, 31 Aug 2025 15:26:44 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,7 +23,7 @@
       "title": "Tories pledge to get all oil and gas out of North Sea",
       "description": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\"....",
       "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 31 Aug 2025 14:54:05 GMT",
+      "pubDate": "Sun, 31 Aug 2025 15:26:44 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -168,15 +177,6 @@
       "description": "First of two articles about the Passamaquoddy Tribe’s struggles with sea level rise, water quality and habitat resilience on the coast of Maine. &#160...",
       "link": "https://insideclimatenews.org/news/30082025/passamaquoddy-tribe-coastal-resiliency-maine/",
       "pubDate": "Sat, 30 Aug 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Can Clams Make a Comeback on a Tribal Reservation in Maine?",
-      "description": "SIPAYIK, Maine—Clams have been entwined with the story of the Passamaquoddy tribe for 13,000 years. Archaeological digs at ancient tribal sites have u...",
-      "link": "https://insideclimatenews.org/news/30082025/passamaquoddy-tribe-clam-garden-maine/",
-      "pubDate": "Sat, 30 Aug 2025 09:04:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
