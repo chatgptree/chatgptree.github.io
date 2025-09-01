@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-01T14:24:55.133Z",
+  "lastUpdated": "2025-09-01T15:25:41.377Z",
   "articles": [
+    {
+      "title": "Summer 2025 confirmed as UK's hottest on record",
+      "description": "Provisional Met Office figures show that it has been the warmest summer on record - meaning the UK's five hottest summers have all occurred since 2000...",
+      "link": "https://www.bbc.com/weather/articles/c1kz18d3wjro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 01 Sep 2025 15:22:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘A common enemy beyond ideologies’: Spain’s PM announces plan to tackle climate crisis",
+      "description": "&lt;p&gt;Pedro Sánchez says country’s deadly August wildfires show society needs to mobilise and take immediate action&lt;/p&gt;&lt;p&gt;Spain’s prime...",
+      "link": "https://www.theguardian.com/world/2025/sep/01/spain-pm-pedro-sanchez-plan-tackle-climate-crisis",
+      "pubDate": "Mon, 01 Sep 2025 15:07:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a24beb22291bc8d9f77977b888e4c4e3bb7cc564/853_0_4299_3440/master/4299.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abd1fabfad181f44abbc0b8d0002aebc"
+    },
+    {
+      "title": "UK experienced its hottest summer on record in 2025, Met Office says",
+      "description": "&lt;p&gt;Mean temperature over June, July and August was 16.1C as country endured four heatwaves&lt;/p&gt;&lt;p&gt;The UK has seen its hottest summer ...",
+      "link": "https://www.theguardian.com/uk-news/2025/sep/01/uk-experienced-its-hottest-summer-on-record-in-2025-met-office-says",
+      "pubDate": "Mon, 01 Sep 2025 15:05:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/12c233cf1c33aab826c9fbb25b8da8e960bb5c26/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c56cb09015babff46bddfe6f85eb675"
+    },
     {
       "title": "‘We’re winning a battle’: Mexico’s jaguar numbers up 30% in conservation drive",
       "description": "&lt;p&gt;Conservationists hope that in 15 years species will no longer be at risk of extinction in Mexico – but challenges remain&lt;/p&gt;&lt;p&gt;In...",
@@ -110,15 +137,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Rock-Wallaby-2-766x1024.png"
     },
     {
-      "title": "Amy, Bram and Chandra: north Atlantic winter storm names announced",
-      "description": "&lt;p&gt;Weather services of UK, Ireland and Netherlands chose list of 21 names from 50,000 suggestions by the public&lt;/p&gt;&lt;p&gt;Meteorologists...",
-      "link": "https://www.theguardian.com/uk-news/2025/sep/01/amy-bram-and-chandra-north-atlantic-winter-storm-names-announced",
-      "pubDate": "Mon, 01 Sep 2025 06:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2d770a4798676e11af9a4eca2250a96d5944e4e7/712_123_3046_2437/master/3046.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4038e70b4be871be64c36396fd9d2960"
-    },
-    {
       "title": "Canada's first lunar rover looks to future space exploration",
       "description": "The mission's goal is to find water on the Moon, which could open the door for a sustained human presence there. ...",
       "link": "https://www.bbc.com/news/articles/c1jn4ryxdp3o?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0d3fb71912e8d15b8d43eb8c80d96eef3605fe95/0_0_2400_1920/master/2400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c798b6ae8b0c6586c4cde811db42499e"
-    },
-    {
-      "title": "Trump administration gives coal plants and chemical facilities a pass",
-      "description": "In Texas and across the nation, scores of coal-fired plants and petrochemical facilities are allowed to bypass toxic emissions rules....",
-      "link": "https://grist.org/accountability/trump-administration-gives-coal-plants-and-chemical-facilities-a-pass/",
-      "pubDate": "Sun, 31 Aug 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/Trump-energy-emergency-dominance-coal-Tennessee-mine.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Pakistan’s Punjab province hit by 'biggest flood in its history' – video",
-      "description": "&lt;p&gt;Pakistan’s eastern Punjab province was dealing with the biggest flood in its history, a senior official said on Sunday, as river water levels...",
-      "link": "https://www.theguardian.com/world/video/2025/aug/31/pakistan-punjab-province-biggest-flood-in-its-history-video",
-      "pubDate": "Sun, 31 Aug 2025 12:33:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5aad94137e3439bfce49094978dace33d7381679/506_0_3673_2939/master/3673.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b316e2647445c0ad912cd92a74736d20"
     }
   ]
 }
