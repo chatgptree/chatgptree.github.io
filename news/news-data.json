@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-01T09:30:18.278Z",
+  "lastUpdated": "2025-09-01T10:28:47.012Z",
   "articles": [
     {
       "title": "I’m obsessed with deep sea sharks: their bioluminescent spots are just visible in the pitch black environment they live in",
@@ -9,6 +9,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/08683d0cc476df7edcd20279c5a132aeaf82888b/202_0_3632_2908/master/3632.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=097dace3bf94a5ee4a6f95fbd398ede5"
+    },
+    {
+      "title": "How a Rock Band Bassist Is Remixing Climate Activism",
+      "description": "Imagine if every climate policy rollback was met with the same unshakable loyalty Swifties show when Taylor drops a breakup song. What if climate acti...",
+      "link": "https://insideclimatenews.org/news/01092025/adam-met-ajr-climate-activism/",
+      "pubDate": "Mon, 01 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "In the Once Heavily Polluted Chicago River, More Fish, a Giant Snapping Turtle and an Upcoming Swim",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a5ce324267f724364af0e2770adc741a63d29191/602_87_3257_2606/master/3257.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48ae826aa3ce54636d9cf573043b6e5d"
-    },
-    {
-      "title": "Climate Change Worsens Half-Century of Drinking Water Problems for Maine Native Reservation",
-      "description": "Second of two articles about the Passamaquoddy Tribe’s struggles with sea level rise, water quality and habitat resilience on the coast of Maine. SIPA...",
-      "link": "https://insideclimatenews.org/news/31082025/passamaquoddy-tribe-drinking-water-problems-maine/",
-      "pubDate": "Sun, 31 Aug 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
