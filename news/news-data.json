@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-31T23:22:28.589Z",
+  "lastUpdated": "2025-09-01T02:21:28.478Z",
   "articles": [
+    {
+      "title": "Canada's first lunar rover looks to future space exploration",
+      "description": "The mission's goal is to find water on the Moon, which could open the door for a sustained human presence there. ...",
+      "link": "https://www.bbc.com/news/articles/c1jn4ryxdp3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 31 Aug 2025 23:35:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘The forgotten forest’: how smashing 5.6m urchins saved a California kelp paradise",
       "description": "&lt;p&gt;Pollution, warm oceans and hungry urchins devastated Pacific kelp. Now, thanks to divers with hammers, one of the world’s most successful reh...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f255e59b1df9494d2bf782873fac2de0e22a1656/443_0_4465_3572/master/4465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56d27de13e54096e2d4cf44d98514d4d"
-    },
-    {
-      "title": "In Far Northeastern Maine, a Native Community Fights to Adapt to Climate Change",
-      "description": "First of two articles about the Passamaquoddy Tribe’s struggles with sea level rise, water quality and habitat resilience on the coast of Maine.   SIP...",
-      "link": "https://insideclimatenews.org/news/30082025/passamaquoddy-tribe-coastal-resiliency-maine/",
-      "pubDate": "Sat, 30 Aug 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
