@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2025-09-02T07:25:13.057Z",
+  "lastUpdated": "2025-09-02T08:34:10.004Z",
   "articles": [
+    {
+      "title": "Josh Hawley&#8217;s &#8216;huge win&#8217; will be a big loss for clean energy — and ratepayers",
+      "description": "It's only been a few weeks since the Trump administration and Missouri Republicans killed the Grain Belt Express transmission line, but it's already c...",
+      "link": "https://grist.org/energy/josh-hawleys-huge-win-will-be-a-big-loss-for-clean-energy-and-ratepayers/",
+      "pubDate": "Tue, 02 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "EDF extends lifespan of two UK nuclear plants, securing 1,000 jobs for longer",
+      "description": "&lt;p&gt;Heysham 1 in Lancashire and Hartlepool in Teesside to continue operating until March 2028&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"h...",
+      "link": "https://www.theguardian.com/business/2025/sep/02/uk-nuclear-plants-edf-centrica-heysham-1-teesside",
+      "pubDate": "Tue, 02 Sep 2025 08:09:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/806367efa45f5ff075200233ecf586d842c90d65/8_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c0775e3fc0ab044526d69a0ac5b5ace"
+    },
+    {
+      "title": "Global temperatures to remain above average despite return of La Niña, says UN",
+      "description": "&lt;p&gt;Climate phenomenon cools surface of Pacific but won’t stop human-induced climate change increasing temperatures and exacerbating extreme weat...",
+      "link": "https://www.theguardian.com/environment/2025/sep/02/global-temperatures-to-remain-above-average-despite-return-of-la-nina-says-un",
+      "pubDate": "Tue, 02 Sep 2025 08:08:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/315146e03d5563479da4ee40ccb90d53f57ec75c/220_0_4700_3760/master/4700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a2e2ff236270e33a0e02c1e386795de"
+    },
+    {
+      "title": "Listen to farmers, not Facebook comments – Australian Agricultural Insights study released TODAY at sold-out Farming Forever National Summit",
+      "description": "Farmers for Climate Action will release its Australian Agricultural Insights study at its sold-out Farming Forever National Summit TODAY.  Results sho...",
+      "link": "https://econews.com.au/67699/listen-to-farmers-not-facebook-comments-australian-agricultural-insights-study-released-today-at-sold-out-farming-forever-national-summit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=listen-to-farmers-not-facebook-comments-australian-agricultural-insights-study-released-today-at-sold-out-farming-forever-national-summit",
+      "pubDate": "Tue, 02 Sep 2025 08:02:51 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Boring project gives critters a hole lot of spring living options",
+      "description": "An innovative environmental initiative is providing crucial nesting sites and shelter for native fauna in Lake Macquarie. The Hollow Augmentation Prog...",
+      "link": "https://econews.com.au/67697/boring-project-gives-critters-a-hole-lot-of-spring-living-options/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=boring-project-gives-critters-a-hole-lot-of-spring-living-options",
+      "pubDate": "Tue, 02 Sep 2025 08:02:50 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
+    },
+    {
+      "title": "AUTOMIC ACHIEVES CLIMATE ACTIVE CERTIFICATION TO SUPPORT ITS CLIENTS",
+      "description": "Automic Group, Australia’s market leader in technology-driven investor administration and services, has been certified as a carbon neutral organisatio...",
+      "link": "https://econews.com.au/67695/automic-achieves-climate-active-certification-to-support-its-clients/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=automic-achieves-climate-active-certification-to-support-its-clients",
+      "pubDate": "Tue, 02 Sep 2025 08:02:49 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "How fuel tankers could be key to Australia’s hydrogen export future",
+      "description": "The pilot hydrogen release system will be tested at Monash University and CSIRO’s new Membrane Pilot Facility. Monash University Monash researchers ha...",
+      "link": "https://econews.com.au/67693/how-fuel-tankers-could-be-key-to-australias-hydrogen-export-future/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-fuel-tankers-could-be-key-to-australias-hydrogen-export-future",
+      "pubDate": "Tue, 02 Sep 2025 08:02:47 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
     {
       "title": "‘Cosmic’ bioluminescent algae lights up Melbourne’s St Kilda beach",
       "description": "&lt;p&gt;First observed in Sydney in 1860, the ‘magical’ phenomenon has become more common in Australia’s warming waters since the 1990s&lt;/p&gt;&lt;...",
@@ -36,24 +99,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate change kills, Spanish PM tells deniers at launch of plan to tackle crisis",
-      "description": "&lt;p&gt;Pedro Sánchez says country’s deadly August wildfires show society needs to mobilise and take immediate action&lt;/p&gt;&lt;p&gt;Spain’s prime...",
-      "link": "https://www.theguardian.com/world/2025/sep/01/spain-pm-pedro-sanchez-plan-tackle-climate-crisis",
-      "pubDate": "Mon, 01 Sep 2025 15:07:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a24beb22291bc8d9f77977b888e4c4e3bb7cc564/853_0_4299_3440/master/4299.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abd1fabfad181f44abbc0b8d0002aebc"
-    },
-    {
-      "title": "‘We’re winning a battle’: Mexico’s jaguar numbers up 30% in conservation drive",
-      "description": "&lt;p&gt;Conservationists hope that in 15 years species will no longer be at risk of extinction in Mexico – but challenges remain&lt;/p&gt;&lt;p&gt;In...",
-      "link": "https://www.theguardian.com/world/2025/sep/01/mexico-jaguar-numbers-rise-conservation-drive",
-      "pubDate": "Mon, 01 Sep 2025 11:49:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/77ec8bee0406b44f5b72c6e52e7b0597dae309bf/1120_531_3286_2628/master/3286.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=270536153b784aef7f4924bbbacc830d"
     },
     {
       "title": "Tories pledge to get all oil and gas out of North Sea",
@@ -135,51 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "Precious cargo – cliff dwelling wallabies carried to their new vertical home",
-      "description": "Magic moment: Parks Victoria ranger Ella Carr releases one of five Mount Rothwell sanctuary bred Brush-tailed Rock-wallabies in the Snowy River Nation...",
-      "link": "https://econews.com.au/67683/precious-cargo-cliff-dwelling-wallabies-carried-to-their-new-vertical-home/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=precious-cargo-cliff-dwelling-wallabies-carried-to-their-new-vertical-home",
-      "pubDate": "Mon, 01 Sep 2025 06:02:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Rock-Wallaby-2-766x1024.png"
-    },
-    {
-      "title": "Canada's first lunar rover looks to future space exploration",
-      "description": "The mission's goal is to find water on the Moon, which could open the door for a sustained human presence there. ...",
-      "link": "https://www.bbc.com/news/articles/c1jn4ryxdp3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 31 Aug 2025 23:35:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘The forgotten forest’: how smashing 5.6m urchins saved a California kelp paradise",
-      "description": "&lt;p&gt;Pollution, warm oceans and hungry urchins devastated Pacific kelp. Now, thanks to divers with hammers, one of the world’s most successful reh...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/31/california-pacific-kelp-forest",
-      "pubDate": "Sun, 31 Aug 2025 16:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/028e4b43f6e3ddc35e2f07122b681069066423cf/125_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bfd149dc15a51bb71a2ad099637e4eec"
-    },
-    {
-      "title": "US beaches hit with fecal contamination warnings ahead of Labor Day weekend",
-      "description": "&lt;p&gt;Beaches from Florida to Maine under advisories, leading to closures at some of the most popular beach destinations&lt;/p&gt;&lt;p&gt;Beaches ...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/31/us-beaches-fecal-contamination-warnings-labor-day-weekend",
-      "pubDate": "Sun, 31 Aug 2025 14:50:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/360cedeeea7c446bd9d4b50f26e85a9405742250/586_0_4012_3209/master/4012.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e102b09f374a633e8375dc7aa85739a1"
-    },
-    {
-      "title": "‘It happened so fast’: the shocking reality of indoor heat deaths in Arizona",
-      "description": "&lt;p&gt;Heat deaths could surge in the state as energy poverty linked to Trump’s energy and trade policies burns&lt;/p&gt;&lt;p&gt;It was the hottest...",
-      "link": "https://www.theguardian.com/us-news/2025/aug/31/phoenix-heat-deaths",
-      "pubDate": "Sun, 31 Aug 2025 13:29:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a79f805cbe9a4467408b5c5e05446eff08008c6e/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b40976830fc516b417aedf169ad742fe"
     }
   ]
 }
