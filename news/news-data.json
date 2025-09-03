@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-09-03T08:32:27.232Z",
+  "lastUpdated": "2025-09-03T09:26:31.030Z",
   "articles": [
+    {
+      "title": "Trump Says America’s Oil Industry Is Cleaner Than Other Countries’. New Data Shows Massive Emissions From Texas Wells.",
+      "description": "This story is a collaboration between Inside Climate News and ProPublica. Hakim Dermish moved to the small South Texas town of Catarina in 2002 in sea...",
+      "link": "https://insideclimatenews.org/news/03092025/texas-oil-wells-methane-emissions/",
+      "pubDate": "Wed, 03 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Peru to Consider New Reserve for Uncontacted Indigenous People",
+      "description": "This week, Peruvian officials are set to consider the creation of a sprawling reserve in the country’s Amazon basin to protect groups of Indigenous pe...",
+      "link": "https://insideclimatenews.org/news/03092025/peru-uncontacted-indigenous-people-reserve-amazon/",
+      "pubDate": "Wed, 03 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Activists Decry New Border Wall’s Impact on Wildlife",
+      "description": "This story was originally published by&#160;National Catholic Reporter. TUCSON, Ariz.—The Trump administration is muscling forward with plans to wall ...",
+      "link": "https://insideclimatenews.org/news/03092025/arizona-border-wall-expansion-will-impact-wildlife/",
+      "pubDate": "Wed, 03 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Puerto Ricans are devising the food system of tomorrow",
+      "description": "Following a history of disinvestment and destructive climate disasters, communities across the archipelago are developing living blueprints of food so...",
+      "link": "https://grist.org/food-and-agriculture/puerto-ricans-are-devising-the-food-system-of-tomorrow/",
+      "pubDate": "Wed, 03 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/Puerto-Rico-Hurricane-Maria-Destruction-2.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "American Samoa says no to deep-sea mining. The Trump administration might do it anyway.",
       "description": "The CEO of a seabed mining startup says the decision about mining leases will be made in Washington, D.C....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1d00bf09c5c5d36fcf6b427c38563056ecf49b90/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=337589cf0927ecabe4f72ff0ba7f7088"
-    },
-    {
-      "title": "International partnership to drive net zero innovation",
-      "description": "Teesside University’s Net Zero Industry Innovation Centre Seated (L-R): Professor Stephen Cummings, Pro Vice-Chancellor (Enterprise and Knowledge Exch...",
-      "link": "https://econews.com.au/67701/international-partnership-to-drive-net-zero-innovation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=international-partnership-to-drive-net-zero-innovation",
-      "pubDate": "Tue, 02 Sep 2025 09:02:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Teessside-Uni-logo.jpg"
-    },
-    {
-      "title": "Leaving EPA Behind, Environmental Justice Pioneer Preaches Hope Amid Trump Cutbacks",
-      "description": "One year ago, Charles Lee could look across the federal government and see his life’s work in action on multiple fronts—new grants awarded to minority...",
-      "link": "https://insideclimatenews.org/news/02092025/charles-lee-environmental-justice-epa/",
-      "pubDate": "Tue, 02 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How drones and AI are changing the way we fight wildfires",
-      "description": "As the threat of wildfires intensifies, modern technology is playing an increasingly large role in both research and management. But not all communiti...",
-      "link": "https://grist.org/wildfires/how-drones-and-ai-are-changing-the-way-we-fight-wildfires/",
-      "pubDate": "Tue, 02 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/Drone-control-system.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Josh Hawley&#8217;s &#8216;huge win&#8217; will be a big loss for clean energy — and ratepayers",
-      "description": "It's only been a few weeks since the Trump administration and Missouri Republicans killed the Grain Belt Express transmission line, but it's already c...",
-      "link": "https://grist.org/energy/josh-hawleys-huge-win-will-be-a-big-loss-for-clean-energy-and-ratepayers/",
-      "pubDate": "Tue, 02 Sep 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
