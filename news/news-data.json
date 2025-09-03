@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-02T23:20:57.498Z",
+  "lastUpdated": "2025-09-03T01:53:04.309Z",
   "articles": [
+    {
+      "title": "Watch: Captain Scott’s famous polar shipwreck as never seen before",
+      "description": "The Terra Nova carried Captain Scott and his men on their doomed expedition to the South Pole....",
+      "link": "https://www.bbc.com/news/articles/cpwyvyqkx9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 02 Sep 2025 23:21:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Dozens of Scientists Call DOE Climate Report ‘Fundamentally Incorrect’",
       "description": "More than 85 climate scientists declared the Department of Energy’s new climate report unfit for policymaking in a comprehensive review released Tuesd...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9d9387c2bad17cf0a00e7e798aa3e540f0beeb81/250_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b35408a81f4c54cb7318406d385137e6"
-    },
-    {
-      "title": "Summer 2025 confirmed as UK's hottest on record",
-      "description": "Provisional Met Office figures show that it has been the warmest summer on record - meaning the UK's five hottest summers have all occurred since 2000...",
-      "link": "https://www.bbc.com/weather/articles/c1kz18d3wjro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 01 Sep 2025 15:22:19 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
