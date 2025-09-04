@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-04T15:26:03.777Z",
+  "lastUpdated": "2025-09-04T16:31:25.945Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The evidence on whether high caffeine energy drinks affect our health....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002ht2f?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Sep 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Environment watchdog buried report on lead in children’s blood to placate mining companies, emails show",
       "description": "&lt;p&gt;Documents tabled in parliament show NSW agency took four years to publish report and told miners it would be put online ‘quietly’ but EPA say...",
@@ -168,15 +177,6 @@
       "description": "PHILADELPHIA—Three days a week, Daniel Blazek takes the train from his Center City neighborhood to his job in supply chain management in Malvern, Penn...",
       "link": "https://insideclimatenews.org/news/03092025/philadelphia-climate-future-public-transit-cuts/",
       "pubDate": "Wed, 03 Sep 2025 19:33:49 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Corpus Christi Folds on Its Desalination Gamble",
-      "description": "After a decade of efforts and tens of millions of dollars invested, the Corpus Christi City Council moved to cancel a contract for a seawater desalina...",
-      "link": "https://insideclimatenews.org/news/03092025/corpus-christi-folds-on-its-desalination-gamble/",
-      "pubDate": "Wed, 03 Sep 2025 15:11:17 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
