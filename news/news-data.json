@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-04T12:50:11.634Z",
+  "lastUpdated": "2025-09-04T13:32:09.561Z",
   "articles": [
+    {
+      "title": "Coal Is Rising Along with Solar in the U.S. Power System, While Gas Loses a Step",
+      "description": "Coal and utility-scale solar power each gained market share in the first half of this year, newly released data on U.S. electricity generation show. N...",
+      "link": "https://insideclimatenews.org/news/04092025/inside-clean-energy-coal-solar-power-growth/",
+      "pubDate": "Thu, 04 Sep 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Australia needs $530bn capital to meet 70% climate goal, Business Council claims ahead of new 2035 target",
       "description": "&lt;p&gt;Modelling commissioned by lobby group comes as Climate Change Authority due to advise on new target – but does not factor in cost of inaction...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How much carbon can we safely store underground? Much less than previously thought.",
-      "description": "Carbon storage “can no longer be considered an unlimited solution to bring our climate back to a safe level.”...",
-      "link": "https://grist.org/science/carbon-storage-limits-nature-climate-change/",
-      "pubDate": "Wed, 03 Sep 2025 15:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/11/1125_Overshoot_9b1ea2.jpg?quality=75&#038;strip=all"
     }
   ]
 }
