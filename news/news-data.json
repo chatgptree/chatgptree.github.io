@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-04T03:35:28.868Z",
+  "lastUpdated": "2025-09-04T04:28:28.739Z",
   "articles": [
+    {
+      "title": "Fossil-Fueled Climate Heating Set the Stage for Devastating Fires in Spain and Portugal This Summer",
+      "description": "A new attribution report published Thursday shows that global warming made the extreme hot and dry conditions preceding this summer’s wildfires in Por...",
+      "link": "https://insideclimatenews.org/news/04092025/spain-portugal-wildfires-linked-to-global-warming/",
+      "pubDate": "Thu, 04 Sep 2025 04:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Spain and Portugal wildfire weather made 40 times more likely by climate crisis, study finds",
+      "description": "&lt;p&gt;Wildfires were 30% more intense than would have been expected without global heating, scientists say&lt;/p&gt;&lt;p&gt;The extreme weather th...",
+      "link": "https://www.theguardian.com/environment/2025/sep/04/spain-portugal-wildfire-weather-climate-crisis-study",
+      "pubDate": "Thu, 04 Sep 2025 04:00:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5e4e3e9b53e2aca752c6256d9cb1ba49864a1449/300_0_3854_3084/master/3854.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e5d6f2a3f4cc4b082217145f5696a47"
+    },
+    {
+      "title": "Labour could end badger cull but only with Covid-style testing and vaccines – report",
+      "description": "&lt;p&gt;Review says ministers have only ‘small chance’ of wiping out bovine tuberculosis by 2038 without more investment&lt;/p&gt;&lt;p&gt;Labour can...",
+      "link": "https://www.theguardian.com/environment/2025/sep/04/labour-badger-cull-coronavirus-vaccine-report",
+      "pubDate": "Thu, 04 Sep 2025 04:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/73259a625f23399f9a99027e963a466bea502534/208_0_2665_2132/master/2665.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=634058d10e255745bef3a6dddd0a2eaa"
+    },
     {
       "title": "Pioneering sustainability in computational research: First Green DiSC certifications awarded",
       "description": "Credit: SSI (Software Sustainability Network) Issued on behalf of The University of Edinburgh’s Software Sustainability Institute (SSI) and the Univer...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/08/chi-pb-social-no-title-blue-1.png?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Shell scraps construction of biofuels plant in Rotterdam",
-      "description": "&lt;p&gt;Oil firm, which paused project in 2024, will not restart work because facility deemed ‘insufficiently competitive’&lt;/p&gt;&lt;p&gt;Shell ha...",
-      "link": "https://www.theguardian.com/business/2025/sep/03/shell-scraps-construction-of-biofuels-plant-in-rotterdam",
-      "pubDate": "Wed, 03 Sep 2025 07:56:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6c556e74021f5143297a439a5a32a9cb2f929ec5/619_27_5197_4161/master/5197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=279e947e057781c1ebe78121c5224bb0"
-    },
-    {
-      "title": "Abandoned Queensland coal borehole found to be emitting 10,000 cars’ worth of greenhouse gas",
-      "description": "&lt;p&gt;The hole – about 100 metres deep – was not visible from the surface – and there could be thousands more like it&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
-      "link": "https://www.theguardian.com/australia-news/2025/sep/03/abandoned-queensland-coal-borehole-found-to-be-emitting-10000-cars-worth-of-greenhouse-gas",
-      "pubDate": "Wed, 03 Sep 2025 07:36:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/af5f24f2e21ccc3cca049cabfbf999b39f689988/206_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=715d3ba140a6850b95619c78d7accd94"
-    },
-    {
-      "title": "This was the hottest summer on record. If it happens again next year, Britain’s ecosystems won’t cope | Lucy Jones",
-      "description": "&lt;p&gt;A future of extreme heatwaves, drought and collapsing habitats awaits if we continue to ignore the danger signs&lt;/p&gt;&lt;p&gt;What does B...",
-      "link": "https://www.theguardian.com/commentisfree/2025/sep/03/hottest-british-summer-on-record-ecosystems-climate-crisis",
-      "pubDate": "Wed, 03 Sep 2025 07:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ac5c212a584665e00e52608cd33a7474c365e785/453_0_4475_3580/master/4475.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c1b588f1174c15827172b480b82af1b"
     }
   ]
 }
