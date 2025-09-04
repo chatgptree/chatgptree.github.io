@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-04T16:31:25.945Z",
+  "lastUpdated": "2025-09-04T17:26:19.316Z",
   "articles": [
+    {
+      "title": "Rhode Island and Connecticut sue over Trump administration’s wind farm halt",
+      "description": "&lt;p&gt;States claim Revolution Wind project was stopped illegally, threatening jobs, clean energy and billions in investments&lt;/p&gt;&lt;p&gt;Rhod...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/04/rhode-island-connecticut-trump-administration-revolution-wind",
+      "pubDate": "Thu, 04 Sep 2025 16:53:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1fecc337c2253e85fecb9886e471a18fd5640f7a/155_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b65eb4589859b8c7df9c05e379082bb6"
+    },
     {
       "title": "BBC Inside Science",
       "description": "The evidence on whether high caffeine energy drinks affect our health....",
@@ -18,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c014c83a5788e0cde28f002c1eae877eb85dc277/523_102_4345_3476/master/4345.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=150d6b80b6e483e138de6dc997669059"
-    },
-    {
-      "title": "Coal Is Rising Along with Solar in the U.S. Power System, While Gas Loses a Step",
-      "description": "Coal and utility-scale solar power each gained market share in the first half of this year, newly released data on U.S. electricity generation show. N...",
-      "link": "https://insideclimatenews.org/news/04092025/inside-clean-energy-coal-solar-power-growth/",
-      "pubDate": "Thu, 04 Sep 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Australia needs $530bn capital to meet 70% climate goal, Business Council claims ahead of new 2035 target",
@@ -65,15 +65,6 @@
       "image": "https://i.guim.co.uk/img/media/89fc0d742ca43700ec96a57bec9920f266736101/74_0_4232_3385/master/4232.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6cc48e4974a71ca7d15f5566b8c8ea9"
     },
     {
-      "title": "Zambia Ordered a Mining Company to Pay Villagers After a Toxic Waste Spill. The Firm Made Them Sign Away Their Rights First",
-      "description": "Planet China: Sixth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. A Chinese mining co...",
-      "link": "https://insideclimatenews.org/news/04092025/china-sino-metals-zambia-toxic-spill/",
-      "pubDate": "Thu, 04 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Waterlogged and contaminated: In rural Florida, locals suspect a mining company is to blame for their flooding troubles",
       "description": "Residents are trying to connect the dots between hurricanes, high radium levels, and a mineral mining giant next door....",
       "link": "https://grist.org/extreme-weather/rural-florida-locals-suspect-mining-company-flooding/",
@@ -108,15 +99,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/67d4655c131f143dc15413259976fe2ec0fd8b26/578_0_6331_5064/master/6331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05da6be62bf2842d5b81374c54b46806"
-    },
-    {
-      "title": "Fossil-Fueled Climate Heating Set the Stage for Devastating Fires in Spain and Portugal This Summer",
-      "description": "A new attribution report published Thursday shows that global warming made the extreme hot and dry conditions preceding this summer’s wildfires in Por...",
-      "link": "https://insideclimatenews.org/news/04092025/spain-portugal-wildfires-linked-to-global-warming/",
-      "pubDate": "Thu, 04 Sep 2025 04:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Pioneering sustainability in computational research: First Green DiSC certifications awarded",
@@ -164,22 +146,40 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
-      "title": "Residents Living in the Shadow of the Steel Industry Ask the EPA to Reconsider Delay of Hazardous Air Pollution Rule",
-      "description": "At a hearing held Wednesday to gather public comments on the Trump administration’s delay of tighter restrictions on hazardous air pollution from stee...",
-      "link": "https://insideclimatenews.org/news/03092025/epa-steel-mill-pollution-rule-delay/",
-      "pubDate": "Wed, 03 Sep 2025 21:24:39 +0000",
-      "sourceName": "insideclimatenews.org",
+      "title": "How much carbon can we safely store underground? Much less than previously thought.",
+      "description": "Carbon storage “can no longer be considered an unlimited solution to bring our climate back to a safe level.”...",
+      "link": "https://grist.org/science/carbon-storage-limits-nature-climate-change/",
+      "pubDate": "Wed, 03 Sep 2025 15:00:00 +0000",
+      "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2024/11/1125_Overshoot_9b1ea2.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "Without Well-Funded Public Transit, Philadelphia’s Climate Future Looks Bleak",
-      "description": "PHILADELPHIA—Three days a week, Daniel Blazek takes the train from his Center City neighborhood to his job in supply chain management in Malvern, Penn...",
-      "link": "https://insideclimatenews.org/news/03092025/philadelphia-climate-future-public-transit-cuts/",
-      "pubDate": "Wed, 03 Sep 2025 19:33:49 +0000",
-      "sourceName": "insideclimatenews.org",
+      "title": "How to protect US students from heat in schools – and is it time to rethink summer break?",
+      "description": "&lt;p&gt;US schools were built for a cooler climate that no longer exists. Now they face record-high temperatures&lt;/p&gt;&lt;p&gt;As schools are ret...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/03/extreme-heat-schools-education",
+      "pubDate": "Wed, 03 Sep 2025 11:30:21 GMT",
+      "sourceName": "theguardian.com",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://i.guim.co.uk/img/media/6d49178d3b69343d17ae19691c0e03d16e87538f/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b430b55fb2721433c20e4ba5e698843"
+    },
+    {
+      "title": "Puerto Ricans are devising the food system of tomorrow",
+      "description": "Following a history of disinvestment and destructive climate disasters, communities across the archipelago are developing living blueprints of food so...",
+      "link": "https://grist.org/food-and-agriculture/puerto-ricans-are-devising-the-food-system-of-tomorrow/",
+      "pubDate": "Wed, 03 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/Puerto-Rico-Hurricane-Maria-Destruction-2.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "American Samoa says no to deep-sea mining. The Trump administration might do it anyway.",
+      "description": "The CEO of a seabed mining startup says the decision about mining leases will be made in Washington, D.C....",
+      "link": "https://grist.org/indigenous/american-samoa-says-no-to-deep-sea-mining-trump-administration/",
+      "pubDate": "Wed, 03 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/AP-Ocean-Compressed.jpg?quality=75&#038;strip=all"
     }
   ]
 }
