@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-05T07:23:39.070Z",
+  "lastUpdated": "2025-09-05T08:32:44.322Z",
   "articles": [
+    {
+      "title": "Nobody wants this gas plant. Trump is forcing it to stay open.",
+      "description": "The Department of Energy is citing Trump's declaration of an 'energy emergency' and voracious data centers in its decision to keep the plant outside o...",
+      "link": "https://grist.org/justice/nobody-wants-this-gas-plant-trump-is-forcing-it-to-stay-open/",
+      "pubDate": "Fri, 05 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A fiber optic cable spied on Greenland&#8217;s glaciers. It found an alarming problem",
+      "description": "By analyzing light shining through the same kind of cable that brings the internet into homes, researchers have helped explain why the island's ice — ...",
+      "link": "https://grist.org/climate/a-fiber-optic-cable-spied-on-greenlands-glaciers-it-found-an-alarming-problem/",
+      "pubDate": "Fri, 05 Sep 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/IMG_3a.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
+      "description": "A total lunar eclipse will be visible from the UK on Sunday evening, weather permitting....",
+      "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 05 Sep 2025 07:36:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Draining the sea: fishing in crisis in south-east Asia – in pictures",
       "description": "&lt;p&gt;Thailand, the Philippines and Indonesia are beautiful tourist destinations, but off their coasts is a darker hidden reality, where overfishin...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1fecc337c2253e85fecb9886e471a18fd5640f7a/155_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b65eb4589859b8c7df9c05e379082bb6"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "The evidence on whether high caffeine energy drinks affect our health....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002ht2f?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 04 Sep 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Environment watchdog buried report on lead in children’s blood to placate mining companies, emails show",
-      "description": "&lt;p&gt;Documents tabled in NSW parliament show state agency took four years to publish report and told miners it would be put online ‘quietly’ but E...",
-      "link": "https://www.theguardian.com/australia-news/2025/sep/05/environment-watchdog-buried-report-on-lead-in-childrens-blood-to-placate-mining-companies-emails-show",
-      "pubDate": "Thu, 04 Sep 2025 15:00:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c014c83a5788e0cde28f002c1eae877eb85dc277/523_102_4345_3476/master/4345.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=150d6b80b6e483e138de6dc997669059"
-    },
-    {
-      "title": "Coal Is Rising Along with Solar in the U.S. Power System, While Gas Loses a Step",
-      "description": "Coal and utility-scale solar power each gained market share in the first half of this year, newly released data on U.S. electricity generation show. N...",
-      "link": "https://insideclimatenews.org/news/04092025/inside-clean-energy-coal-solar-power-growth/",
-      "pubDate": "Thu, 04 Sep 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
