@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-05T11:19:56.722Z",
+  "lastUpdated": "2025-09-05T12:51:09.423Z",
   "articles": [
+    {
+      "title": "Japanese man becomes oldest person to reach Mount Fuji summit at 102",
+      "description": "&lt;p&gt;Kokichi Akuzawa climbed with 70-year-old daughter to break record for oldest person to make ascent – a second time&lt;/p&gt;&lt;p&gt;Kokichi ...",
+      "link": "https://www.theguardian.com/world/2025/sep/05/japanese-man-becomes-oldest-person-to-reach-summit-of-mount-fuji-at-102",
+      "pubDate": "Fri, 05 Sep 2025 11:49:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5ec8e5c8c39af35f61ca238ff52243bcf219c482/0_21_1108_886/master/1108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75184ab7c6964c4af066bce3718d3e00"
+    },
+    {
+      "title": "Weather tracker: British Columbia breaks Canada’s September heat record",
+      "description": "&lt;p&gt;Temperatures climb above 40C, while a powerful hailstorm in the US lashes Kansas and Oklahoma&lt;/p&gt;&lt;p&gt;A spate of extremely hot weat...",
+      "link": "https://www.theguardian.com/environment/2025/sep/05/weather-tracker-record-heat-british-columbia-canada-september-record-temperature-kansas-oklahoma-hail",
+      "pubDate": "Fri, 05 Sep 2025 10:20:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2e1f9ac0bd1993ba712bc7565b2155cae1cb6459/461_0_5579_4465/master/5579.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dcc266c25afe6abe9652a2a73db480d"
+    },
     {
       "title": "Public strongly backs aim of 30% of land and sea set aside for nature, poll finds",
       "description": "&lt;p&gt;Survey of eight countries finds 82% of people support 30x30 biodiversity target, as progress stalls on protected areas&lt;/p&gt;&lt;p&gt;Much...",
@@ -75,7 +93,7 @@
     },
     {
       "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
-      "description": "A total lunar eclipse will be visible from the UK on Sunday evening, weather permitting....",
+      "description": "A total lunar eclipse will be visible from parts of the UK on Sunday evening, weather permitting....",
       "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 05 Sep 2025 07:36:36 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6eab2a0471a13f18124a0a199e019d03983c6f4f/0_370_2368_1894/master/2368.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af9088c0ec48e6609d22763dbcc222f4"
-    },
-    {
-      "title": "Andrew Forrest’s Fortescue rejects ‘credibility’ of business council modelling on 2035 emissions target",
-      "description": "&lt;p&gt;BCA member criticises climate modelling commissioned by lobby group that ‘underplays’ economic opportunities and does not factor in cost of i...",
-      "link": "https://www.theguardian.com/australia-news/2025/sep/04/australia-needs-530bn-capital-to-meet-70-climate-goal-business-council-claims-ahead-of-new-2035-target",
-      "pubDate": "Fri, 05 Sep 2025 02:29:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0f034e3978a65989c7d92adce44904cc010d4178/532_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=427ba8c23b5b846471a177e56af041aa"
-    },
-    {
-      "title": "Arizonans Protest State’s Largest Utility Abandoning Clean Energy Commitments",
-      "description": "PHOENIX—Despite a summer in which nearly 600 people are suspected to have died in the increasing heat of the changing climate in the nation’s sunniest...",
-      "link": "https://insideclimatenews.org/news/04092025/arizona-public-service-clean-energy-roll-back-protest/",
-      "pubDate": "Thu, 04 Sep 2025 23:09:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
