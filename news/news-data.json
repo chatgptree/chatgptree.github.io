@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-09-05T08:32:44.322Z",
+  "lastUpdated": "2025-09-05T09:26:11.028Z",
   "articles": [
+    {
+      "title": "With a Mayoral Election Coming Up, This Is Where NYC Stands on Climate Action",
+      "description": "The city’s precarious position in the face of multiple climate change-related pressures, such as coastal or rainfall flooding and extreme heat, has no...",
+      "link": "https://insideclimatenews.org/news/05092025/new-york-city-climate-action-mayoral-race/",
+      "pubDate": "Fri, 05 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mayor Eric Adams’ Unfulfilled Promise for New York City Parks",
+      "description": "New York City’s parks and natural areas are crucial to resilience against the many climate change-related pressures that the metropolis faces. Parks o...",
+      "link": "https://insideclimatenews.org/news/05092025/mayor-eric-adams-new-york-city-parks/",
+      "pubDate": "Fri, 05 Sep 2025 08:59:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Embattled Texas Oilfield Waste Company Fined After Worker’s Death",
+      "description": "By the time emergency medical providers reached McBride Operating in Waskom, Texas, a small town near the Louisiana border, it was too late. Pedro Jul...",
+      "link": "https://insideclimatenews.org/news/05092025/mcbride-operating-oilfield-waste-texas-worker-death/",
+      "pubDate": "Fri, 05 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "House Republicans Push New Coal Bills, but Critics Say the Industry’s Decline Can’t Be Reversed",
+      "description": "President Donald Trump has made reviving the coal industry a political and policy priority in his second term, swimming against the current of a domes...",
+      "link": "https://insideclimatenews.org/news/05092025/house-republicans-push-new-coal-bills/",
+      "pubDate": "Fri, 05 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The words we use to talk about nature are disappearing. Here’s why that matters.",
+      "description": "We’ll need to do more than \"touch grass\" to revive them.\n...",
+      "link": "https://grist.org/language/nature-word-language-disappear-culture/",
+      "pubDate": "Fri, 05 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/08/0807_BloomProject_Social.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Nobody wants this gas plant. Trump is forcing it to stay open.",
       "description": "The Department of Energy is citing Trump's declaration of an 'energy emergency' and voracious data centers in its decision to keep the plant outside o...",
@@ -135,51 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pennsylvania Plastics Pollution Settlement Could Set a National Precedent for Control of Pellets",
-      "description": "A Pennsylvania plastics manufacturer will pay $2.6 million for allegedly violating the federal Clean Water Act and will ensure that no more of its pla...",
-      "link": "https://insideclimatenews.org/news/04092025/pennsylvania-nurdles-plastic-pollution-settlement/",
-      "pubDate": "Thu, 04 Sep 2025 22:43:58 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Dominion Energy and Big Tech Maneuver Over Pivotal Rate Decision in Virginia",
-      "description": "RICHMOND—The long-anticipated rate-setting showdown between big tech and Virginia's largest utility kicked off this week with last minute maneuvers to...",
-      "link": "https://insideclimatenews.org/news/04092025/dominion-energy-tech-virginia-rate-case/",
-      "pubDate": "Thu, 04 Sep 2025 22:20:51 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Air pollution can drive devastating forms of dementia, research suggests",
-      "description": "&lt;p&gt;Airborne particles cause toxic clumps of proteins in brain that are hallmarks of Lewy body dementia, study indicates&lt;/p&gt;&lt;p&gt;Fine-p...",
-      "link": "https://www.theguardian.com/environment/2025/sep/04/fine-particulate-air-pollution-trigger-forms-dementia-study-lewy-body",
-      "pubDate": "Thu, 04 Sep 2025 18:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/581c6f3e5a918e0142973fdccb34e9688af9c7c0/121_0_2820_2256/master/2820.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37cd400dff9a0d43085a48760cab86ba"
-    },
-    {
-      "title": "Your home has a 1 in 4 chance of being at severe risk from extreme weather",
-      "description": "What this means for your insurance policy....",
-      "link": "https://grist.org/extreme-weather/your-home-has-a-1-in-4-chance-of-being-at-severe-risk-from-extreme-weather/",
-      "pubDate": "Thu, 04 Sep 2025 17:48:24 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-2223570023-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Rhode Island and Connecticut sue over Trump administration’s wind farm halt",
-      "description": "&lt;p&gt;States claim Revolution Wind project was stopped illegally, threatening jobs, clean energy and billions in investments&lt;/p&gt;&lt;p&gt;Rhod...",
-      "link": "https://www.theguardian.com/us-news/2025/sep/04/rhode-island-connecticut-trump-administration-revolution-wind",
-      "pubDate": "Thu, 04 Sep 2025 16:53:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1fecc337c2253e85fecb9886e471a18fd5640f7a/155_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b65eb4589859b8c7df9c05e379082bb6"
     }
   ]
 }
