@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-05T23:21:59.737Z",
+  "lastUpdated": "2025-09-06T01:53:04.016Z",
   "articles": [
+    {
+      "title": "Man dies in shark attack near Dee Why on Sydney’s northern beaches",
+      "description": "&lt;p&gt;Man was brought to shore but died at the scene at Long Reef beach, NSW police say&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"h...",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/06/fatal-shark-attack-long-reef-beach-sydney-northern-beaches-nsw",
+      "pubDate": "Sat, 06 Sep 2025 01:35:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3257850c69ee7752fbcbcdea22729e225dd70571/2953_586_5205_4166/master/5205.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33dbf0179db9041008205b0e13108ef7"
+    },
     {
       "title": "A Contaminated Riverside Lot in Chicago’s Bridgeport Neighborhood Is Poised for Cleanup by Peoples Gas",
       "description": "CHICAGO—A vacant lot along the south branch of the Chicago River where harmful chemicals from a long-gone gas facility remain in the soil will be clea...",
@@ -45,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5ec8e5c8c39af35f61ca238ff52243bcf219c482/0_21_1108_886/master/1108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75184ab7c6964c4af066bce3718d3e00"
-    },
-    {
-      "title": "Weather tracker: British Columbia breaks Canada’s September heat record",
-      "description": "&lt;p&gt;Temperatures climb above 40C, while a powerful hailstorm in the US lashes Kansas and Oklahoma&lt;/p&gt;&lt;p&gt;A spate of extremely hot weat...",
-      "link": "https://www.theguardian.com/environment/2025/sep/05/weather-tracker-record-heat-british-columbia-canada-september-record-temperature-kansas-oklahoma-hail",
-      "pubDate": "Fri, 05 Sep 2025 10:20:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2e1f9ac0bd1993ba712bc7565b2155cae1cb6459/461_0_5579_4465/master/5579.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dcc266c25afe6abe9652a2a73db480d"
     },
     {
       "title": "With a Mayoral Election Coming Up, This Is Where NYC Stands on Climate Action",
@@ -102,7 +102,7 @@
     },
     {
       "title": "Nobody wants this gas plant. Trump is forcing it to stay open.",
-      "description": "The Department of Energy is citing Trump's declaration of an 'energy emergency' and voracious data centers in its decision to keep the plant outside o...",
+      "description": "The Department of Energy is citing Trump's declaration of an \"energy emergency\" and voracious data centers in its decision to keep the plant outside o...",
       "link": "https://grist.org/justice/nobody-wants-this-gas-plant-trump-is-forcing-it-to-stay-open/",
       "pubDate": "Fri, 05 Sep 2025 08:30:00 +0000",
       "sourceName": "grist.org",
