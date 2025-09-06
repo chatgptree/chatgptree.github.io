@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-06T11:17:22.826Z",
+  "lastUpdated": "2025-09-06T12:44:52.771Z",
   "articles": [
+    {
+      "title": "Climate crisis will increase frequency of lightning-sparked wildfires, study finds",
+      "description": "&lt;p&gt;These wildfires tend to burn in more remote areas and grow larger faster, posing a higher risk to public safety and health&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/06/climate-crisis-lightning-sparked-wildfires-increase",
+      "pubDate": "Sat, 06 Sep 2025 12:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/647c5161307ec6e2a2dc62a970a364bf67967cda/683_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c3a41ba6b45855e8ba7d090505de5e1"
+    },
     {
       "title": "Emissions are Sparking Increases in African Heat Waves in Unexpected Ways, New Study Finds",
       "description": "When Southern Europe was hit by a catastrophic heat wave last month, it dominated global news cycles. Spain experienced its longest heat wave on recor...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/IMG_3a.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
-      "description": "A total lunar eclipse will be visible from parts of the UK on Sunday evening, weather permitting....",
-      "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 05 Sep 2025 07:36:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
