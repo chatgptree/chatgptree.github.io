@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-09-06T08:27:45.636Z",
+  "lastUpdated": "2025-09-06T09:21:51.236Z",
   "articles": [
+    {
+      "title": "Emissions are Sparking Increases in African Heat Waves in Unexpected Ways, New Study Finds",
+      "description": "When Southern Europe was hit by a catastrophic heat wave last month, it dominated global news cycles. Spain experienced its longest heat wave on recor...",
+      "link": "https://insideclimatenews.org/news/06092025/emissions-increase-africa-heat-waves/",
+      "pubDate": "Sat, 06 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump Cancels Study on Health Impacts of Industrialized Hog Farms That Produce Biogas",
+      "description": "The Trump administration has cancelled a $417,000 federal grant that would have funded research on the social and economic impacts of biogas productio...",
+      "link": "https://insideclimatenews.org/news/06092025/trump-cancels-hog-farm-biogas-health-study/",
+      "pubDate": "Sat, 06 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Experts, Officials Clash Over Maryland’s Latest Stormwater Permit",
+      "description": "A long-awaited stormwater permit for the Maryland State Highway Administration has become the latest flashpoint in dueling narratives over climate acc...",
+      "link": "https://insideclimatenews.org/news/06092025/maryland-stormwater-permit-environmental-justice/",
+      "pubDate": "Sat, 06 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Chemical Manufacturing Made New Jersey the ‘PFAS Toilet for the Country’",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Shawn M. LaTourette, N...",
+      "link": "https://insideclimatenews.org/news/06092025/new-jersey-chemical-manufacturing-pfas/",
+      "pubDate": "Sat, 06 Sep 2025 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘A great tragedy’: man dies in shark attack near Dee Why on Sydney’s northern beaches",
       "description": "&lt;p&gt;Beaches from Manly to Narrabeen closed after death of 57-year-old who leaves behind wife and child&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get ...",
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Draining the sea: fishing in crisis in south-east Asia – in pictures",
-      "description": "&lt;p&gt;Thailand, the Philippines and Indonesia are beautiful tourist destinations, but off their coasts is a darker hidden reality, where overfishin...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/sep/05/fishing-south-east-asia-in-pictures-thailand-philippines-indonesia",
-      "pubDate": "Fri, 05 Sep 2025 07:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/502233992090e33e939440d6474c00c68e18a306/498_0_2502_2002/master/2502.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa3892d56ed3c29dceea15dbcd17577d"
-    },
-    {
-      "title": "Electricity prices are set to surge",
-      "description": "Lisa Zembrodt, Principal and Senior Director of Sustainability Business at Schneider Electric By Lisa Zembrodt and Jasper Noort Australians face the p...",
-      "link": "https://econews.com.au/67727/electricity-prices-are-set-to-surge/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=electricity-prices-are-set-to-surge",
-      "pubDate": "Fri, 05 Sep 2025 06:02:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Schneider-Electric-logo.png"
-    },
-    {
-      "title": "WA Government commitments for Exmouth Gulf marine park welcomed by Australian Marine Conservation Society – Protect Ningaloo",
-      "description": "?      Australian Marine Conservation Society – Protect Ningaloo welcomes WA Government’s commitment to create a marine park with high levels of prote...",
-      "link": "https://econews.com.au/67725/wa-government-commitments-for-exmouth-gulf-marine-park-welcomed-by-australian-marine-conservation-society-protect-ningaloo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wa-government-commitments-for-exmouth-gulf-marine-park-welcomed-by-australian-marine-conservation-society-protect-ningaloo",
-      "pubDate": "Fri, 05 Sep 2025 06:02:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Unleash your creativity at the Maritime Museum this school holidays",
-      "description": "Australian National Maritime Museum This Spring, the Australian National Maritime Museum invites families to dive into a program full of discovery, cr...",
-      "link": "https://econews.com.au/67723/unleash-your-creativity-at-the-maritime-museum-this-school-holidays/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unleash-your-creativity-at-the-maritime-museum-this-school-holidays",
-      "pubDate": "Fri, 05 Sep 2025 06:02:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
