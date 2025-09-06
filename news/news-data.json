@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-06T12:44:52.771Z",
+  "lastUpdated": "2025-09-06T13:24:23.860Z",
   "articles": [
+    {
+      "title": "What lies beneath: Lake Tahoe dive offers rare view of the deep",
+      "description": "&lt;p&gt;Livestream of voyage to bottom of one of country’s deepest lakes draws thousands – but no sign of Tahoe Tessie yet&lt;/p&gt;&lt;p&gt;The coba...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/06/lake-tahoe-bottom-dive",
+      "pubDate": "Sat, 06 Sep 2025 13:00:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2a247e609a6905319fece7f57c2b0b37e53a927a/455_0_4312_3450/master/4312.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7c8f0a702f26b5821e39534cd8a4e0e"
+    },
+    {
+      "title": "States fast-track wind, solar permits and contracts to beat Trump’s deadline",
+      "description": "Federal tax credits have brought project costs down 30 to 50 percent, advocates say....",
+      "link": "https://grist.org/energy/states-fast-track-wind-solar-permits-and-contracts-to-beat-trumps-deadline/",
+      "pubDate": "Sat, 06 Sep 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/solar-panel-home-tax-credit.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Climate crisis will increase frequency of lightning-sparked wildfires, study finds",
       "description": "&lt;p&gt;These wildfires tend to burn in more remote areas and grow larger faster, posing a higher risk to public safety and health&lt;/p&gt;&lt;p&gt;...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/Screenshot-2025-09-05-at-07.56.13.png"
-    },
-    {
-      "title": "Nobody wants this gas plant. Trump is forcing it to stay open.",
-      "description": "The Department of Energy is citing Trump's declaration of an \"energy emergency\" and voracious data centers in its decision to keep the plant outside o...",
-      "link": "https://grist.org/justice/nobody-wants-this-gas-plant-trump-is-forcing-it-to-stay-open/",
-      "pubDate": "Fri, 05 Sep 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A fiber optic cable spied on Greenland&#8217;s glaciers. It found an alarming problem.",
-      "description": "By analyzing light shining through the same kind of cable that brings the internet into homes, researchers have helped explain why the island's ice — ...",
-      "link": "https://grist.org/climate/a-fiber-optic-cable-spied-on-greenlands-glaciers-it-found-an-alarming-problem/",
-      "pubDate": "Fri, 05 Sep 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/IMG_3a.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
