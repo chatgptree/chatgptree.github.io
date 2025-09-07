@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-07T05:22:49.132Z",
+  "lastUpdated": "2025-09-07T06:33:23.101Z",
   "articles": [
+    {
+      "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
+      "description": "A total lunar eclipse will be visible from parts of the UK on Sunday evening, weather permitting....",
+      "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 07 Sep 2025 05:54:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "New national park could help save koalas from extinction",
       "description": "A koala in a tree © Jackson Photography WWF-Australia WWF-Australia has hailed the creation of the Great Koala National Park as a game changer in the ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6e08d54916e9ec79e05c0ab730afb3043c7f8356/386_0_4547_3638/master/4547.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed091cdf92d12061d41c216d9a563d4a"
-    },
-    {
-      "title": "With a Mayoral Election Coming Up, This Is Where NYC Stands on Climate Action",
-      "description": "The city’s precarious position in the face of multiple climate change-related pressures, such as coastal or rainfall flooding and extreme heat, has no...",
-      "link": "https://insideclimatenews.org/news/05092025/new-york-city-climate-action-mayoral-race/",
-      "pubDate": "Fri, 05 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
