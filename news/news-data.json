@@ -1,12 +1,48 @@
 {
-  "lastUpdated": "2025-09-07T08:27:56.376Z",
+  "lastUpdated": "2025-09-07T09:22:06.735Z",
   "articles": [
+    {
+      "title": "‘Because of the Goddarn Plant.’ Fishermen in Southwest Louisiana Say LNG Terminals Are to Blame for Shrimp Harvest Decline",
+      "description": "Cameron, La.—Ray Mallett started fishing near the mouth of the Calcasieu River more than half a century ago as part of the “mosquito fleet,” a ragtag ...",
+      "link": "https://insideclimatenews.org/news/07092025/louisiana-lng-terminals-shrimp-fishing/",
+      "pubDate": "Sun, 07 Sep 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Charting Whale ‘Superhighways’ for Conservation",
+      "description": "Every year beginning in October, thousands of humpback whales start to leave their warm nurseries in the Eastern Tropical Pacific—an ocean stretch spa...",
+      "link": "https://insideclimatenews.org/news/07092025/blue-corridors-whale-superhighways-conservation/",
+      "pubDate": "Sun, 07 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
       "description": "A total lunar eclipse will be visible from parts of the UK on Sunday evening, weather permitting....",
       "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 07 Sep 2025 08:09:09 GMT",
+      "pubDate": "Sun, 07 Sep 2025 08:56:28 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A California Network of Black Churches Is Embracing Solar Energy, EV Charging",
+      "description": "HAYWARD, Calif.—On a Sunday morning, the swirling timbre of a Hammond organ drifted into the lobby at Glad Tidings International Church of God in Chri...",
+      "link": "https://insideclimatenews.org/news/07092025/california-black-churches-energy-transition/",
+      "pubDate": "Sun, 07 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Clean’ Oil and Chemical Soup",
+      "description": "The Trump administration says that drilling in the U.S. is cleaner than in other countries due to tighter environmental oversight. But Texas, the hear...",
+      "link": "https://insideclimatenews.org/news/07092025/icn-sunday-morning-methane-emissions/",
+      "pubDate": "Sun, 07 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Global-Data-logo-1.jpg"
-    },
-    {
-      "title": "‘Everything is gone’: Punjabi farmers suffer worst floods in three decades",
-      "description": "&lt;p&gt;Flooding in northern India and Pakistan has destroyed homes – and hundreds of thousands of acres of crops&lt;/p&gt;&lt;p&gt;For days, farmers...",
-      "link": "https://www.theguardian.com/world/2025/sep/06/everything-gone-punjabi-farmers-suffer-worst-floods-three-decades",
-      "pubDate": "Sat, 06 Sep 2025 04:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cdbe219c28be628f72d22e3e7d112ddd82ba1213/480_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8ecc5d4a9b8f7e11892537e23b5f8a9"
-    },
-    {
-      "title": "A Contaminated Riverside Lot in Chicago’s Bridgeport Neighborhood Is Poised for Cleanup by Peoples Gas",
-      "description": "CHICAGO—A vacant lot along the south branch of the Chicago River where harmful chemicals from a long-gone gas facility remain in the soil will be clea...",
-      "link": "https://insideclimatenews.org/news/05092025/chicago-peoples-gas-contaminated-lot-cleanup/",
-      "pubDate": "Fri, 05 Sep 2025 22:28:22 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Peru Votes Against Creating New Indigenous Reserve in Amazon Region",
-      "description": "Government agencies in Peru have voted against establishing a new reserve meant to protect Indigenous people living in part of the country’s Amazon ba...",
-      "link": "https://insideclimatenews.org/news/05092025/peru-votes-against-amazon-indigenous-reserve/",
-      "pubDate": "Fri, 05 Sep 2025 18:52:18 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Public strongly backs aim of 30% of land and sea set aside for nature, poll finds",
-      "description": "&lt;p&gt;Survey of eight countries finds 82% of people support 30x30 biodiversity target, as progress stalls on protected areas&lt;/p&gt;&lt;p&gt;Much...",
-      "link": "https://www.theguardian.com/environment/2025/sep/05/30x30-biodiversity-target-protecting-nature-land-seas-survey-public-support-aoe",
-      "pubDate": "Fri, 05 Sep 2025 09:15:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6e08d54916e9ec79e05c0ab730afb3043c7f8356/386_0_4547_3638/master/4547.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed091cdf92d12061d41c216d9a563d4a"
     }
   ]
 }
