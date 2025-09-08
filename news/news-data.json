@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-08T21:22:18.853Z",
+  "lastUpdated": "2025-09-08T22:23:42.513Z",
   "articles": [
+    {
+      "title": "Will NASA Kill a Pair of Critical Climate Satellites?",
+      "description": "As Congress returns to session this month, the fate of two satellites that have become integral to climate science hangs in the balance. The Orbiting ...",
+      "link": "https://insideclimatenews.org/news/08092025/nasa-carbon-dioxide-satellites-trump/",
+      "pubDate": "Mon, 08 Sep 2025 21:49:46 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Survivor’s island: coyotes seen paddling across deep San Francisco Bay waters",
+      "description": "&lt;p&gt;Researchers studying the phenomenon found in 2024 there were between 14 to 17 coyotes on Angel island&lt;/p&gt;&lt;p&gt;For nearly a decade, ...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/08/coyote-swimming-san-francisco-angel-island",
+      "pubDate": "Mon, 08 Sep 2025 21:29:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7c0a801735b2ede7275d1cdeffb58dd01941a2c2/637_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80cdaa8a76113d84fda05512fa257696"
+    },
     {
       "title": "Disposable face masks used during Covid have left chemical timebomb, research suggests",
       "description": "&lt;p&gt;An estimated 129bn were being used every month around the world at height of pandemic, with no recycling stream&lt;/p&gt;&lt;p&gt;The surge i...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/hc-hunt-22143974_maxHeight_3000_maxWidth_3000.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Maryland screwworm case has US officials bracing for return of an old foe",
-      "description": "&lt;p&gt;Rise in cases south of the border prompts concern over US livestock as Trump budget cuts hit research and foreign aid&lt;/p&gt;&lt;p&gt;A pat...",
-      "link": "https://www.theguardian.com/us-news/2025/sep/07/new-world-screwworm-parasitic-fly",
-      "pubDate": "Sun, 07 Sep 2025 11:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d987e9e2d7f1727af8916d8f9bae22638717f39b/102_0_3061_2448/master/3061.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b084efe2dce648f5ff978fe1410f70f8"
-    },
-    {
-      "title": "Fishermen in Southwest Louisiana Say LNG Terminals Are to Blame for Shrimp Harvest Decline",
-      "description": "CAMERON, La.—Ray Mallett started fishing near the mouth of the Calcasieu River more than half a century ago as part of the “mosquito fleet,” a ragtag ...",
-      "link": "https://insideclimatenews.org/news/07092025/louisiana-lng-terminals-shrimp-fishing/",
-      "pubDate": "Sun, 07 Sep 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
