@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-08T08:35:40.665Z",
+  "lastUpdated": "2025-09-08T09:29:46.054Z",
   "articles": [
+    {
+      "title": "The Whimbrel and the Wind Turbines: Capable of Coexistence?",
+      "description": "QUINBY, Va.—There’s the whimbrel. It’s a large brown and tan shorebird with long legs and a curved beak it uses to dig into the sand and mud for food....",
+      "link": "https://insideclimatenews.org/news/08092025/virginia-dominion-energy-whimbrel-wind-turbines/",
+      "pubDate": "Mon, 08 Sep 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Energy Sector Has Spent Hundreds of Millions of Dollars on Lobbying This Year. Watchdogs Say That’s Only Half The Story",
+      "description": "The energy and natural resource sector has spent hundreds of millions of dollars lobbying the federal government so far this year, according to data c...",
+      "link": "https://insideclimatenews.org/news/08092025/energy-sector-lobbying-spending/",
+      "pubDate": "Mon, 08 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Billions spent, miles to go: The story of California’s failure to build high-speed rail",
+      "description": "California’s dream of building a high-speed rail system linking San Francisco and L.A. is a cautionary tale of ambition outpacing funding, planning, a...",
+      "link": "https://grist.org/transportation/billions-spent-miles-to-go-the-story-of-californias-failure-to-build-high-speed-rail/",
+      "pubDate": "Mon, 08 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/california-high-speed-rail-trump-funding-construction-jobs.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Giant cuttlefish! They are in danger and scientists are going to save them with … bubbles! | First Dog on the Moon",
       "description": "&lt;p&gt;The only other option was to go back in time and do something about climate change but time travel hasn’t been invented yet &lt;/p&gt;&lt;ul&...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Clean’ Oil and Chemical Soup",
-      "description": "The Trump administration says that drilling in the U.S. is cleaner than in other countries due to tighter environmental oversight. But Texas, the hear...",
-      "link": "https://insideclimatenews.org/news/07092025/icn-sunday-morning-methane-emissions/",
-      "pubDate": "Sun, 07 Sep 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New national park could help save koalas from extinction",
-      "description": "A koala in a tree © Jackson Photography WWF-Australia WWF-Australia has hailed the creation of the Great Koala National Park as a game changer in the ...",
-      "link": "https://econews.com.au/67733/new-national-park-could-help-save-koalas-from-extinction/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-national-park-could-help-save-koalas-from-extinction",
-      "pubDate": "Sun, 07 Sep 2025 05:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Loss of koala habitat shows ‘total failure’ of nature laws, conservationists say",
-      "description": "&lt;p&gt;More habitat has been given up legally in 2025 so far than any other year since the animals were listed as threatened, analysis shows&lt;/p&g...",
-      "link": "https://www.theguardian.com/environment/2025/sep/07/loss-of-koala-habitat-shows-total-failure-of-nature-laws-conservationists-say",
-      "pubDate": "Sat, 06 Sep 2025 20:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/75c3ccdfe4cd8f621fb27602548c83bf5d68cd06/550_0_5147_4119/master/5147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7fe94ba4d2b2284d34515ab891ff274"
     }
   ]
 }
