@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-09T13:36:34.834Z",
+  "lastUpdated": "2025-09-09T14:23:54.085Z",
   "articles": [
+    {
+      "title": "‘Entire neighborhoods will have to move’: growth collides with rising seas in Charleston",
+      "description": "&lt;p&gt;Residents worry new developments – including a sea wall planned to shield the city’s historic center – could push floodwaters into their comm...",
+      "link": "https://www.theguardian.com/environment/2025/sep/09/charleston-rising-seas",
+      "pubDate": "Tue, 09 Sep 2025 14:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a8c0b1577daaa8af05b13694dee2eb22b43de6b9/773_0_3663_2931/master/3663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c41ad21050c2a164270ca82fd5b228d"
+    },
+    {
+      "title": "California firefighters race to protect ancient sequoia trees as wildfire spreads",
+      "description": "&lt;p&gt;Garnet fire threatens historic grove in Sierra national forest as it moves through Fresno county at 14% containment&lt;/p&gt;&lt;p&gt;Firefig...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/09/california-wildfire-sequoia-trees",
+      "pubDate": "Tue, 09 Sep 2025 13:54:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0ec6daa1f634511188a859adea43223c746cae86/540_0_5042_4032/master/5042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6a851b05c7e9a45d002b2d603260fd1"
+    },
     {
       "title": "Fossil-fuel firms receive US subsidies worth $31bn each year, study finds",
       "description": "&lt;p&gt;Figure calculated by Oil Change International has more than doubled since 2017 but is likely a vast understatement&lt;/p&gt;&lt;p&gt;The US c...",
@@ -110,7 +128,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Geoengineering Won’t Save Us From Global Warming",
+      "title": "Geoengineering Won’t Save Us From Global Warming, New Study Says",
       "description": "A team of the world’s best ice and climate researchers studied a handful of recently publicized engineering concepts for protecting Earth’s polar ice ...",
       "link": "https://insideclimatenews.org/news/09092025/geoengineering-polar-ice-melt/",
       "pubDate": "Tue, 09 Sep 2025 09:00:00 +0000",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/913c60df7f85d2bd4a8a2c95aa764abaa9af1fc2/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff531cd05f91c7187fb06172c511cfe9"
-    },
-    {
-      "title": "Plantable Conference Badges Turning Event Waste Into Wildflowers",
-      "description": "Every year, more than 484,000 events are held across Australia. Behind the scenes, millions of single use plastic name badges and lanyards are issued,...",
-      "link": "https://econews.com.au/67751/plantable-conference-badges-turning-event-waste-into-wildflowers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=plantable-conference-badges-turning-event-waste-into-wildflowers",
-      "pubDate": "Tue, 09 Sep 2025 03:03:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Plantable-event-name-badges-1024x1024.jpg"
-    },
-    {
-      "title": "A Million Reasons to Back Industrial Hemp: Investors Bet Big on X-Hemp",
-      "description": "Pictured: X-Hemp Founder, Andi Lucas Tasmanian sustainable construction firm X-Hemp closes out $3.4m seed capital raise Danehill Group delivers larges...",
-      "link": "https://econews.com.au/67749/a-million-reasons-to-back-industrial-hemp-investors-bet-big-on-x-hemp/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-million-reasons-to-back-industrial-hemp-investors-bet-big-on-x-hemp",
-      "pubDate": "Tue, 09 Sep 2025 03:03:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
