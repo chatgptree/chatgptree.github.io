@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-09T22:21:43.693Z",
+  "lastUpdated": "2025-09-09T23:21:44.789Z",
   "articles": [
+    {
+      "title": "Australia approves world-first vaccine to curb koala chlamydia epidemic",
+      "description": "Thousands of koalas have died from the sexually-transmitted disease, with some estimates suggesting only 50,000 remain in the wild....",
+      "link": "https://www.bbc.com/news/articles/cwylp71vnjgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 09 Sep 2025 22:04:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Top US Energy Official Lobbies for Fossil Fuels in Europe",
       "description": "U.S. Secretary of Energy Chris Wright is in Europe this week to lobby for oil and gas, and some European policy experts say his pro-fossil fuel argume...",
@@ -27,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8c478e1cd16c36b2b110f45cfb525b2ddfe1558d/455_0_4920_3937/master/4920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aed6290fe951d819489c4103b9b92d05"
+    },
+    {
+      "title": "Protect Arctic from 'dangerous' climate engineering, scientists warn",
+      "description": "Controversial approaches to cooling the planet are unlikely to work, according to dozens of polar scientists....",
+      "link": "https://www.bbc.com/news/articles/c5yqw996q1ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 09 Sep 2025 16:41:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Protect Arctic from 'dangerous' climate engineering, scientists warn",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Report: Big businesses are doing carbon dioxide removal all wrong",
-      "description": "The technology is needed to limit global warming. But corporations are supporting it in lieu of emissions reductions....",
-      "link": "https://grist.org/accountability/report-carbon-dioxide-removal-companies/",
-      "pubDate": "Tue, 09 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/climeworks-mammoth-plant.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Four Asian companies are among world’s 20 largest corporate givers",
-      "description": "New research reveals how leading corporations are aligning social impact with business strategy A new report from The Bridgespan Group – backed by its...",
-      "link": "https://econews.com.au/67753/four-asian-companies-are-among-worlds-20-largest-corporate-givers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=four-asian-companies-are-among-worlds-20-largest-corporate-givers",
-      "pubDate": "Tue, 09 Sep 2025 08:03:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://ci3.googleusercontent.com/meips/ADKq_Na7gpKC8XDdrw4v4t_6Z3fdfspHDkuLwQNWXMlhINw9KsB4EHp5FgxIByMJf1K713uMZSi9qx7FSVX3i0ddIbu3D8OlerlyIpuBlPT9FHYJfV_Lguttkk8RhrAIn8Ku5fr6jBw59SfuV6xLSfMT=s0-d-e1-ft#https://release.media-outreach.com/Release/templates/images/socialMedia/generic_link.png"
     }
   ]
 }
