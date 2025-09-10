@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-10T19:19:18.385Z",
+  "lastUpdated": "2025-09-10T20:27:06.085Z",
   "articles": [
+    {
+      "title": "Trump Administration Moves to Dismantle Conservation as an Official Use of Public Lands",
+      "description": "Conservation would no longer count as an official use of federal public lands under a plan announced today by the U.S. Department of the Interior. On ...",
+      "link": "https://insideclimatenews.org/news/10092025/trump-administration-public-lands-conservation/",
+      "pubDate": "Wed, 10 Sep 2025 20:17:15 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "In Georgia, Trump’s immigration agenda and clean energy jobs are colliding",
       "description": "Expert foreign workers are key to setting up new factories in the U.S. An ICE raid targeting them could hurt efforts to ramp up American manufacturing...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "New threatened species show climate’s impact on nature is accelerating and must be addressed",
-      "description": "Narrow Dwarf Crayfish – Credit Indra Bone, iNaturalist  Australian Conservation Foundation New additions to the threatened species list reveal climate...",
-      "link": "https://econews.com.au/67761/new-threatened-species-show-climates-impact-on-nature-is-accelerating-and-must-be-addressed/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-threatened-species-show-climates-impact-on-nature-is-accelerating-and-must-be-addressed",
-      "pubDate": "Wed, 10 Sep 2025 03:02:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/ACF-logo.png"
     }
   ]
 }
