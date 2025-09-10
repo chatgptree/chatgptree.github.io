@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-10T22:22:58.273Z",
+  "lastUpdated": "2025-09-10T23:22:17.208Z",
   "articles": [
+    {
+      "title": "Mystery of dancing spiders' DNA could explain how they develop into new species",
+      "description": "There are many more species of peacock spider than other animals, scientists think they may know why....",
+      "link": "https://www.bbc.com/news/articles/c4gzl2zj72jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 10 Sep 2025 23:00:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump Administration Moves to Dismantle Conservation as an Official Use of Public Lands",
       "description": "Conservation would no longer count as an official use of federal public lands under a plan announced by the U.S. Department of the Interior. On Wednes...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Polar geoengineering concepts will not help and could harm, warn experts",
-      "description": "One of five polar geoengineering concepts that scientists warn are unlikely to help and could harm Antarctica and the Arctic. Credit: Frontiers of Sci...",
-      "link": "https://econews.com.au/67763/polar-geoengineering-concepts-will-not-help-and-could-harm-warn-experts/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=polar-geoengineering-concepts-will-not-help-and-could-harm-warn-experts",
-      "pubDate": "Wed, 10 Sep 2025 03:02:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
     }
   ]
 }
