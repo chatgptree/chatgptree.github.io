@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-11T15:24:08.581Z",
+  "lastUpdated": "2025-09-11T16:30:46.276Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Results from Nasa's Perseverance rover may show signs left in rocks by living organisms....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002j757?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Sep 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Deforestation Threatens Public Health. Securing Indigenous Land Rights Can Help, Researchers Find",
       "description": "Indigenous territories are a crucial bulwark against the destruction of the Amazon rainforest. A new peer-reviewed study shows they also safeguard the...",
@@ -65,15 +74,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
-      "title": "Green energy entrepreneur calls on UK to subsidise North Sea oil and gas firms",
-      "description": "&lt;p&gt;Dale Vince urges ministers to ‘optimise’ resources in fossil fuel basin to help smooth transition to renewables&lt;/p&gt;&lt;p&gt;One of Brit...",
-      "link": "https://www.theguardian.com/business/2025/sep/11/green-energy-entrepreneurs-urge-uk-allow-new-north-sea-oil-gas-projects",
-      "pubDate": "Thu, 11 Sep 2025 11:29:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0a134c8e3cb100861a65ed7c544e27ba75c4945f/32_0_1757_1406/master/1757.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3aa8bf933a3fd121f484bacb057259"
-    },
-    {
       "title": "‘It’s an all-you-can-eat buffet’: striped bass in a Canadian river are gobbling up all the salmon. Is a mass cull the answer?",
       "description": "&lt;p&gt;Whether to kill one species to save another has split biologists, anglers and Indigenous communities in the Miramichi&lt;/p&gt;&lt;ul&gt;&lt;...",
       "link": "https://www.theguardian.com/environment/2025/sep/11/canada-new-brunswick-miramichi-river-salmon-striped-bass-mikmaq-fisheries-ecology",
@@ -128,6 +128,15 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/1K5-logo-1024x621.png"
     },
     {
+      "title": "Sydney Water failed to properly test before declaring ‘no known Pfas hotspots’ in catchments, inquiry finds",
+      "description": "&lt;p&gt;More attention needs to be given to rapidly evolving issue of contamination of waterways with ‘forever chemicals’, committee’s chair says&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/sep/11/sydney-water-erred-when-claiming-there-were-no-known-pfas-hotspots-in-drinking-water-catchments-committee-finds",
+      "pubDate": "Thu, 11 Sep 2025 06:45:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1e5afc6b9db428edfdf5660328b6c51d9f8f6a72/0_0_2254_1803/master/2254.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17713428046b28a5b15579079fda3d92"
+    },
+    {
       "title": "Boolah Trial Farm Field Day: Data, Collaboration, Innovation Cuts Emissions, Keeps Profits Strong",
       "description": "Boolah Trial Farm Field Day reveals how data, collaboration and innovation are key to cutting emissions while keeping profits strong The 2025 Boolah T...",
       "link": "https://econews.com.au/67779/boolah-trial-farm-field-day-data-collaboration-innovation-cuts-emissions-keeps-profits-strong/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=boolah-trial-farm-field-day-data-collaboration-innovation-cuts-emissions-keeps-profits-strong",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Mystery of dancing spiders' DNA could explain how they develop into new species",
-      "description": "There are many more species of peacock spider than other animals, scientists think they may know why....",
-      "link": "https://www.bbc.com/news/articles/c4gzl2zj72jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 10 Sep 2025 23:00:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
