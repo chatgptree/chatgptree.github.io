@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-11T10:25:40.997Z",
+  "lastUpdated": "2025-09-11T11:19:26.314Z",
   "articles": [
     {
       "title": "‘It’s an all-you-can-eat buffet’: striped bass in a Canadian river are gobbling up all the salmon. Is a mass cull the answer?",
@@ -18,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0a134c8e3cb100861a65ed7c544e27ba75c4945f/32_0_1757_1406/master/1757.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca3aa8bf933a3fd121f484bacb057259"
+    },
+    {
+      "title": "Solar Power Gave the Formerly Incarcerated Hope in NJ. Federal Cuts Are Taking it Back",
+      "description": "KEARNY, N.J.—From the second row of a fluorescent-lit room, Kavone Little, 38, aims his monopod-mounted phone to the front as he smiles ear to ear. He...",
+      "link": "https://insideclimatenews.org/news/11092025/formerly-incarcerated-solar-power-program-cuts/",
+      "pubDate": "Thu, 11 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Ahead of COP, Africa aims to become the continent of climate solutions",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Carbon emissions from oil giants directly linked to dozens of deadly heatwaves for first time",
-      "description": "&lt;p&gt;Study shows how individual fossil fuel companies are making previously impossible heatwaves happen and could have to pay compensation&lt;/p&g...",
-      "link": "https://www.theguardian.com/environment/2025/sep/10/link-oil-giants-heatwaves-research-legal-liability",
-      "pubDate": "Wed, 10 Sep 2025 15:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/929420b99f1d4700ac864a7efc6f7583bd53abaa/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d2102de8d8f4756645ac33dea8db298"
     }
   ]
 }
