@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-11T08:32:47.127Z",
+  "lastUpdated": "2025-09-11T09:26:07.692Z",
   "articles": [
+    {
+      "title": "Ahead of COP, Africa aims to become the continent of climate solutions",
+      "description": "The continent’s 54 nations outline a bold vision for climate action and pledges to present a unified position at the global meeting later this year....",
+      "link": "https://grist.org/climate/ahead-of-cop-africa-aims-to-become-the-continent-of-climate-solutions/",
+      "pubDate": "Thu, 11 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How do we feed billions without wrecking the planet? A Q&#038;A about our food systems.",
       "description": "From fermented fungi to gene-edited pesticides, Michael Grunwald explores innovative solutions to boost food production while protecting the planet in...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e195d90d0a87664850db2a2b13fead241d4f9bc5/457_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95a72121edb5ebde8c766b8ade158e4a"
-    },
-    {
-      "title": "‘It’s Never Good!’: A Street-Level Look at New York City’s Air Quality",
-      "description": "George Thurston stood at a bus stop on Manhattan’s east side, just a block from his office and the FDR Drive, a major highway in the city. He looked d...",
-      "link": "https://insideclimatenews.org/news/10092025/new-york-city-air-pollution/",
-      "pubDate": "Wed, 10 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
