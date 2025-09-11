@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-11T14:24:44.315Z",
+  "lastUpdated": "2025-09-11T15:24:08.581Z",
   "articles": [
+    {
+      "title": "Deforestation Threatens Public Health. Securing Indigenous Land Rights Can Help, Researchers Find",
+      "description": "Indigenous territories are a crucial bulwark against the destruction of the Amazon rainforest. A new peer-reviewed study shows they also safeguard the...",
+      "link": "https://insideclimatenews.org/news/11092025/indigenous-land-rights-can-help-deforestation/",
+      "pubDate": "Thu, 11 Sep 2025 15:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Spanish schools to teach pupils how to cope with climate crisis disasters",
+      "description": "&lt;p&gt;Children as young as three will have lessons on wildfires and flooding under 10-point emergency response plan&lt;/p&gt;&lt;p&gt;Spanish child...",
+      "link": "https://www.theguardian.com/world/2025/sep/11/spanish-schools-to-give-lessons-in-coping-with-natural-disassters",
+      "pubDate": "Thu, 11 Sep 2025 14:23:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a561ea43469f02e5e93a27e928c015d68fe41c9a/768_0_4583_3668/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb94f9aa33ba39774871171b57c12f40"
+    },
+    {
+      "title": "Reform council to ‘rescind’ climate emergency declaration",
+      "description": "&lt;p&gt;Kent council condemned by opposition parties, which say county is ‘at the forefront of climate impacts’&lt;/p&gt;&lt;p&gt;Plans by Reform UK ...",
+      "link": "https://www.theguardian.com/uk-news/2025/sep/11/reform-council-motions-to-rescind-climate-emergency-declaration",
+      "pubDate": "Thu, 11 Sep 2025 14:15:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/58515142cd626a4ee8c5304e755485335410fd1d/318_0_4601_3680/master/4601.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07af8cf26a4717997bcf6f5ac92454f3"
+    },
     {
       "title": "‘A last resort’: is culling foxes the only way to save Britain’s vanishing curlews?",
       "description": "&lt;p&gt;Keeping predator numbers down may be last hope for the ground-nesting birds – but critics say real problem is farming practices&lt;/p&gt;&lt;...",
@@ -101,15 +128,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/1K5-logo-1024x621.png"
     },
     {
-      "title": "Sydney Water failed to properly test before declaring ‘no known Pfas hotspots’ in catchments, inquiry finds",
-      "description": "&lt;p&gt;More attention needs to be given to rapidly evolving issue of contamination of waterways with ‘forever chemicals’, committee’s chair says&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/sep/11/sydney-water-erred-when-claiming-there-were-no-known-pfas-hotspots-in-drinking-water-catchments-committee-finds",
-      "pubDate": "Thu, 11 Sep 2025 06:45:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1e5afc6b9db428edfdf5660328b6c51d9f8f6a72/0_0_2254_1803/master/2254.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17713428046b28a5b15579079fda3d92"
-    },
-    {
       "title": "Boolah Trial Farm Field Day: Data, Collaboration, Innovation Cuts Emissions, Keeps Profits Strong",
       "description": "Boolah Trial Farm Field Day reveals how data, collaboration and innovation are key to cutting emissions while keeping profits strong The 2025 Boolah T...",
       "link": "https://econews.com.au/67779/boolah-trial-farm-field-day-data-collaboration-innovation-cuts-emissions-keeps-profits-strong/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=boolah-trial-farm-field-day-data-collaboration-innovation-cuts-emissions-keeps-profits-strong",
@@ -155,29 +173,11 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
-      "title": "Hedgehog highways could become requirement for new buildings",
-      "description": "&lt;p&gt;Lords amend planning bill to include protections for wild animals, including bird-safe glass and swift bricks&lt;/p&gt;&lt;p&gt;Hedgehog high...",
-      "link": "https://www.theguardian.com/world/2025/sep/11/hedgehog-highways-requirement-new-buildings-lords-planning-bill-government",
-      "pubDate": "Thu, 11 Sep 2025 05:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/612b9d42cb4668e8985325801a3398d89ed96881/392_0_4157_3326/master/4157.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb72788c0aa192441df161e20dd5635a"
-    },
-    {
       "title": "Mystery of dancing spiders' DNA could explain how they develop into new species",
       "description": "There are many more species of peacock spider than other animals, scientists think they may know why....",
       "link": "https://www.bbc.com/news/articles/c4gzl2zj72jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 10 Sep 2025 23:00:20 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Administration Moves to Dismantle Conservation as an Official Use of Public Lands",
-      "description": "Conservation would no longer count as an official use of federal public lands under a plan announced by the U.S. Department of the Interior. On Wednes...",
-      "link": "https://insideclimatenews.org/news/10092025/trump-administration-public-lands-conservation/",
-      "pubDate": "Wed, 10 Sep 2025 20:17:15 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
