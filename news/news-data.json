@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-11T07:24:17.715Z",
+  "lastUpdated": "2025-09-11T08:32:47.127Z",
   "articles": [
+    {
+      "title": "How do we feed billions without wrecking the planet? A Q&#038;A about our food systems.",
+      "description": "From fermented fungi to gene-edited pesticides, Michael Grunwald explores innovative solutions to boost food production while protecting the planet in...",
+      "link": "https://grist.org/food-and-agriculture/how-do-we-feed-billions-without-wrecking-the-planet-qa-about-food-systems/",
+      "pubDate": "Thu, 11 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Students, schools race to save clean energy projects in face of Trump deadline",
+      "description": "Many projects such as solar panels and electric school buses may not meet new deadlines for tax credits under the “big, beautiful bill.” ...",
+      "link": "https://grist.org/energy/students-schools-race-to-save-clean-energy-projects-in-face-of-trump-deadline/",
+      "pubDate": "Thu, 11 Sep 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/K12-HE-climate-post-obbba-2-min.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Councils launch innovative solar and battery program for local residents",
+      "description": "Making the switch to renewable energy at home will become easier and more affordable for Newcastle, Lake Macquarie and Maitland residents following th...",
+      "link": "https://econews.com.au/67781/councils-launch-innovative-solar-and-battery-program-for-local-residents/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=councils-launch-innovative-solar-and-battery-program-for-local-residents",
+      "pubDate": "Thu, 11 Sep 2025 08:02:47 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/1K5-logo-1024x621.png"
+    },
     {
       "title": "Sydney Water failed to properly test before declaring ‘no known Pfas hotspots’ in catchments, inquiry finds",
       "description": "&lt;p&gt;More attention needs to be given to rapidly evolving issue of contamination of waterways with ‘forever chemicals’, committee’s chair says&lt;...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "An Energy Department Climate Change Report ‘Completely Ignored’ Adaptation, Rutgers Professor Says",
-      "description": "In late July, the U.S.&#160; Department of Energy released a 141-page review of the impact of greenhouse gas emissions on the United States. The repor...",
-      "link": "https://insideclimatenews.org/news/10092025/pamela-mcelwee-energy-department-greenhouse-gas-report/",
-      "pubDate": "Wed, 10 Sep 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "First came the wildfire. Then came the scams.",
-      "description": "As extreme weather becomes more frequent, so too have post-disaster contractor scams like excessive billing and shoddy repairs....",
-      "link": "https://grist.org/extreme-weather/first-came-the-wildfire-then-came-the-scams/",
-      "pubDate": "Wed, 10 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/complaint-cropped2.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Scams are rampant after natural disasters. Here’s how to protect yourself.",
-      "description": "To ensure you're working with reliable and trustworthy contractors, ask these questions first....",
-      "link": "https://grist.org/extreme-weather/scams-are-rampant-after-natural-disasters-heres-how-to-protect-yourself/",
-      "pubDate": "Wed, 10 Sep 2025 08:44:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/icon-pdf.png"
     }
   ]
 }
