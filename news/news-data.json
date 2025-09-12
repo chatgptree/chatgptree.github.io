@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-12T21:20:57.176Z",
+  "lastUpdated": "2025-09-12T22:21:52.129Z",
   "articles": [
+    {
+      "title": "US environment agency could end reporting of greenhouse gas emissions",
+      "description": "&lt;p&gt;The mandatory program, which required 8,000 facilities to report their release, will be ended to reduce ‘bureaucratic red tape’&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/12/environment-greenhouse-gas-reporting-end",
+      "pubDate": "Fri, 12 Sep 2025 22:10:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f2104b8e56d609bce6c9603d3277a25d3de1c8f3/0_0_3275_2621/master/3275.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0da3276581b82cf26c27f62c091b8511"
+    },
+    {
+      "title": "Climate Change-Driven Floods Continue to Displace Millions in Pakistan",
+      "description": "More than 2 million people have been displaced in Pakistan since June of this year, as floods continue to cause destruction across a country still ree...",
+      "link": "https://insideclimatenews.org/news/12092025/climate-change-driven-floods-continue-to-displace-millions-in-pakistan/",
+      "pubDate": "Fri, 12 Sep 2025 22:05:11 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Global Warming Is Fueling Dengue Fever Outbreaks",
       "description": "Global cases of flu-like dengue fever reached a historic high last year, with over 14.6 million cases and more than 12,000 related deaths reported to ...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Antarctica-2-786x1024.jpg"
-    },
-    {
-      "title": "Department of Energy Allocates $134 million for Fusion Funding",
-      "description": "The U.S. Department of Energy announced $134 million in funding for two fusion programs on Wednesday, money intended to work on bridging the gap betwe...",
-      "link": "https://insideclimatenews.org/news/11092025/energy-department-fusion-funding/",
-      "pubDate": "Fri, 12 Sep 2025 00:14:38 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Water firm bans tankers from transporting water for billionaire's lake",
-      "description": "Tankers taking water for US billionaire Stephen Schwarzman have been told to stop by Southern Water.  ...",
-      "link": "https://www.bbc.com/news/articles/cq5jg9vy1n0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 11 Sep 2025 23:24:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
