@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-12T08:32:12.385Z",
+  "lastUpdated": "2025-09-12T09:25:18.138Z",
   "articles": [
+    {
+      "title": "House Republicans’ Use of Little-Known Law to Strike Down Public Land Plans Could Be Pandora’s Box Moment",
+      "description": "When the U.S. House of Representatives invoked a little-known law to roll back three plans for managing public lands, it was an unprecedented move.&#1...",
+      "link": "https://insideclimatenews.org/news/12092025/public-land-plans-congressional-review-act/",
+      "pubDate": "Fri, 12 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Michigan’s Upper Peninsula, Stargazing Sheds Light on the Dark Sky Movement",
+      "description": "At the northern tip of Michigan’s Upper Peninsula, where rugged cliffs jut out toward Lake Superior, Keweenaw County is known for its rich biodiversit...",
+      "link": "https://insideclimatenews.org/news/12092025/michigan-keweenaw-dark-sky-park/",
+      "pubDate": "Fri, 12 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Data centers gobble Earth&#8217;s resources. What if we took them to space instead?",
+      "description": "A sci-fi idea is gaining supporters, from billionaires to city councils. Whether it's feasible is another matter....",
+      "link": "https://grist.org/climate-energy/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/",
+      "pubDate": "Fri, 12 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Week in wildlife: a huge tuna, cows on the lawn and a Dorset beaver’s adventure",
       "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
@@ -17,7 +44,7 @@
       "pubDate": "Fri, 12 Sep 2025 05:00:27 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/1449599801a21b95276a0a4191f9f5fd54a31cad/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f85293c46989da4ea607d5fc9e0c911d"
+      "image": "https://i.guim.co.uk/img/media/1449599801a21b95276a0a4191f9f5fd54a31cad/513_503_2045_1636/master/2045.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8002cb3b93bacc24a92ef35877ffcde"
     },
     {
       "title": "Celebrating Quandamooka Culture with the Opening of QUAMPI Arts Centre",
@@ -83,6 +110,24 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Water firm bans tankers from transporting water for billionaire's lake",
+      "description": "Tankers taking water for US billionaire Stephen Schwarzman have been told to stop by Southern Water.  ...",
+      "link": "https://www.bbc.com/news/articles/cq5jg9vy1n0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Sep 2025 23:24:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Water firm bans tankers from transporting water for billionaire's lake",
+      "description": "Tankers taking water for US billionaire Stephen Schwarzman have been told to stop by Southern Water.  ...",
+      "link": "https://www.bbc.com/news/articles/cq5jg9vy1n0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Sep 2025 23:24:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "US energy chief tells BBC nuclear fusion will soon power the world",
       "description": "AI will soon enable harnessing of the energy that powers the sun and stars, says Chris Wright...",
       "link": "https://www.bbc.com/news/articles/cqlz5p314z0o?at_medium=RSS&amp;at_campaign=rss",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/50b642e184923717b8d39a0ee6a0dac98905f5bb/343_0_2021_1616/master/2021.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aac24c01a43dfdc212edcce400b8a673"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Results from Nasa's Perseverance rover may show signs left in rocks by living organisms....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002j757?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 11 Sep 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Deforestation Threatens Public Health. Securing Indigenous Land Rights Can Help, Researchers Find",
-      "description": "Indigenous territories are a crucial bulwark against the destruction of the Amazon rainforest. A new peer-reviewed study shows they also safeguard the...",
-      "link": "https://insideclimatenews.org/news/11092025/indigenous-land-rights-can-help-deforestation/",
-      "pubDate": "Thu, 11 Sep 2025 15:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Utility-Scale Solar Can Withstand Severe Hailstorms. Here’s How",
-      "description": "As Texas becomes the country’s leader in generating solar power, the state’s propensity for severe hailstorms is a hazard that energy companies aim to...",
-      "link": "https://insideclimatenews.org/news/11092025/inside-clean-energy-utility-scale-solar-hailstorms/",
-      "pubDate": "Thu, 11 Sep 2025 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Streets submerged in Indonesia after deadly floods – video",
-      "description": "&lt;p&gt;Fifteen people are dead and 100 missing as Indonesia reels from floods caused by extreme rainfall. Rescuers search for survivors after at lea...",
-      "link": "https://www.theguardian.com/world/video/2025/sep/11/streets-submerged-in-indonesia-after-devastating-floods-video",
-      "pubDate": "Thu, 11 Sep 2025 12:53:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/114908ea173e3a8a9b485bb82913f95f86a4679a/303_0_2151_1720/master/2151.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6cfb51739973b7ada5f0146a9560c687"
-    },
-    {
-      "title": "RINA awards KOMAC Approval in Principle for LNG-  Fuelled H2-Ready LCO? Carrier",
-      "description": "RINA, the inspection, certification, ship classification and consulting engineering multinational, has awarded Korea Maritime Consultants Co., Ltd. (K...",
-      "link": "https://econews.com.au/67783/rina-awards-komac-approval-in-principle-for-lng-fuelled-h2-ready-lco%e2%82%82-carrier/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rina-awards-komac-approval-in-principle-for-lng-fuelled-h2-ready-lco%25e2%2582%2582-carrier",
-      "pubDate": "Thu, 11 Sep 2025 12:02:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
