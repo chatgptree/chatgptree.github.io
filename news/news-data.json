@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-13T20:23:19.075Z",
+  "lastUpdated": "2025-09-13T21:19:14.175Z",
   "articles": [
+    {
+      "title": "Researchers Use AI to Predict Beavers’ Impact on Local Habitats—and Show How Humans Can Help",
+      "description": "Across the Rockies and Great Plains, beaver dams interrupt narrow streams, slowing currents into chains of ponds that reshape channels and spread wetl...",
+      "link": "https://insideclimatenews.org/news/13092025/beaver-habitat-impact-land-resilience/",
+      "pubDate": "Sat, 13 Sep 2025 20:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Billion-dollar coffins? New technology could make oceans transparent and Aukus submarines vulnerable",
       "description": "&lt;p&gt;Quantum sensing, satellite tracking and AI are part of an accelerating arms race in detection that should prompt a re-evaluation of Australia...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/12092025/michigan-keweenaw-dark-sky-park/",
       "pubDate": "Fri, 12 Sep 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Data centers gobble Earth&#8217;s resources. What if we took them to space instead?",
-      "description": "A sci-fi idea is gaining supporters, from billionaires to city councils. Whether it's feasible is another matter....",
-      "link": "https://grist.org/climate-energy/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/",
-      "pubDate": "Fri, 12 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
