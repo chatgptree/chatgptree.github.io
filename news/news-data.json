@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-09-13T08:28:10.856Z",
+  "lastUpdated": "2025-09-13T09:22:06.839Z",
   "articles": [
+    {
+      "title": "Can Bipartisan Support in Congress Save NOAA From White House Cuts?",
+      "description": "To understand the bipartisan support that has emerged in Congress for the National Oceanic and Atmospheric Administration, it only takes a glance at t...",
+      "link": "https://insideclimatenews.org/news/13092025/congress-advances-bills-to-save-noaa/",
+      "pubDate": "Sat, 13 Sep 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Congress Takes a New Swing at Bipartisan Permitting Reform, Environmental Groups Are Calling Foul",
+      "description": "The One Big Beautiful Bill Act earlier this summer underscored deep partisan divides on energy and the environment, with critics decrying it as a hand...",
+      "link": "https://insideclimatenews.org/news/13092025/congress-energy-permitting-reform-speed-act/",
+      "pubDate": "Sat, 13 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "An Arctic Researcher Explains Yedoma, the Permafrost Keeping the Planet Livable",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Edward Alexander, the s...",
+      "link": "https://insideclimatenews.org/news/13092025/boreal-forest-shielding-permafrost/",
+      "pubDate": "Sat, 13 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can This Tree Still Save Us? In Some Places It’s Barely Hanging On",
+      "description": "A breadfruit tree stands in the middle of Randon Jother’s property, its lanky trunks feeding a network of sinewy limbs. The remnants of this season’s ...",
+      "link": "https://insideclimatenews.org/news/13092025/can-this-tree-still-save-us-in-some-places-its-barely-hanging-on/",
+      "pubDate": "Sat, 13 Sep 2025 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Like walking through time’: as glaciers retreat, new worlds are being created in their wake",
       "description": "&lt;p&gt;As Swiss glaciers melt at an ever-faster rate, new species move in and flourish, but entire ecosystems and an alpine culture can be lost&lt;/...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/931077aa205fc144b736d5c4560795c40d8a0771/1124_0_6404_5123/master/6404.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ce5e80c185fb3aa23f4517456b82d66"
-    },
-    {
-      "title": "Celebrating Quandamooka Culture with the Opening of QUAMPI Arts Centre",
-      "description": "The Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) is excited to announce the official opening of QUAMPI, a vibrant new First Nations design...",
-      "link": "https://econews.com.au/67793/celebrating-quandamooka-culture-with-the-opening-of-quampi-arts-centre/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=celebrating-quandamooka-culture-with-the-opening-of-quampi-arts-centre",
-      "pubDate": "Fri, 12 Sep 2025 04:02:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/QUAMPI-x-Origin-solar-panel-installation-3-1024x683.jpg"
-    },
-    {
-      "title": "TOMRA Food brings the benefits of AI to greater parts of the food industry with new innovative sorting solution",
-      "description": "The TOMRA 4C with LUCAi is a revolutionary optical sorting machine designed and optimized to increase detection, accuracy, performance, efficiency and...",
-      "link": "https://econews.com.au/67791/tomra-food-brings-the-benefits-of-ai-to-greater-parts-of-the-food-industry-with-new-innovative-sorting-solution/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tomra-food-brings-the-benefits-of-ai-to-greater-parts-of-the-food-industry-with-new-innovative-sorting-solution",
-      "pubDate": "Fri, 12 Sep 2025 02:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "Hunter-Central Coast Renewable Energy Zone project secures planning approval",
-      "description": "Minister for Climate Change and Energy, Penny Sharpe visiting HCC REZ and Ausgrid workers     Penny Sharpe Minister for Climate Change Minister for En...",
-      "link": "https://econews.com.au/67789/hunter-central-coast-renewable-energy-zone-project-secures-planning-approval/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hunter-central-coast-renewable-energy-zone-project-secures-planning-approval",
-      "pubDate": "Fri, 12 Sep 2025 02:02:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/NSW-Logo-supported-by.png"
-    },
-    {
-      "title": "WMRR commends NSW PFAS inquiry findings: urgent national source controls needed",
-      "description": "The Waste Management and Resource Recovery Association (WMRR) welcomes the report of the NSW Select Committee on PFAS Contamination in Waterways and D...",
-      "link": "https://econews.com.au/67787/wmrr-commends-nsw-pfas-inquiry-findings-urgent-national-source-controls-needed/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wmrr-commends-nsw-pfas-inquiry-findings-urgent-national-source-controls-needed",
-      "pubDate": "Fri, 12 Sep 2025 01:02:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
