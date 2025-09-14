@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-09-14T08:28:42.731Z",
+  "lastUpdated": "2025-09-14T09:22:22.650Z",
   "articles": [
+    {
+      "title": "Riding the High From Data Centers, the Grid Cannot Kick Its Gas Habit",
+      "description": "Every three months, Jon Rea gets an up-close look at the possible future of the grid, and lately he’s seeing a lot more natural gas. Rea, a senior ass...",
+      "link": "https://insideclimatenews.org/news/14092025/data-center-ai-demand-natural-gas-power/",
+      "pubDate": "Sun, 14 Sep 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In the Midst of Florida’s Insurance Crisis, What Recourse Do Residents Have?",
+      "description": "OKEECHOBEE, Fla.—If you want to get to know this hamlet sprinkled among ranchlands on the north side of Lake Okeechobee, one of the best people to tal...",
+      "link": "https://insideclimatenews.org/news/14092025/florida-insurance-crisis-hits-hardest-in-disadvantaged-counties/",
+      "pubDate": "Sun, 14 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Rural Ohio County Embarks on a Project to Prepare for Worsening Floods",
+      "description": "CHAUNCEY, Ohio—This village sits between the Hocking River and a tributary, Sunday Creek. When they flood, they can completely submerge the two roads ...",
+      "link": "https://insideclimatenews.org/news/14092025/rural-ohio-county-flood-model-emergency-planning/",
+      "pubDate": "Sun, 14 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A New Chapter for Environmental Justice",
+      "description": "The environmental justice movement suffered a striking blow this year when the Trump administration rescinded $3 billion in grants to support EJ initi...",
+      "link": "https://insideclimatenews.org/news/14092025/icn-sunday-morning-new-chapter-for-environmental-justice/",
+      "pubDate": "Sun, 14 Sep 2025 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Researchers Use AI to Predict Beavers’ Impact on Local Habitats—and Show How Humans Can Help",
       "description": "Across the Rockies and Great Plains, beaver dams interrupt narrow streams, slowing currents into chains of ponds that reshape channels and spread wetl...",
@@ -92,24 +128,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Global Warming Is Fueling Dengue Fever Outbreaks",
-      "description": "Global cases of flu-like dengue fever reached a historic high last year, with over 14.6 million cases and more than 12,000 related deaths reported to ...",
-      "link": "https://insideclimatenews.org/news/12092025/global-warming-dengue-fever-outbreaks/",
-      "pubDate": "Fri, 12 Sep 2025 19:07:22 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "RFK Jr. Is Making America Safe for Debilitating ‘Neglected’ Tropical Diseases",
-      "description": "Pathogens around the world just got a helping hand from the Trump administration. Next year should have been a year of celebration for experts dedicat...",
-      "link": "https://insideclimatenews.org/news/12092025/rfk-jr-neglected-tropical-diseases/",
-      "pubDate": "Fri, 12 Sep 2025 18:32:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "The Guardian view on fishing and nature: bottom-trawling boats don’t belong in conservation zones | Editorial",
       "description": "&lt;p&gt;Sea life needs protection, and the UK’s current system of marine management isn’t up to it&lt;/p&gt;&lt;p&gt;Up to 90% of the ocean floor aro...",
       "link": "https://www.theguardian.com/commentisfree/2025/sep/12/the-guardian-view-on-fishing-and-nature-bottom-trawling-boats-dont-belong-in-conservation-zones",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0a5cf0435af07684d096ed2becaa7fed92e16b6c/124_0_4960_3966/master/4960.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37f92107c256ad65cca7248a5152f03c"
-    },
-    {
-      "title": "House Republicans’ Use of Little-Known Law to Strike Down Public Land Plans Could Be Pandora’s Box Moment",
-      "description": "When the U.S. House of Representatives invoked a little-known law to roll back three plans for managing public lands, it was an unprecedented move.&#1...",
-      "link": "https://insideclimatenews.org/news/12092025/public-land-plans-congressional-review-act/",
-      "pubDate": "Fri, 12 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Michigan’s Upper Peninsula, Stargazing Sheds Light on the Dark Sky Movement",
-      "description": "At the northern tip of Michigan’s Upper Peninsula, where rugged cliffs jut out toward Lake Superior, Keweenaw County is known for its rich biodiversit...",
-      "link": "https://insideclimatenews.org/news/12092025/michigan-keweenaw-dark-sky-park/",
-      "pubDate": "Fri, 12 Sep 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
