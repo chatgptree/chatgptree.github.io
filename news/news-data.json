@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2025-09-16T11:19:59.558Z",
+  "lastUpdated": "2025-09-16T12:53:03.468Z",
   "articles": [
     {
-      "title": "UK public has paid £200bn to shareholders of key industries since privatisation – study",
+      "title": "Robert Redford, giant of American cinema, dies aged 89",
+      "description": "&lt;p&gt;Redford achieved huge critical and commercial success in the 60s and 70s with a string of hits including Butch Cassidy and the Sundance Kid, ...",
+      "link": "https://www.theguardian.com/film/2025/sep/16/robert-redford-oscar-winning-actor-and-director-dies",
+      "pubDate": "Tue, 16 Sep 2025 12:24:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/06fbf32735c6a9a8d9214a947c42404734a998ca/24_364_1813_1450/master/1813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=725a9a5ec9dd6172dc35ac194e75bef1"
+    },
+    {
+      "title": "Finland is ready for the next crisis, with stockpiled food and 72-hour kits – Europe should be too | Miika Ilomäki",
+      "description": "&lt;p&gt;The next pandemic or geopolitical shock could be close at hand. To look after our people, we’re looking after our supply chains, agriculture ...",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/16/finland-crisis-food-stockpiles-europe-supply-chains-fuel-reserves",
+      "pubDate": "Tue, 16 Sep 2025 12:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ea4edc973886bd3a01cf8072b7119119c770b63b/474_4_2265_1813/master/2265.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2194c25f40d676fec8eee97458dfaf7"
+    },
+    {
+      "title": "UK public has paid £200bn to shareholders of key industries since privatisation",
       "description": "&lt;p&gt;Analysis reveals ‘privatisation premium’ of £250 per household per year paid to owners of water, rail, bus, energy and mail services since 20...",
       "link": "https://www.theguardian.com/politics/2025/sep/16/uk-public-paid-200bn-to-shareholders-of-key-industries-since-privatisation-study",
       "pubDate": "Tue, 16 Sep 2025 10:00:35 GMT",
@@ -155,15 +173,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Weakening net zero policy ‘will spook investors’, warns UK’s climate adviser",
-      "description": "&lt;p&gt;Nigel Topping says shifting course risks deterring capital, as he urges ministers to hold firm on green transition&lt;/p&gt;&lt;p&gt;Weakenin...",
-      "link": "https://www.theguardian.com/environment/2025/sep/15/weakening-net-zero-policy-will-spook-investors-warns-uks-climate-adviser",
-      "pubDate": "Mon, 15 Sep 2025 17:43:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a110f432c804a55dd1531ee1b3a673e51e5f8ad8/547_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b94b5e22163493574ed4324908540030"
-    },
-    {
       "title": "The government has laid out the perils of the climate crisis – but will Albanese meet the moment?",
       "description": "&lt;p&gt;Grave remarks on the potential shocks to people, property and the economy are all too familiar. Putting a credible number on the emissions ta...",
       "link": "https://www.theguardian.com/environment/2025/sep/16/the-government-has-laid-out-the-perils-of-the-climate-crisis-for-australia-but-will-it-meet-the-moment",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ff0dfabe6ea18f527edb59eab7b707945bfdab3d/366_0_4179_3344/master/4179.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91b8bd1cc24056981038a4f2ae1888b1"
-    },
-    {
-      "title": "‘Bipartisan, common sense, science-based’: California leads the way in banning ultra-processed school meals",
-      "description": "&lt;p&gt;Experts hope that a ‘California effect’ will push other states to ban UPFs, similar to its law against six synthetic food dyes&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/environment/2025/sep/15/california-ultra-processed-foods-schools",
-      "pubDate": "Mon, 15 Sep 2025 14:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b9f2d398896428d7b15a5baeaae07e8b3c5d10ff/110_0_3374_2700/master/3374.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2de5dda6c03712c53ecdca81f1035ddf"
     }
   ]
 }
