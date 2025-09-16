@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-16T07:24:44.953Z",
+  "lastUpdated": "2025-09-16T08:33:54.200Z",
   "articles": [
+    {
+      "title": "This Pennsylvania settlement could set the standard for preventing tiny plastic pellet pollution",
+      "description": "A company agreed to install technology to watch for the tiny plastic pellets....",
+      "link": "https://grist.org/solutions/plastics-settlement-pennsylvania-raccoon-creek-nurdles-styropek/",
+      "pubDate": "Tue, 16 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How low oil prices turned Trump&#8217;s call to &#8216;drill, baby, drill&#8217; into a pipe dream",
+      "description": "Trump promised boom times for the U.S. oil industry. They're laying off staff and reducing spending instead....",
+      "link": "https://grist.org/energy/oil-prices-trump-fossil-fuel-drilling/",
+      "pubDate": "Tue, 16 Sep 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sydney’s west on frontline for most extreme heat and biggest health risks – but inner city faces water threat",
+      "description": "&lt;p&gt;Western suburbs, where temperatures are often 5C warmer, need shaded bus stops, more green space and better environmental standards in rented...",
+      "link": "https://www.theguardian.com/australia-news/2025/sep/16/climate-sydney-west-suburbs-most-extreme-heat-biggest-health-risks-inner-city-flooding",
+      "pubDate": "Tue, 16 Sep 2025 07:41:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6f3137627eeaa340641292e55c374bf614f34526/0_0_5375_4300/master/5375.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bb8f2273490f847072e8d73c55d1845"
+    },
     {
       "title": "Australia’s climate risk assessment prompts deluge of misinformation from the usual suspects | Temperature Check",
       "description": "&lt;p&gt;Nationals senator Matt Canavan and Sky presenter Chris Kenny line up to misinterpret and misquote report in effort to press case against net ...",
@@ -119,15 +146,6 @@
       "image": "https://i.guim.co.uk/img/media/b9f2d398896428d7b15a5baeaae07e8b3c5d10ff/110_0_3374_2700/master/3374.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2de5dda6c03712c53ecdca81f1035ddf"
     },
     {
-      "title": "Google’s huge new Essex datacentre to emit 570,000 tonnes of CO2 a year",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Planning documents show impact of Thurrock ‘hyperscale’ unit as UK attempts to ramp up AI capacity&lt...",
-      "link": "https://www.theguardian.com/technology/2025/sep/15/google-datacentre-kent-co2-thurrock-uk-ai",
-      "pubDate": "Mon, 15 Sep 2025 11:48:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6bd4f1a7a8d0f3efd06053d723c90d477793eca4/411_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ff26d2fe0b8053c5f64027f6144a4e8"
-    },
-    {
       "title": "UK and US unveil nuclear energy deal ahead of Trump visit",
       "description": "Key among the plans is a proposal to build up to 12 advanced modular nuclear reactors in Hartlepool....",
       "link": "https://www.bbc.com/news/articles/ckgzevzwxwro?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/american-samoa.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "How to get Georgia voters to turn out for the PSC election? Talk about their power bills.",
-      "description": "Campaigns and activists are racing to educate voters on the Public Service Commission, elected officials with power over energy bills and climate acti...",
-      "link": "https://grist.org/georgia-psc/georgia-voters-psc-election-power-bills/",
-      "pubDate": "Mon, 15 Sep 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/11/PSC-final1.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "How a profit-sharing agreement could be a new model for mining on Indigenous land",
-      "description": "The unprecedented deal the Shoshone-Paiute struck with a Canadian gold company will test whether mining can align with Indigenous rights....",
-      "link": "https://grist.org/indigenous/how-a-profit-sharing-agreement-could-be-a-new-model-for-mining-on-indigenous-land/",
-      "pubDate": "Mon, 15 Sep 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
