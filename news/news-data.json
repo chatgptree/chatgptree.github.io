@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-09-16T08:33:54.200Z",
+  "lastUpdated": "2025-09-16T09:27:36.951Z",
   "articles": [
+    {
+      "title": "Monsters in Trouble",
+      "description": "Gila monsters are shrouded in mystery. The venomous, desert-dwelling lizards spend most of their lives underground and out of sight, only coming up to...",
+      "link": "https://insideclimatenews.org/news/16092025/gila-monster-under-threat-southwest-desert/",
+      "pubDate": "Tue, 16 Sep 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Challenge to Maryland Offshore Wind Project Stokes Concerns Among Legal Scholars",
+      "description": "Legal experts see a new Trump administration move to block an offshore wind project alongside Maryland’s Ocean City as a targeted strike against clean...",
+      "link": "https://insideclimatenews.org/news/16092025/maryland-offshore-wind-project-legal-challenge/",
+      "pubDate": "Tue, 16 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Houses of Worship Could Help Fuel the Energy Transition. Solar Evangelists Are Hard at Work on That",
+      "description": "The connection between solar panels and his church mission wasn’t immediately obvious to Wilson Moore, deacon of New Mount Hermon Missionary Baptist C...",
+      "link": "https://insideclimatenews.org/news/16092025/faith-groups-celebrate-solar-energy/",
+      "pubDate": "Tue, 16 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Billions Spent, Miles To Go: The Story of California’s Failure To Build High-Speed Rail",
+      "description": "This story was originally published by Grist. Sign up for Grist’s weekly newsletter here. Seventeen years ago, Californians bet on a grand vision of t...",
+      "link": "https://insideclimatenews.org/news/16092025/california-high-speed-rail-failure/",
+      "pubDate": "Tue, 16 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "This Pennsylvania settlement could set the standard for preventing tiny plastic pellet pollution",
       "description": "A company agreed to install technology to watch for the tiny plastic pellets....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b9f2d398896428d7b15a5baeaae07e8b3c5d10ff/110_0_3374_2700/master/3374.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2de5dda6c03712c53ecdca81f1035ddf"
-    },
-    {
-      "title": "UK and US unveil nuclear energy deal ahead of Trump visit",
-      "description": "Key among the plans is a proposal to build up to 12 advanced modular nuclear reactors in Hartlepool....",
-      "link": "https://www.bbc.com/news/articles/ckgzevzwxwro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 15 Sep 2025 11:20:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The AI Boom Is Coming for Pennsylvania. How Will Lawmakers Respond?",
-      "description": "When Pennsylvania state Sen. Katie Muth toured a small data center in her suburban Philadelphia district this May, she was mostly impressed by what sh...",
-      "link": "https://insideclimatenews.org/news/15092025/pennsylvania-data-centers-ai-boom-coming/",
-      "pubDate": "Mon, 15 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California Teen Starts an Online Journal on the Power of Economics to Confront Climate Change",
-      "description": "DUBLIN, Calif.—Mira Shah was in sixth grade five years ago when a brush fire ignited on the hill in front of her house. Shah had heard that global war...",
-      "link": "https://insideclimatenews.org/news/15092025/california-teen-climate-change-economics-journal/",
-      "pubDate": "Mon, 15 Sep 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Republicans are using an arcane oversight rule to permanently dismantle federal land protections",
-      "description": "Republican lawmakers want to use the Congressional Review Act to permanently erase federal land use plans in Alaska — and beyond....",
-      "link": "https://grist.org/politics/republicans-are-using-an-arcane-oversight-rule-to-permanently-dismantle-federal-land-protections/",
-      "pubDate": "Mon, 15 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/american-samoa.jpg?quality=75&#038;strip=all"
     }
   ]
 }
