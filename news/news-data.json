@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-16T16:31:25.415Z",
+  "lastUpdated": "2025-09-16T17:21:51.900Z",
   "articles": [
+    {
+      "title": "‘It seemed like a ghost town’: LA food vendors on how Trump’s Ice raids affected business",
+      "description": "&lt;p&gt;Business owners explain how summer immigration sweeps have shaken the community and left them ‘vulnerable’&lt;/p&gt;&lt;p&gt;From early morni...",
+      "link": "https://www.theguardian.com/environment/2025/sep/16/los-angeles-trump-ice-immigration-raids",
+      "pubDate": "Tue, 16 Sep 2025 17:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/acd6dbf96b9e201d53b0c7b530659751f3adf77c/250_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de1cddeb4ee2d54daad11f6a7291882"
+    },
+    {
+      "title": "UN tries to limit staff going to Cop30 in Brazil due to high price of hotels",
+      "description": "&lt;p&gt;Accommodation costs at climate summit in Belem are pricing out some developing countries and media outlets&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/environment/2025/sep/16/un-tries-to-limit-staff-going-to-cop30-in-brazil-due-to-high-price-of-hotels",
+      "pubDate": "Tue, 16 Sep 2025 16:44:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7144977135e9bf82192951444993eefd08a4e6dc/353_0_4070_3256/master/4070.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=421967e5c0a9c56ad8a6bfe48e5d6731"
+    },
     {
       "title": "‘Green’ diesel producer&#8217;s supplier linked to Amazon deforestation",
       "description": "A U.S. renewable diesel refiner purchased tallow from slaughterhouses supplied by ranches fined for illegal clearing of Brazilian forests....",
@@ -11,7 +29,7 @@
       "image": "https://grist.org/wp-content/uploads/2025/08/eating-earth-michael-grunwald.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "US senators call on big oil to disclose lobbying that led Trump to axe key climate rule",
+      "title": "US senator calls on big oil to disclose lobbying that led Trump to axe key climate rule",
       "description": "&lt;p&gt;Senate committee investigates suspected push that led administration to overturn EPA’s endangerment finding&lt;/p&gt;&lt;p&gt;In the wake of ...",
       "link": "https://www.theguardian.com/us-news/2025/sep/16/senators-big-oil-lobbying-landmark-climate-rule",
       "pubDate": "Tue, 16 Sep 2025 15:00:12 GMT",
@@ -119,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Sydney’s west on frontline for most extreme heat and biggest health risks – but inner city faces water threat",
-      "description": "&lt;p&gt;Western suburbs, where temperatures are often 5C warmer, need shaded bus stops, more green space and better environmental standards in rented...",
-      "link": "https://www.theguardian.com/australia-news/2025/sep/16/climate-sydney-west-suburbs-most-extreme-heat-biggest-health-risks-inner-city-flooding",
-      "pubDate": "Tue, 16 Sep 2025 07:41:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6f3137627eeaa340641292e55c374bf614f34526/0_0_5375_4300/master/5375.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bb8f2273490f847072e8d73c55d1845"
-    },
-    {
       "title": "Australia’s climate risk assessment prompts deluge of misinformation from the usual suspects | Temperature Check",
       "description": "&lt;p&gt;Nationals senator Matt Canavan and Sky presenter Chris Kenny line up to misinterpret and misquote report in effort to press case against net ...",
       "link": "https://www.theguardian.com/australia-news/2025/sep/16/australia-climate-risk-assessment-prompts-misinformation-from-usual-suspects",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Kuwait plans fifteen-fold renewable generation boost, but targets need more time",
-      "description": "By Rystad Energy Kuwait is grappling with relentless heat, aging infrastructure and unplanned power outages, prompting major investments in grid relia...",
-      "link": "https://econews.com.au/67811/kuwait-plans-fifteen-fold-renewable-generation-boost-but-targets-need-more-time/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=kuwait-plans-fifteen-fold-renewable-generation-boost-but-targets-need-more-time",
-      "pubDate": "Tue, 16 Sep 2025 04:02:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Kuwait-1.png"
     }
   ]
 }
