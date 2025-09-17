@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-17T08:32:42.100Z",
+  "lastUpdated": "2025-09-17T09:26:54.750Z",
   "articles": [
+    {
+      "title": "In the Philippines, a New Protected Seascape Safeguards ‘Super Reefs’",
+      "description": "The Philippines has designated more than 200 square miles of its coastal waters as a national protected area to safeguard some of the world’s most cli...",
+      "link": "https://insideclimatenews.org/news/17092025/philippines-protected-super-reefs/",
+      "pubDate": "Wed, 17 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "This new machine churns out carbon-storing biochar on the cheap",
+      "description": "A worker-owned cooperative is deploying PyroTowers to produce biochar, which helps farmers in the developing world improve their yields....",
+      "link": "https://grist.org/climate/this-new-machine-churns-out-carbon-storing-biochar-on-the-cheap/",
+      "pubDate": "Wed, 17 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/biochar-carbon-PyroTower-machine-PlantVillage-.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Defending the Earth is deadly work. A new report illuminates how much.",
       "description": "Nearly 150 land and environment defenders were killed or disappeared last year, most for standing up to mining and logging....",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fearing Retaliation, Scientists Are Struggling to Share Impacts of Federal Cuts",
-      "description": "Since January, the Trump administration has laid off thousands of scientists and staff and cut research funding for those who remain across the federa...",
-      "link": "https://insideclimatenews.org/news/16092025/todays-climate-retaliation-scientists-struggling-federal-cuts-free-speech/",
-      "pubDate": "Tue, 16 Sep 2025 20:00:40 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘It seemed like a ghost town’: LA food vendors on how Trump’s Ice raids affected business",
-      "description": "&lt;p&gt;Business owners explain how summer immigration sweeps have shaken the community and left them ‘vulnerable’&lt;/p&gt;&lt;p&gt;From early morni...",
-      "link": "https://www.theguardian.com/environment/2025/sep/16/los-angeles-trump-ice-immigration-raids",
-      "pubDate": "Tue, 16 Sep 2025 17:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/acd6dbf96b9e201d53b0c7b530659751f3adf77c/250_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de1cddeb4ee2d54daad11f6a7291882"
     }
   ]
 }
