@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-17T07:23:37.192Z",
+  "lastUpdated": "2025-09-17T08:32:42.100Z",
   "articles": [
+    {
+      "title": "Defending the Earth is deadly work. A new report illuminates how much.",
+      "description": "Nearly 150 land and environment defenders were killed or disappeared last year, most for standing up to mining and logging....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/defending-the-earth-is-deadly-work-a-new-report-illuminates-how-much/",
+      "pubDate": "Wed, 17 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Farmworkers face harsh conditions. Now they’re eyeing a pay cut.",
+      "description": "Hard-line immigration policy, climate change, and labor shortages are colliding to create a real problem for U.S. farms....",
+      "link": "https://grist.org/labor/farmworkers-face-harsh-conditions-now-theyre-eyeing-a-pay-cut/",
+      "pubDate": "Wed, 17 Sep 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/nature-words.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Gas stove makers quietly delete air pollution warnings as they fight mandatory health labels",
+      "description": "Manufacturers sued to stop a Colorado law requiring air quality warnings, arguing gas stoves are safe. Some of their websites once said the opposite....",
+      "link": "https://grist.org/accountability/gas-stove-makers-quietly-delete-air-pollution-warnings-as-they-fight-mandatory-health-labels/",
+      "pubDate": "Wed, 17 Sep 2025 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/Colorado-gas-stove-health-warnings-label-lawsuit.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Communities Around the World Find Plastic Pellets in Their Local Waterways",
       "description": "This spring, citizen scientists across the country and the globe participated in the International Plastic Pellet Count, collecting small, usually rou...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/acd6dbf96b9e201d53b0c7b530659751f3adf77c/250_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de1cddeb4ee2d54daad11f6a7291882"
-    },
-    {
-      "title": "UN tries to limit staff going to Cop30 in Brazil due to high price of hotels",
-      "description": "&lt;p&gt;Accommodation costs at climate summit in Belem are pricing out some developing countries and media outlets&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&...",
-      "link": "https://www.theguardian.com/environment/2025/sep/16/un-tries-to-limit-staff-going-to-cop30-in-brazil-due-to-high-price-of-hotels",
-      "pubDate": "Tue, 16 Sep 2025 16:44:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7144977135e9bf82192951444993eefd08a4e6dc/353_0_4070_3256/master/4070.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=421967e5c0a9c56ad8a6bfe48e5d6731"
-    },
-    {
-      "title": "‘Green’ diesel producer&#8217;s supplier linked to Amazon deforestation",
-      "description": "A U.S. renewable diesel refiner purchased tallow from slaughterhouses supplied by ranches fined for illegal clearing of Brazilian forests....",
-      "link": "https://grist.org/accountability/green-diesel-producers-supplier-linked-to-amazon-deforestation/",
-      "pubDate": "Tue, 16 Sep 2025 15:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/eating-earth-michael-grunwald.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "US senator calls on big oil to disclose lobbying that led Trump to axe key climate rule",
-      "description": "&lt;p&gt;Senate committee investigates suspected push that led administration to overturn EPA’s endangerment finding&lt;/p&gt;&lt;p&gt;In the wake of ...",
-      "link": "https://www.theguardian.com/us-news/2025/sep/16/senators-big-oil-lobbying-landmark-climate-rule",
-      "pubDate": "Tue, 16 Sep 2025 15:00:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0900887899ccc9c96368b0f4cfbc7fe2239120e7/1340_0_6713_5369/master/6713.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd7ae342ada38d9d6767430a0b2d9606"
     }
   ]
 }
