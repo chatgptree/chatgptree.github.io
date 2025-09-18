@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-18T12:52:05.128Z",
+  "lastUpdated": "2025-09-18T13:32:09.037Z",
   "articles": [
+    {
+      "title": "Can the Nation’s Most Wind-Powered State Look to Solar?",
+      "description": "Two-thirds of Iowa’s electricity comes from wind turbines that sprout from fields like giant beanstalks. The state’s vast expanses of exposed land—ide...",
+      "link": "https://insideclimatenews.org/news/18092025/inside-clean-energy-iowa-solar-potential/",
+      "pubDate": "Thu, 18 Sep 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Indiana town suffering under the shadow of a BP refinery: ‘They’ve had way too many accidents’",
       "description": "&lt;p&gt;Whiting residents worried after facility, which has had multiple problems, shut down temporarily after rain&lt;/p&gt;&lt;p&gt;It was the bigg...",
@@ -9,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/19d9bc00fd5bb14c23997b0d9953de4f3e26f8b7/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79b92cf7e4ab95e7843827708b8fd6fc"
+    },
+    {
+      "title": "‘Sun day’: US climate activists to rally for clean energy amid Trump attacks",
+      "description": "&lt;p&gt;Some 200 events are planned across the US this Sunday to celebrate growth of solar power and energy efficiency&lt;/p&gt;&lt;p&gt;As the Trump...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/18/sun-day-national-rally-clean-energy",
+      "pubDate": "Thu, 18 Sep 2025 12:00:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fa899e3024f797a5dc1f2f9e3cb26f8e5803eaf0/176_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=511abc976bdb249d28413ee8d90277ae"
     },
     {
       "title": "How Bill Gates is playing both sides of the climate crisis – video",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1f31f50e63b70a140f43b42e8c05c05850291e62/885_73_4033_3226/master/4033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff8d1eb502d83c78fd66e417b4fdd827"
-    },
-    {
-      "title": "Only a third of world’s river basins experienced normal conditions in 2024",
-      "description": "&lt;p&gt;Increasingly erratic water cycle is creating food scarcity, rising prices, conflict and migration, says UN agency&lt;/p&gt;&lt;p&gt;Only a th...",
-      "link": "https://www.theguardian.com/environment/2025/sep/18/climate-crisis-driving-extreme-floods-droughts",
-      "pubDate": "Thu, 18 Sep 2025 06:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/da5f84436a05a4f0827510c3e4f3932dc5b54249/852_0_3740_2992/master/3740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbea8d648c6e8f7eae72eccb78ac3e1f"
-    },
-    {
-      "title": "Australia announces higher emissions cuts by 2035",
-      "description": "The country is one of the world's biggest carbon emitters per capita....",
-      "link": "https://www.bbc.com/news/articles/cvgn6mvvxm3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 18 Sep 2025 05:22:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
