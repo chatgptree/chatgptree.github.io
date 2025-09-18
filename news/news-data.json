@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-18T15:27:01.665Z",
+  "lastUpdated": "2025-09-18T16:31:06.622Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The science, engineering and maths behind Armand Duplantis’s latest world record....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002jfck?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 18 Sep 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Scientists pinpoint the brain's internal mileage clock",
       "description": "They located this key area of function by recording the brain activity of running rats....",
@@ -48,7 +57,7 @@
     },
     {
       "title": "‘Sun day’: US climate activists to rally for clean energy amid Trump attacks",
-      "description": "&lt;p&gt;Some 200 events are planned across the US this Sunday to celebrate growth of solar power and energy efficiency&lt;/p&gt;&lt;p&gt;As the Trump...",
+      "description": "&lt;p&gt;Some 450 events are planned across the US this Sunday to celebrate growth of solar power and energy efficiency&lt;/p&gt;&lt;p&gt;As the Trump...",
       "link": "https://www.theguardian.com/us-news/2025/sep/18/sun-day-national-rally-clean-energy",
       "pubDate": "Thu, 18 Sep 2025 12:00:14 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How climate change is fueling your sugar addiction",
-      "description": "Rising temperatures are feeding America's sweet tooth — and creating a new public health challenge in the process....",
-      "link": "https://grist.org/food-and-agriculture/how-climate-change-is-fueling-your-sugar-addiction/",
-      "pubDate": "Thu, 18 Sep 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/06/GettyImages-2221931057.jpg?quality=75&#038;strip=all"
     }
   ]
 }
