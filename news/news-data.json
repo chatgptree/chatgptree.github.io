@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-09-18T14:25:32.754Z",
+  "lastUpdated": "2025-09-18T15:27:01.665Z",
   "articles": [
+    {
+      "title": "Scientists pinpoint the brain's internal mileage clock",
+      "description": "They located this key area of function by recording the brain activity of running rats....",
+      "link": "https://www.bbc.com/news/articles/crkjn6r7j23o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 18 Sep 2025 15:10:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Powerful owls’ grisly crime scenes in urban parkland remind us we share suburbia with a magnificent predator",
+      "description": "&lt;p&gt;The magnificent apex predator of the night, forced out of forests into urban landscapes, now confronts yet another silent killer: rat poison&...",
+      "link": "https://www.theguardian.com/environment/2025/sep/19/australian-bird-of-the-year-2025-powerful-owls-magnificent-apex-predator-grisly-scenes-suburbia",
+      "pubDate": "Thu, 18 Sep 2025 15:00:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/059d4abcb1180253a44c3d4798f1e83896c55ef9/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7e9c1aa37ea0770902568524f471b50"
+    },
+    {
+      "title": "Smoke From Wildfires Caused by Climate Change Will Fuel Many More Premature Deaths in the U.S., a New Study Warns",
+      "description": "Smoke from wildfires exacerbated by climate change may cause as many as 71,000 additional deaths per year in the United States by 2050, a study publis...",
+      "link": "https://insideclimatenews.org/news/18092025/wildfire-smoke-premature-deaths/",
+      "pubDate": "Thu, 18 Sep 2025 15:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildfire smoke could soon kill 71,000 Americans every year",
+      "description": "The haze may already kill 40,000 people in the U.S. each year — the same number who die in traffic crashes. Climate change will only make matters wors...",
+      "link": "https://grist.org/health/wildfire-smoke-could-soon-kill-71000-americans-every-year/",
+      "pubDate": "Thu, 18 Sep 2025 15:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Can the Nation’s Most Wind-Powered State Look to Solar?",
       "description": "Two-thirds of Iowa’s electricity comes from wind turbines that sprout from fields like giant beanstalks. The state’s vast expanses of exposed land—ide...",
@@ -11,15 +47,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "The Indiana town suffering under the shadow of a BP refinery: ‘They’ve had way too many accidents’",
-      "description": "&lt;p&gt;Whiting residents worried after facility, which has had multiple problems, shut down temporarily after rain&lt;/p&gt;&lt;p&gt;It was the bigg...",
-      "link": "https://www.theguardian.com/us-news/2025/sep/18/whiting-indiana-bp-refinery",
-      "pubDate": "Thu, 18 Sep 2025 12:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/19d9bc00fd5bb14c23997b0d9953de4f3e26f8b7/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79b92cf7e4ab95e7843827708b8fd6fc"
-    },
-    {
       "title": "‘Sun day’: US climate activists to rally for clean energy amid Trump attacks",
       "description": "&lt;p&gt;Some 200 events are planned across the US this Sunday to celebrate growth of solar power and energy efficiency&lt;/p&gt;&lt;p&gt;As the Trump...",
       "link": "https://www.theguardian.com/us-news/2025/sep/18/sun-day-national-rally-clean-energy",
@@ -27,6 +54,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fa899e3024f797a5dc1f2f9e3cb26f8e5803eaf0/176_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=511abc976bdb249d28413ee8d90277ae"
+    },
+    {
+      "title": "The Indiana town suffering under the shadow of a BP refinery: ‘They’ve had way too many accidents’",
+      "description": "&lt;p&gt;Whiting residents worried after facility, which has had multiple problems, shut down temporarily after rain&lt;/p&gt;&lt;p&gt;It was the bigg...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/18/whiting-indiana-bp-refinery",
+      "pubDate": "Thu, 18 Sep 2025 12:00:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/19d9bc00fd5bb14c23997b0d9953de4f3e26f8b7/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79b92cf7e4ab95e7843827708b8fd6fc"
     },
     {
       "title": "How Bill Gates is playing both sides of the climate crisis – video",
@@ -144,42 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/06/GettyImages-2221931057.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The island that banned hives: can honeybees actually harm nature?",
-      "description": "&lt;p&gt;On a tiny Italian island, scientists conducted a radical experiment to see if the bees were causing their wild cousins to decline&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/environment/2025/sep/18/hives-honeybee-boom-tuscan-island-italy-aoe",
-      "pubDate": "Thu, 18 Sep 2025 08:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e590b873525b792ebee49ababd1518a8895ea0bd/541_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32a582663b759731d4cd5056b1b81f1d"
-    },
-    {
-      "title": "Whale and her calf entangled in shark net off Queensland coast",
-      "description": "&lt;p&gt;‘Heartbreaking’ drone footage has captured the moment a mother and calf became trapped. Four humpbacks have been snared in recent days&lt;/p&...",
-      "link": "https://www.theguardian.com/environment/2025/sep/18/whale-and-calf-entangled-in-shark-net-off-queensland-australia",
-      "pubDate": "Thu, 18 Sep 2025 07:41:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1bcc64a2e53f0de4ed7f49f66696251dd823fb27/237_0_1330_1064/master/1330.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3c591168d0c3e5ca53f02ca77f31ae3"
-    },
-    {
-      "title": "Bowen says cutting emissions by more than 70% ‘not achievable’ as 2035 target criticised from all sides",
-      "description": "&lt;p&gt;Albanese says 62% to 70% range represents ‘the sweet spot’ as Coalition rejects ‘economy wrecking’ target while Greens label it a ‘betrayal’ ...",
-      "link": "https://www.theguardian.com/australia-news/2025/sep/18/albanese-unveils-responsible-new-climate-target-to-slash-emissions-over-next-decade",
-      "pubDate": "Thu, 18 Sep 2025 07:35:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5e25e7238edcdd3aecb470287520b3a687eeb9d5/1752_1029_2213_1771/master/2213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d1d61c59facaae03cd8e89a7e665ba4"
-    },
-    {
-      "title": "‘It’s not just our houses’: can a Scottish village save Queen Elizabeth’s coastal path from the waves?",
-      "description": "&lt;p&gt;The people of Johnshaven have watched the sea edge closer and closer. Preserving the path is key to protecting their community&lt;/p&gt;&lt;u...",
-      "link": "https://www.theguardian.com/environment/2025/sep/18/sea-scottish-village-erosion-johnshaven-coastal-path-homes",
-      "pubDate": "Thu, 18 Sep 2025 06:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1f31f50e63b70a140f43b42e8c05c05850291e62/885_73_4033_3226/master/4033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff8d1eb502d83c78fd66e417b4fdd827"
     }
   ]
 }
