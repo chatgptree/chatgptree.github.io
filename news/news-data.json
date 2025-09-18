@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-18T08:32:26.157Z",
+  "lastUpdated": "2025-09-18T09:26:29.870Z",
   "articles": [
+    {
+      "title": "Dominion’s Proposed Peaker Plant Flouts Environmental Justice, Community Says",
+      "description": "CHESTER, Va.—For the first 60 years Duane Brankley lived here, about a mile and a half from a coal plant owned by Dominion Energy, coal ash coated the...",
+      "link": "https://insideclimatenews.org/news/18092025/dominion-proposed-peaker-plant-virginia/",
+      "pubDate": "Thu, 18 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Plans Bloom for a Microforest in Princeton as New Jersey Residents Tackle Rising Heat",
+      "description": "PRINCETON, N.J.—For years, it’s been just a patch of grass in the middle of a small park. Soon the ground will be a botanical marvel of sorts, tilled ...",
+      "link": "https://insideclimatenews.org/news/18092025/princeton-new-jersey-microforest/",
+      "pubDate": "Thu, 18 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The politics of renewables are getting stranger. ‘Sun Day’ celebrates them anyway.",
+      "description": "The national day of action arrives at a time when clean energy is becoming more polarized....",
+      "link": "https://grist.org/culture/sun-day-strange-politics-renewable-energy-2025/",
+      "pubDate": "Thu, 18 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/Carter-solar-panels-1979.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Trump axes climate reporting program, ignoring international courts and frontline communities",
       "description": "“There is an international responsibility here, even if the U.S. still tries to deny that there is one.\"...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "This new machine churns out carbon-storing biochar on the cheap",
-      "description": "A worker-owned cooperative is deploying PyroTowers to produce biochar, which helps farmers in the developing world improve their yields....",
-      "link": "https://grist.org/climate/this-new-machine-churns-out-carbon-storing-biochar-on-the-cheap/",
-      "pubDate": "Wed, 17 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/biochar-carbon-PyroTower-machine-PlantVillage-.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Defending the Earth is deadly work. A new report illuminates how much.",
-      "description": "Nearly 150 land and environment defenders were killed or disappeared last year, most for standing up to mining and logging....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/defending-the-earth-is-deadly-work-a-new-report-illuminates-how-much/",
-      "pubDate": "Wed, 17 Sep 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Farmworkers already face harsh conditions. Now they may have to deal with a pay cut.",
-      "description": "Hard-line immigration policy, climate change, and labor shortages are colliding to create a real problem for U.S. farms....",
-      "link": "https://grist.org/labor/farmworkers-face-harsh-conditions-now-theyre-eyeing-a-pay-cut/",
-      "pubDate": "Wed, 17 Sep 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/nature-words.jpg?quality=75&#038;strip=all"
     }
   ]
 }
