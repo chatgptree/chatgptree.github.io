@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T06:36:50.537Z",
+  "lastUpdated": "2025-09-18T07:23:36.252Z",
   "articles": [
     {
       "title": "‘It’s not just our houses’: can a Scottish village save Queen Elizabeth’s coastal path from the waves?",
@@ -18,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/da5f84436a05a4f0827510c3e4f3932dc5b54249/852_0_3740_2992/master/3740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbea8d648c6e8f7eae72eccb78ac3e1f"
+    },
+    {
+      "title": "Australia announces higher emissions cuts by 2035",
+      "description": "The country is one of the world's biggest carbon emitters per capita....",
+      "link": "https://www.bbc.com/news/articles/cvgn6mvvxm3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 18 Sep 2025 05:22:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Australian government announces 2035 emissions reduction target – video",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Sharesies_media_phone_invest_3x2--1024x683.jpg"
-    },
-    {
-      "title": "Chinese Miners Accused of Gold Pillage, Environmental Destruction in DRC",
-      "description": "Planet China: Seventh in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. Chinese miners ar...",
-      "link": "https://insideclimatenews.org/news/17092025/china-gold-mining-drc-environmental-destruction/",
-      "pubDate": "Wed, 17 Sep 2025 06:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
