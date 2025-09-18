@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-18T17:21:45.347Z",
+  "lastUpdated": "2025-09-18T18:36:10.265Z",
   "articles": [
+    {
+      "title": "Musk's fellowship of Royal Society in doubt after rally address",
+      "description": "The world's most prestigious scientific body raised concerns about the \"language of violence\" at the march....",
+      "link": "https://www.bbc.com/news/articles/cly08l9vlpyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 18 Sep 2025 17:30:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "The science, engineering and maths behind Armand Duplantis’s latest world record....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/Carter-solar-panels-1979.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Trump axes climate reporting program, ignoring international courts and frontline communities",
-      "description": "“There is an international responsibility here, even if the U.S. still tries to deny that there is one.\"...",
-      "link": "https://grist.org/international/trump-axes-climate-reporting-program-ignoring-international-courts-and-front-line-communities/",
-      "pubDate": "Thu, 18 Sep 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
