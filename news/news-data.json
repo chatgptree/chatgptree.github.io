@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-09-22T11:21:24.178Z",
+  "lastUpdated": "2025-09-22T12:54:19.710Z",
   "articles": [
     {
       "title": "Gatwick second runway plan approved by transport secretary",
       "description": "There has been strong opposition against the airport wanting to use its northern runway....",
       "link": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 22 Sep 2025 10:48:07 GMT",
+      "pubDate": "Mon, 22 Sep 2025 12:32:16 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate activists gather in New York for ‘Sun Day’ solar energy and anti-billionaire rallies",
+      "description": "&lt;p&gt;Sun Day national action supported renewable energy, day after ‘Make Billionaires Pay’ march ahead of Climate Week&lt;/p&gt;&lt;p&gt;Hundreds ...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/22/sun-day-climate-new-york",
+      "pubDate": "Mon, 22 Sep 2025 11:34:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f1d71054d057f5e482367ccf359dae619d853207/604_2_4225_3380/master/4225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4e22988a0fe9e0afabde8bfda5794c0"
     },
     {
       "title": "Whose tide is highest? Canadian towns battle it out over Guinness World Record title",
@@ -168,15 +177,6 @@
       "description": "After the Fires: Third in a series about health risks following the Los Angeles wildfires that destroyed Pacific Palisades and Altadena. This story wa...",
       "link": "https://insideclimatenews.org/news/21092025/la-wildfire-smoke-deadly-nanoparticles/",
       "pubDate": "Sun, 21 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Dust Storms Surprise the Midwest and Raise Worries About Climate Risks",
-      "description": "Dust storms have always swirled through parts of North America, but they are becoming more unexpected and destructive and landing in places unfamiliar...",
-      "link": "https://insideclimatenews.org/news/21092025/midwest-dust-storms-climate-change/",
-      "pubDate": "Sun, 21 Sep 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
