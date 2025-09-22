@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-09-22T09:30:21.725Z",
+  "lastUpdated": "2025-09-22T10:28:56.875Z",
   "articles": [
     {
       "title": "Gatwick second runway plan approved by transport secretary",
       "description": "There has been strong opposition against the airport wanting to use its northern runway....",
       "link": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 22 Sep 2025 09:05:44 GMT",
+      "pubDate": "Mon, 22 Sep 2025 10:24:49 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Tied tides? Canadian towns battle it out over tidal world record",
+      "description": "&lt;p&gt;For years Nova Scotia’s Burntcoat Head Park claimed the highest tides, but now a challenger from the far north is seeking the title&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/environment/2025/sep/22/canada-towns-slug-it-out-over-whose-tide-is-highest-burntcoat-head-park-bay-of-fundy-nunavik-tasiujaq-leaf-basin-ungava",
+      "pubDate": "Mon, 22 Sep 2025 10:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7a42625dab729acd486415e7a4e0b227d88dea34/0_0_1001_801/master/1001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94e4731936769bbba6eb5d8114ce0733"
     },
     {
       "title": "Pennsylvania Was Once a National Leader in Renewable Energy. What Happened?",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Canavan claims Coalition ‘on the cusp’ of abandoning net zero as Ley urged to follow Dutton’s voice referendum tactics",
-      "description": "&lt;p&gt;Queensland Nationals senator tells Cpac conference ‘last rites being administered’ and praises Andrew Hastie for threat to quit frontbench ov...",
-      "link": "https://www.theguardian.com/environment/2025/sep/21/canavan-claims-coalition-on-the-cusp-of-abandoning-net-zero-as-ley-urged-to-follow-duttons-voice-referendum-tactics",
-      "pubDate": "Sun, 21 Sep 2025 04:05:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1e6a3ef1d7f15ce6ee00818db33a407666945e7e/454_0_1740_1393/master/1740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc045ca04203ba33f58b09659227e819"
     }
   ]
 }
