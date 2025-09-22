@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-22T15:27:08.965Z",
+  "lastUpdated": "2025-09-22T16:32:34.838Z",
   "articles": [
+    {
+      "title": "‘A heavy burden’: Belém residents evicted in rush for profits from Cop30 rentals",
+      "description": "&lt;p&gt;As the Brazilian city prepares to host 50,000 delegates, local people are being pushed from their homes&lt;/p&gt;&lt;p&gt;The two-bedroom apa...",
+      "link": "https://www.theguardian.com/environment/2025/sep/22/belem-residents-evicted-to-make-way-for-cop30-rentals",
+      "pubDate": "Mon, 22 Sep 2025 15:50:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1f473573ca02ae44edfa20e0a2da0e00b35a8fd5/457_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=448208993e47945349f11b9d645f359c"
+    },
     {
       "title": "Gatwick second runway plan approved by transport secretary",
       "description": "There has been strong opposition against the airport wanting to use its northern runway....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/Willy-and-Eric-1296x864-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Fracking’s Broken Promise to Pennsylvania",
-      "description": "First in a series about rising electricity prices in Pennsylvania. In 2013, when the Appalachian fracking rush was still in its early days, then Presi...",
-      "link": "https://insideclimatenews.org/news/21092025/pennsylvania-gas-fracking-electric-bills/",
-      "pubDate": "Sun, 21 Sep 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
