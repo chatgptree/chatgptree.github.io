@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2025-09-22T08:35:03.904Z",
+  "lastUpdated": "2025-09-22T09:30:21.725Z",
   "articles": [
     {
       "title": "Gatwick second runway plan approved by transport secretary",
       "description": "There has been strong opposition against the airport wanting to use its northern runway....",
       "link": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 22 Sep 2025 07:50:09 GMT",
+      "pubDate": "Mon, 22 Sep 2025 09:05:44 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Pennsylvania Was Once a National Leader in Renewable Energy. What Happened?",
+      "description": "Second in a series about rising electricity prices in Pennsylvania. Read the first story here. PHILADELPHIA—In the steep hills above the Schuylkill Ri...",
+      "link": "https://insideclimatenews.org/news/22092025/pennsylvania-derailed-renewable-energy-transition/",
+      "pubDate": "Mon, 22 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Is AI Throwing Climate Change Under the Bus?",
+      "description": "Spoiler alert: Yes, AI is bad for the climate. AI’s computing power relies on massive data centers that use enormous amounts of electricity and water....",
+      "link": "https://insideclimatenews.org/news/22092025/inside-climate-talks-ai-data-centers-energy/",
+      "pubDate": "Mon, 22 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The people behind America&#8217;s disaster recovery",
+      "description": "From cleanup crews to powerline techs, these are the workers called in after catastrophe.\n...",
+      "link": "https://grist.org/labor/the-people-behind-americas-disaster-recovery/",
+      "pubDate": "Mon, 22 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-2193397344.jpg?quality=75&amp;strip=all"
     },
     {
       "title": "Leopard sharks mating in the wild captured on camera for first time – video",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1e6a3ef1d7f15ce6ee00818db33a407666945e7e/454_0_1740_1393/master/1740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc045ca04203ba33f58b09659227e819"
-    },
-    {
-      "title": "DSCC REACTION:  LANDMARK HIGH SEAS TREATY SET TO BECOME INTERNATIONAL LAW – DEEP SEA PROTECTION MUST FOLLOW",
-      "description": "Friday marked a major victory for global ocean protection: the High Seas Treaty, also known as the Biodiversity Beyond National Jurisdiction (BBNJ) Ag...",
-      "link": "https://econews.com.au/67864/dscc-reaction-landmark-high-seas-treaty-set-to-become-international-law-deep-sea-protection-must-follow/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dscc-reaction-landmark-high-seas-treaty-set-to-become-international-law-deep-sea-protection-must-follow",
-      "pubDate": "Sun, 21 Sep 2025 03:02:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/deepsea-logo.jpg"
-    },
-    {
-      "title": "Trump DOJ seeks to kill Vermont law that makes Big Oil pay for climate harm",
-      "description": "The Justice Department asked a judge to shut down the \"Superfund\" law that requires major polluters to pay for carbon emissions....",
-      "link": "https://grist.org/politics/trump-doj-seeks-to-kill-vermont-law-that-makes-big-oil-pay-for-climate-harm/",
-      "pubDate": "Sat, 20 Sep 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/americans-prosperity-6-20250812-e1756312856472.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "This Town Was One of the First in the Nation to Install a Geothermal Network. Now Others Are Warming Up to the Idea.",
-      "description": "WEST UNION, Iowa—From the billboard on the edge of town to the limestone monument on Vine Street, the signs are hard to miss: “West Union, Deeply Conn...",
-      "link": "https://insideclimatenews.org/news/20092025/west-union-geothermal-energy-network/",
-      "pubDate": "Sat, 20 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
