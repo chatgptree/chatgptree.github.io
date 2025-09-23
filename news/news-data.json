@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T07:24:53.963Z",
+  "lastUpdated": "2025-09-23T08:33:23.163Z",
   "articles": [
     {
       "title": "Global investment in renewable energy up 10% on 2024 despite Trump rollback",
@@ -137,20 +137,20 @@
       "image": "https://i.guim.co.uk/img/media/1f473573ca02ae44edfa20e0a2da0e00b35a8fd5/457_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=448208993e47945349f11b9d645f359c"
     },
     {
-      "title": "Gatwick second runway plan approved by transport secretary",
-      "description": "There has been strong opposition against the airport wanting to use its northern runway....",
-      "link": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 22 Sep 2025 15:17:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Chinese Mining Firm Downplays Toxic Waste Spill as Residents Reel From Impacts",
       "description": "Planet China: Eighth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world.&#160; A Chinese mi...",
       "link": "https://insideclimatenews.org/news/22092025/chinese-mining-firm-downplays-toxic-waste-spill-in-zambia/",
       "pubDate": "Mon, 22 Sep 2025 14:55:52 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can the UK expand airports and still hit climate targets?",
+      "description": "Plans for the expansion of Gatwick, Heathrow and Luton could mean hundreds of thousands of additional flights a year.  ...",
+      "link": "https://www.bbc.com/news/articles/cx2jpn881w0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 22 Sep 2025 13:36:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
