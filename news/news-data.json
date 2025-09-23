@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-22T23:21:57.833Z",
+  "lastUpdated": "2025-09-23T01:54:39.507Z",
   "articles": [
+    {
+      "title": "Eat salmon, win prizes: Fat Bear Week begins in Alaska’s Katmai national park",
+      "description": "&lt;p&gt;Fattest brown bears, bulking up for hibernation, pitted against each other in online public vote – who will win?&lt;/p&gt;&lt;p&gt;It’s that ...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/22/fat-bear-week-alaska-katmai-national-park",
+      "pubDate": "Tue, 23 Sep 2025 00:20:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ca82b18a6be1298cc3d6908cf5bb390b511b1da0/64_0_1919_1536/master/1919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f0008d4d7af23cee584753c96304466"
+    },
+    {
+      "title": "Chicago Has Hundreds of Thousands of Toxic Lead Pipes—and Millions of Unspent Dollars to Replace Them",
+      "description": "This story is a partnership between Inside Climate News, Grist and WBEZ, a public radio station serving the Chicago metropolitan region. CHICAGO—No U....",
+      "link": "https://insideclimatenews.org/news/22092025/chicago-has-hundreds-of-thousands-of-toxic-lead-pipes-and-millions-of-unspent-dollars-to-replace-them/",
+      "pubDate": "Tue, 23 Sep 2025 00:10:07 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Citing the Need for ‘Significant Reform,’ Pennsylvania’s Governor Threatens to Pull the State Out of the Region’s Power Grid",
+      "description": "PHILADELPHIA—Ninety-eight years ago, the nation’s largest power grid operator was founded here by utilities serving Pennsylvania and New Jersey. On Mo...",
+      "link": "https://insideclimatenews.org/news/22092025/pennsylvania-governor-threatens-to-leave-region-power-grid/",
+      "pubDate": "Mon, 22 Sep 2025 23:27:04 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Senate Democrats Blame Trump’s Assault on Clean Energy for High Electricity Prices",
       "description": "With U.S. households paying 10 percent more per kilowatt hour for electricity than they did at the start of this year, Senate Democrats sought Monday ...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Canon Oceania’s 2025 Grants Program winners tackle social, community challenges",
-      "description": "Image: (L-R Top) Medical Pantry, Cockburn Integrated Health (L-R Bottom) Ambulance Wish WA, Farrer Primary School   Canon Oceania has today announced ...",
-      "link": "https://econews.com.au/67868/canon-oceanias-2025-grants-program-winners-tackle-social-community-challenges/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=canon-oceanias-2025-grants-program-winners-tackle-social-community-challenges",
-      "pubDate": "Mon, 22 Sep 2025 03:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Pacific Green achieves planning permit for 1GW / 2.5GWh Portland Energy Park",
-      "description": "Pacific Green’s Portland Energy Park Key facts: – Pacific Green, a global battery energy storage company, has secured  planning permit from the Victor...",
-      "link": "https://econews.com.au/67866/pacific-green-achieves-planning-permit-for-1gw-2-5gwh-portland-energy-park/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pacific-green-achieves-planning-permit-for-1gw-2-5gwh-portland-energy-park",
-      "pubDate": "Mon, 22 Sep 2025 03:02:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/unnamed-30.jpg"
-    },
-    {
-      "title": "‘A Really Monumental Day’ for Chicago River: Clean Enough for Hundreds to Swim In",
-      "description": "More than 250 swimmers jumped into the Chicago River on Sunday morning, marking the first open-river swim in the once-polluted urban waterway in nearl...",
-      "link": "https://insideclimatenews.org/news/21092025/a-really-monumental-day-for-chicago-river-clean-enough-for-hundreds-to-swim-in/",
-      "pubDate": "Sun, 21 Sep 2025 21:08:31 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
