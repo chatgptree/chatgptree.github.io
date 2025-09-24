@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-09-24T08:34:14.741Z",
+  "lastUpdated": "2025-09-24T09:27:15.751Z",
   "articles": [
+    {
+      "title": "How Much Water and Energy do Data Centers Consume? A New Jersey Bill Demands Answers.",
+      "description": "A bill awaiting the signature of New Jersey Gov. Phil Murphy could reshape the relationship between the state and one of the fastest-growing industrie...",
+      "link": "https://insideclimatenews.org/news/24092025/new-jersey-data-center-water-energy-consumption-bill/",
+      "pubDate": "Wed, 24 Sep 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Could These ‘Deepfake’ Whales Aid Conservation Efforts?",
+      "description": "It’s a hyper-modern problem on social media: A video or image of an animal doing something seemingly unbelievable in the wild pops up on your feed, on...",
+      "link": "https://insideclimatenews.org/news/24092025/deepfake-ai-whales-conservation-efforts/",
+      "pubDate": "Wed, 24 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can Pollution From Industrial Animal Agriculture Be Controlled?",
+      "description": "Most of the meat we eat in the United States isn’t raised on small farms or fenced fields, as it was decades ago. Today it comes from large concentrat...",
+      "link": "https://insideclimatenews.org/news/24092025/inside-climate-talks-industrial-animal-agriculture-pollution/",
+      "pubDate": "Wed, 24 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump raised $8 million for Hurricane Helene survivors. Where did it all go?",
+      "description": "The presidential campaign bad-mouthed FEMA while using crowdfunding to donate to evangelical nonprofits....",
+      "link": "https://grist.org/accountability/trump-raised-8-million-for-helene-survivors-where-did-it-all-go/",
+      "pubDate": "Wed, 24 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-2180061520_Trump-in-Swannanoa-North-Carolina-Helene.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "How to track disaster spending in your community",
+      "description": "As rising global temperatures fuel more intense weather, and disaster recovery budgets skyrocket, this accountability work has never been more importa...",
+      "link": "https://grist.org/accountability/how-to-track-disaster-spending-in-your-community/",
+      "pubDate": "Wed, 24 Sep 2025 08:40:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The &#8216;Green Revolution&#8217; transformed global agriculture. Now it&#8217;s adapting to climate change.",
       "description": "The same techniques that fed the exploding global population of the twentieth century are being used to adapt agriculture to one of the most serious t...",
@@ -135,51 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "I’ve always admired the magpie for its beauty and spite – so much so I got one tattooed on my arm | Patrick Lenton",
-      "description": "&lt;p&gt;I love their monochromatic beauty, I adore the sound of their warble, and above all I relate to their commitment to revenge&lt;/p&gt;&lt;ul&g...",
-      "link": "https://www.theguardian.com/environment/commentisfree/2025/sep/24/ive-always-admired-the-magpie-for-its-beauty-and-spite-so-much-so-i-got-one-tattooed-on-my-arm",
-      "pubDate": "Tue, 23 Sep 2025 15:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cbb2795b32f488540dbe45950f7efeb631aea298/280_0_2165_1733/master/2165.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4028d108864182b2f60f3f8d5f3d83ea"
-    },
-    {
-      "title": "Coalition MPs say Australia’s emissions are a fraction of the world’s total. What kind of argument is that?",
-      "description": "&lt;p&gt;Australia’s emissions are only about 1.1% of the global total. But it is scientifically wrong to say half a billion tonnes of CO&lt;sub&gt;2&...",
-      "link": "https://www.theguardian.com/environment/2025/sep/24/coalition-mps-say-australias-emissions-are-a-fraction-of-the-worlds-total-what-kind-of-argument-is-that",
-      "pubDate": "Tue, 23 Sep 2025 15:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9dba62a99ab10b18a19eb469bf517d8bc7b38ec6/392_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17b0cc6b48a08d341f0a8a81be549670"
-    },
-    {
-      "title": "Used EVs have never been cheaper. But are they a good deal?",
-      "description": "The price gap between used electric and gas cars is now just $900 — that's the lowest ever....",
-      "link": "https://grist.org/economics/used-evs-have-never-been-cheaper-but-are-they-a-good-deal/",
-      "pubDate": "Tue, 23 Sep 2025 14:30:19 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/02/GettyImages-80252289-1.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Wild bird numbers continue to fall in UK with some species in ‘dramatic freefall’",
-      "description": "&lt;p&gt;Species index fell by 4% between 2019 and 2024 – although data shows woodland populations beginning to stabilise&lt;/p&gt;&lt;p&gt;Wild bird ...",
-      "link": "https://www.theguardian.com/environment/2025/sep/23/wild-bird-numbers-continue-to-fall-in-uk-with-some-species-in-dramatic-freefall",
-      "pubDate": "Tue, 23 Sep 2025 12:20:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8d90ef901d865ddba7d56bec10c89351b89c5ae2/208_0_2064_1650/master/2064.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee9b879412ff040ce01077bd9e714077"
-    },
-    {
-      "title": "‘Families are dying’: an Ohio town suffering from fallout years after nuclear plant’s closure",
-      "description": "&lt;p&gt;As Trump calls for more nuclear power, Piketon, the site of an enrichment facility, knows first hand its ill effects&lt;/p&gt;&lt;p&gt;Three ...",
-      "link": "https://www.theguardian.com/us-news/2025/sep/23/ohio-piketon-nuclear-enrichment-facility-health",
-      "pubDate": "Tue, 23 Sep 2025 12:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c0891c77ac02fe38cb43d95b7fea3dc1c317a112/218_0_1457_1166/master/1457.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2eddf4e7cdd6b1c8ceca2a16f444f4f"
     }
   ]
 }
