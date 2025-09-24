@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-24T15:26:37.528Z",
+  "lastUpdated": "2025-09-24T16:32:49.418Z",
   "articles": [
+    {
+      "title": "All you need to know about the diverse astronaut crew heading to the Moon",
+      "description": "Astronauts of Nasa's first crewed mission to the Moon for more than 50 years hope their journey inspires a new generation....",
+      "link": "https://www.bbc.com/news/articles/cvg0kv8rq0xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 24 Sep 2025 16:20:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "World’s oceans fail key health check as acidity crosses critical threshold for marine life",
+      "description": "&lt;p&gt;Scientists call for renewed global effort to curb fossil fuels as seven of nine planetary boundaries now transgressed&lt;/p&gt;&lt;p&gt;The w...",
+      "link": "https://www.theguardian.com/environment/2025/sep/24/worlds-oceans-fail-key-health-check-as-acidity-crosses-critical-threshold-for-marine-life",
+      "pubDate": "Wed, 24 Sep 2025 16:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a025f5acd673827d213b81e26bb04b60baa182fc/344_0_3446_2757/master/3446.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc9d30e16b865ebb96f0262e0fb87abc"
+    },
+    {
+      "title": "The oceans just hit an ominous milestone",
+      "description": "A new report sounds the alarm on ocean acidification as Earth breaches the seventh of nine \"planetary boundaries.\"...",
+      "link": "https://grist.org/climate/the-oceans-just-hit-an-ominous-milestone/",
+      "pubDate": "Wed, 24 Sep 2025 16:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/boundary.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Plant that mimics odour of half-eaten ants to attract pollinators discovered",
       "description": "&lt;p&gt;Botanist says new Japanese species of dogbane is first evidence of plants copying ants&lt;/p&gt;&lt;p&gt;It’s a stark demonstration of nature...",
@@ -80,7 +107,7 @@
       "pubDate": "Wed, 24 Sep 2025 08:40:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/07/icon-pdf.png"
     },
     {
       "title": "The &#8216;Green Revolution&#8217; transformed global agriculture. Now it&#8217;s adapting to climate change.",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Chalmers-logo.png"
-    },
-    {
-      "title": "Almost 1.5m homes could be built on brownfield sites in England, report finds",
-      "description": "&lt;p&gt;Exclusive: CPRE study suggests housebuilding targets can be met without encroaching on green belt land&lt;/p&gt;&lt;p&gt;Almost 1.5m new home...",
-      "link": "https://www.theguardian.com/society/2025/sep/24/almost-15m-homes-could-be-built-on-brownfield-sites-in-england-report-finds",
-      "pubDate": "Wed, 24 Sep 2025 05:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/91a0115c656c37221e9e309be783970b5f543349/456_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3938618def7482ff94685712afe7cb59"
-    },
-    {
-      "title": "‘You don’t get to aim big when you are somewhere small’: A teenager’s fight to end single use plastics on her Scottish island",
-      "description": "&lt;p&gt;Groundswell of support for ban propels campaign of Tabby Fletcher, 17, from her island home on Jura to parliament&lt;/p&gt;&lt;p&gt;Tabby Fle...",
-      "link": "https://www.theguardian.com/environment/2025/sep/24/single-use-plastics-ban-tabby-fletcher-jura-petition-scottish-parliament-msp",
-      "pubDate": "Wed, 24 Sep 2025 05:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2f234af143b036a44acd70fb7e05c91feb8d0157/795_584_2684_2148/master/2684.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37a0d001c2d32cfee1229f47a0a2bfbb"
-    },
-    {
-      "title": "Trump Takes His ‘Green Energy Scam’ Talk to the UN",
-      "description": "In a rambling address Tuesday, President Donald Trump told the United Nations General Assembly that the international organization has failed on a ran...",
-      "link": "https://insideclimatenews.org/news/23092025/trump-criticizes-renewable-energy-to-united-nations/",
-      "pubDate": "Tue, 23 Sep 2025 19:16:37 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
