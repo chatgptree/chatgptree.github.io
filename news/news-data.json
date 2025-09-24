@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-24T09:27:15.751Z",
+  "lastUpdated": "2025-09-24T10:26:51.705Z",
   "articles": [
+    {
+      "title": "How Trump’s assault on US wind industry threatens jobs and power for nearly 5m homes",
+      "description": "&lt;p&gt;US president’s offshore wind crackdown targets nine projects, threatening jobs, homes and the clean energy transition&lt;/p&gt;&lt;p&gt;&lt;a...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/24/trump-wind-power-threats-homes",
+      "pubDate": "Wed, 24 Sep 2025 10:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/35b06669aa51187e4cb1eb6504fa6d355bceb509/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fea404b4a1658d368a1adf534fe3b75b"
+    },
+    {
+      "title": "Fossil fuel burning poses threat to health of 1.6bn people, data shows",
+      "description": "&lt;p&gt;New interactive map tracking PM2.5 air pollution reveals 900m people in path of ‘super-emitting’ industrial facilities&lt;/p&gt;&lt;p&gt;Foss...",
+      "link": "https://www.theguardian.com/environment/2025/sep/24/fossil-fuel-burning-threat-health-16bn-people-data-shows",
+      "pubDate": "Wed, 24 Sep 2025 10:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d2568ad0eaaf4cd58c4a997db09e5ab51f448630/293_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3be81826879d29d232d408cb81fd9d2"
+    },
     {
       "title": "How Much Water and Energy do Data Centers Consume? A New Jersey Bill Demands Answers.",
       "description": "A bill awaiting the signature of New Jersey Gov. Phil Murphy could reshape the relationship between the state and one of the fastest-growing industrie...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/LEADCOUNCIL-092325-14.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Extreme weather and extreme politics go hand in hand – Trump and Musk are pushing both",
-      "description": "&lt;p&gt;Rabble-rousing of far-right demagogues is a reminder that the battle for a fair and habitable planet cannot be fought alone&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2025/sep/23/billionaires-musk-divide-distract-humanity-come-together-resist",
-      "pubDate": "Tue, 23 Sep 2025 15:44:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7a5cb2923f9979b15b444f52d8ec106c4e7419f7/575_64_4753_3803/master/4753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be09eb9e7526e041affe04fc77304ae1"
-    },
-    {
-      "title": "Nasa plans first crewed Moon mission in 50 years for February 2026",
-      "description": "The mission around the Moon will pave the way for a lunar landing as soon as 2027....",
-      "link": "https://www.bbc.com/news/articles/cy7pegvz17yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 23 Sep 2025 15:29:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
