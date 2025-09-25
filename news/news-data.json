@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-25T15:27:16.735Z",
+  "lastUpdated": "2025-09-25T16:31:36.207Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "What do we know about the causes of autism?...",
+      "link": "https://www.bbc.co.uk/sounds/play/m002jtvm?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 25 Sep 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Hidden costs’ of climate emergency are worsening California’s affordability crisis – report",
       "description": "&lt;p&gt;University of California, Berkeley, study found that those who experience severe effects will see upto a $1m in costs  &lt;/p&gt;&lt;p&gt;The...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Schneider-Electric-logo.png"
-    },
-    {
-      "title": "CDU conservation biologist named NT’s only Young Tall Poppy Award recipient",
-      "description": "Dr Chris Jolly is a conservation biologist whose work focuses on reptiles and protecting the Territory’s native wildlife. Charles Darwin University A ...",
-      "link": "https://econews.com.au/67904/cdu-conservation-biologist-named-nts-only-young-tall-poppy-award-recipient/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cdu-conservation-biologist-named-nts-only-young-tall-poppy-award-recipient",
-      "pubDate": "Thu, 25 Sep 2025 03:03:14 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
     }
   ]
 }
