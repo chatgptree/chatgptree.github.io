@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-25T21:20:56.874Z",
+  "lastUpdated": "2025-09-25T22:21:44.586Z",
   "articles": [
+    {
+      "title": "Big trees in Amazon more climate-resistant than previously believed",
+      "description": "&lt;p&gt;Forest is ‘remarkably resilient to climate change’, but remains under threat from fires and deforestation&lt;/p&gt;&lt;p&gt;The biggest trees...",
+      "link": "https://www.theguardian.com/environment/2025/sep/25/study-shows-big-trees-in-amazon-more-climate-resistant-than-previously-believed",
+      "pubDate": "Thu, 25 Sep 2025 21:23:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2ea975dc0eb90919020693ec3090eb5e023f0d1e/1232_0_6397_5118/master/6397.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9712da69caec7502bfc1b601a2facd79"
+    },
     {
       "title": "Citing Climate Crisis, NAACP Expresses Opposition to Massive Alabama Data Center",
       "description": "BESSEMER, Ala.—Residents living around the site of a proposed 4.5 million-square-foot data center campus have a new ally in their fight against what t...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What would an Indigenous Law of the Sea look like?",
-      "description": "From deep-sea mining to climate change, this Indigenous woman sees a better future for the world's oceans....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/what-would-an-indigenous-law-of-the-sea-look-like/",
-      "pubDate": "Thu, 25 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/deep-sea-mining-ship.jpg?quality=75&#038;strip=all"
     }
   ]
 }
