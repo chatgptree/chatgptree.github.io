@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-25T12:54:25.939Z",
+  "lastUpdated": "2025-09-25T13:34:12.386Z",
   "articles": [
+    {
+      "title": "Fema’s acting chief reportedly could not be reached during deadly Texas floods",
+      "description": "&lt;p&gt;Disaster relief agency reportedly didn’t answer two-thirds of calls after criticism for slow response during devastation&lt;/p&gt;&lt;p&gt;Th...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/25/fema-texas-floods",
+      "pubDate": "Thu, 25 Sep 2025 13:24:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/072af10e32930afddf3d0b86abffd21347921228/857_271_4341_3473/master/4341.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=096f27ae379e7fac245c3c305039e138"
+    },
+    {
+      "title": "Which States Are Getting Hit Hardest by Electricity Price Increases?",
+      "description": "Rising electricity rates are hitting consumers just about everywhere as utilities struggle to build enough power plants to meet rising demand from dat...",
+      "link": "https://insideclimatenews.org/news/25092025/inside-clean-energy-electricity-rate-hikes-by-state/",
+      "pubDate": "Thu, 25 Sep 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BP predicts higher oil and gas demand, suggesting world will not hit 2050 net zero target",
       "description": "&lt;p&gt;Conflict in Ukraine and Middle East as well as trade tariffs are making states focus on energy security&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
@@ -11,7 +29,7 @@
       "image": "https://i.guim.co.uk/img/media/2f9871761aba480fc8aef48dedda5f5ea0fb100b/171_0_2911_2329/master/2911.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0f757015d95d0262efb097203e0071a"
     },
     {
-      "title": "United Utilities underspent £52m on vital work in Windermere, FoI reveals",
+      "title": "United Utilities underspent £52m on vital work to reduce sewage pollution, FoI reveals",
       "description": "&lt;p&gt;Privatised water company criticised over efforts to connect private septic tanks to mains and cut pollution&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
       "link": "https://www.theguardian.com/business/2025/sep/25/united-utilities-underspent-work-windermere-water-company-pollution",
       "pubDate": "Thu, 25 Sep 2025 11:20:52 GMT",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cn4l3j93481o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 25 Sep 2025 01:17:33 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Environment Agency failed to visit serious pollution incidents, files show",
-      "description": "Data from inside England's environment watchdog show an agency struggling to monitor serious pollution....",
-      "link": "https://www.bbc.com/news/articles/cy4jk8njpngo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 25 Sep 2025 01:07:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New National Climate Action Plans Trickle in During Climate Week, But Still Add Up to a Lot of Warming",
-      "description": "Scores of world leaders reaffirmed their commitment to limiting human-caused global warming at Wednesday’s Climate Week summit during the United Natio...",
-      "link": "https://insideclimatenews.org/news/24092025/new-national-climate-action-plans-trickle-in-during-climate-week-but-still-add-up-to-a-lot-of-warming/",
-      "pubDate": "Thu, 25 Sep 2025 01:06:08 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
