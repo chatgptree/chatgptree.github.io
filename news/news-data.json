@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-25T11:21:37.692Z",
+  "lastUpdated": "2025-09-25T12:54:25.939Z",
   "articles": [
+    {
+      "title": "BP predicts higher oil and gas demand, suggesting world will not hit 2050 net zero target",
+      "description": "&lt;p&gt;Conflict in Ukraine and Middle East as well as trade tariffs are making states focus on energy security&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/business/2025/sep/25/bp-oil-and-gas-clean-energy-ukraine-middle-east-tariffs",
+      "pubDate": "Thu, 25 Sep 2025 12:25:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2f9871761aba480fc8aef48dedda5f5ea0fb100b/171_0_2911_2329/master/2911.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0f757015d95d0262efb097203e0071a"
+    },
+    {
+      "title": "United Utilities underspent £52m on vital work in Windermere, FoI reveals",
+      "description": "&lt;p&gt;Privatised water company criticised over efforts to connect private septic tanks to mains and cut pollution&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
+      "link": "https://www.theguardian.com/business/2025/sep/25/united-utilities-underspent-work-windermere-water-company-pollution",
+      "pubDate": "Thu, 25 Sep 2025 11:20:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3c32ca5d55606bdccdcf5e553bc0645f7bf7928b/0_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fee6adf33b7d3543bddf80f87fb75225"
+    },
     {
       "title": "Samsara Eco appoints first General Manager of Asia to lead expansion",
       "description": "L:R:  Lars Kissau, General Manager, Asia, with Paul Riley, Founder and CEO, Samsara Eco  Australian biotech innovator Samsara Eco has announced the ap...",
@@ -33,6 +51,15 @@
       "description": "MISSOULA, Mont.—During a short recess in their first hearing, the young plaintiffs in the Lighthiser v. Trump lawsuit gathered outside the courtroom t...",
       "link": "https://insideclimatenews.org/news/25092025/latest-youth-climate-case-lighthiser-v-trump/",
       "pubDate": "Thu, 25 Sep 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Urban Heat and Air Pollution May Harm Developing Brains in the Womb, Study Suggests",
+      "description": "During a typical summer day in New York City, residents and visitors alike face an onslaught of blistering heat and air pollution, each responsible fo...",
+      "link": "https://insideclimatenews.org/news/25092025/new-york-urban-heat-air-pollution-health-effects/",
+      "pubDate": "Thu, 25 Sep 2025 09:00:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Western Australia’s spring wildflowers bloom – in pictures",
-      "description": "&lt;p&gt;From August until October the wildflowers of Western Australia put on a vibrant show, much to the delight of photographer &lt;a href=\"https:/...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/25/western-australia-spring-wildflowers-bloom-in-pictures",
-      "pubDate": "Thu, 25 Sep 2025 00:23:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6c3519233c95736d81e62b3f55ff6cef16989144/181_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4979a1cc15ad07c20f6d8184f31aa00"
-    },
-    {
-      "title": "Bank of England urged to do more to tackle climate crisis",
-      "description": "&lt;p&gt;Environmental groups mark 10 years since Mark Carney’s ‘short-term horizons’ speech with plea to act ‘while there’s still time’&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/business/2025/sep/25/bank-of-england-tackle-climate-crisis-mark-carney-greepeace",
-      "pubDate": "Wed, 24 Sep 2025 23:01:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fc4be2cb09b3c6650a2b69041ee35cb6c54d5360/506_0_4591_3674/master/4591.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b00d89b6b155fb35865048749de30d9e"
-    },
-    {
-      "title": "China’s plans to cut emissions too weak to stave off global catastrophe, say experts",
-      "description": "&lt;p&gt;Xi suggested US is not rising to the climate challenge in his UN speech, but critics say new cuts fall ‘far short’ of what is necessary&lt;/p...",
-      "link": "https://www.theguardian.com/environment/2025/sep/24/chinas-plans-to-cut-emission-too-weak-to-stave-off-global-catastrophe-say-experts",
-      "pubDate": "Wed, 24 Sep 2025 21:47:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a597f0f139e94c61c8ab48dfce0617479ed7c367/0_0_4606_3686/master/4606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30b0a672861eb89c75f571e6141fde95"
     }
   ]
 }
