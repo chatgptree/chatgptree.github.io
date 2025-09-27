@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-27T08:28:44.128Z",
+  "lastUpdated": "2025-09-27T09:22:16.137Z",
   "articles": [
+    {
+      "title": "Can an AI-Guided Robot Help a California City Resist Sea Level Rise and Sequester Carbon?",
+      "description": "In the Northern California Bay Area, the weather has never pulled its punches. Storms pound the shorelines, king tides swallow streets and wind-driven...",
+      "link": "https://insideclimatenews.org/news/27092025/california-san-rafael-startup-sea-level-rise-ai-solution/",
+      "pubDate": "Sat, 27 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Unpacking Trump’s ‘Con Job’ Comments About Climate Change to the UN",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, a conversation between producers Jenni Doering and Aynsley...",
+      "link": "https://insideclimatenews.org/news/27092025/unpacking-trump-climate-change-comments-at-un/",
+      "pubDate": "Sat, 27 Sep 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Israel’s ecocide in Gaza sends this message: even if we stopped dropping bombs, you couldn’t live here | George Monbiot",
       "description": "&lt;p&gt;Consider the annihilation of agricultural land alongside the genocide – and grasp the chilling totality of this attempt to eliminate all life...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/AKFLogo-1-1024x945.png"
-    },
-    {
-      "title": "Sweden Offers a Blueprint for Sustainable and Resilient Food Systems in Australia",
-      "description": "By Giancarlos Larocca, Marketing Director, Tetra Pak Oceania Global food systems are undergoing a transformation driven by urgent sustainability deman...",
-      "link": "https://econews.com.au/67920/sweden-offers-a-blueprint-for-sustainable-and-resilient-food-systems-in-australia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sweden-offers-a-blueprint-for-sustainable-and-resilient-food-systems-in-australia",
-      "pubDate": "Fri, 26 Sep 2025 04:02:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/tetra-pak-logo.png"
-    },
-    {
-      "title": "Amazon helps save endangered wildlife with significant investment",
-      "description": "Boarding flight to Tidbinbilla Nature Reserve Amazon Australia has announced an AU$2.5 million investment to help save some of Australia’s most endang...",
-      "link": "https://econews.com.au/67918/amazon-helps-save-endangered-wildlife-with-significant-investment/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amazon-helps-save-endangered-wildlife-with-significant-investment",
-      "pubDate": "Fri, 26 Sep 2025 02:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
