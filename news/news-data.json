@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-27T10:23:33.714Z",
+  "lastUpdated": "2025-09-27T11:18:11.395Z",
   "articles": [
+    {
+      "title": "Meat is a leading emissions source – but few outlets report on it, analysis finds",
+      "description": "&lt;p&gt;Sentient Media reveals less than 4% of climate news stories mention animal agriculture as source of carbon emissions&lt;/p&gt;&lt;p&gt;Food a...",
+      "link": "https://www.theguardian.com/environment/2025/sep/27/meat-gas-emissions-reporting",
+      "pubDate": "Sat, 27 Sep 2025 11:00:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e25d1e6090106a071107cbd4170e380e97c599c8/456_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=765af7e02bb6298be971cc370bb836e1"
+    },
+    {
+      "title": "Mountain gorillas are back from the brink. But what happens if they run out of room?",
+      "description": "&lt;p&gt;Humans have helped save the great apes from extinction, but are now the biggest threat to their survival as they compete for land in east Afr...",
+      "link": "https://www.theguardian.com/environment/2025/sep/27/wildlife-endangered-mountain-gorillas-conservation-habitat-national-parks-virunga-uganda-rwanda-drc-aoe",
+      "pubDate": "Sat, 27 Sep 2025 11:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e177b6c3def993788bf001d101c0f897ccbfae63/455_0_5533_4426/master/5533.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0e5acd6a2d1627f9cc478043a7fe335"
+    },
+    {
+      "title": "A Turning Point for the Ocean: What the High Seas Treaty Means",
+      "description": "In a milestone for ocean governance and conservation, the High Seas Treaty has cleared the final hurdle to become international law, which for the fir...",
+      "link": "https://insideclimatenews.org/news/27092025/high-seas-treaty-international-law/",
+      "pubDate": "Sat, 27 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Can an AI-Guided Robot Help a California City Resist Sea Level Rise and Sequester Carbon?",
       "description": "In the Northern California Bay Area, the weather has never pulled its punches. Storms pound the shorelines, king tides swallow streets and wind-driven...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/13de60c606238c3117f3a09df80d73a1d1dd7a14/97_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c118bf36a3a1ec90d10fade49c1f8c0"
-    },
-    {
-      "title": "‘History will remember who showed up’: Keir Starmer faces call to attend Cop30 summit",
-      "description": "&lt;p&gt;Response from leaders and key climate figures comes after PM’s aides advised non-attendance over concerns Reform may attack him&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/sep/26/keir-starmer-faces-call-to-attend-cop30-summit",
-      "pubDate": "Fri, 26 Sep 2025 05:00:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/69c2444171bc9fbaa219854940dd54aae0e24890/740_0_5733_4587/master/5733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cf4975e7930e97a7c4b60509d7bef6c"
-    },
-    {
-      "title": "Creating manufacturing jobs on the Mid North Coast",
-      "description": "  Penny Sharpe Minister for Climate Change Minister for Energy Minister for the Environment Minister for Heritage Leader of the Government in the Legi...",
-      "link": "https://econews.com.au/67924/creating-manufacturing-jobs-on-the-mid-north-coast/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=creating-manufacturing-jobs-on-the-mid-north-coast",
-      "pubDate": "Fri, 26 Sep 2025 04:02:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Andy Penkow Releases Stirring New Bush Ballad Cry of the Koala on Save the Koala Day",
-      "description": "Cry of the Koala – Andy Penkow Andy Penkow and Australian Koala Foundation Four-time CMAA Golden Guitar nominee Andy Penkow has unveiled his powerful ...",
-      "link": "https://econews.com.au/67922/andy-penkow-releases-stirring-new-bush-ballad-cry-of-the-koala-on-save-the-koala-day/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andy-penkow-releases-stirring-new-bush-ballad-cry-of-the-koala-on-save-the-koala-day",
-      "pubDate": "Fri, 26 Sep 2025 04:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/AKFLogo-1-1024x945.png"
     }
   ]
 }
