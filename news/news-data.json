@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-29T03:10:28.359Z",
+  "lastUpdated": "2025-09-29T04:30:19.063Z",
   "articles": [
+    {
+      "title": "German identity doesn’t rely on cars – Brussels should face down the mighty automakers",
+      "description": "&lt;p&gt;Mercedes-Benz and other big manufacturers want to overturn the EU’s 2035 ban on petrol cars. This would be as disastrous for jobs as for the ...",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/29/german-car-industry-eu-ban-petrol-cars-2035",
+      "pubDate": "Mon, 29 Sep 2025 04:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7fe5501a0e4b4cddf41bc209d1557aa2975a96e1/334_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32ea5a919c6308a2fd77e90ab476fbe2"
+    },
     {
       "title": "Namibia deploys army to fight wildfire burning third of Etosha game reserve",
       "description": "&lt;p&gt;Vast tract of park that is home to 114 mammal species, including critically endangered black rhino, affected&lt;/p&gt;&lt;p&gt;Namibia has be...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "They survived Hurricane Helene. Here’s how they’re doing a year later.",
-      "description": "The powerful storm caught many people off guard as it drove through six states. As devastating as it was, did Helene truly change anything?...",
-      "link": "https://grist.org/extreme-weather/they-survived-hurricane-helene-a-year-later/",
-      "pubDate": "Fri, 26 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/10/hurricane_helene_florida_damage.jpg?quality=75&amp;strip=all"
     }
   ]
 }
