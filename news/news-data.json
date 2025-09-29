@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-09-29T08:36:29.139Z",
+  "lastUpdated": "2025-09-29T09:30:05.531Z",
   "articles": [
+    {
+      "title": "Q&#038;A: Arizona’s AG Takes on Utilities, Big Water Users and the Trump Administration",
+      "description": "If there’s an environmental or climate fight in Arizona, Attorney General Kris Mayes is likely involved. Mayes has filed 25 lawsuits, many climate and...",
+      "link": "https://insideclimatenews.org/news/29092025/arizona-attorney-general-kris-mayes-takes-on-utilities-big-water-users/",
+      "pubDate": "Mon, 29 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "With Federal Support for Wind and Solar Waning, States Are Trying to Push Policy Through on Their Own",
+      "description": "This hasn’t been a kind year for developers looking to break ground on renewable energy projects. On President Donald Trump’s first day in office, he ...",
+      "link": "https://insideclimatenews.org/news/29092025/states-push-for-renewable-energy-policy/",
+      "pubDate": "Mon, 29 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Texas floods showed why many rural communities feel abandoned in a crisis",
+      "description": "Almost a third of Americans live in unincorporated communities beyond city limits, where disaster aid can confuse and frustrate....",
+      "link": "https://grist.org/extreme-weather/texas-floods-rural-unincorporated-communities-disaster-aid/",
+      "pubDate": "Mon, 29 Sep 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/AJ-Stallins.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "California extends cap-and-trade, as Indigenous nations grapple with the trade-offs",
       "description": "The Yurok Tribe has earned tens of millions from offsets, but critics say carbon markets perpetuate colonialism and allow companies to pay to pollute....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/dada8ceff6aa656864002963c826911c63e6e389/677_0_6780_5422/master/6780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84a813de831f4f9c3e817941c4ccb777"
-    },
-    {
-      "title": "Profiteers or keeping the lights on? The power plants that make millions a day",
-      "description": "&lt;p&gt;Concerns over whether gas generators are making fair profits are prompting fresh proposals to reform the system&lt;/p&gt;&lt;p&gt;Travel 18 m...",
-      "link": "https://www.theguardian.com/business/2025/sep/27/power-plants-gas-generators-profits",
-      "pubDate": "Sat, 27 Sep 2025 13:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/134a75a5df2ba5add16b4d0d3ad86acb5afacf92/1006_0_5315_4252/master/5315.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f117554d7ca411abb3acc04211be8998"
-    },
-    {
-      "title": "After Trump cut the National Science Foundation by 56 percent, a venerable Arctic research center closes its doors",
-      "description": "The Arctic Research Consortium of the United States funded programs that aided Indigenous communities and tracked melting sea ice, among dozens of ini...",
-      "link": "https://grist.org/politics/after-trump-cut-the-national-science-foundation-by-56-percent-a-venerable-arctic-research-center-closes-its-doors/",
-      "pubDate": "Sat, 27 Sep 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/07/IMG_0627a.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Mountain gorillas are back from the brink. But what happens if they run out of room?",
-      "description": "&lt;p&gt;Humans have helped save the great apes from extinction, but are now the biggest threat to their survival as they compete for land in east Afr...",
-      "link": "https://www.theguardian.com/environment/2025/sep/27/wildlife-endangered-mountain-gorillas-conservation-habitat-national-parks-virunga-uganda-rwanda-drc-aoe",
-      "pubDate": "Sat, 27 Sep 2025 11:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e177b6c3def993788bf001d101c0f897ccbfae63/455_0_5533_4426/master/5533.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0e5acd6a2d1627f9cc478043a7fe335"
     }
   ]
 }
