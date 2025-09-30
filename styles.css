@@ -93,24 +93,13 @@ main {
     font-weight: 900;
     font-style: italic;
     color: #2E4032;
-}
-
-.hero-subtitle {
-    font-size: 20px;
-    color: #2E7D32;
-    margin: 15px 0;
-    line-height: 1.5;
-}
-
-.hero-subtitle strong {
-    color: #2E4032;
-    font-weight: 700;
+    margin-bottom: 20px;
 }
 
 .hero-description {
     font-size: 18px;
     color: #333;
-    margin: 20px 0;
+    margin: 15px 0;
     line-height: 1.6;
     text-align: left;
 }
