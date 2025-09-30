@@ -23,7 +23,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      padding: 20px;
+      padding: 0;
       margin: 0;
     }
 
@@ -111,14 +111,8 @@
       flex-shrink: 0;
     }
 
-    .tree-code {
-      font-size: 0.8rem;
-      opacity: 0.7;
-      font-family: monospace;
-    }
-
     .chat-container {
-      height: calc(100% - 180px);
+      height: calc(100% - 260px);
       overflow-y: auto;
       padding: 20px;
       display: flex;
@@ -165,6 +159,19 @@
       font-size: 0.95rem;
     }
 
+    /* Video Link in Messages */
+    .video-link {
+      display: inline-block;
+      color: #FFD700;
+      text-decoration: underline;
+      cursor: pointer;
+      margin-top: 8px;
+    }
+
+    .video-link:hover {
+      color: #FFC107;
+    }
+
     /* Video Container in Messages */
     .video-container {
       margin-top: 10px;
@@ -181,7 +188,7 @@
 
     .suggested-questions {
       position: absolute;
-      bottom: 130px;
+      bottom: 70px;
       left: 0;
       right: 0;
       background: rgba(255,255,255,0.95);
@@ -193,6 +200,7 @@
       max-height: 250px;
       overflow-y: auto;
       display: none;
+      z-index: 5;
     }
 
     .suggested-questions.show {
@@ -230,38 +238,6 @@
       color: white;
     }
 
-    .dropdown-toggle {
-      position: absolute;
-      bottom: 120px;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 40px;
-      height: 40px;
-      background: #4CAF50;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-      z-index: 5;
-      transition: all 0.3s ease;
-    }
-
-    .dropdown-toggle:hover {
-      background: #45a049;
-      transform: translateX(-50%) scale(1.1);
-    }
-
-    .dropdown-toggle i {
-      color: white;
-      transition: transform 0.3s ease;
-    }
-
-    .dropdown-toggle.active i {
-      transform: rotate(180deg);
-    }
-
     .chat-input-area {
       position: absolute;
       bottom: 0;
@@ -283,6 +259,7 @@
       font-family: 'Nunito', sans-serif;
       font-size: 0.95rem;
       outline: none;
+      cursor: pointer;
     }
 
     .chat-input::placeholder {
@@ -315,7 +292,7 @@
       background-color: rgba(76, 175, 80, 0.1);
     }
 
-    /* Send button - exact ChatGPTree styling */
+    /* Send button */
     .send-btn {
       background-color: #4CAF50;
       color: white;
@@ -380,25 +357,6 @@
       30% { transform: translateY(-10px); opacity: 1; }
     }
 
-    .instructions {
-      position: absolute;
-      bottom: 20px;
-      left: 50%;
-      transform: translateX(-50%);
-      background: rgba(255,255,255,0.95);
-      padding: 15px 25px;
-      border-radius: 12px;
-      color: #2E4032;
-      font-size: 0.9rem;
-      text-align: center;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-      max-width: 350px;
-    }
-
-    .instructions strong {
-      color: #1a2f0a;
-    }
-
     @media (max-width: 768px) {
       .phone-mockup {
         width: 100%;
@@ -453,11 +411,6 @@
         </div>
       </div>
 
-      <!-- Dropdown Toggle -->
-      <div class="dropdown-toggle" id="dropdownToggle">
-        <i class="fas fa-chevron-up"></i>
-      </div>
-
       <!-- Suggested Questions -->
       <div class="suggested-questions" id="suggestedQuestions">
         <h3>💬 Suggested Questions</h3>
@@ -466,6 +419,9 @@
         </button>
         <button class="question-btn" data-question="Are you friends with flying foxes?">
           Are you friends with flying foxes? 🦇
+        </button>
+        <button class="question-btn" data-question="How do trees communicate with each other?">
+          How do trees communicate with each other? 🌲
         </button>
         <button class="question-btn" data-question="What makes your figs different from normal figs?">
           What makes your figs different from normal figs? 🍇
@@ -483,6 +439,7 @@
           id="chatInput" 
           placeholder="Leaf your questions here... 🍃"
           maxlength="200"
+          readonly
         >
         <div class="chat-buttons">
           <button class="control-btn" title="Voice Input">
@@ -502,7 +459,6 @@
 
   <script>
     // Interactive Elements
-    const dropdownToggle = document.getElementById('dropdownToggle');
     const suggestedQuestions = document.getElementById('suggestedQuestions');
     const chatContainer = document.getElementById('chatContainer');
     const chatInput = document.getElementById('chatInput');
@@ -516,6 +472,8 @@
       
       "Are you friends with flying foxes?": "Too right I am, mate! 🦇🌳 The flying foxes are me best mates - they come round at dusk for a feed on me figs. We got a ripper relationship, ay - I give 'em tucker, and they spread me seeds all over the joint! Sometimes there's hundreds of the little blokes hangin' in me branches havin' a yarn. Noisy buggers but good value! 😄🦘",
       
+      "How do trees communicate with each other?": "Crikey mate, NOW you're askin' the good stuff! 🌐 Us trees are connected underground through this massive fungal network - we call it the Wood Wide Web! Fair dinkum, it's real! We share nutrients, warn each other about pests, and have a good old chinwag through our roots. It's bloody brilliant! 🍄💚<br><br>Check out this ripper video that explains it all:<br><a class='video-link' data-video='https://www.youtube.com/embed/V4m9SefyRjg'>Watch: The Secret Language of Trees (TED-Ed) 🎬</a>",
+      
       "What makes your figs different from normal figs?": "Yeah nah, me figs are different to them fancy European ones, mate! 🍇 Mine are smaller - about the size of a marble - and they're purple-brown when ripe. Not really for eatin' by humans but the wildlife reckon they're bloody beautiful! Birds, possums, flying foxes - they all go crackers for 'em! 🦜🦘 And they help me make more baby Moreton Bay Figs all over the place! Bonza system, ay! 😎",
       
       "Why do you have such massive raised roots?": "Strewth mate, them's me buttress roots! 🌳💪 They're like natural braces that keep me standin' tall and steady, specially in storms and cyclones up north! Started growin' 'em when I was a young fella, and now they're massive - kids love climbin' on 'em! They spread out like a big skirt around me trunk, and they're strong as! Help me get nutrients and water too. Fair dinkum engineering if ya ask me! 🦘🇦🇺",
@@ -523,46 +481,41 @@
       "default": "Yeah nah mate, that's a bonzer question! 🌳🦘 As a fair dinkum Aussie Moreton Bay Fig, I reckon I can help ya out! Chuck us another question - ask about me roots, me figs, or the wildlife that lives in me branches! She'll be right! 😎🇦🇺"
     };
 
-    // Toggle dropdown
-    dropdownToggle.addEventListener('click', () => {
+    // Show suggested questions when clicking input
+    chatInput.addEventListener('click', () => {
       const isShowing = suggestedQuestions.classList.contains('show');
       
-      if (isShowing) {
-        suggestedQuestions.classList.remove('show');
-        dropdownToggle.classList.remove('active');
-      } else {
+      if (!isShowing) {
         suggestedQuestions.classList.add('show');
-        dropdownToggle.classList.add('active');
+      }
+    });
+
+    // Close suggestions when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!chatInput.contains(e.target) && 
+          !suggestedQuestions.contains(e.target) && 
+          !e.target.classList.contains('question-btn')) {
+        suggestedQuestions.classList.remove('show');
       }
     });
 
     // Handle question button clicks
     questionBtns.forEach(btn => {
-      btn.addEventListener('click', () => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
         const question = btn.dataset.question;
         sendMessage(question);
         suggestedQuestions.classList.remove('show');
-        dropdownToggle.classList.remove('active');
       });
     });
 
-    // Handle send button
-    sendBtn.addEventListener('click', () => {
-      const message = chatInput.value.trim();
-      if (message) {
-        sendMessage(message);
-        chatInput.value = '';
-      }
-    });
-
-    // Handle enter key
-    chatInput.addEventListener('keypress', (e) => {
-      if (e.key === 'Enter') {
-        const message = chatInput.value.trim();
-        if (message) {
-          sendMessage(message);
-          chatInput.value = '';
-        }
+    // Handle video link clicks
+    document.addEventListener('click', (e) => {
+      if (e.target.classList.contains('video-link')) {
+        e.preventDefault();
+        const videoUrl = e.target.dataset.video;
+        const videoHtml = `<div class='video-container'><iframe src='${videoUrl}' allowfullscreen></iframe></div>`;
+        e.target.outerHTML = videoHtml;
       }
     });
 
