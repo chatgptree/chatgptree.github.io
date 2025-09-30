@@ -1,4 +1,4 @@
-/* ChatGPTree Styles - Updated 2025-09-30 */
+/* ChatGPTree Styles - Updated 2025-09-30 23:45 */
 
 html {
     scroll-behavior: smooth;
@@ -86,7 +86,6 @@ main {
 .app-info {
     flex: 1;
     min-width: 300px;
-    padding-right: 2rem;
     text-align: center;
     max-width: 1200px;
     margin: 0 auto;
@@ -551,10 +550,6 @@ footer {
         max-width: 100%;
         width: 100%;
         text-align: center;
-    }
-
-    .app-info {
-        padding-right: 1rem;
     }
     
     h1 {
