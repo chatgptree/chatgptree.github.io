@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2025-09-30T07:25:11.594Z",
+  "lastUpdated": "2025-09-30T08:35:48.398Z",
   "articles": [
+    {
+      "title": "In Alaska, a graphite mine races toward approval without the required tribal consent",
+      "description": "A project in western Alaska is being fast-tracked in a process that has not yet included legally required consultations with Inupiaq communities....",
+      "link": "https://grist.org/indigenous/in-alaska-a-graphite-mine-races-toward-approval-without-the-required-tribal-consent/",
+      "pubDate": "Tue, 30 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2023/07/Manh-Choh-5.5-min.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "10 years after the Paris Agreement, countries are still missing climate deadlines",
+      "description": "Meanwhile, emissions have continued to rise since the landmark treaty was signed....",
+      "link": "https://grist.org/international/ndc-deadlines-paris-agreement-cop30/",
+      "pubDate": "Tue, 30 Sep 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Our world is hurtling into climate disaster and what do politicians give us? Oilfields and new runways | Bill McGuire",
+      "description": "&lt;p&gt;In the name of ‘pragmatism’, green measures are being ditched, net zero derided. Be very clear: without slashing emissions we are in deep, de...",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/30/climate-disaster-oilfields-runways-pragmatism-emissions",
+      "pubDate": "Tue, 30 Sep 2025 08:27:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e777e996d0fbd9619e6b022724f29ef71f95558c/794_0_6017_4813/master/6017.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=377dae3b81519ce1f40662cf772e1c0d"
+    },
+    {
+      "title": "Urgent action needed as new study reveals grey nurse sharks closer to extinction than once thought",
+      "description": "Grey Nurse Sharks. Must Credit: Kendall Williams / @KendallRose Humane World for Animals Australia / Australian Marine Conservation Society Key facts:...",
+      "link": "https://econews.com.au/67946/urgent-action-needed-as-new-study-reveals-grey-nurse-sharks-closer-to-extinction-than-once-thought/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=urgent-action-needed-as-new-study-reveals-grey-nurse-sharks-closer-to-extinction-than-once-thought",
+      "pubDate": "Tue, 30 Sep 2025 08:02:54 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "New National Certification to Strengthen Trust in Australia’s Recycling Industry",
+      "description": "The Australian Council of Recycling (ACOR) and GECA have signed a Heads of Agreement to deliver a new national certification scheme that will raise th...",
+      "link": "https://econews.com.au/67944/new-national-certification-to-strengthen-trust-in-australias-recycling-industry/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-national-certification-to-strengthen-trust-in-australias-recycling-industry",
+      "pubDate": "Tue, 30 Sep 2025 08:02:54 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Quantum technologies aren’t just the future – they’re already here and making an impact",
+      "description": "UNSW Sydney Quantum technologies may seem very complex, but their importance is very simple – they can help solve difficult problems in medicine, ener...",
+      "link": "https://econews.com.au/67942/quantum-technologies-arent-just-the-future-theyre-already-here-and-making-an-impact/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=quantum-technologies-arent-just-the-future-theyre-already-here-and-making-an-impact",
+      "pubDate": "Tue, 30 Sep 2025 08:02:53 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "75% of Energy Professionals Report Workforce Shortages, AEE Warns",
+      "description": "One-third of professionals plan to retire within the next decade  A new report from the Association of Energy Engineers (AEE) warns that three-quarter...",
+      "link": "https://econews.com.au/67940/75-of-energy-professionals-report-workforce-shortages-aee-warns/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=75-of-energy-professionals-report-workforce-shortages-aee-warns",
+      "pubDate": "Tue, 30 Sep 2025 08:02:52 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/exergio-logo.png"
+    },
+    {
+      "title": "Schneider Electric Unveils Liquid Cooling Portfolio with Motivair Featuring Dedicated Solutions and Services for HPC and AI Workloads",
+      "description": "Announcement provides a first look at Schneider Electric’s complete liquid cooling technology portfolio following its acquisition of Motivair in early...",
+      "link": "https://econews.com.au/67938/schneider-electric-unveils-liquid-cooling-portfolio-with-motivair-featuring-dedicated-solutions-and-services-for-hpc-and-ai-workloads/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=schneider-electric-unveils-liquid-cooling-portfolio-with-motivair-featuring-dedicated-solutions-and-services-for-hpc-and-ai-workloads",
+      "pubDate": "Tue, 30 Sep 2025 08:02:51 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
+    },
     {
       "title": "Is there such a thing as a ‘problem shark’? Plan to catch repeat biters divides scientists",
       "description": "&lt;p&gt;Some experts think a few sharks may be responsible for a disproportionate number of attacks. Should they be hunted down?&lt;/p&gt;&lt;p&gt;Fi...",
@@ -108,78 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fbac1d47220c0c51af74c3baf191075c6abac953/378_0_3775_3020/master/3775.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6ad628dd1322c10a44b7e3c2444435f"
-    },
-    {
-      "title": "La Cumplida shows how coffee can restore ecosystems and economies",
-      "description": "La Cumplida has turned deforested hills into thriving shade-grown coffee farms, showing that healing the land can also grow profits....",
-      "link": "https://grist.org/sponsored/regenerative-agriculture-coffee-la-cumplida-nicaragua-rainforest-alliance/",
-      "pubDate": "Mon, 29 Sep 2025 14:01:50 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/ES9A3150.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Disasters like wildfires and floods are multiplying. US schools are training students to combat them",
-      "description": "&lt;p&gt;From California to North Carolina, high schools and colleges are offering classes in fire science, search and rescue, and ecological sustaina...",
-      "link": "https://www.theguardian.com/environment/2025/sep/29/us-schools-train-workers-to-combat-fires-floods",
-      "pubDate": "Mon, 29 Sep 2025 11:30:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e6c8e15dad8766d521b9f7209355f24a51035c6e/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50d08ed21eace92f076168906e11159f"
-    },
-    {
-      "title": "Los Angeles vowed to host the Olympics without breaking the bank and environment. Can it?",
-      "description": "&lt;p&gt;With three years to go, experts agree that the city has set bold goals and faces steep challenges&lt;/p&gt;&lt;p&gt;Hosting the summer &lt;a ...",
-      "link": "https://www.theguardian.com/sport/2025/sep/29/los-angeles-olympics-environment-cost",
-      "pubDate": "Mon, 29 Sep 2025 11:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2bc4a3c69c31c6e410861f03697f3b9d3232cad7/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cb140cd64ff0ec0640487274d31f06d"
-    },
-    {
-      "title": "Q&#038;A: Arizona’s AG Takes on Utilities, Big Water Users and the Trump Administration",
-      "description": "If there’s an environmental or climate fight in Arizona, Attorney General Kris Mayes is likely involved. Mayes has filed 25 lawsuits, many climate and...",
-      "link": "https://insideclimatenews.org/news/29092025/arizona-attorney-general-kris-mayes-takes-on-utilities-big-water-users/",
-      "pubDate": "Mon, 29 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "With Federal Support for Wind and Solar Waning, States Are Trying to Push Policy Through on Their Own",
-      "description": "This hasn’t been a kind year for developers looking to break ground on renewable energy projects. On President Donald Trump’s first day in office, he ...",
-      "link": "https://insideclimatenews.org/news/29092025/states-push-for-renewable-energy-policy/",
-      "pubDate": "Mon, 29 Sep 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Texas floods showed why many rural communities feel abandoned in a crisis",
-      "description": "Almost a third of Americans live in unincorporated communities beyond city limits, where disaster aid can confuse and frustrate....",
-      "link": "https://grist.org/extreme-weather/texas-floods-rural-unincorporated-communities-disaster-aid/",
-      "pubDate": "Mon, 29 Sep 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/AJ-Stallins.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "California extends cap-and-trade, as Indigenous nations grapple with the trade-offs",
-      "description": "The Yurok Tribe has earned tens of millions from offsets, but critics say carbon markets perpetuate colonialism and allow companies to pay to pollute....",
-      "link": "https://grist.org/indigenous/california-extends-cap-and-trade-as-indigenous-nations-grapple-with-the-tradeoffs/",
-      "pubDate": "Mon, 29 Sep 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/klamath-dam-removal-social.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "26 new Biosphere Reserves: UNESCO’s continues unprecedented expansion of its global network",
-      "description": "Red Fox Copyright Spiti Wildlife Division -Kasa UNESCO designates 26 new biosphere reserves across 21 countries – the highest number in 20 years. The ...",
-      "link": "https://econews.com.au/67936/26-new-biosphere-reserves-unescos-continues-unprecedented-expansion-of-its-global-network/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=26-new-biosphere-reserves-unescos-continues-unprecedented-expansion-of-its-global-network",
-      "pubDate": "Mon, 29 Sep 2025 06:02:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Unesco-logo.png"
     }
   ]
 }
