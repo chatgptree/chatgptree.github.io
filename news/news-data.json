@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T19:19:49.053Z",
+  "lastUpdated": "2025-09-30T20:27:35.990Z",
   "articles": [
     {
       "title": "US energy department cracks down on workers’ use of climate crisis language",
@@ -27,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/67d6553875d87049e2e3ae537d5b2cddb999f01c/510_0_5720_4579/master/5720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2a2023b1515cbd00541f7f804682394"
+    },
+    {
+      "title": "US national park staff fear turmoil as shutdown looms",
+      "description": "&lt;p&gt;Park workers say officials could push to leave parks open without staff – and exploit shutdown to impose further cuts&lt;/p&gt;&lt;p&gt;With ...",
+      "link": "https://www.theguardian.com/us-news/2025/sep/30/us-national-parks-government-shutdown",
+      "pubDate": "Tue, 30 Sep 2025 15:00:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f6278a5edbc8c7816a97906239bd9c654b865aee/283_0_4714_3772/master/4714.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c5243dd83b1de94da099f09755b9983"
     },
     {
       "title": "Guardian Essential poll: Australians back emissions target while One Nation support doubles",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/09b04629acea1726b5f0073beb1e2a5c8415dcea/333_0_3860_3088/master/3860.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e87d06f33b82b13e3239e8d213f155e7"
-    },
-    {
-      "title": "Citing ‘AI Arms Race,’ Trump Administration Announces Efforts to Rekindle US Coal Industry",
-      "description": "The U.S. announced its intention to compete for a 21st-century technology using 19th-century energy on Monday when the Trump administration revealed a...",
-      "link": "https://insideclimatenews.org/news/29092025/trump-administration-announces-coal-industry-efforts/",
-      "pubDate": "Mon, 29 Sep 2025 21:58:44 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
