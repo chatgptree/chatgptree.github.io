@@ -43,155 +43,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
 
-    <style>
-        /* Demo iframe section */
-        .demo-section {
-            max-width: 1200px;
-            margin: 40px auto;
-            padding: 0 20px;
-        }
-
-        .demo-container {
-            background: #E8F5E9;
-            border-radius: 15px;
-            padding: 40px 20px;
-            text-align: center;
-        }
-
-        .demo-container h2 {
-            font-family: 'Simonetta', serif;
-            font-size: 32px;
-            font-weight: 900;
-            font-style: italic;
-            color: #2E4032;
-            margin-bottom: 20px;
-        }
-
-        .demo-container p {
-            font-family: 'Catamaran', sans-serif;
-            font-size: 18px;
-            color: #333333;
-            margin-bottom: 30px;
-        }
-
-        .demo-iframe {
-            width: 100%;
-            max-width: 375px;
-            height: 812px;
-            border: none;
-            border-radius: 40px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            margin: 0 auto;
-            display: block;
-            background: #000;
-        }
-
-        /* How It Works Section */
-        .how-it-works {
-            max-width: 1200px;
-            margin: 60px auto;
-            padding: 0 20px;
-        }
-
-        .how-it-works h2 {
-            font-family: 'Simonetta', serif;
-            font-size: 36px;
-            font-weight: 900;
-            font-style: italic;
-            color: #2E4032;
-            text-align: center;
-            margin-bottom: 50px;
-        }
-
-        .steps-container {
-            display: flex;
-            flex-direction: column;
-            gap: 40px;
-        }
-
-        .step {
-            display: flex;
-            align-items: center;
-            gap: 30px;
-            background: #E8F5E9;
-            border-radius: 15px;
-            padding: 30px;
-            transition: transform 0.3s ease;
-        }
-
-        .step:hover {
-            transform: translateY(-5px);
-        }
-
-        .step-number {
-            font-family: 'Simonetta', serif;
-            font-size: 64px;
-            font-weight: 900;
-            color: #4CAF50;
-            min-width: 80px;
-            text-align: center;
-        }
-
-        .step-image {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            background: #C8E6C9;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-shrink: 0;
-        }
-
-        .step-image i {
-            font-size: 64px;
-            color: #2E7D32;
-        }
-
-        .step-content {
-            flex: 1;
-        }
-
-        .step-content h3 {
-            font-family: 'IM Fell DW Pica', serif;
-            font-size: 24px;
-            color: #2E4032;
-            margin-bottom: 10px;
-        }
-
-        .step-content p {
-            font-family: 'Catamaran', sans-serif;
-            font-size: 16px;
-            color: #333333;
-            line-height: 1.6;
-        }
-
-        @media (max-width: 768px) {
-            .demo-iframe {
-                max-width: 100%;
-                height: 667px;
-            }
-
-            .step {
-                flex-direction: column;
-                text-align: center;
-            }
-
-            .step-number {
-                font-size: 48px;
-            }
-
-            .step-image {
-                width: 120px;
-                height: 120px;
-            }
-
-            .step-image i {
-                font-size: 48px;
-            }
-        }
-    </style>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -230,6 +81,8 @@
             <h1>ChatGPTree</h1>
         </div>
     </header>
+    
+    <!-- Hero Section -->
     <main class="container">
         <div class="app-info">
             <h2>The Voice of Your Garden</h2>
@@ -242,20 +95,8 @@
                 <li>Educational institutions</li>
                 <li>Community gardens & NGOs</li>
             </ul>
-            <a href="mailto:hello@chatgptree.com.au" class="cta-button"><i class="fa-solid fa-seedling"></i> Get In Touch <i class="fa-solid fa-seedling"></i></a>
-            <a href="/messageboard/" class="cta-button messageboard-button"><i class="fa-solid fa-comments"></i> The Grapevine <i class="fa-solid fa-comments"></i></a>
-            <a href="/news/" class="cta-button news-button"><i class="fa-solid fa-newspaper"></i> Arbor Archives <i class="fa-solid fa-newspaper"></i></a>
         </div>
     </main>
-
-    <!-- Interactive Demo Section -->
-    <section class="demo-section">
-        <div class="demo-container">
-            <h2>Try It Now - Chat with Bazza!</h2>
-            <p>Experience ChatGPTree in action. Click the questions or type your own to chat with our bogan Moreton Bay Fig.</p>
-            <iframe src="/mockup.html" class="demo-iframe" title="ChatGPTree Interactive Demo"></iframe>
-        </div>
-    </section>
 
     <!-- How It Works Section -->
     <section class="how-it-works">
@@ -295,6 +136,24 @@
                 </div>
             </div>
 
+        </div>
+    </section>
+
+    <!-- CTA Buttons Section -->
+    <section class="cta-section">
+        <div class="cta-buttons-container">
+            <a href="mailto:hello@chatgptree.com.au" class="cta-button"><i class="fa-solid fa-seedling"></i> Get In Touch <i class="fa-solid fa-seedling"></i></a>
+            <a href="/messageboard/" class="cta-button messageboard-button"><i class="fa-solid fa-comments"></i> The Grapevine <i class="fa-solid fa-comments"></i></a>
+            <a href="/news/" class="cta-button news-button"><i class="fa-solid fa-newspaper"></i> Arbor Archives <i class="fa-solid fa-newspaper"></i></a>
+        </div>
+    </section>
+
+    <!-- Interactive Demo Section -->
+    <section class="demo-section">
+        <div class="demo-container">
+            <h2>Try It Now - Chat with Bazza!</h2>
+            <p>Experience ChatGPTree in action. Click the questions or type your own to chat with our bogan Moreton Bay Fig.</p>
+            <iframe src="/mockup.html" class="demo-iframe" title="ChatGPTree Interactive Demo"></iframe>
         </div>
     </section>
 
