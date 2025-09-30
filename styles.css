@@ -1,3 +1,5 @@
+/* ChatGPTree Styles - Updated 2025-09-30 */
+
 html {
     scroll-behavior: smooth;
 }
@@ -103,11 +105,140 @@ img {
     object-fit: contain;
 }
 
-/* Infographic Section - Simplified and Fixed */
+/* Demo Section Styles */
+.demo-section {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.demo-container {
+    background: #E8F5E9;
+    border-radius: 15px;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.demo-container h2 {
+    font-family: 'Simonetta', serif;
+    font-size: 32px;
+    font-weight: 900;
+    font-style: italic;
+    color: #2E4032;
+    margin-bottom: 20px;
+}
+
+.demo-container p {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 18px;
+    color: #333333;
+    margin-bottom: 30px;
+}
+
+.demo-iframe {
+    width: 100%;
+    max-width: 375px;
+    height: 812px;
+    border: none;
+    border-radius: 40px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    margin: 0 auto;
+    display: block;
+    background: #000;
+}
+
+/* How It Works Section */
+.how-it-works {
+    max-width: 1200px;
+    margin: 60px auto;
+    padding: 0 20px;
+}
+
+.how-it-works h2 {
+    font-family: 'Simonetta', serif;
+    font-size: 36px;
+    font-weight: 900;
+    font-style: italic;
+    color: #2E4032;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.steps-container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.step {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background: #E8F5E9;
+    border-radius: 15px;
+    padding: 30px;
+    transition: transform 0.3s ease;
+}
+
+.step:hover {
+    transform: translateY(-5px);
+}
+
+.step-number {
+    font-family: 'Simonetta', serif;
+    font-size: 64px;
+    font-weight: 900;
+    color: #4CAF50;
+    min-width: 80px;
+    text-align: center;
+}
+
+.step-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #C8E6C9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.step-image i {
+    font-size: 64px;
+    color: #2E7D32;
+}
+
+.step-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.step-content {
+    flex: 1;
+}
+
+.step-content h3 {
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 24px;
+    color: #2E4032;
+    margin-bottom: 10px;
+}
+
+.step-content p {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 16px;
+    color: #333333;
+    line-height: 1.6;
+}
+
+/* Infographic Section */
 .infographic-container {
     width: 100%;
-    height: 100vh; /* Full viewport height */
-    padding: 2rem 0; /* Optional: adds some spacing above and below */
+    height: 100vh;
+    padding: 2rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -115,7 +246,7 @@ img {
 
 .infographic {
     max-width: 100%;
-    max-height: 90vh; /* Slightly less than viewport height to ensure visibility */
+    max-height: 90vh;
     object-fit: contain;
     display: block;
     transform: scale(1.2);
@@ -230,12 +361,12 @@ footer {
     left: 10px;
     z-index: 1000;
     background-color: #2E4032;
-    border: 1px solid white;      /* Reduced border width from 2px to 1px */
-    border-radius: 6px;           /* Reduced border radius from 8px to 6px */
+    border: 1px solid white;
+    border-radius: 6px;
     color: white;
-    font-size: 20px;              /* Reduced from 32px to 20px */
+    font-size: 20px;
     cursor: pointer;
-    padding: 6px 8px;             /* Reduced padding */
+    padding: 6px 8px;
     transition: all 0.3s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
@@ -296,6 +427,29 @@ footer {
         font-size: 3rem;
     }
     
+    .demo-iframe {
+        max-width: 100%;
+        height: 667px;
+    }
+
+    .step {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .step-number {
+        font-size: 48px;
+    }
+
+    .step-image {
+        width: 120px;
+        height: 120px;
+    }
+
+    .step-image i {
+        font-size: 48px;
+    }
+    
     .lightbox {
         padding: 1em;
     }
@@ -321,6 +475,10 @@ footer {
         margin: 1em auto;
         width: fit-content;
     }
+
+    .infographic {
+        transform: scale(1);
+    }
 }
 
 /* For tablets */
@@ -330,17 +488,9 @@ footer {
     }
 }
 
-/* For mobile phones */
-@media (max-width: 768px) {
-    .infographic {
-        transform: scale(1); /* No scaling on mobile */
-        /* or a smaller scale like 0.9 if needed */
-    }
-}
-
 /* For very small screens */
 @media (max-width: 480px) {
     .infographic {
-        transform: scale(0.9); /* Slightly smaller on very small screens */
+        transform: scale(0.9);
     }
 }
