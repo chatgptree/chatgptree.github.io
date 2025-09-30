@@ -119,7 +119,7 @@
       display: flex;
       flex-direction: column;
       gap: 12px;
-      padding-bottom: 80px;
+      padding-bottom: 120px;
     }
 
     .message {
@@ -173,6 +173,19 @@
       color: #FFC107;
     }
 
+    /* Image Link in Messages */
+    .image-link {
+      display: inline-block;
+      color: #FFD700;
+      text-decoration: underline;
+      cursor: pointer;
+      margin-top: 8px;
+    }
+
+    .image-link:hover {
+      color: #FFC107;
+    }
+
     /* Video Container in Messages */
     .video-container {
       margin-top: 10px;
@@ -185,6 +198,20 @@
       width: 100%;
       height: 180px;
       border: none;
+    }
+
+    /* Image Container in Messages */
+    .image-container {
+      margin-top: 10px;
+      border-radius: 10px;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    .image-container img {
+      width: 100%;
+      height: auto;
+      display: block;
     }
 
     .suggested-questions {
@@ -397,6 +424,7 @@
         height: calc(100% - 205px);
         padding: 12px;
         gap: 10px;
+        padding-bottom: 100px;
       }
 
       .message {
@@ -497,17 +525,11 @@
         <button class="question-btn" data-question="Tell me all about your aerial roots">
           Tell me all about your aerial roots 🌿
         </button>
-        <button class="question-btn" data-question="Are you friends with flying foxes?">
-          Are you friends with flying foxes? 🦇
-        </button>
         <button class="question-btn" data-question="How do trees communicate with each other?">
           How do trees communicate with each other? 🌲
         </button>
-        <button class="question-btn" data-question="What makes your figs different from normal figs?">
-          What makes your figs different from normal figs? 🍇
-        </button>
-        <button class="question-btn" data-question="Why do you have such massive raised roots?">
-          Why do you have such massive raised roots? 🌳
+        <button class="question-btn" data-question="Do trees have a heart?">
+          Do trees have a heart? ❤️
         </button>
       </div>
 
@@ -550,15 +572,11 @@
     const responses = {
       "Tell me all about your aerial roots": "Ah mate, me aerial roots are bloody ripper! 🌿 They start up in me branches and grow down to the ground like natural ropes, ay. Once they hit the dirt, they get real thick and strong - become extra trunks! It's fair dinkum amazing - helps me stand tall through Aussie storms and gives the young'uns a bonzer playground to climb on! 🦘💪 She'll be right!",
       
-      "Are you friends with flying foxes?": "Too right I am, mate! 🦇🌳 The flying foxes are me best mates - they come round at dusk for a feed on me figs. We got a ripper relationship, ay - I give 'em tucker, and they spread me seeds all over the joint! Sometimes there's hundreds of the little blokes hangin' in me branches havin' a yarn. Noisy buggers but good value! 😄🦘",
-      
       "How do trees communicate with each other?": "Crikey mate, NOW you're askin' the good stuff! 🌐 Us trees are connected underground through this massive fungal network - we call it the Wood Wide Web! Fair dinkum, it's real! We share nutrients, warn each other about pests, and have a good old chinwag through our roots. It's bloody brilliant! 🍄💚<br><br>Check out this ripper video that explains it all:<br><a class='video-link' data-video='https://www.youtube.com/embed/V4m9SefyRjg'>Watch: The Secret Language of Trees (TED-Ed) 🎬</a>",
       
-      "What makes your figs different from normal figs?": "Yeah nah, me figs are different to them fancy European ones, mate! 🍇 Mine are smaller - about the size of a marble - and they're purple-brown when ripe. Not really for eatin' by humans but the wildlife reckon they're bloody beautiful! Birds, possums, flying foxes - they all go crackers for 'em! 🦜🦘 And they help me make more baby Moreton Bay Figs all over the place! Bonza system, ay! 😎",
+      "Do trees have a heart?": "Yeah nah mate, we don't have a heart like you humans, but crikey do we have a circulatory system! 💚🌳 We got these special tubes called xylem and phloem - they're like our veins and arteries! The xylem brings water and nutrients up from me roots, and the phloem sends sugars from me leaves down to feed the rest of me. It's nature's plumbing, mate! Fair dinkum clever! 🦘<br><br>Here's a bonzer diagram that shows how it all works:<br><a class='image-link' data-image='images/vascular-tissue.jpg'>View: Tree Circulatory System 🔬</a>",
       
-      "Why do you have such massive raised roots?": "Strewth mate, them's me buttress roots! 🌳💪 They're like natural braces that keep me standin' tall and steady, specially in storms and cyclones up north! Started growin' 'em when I was a young fella, and now they're massive - kids love climbin' on 'em! They spread out like a big skirt around me trunk, and they're strong as! Help me get nutrients and water too. Fair dinkum engineering if ya ask me! 🦘🇦🇺",
-      
-      "default": "Yeah nah mate, that's a bonzer question! 🌳🦘 As a fair dinkum Aussie Moreton Bay Fig, I reckon I can help ya out! Chuck us another question - ask about me roots, me figs, or the wildlife that lives in me branches! She'll be right! 😎🇦🇺"
+      "default": "Yeah nah mate, that's a bonzer question! 🌳🦘 As a fair dinkum Aussie Moreton Bay Fig, I reckon I can help ya out! Chuck us another question - I love havin' a yarn about me aerial roots, how us trees communicate, or even me circulatory system! She'll be right! 😎🇦🇺"
     };
 
     // Show suggested questions when clicking input
@@ -596,6 +614,24 @@
         const videoUrl = e.target.dataset.video;
         const videoHtml = `<div class='video-container'><iframe src='${videoUrl}' allowfullscreen></iframe></div>`;
         e.target.outerHTML = videoHtml;
+        // Scroll to bottom after video loads
+        setTimeout(() => {
+          chatContainer.scrollTop = chatContainer.scrollHeight;
+        }, 100);
+      }
+    });
+
+    // Handle image link clicks
+    document.addEventListener('click', (e) => {
+      if (e.target.classList.contains('image-link')) {
+        e.preventDefault();
+        const imageUrl = e.target.dataset.image;
+        const imageHtml = `<div class='image-container'><img src='${imageUrl}' alt='Tree Circulatory System'></div>`;
+        e.target.outerHTML = imageHtml;
+        // Scroll to bottom after image loads
+        setTimeout(() => {
+          chatContainer.scrollTop = chatContainer.scrollHeight;
+        }, 100);
       }
     });
 
