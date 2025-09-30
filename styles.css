@@ -1,4 +1,9 @@
-/* ChatGPTree Styles - Updated 2025-09-30 23:52 */
+/* ChatGPTree Styles - Fixed Mobile Centering - 2025-09-30 */
+
+/* Critical box-sizing fix for mobile alignment */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
 
 html {
     scroll-behavior: smooth;
@@ -545,6 +550,11 @@ footer {
     main {
         flex-direction: column;
         padding: 1rem 0;
+        align-items: center;
+    }
+    
+    .container {
+        padding: 10px;
     }
     
     .app-info, .app-image {
@@ -552,6 +562,7 @@ footer {
         max-width: 100%;
         width: 100%;
         text-align: center;
+        margin: 0 auto;
     }
     
     h1 {
@@ -570,12 +581,14 @@ footer {
 
     .hero-description {
         font-size: 16px;
-        padding: 0 10px;
+        padding: 0 15px;
+        margin: 15px auto;
     }
 
     .platform-features {
         gap: 15px;
-        padding: 0 10px;
+        padding: 0 15px;
+        justify-content: center;
     }
 
     .feature-badge {
@@ -594,16 +607,20 @@ footer {
     .perfect-for-title {
         font-size: 28px;
         margin: 30px 0 20px 0;
+        padding: 0 15px;
     }
 
     .venue-grid {
         grid-template-columns: 1fr;
         gap: 15px;
-        padding: 0 10px;
+        padding: 0 15px;
+        margin: 30px auto;
     }
 
     .venue-card {
         padding: 20px 15px;
+        margin: 0 auto;
+        max-width: 100%;
     }
 
     .venue-card i {
@@ -615,6 +632,10 @@ footer {
     }
 
     /* Stack CTA buttons on mobile */
+    .cta-section {
+        padding: 0 15px;
+    }
+
     .cta-buttons-container {
         flex-direction: column;
         align-items: center;
@@ -624,7 +645,7 @@ footer {
         width: 100%;
         max-width: 300px;
         text-align: center;
-        margin: 10px 0;
+        margin: 10px auto;
     }
     
     .demo-section {
@@ -637,6 +658,7 @@ footer {
         width: 100%;
         padding: 30px 15px;
         overflow: hidden;
+        margin: 0 auto;
     }
 
     .demo-container h2 {
@@ -645,6 +667,7 @@ footer {
 
     .demo-container p {
         padding: 0 15px;
+        margin: 15px auto 30px auto;
     }
 
     .demo-iframe {
@@ -655,9 +678,15 @@ footer {
         margin: 0 auto;
     }
 
+    .how-it-works {
+        padding: 0 15px;
+    }
+
     .step {
         flex-direction: column;
         text-align: center;
+        padding: 25px 15px;
+        margin: 0 auto;
     }
 
     .step-number {
@@ -709,5 +738,17 @@ footer {
 @media (max-width: 480px) {
     .infographic {
         transform: scale(0.9);
+    }
+    
+    .container {
+        padding: 10px 5px;
+    }
+    
+    .hero-description,
+    .platform-features,
+    .perfect-for-title,
+    .venue-grid {
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
