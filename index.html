@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatGPTree</title>
+    <title>ChatGPTree - The Voice of Your Garden</title>
     
     <!-- Primary Meta Tags -->
-    <meta name="description" content="Bring your forest to life with our tree-mendous installation! Scan QR codes on trees and engage in fascinating conversations with AI-powered trees in Melbourne.">
-    <meta name="keywords" content="ChatGPTree, talking trees, Melbourne trees, AI trees, QR code trees, interactive trees">
+    <meta name="description" content="The interactive platform that brings your trees to life. ChatGPTree empowers gardens, parks & green spaces to create custom tree experiences. Visitors chat with trees by voice or text.">
+    <meta name="keywords" content="ChatGPTree, talking trees, Melbourne trees, AI trees, QR code trees, interactive trees, garden platform">
     
     <!-- Favicon -->
     <link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -19,8 +19,8 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.chatgptree.com.au/">
-    <meta property="og:title" content="ChatGPTree">
-    <meta property="og:description" content="Bring your forest to life with our tree-mendous installation! Scan QR codes on trees and engage in fascinating conversations.">
+    <meta property="og:title" content="ChatGPTree - The Voice of Your Garden">
+    <meta property="og:description" content="The interactive platform that brings your trees to life. Visitors chat with trees by voice or text - you control the content.">
     <meta property="og:image" content="https://www.chatgptree.com.au/images/og-image.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -29,8 +29,8 @@
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://www.chatgptree.com.au/">
-    <meta name="twitter:title" content="ChatGPTree">
-    <meta name="twitter:description" content="Bring your forest to life with our tree-mendous installation! Scan QR codes on trees and engage in fascinating conversations.">
+    <meta name="twitter:title" content="ChatGPTree - The Voice of Your Garden">
+    <meta name="twitter:description" content="The interactive platform that brings your trees to life. Visitors chat with trees by voice or text.">
     <meta name="twitter:image" content="https://www.chatgptree.com.au/images/og-image.png">
     
     <!-- Additional SEO -->
@@ -43,13 +43,162 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
 
+    <style>
+        /* Demo iframe section */
+        .demo-section {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .demo-container {
+            background: #E8F5E9;
+            border-radius: 15px;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .demo-container h2 {
+            font-family: 'Simonetta', serif;
+            font-size: 32px;
+            font-weight: 900;
+            font-style: italic;
+            color: #2E4032;
+            margin-bottom: 20px;
+        }
+
+        .demo-container p {
+            font-family: 'Catamaran', sans-serif;
+            font-size: 18px;
+            color: #333333;
+            margin-bottom: 30px;
+        }
+
+        .demo-iframe {
+            width: 100%;
+            max-width: 375px;
+            height: 812px;
+            border: none;
+            border-radius: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            margin: 0 auto;
+            display: block;
+            background: #000;
+        }
+
+        /* How It Works Section */
+        .how-it-works {
+            max-width: 1200px;
+            margin: 60px auto;
+            padding: 0 20px;
+        }
+
+        .how-it-works h2 {
+            font-family: 'Simonetta', serif;
+            font-size: 36px;
+            font-weight: 900;
+            font-style: italic;
+            color: #2E4032;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .steps-container {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .step {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            background: #E8F5E9;
+            border-radius: 15px;
+            padding: 30px;
+            transition: transform 0.3s ease;
+        }
+
+        .step:hover {
+            transform: translateY(-5px);
+        }
+
+        .step-number {
+            font-family: 'Simonetta', serif;
+            font-size: 64px;
+            font-weight: 900;
+            color: #4CAF50;
+            min-width: 80px;
+            text-align: center;
+        }
+
+        .step-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background: #C8E6C9;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .step-image i {
+            font-size: 64px;
+            color: #2E7D32;
+        }
+
+        .step-content {
+            flex: 1;
+        }
+
+        .step-content h3 {
+            font-family: 'IM Fell DW Pica', serif;
+            font-size: 24px;
+            color: #2E4032;
+            margin-bottom: 10px;
+        }
+
+        .step-content p {
+            font-family: 'Catamaran', sans-serif;
+            font-size: 16px;
+            color: #333333;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            .demo-iframe {
+                max-width: 100%;
+                height: 667px;
+            }
+
+            .step {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .step-number {
+                font-size: 48px;
+            }
+
+            .step-image {
+                width: 120px;
+                height: 120px;
+            }
+
+            .step-image i {
+                font-size: 48px;
+            }
+        }
+    </style>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "ChatGPTree",
   "url": "https://www.chatgptree.com.au",
-  "description": "Bring your forest to life with our tree-mendous installation! Scan QR codes on trees and engage in fascinating conversations with AI-powered trees in Melbourne.",
+  "description": "The interactive platform that brings your trees to life. ChatGPTree empowers gardens, parks & green spaces to create custom tree experiences.",
   "publisher": {
     "@type": "Organization",
     "name": "GB ChatGPTree",
@@ -59,13 +208,6 @@
       "width": "1200",
       "height": "630"
     }
-  },
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://www.chatgptree.com.au/images/bazzaweb3.jpg",
-    "width": "1200",
-    "height": "630",
-    "caption": "ChatGPTree App Screenshot showing an interactive conversation with a tree"
   }
 }
 </script>
@@ -90,33 +232,78 @@
     </header>
     <main class="container">
         <div class="app-info">
-    <h2>Ever Wanted To Chat With Trees?</h2>
-    <p>Bring your forest to life with our tree-mendous installation! Our app allows you to scan QR codes on trees and engage in fascinating conversations. Learn about their history, species, and their wonderfully unique personalities.</p>
-    <p>Features:</p>
-    <ul>
-        <li>QR code scanning for tree identification</li>
-        <li>Engaging conversations with AI-powered trees</li>
-        <li>Learn about various tree species and their origins</li>
-        <li>Add a touch of whimsical magic to your green spaces</li>
-        <li>Custom-fit, lightweight installation tailored to your needs</li>
-    </ul>
-    <a href="mailto:hello@chatgptree.com.au" class="cta-button"><i class="fa-solid fa-seedling"></i> Get In Touch <i class="fa-solid fa-seedling"></i></a>
-    <a href="/messageboard/" class="cta-button messageboard-button"><i class="fa-solid fa-comments"></i> The Grapevine <i class="fa-solid fa-comments"></i></a>
-    <a href="/news/" class="cta-button news-button"><i class="fa-solid fa-newspaper"></i> Arbor Archives <i class="fa-solid fa-newspaper"></i></a>
-</div>
-        </div>
-        <div class="app-image">
-            <img src="images/bazzaweb2.jpg" alt="ChatGPTree App Screenshot showing an interactive conversation with a tree">
+            <h2>The Voice of Your Garden</h2>
+            <p>ChatGPTree empowers parks, gardens & green spaces to create custom interactive tree experiences. Visitors chat with trees by voice or text - you control the content.</p>
+            <p>Perfect for:</p>
+            <ul>
+                <li>Botanic gardens & arboretums</li>
+                <li>Public parks & council spaces</li>
+                <li>Heritage sites & historic gardens</li>
+                <li>Educational institutions</li>
+                <li>Community gardens & NGOs</li>
+            </ul>
+            <a href="mailto:hello@chatgptree.com.au" class="cta-button"><i class="fa-solid fa-seedling"></i> Get In Touch <i class="fa-solid fa-seedling"></i></a>
+            <a href="/messageboard/" class="cta-button messageboard-button"><i class="fa-solid fa-comments"></i> The Grapevine <i class="fa-solid fa-comments"></i></a>
+            <a href="/news/" class="cta-button news-button"><i class="fa-solid fa-newspaper"></i> Arbor Archives <i class="fa-solid fa-newspaper"></i></a>
         </div>
     </main>
-<div class="infographic-container">
-    <img src="/images/ChatGPTree-infographic.jpg" alt="ChatGPTree Infographic" class="infographic">
-</div>
+
+    <!-- Interactive Demo Section -->
+    <section class="demo-section">
+        <div class="demo-container">
+            <h2>Try It Now - Chat with Bazza!</h2>
+            <p>Experience ChatGPTree in action. Click the questions or type your own to chat with our bogan Moreton Bay Fig.</p>
+            <iframe src="/mockup.html" class="demo-iframe" title="ChatGPTree Interactive Demo"></iframe>
+        </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="how-it-works">
+        <h2>How It Works</h2>
+        <div class="steps-container">
+            
+            <div class="step">
+                <div class="step-number">1</div>
+                <div class="step-image">
+                    <i class="fas fa-qrcode"></i>
+                </div>
+                <div class="step-content">
+                    <h3>Scan & Chat</h3>
+                    <p>Visitors scan QR codes on trees and instantly start chatting. Each tree comes with a bespoke personality and botanical knowledge - no app download required, just scan and go!</p>
+                </div>
+            </div>
+
+            <div class="step">
+                <div class="step-number">2</div>
+                <div class="step-image">
+                    <i class="fas fa-graduation-cap"></i>
+                </div>
+                <div class="step-content">
+                    <h3>Engage & Learn</h3>
+                    <p>Trees share educational content through personality quizzes, historical photos, and fascinating botanical facts. Imagine a tree showing you what the city looked like when it was just a sapling!</p>
+                </div>
+            </div>
+
+            <div class="step">
+                <div class="step-number">3</div>
+                <div class="step-image">
+                    <i class="fas fa-sliders-h"></i>
+                </div>
+                <div class="step-content">
+                    <h3>Easy & Customizable</h3>
+                    <p>Our lightweight web app is tailored to your needs - an affordable digital art installation for gardens, parks, and community groups. You control the content, personalities, and experience.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
     <footer>
         <div class="container">
-            <p>&copy; 2024 GB ChatGPTree. All rights reserved.</p>
+            <p>&copy; 2025 GB ChatGPTree. All rights reserved. | Updated: 2025-09-30</p>
         </div>
     </footer>
+
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 <script>
