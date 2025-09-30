@@ -269,15 +269,13 @@ img {
 }
 
 .demo-iframe {
-    width: 100%;
-    max-width: 375px;
+    width: 375px;
     height: 812px;
     border: none;
-    border-radius: 40px;
     box-shadow: 0 20px 60px rgba(0,0,0,0.3);
     margin: 0 auto;
     display: block;
-    background: #000;
+    background: #F1EFE6;
 }
 
 /* Infographic Section */
