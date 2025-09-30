@@ -214,6 +214,71 @@
       display: block;
     }
 
+    /* Media Overlay/Modal */
+    .media-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.95);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .media-overlay.show {
+      display: flex;
+    }
+
+    .media-content {
+      width: 100%;
+      max-width: 90%;
+      max-height: 80%;
+      position: relative;
+    }
+
+    .media-content iframe {
+      width: 100%;
+      height: 400px;
+      border: none;
+      border-radius: 10px;
+    }
+
+    .media-content img {
+      width: 100%;
+      height: auto;
+      max-height: 500px;
+      object-fit: contain;
+      border-radius: 10px;
+    }
+
+    .close-overlay {
+      position: absolute;
+      top: -15px;
+      right: -15px;
+      width: 40px;
+      height: 40px;
+      background: #4CAF50;
+      border-radius: 50%;
+      border: none;
+      color: white;
+      font-size: 24px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 101;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    }
+
+    .close-overlay:hover {
+      background: #45a049;
+      transform: scale(1.1);
+    }
+
     .suggested-questions {
       position: absolute;
       bottom: 60px;
@@ -556,6 +621,13 @@
         </div>
       </div>
 
+      <!-- Media Overlay -->
+      <div class="media-overlay" id="mediaOverlay">
+        <div class="media-content" id="mediaContent">
+          <button class="close-overlay" id="closeOverlay">×</button>
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -567,6 +639,9 @@
     const sendBtn = document.getElementById('sendBtn');
     const typingIndicator = document.getElementById('typingIndicator');
     const questionBtns = document.querySelectorAll('.question-btn');
+    const mediaOverlay = document.getElementById('mediaOverlay');
+    const mediaContent = document.getElementById('mediaContent');
+    const closeOverlay = document.getElementById('closeOverlay');
 
     // Response library for Bazza
     const responses = {
@@ -574,7 +649,7 @@
       
       "How do trees communicate with each other?": "Crikey mate, NOW you're askin' the good stuff! 🌐 Us trees are connected underground through this massive fungal network - we call it the Wood Wide Web! Fair dinkum, it's real! We share nutrients, warn each other about pests, and have a good old chinwag through our roots. It's bloody brilliant! 🍄💚<br><br>Check out this ripper video that explains it all:<br><a class='video-link' data-video='https://www.youtube.com/embed/V4m9SefyRjg'>Watch: The Secret Language of Trees (TED-Ed) 🎬</a>",
       
-      "Do trees have a heart?": "Yeah nah mate, we don't have a heart like you humans, but crikey do we have a circulatory system! 💚🌳 We got these special tubes called xylem and phloem - they're like our veins and arteries! The xylem brings water and nutrients up from me roots, and the phloem sends sugars from me leaves down to feed the rest of me. It's nature's plumbing, mate! Fair dinkum clever! 🦘<br><br>Here's a bonzer diagram that shows how it all works:<br><a class='image-link' data-image='https://www.chatgptree.com.au/images/vascular_tissue.jpg'>View: Tree Circulatory System 🔬</a>",
+      "Do trees have a heart?": "Yeah nah mate, we don't have a heart like you humans, but crikey do we have a circulatory system! 💚🌳 We got these special tubes called xylem and phloem - they're like our veins and arteries! The xylem brings water and nutrients up from me roots, and the phloem sends sugars from me leaves down to feed the rest of me. It's nature's plumbing, mate! Fair dinkum clever! 🦘<br><br>Here's a bonzer diagram that shows how it all works:<br><a class='image-link' data-image='images/vascular-tissue.jpg'>View: Tree Circulatory System 🔬</a>",
       
       "default": "Yeah nah mate, that's a bonzer question! 🌳🦘 As a fair dinkum Aussie Moreton Bay Fig, I reckon I can help ya out! Chuck us another question - I love havin' a yarn about me aerial roots, how us trees communicate, or even me circulatory system! She'll be right! 😎🇦🇺"
     };
@@ -607,31 +682,44 @@
       });
     });
 
-    // Handle video link clicks
+    // Handle video link clicks - show overlay
     document.addEventListener('click', (e) => {
       if (e.target.classList.contains('video-link')) {
         e.preventDefault();
         const videoUrl = e.target.dataset.video;
-        const videoHtml = `<div class='video-container'><iframe src='${videoUrl}' allowfullscreen></iframe></div>`;
-        e.target.outerHTML = videoHtml;
-        // Scroll to bottom after video loads
-        setTimeout(() => {
-          chatContainer.scrollTop = chatContainer.scrollHeight;
-        }, 100);
+        const videoHtml = `<button class="close-overlay" id="closeOverlayBtn">×</button><iframe src='${videoUrl}' allowfullscreen></iframe>`;
+        mediaContent.innerHTML = videoHtml;
+        mediaOverlay.classList.add('show');
+        
+        // Re-attach close button listener
+        document.getElementById('closeOverlayBtn').addEventListener('click', closeMediaOverlay);
       }
     });
 
-    // Handle image link clicks
+    // Handle image link clicks - show overlay
     document.addEventListener('click', (e) => {
       if (e.target.classList.contains('image-link')) {
         e.preventDefault();
         const imageUrl = e.target.dataset.image;
-        const imageHtml = `<div class='image-container'><img src='${imageUrl}' alt='Tree Circulatory System'></div>`;
-        e.target.outerHTML = imageHtml;
-        // Scroll to bottom after image loads
-        setTimeout(() => {
-          chatContainer.scrollTop = chatContainer.scrollHeight;
-        }, 100);
+        const imageHtml = `<button class="close-overlay" id="closeOverlayBtn">×</button><img src='${imageUrl}' alt='Tree Circulatory System'>`;
+        mediaContent.innerHTML = imageHtml;
+        mediaOverlay.classList.add('show');
+        
+        // Re-attach close button listener
+        document.getElementById('closeOverlayBtn').addEventListener('click', closeMediaOverlay);
+      }
+    });
+
+    // Close overlay function
+    function closeMediaOverlay() {
+      mediaOverlay.classList.remove('show');
+      mediaContent.innerHTML = '';
+    }
+
+    // Close overlay when clicking on background
+    mediaOverlay.addEventListener('click', (e) => {
+      if (e.target === mediaOverlay) {
+        closeMediaOverlay();
       }
     });
 
