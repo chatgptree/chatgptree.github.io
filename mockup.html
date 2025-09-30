@@ -21,32 +21,10 @@
       background: #F1EFE6;
       min-height: 100vh;
       display: flex;
-      flex-direction: column;
       justify-content: center;
       align-items: center;
       padding: 20px;
-      position: relative;
-    }
-
-    .demo-header {
-      text-align: center;
-      color: #2E4032;
-      margin-bottom: 30px;
-    }
-
-    .demo-header h1 {
-      font-family: 'Simonetta', serif;
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-      text-shadow: none;
-      font-style: italic;
-      color: #2E4032;
-    }
-
-    .demo-header p {
-      font-size: 1.2rem;
-      opacity: 0.8;
-      color: #2E4032;
+      margin: 0;
     }
 
     .phone-mockup {
@@ -422,42 +400,14 @@
     }
 
     @media (max-width: 768px) {
-      .demo-header h1 {
-        font-size: 1.8rem;
-      }
-      .demo-header p {
-        font-size: 1rem;
-      }
       .phone-mockup {
         width: 100%;
         max-width: 375px;
       }
-      .instructions {
-        max-width: 90%;
-      }
-    }
-
-    .timestamp {
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      background: rgba(0,0,0,0.5);
-      color: white;
-      padding: 5px 10px;
-      border-radius: 5px;
-      font-size: 0.7rem;
-      font-family: monospace;
     }
   </style>
 </head>
 <body>
-  <div class="timestamp">Generated: 2025-09-30</div>
-  
-  <div class="demo-header">
-    <h1>🌳 ChatGPTree Interactive Demo</h1>
-    <p>Experience the magic of talking with trees</p>
-  </div>
-
   <div class="phone-mockup">
     <div class="phone-notch"></div>
     <div class="phone-screen">
@@ -548,10 +498,6 @@
       </div>
 
     </div>
-  </div>
-
-  <div class="instructions">
-    <strong>Click the ↑ button</strong> to see suggested questions, or try asking Bazza anything!
   </div>
 
   <script>
