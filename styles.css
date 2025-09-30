@@ -631,21 +631,30 @@ footer {
     }
     
     .demo-section {
-        padding: 0 10px;
+        padding: 0;
         width: 100%;
+        margin: 40px 0;
     }
 
     .demo-container {
         width: 100%;
-        padding: 30px 10px;
-        overflow-x: hidden;
+        padding: 30px 15px;
+        overflow: hidden;
+    }
+
+    .demo-container h2 {
+        padding: 0 15px;
+    }
+
+    .demo-container p {
+        padding: 0 15px;
     }
 
     .demo-iframe {
-        width: 375px;
-        height: 812px;
-        transform: scale(0.85);
-        transform-origin: center center;
+        width: 100%;
+        max-width: 340px;
+        height: 733px;
+        transform: none;
         margin: 0 auto;
     }
 
