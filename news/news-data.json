@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-30T09:27:41.290Z",
+  "lastUpdated": "2025-09-30T10:27:41.483Z",
   "articles": [
+    {
+      "title": "Virginia Could Show How to Manage Data Center Growth. So Far, It’s a Case Study in Stalling Legislation",
+      "description": "RICHMOND, Va.—You might think the state that is the undisputed epicenter of global internet traffic has a leg up on managing the challenges of the art...",
+      "link": "https://insideclimatenews.org/news/30092025/virginia-data-center-growth-legislation/",
+      "pubDate": "Tue, 30 Sep 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Chesapeake Bay Program Reaches a Crossroads",
+      "description": "The management board of the Chesapeake Bay Program will meet this week to hammer out the next iteration of the agreement that has governed the restora...",
+      "link": "https://insideclimatenews.org/news/30092025/chesapeake-bay-program-restoration-crossroads/",
+      "pubDate": "Tue, 30 Sep 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "In Alaska, a graphite mine races toward approval without the required tribal consent",
       "description": "A project in western Alaska is being fast-tracked in a process that has not yet included legally required consultations with Inupiaq communities....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1c5d72f749d8bb8fbaa048e3fd022f849896372b/0_0_2500_1999/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a816fecd9fd8234b96b3d4341fbf17a2"
-    },
-    {
-      "title": "Turkey argues both countries can win from drawn-out contest with Australia over Cop31 hosting rights",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Turkey’s climate minister says country is working on ‘innovative solutions’ as Labor privately downpl...",
-      "link": "https://www.theguardian.com/environment/2025/sep/30/cop31-country-hosting-rights-turkey-argues-both-countries-win-from-drawn-out-contest-with-australia",
-      "pubDate": "Mon, 29 Sep 2025 15:00:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0eb34c84e80ec6b49c1410f323cfbcdbe62fd756/724_0_3112_2490/master/3112.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8a88999e9b8e0ce8de06f3821257f93"
-    },
-    {
-      "title": "Twelve whales have been tangled in shark nets off Queensland’s coast so far this year. Here’s why",
-      "description": "&lt;p&gt;In the worst case, entanglements could cause drowning, one expert says, but whales can also suffer long-term effects from the nets&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/environment/2025/sep/30/whales-tangled-shark-nets-queensland-coast",
-      "pubDate": "Mon, 29 Sep 2025 15:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fbac1d47220c0c51af74c3baf191075c6abac953/378_0_3775_3020/master/3775.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6ad628dd1322c10a44b7e3c2444435f"
     }
   ]
 }
