@@ -61,9 +61,12 @@ h1 {
     }
 }
 
+/* Consistent section heading size */
 h2 {
     font-family: 'Simonetta', serif;
+    font-size: 36px;
     font-weight: 900;
+    font-style: italic;
     color: #2E4032;
     text-align: center;
     margin-top: 0;
@@ -82,6 +85,14 @@ main {
     min-width: 300px;
     padding-right: 2rem;
     text-align: center;
+}
+
+.app-info h2 {
+    font-family: 'Simonetta', serif;
+    font-size: 36px;
+    font-weight: 900;
+    font-style: italic;
+    color: #2E4032;
 }
 
 .app-info p, .app-info ul {
@@ -103,48 +114,6 @@ img {
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     object-fit: contain;
-}
-
-/* Demo Section Styles */
-.demo-section {
-    max-width: 1200px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
-
-.demo-container {
-    background: #E8F5E9;
-    border-radius: 15px;
-    padding: 40px 20px;
-    text-align: center;
-}
-
-.demo-container h2 {
-    font-family: 'Simonetta', serif;
-    font-size: 32px;
-    font-weight: 900;
-    font-style: italic;
-    color: #2E4032;
-    margin-bottom: 20px;
-}
-
-.demo-container p {
-    font-family: 'Catamaran', sans-serif;
-    font-size: 18px;
-    color: #333333;
-    margin-bottom: 30px;
-}
-
-.demo-iframe {
-    width: 100%;
-    max-width: 375px;
-    height: 812px;
-    border: none;
-    border-radius: 40px;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-    margin: 0 auto;
-    display: block;
-    background: #000;
 }
 
 /* How It Works Section */
@@ -232,6 +201,83 @@ img {
     font-size: 16px;
     color: #333333;
     line-height: 1.6;
+}
+
+/* CTA Buttons Section */
+.cta-section {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.cta-buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    width: auto;
+    margin: 0;
+}
+
+.cta-button:hover {
+    background-color: #45a049;
+}
+
+.cta-button i {
+    margin: 0 5px;
+}
+
+/* Demo Section Styles */
+.demo-section {
+    max-width: 1200px;
+    margin: 60px auto 40px auto;
+    padding: 0 20px;
+}
+
+.demo-container {
+    background: #E8F5E9;
+    border-radius: 15px;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.demo-container h2 {
+    font-family: 'Simonetta', serif;
+    font-size: 36px;
+    font-weight: 900;
+    font-style: italic;
+    color: #2E4032;
+    margin-bottom: 20px;
+}
+
+.demo-container p {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 18px;
+    color: #333333;
+    margin-bottom: 30px;
+}
+
+.demo-iframe {
+    width: 100%;
+    max-width: 375px;
+    height: 812px;
+    border: none;
+    border-radius: 40px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    margin: 0 auto;
+    display: block;
+    background: #000;
 }
 
 /* Infographic Section */
@@ -330,31 +376,6 @@ footer {
     margin-top: 2rem;
 }
 
-.cta-button {
-    display: block;
-    background-color: #4CAF50;
-    color: white;
-    padding: 0.8rem 1.5rem;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
-    margin: 1em auto;
-    width: fit-content;
-}
-
-.cta-button:hover {
-    background-color: #45a049;
-}
-
-.cta-button i {
-    margin: 0 5px;
-}
-
-.messageboard-button {
-    margin-top: 1em;
-}
-
 .nav-toggle {
     position: absolute;
     top: 10px;
@@ -426,6 +447,29 @@ footer {
     h1 {
         font-size: 3rem;
     }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    .app-info h2,
+    .how-it-works h2,
+    .demo-container h2 {
+        font-size: 28px;
+    }
+
+    /* Stack CTA buttons on mobile */
+    .cta-buttons-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cta-button {
+        width: 100%;
+        max-width: 300px;
+        text-align: center;
+        margin: 10px 0;
+    }
     
     .demo-iframe {
         max-width: 100%;
@@ -468,12 +512,6 @@ footer {
     .zoom-hint {
         font-size: 0.9rem;
         padding: 8px 15px;
-    }
-
-    .cta-button {
-        display: block;
-        margin: 1em auto;
-        width: fit-content;
     }
 
     .infographic {
