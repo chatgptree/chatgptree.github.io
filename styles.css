@@ -385,7 +385,7 @@ img {
 
 .demo-iframe {
     width: 375px;
-    height: 812px;
+    height: 700px;
     border: none;
     box-shadow: 0 20px 60px rgba(0,0,0,0.3);
     margin: 0 auto;
@@ -673,7 +673,7 @@ footer {
     .demo-iframe {
         width: 100%;
         max-width: 340px;
-        height: 733px;
+        height: 650px;
         transform: none;
         margin: 0 auto;
     }
