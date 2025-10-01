@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - ChatGPTree</title>
+    
+    <!-- Meta Tags -->
+    <meta name="description" content="Get in touch with ChatGPTree. We'd love to hear from you about bringing your trees to life!">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Fonts and Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Catamaran:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<button class="nav-toggle" aria-label="Toggle navigation">
+    <i class="fas fa-water"></i>
+</button>
+<div class="modal-menu">
+    <div class="modal-menu-content">
+        <a href="/"><i class="fas fa-home"></i> Home</a>
+        <a href="/messageboard/"><i class="fas fa-comments"></i> The Grapevine</a>
+        <a href="/news/"><i class="fas fa-newspaper"></i> Arbor Archives</a>
+        <a href="/donate/"><i class="fas fa-hand-holding-heart"></i> Donate</a>
+        <a href="/contact/"><i class="fas fa-envelope"></i> Contact Us</a>
+    </div>
+</div>
+
+    <header>
+        <div class="container">
+            <h1>ChatGPTree</h1>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="contact-page">
+            <h2>Get In Touch</h2>
+            <p class="contact-intro">We'd love to hear from you! Whether you're a botanic garden, park, or community organization interested in bringing your trees to life, drop us a message below.</p>
+            
+            <form action="https://api.web3forms.com/submit" method="POST" class="contact-form" id="contactForm">
+                
+                <!-- Replace with your actual Access Key from web3forms.com -->
+                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+                
+                <!-- Optional: Redirect after submission -->
+                <input type="hidden" name="redirect" value="https://www.chatgptree.com.au/thank-you/">
+                
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+                
+                <div class="form-group">
+                    <label for="name">Name *</label>
+                    <input type="text" id="name" name="name" required placeholder="Your name">
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email *</label>
+                    <input type="email" id="email" name="email" required placeholder="your@email.com">
+                </div>
+
+                <div class="form-group">
+                    <label for="organization">Organization</label>
+                    <input type="text" id="organization" name="organization" placeholder="Your garden, park, or organization">
+                </div>
+
+                <div class="form-group">
+                    <label for="phone">Phone</label>
+                    <input type="tel" id="phone" name="phone" placeholder="Optional">
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Message *</label>
+                    <textarea id="message" name="message" required rows="6" placeholder="Tell us about your project..."></textarea>
+                </div>
+
+                <button type="submit" class="submit-button">
+                    <i class="fas fa-paper-plane"></i> Send Message
+                </button>
+
+                <p class="form-note">* Required fields</p>
+            </form>
+
+            <div class="contact-info">
+                <h3>Other Ways to Reach Us</h3>
+                <p><i class="fas fa-envelope"></i> <a href="mailto:hello@chatgptree.com.au">hello@chatgptree.com.au</a></p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 GB ChatGPTree. All rights reserved.</p>
+        </div>
+    </footer>
+
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const navToggle = document.querySelector('.nav-toggle');
+    const modalMenu = document.querySelector('.modal-menu');
+
+    navToggle.addEventListener('click', () => {
+        modalMenu.classList.toggle('active');
+    });
+
+    modalMenu.addEventListener('click', (e) => {
+        if (e.target === modalMenu) {
+            modalMenu.classList.remove('active');
+        }
+    });
+
+    document.querySelectorAll('.modal-menu a').forEach(link => {
+        link.addEventListener('click', () => {
+            modalMenu.classList.remove('active');
+        });
+    });
+
+    // Form submission handling
+    const form = document.getElementById('contactForm');
+    form.addEventListener('submit', function(e) {
+        const button = form.querySelector('.submit-button');
+        button.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Sending...';
+        button.disabled = true;
+    });
+});
+</script>
+</body>
+</html>
