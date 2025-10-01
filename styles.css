@@ -262,12 +262,7 @@ img {
 }
 
 .step-number {
-    font-family: 'Simonetta', serif;
-    font-size: 64px;
-    font-weight: 900;
-    color: #4CAF50;
-    min-width: 80px;
-    text-align: center;
+    display: none;
 }
 
 .step-image {
@@ -685,21 +680,18 @@ footer {
     .step {
         flex-direction: column;
         text-align: center;
-        padding: 25px 15px;
+        padding: 20px 15px;
         margin: 0 auto;
-    }
-
-    .step-number {
-        font-size: 48px;
+        gap: 15px;
     }
 
     .step-image {
-        width: 120px;
-        height: 120px;
+        width: 100px;
+        height: 100px;
     }
 
     .step-image i {
-        font-size: 48px;
+        font-size: 40px;
     }
     
     .lightbox {
