@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-10-01T08:34:02.601Z",
+  "lastUpdated": "2025-10-01T09:27:58.075Z",
   "articles": [
+    {
+      "title": "Despite the Trump Administration’s Best Efforts to Suppress It, Climate Science Is Alive and Well Online",
+      "description": "Researchers across the United States and the world who raced to protect climate data, public reports and other information from the Trump administrati...",
+      "link": "https://insideclimatenews.org/news/01102025/climate-science-available-online/",
+      "pubDate": "Wed, 01 Oct 2025 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Amid Partisan Divides on Renewables, National Clean Energy Week’s Chair Still Sees Hope for Conservative Climate Action",
+      "description": "Given the deep partisan divides on America’s energy future, heralding the potential of bipartisan action on clean power might seem to some like a fool...",
+      "link": "https://insideclimatenews.org/news/01102025/heather-reams-conservative-climate-action/",
+      "pubDate": "Wed, 01 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Appeal Could Make It Easier for Companies to Spread Drilling Fluids on Pennsylvania Roadways",
+      "description": "In rural Western Pennsylvania, communities routinely spray briny fluids on unpaved backroads to control dust in the warmer months and ice in the winte...",
+      "link": "https://insideclimatenews.org/news/01102025/pennsylvania-roadway-regulations-oil-gas-brines/",
+      "pubDate": "Wed, 01 Oct 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "NJ Sues Pfizer Over Cancer-Linked Water Contamination",
+      "description": "...",
+      "link": "https://insideclimatenews.org/news/01102025/new-jersey-sues-pfizer-water-contamination/",
+      "pubDate": "Wed, 01 Oct 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "E-Bikes could cut carbon, congestion, and costs — if cities take them seriously",
+      "description": "E-bike sales are booming, providing a sustainable form of transportation that also improves public health. Yet American cities remain committed to car...",
+      "link": "https://grist.org/transportation/e-bikes-could-cut-carbon-congestion-and-costs-if-cities-take-them-seriously/",
+      "pubDate": "Wed, 01 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2023/10/e-bike-popularity-safety-certification-UL-New-York.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "So many climate solutions, so few emissions reductions. A new book explains why.",
       "description": "In The Long Heat, Wim Carton and Andreas Malm argue that capitalism has turned the climate crisis into a business opportunity....",
@@ -132,51 +177,6 @@
       "description": "A government shutdown will likely lead to further dismantling of federal environmental science, enforcement and conservation agencies, advocates warne...",
       "link": "https://insideclimatenews.org/news/30092025/government-shutdown-threatens-environment-science-agencies/",
       "pubDate": "Tue, 30 Sep 2025 22:29:05 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US energy department cracks down on workers’ use of climate crisis language",
-      "description": "&lt;p&gt;Efficiency employees reportedly told to avoid ‘climate change’ and similar terms in their work in latest clampdown&lt;/p&gt;&lt;p&gt;The US D...",
-      "link": "https://www.theguardian.com/us-news/2025/sep/30/energy-department-climate-change-crisis-language",
-      "pubDate": "Tue, 30 Sep 2025 17:55:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/033855aa7d9d7648495c8422434913cf86b22223/359_0_3321_2656/master/3321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6f896c8f1ea0d27cb9435a298659b0b"
-    },
-    {
-      "title": "From the Swiss Alps to a solar eclipse: the 2025 Bird Photographer of the Year – in pictures",
-      "description": "&lt;p&gt;An image of a magnificent frigatebird silhouetted against a total solar eclipse by Canadian photographer Liron Gertsman was chosen from more ...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/oct/01/bird-photographer-of-year-2025-in-pictures",
-      "pubDate": "Tue, 30 Sep 2025 15:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67d6553875d87049e2e3ae537d5b2cddb999f01c/510_0_5720_4579/master/5720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2a2023b1515cbd00541f7f804682394"
-    },
-    {
-      "title": "Behind the Scenes: Uncovering the Secret Lives of Cacti and Fungi in the Sonoran Desert",
-      "description": "With sizzling temperatures and a parched climate, it can be hard to survive in the Sonoran Desert of Arizona. But some species have evolved to thrive ...",
-      "link": "https://insideclimatenews.org/news/30092025/todays-climate-secret-lives-cactus-fungi-desert-arizona/",
-      "pubDate": "Tue, 30 Sep 2025 12:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Virginia Could Show How to Manage Data Center Growth. So Far, It’s a Case Study in Stalling Legislation",
-      "description": "RICHMOND, Va.—You might think the state that is the undisputed epicenter of global internet traffic has a leg up on managing the challenges of the art...",
-      "link": "https://insideclimatenews.org/news/30092025/virginia-data-center-growth-legislation/",
-      "pubDate": "Tue, 30 Sep 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Chesapeake Bay Program Reaches a Crossroads",
-      "description": "The management board of the Chesapeake Bay Program will meet this week to hammer out the next iteration of the agreement that has governed the restora...",
-      "link": "https://insideclimatenews.org/news/30092025/chesapeake-bay-program-restoration-crossroads/",
-      "pubDate": "Tue, 30 Sep 2025 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
