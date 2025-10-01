@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-01T19:19:41.053Z",
+  "lastUpdated": "2025-10-01T20:27:25.495Z",
   "articles": [
+    {
+      "title": "California Sanctions Stark Disparities in Pesticide Exposure During Pregnancy",
+      "description": "A baby in the womb has few defenses against industrial petrochemicals designed to kill.&#160; Unborn babies’ nascent metabolic and detox systems lack ...",
+      "link": "https://insideclimatenews.org/news/01102025/california-pregnancy-pesticide-exposure-agricultural-fields/",
+      "pubDate": "Wed, 01 Oct 2025 20:17:23 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Watch: Jane Goodall tells BBC how she became interested in animals",
+      "description": "The animal rights activist has died aged 91, after a pioneering career studying chimps....",
+      "link": "https://www.bbc.com/news/videos/c9306139eg5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Oct 2025 20:07:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Conservationist Dame Jane Goodall dies aged 91",
+      "description": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist....",
+      "link": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Oct 2025 19:55:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "As Chicago Quantum Campus Breaks Ground, Residents Call for Community Benefits",
       "description": "CHICAGO—A Silicon Valley startup broke ground Tuesday afternoon at a former steelworks site on the Southeast Side for what is planned as the nation’s ...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2024/11/1125_Overshoot_9b1ea2.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Bupa steps forward with a healthy boost for nature",
-      "description": "Bupa is aiming to turn a record number of steps into more than $1 million in funding for local planting projects as part of the 2025 Healthy Cities Ch...",
-      "link": "https://econews.com.au/67956/bupa-steps-forward-with-a-healthy-boost-for-nature/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bupa-steps-forward-with-a-healthy-boost-for-nature",
-      "pubDate": "Wed, 01 Oct 2025 07:02:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/bupa-logo.png"
-    },
-    {
-      "title": "Great Barrier Reef Clean-up 2025 Launches in Townsville with Major Community Clean-up",
-      "description": "Volunteers descended on Pallarenda Beach today for the launch of the Great Barrier Reef Clean-up 2025, rolling up their sleeves to remove thousands of...",
-      "link": "https://econews.com.au/67954/great-barrier-reef-clean-up-2025-launches-in-townsville-with-major-community-clean-up/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=great-barrier-reef-clean-up-2025-launches-in-townsville-with-major-community-clean-up",
-      "pubDate": "Wed, 01 Oct 2025 07:02:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Sircel launches Australia’s first PCB recovery line to boost circular economy",
-      "description": "Australia’s largest e-waste processor, Sircel, has today announced the launch of the country’s first dedicated Printed Circuit Board (PCB) resource re...",
-      "link": "https://econews.com.au/67952/sircel-launches-australias-first-pcb-recovery-line-to-boost-circular-economy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sircel-launches-australias-first-pcb-recovery-line-to-boost-circular-economy",
-      "pubDate": "Wed, 01 Oct 2025 07:02:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
     }
   ]
 }
