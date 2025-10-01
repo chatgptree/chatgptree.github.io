@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-01T07:25:29.100Z",
+  "lastUpdated": "2025-10-01T08:34:02.601Z",
   "articles": [
+    {
+      "title": "So many climate solutions, so few emissions reductions. A new book explains why.",
+      "description": "In The Long Heat, Wim Carton and Andreas Malm argue that capitalism has turned the climate crisis into a business opportunity....",
+      "link": "https://grist.org/culture/climate-capitalism-tech-the-long-heat-malm-carton-book-review/",
+      "pubDate": "Wed, 01 Oct 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/11/1125_Overshoot_9b1ea2.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Bupa steps forward with a healthy boost for nature",
       "description": "Bupa is aiming to turn a record number of steps into more than $1 million in funding for local planting projects as part of the 2025 Healthy Cities Ch...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Alaska, a graphite mine races toward approval without the required tribal consent",
-      "description": "A project in western Alaska is being fast-tracked in a process that has not yet included legally required consultations with Inupiaq communities....",
-      "link": "https://grist.org/indigenous/in-alaska-a-graphite-mine-races-toward-approval-without-the-required-tribal-consent/",
-      "pubDate": "Tue, 30 Sep 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2023/07/Manh-Choh-5.5-min.jpg?quality=75&#038;strip=all"
     }
   ]
 }
