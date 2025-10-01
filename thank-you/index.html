@@ -48,21 +48,24 @@
         }
 
         .home-button {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
             background-color: #4CAF50;
             color: white;
-            padding: 15px 40px;
+            width: 60px;
+            height: 60px;
             text-decoration: none;
-            border-radius: 8px;
-            font-weight: bold;
-            font-size: 18px;
+            border-radius: 50%;
+            font-size: 28px;
             transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
         }
 
         .home-button:hover {
             background-color: #45a049;
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+            transform: translateY(-2px) scale(1.05);
+            box-shadow: 0 6px 16px rgba(76, 175, 80, 0.4);
         }
 
         @media (max-width: 768px) {
@@ -84,8 +87,9 @@
             }
 
             .home-button {
-                padding: 12px 30px;
-                font-size: 16px;
+                width: 60px;
+                height: 60px;
+                font-size: 28px;
             }
         }
     </style>
@@ -103,7 +107,9 @@
             <h1>Thank You!</h1>
             <p>We've received your message and we'll get back to you within 24-48 hours. We're excited to help bring your trees to life!</p>
             <p>In the meantime, why not try chatting with Bazza, our demo Moreton Bay Fig?</p>
-            <a href="/" class="home-button"><i class="fas fa-home"></i> Back to Home</a>
+            <a href="/" class="home-button" title="Back to Home">
+                <i class="fas fa-home"></i>
+            </a>
         </div>
     </main>
 
