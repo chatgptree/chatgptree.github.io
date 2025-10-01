@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-01T21:22:20.001Z",
+  "lastUpdated": "2025-10-01T22:23:37.346Z",
   "articles": [
+    {
+      "title": "Jane Goodall: the conservationist who communed with chimps – video obituary",
+      "description": "&lt;p&gt;The world-renowned primatologist &lt;a href=\"https://www.theguardian.com/science/jane-goodall\"&gt;Jane Goodall&lt;/a&gt; has died at the age ...",
+      "link": "https://www.theguardian.com/science/video/2025/oct/01/jane-goodall-the-conservationist-who-communed-with-chimps-video-obituary",
+      "pubDate": "Wed, 01 Oct 2025 21:53:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/76cf41b9caae883f454bf7f64a31df3d87b958fa/156_0_1680_1344/master/1680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17730d95c9a69ac92e17ea57c83b3c0e"
+    },
+    {
+      "title": "Dame Jane Goodall revolutionised our understanding of our closest primate cousins",
+      "description": "Those she inspired say she not only revolutionised our understanding of chimpanzees - but challenged how we relate to the natural world....",
+      "link": "https://www.bbc.com/news/articles/cgj1pz8q63go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Oct 2025 20:53:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Conservationist Dame Jane Goodall dies aged 91",
       "description": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist....",
@@ -16,15 +34,6 @@
       "link": "https://insideclimatenews.org/news/01102025/california-pregnancy-pesticide-exposure-agricultural-fields/",
       "pubDate": "Wed, 01 Oct 2025 20:17:23 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch: Jane Goodall tells BBC how she became interested in animals",
-      "description": "The animal rights activist has died aged 91, after a pioneering career studying chimps....",
-      "link": "https://www.bbc.com/news/videos/c9306139eg5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Oct 2025 20:07:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2023/10/e-bike-popularity-safety-certification-UL-New-York.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "So many climate solutions, so few emissions reductions. A new book explains why.",
-      "description": "In \"The Long Heat,\" Wim Carton and Andreas Malm argue that capitalism has turned the climate crisis into a business opportunity....",
-      "link": "https://grist.org/culture/climate-capitalism-tech-the-long-heat-malm-carton-book-review/",
-      "pubDate": "Wed, 01 Oct 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/11/1125_Overshoot_9b1ea2.jpg?quality=75&#038;strip=all"
     }
   ]
 }
