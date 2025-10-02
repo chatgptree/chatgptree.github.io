@@ -19,7 +19,7 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.chatgptree.com.au/">
-    <meta property="og:title" content="ChatGPTree - What If Trees Could Talk?">
+    <meta property="og:title" content="ChatGPTree - The Voice of Your Garden">
     <meta property="og:description" content="The interactive platform that brings your trees to life. Visitors chat with trees by voice or text - you control the content.">
     <meta property="og:image" content="https://www.chatgptree.com.au/images/og-image.png">
     <meta property="og:image:width" content="1200">
@@ -29,7 +29,7 @@
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://www.chatgptree.com.au/">
-    <meta name="twitter:title" content="ChatGPTree - What If Trees Could Talk?">
+    <meta name="twitter:title" content="ChatGPTree - The Voice of Your Garden">
     <meta name="twitter:description" content="The interactive platform that brings your trees to life. Visitors chat with trees by voice or text.">
     <meta name="twitter:image" content="https://www.chatgptree.com.au/images/og-image.png">
     
@@ -191,7 +191,7 @@
             <form action="https://api.web3forms.com/submit" method="POST" class="contact-form" id="contactForm">
                 
                 <!-- Replace with your actual Access Key from web3forms.com -->
-                <input type="hidden" name="access_key" value="387fd2de-de53-412b-84db-cf511ea13ea1">
+                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
                 
                 <!-- Optional: Redirect after submission -->
                 <input type="hidden" name="redirect" value="https://www.chatgptree.com.au/thank-you/">
@@ -222,6 +222,83 @@
                 <div class="form-group">
                     <label for="message">Message *</label>
                     <textarea id="message" name="message" required rows="6" placeholder="Tell us about your project..."></textarea>
+                </div>
+
+                <!-- Feature Selection Cards -->
+                <div class="form-group">
+                    <label>Features You're Interested In</label>
+                    <p style="font-size: 15px; color: #666; margin-bottom: 15px;">Click the features you'd like to include (optional)</p>
+                    <div class="feature-selection-grid">
+                        <div class="feature-select-card" data-feature="Custom Tree Personalities">
+                            <i class="fas fa-theater-masks"></i>
+                            <span>Custom Tree Personalities</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Quizzes & Games">
+                            <i class="fas fa-gamepad"></i>
+                            <span>Quizzes & Games</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Location Verification">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>Location Verification</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Interactive Map View">
+                            <i class="fas fa-map"></i>
+                            <span>Interactive Map View</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Message Board (The Grapevine)">
+                            <i class="fas fa-comment-dots"></i>
+                            <span>Message Board (The Grapevine)</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="News Feed (Arbor Archives)">
+                            <i class="fas fa-newspaper"></i>
+                            <span>News Feed (Arbor Archives)</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Wildlife & Pollinator Content">
+                            <i class="fas fa-bug"></i>
+                            <span>Wildlife & Pollinator Content</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Session Timer/Management">
+                            <i class="fas fa-clock"></i>
+                            <span>Session Timer/Management</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Rating/Feedback System">
+                            <i class="fas fa-star"></i>
+                            <span>Rating/Feedback System</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Wikipedia Integration">
+                            <i class="fab fa-wikipedia-w"></i>
+                            <span>Wikipedia Integration</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Donation Integration">
+                            <i class="fas fa-hand-holding-heart"></i>
+                            <span>Donation Integration</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Shop/Nursery Integration">
+                            <i class="fas fa-store"></i>
+                            <span>Shop/Nursery Integration</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Tree Benefits Information">
+                            <i class="fas fa-leaf"></i>
+                            <span>Tree Benefits Information</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Suggested Questions Dropdown">
+                            <i class="fas fa-lightbulb"></i>
+                            <span>Suggested Questions Dropdown</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Image/Video Content Delivery">
+                            <i class="fas fa-photo-video"></i>
+                            <span>Image/Video Content Delivery</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Tree Community Recommendations">
+                            <i class="fas fa-users"></i>
+                            <span>Tree Community Recommendations</span>
+                        </div>
+                        <div class="feature-select-card" data-feature="Voice Selection Options">
+                            <i class="fas fa-volume-up"></i>
+                            <span>Voice Selection Options</span>
+                        </div>
+                    </div>
+                    <input type="hidden" name="selected_features" id="selectedFeatures">
                 </div>
 
                 <button type="submit" class="submit-button">
@@ -282,6 +359,30 @@ document.addEventListener('DOMContentLoaded', () => {
             button.disabled = true;
         });
     }
+
+    // Feature selection cards
+    const featureCards = document.querySelectorAll('.feature-select-card');
+    const selectedFeaturesInput = document.getElementById('selectedFeatures');
+    const selectedFeatures = new Set();
+
+    featureCards.forEach(card => {
+        card.addEventListener('click', function() {
+            const feature = this.dataset.feature;
+            
+            if (this.classList.contains('selected')) {
+                // Deselect
+                this.classList.remove('selected');
+                selectedFeatures.delete(feature);
+            } else {
+                // Select
+                this.classList.add('selected');
+                selectedFeatures.add(feature);
+            }
+            
+            // Update hidden input with comma-separated list
+            selectedFeaturesInput.value = Array.from(selectedFeatures).join(', ');
+        });
+    });
 });
 </script>
 </body>
