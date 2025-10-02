@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-02T01:54:40.386Z",
+  "lastUpdated": "2025-10-02T03:01:47.015Z",
   "articles": [
+    {
+      "title": "Conservationist Dame Jane Goodall dies aged 91",
+      "description": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist....",
+      "link": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Oct 2025 02:45:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza",
+      "description": "&lt;p&gt;Greta Thunberg arrested and taken into custody after six of the flotilla’s boats were boarded&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hre...",
+      "link": "https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza",
+      "pubDate": "Thu, 02 Oct 2025 01:50:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6a14b9ada5ae9a13bc587a1ce7b7a76e745617fe/399_34_1461_1169/master/1461.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96a1b14ce8fdab83a70aa50140b78d35"
+    },
     {
       "title": "Corporate ‘middlemen’ mask who really profits from Australian fossil fuel projects, report warns",
       "description": "&lt;p&gt;Nominee companies – paid to be listed as shareholders on behalf of unnamed investors – could be reducing accountability over financial suppor...",
@@ -16,15 +34,6 @@
       "link": "https://insideclimatenews.org/news/01102025/national-parks-at-risk-during-government-shutdown/",
       "pubDate": "Wed, 01 Oct 2025 22:56:14 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Conservationist Dame Jane Goodall dies aged 91",
-      "description": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist....",
-      "link": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Oct 2025 22:47:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -45,15 +54,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza",
-      "description": "&lt;p&gt;Greta Thunberg arrested and taken into custody after six of the flotilla’s boats were boarded&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza",
-      "pubDate": "Wed, 01 Oct 2025 20:49:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6a14b9ada5ae9a13bc587a1ce7b7a76e745617fe/399_34_1461_1169/master/1461.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96a1b14ce8fdab83a70aa50140b78d35"
     },
     {
       "title": "California Sanctions Stark Disparities in Pesticide Exposure During Pregnancy",
