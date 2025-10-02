@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-02T21:21:22.118Z",
+  "lastUpdated": "2025-10-02T22:22:38.624Z",
   "articles": [
+    {
+      "title": "In Its New Carbon Plan, Duke Energy Gambles on Coal as a Shorter-Term Fix for Powering Data Centers",
+      "description": "Duke Energy plans to burn coal for two to four years longer than previously estimated, which will result in millions of tons in additional greenhouse ...",
+      "link": "https://insideclimatenews.org/news/02102025/duke-energy-carbon-plan-coal-data-centers/",
+      "pubDate": "Thu, 02 Oct 2025 21:39:43 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "EPA Moves to Prioritize Review of New Chemicals for Data Centers",
       "description": "The Trump administration has begun prioritizing the review of new, potentially hazardous chemicals used in data centers that public health advocates a...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/Harpers-ferry-NPS-sign-removal.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "An absurdist theater artist prepares New Yorkers for climate disasters",
-      "description": "\"Sometimes a one-page pamphlet translated into two languages isn’t the best way for people to receive information, but a song about go-bags played on ...",
-      "link": "https://grist.org/culture/an-absurdist-theatre-artist-prepares-new-yorkers-for-climate-disasters/",
-      "pubDate": "Thu, 02 Oct 2025 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/flood-sensor-aunty-play-new-york-flooding-climate-change-community-preparedness-play.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
