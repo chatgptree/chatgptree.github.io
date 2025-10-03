@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-03T03:01:35.632Z",
+  "lastUpdated": "2025-10-03T04:28:26.566Z",
   "articles": [
     {
       "title": "Russia targets UK military satellites on weekly basis",
@@ -9,6 +9,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Snowy Hydro 2.0 flags another cost blowout with $12bn price tag now considered unachievable",
+      "description": "&lt;p&gt;Pumped hydro project in Kosciuszko national park is 67% complete, but supply chain cost increases and issues with a borer have caused cost ov...",
+      "link": "https://www.theguardian.com/environment/2025/oct/03/snowy-hydro-20-flags-another-cost-blowout-with-12bn-price-tag-now-considered-unachievable",
+      "pubDate": "Fri, 03 Oct 2025 02:24:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bf6da3bae659ffdbbc479b3542f50ea60608a793/480_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21e131856e4f974b1db5b3c4055746b8"
     },
     {
       "title": "In First Address on Climate Change, Pope Leo Signals Continuity With Francis—and Opposition to Trump",
@@ -117,15 +126,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7d8902ec12ed788a1eff040fd00c254fc326f140/292_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cdfa5c6d9239a44020585422d41d3178"
-    },
-    {
-      "title": "Senior Tories dismayed at Badenoch’s ‘catastrophic’ vow to repeal Climate Change Act",
-      "description": "&lt;p&gt;Theresa May, Alok Sharma, business and church leaders say plan would harm UK and not even Margaret Thatcher would have countenanced it&lt;/p&...",
-      "link": "https://www.theguardian.com/environment/2025/oct/02/kemi-badenoch-vow-to-repeal-climate-change-act-senior-tories-dismayed",
-      "pubDate": "Thu, 02 Oct 2025 13:11:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/92f77ae34fb28a187044fd4b122f58a360cca2f2/180_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93ade318135f858554ca75c9a8f372e8"
     },
     {
       "title": "Vehicle-to-Grid Power Is Becoming a Reality, But Why Isn’t Progress Faster?",
