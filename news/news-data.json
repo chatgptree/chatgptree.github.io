@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-03T01:54:14.966Z",
+  "lastUpdated": "2025-10-03T03:01:35.632Z",
   "articles": [
+    {
+      "title": "Russia targets UK military satellites on weekly basis",
+      "description": "Moscow is attempting to collect information from UK spacecraft, according to the MoD....",
+      "link": "https://www.bbc.com/news/articles/c4gkyl1j6n9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 03 Oct 2025 02:31:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "In First Address on Climate Change, Pope Leo Signals Continuity With Francis—and Opposition to Trump",
       "description": "Pope Leo on Wednesday spoke before a slowly melting chunk of glacial ice in Vatican City in his first address on climate change. On a stage adorned wi...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/GRIST-ELISEU-CAVALCANTE-15-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "5 things to know about the fungal infection valley fever",
-      "description": "Learn how the disease spreads, how to recognize common symptoms, and how it's diagnosed and treated....",
-      "link": "https://grist.org/health/5-things-to-know-about-the-fungal-infection-valley-fever/",
-      "pubDate": "Thu, 02 Oct 2025 08:40:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/valley-fever-final.jpg?quality=75&#038;strip=all"
     }
   ]
 }
