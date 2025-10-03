@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-03T17:20:52.334Z",
+  "lastUpdated": "2025-10-03T18:34:39.315Z",
   "articles": [
+    {
+      "title": "New Study Shows Disruption of Ocean Currents That Stabilize the Global Climate",
+      "description": "A new study analyzing chemical traces in the growth rings of clam shells reinforces growing concerns about the stability of a key North Atlantic Ocean...",
+      "link": "https://insideclimatenews.org/news/03102025/atlantic-meridional-overturning-current-disruption/",
+      "pubDate": "Fri, 03 Oct 2025 18:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Starmer will hand Britain over to Farage, says Green party leader Zack Polanski",
       "description": "&lt;p&gt;Leader tells party’s conference he is ready to take the fight to Labour and  speak out in support of immigration&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c7365e66e6ba99a6943921966391f6a9415d8e75/499_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e39af92529721852aca505c499cf80b5"
-    },
-    {
-      "title": "Tories pledge to scrap landmark climate legislation",
-      "description": "Conservative leader Kemi Badenoch says her party would axe legally binding targets to cut emissions....",
-      "link": "https://www.bbc.com/news/articles/czrp2k3m3deo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Oct 2025 16:21:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
