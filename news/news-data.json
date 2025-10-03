@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-03T05:24:14.792Z",
+  "lastUpdated": "2025-10-03T06:36:09.916Z",
   "articles": [
+    {
+      "title": "Week in wildlife: a shy polar bear, whirling waders and a pilchard platoon",
+      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/oct/03/week-in-wildlife-a-shy-polar-bear-whirling-waders-and-a-pilchard-platoon",
+      "pubDate": "Fri, 03 Oct 2025 06:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9c77b675cb85a736d1f9c851a97574d2e4424326/311_0_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9fcb4ceb167577c80e08148f484741ad"
+    },
     {
       "title": "Russia targets UK military satellites on weekly basis",
       "description": "Moscow is attempting to collect information from UK spacecraft, according to the MoD....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Arizona, a fight against a deadly fungus is under threat from Trump’s health policies",
-      "description": "What one doctor’s quest to stop valley fever says about America’s preparedness for climate-driven disease....",
-      "link": "https://grist.org/health/valley-fever-arizona-fungus-climate-change/",
-      "pubDate": "Thu, 02 Oct 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/GRIST-ELISEU-CAVALCANTE-15-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
