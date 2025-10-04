@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-04T12:46:44.821Z",
+  "lastUpdated": "2025-10-04T13:25:23.528Z",
   "articles": [
+    {
+      "title": "At least 170 US hospitals face major flood risk. Experts say Trump is making it worse.",
+      "description": "At many of these facilities, flooding from heavy storms has the potential to jeopardize patient care, block access to emergency rooms, and force evacu...",
+      "link": "https://grist.org/accountability/at-least-170-us-hospitals-face-major-flood-risk-experts-say-trump-is-making-it-worse/",
+      "pubDate": "Sat, 04 Oct 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/Hospital-Flood-Risk07-min.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom",
       "description": "&lt;p&gt;Tech companies’ use of Pfas gas at facilities may mean datacenters’ climate impact is worse than previously thought&lt;/p&gt;&lt;p&gt;Datacen...",
@@ -168,15 +177,6 @@
       "description": "“Edible forests” are popping up in Boston. Scattered across the city, once-empty lots have been overtaken by fruit trees and berry-filled bushes. Open...",
       "link": "https://insideclimatenews.org/news/03102025/boston-edible-food-forests/",
       "pubDate": "Fri, 03 Oct 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Illinois Utility Pilots Vehicle-to-Grid Program With Electric School Buses",
-      "description": "The largest electric utility in Illinois is rolling out a program for a vehicle-to-grid (V2G) electric school bus&#8211;charging pilot with three Chic...",
-      "link": "https://insideclimatenews.org/news/03102025/illinois-electric-school-bus-vehicle-to-grid-program/",
-      "pubDate": "Fri, 03 Oct 2025 08:50:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
