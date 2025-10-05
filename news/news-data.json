@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-05T13:25:48.751Z",
+  "lastUpdated": "2025-10-05T14:20:38.129Z",
   "articles": [
+    {
+      "title": "I used to think birds made life worth living only for those of us obsessed with them. Now I know the truth",
+      "description": "&lt;p&gt;It wasn’t until I was in my 20s that I realised birds could have a powerful significance even for people who weren’t bird-nerds like me&lt;/p...",
+      "link": "https://www.theguardian.com/environment/2025/oct/06/birds-make-life-worth-living-powerful-significance-meaning-white-plummed-honeyeater",
+      "pubDate": "Sun, 05 Oct 2025 14:00:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0196f12c9c491aff1ca2467859ebfc36c57ddb38/424_0_2665_2133/master/2665.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=284f348faf877b3f0bb39bc5245c97ab"
+    },
+    {
+      "title": "Ohio’s sole national forest could be wiped out as Trump targets land for logging",
+      "description": "&lt;p&gt;Over 80% of Wayne national forest classified as suitable for logging, drawing concern from locals&lt;/p&gt;&lt;p&gt;In the Appalachian foothi...",
+      "link": "https://www.theguardian.com/us-news/2025/oct/05/ohio-wayne-national-forest-logging-trump-administration",
+      "pubDate": "Sun, 05 Oct 2025 14:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/85aac6382cc0bab4ff4b79dc29d13d24f82fa2a5/126_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e47b9220960cf77d38f4eca0346ae53a"
+    },
+    {
+      "title": "Ministers to announce significant changes to UK’s planning system",
+      "description": "&lt;p&gt;Exclusive: Differences over changes to environmental and legal provisions to prompt economic growth hint at chaos at heart of government&lt;/...",
+      "link": "https://www.theguardian.com/politics/2025/oct/05/ministers-significant-changes-uk-planning-system",
+      "pubDate": "Sun, 05 Oct 2025 13:30:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/510ae088d2e0d583efe31a7f3fd71cebd9cd8798/272_0_4128_3304/master/4128.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c75de0b1a8a68cf64ab9e11925b384f5"
+    },
     {
       "title": "The EPA is ending greenhouse gas data collection. Who will step up to fill the gap?",
       "description": "With the agency no longer collecting emissions data from polluting companies, attention is turning to whether climate NGOs have the tools—and legal ri...",
@@ -110,15 +137,6 @@
       "image": "https://grist.org/wp-content/uploads/2025/10/Hospital-Flood-Risk07-min.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom",
-      "description": "&lt;p&gt;Tech companies’ use of Pfas gas at facilities may mean datacenters’ climate impact is worse than previously thought&lt;/p&gt;&lt;p&gt;Datacen...",
-      "link": "https://www.theguardian.com/environment/2025/oct/04/pfas-pollution-data-centers-ai",
-      "pubDate": "Sat, 04 Oct 2025 12:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cffef6ee551adbff802fc81624a0361c879864ce/342_0_3845_3078/master/3845.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=885729fdeec50f040f968d4ec4a27038"
-    },
-    {
       "title": "Trump officials cut nearly $8bn in clean energy projects in Democratic states",
       "description": "&lt;p&gt;Democrats and environmental groups slam move as ‘sick political game’ and say it will drive up energy bills&lt;/p&gt;&lt;p&gt;The &lt;a href=...",
       "link": "https://www.theguardian.com/us-news/2025/oct/04/trump-clean-energy-cuts-democrat-states",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/unnamed-39.jpg"
-    },
-    {
-      "title": "Scientists create natural plastics for everyday packaging",
-      "description": "Edward Attenborough and Dr Leonie van ’t Hag are creating smarter bioplastics for packaging and medical films to cut down single-use waste. Monash Uni...",
-      "link": "https://econews.com.au/67970/scientists-create-natural-plastics-for-everyday-packaging/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scientists-create-natural-plastics-for-everyday-packaging",
-      "pubDate": "Sat, 04 Oct 2025 09:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/unnamed-36.jpg"
-    },
-    {
-      "title": "The Sage Grouse Could Face More Development in Its Critical Habitat Under Trump",
-      "description": "Wyoming’s Red Desert, a large ecosystem spread through much of the state’s central and southwestern lands, appeared undisturbed on a warm mid-Septembe...",
-      "link": "https://insideclimatenews.org/news/04102025/sage-grouse-critical-habitat-development-trump-administration/",
-      "pubDate": "Sat, 04 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
