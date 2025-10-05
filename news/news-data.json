@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-04T23:21:54.947Z",
+  "lastUpdated": "2025-10-05T02:05:30.413Z",
   "articles": [
+    {
+      "title": "The before and after images showing glaciers vanishing before our eyes",
+      "description": "They are melting like never seen before, changing landscapes around the world beyond recognition. ...",
+      "link": "https://www.bbc.com/news/articles/ce32ezzq6zlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 05 Oct 2025 00:28:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Environment prize nominees 'heroes of our time', says William",
       "description": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d5dad1f63debe825889bdd9d38fd6ee7e1029d33/170_0_5988_4790/master/5988.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e72af1b8ac848665c552cac66779061c"
-    },
-    {
-      "title": "Vaccine breakthrough for deadly elephant virus",
-      "description": "A vaccine against a deadly disease that affects young elephants is shown to be effective in a world-first trial.   ...",
-      "link": "https://www.bbc.com/news/articles/cjd1j02y88do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 03 Oct 2025 09:04:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
