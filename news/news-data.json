@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-06T22:22:41.638Z",
+  "lastUpdated": "2025-10-06T23:22:41.502Z",
   "articles": [
+    {
+      "title": "Global renewable energy generation surpasses coal for first time",
+      "description": "&lt;p&gt;Record solar expansion and steady wind growth driving world’s shift away from fossil fuels in 2025, report finds&lt;/p&gt;&lt;p&gt;The world’...",
+      "link": "https://www.theguardian.com/environment/2025/oct/07/global-renewable-energy-generation-surpasses-coal-first-time",
+      "pubDate": "Mon, 06 Oct 2025 23:01:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ddf5282ada8d1aabe4d8e443275c500f53556288/120_0_4932_3948/master/4932.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67920335ec12d94f34f70f2a686118e5"
+    },
+    {
+      "title": "As Colorado River Nears Collapse, It Faces Leadership, Transparency ‘Crisis,’ Environmentalists Warn",
+      "description": "There is no more water available. That’s the assessment of a new report published Wednesday about the Colorado River by a coalition of environmental g...",
+      "link": "https://insideclimatenews.org/news/06102025/colorado-river-water-supply-report/",
+      "pubDate": "Mon, 06 Oct 2025 22:38:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Exxon Steps Back From Texas Gulf Coast Plastics Plant",
       "description": "Exxon Mobil will postpone its plans for a large new plastics production plant on the Gulf Coast of Texas, according to the company. Construction was i...",
@@ -119,15 +137,6 @@
       "image": "https://grist.org/wp-content/uploads/2025/04/4-9-25-Butterfield-Blvd-Site-IPA-189.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Cause of Gold Coast mass fish kill unknown with marine heatwave most likely culprit, scientists say",
-      "description": "&lt;p&gt;Local community group says whatever the cause ‘kids shouldn’t be in the water’ with dead fish&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/06/cause-of-gold-coast-mass-fish-kill-unknown-with-marine-heatwave-most-likely-culprit-say-scientists",
-      "pubDate": "Mon, 06 Oct 2025 07:07:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1e480948a184237189a9c2f7c4cf106f07a22fb5/0_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad54ebdd193617cbb81c8ed1cee9ccb2"
-    },
-    {
       "title": "Farm to Fuel: Australia’s First Bioenergy Feedstock Strategy to Unlock $10B Low-Carbon Fuel Economy and Regional Jobs",
       "description": "Submissions open for a new national blueprint designed to chart a united approach for Australia’s low-carbon energy future.  The Australian Government...",
       "link": "https://econews.com.au/67982/farm-to-fuel-australias-first-bioenergy-feedstock-strategy-to-unlock-10b-low-carbon-fuel-economy-and-regional-jobs/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=farm-to-fuel-australias-first-bioenergy-feedstock-strategy-to-unlock-10b-low-carbon-fuel-economy-and-regional-jobs",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/85aac6382cc0bab4ff4b79dc29d13d24f82fa2a5/126_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e47b9220960cf77d38f4eca0346ae53a"
-    },
-    {
-      "title": "The EPA is ending greenhouse gas data collection. Who will step up to fill the gap?",
-      "description": "With the agency no longer collecting emissions data from polluting companies, attention is turning to whether climate NGOs have the tools — and legal ...",
-      "link": "https://grist.org/accountability/the-epa-is-ending-greenhouse-gas-data-collection-who-will-step-up-to-fill-the-gap/",
-      "pubDate": "Sun, 05 Oct 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/coal-creek-station.jpg?quality=75&#038;strip=all"
     }
   ]
 }
