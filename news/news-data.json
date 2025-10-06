@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-10-06T08:33:51.270Z",
+  "lastUpdated": "2025-10-06T09:29:34.131Z",
   "articles": [
+    {
+      "title": "Fade to grey: as forests are cut down, butterflies are losing their colours",
+      "description": "&lt;p&gt;The insects’ brilliant hues evolved in lush ecosystems to help them survive. Now they are becoming more muted to adapt to degraded landscapes...",
+      "link": "https://www.theguardian.com/environment/2025/oct/06/butterflies-losing-colour-cutting-down-tropical-forests-aoe",
+      "pubDate": "Mon, 06 Oct 2025 09:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c81821cca5170406469e973f64e4d02f922188c6/3_225_1430_1144/master/1430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a6107a9b57bdc4ef8df4f7ab4bea352"
+    },
+    {
+      "title": "New Report Examines Fossil Fuel Ties of Dozens of Trump Administration Hires",
+      "description": "The Trump administration wasted no time in tapping individuals with ties to fossil fuel industries and right-wing think tanks funded by oil tycoons fo...",
+      "link": "https://insideclimatenews.org/news/06102025/trump-administration-fossil-fuel-ties/",
+      "pubDate": "Mon, 06 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The ocean is a carbon toilet. Marine heat waves are clogging it.",
+      "description": "Tiny poops are supposed to sink to the seafloor, locking away carbon. But scientists have found that warm spells are disrupting that flushing....",
+      "link": "https://grist.org/climate/the-ocean-is-a-carbon-toilet-marine-heat-waves-are-clogging-it/",
+      "pubDate": "Mon, 06 Oct 2025 09:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/MBARI_FloatDeployment_01_2048.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Detroit Is the Nation’s Most Challenging City for People with Asthma, a New Report Suggests",
+      "description": "In the Motor City, it’s more than just vehicle exhaust causing problems for people living with asthma. While pollution from vehicle emissions and manu...",
+      "link": "https://insideclimatenews.org/news/06102025/detroit-asthma-climate-change-pollution/",
+      "pubDate": "Mon, 06 Oct 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Breast cancer, dizziness, headaches: El Paso residents ask if a warehouse&#8217;s toxic emissions are to blame",
       "description": "After a Grist investigation revealing exposure to the carcinogen ethylene oxide, El Paso residents confront troubling questions about their health....",
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The before and after images showing glaciers vanishing before our eyes",
-      "description": "They are melting like never seen before, changing landscapes around the world beyond recognition. ...",
-      "link": "https://www.bbc.com/news/articles/ce32ezzq6zlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 05 Oct 2025 00:28:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Environment prize nominees 'heroes of our time', says William",
-      "description": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro....",
-      "link": "https://www.bbc.com/news/articles/cz08591znr8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 04 Oct 2025 21:04:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Not sure what’s happening’: US national parks in limbo as shutdown drags on",
-      "description": "&lt;p&gt;Some parks are closed, some are trying to function with a skeleton staff – and visitors and employees are frustrated &lt;/p&gt;&lt;p&gt;Kim N...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/04/us-national-parks-government-shutdown",
-      "pubDate": "Sat, 04 Oct 2025 14:00:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3894c872a2f92e2a62d4d23e63280d54fc4a822b/272_0_4180_3344/master/4180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e0d190aa79ce19412da422af0ef8375"
-    },
-    {
-      "title": "At least 170 US hospitals face major flood risk. Experts say Trump is making it worse.",
-      "description": "At many of these facilities, flooding from heavy storms has the potential to jeopardize patient care, block access to emergency rooms, and force evacu...",
-      "link": "https://grist.org/accountability/at-least-170-us-hospitals-face-major-flood-risk-experts-say-trump-is-making-it-worse/",
-      "pubDate": "Sat, 04 Oct 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/Hospital-Flood-Risk07-min.jpg?quality=75&amp;strip=all"
     }
   ]
 }
