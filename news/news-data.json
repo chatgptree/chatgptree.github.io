@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-07T20:27:19.501Z",
+  "lastUpdated": "2025-10-07T21:21:24.910Z",
   "articles": [
+    {
+      "title": "Jane Goodall’s Final Message: ‘Don’t Give Up’",
+      "description": "Last week, the world lost a conservation giant. On Oct. 1, renowned primatologist and environmental advocate Jane Goodall died at the age of 91. The B...",
+      "link": "https://insideclimatenews.org/news/07102025/todays-climate-jane-goodall-died-final-message/",
+      "pubDate": "Tue, 07 Oct 2025 20:56:27 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Glacier melt will lead to ice-free peaks in California for first time in human history",
       "description": "&lt;p&gt;New research shows massive glaciers in Sierra Nevada projected to melt away by the beginning of the next century&lt;/p&gt;&lt;p&gt;Deep in Ca...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/93678b6b81d9303997ee22305a59f74a3dbad2ba/833_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=128de7997986cf01eb751423acc2d73c"
-    },
-    {
-      "title": "New Report Marks a Decade of Progress, Challenges on Global Decarbonization",
-      "description": "A report released Monday shows that collective global climate action is still falling short of what’s needed to protect Earth’s livable climate. Still...",
-      "link": "https://insideclimatenews.org/news/06102025/global-decarbonization-climate-policy-report/",
-      "pubDate": "Mon, 06 Oct 2025 23:34:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
