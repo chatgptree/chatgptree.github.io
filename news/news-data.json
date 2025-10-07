@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-07T12:54:16.344Z",
+  "lastUpdated": "2025-10-07T13:34:34.756Z",
   "articles": [
+    {
+      "title": "Physics Nobel awarded to three scientists for work on quantum computing",
+      "description": "The announcement was made by the Royal Swedish Academy of Sciences in Stockholm....",
+      "link": "https://www.bbc.com/news/articles/c98d00nq47jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 07 Oct 2025 12:59:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Renewables overtake coal as world's biggest source of electricity",
       "description": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows....",
@@ -27,15 +36,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fa56cd13b38f2c41fe2db7af4f4aa2983e0aacd6/489_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24a69ad08d4f306765eb56e11feef499"
-    },
-    {
-      "title": "Physics Nobel awarded to three scientists for work on quantum computing",
-      "description": "The announcement was made by the Royal Swedish Academy of Sciences in Stockholm....",
-      "link": "https://www.bbc.com/news/articles/c98d00nq47jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Oct 2025 11:22:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Marine heatwaves to become more frequent off UK and Irish coasts, experts say",
