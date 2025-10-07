@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-07T03:02:26.125Z",
+  "lastUpdated": "2025-10-07T04:29:28.569Z",
   "articles": [
+    {
+      "title": "‘It’s Sellafield or nothing’: what life is like growing up in the shadow of Europe’s oldest nuclear site",
+      "description": "&lt;p&gt;Young people in Whitehaven on England’s north-west coast rely on the power plant for everything from jobs to civic investment. But for those ...",
+      "link": "https://www.theguardian.com/environment/2025/oct/07/whitehaven-sellafield-europe-oldest-nuclear-site",
+      "pubDate": "Tue, 07 Oct 2025 04:00:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/77a4aad08e71962f275496946e9f8c80d8e9a13b/625_0_9294_7439/master/9294.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc0f070029c60c0e0a055f2723805a81"
+    },
+    {
+      "title": "‘Fiery and spectacular’ rainbow of autumn colour set to bloom across UK",
+      "description": "&lt;p&gt;National Trust gardeners expect vivid hues and bountiful fungi, nuts and berries thanks to recent weather conditions&lt;/p&gt;&lt;p&gt;The se...",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/oct/07/fiery-spectacular-rainbow-autumn-colour-bloom-gardens-uk",
+      "pubDate": "Tue, 07 Oct 2025 04:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d255191a93ecf9fa5ca47f6997fe48f9df33cd51/0_0_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b936b92a82507f5c4b0edac396cbac5f"
+    },
     {
       "title": "Trump orders approval of 211-mile mining road through Alaska wilderness",
       "description": "&lt;p&gt;Ambler Road project, approved in Trump’s first term but blocked by Biden, would harm Native tribes and wildlife&lt;/p&gt;&lt;p&gt;&lt;a href=...",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Renewables overtake coal as world's biggest source of electricity",
-      "description": "Renewables overtook coal as the world's leading source of electricity this year, a think tank analysis shows....",
+      "description": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows....",
       "link": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 07 Oct 2025 00:02:03 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -21,7 +39,7 @@
     },
     {
       "title": "Renewables overtake coal as world's biggest source of electricity",
-      "description": "Renewables overtook coal as the world's leading source of electricity this year, a think tank analysis shows....",
+      "description": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows....",
       "link": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 07 Oct 2025 00:02:03 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -110,15 +128,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "At $4.5bn each year, extreme weather is costing Australia three times as much compared with 1990s, insurers say",
-      "description": "&lt;p&gt;‘The trajectory is only up, in terms of insured costs,’ professor of climate risk warns&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"htt...",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/07/at-45bn-each-year-extreme-weather-is-costing-australia-three-times-as-much-compared-with-1990s-insurers-say",
-      "pubDate": "Mon, 06 Oct 2025 14:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1b794294e1f71880bca2cd57e34a44c9894e24ce/70_0_4778_3822/master/4778.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e95beb49e9a1158297599b6f0411753a"
-    },
-    {
       "title": "Outcry as Trump plots more roads and logging in US forests: ‘You can almost hear the chainsaws’",
       "description": "&lt;p&gt;Critics say move to axe Bill Clinton’s ‘roadless rule’ that protected key old-growth forests will be devastating to environment&lt;/p&gt;&lt;...",
       "link": "https://www.theguardian.com/us-news/2025/oct/06/trump-logging-forests",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/4-9-25-Butterfield-Blvd-Site-IPA-189.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Farm to Fuel: Australia’s First Bioenergy Feedstock Strategy to Unlock $10B Low-Carbon Fuel Economy and Regional Jobs",
-      "description": "Submissions open for a new national blueprint designed to chart a united approach for Australia’s low-carbon energy future.  The Australian Government...",
-      "link": "https://econews.com.au/67982/farm-to-fuel-australias-first-bioenergy-feedstock-strategy-to-unlock-10b-low-carbon-fuel-economy-and-regional-jobs/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=farm-to-fuel-australias-first-bioenergy-feedstock-strategy-to-unlock-10b-low-carbon-fuel-economy-and-regional-jobs",
-      "pubDate": "Mon, 06 Oct 2025 05:02:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
