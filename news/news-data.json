@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-08T09:27:45.394Z",
+  "lastUpdated": "2025-10-08T10:26:55.283Z",
   "articles": [
+    {
+      "title": "Chemistry Nobel awarded to three scientists for their work on metal organic frameworks",
+      "description": "The winners of the prestigious science prize was announced by the Nobel committee in Sweden....",
+      "link": "https://www.bbc.com/news/articles/c0r0l742kpjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 08 Oct 2025 09:52:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Los Alamos and the University of Michigan Want To Build a National Security and AI ‘Data Center’ in Ypsilanti Township That Residents and Local Officials Say Will Provide Few Benefits",
       "description": "First of three articles about Michigan communities organizing to stop the construction of energy-intensive computing facilities.&#160; The Huron River...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 07 Oct 2025 11:37:45 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Natural Disasters Are a Rising Burden for the National Guard",
-      "description": "The National Guard logged more than 400,000 member service days per year over the past decade responding to hurricanes, wildfires and other natural di...",
-      "link": "https://insideclimatenews.org/news/07102025/national-guard-natural-disaster-response/",
-      "pubDate": "Tue, 07 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
