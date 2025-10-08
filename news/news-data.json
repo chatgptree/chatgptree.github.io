@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-08T20:27:21.772Z",
+  "lastUpdated": "2025-10-08T21:22:19.896Z",
   "articles": [
+    {
+      "title": "King Charles hopes nature film will 'inspire' viewers",
+      "description": "The King to appear in Amazon documentary encouraging people to work with rather than against nature....",
+      "link": "https://www.bbc.com/news/articles/cd63dxxv9jpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 08 Oct 2025 21:02:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Growing ‘Continuous Corn’ Drives Emissions of a Powerful Greenhouse Gas. It Doesn’t Have To.",
+      "description": "Year after year, the same 15 million acres across Illinois, Iowa, Minnesota and Wisconsin are planted with corn. Each August, the fibrous green leaves...",
+      "link": "https://insideclimatenews.org/news/08102025/midwest-continuous-corn-greenhouse-gas-emissions/",
+      "pubDate": "Wed, 08 Oct 2025 20:47:03 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on Cop30: Starmer must stop havering and announce that he’s going to Brazil | Editorial",
       "description": "&lt;p&gt;With global heating on a dangerous trajectory, it would be unforgivable for the prime minister to miss the summit in Belém&lt;/p&gt;&lt;p&gt;...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4dfcfa6813146e62be9e96b7840bd5fb5ba1b4f9/204_0_1967_1573/master/1967.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=614a7298a1f795bcd9744362221b9835"
-    },
-    {
-      "title": "EPA Drops Planned Delay in Compliance With Fenceline Monitoring at Coke Plants",
-      "description": "Public health advocates pushed back when the U.S. Environmental Protection Agency said it planned to delay for two years a requirement that steel comp...",
-      "link": "https://insideclimatenews.org/news/07102025/epa-drops-coke-plant-air-quality-monitoring/",
-      "pubDate": "Tue, 07 Oct 2025 15:20:17 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tawny frogmouths take patience to appreciate. They will reward you with insights into their remarkable lives | Stephanie Convery",
-      "description": "&lt;p&gt;Spotting tawnies is a bit like completing a crossword: it’s easier once you are familiar with the patterns, but you can always get stumped&lt...",
-      "link": "https://www.theguardian.com/environment/2025/oct/08/tawny-frogmouths-take-patience-to-appreciate-but-they-will-reward-you-with-insights-into-their-remarkable-lives",
-      "pubDate": "Tue, 07 Oct 2025 14:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/256c3397e38917aa58be7efd3e6d5893aff93b8f/0_974_5164_4129/master/5164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ccec2b4bd1cbf638dcfdd7be759a76df"
     }
   ]
 }
