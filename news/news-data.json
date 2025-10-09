@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-09T15:36:54.246Z",
+  "lastUpdated": "2025-10-09T16:33:47.967Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Renewables overtake coal as the world’s biggest source of electricity....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002kgs9?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Oct 2025 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Americans are dying from extreme heat. Autopsy reports don’t show the full truth",
       "description": "&lt;p&gt;Official reports are likely to overlook heat’s role in a death. As US temperatures rise, experts say the true toll needs to be counted&lt;/p&...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Australia must ‘have the guts’ to stand up to Japanese companies reselling gas for profit, Husic says",
-      "description": "&lt;p&gt;Labor backbencher is calling for drastic intervention to secure supplies for the east coast&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=...",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/09/australia-japanese-companies-reselling-gas-for-profit-ed-husic",
-      "pubDate": "Thu, 09 Oct 2025 08:06:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/322e19309fa746569520817bf9da42d08d636faf/0_0_4881_3907/master/4881.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffb9792a8134abe0fac7578464a1c889"
     }
   ]
 }
