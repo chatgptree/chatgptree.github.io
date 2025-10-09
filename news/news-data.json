@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-09T17:23:39.038Z",
+  "lastUpdated": "2025-10-09T18:36:01.465Z",
   "articles": [
+    {
+      "title": "Naked mole rats' DNA could hold key to long life",
+      "description": "The bald, subterranean rats are the world's longest-lived rodent. ...",
+      "link": "https://www.bbc.com/news/articles/cz7rxy21lxwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Oct 2025 18:06:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Grisly recording reveals bat catching, killing and eating robin mid-flight",
+      "description": "&lt;p&gt;Before the Spanish study, some scientists had been sceptical about the mammals attacking migratory birds&lt;/p&gt;&lt;p&gt;Bats are generally...",
+      "link": "https://www.theguardian.com/science/2025/oct/09/grisly-recording-reveals-bat-catching-killing-and-eating-robin-mid-flight",
+      "pubDate": "Thu, 09 Oct 2025 18:00:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5c8d739be2a5d170aa9302dad21a243816ad81c1/0_1275_3456_2765/master/3456.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49c05e15827ea8b22715b169e2617a71"
+    },
     {
       "title": "Prince William to attend Cop30 UN climate summit in Brazil",
       "description": "&lt;p&gt;Prince of Wales’s decision welcomed as a means of drawing attention to the event and galvanising talks&lt;/p&gt;&lt;p&gt;The Prince of Wales ...",
@@ -11,7 +29,7 @@
       "image": "https://i.guim.co.uk/img/media/5288b177ae2b576d7afda83217a7cf134ec19861/290_0_4167_3334/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa7d1953352517a92fac7febb056c53e"
     },
     {
-      "title": "One of world’s biggest wind farm developers to cut quarter of workforce",
+      "title": "One of world’s biggest windfarm developers to cut quarter of workforce",
       "description": "&lt;p&gt;Ørsted plans to shrink company after Trump administration causes share price to plunge to all-time low&lt;/p&gt;&lt;p&gt;One of the world’s b...",
       "link": "https://www.theguardian.com/environment/2025/oct/09/worlds-biggest-offshore-wind-company-to-cut-a-quarter-of-its-workforce-as",
       "pubDate": "Thu, 09 Oct 2025 16:45:03 GMT",
@@ -119,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Millions in England face higher water bills after regulator backs more price rises",
-      "description": "&lt;p&gt;Competition watchdog agrees to requests from Anglian, Northumbrian, South East, Southern and Wessex to increase charges&lt;/p&gt;&lt;ul&gt;&l...",
-      "link": "https://www.theguardian.com/business/2025/oct/09/millions-of-households-face-jump-in-water-bills-after-regulator-backs-more-price-rises",
-      "pubDate": "Thu, 09 Oct 2025 11:45:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ac1dee9d1335ed20769ddd987766fd1645850a52/0_56_5446_4355/master/5446.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dca23ffc4d9e0dd277067b59b109a57f"
-    },
-    {
       "title": "US west coast faults could trigger catastrophic back-to-back earthquakes, study finds",
       "description": "&lt;p&gt;Study shows high-magnitude temblor in north-west could set off another in California, causing unrivaled disaster&lt;/p&gt;&lt;p&gt;Warnings a...",
       "link": "https://www.theguardian.com/us-news/2025/oct/09/back-to-back-earthquakes-west-coast",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Youth plaintiffs test out a new legal strategy to counter Trump’s support for fossil fuels",
-      "description": "They lost their case for a constitutional right to climate protection. Now they’re suing the government again. ...",
-      "link": "https://grist.org/justice/youth-plaintiffs-test-out-a-new-legal-strategy-to-counter-trumps-support-for-fossil-fuels/",
-      "pubDate": "Thu, 09 Oct 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-2225674044.jpg?quality=75&amp;strip=all"
     }
   ]
 }
