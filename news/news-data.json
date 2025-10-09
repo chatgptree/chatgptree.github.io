@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-10-09T08:33:49.651Z",
+  "lastUpdated": "2025-10-09T09:27:14.660Z",
   "articles": [
+    {
+      "title": "Water bills to rise further for millions after appeal",
+      "description": "Five water companies win permission for higher bills as they seek more funds to fix outdated infrastructure....",
+      "link": "https://www.bbc.com/news/articles/cvg4jkexgl1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Oct 2025 09:10:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Michigan Town Hopes to Stop a Data Center With a 2026 Ballot Initiative",
+      "description": "This is the second of three articles about Michigan communities organizing to stop the construction of energy-intensive computing facilities.&#160; Ea...",
+      "link": "https://insideclimatenews.org/news/09102025/michigan-town-effots-to-stop-data-center/",
+      "pubDate": "Thu, 09 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The AI Data Center Boom Comes to Vernon",
+      "description": "At the corner of 48th Street and Santa Fe Avenue in industrial Vernon, a three-story building looms large among rumbling factories and warehouses. Lon...",
+      "link": "https://insideclimatenews.org/news/09102025/ai-data-center-boom-southeast-los-angeles/",
+      "pubDate": "Thu, 09 Oct 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Youth plaintiffs test out a new legal strategy to counter Trump’s support for fossil fuels",
+      "description": "They lost their case for a constitutional right to climate protection. Now they’re suing the government again. ...",
+      "link": "https://grist.org/justice/youth-plaintiffs-test-out-a-new-legal-strategy-to-counter-trumps-support-for-fossil-fuels/",
+      "pubDate": "Thu, 09 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-2225674044.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Buoyed by a retro revival, Kodak&#8217;s dark environmental past is coming to light",
       "description": "A snapshot of Kodak's history includes cameras, military contracts, and a legacy of environmental damage in the communities it is a part of....",
@@ -45,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ea13df8761b0e1b5423b2ac11bf84d3a6929895a/389_0_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a5acfb24d066e18c7a7488981e74f1a"
-    },
-    {
-      "title": "Water bills to rise further for millions after appeal",
-      "description": "Five water companies win permission for higher bills as they seek more investment to fix outdated infrastructure....",
-      "link": "https://www.bbc.com/news/articles/cvg4jkexgl1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Oct 2025 07:28:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Century-old papers saved from the bin reveal changes in Europe’s plant life",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/002b86861295be730282e185b886cfa948a0057c/1275_411_3534_2827/master/3534.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc471002dca94b66adf73e09221faaeb"
-    },
-    {
-      "title": "Chemistry Nobel awarded for work on new materials that could help planet",
-      "description": "The winners of the prestigious science prize were announced by the Nobel committee in Sweden....",
-      "link": "https://www.bbc.com/news/articles/c0r0l742kpjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 08 Oct 2025 09:52:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Los Alamos and University of Michigan Want to Build a National Security ‘Data Center’ in Ypsilanti. Residents and Local Officials See Few Benefits.",
-      "description": "First of three articles about Michigan communities organizing to stop the construction of energy-intensive computing facilities.&#160; The Huron River...",
-      "link": "https://insideclimatenews.org/news/08102025/los-alamos-university-of-michigan-national-security-data-center/",
-      "pubDate": "Wed, 08 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Arizona Rural Grassroots Organizers Take on Industrial Developers, Aided by Urban Allies",
-      "description": "On the evening of August 21, 2025, Chris Giokaris hopped on the interstate heading southeast from his hometown of Tucson, Arizona. His destination was...",
-      "link": "https://insideclimatenews.org/news/08102025/arizona-residents-take-on-industrial-developers/",
-      "pubDate": "Wed, 08 Oct 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
