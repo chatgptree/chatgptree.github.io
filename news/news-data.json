@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2025-10-10T06:37:50.909Z",
+  "lastUpdated": "2025-10-10T07:24:31.555Z",
   "articles": [
+    {
+      "title": "Schneider Electric ranked #1 global microgrid integrator by Guidehouse Research",
+      "description": "Nicole Blackburn, Director Microgrids, Schneider Electric Recognition highlights Schneider’s leadership in advancing energy resilience and acceleratin...",
+      "link": "https://econews.com.au/68012/schneider-electric-ranked-1-global-microgrid-integrator-by-guidehouse-research/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=schneider-electric-ranked-1-global-microgrid-integrator-by-guidehouse-research",
+      "pubDate": "Fri, 10 Oct 2025 07:03:14 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
+    },
+    {
+      "title": "World’s Largest CEO Climate Alliance Slashes Emissions While Delivering Growth and Urges Collaboration to Scale Impact",
+      "description": "The World Economic Forum’s Alliance of CEO Climate Leaders shares an open letter urging world leaders to accelerate the transition to a low-carbon, re...",
+      "link": "https://econews.com.au/68010/worlds-largest-ceo-climate-alliance-slashes-emissions-while-delivering-growth-and-urges-collaboration-to-scale-impact/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=worlds-largest-ceo-climate-alliance-slashes-emissions-while-delivering-growth-and-urges-collaboration-to-scale-impact",
+      "pubDate": "Fri, 10 Oct 2025 07:03:14 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Textile drop-off finds new life for old clothes",
+      "description": "Sandra James hands over clothes and sheets to LMCC Sustainability Engagement Officer Lucy Kelliher A new recycling event in Lake Macquarie is aiming t...",
+      "link": "https://econews.com.au/68008/textile-drop-off-finds-new-life-for-old-clothes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=textile-drop-off-finds-new-life-for-old-clothes",
+      "pubDate": "Fri, 10 Oct 2025 07:03:13 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "SUSTAINABLE ACTION CONFERENCE 2025: THE FUTURE IS NOW: ACCELERATING SUSTAINABLE TRANSFORMATION",
+      "description": "Sustainability has become more than a corporate buzzword—it is now a decisive factor shaping the future of industries worldwide. For businesses across...",
+      "link": "https://econews.com.au/68006/sustainable-action-conference-2025-the-future-is-now-accelerating-sustainable-transformation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sustainable-action-conference-2025-the-future-is-now-accelerating-sustainable-transformation",
+      "pubDate": "Fri, 10 Oct 2025 07:03:13 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "HONEYWELL AND LS ELECTRIC ANNOUNCE GLOBAL PARTNERSHIP TO ACCELERATE INNOVATION FOR DATA CENTRES AND BATTERY ENERGY STORAGE SYSTEMS",
+      "description": "Billal Hammoud, Honeywell &#38; Mr JongWoo Kim, LS Electric Integrated power and control solutions will help data centres avoid costly downtime via in...",
+      "link": "https://econews.com.au/68004/honeywell-and-ls-electric-announce-global-partnership-to-accelerate-innovation-for-data-centres-and-battery-energy-storage-systems/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=honeywell-and-ls-electric-announce-global-partnership-to-accelerate-innovation-for-data-centres-and-battery-energy-storage-systems",
+      "pubDate": "Fri, 10 Oct 2025 07:03:11 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/Billal-Hammoud-Honeywell-centre-left-Mr-JongWoo-Kim-LS-Electric-centre-right-with-Honeywell-LS-Electric-teams_1-1024x683.jpg"
+    },
+    {
+      "title": "Week in wildlife: a bumpy snailfish, a slow loris and a whistle pig",
+      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/oct/10/week-in-wildlife-a-bumpy-snailfish-a-slow-loris-and-a-whistle-pig",
+      "pubDate": "Fri, 10 Oct 2025 07:00:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e0a11105780f284502cb80c17df12ed8100bd0aa/665_196_854_683/master/854.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70d0681e7c4ed6b2fbf97efdc2c7535e"
+    },
     {
       "title": "Queensland to run its coal plants up to a decade longer than previously planned",
       "description": "&lt;p&gt;Chris Bowen calls move ‘disappointing’ as energy expert says government ‘has delivered a cul de sac not a roadmap’&lt;/p&gt;&lt;ul&gt;&lt;li&...",
@@ -126,60 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Free On-Farm Days to Launch Regional Impact Groups for producers",
-      "description": "Holistic Management Co-op hosting 8 events across Australia in October and November The Holistic Management Co-op is hosting free on-farm field days t...",
-      "link": "https://econews.com.au/67998/free-on-farm-days-to-launch-regional-impact-groups-for-producers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=free-on-farm-days-to-launch-regional-impact-groups-for-producers",
-      "pubDate": "Thu, 09 Oct 2025 12:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/unnamed-25-1024x370.png"
-    },
-    {
-      "title": "HESTA hits $100bn in funds under management, scale supports member returns",
-      "description": "HESTA CEO Debby Blakey. HESTA HESTA announces its members’ retirement savings have surpassed $100 billion for the first time, bringing scale benefits ...",
-      "link": "https://econews.com.au/67996/hesta-hits-100bn-in-funds-under-management-scale-supports-member-returns/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hesta-hits-100bn-in-funds-under-management-scale-supports-member-returns",
-      "pubDate": "Thu, 09 Oct 2025 12:02:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "The world’s first International Standard dedicated to helping organizations take action on biodiversity launched in Rwanda",
-      "description": "  The International Organization for Standardization (ISO) has launched the world’s first International Standard dedicated to supporting organizations...",
-      "link": "https://econews.com.au/67994/the-worlds-first-international-standard-dedicated-to-helping-organizations-take-action-on-biodiversity-launched-in-rwanda/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-worlds-first-international-standard-dedicated-to-helping-organizations-take-action-on-biodiversity-launched-in-rwanda",
-      "pubDate": "Thu, 09 Oct 2025 12:02:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/ISO-logo-1-1024x161.png"
-    },
-    {
-      "title": "A Community Burdened by Chemical Waste Is Demanding Cancer Data. Texas Health Officials Won’t Give It to Them.",
-      "description": "This story by Public Health Watch is part of a collaboration with Univision 45 in Houston. HIGHLANDS, Texas—Eight months ago, Texas health officials d...",
-      "link": "https://insideclimatenews.org/news/09102025/a-community-burdened-by-chemical-waste-is-demanding-cancer-data-texas-health-officials-wont-give-it-to-them/",
-      "pubDate": "Thu, 09 Oct 2025 12:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US west coast faults could trigger catastrophic back-to-back earthquakes, study finds",
-      "description": "&lt;p&gt;Study shows high-magnitude temblor in north-west could set off another in California, causing unrivaled disaster&lt;/p&gt;&lt;p&gt;Warnings a...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/09/back-to-back-earthquakes-west-coast",
-      "pubDate": "Thu, 09 Oct 2025 11:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5e6b707ded4c723cdab96c10e295eab86dfb7c12/297_0_2559_2048/master/2559.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c626fc5cc2ce5ab9bd05cfa79ba9b44"
-    },
-    {
-      "title": "‘We don’t want to be a toy town’: has Brexit sunk this historic UK fishing fleet?",
-      "description": "&lt;p&gt;Struggling fishers in Hastings say the industry is dying after a deal giving away access to its waters made a tough job impossible&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/environment/2025/oct/09/hastings-brexit-sunk-historic-uk-fishing-fleet",
-      "pubDate": "Thu, 09 Oct 2025 11:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/36d1b798b9d3ec0870da0e53093b9f70dc257989/263_0_2338_1871/master/2338.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7372c236472b1bfe6292c533d700257"
     }
   ]
 }
