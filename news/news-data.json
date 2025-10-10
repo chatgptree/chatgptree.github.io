@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-09T23:22:14.821Z",
+  "lastUpdated": "2025-10-10T01:56:47.125Z",
   "articles": [
+    {
+      "title": "Fossil found on Dorset coast is unique 'sword dragon' species",
+      "description": "Scientists say the newly discovered species of marine reptile probably met a grizzly end....",
+      "link": "https://www.bbc.com/news/articles/cdjzvzzy0mxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 10 Oct 2025 00:20:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Senate Nixes Management Plans to Open Access for Fossil Fuels",
       "description": "Congress took the unprecedented step this week of repealing management plans for public lands in three states in an effort to expand access to fossil ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/36d1b798b9d3ec0870da0e53093b9f70dc257989/263_0_2338_1871/master/2338.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7372c236472b1bfe6292c533d700257"
-    },
-    {
-      "title": "Water bills to rise further for millions after appeal",
-      "description": "Five water companies win permission for higher bills as they seek more funds to fix outdated infrastructure....",
-      "link": "https://www.bbc.com/news/articles/cvg4jkexgl1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Oct 2025 09:53:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
