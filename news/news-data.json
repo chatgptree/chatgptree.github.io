@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-10T08:33:23.925Z",
+  "lastUpdated": "2025-10-10T09:27:26.687Z",
   "articles": [
+    {
+      "title": "A Bitcoin Mine Came to Michigan’s Upper Peninsula, and Dafter Township Isn’t Happy",
+      "description": "This is the last of three articles about Michigan communities organizing to stop the construction of energy-intensive computing facilities.&#160; A lo...",
+      "link": "https://insideclimatenews.org/news/10102025/michigan-upper-peninsula-bitcoin-mine-noise-litigation/",
+      "pubDate": "Fri, 10 Oct 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New research shows there’s a simple way to protect workers. Is OSHA listening?",
+      "description": "The U.S. workplace regulator is considering a federal heat rule — if the shutdown doesn’t delay it further....",
+      "link": "https://grist.org/business/simple-way-to-protect-workers-extreme-heat-osha/",
+      "pubDate": "Fri, 10 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/work-injury-2.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "The shutdown is poised to deepen hunger in America — just as the Trump administration stopped tracking it",
       "description": "Millions of women and children are at risk of losing food benefits during the shutdown. The USDA just killed the long-running survey that would track ...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Americans are dying from extreme heat. Autopsy reports don’t show the full story",
-      "description": "&lt;p&gt;Official reports are likely to overlook heat’s role in a death. As US temperatures rise, experts say the true toll needs to be counted&lt;/p&...",
-      "link": "https://www.theguardian.com/environment/ng-interactive/2025/oct/09/extreme-heat-deaths-autopsy",
-      "pubDate": "Thu, 09 Oct 2025 15:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/74feb20f9a5a1fa2af7a0b7a55c094ae75b7ee74/0_137_2400_1919/master/2400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4628a7ff0f9f6fc666ca142a8dd86d0b"
-    },
-    {
-      "title": "More than 40 Trump administration picks tied directly to oil, gas and coal, analysis shows",
-      "description": "&lt;p&gt;Report looks at White House nominees and appointees and agencies dictating energy, environment and climate policy&lt;/p&gt;&lt;p&gt;Donald Tr...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/08/trump-administration-fossil-fuels-climate",
-      "pubDate": "Thu, 09 Oct 2025 14:37:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c59bcba0dfd45a884c0d418382fab45eb9831428/373_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb2f7106c77d5da45c03e1c524daa992"
     }
   ]
 }
