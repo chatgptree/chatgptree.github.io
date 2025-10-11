@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-11T05:23:10.316Z",
+  "lastUpdated": "2025-10-11T06:33:52.469Z",
   "articles": [
+    {
+      "title": "And then there were none: Australia’s only shrew declared extinct",
+      "description": "&lt;p&gt;The tally of Australian mammals extinct since 1788 is now 39 species – far more than for any other country&lt;/p&gt;&lt;p&gt;It’s official: t...",
+      "link": "https://www.theguardian.com/environment/commentisfree/2025/oct/11/and-then-there-were-none-australias-only-shrew-declared-extinct",
+      "pubDate": "Sat, 11 Oct 2025 05:59:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fa09370f4c909e102e92ca077d38efd7626fe482/192_0_798_638/master/798.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=741247c6629eadb187f1c09b40d82cb7"
+    },
     {
       "title": "Federal Shutdown Hampers Chesapeake Bay Agreement Talks",
       "description": "The ongoing federal shutdown has eclipsed the final stretch of negotiations on an updated agreement to guide restoration of the Chesapeake Bay, leavin...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e0a11105780f284502cb80c17df12ed8100bd0aa/665_196_854_683/master/854.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70d0681e7c4ed6b2fbf97efdc2c7535e"
-    },
-    {
-      "title": "'How growing a sunflower helped me fight anorexia'",
-      "description": "'Green social prescribing' schemes are being used by NHS doctors to improve patients' mental health....",
-      "link": "https://www.bbc.com/news/articles/c33rgvr0p5no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 10 Oct 2025 05:04:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
