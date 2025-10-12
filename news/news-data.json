@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-12T22:22:37.418Z",
+  "lastUpdated": "2025-10-12T23:21:24.861Z",
   "articles": [
+    {
+      "title": "Energy firms complete UK’s first ‘hydrogen blending’ trial to power grid",
+      "description": "&lt;p&gt;A 2% blend of low-carbon gas injected into gas grid to fuel Brigg power station in North Lincolnshire is a UK first&lt;/p&gt;&lt;p&gt;Energy ...",
+      "link": "https://www.theguardian.com/business/2025/oct/13/energy-firms-complete-uk-first-hydrogen-blending-trial-power-grid",
+      "pubDate": "Sun, 12 Oct 2025 23:01:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6941306d2b9087b51582ad2f3d49761278beef62/0_296_4180_3343/master/4180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f19c2143ddd4bfc4c811cfde39301288"
+    },
+    {
+      "title": "Corals are disappearing, pushing Earth to its first major ‘tipping point’",
+      "description": "A new report says Earth has reached a dire milestone with the widespread death of warm-water coral reefs. But it's not too late to save what remains....",
+      "link": "https://grist.org/oceans/coral-reefs-climate-tipping-point/",
+      "pubDate": "Sun, 12 Oct 2025 23:01:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2021/04/tp-feat-img.png?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Coral reefs, ice sheets and Amazon rainforest approaching a tipping point due to global heating, report says",
+      "description": "&lt;p&gt;Unless global heating is reduced to 1.2C ‘as fast as possible’, warm water coral reefs will not remain ‘at any meaningful scale’, a report by...",
+      "link": "https://www.theguardian.com/environment/2025/oct/13/coral-reefs-ice-sheets-amazon-rainforest-tipping-point-global-heating-scientists-report",
+      "pubDate": "Sun, 12 Oct 2025 23:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4dd624f41bdd6c4af4f7a6bf17cf85c686169bb3/489_0_4838_3870/master/4838.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e800566324c9df14489913c066726657"
+    },
     {
       "title": "The Guardian view on Labour targeting nature: the problem isn’t snails, but a broken housing model | Editorial",
       "description": "&lt;p&gt;Rachel Reeves’s drive to speed up development is beginning to treat wildlife and the environment as expendable. Voters want homes built, but ...",
@@ -27,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f18b06fdec61cef41e7df16f5e0a342d5470d356/222_80_3161_2527/master/3161.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1e30d9d0a173bdfa6438fe5790e5332"
-    },
-    {
-      "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
-      "description": "&lt;p&gt;Alcohol, suicide and injuries driving rises among teenagers and young adults despite overall rates falling, authors say &lt;/p&gt;&lt;p&gt;Th...",
-      "link": "https://www.theguardian.com/global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
-      "pubDate": "Sun, 12 Oct 2025 14:00:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/17c405f0f825754ee914ebdb7cddf255c094e680/428_0_4209_3367/master/4209.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba462aa296d4822930d22d4529432418"
     },
     {
       "title": "New England’s final coal plant shuts down years ahead of schedule",
@@ -74,7 +92,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Matilda Boseley steps out to find which Australian birds the public loves – video",
+      "title": "Which Australian birds are the peoples' choice? Matilda Boseley finds out - video",
       "description": "&lt;p&gt;In this year's Australian bird of the year poll, Guardian Australia's very own Matilda Boseley has made no secret about her favourite. Dresse...",
       "link": "https://www.theguardian.com/environment/video/2025/oct/12/which-australian-birds-people-love-matilda-boseley-video",
       "pubDate": "Sat, 11 Oct 2025 19:00:33 GMT",
@@ -117,15 +135,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Number of wild bee species at risk of extinction in Europe doubles in 10 years",
-      "description": "&lt;p&gt;Number of endangered butterfly species also surging amid habitat destruction and global heating, finds study&lt;/p&gt;&lt;p&gt;The number of ...",
-      "link": "https://www.theguardian.com/environment/2025/oct/11/number-of-wild-bee-species-at-risk-of-extinction-in-europe-doubles-in-10-years",
-      "pubDate": "Sat, 11 Oct 2025 08:45:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7a23b03eed35572a99f28680f090b3af3aeb48c1/288_0_2880_2304/master/2880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81cc9fed671ae09ca5519198e2c6492b"
     },
     {
       "title": "And then there were none: Australia’s only shrew declared extinct",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9dc2e1a8ba0221eddd184d4216612d2e4e47a7b9/270_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e5d0b083a2365bd1622aad36c0fe788"
-    },
-    {
-      "title": "A Bitcoin Mine Came to Michigan’s Upper Peninsula, and Dafter Township Isn’t Happy",
-      "description": "This is the last of three articles about Michigan communities organizing to stop the construction of energy-intensive computing facilities.&#160; A lo...",
-      "link": "https://insideclimatenews.org/news/10102025/michigan-upper-peninsula-bitcoin-mine-noise-litigation/",
-      "pubDate": "Fri, 10 Oct 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
