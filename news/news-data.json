@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-12T08:29:30.685Z",
+  "lastUpdated": "2025-10-12T09:22:29.650Z",
   "articles": [
+    {
+      "title": "A Short-Lived Win in a Never-Ending Fight Over Forever Chemicals",
+      "description": "Forever War, Part 1: This story is published in partnership with The Assembly and with WHQR, a nonprofit radio station and NPR affiliate in Wilmington...",
+      "link": "https://insideclimatenews.org/news/12102025/forever-war-nc-activists-fight-chemours-pfas-water-pollution/",
+      "pubDate": "Sun, 12 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Forever War",
+      "description": "Environmentalists have been fighting for over a decade to get PFAS out of Cape Fear River in eastern North Carolina. The insidious chemicals have elud...",
+      "link": "https://insideclimatenews.org/news/12102025/icn-sunday-morning-forever-war/",
+      "pubDate": "Sun, 12 Oct 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Climate Change Comes for the House of the Seven Gables",
       "description": "SALEM, Mass.—Paul Wright leans over a 17th-century granite barrier and points at a faint watermark depicting Salem Harbor’s daily rise and fall.&#160;...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/valley-fever-final.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Texas Grid Operators and Regulators Iron Out New Rules for Data Centers",
-      "description": "Texas Gov. Greg Abbott signed a law in June that empowers the state’s grid operator to remotely disconnect data centers and other large energy users i...",
-      "link": "https://insideclimatenews.org/news/10102025/texas-grid-operators-and-regulators-iron-out-new-rules-for-data-centers/",
-      "pubDate": "Fri, 10 Oct 2025 08:21:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Green turtle bounces back from brink in conservation 'win'",
-      "description": "Once endangered due to hunting, it is making a strong recovery thanks to global conservation efforts....",
-      "link": "https://www.bbc.com/news/articles/cg426qqqqnro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 10 Oct 2025 08:01:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
