@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-13T13:35:11.917Z",
+  "lastUpdated": "2025-10-13T14:27:20.564Z",
   "articles": [
+    {
+      "title": "Greenpeace threatens to sue crown estate for driving up cost of offshore wind",
+      "description": "&lt;p&gt;Environmental group accuses king’s property management company of ‘milking for profit’ its monopoly ownership of seabed&lt;/p&gt;&lt;p&gt;Gre...",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/13/greenpeace-threatens-to-sue-crown-estate-for-driving-up-cost-of-offshore-wind",
+      "pubDate": "Mon, 13 Oct 2025 13:24:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9e39900a5fcd887d3781c5164c5dbb2a87d64232/615_0_4213_3371/master/4213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02e8e1192624e3b614e7b115d8bbb45b"
+    },
     {
       "title": "Microplastics are brought into the wilderness on hiking shoes and gear, study shows",
       "description": "&lt;p&gt;Research comparing Adirondack mountain lakes in New York suggests foot traffic is significant source of pollution&lt;/p&gt;&lt;p&gt;Hiking sh...",
@@ -146,13 +155,13 @@
       "image": "https://i.guim.co.uk/img/media/775f1cf985e5db35d1e46a7222d131ee0c43baae/0_26_3224_2579/master/3224.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4d1306a56ade851e42cbf5054b988ee"
     },
     {
-      "title": "National Trust and TV wildlife expert team up on autumn nature campaign",
-      "description": "&lt;p&gt;People urged to savour sights, sounds and smells of the season as poll shows a disconnect during darker months&lt;/p&gt;&lt;p&gt;There may be...",
-      "link": "https://www.theguardian.com/environment/2025/oct/13/national-trust-autumn-nature-campaign-wildlife",
-      "pubDate": "Mon, 13 Oct 2025 04:00:11 GMT",
-      "sourceName": "theguardian.com",
+      "title": "Your nose gets colder when you're stressed. These thermal images show the change",
+      "description": "Psychologists subjected a BBC reporter to a carefully designed thermal camera stress test....",
+      "link": "https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 12 Oct 2025 23:28:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/54135d2c8fb9fe94b54fc9120b8d70bea6ff9665/0_0_4946_3957/master/4946.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b071a906b1dd72c66a9b3687674223f3"
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Corals are disappearing, pushing Earth to its first major ‘tipping point’",
@@ -164,22 +173,13 @@
       "image": "https://grist.org/wp-content/uploads/2021/04/tp-feat-img.png?quality=75&#038;strip=all"
     },
     {
-      "title": "The Guardian view on Labour targeting nature: the problem isn’t snails, but a broken housing model | Editorial",
-      "description": "&lt;p&gt;Rachel Reeves’s drive to speed up development is beginning to treat wildlife and the environment as expendable. Voters want homes built, but ...",
-      "link": "https://www.theguardian.com/commentisfree/2025/oct/12/the-guardian-view-on-labour-targeting-nature-the-problem-isnt-snails-but-a-broken-housing-model",
-      "pubDate": "Sun, 12 Oct 2025 16:30:56 GMT",
-      "sourceName": "theguardian.com",
+      "title": "Floods trap people in cars in Spain's Catalonia region",
+      "description": "The highest red alert is declared in one coastal province, as residents are urged to stay indoors....",
+      "link": "https://www.bbc.com/news/articles/c0qpee28wqpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 12 Oct 2025 21:27:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/33d22c32e1b9889c35a88e06ee05667588a092dd/329_0_4304_3442/master/4304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f4b391f87a25bd94c03e7aad1d8b52e"
-    },
-    {
-      "title": "New England’s final coal plant shuts down years ahead of schedule",
-      "description": "Poor economics drove the aging New Hampshire plant offline three years early, even as the Trump administration pushes to revitalize coal....",
-      "link": "https://grist.org/energy/new-englands-final-coal-plant-shuts-down-years-ahead-of-schedule/",
-      "pubDate": "Sun, 12 Oct 2025 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/AP25153685755115.jpg?quality=75&#038;strip=all"
+      "image": "../images/header2.jpg"
     }
   ]
 }
