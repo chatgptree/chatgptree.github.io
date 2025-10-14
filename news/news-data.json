@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-14T20:27:51.144Z",
+  "lastUpdated": "2025-10-14T21:21:52.105Z",
   "articles": [
+    {
+      "title": "Government Shutdown Could Disrupt Timing of Crucial Conservation and Wildfire Efforts",
+      "description": "In the United States, the government shutdown is about to stretch into its third week as Republicans and Democrats continue to disagree on a bill to f...",
+      "link": "https://insideclimatenews.org/news/14102025/todays-climate-government-shutdown-ferrets-wildfire-delays/",
+      "pubDate": "Tue, 14 Oct 2025 21:16:22 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Newsom vetoes California bill banning cookware with Pfas, ‘forever chemicals’",
       "description": "&lt;p&gt;Governor says bill would cause sudden product shift, sparking debate among chefs, lawmakers and environmentalists&lt;/p&gt;&lt;p&gt;&lt;a hre...",
@@ -39,7 +48,7 @@
     },
     {
       "title": "Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes, research finds",
-      "description": "&lt;p&gt;One expert says a cyclist hit by a car travelling 50km/h has about a one-in-ten chance of surviving, while at 30km/h it was a nine-in-ten cha...",
+      "description": "&lt;p&gt;One expert says a cyclist hit by a car travelling 50km/h has about a one-in-10 chance of surviving, while at 30km/h it is a nine-in-10 chance...",
       "link": "https://www.theguardian.com/environment/2025/oct/15/switching-50kmh-speed-limits-to-30kmh-would-protect-cyclists-while-barely-affecting-commutes-research-finds",
       "pubDate": "Tue, 14 Oct 2025 13:01:41 GMT",
       "sourceName": "theguardian.com",
@@ -75,7 +84,7 @@
     },
     {
       "title": "A Michigan town hopes to stop a data center with a 2026 ballot initiative",
-      "description": "Local officials see millions of dollars in tax revenue, but more than 950 residents who signed ballot petitions fear endless noise, pollution and high...",
+      "description": "Local officials see millions of dollars in tax revenue, but more than 950 residents who signed ballot petitions fear endless noise, pollution, and hig...",
       "link": "https://grist.org/elections/a-michigan-town-hopes-to-stop-a-data-center-with-a-2026-ballot-initiative/",
       "pubDate": "Tue, 14 Oct 2025 08:45:00 +0000",
       "sourceName": "grist.org",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Five steps to protect your business from the rising costs of extreme weather events",
-      "description": "Cordelia street in South Brisbane Extreme weather events are becoming a costly risk to Australian businesses, with new research from Insurance Catastr...",
-      "link": "https://econews.com.au/68030/five-steps-to-protect-your-business-from-the-rising-costs-of-extreme-weather-events/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=five-steps-to-protect-your-business-from-the-rising-costs-of-extreme-weather-events",
-      "pubDate": "Mon, 13 Oct 2025 23:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/FM_Logo-1024x512.png"
     }
   ]
 }
