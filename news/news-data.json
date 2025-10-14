@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-10-14T08:32:40.384Z",
+  "lastUpdated": "2025-10-14T09:28:14.195Z",
   "articles": [
+    {
+      "title": "Former EPA Region 2 Administrator Lisa Garcia Considers Environmental Justice With Trump in Power",
+      "description": "As a child, Lisa Garcia spent her summers in a South Bronx where playgrounds had more cracked pavement and asphalt than grass. She biked or hung out o...",
+      "link": "https://insideclimatenews.org/news/14102025/former-epa-region-2-administrator-lisa-garcia-considers-environmental-justice-with-trump-in-power/",
+      "pubDate": "Tue, 14 Oct 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmental Advocates Keep Eyes on Iconic Chicago Silos as Demolition Resumes",
+      "description": "This story was originally published by Borderless Magazine. Access the original article here and sign up for its newsletter to learn the latest about ...",
+      "link": "https://insideclimatenews.org/news/14102025/environmental-advocates-keep-eyes-on-iconic-chicago-silos-as-demolition-resumes/",
+      "pubDate": "Tue, 14 Oct 2025 08:49:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Michigan town hopes to stop a data center with a 2026 ballot initiative",
+      "description": "Local officials see millions of dollars in tax revenue, but more than 950 residents who signed ballot petitions fear endless noise, pollution and high...",
+      "link": "https://grist.org/elections/a-michigan-town-hopes-to-stop-a-data-center-with-a-2026-ballot-initiative/",
+      "pubDate": "Tue, 14 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/building-5-of-our-new-albany-data-center-campus-in-central-ohio_.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "‘Dismal’ health of world’s forests is threat to humanity, report warns",
+      "description": "&lt;p&gt;Financial institutions pouring money into land clearance and undermining efforts to stop destruction, says Climate Focus&lt;/p&gt;&lt;p&gt;Gl...",
+      "link": "https://www.theguardian.com/environment/2025/oct/14/dismal-health-of-worlds-forests-is-threat-to-humanity-report-warns",
+      "pubDate": "Tue, 14 Oct 2025 08:38:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e6f612b99be5628ce06e95027579680785e645d8/255_0_3490_2791/master/3490.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2f74221eac9040638da72a40b6e6da0"
+    },
     {
       "title": "New Jersey Officials Ponder New Permit Requests for the Northeastern Supply Enhancement Pipeline",
       "description": "Williams Cos. has resubmitted permit applications for its Northeast Supply Enhancement (NESE) pipeline project in New Jersey, igniting new opposition ...",
@@ -65,6 +101,24 @@
       "image": "https://i.guim.co.uk/img/media/57ca8009c1cf235f2691d04566b478cc2e39c461/222_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7948a694b9e98c40fd9cb1d00c475f50"
     },
     {
+      "title": "Foul skies, fading light: How air pollution is stealing India's sunshine",
+      "description": "India’s sunshine hours have fallen over the past 30 years due to clouds, aerosols and local weather....",
+      "link": "https://www.bbc.com/news/articles/cr5qygr6d5yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Oct 2025 23:06:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Foul skies, fading light: How air pollution is stealing India's sunshine",
+      "description": "India’s sunshine hours have fallen over the past 30 years due to clouds, aerosols and local weather....",
+      "link": "https://www.bbc.com/news/articles/cr5qygr6d5yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Oct 2025 23:06:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Australia Post powers up sustainability milestones with next-gen electric delivery vehicles",
       "description": "Australia Post is ramping up its national fleet modernisation with the rollout of 500 new electric delivery vehicles, reinforcing its commitment to sa...",
       "link": "https://econews.com.au/68034/australia-post-powers-up-sustainability-milestones-with-next-gen-electric-delivery-vehicles/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=australia-post-powers-up-sustainability-milestones-with-next-gen-electric-delivery-vehicles",
@@ -119,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/3999fb1605de3ca6ed8594d77607f89ef4eef635/554_0_2852_2283/master/2852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50961eedca6e984f27d4b5d31f10b2ec"
     },
     {
-      "title": "‘Dismal’ health of world’s forests is threat to humanity, report warns",
-      "description": "&lt;p&gt;Financial institutions pouring money into land clearance and undermining efforts to stop destruction, says Climate Focus&lt;/p&gt;&lt;p&gt;Gl...",
-      "link": "https://www.theguardian.com/environment/2025/oct/14/dismal-health-of-worlds-forests-is-threat-to-humanity-report-warns",
-      "pubDate": "Mon, 13 Oct 2025 23:01:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e6f612b99be5628ce06e95027579680785e645d8/255_0_3490_2791/master/3490.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2f74221eac9040638da72a40b6e6da0"
-    },
-    {
       "title": "Microplastics are brought into the wilderness on hiking shoes and gear, study shows",
       "description": "&lt;p&gt;Research comparing Adirondack mountain lakes in New York suggests foot traffic is significant source of pollution&lt;/p&gt;&lt;p&gt;Hiking sh...",
       "link": "https://www.theguardian.com/environment/2025/oct/13/microplastics-hiking-shoes-outdoor-gear",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/86871a9bd369158b9204b957f5b66e201777e5af/0_0_5414_4332/master/5414.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec2a74a3be056406d3bbd89f1bbb5236"
-    },
-    {
-      "title": "The US-Mexico Border Wall May Pose Perils to Pollinators",
-      "description": "It was a balmy day in Del Rio, a Texas border town about 170 miles west of San Antonio, when a citizen conservationist looking for wildlife stumbled u...",
-      "link": "https://insideclimatenews.org/news/13102025/us-mexico-border-wall-threatens-pollinators/",
-      "pubDate": "Mon, 13 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "PJM Pursues Rule Change to Meet Data Center Surge. Critics Fear Gas Suppliers Could Benefit.",
-      "description": "As data center growth across the United States is expected to create unprecedented stress on electrical grids, PJM Interconnection, a pivotal grid ope...",
-      "link": "https://insideclimatenews.org/news/13102025/pjm-pursues-rule-change-to-meet-data-center-surge-critics-fear-gas-suppliers-could-benefit/",
-      "pubDate": "Mon, 13 Oct 2025 08:59:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Motorsport’s Hydrogen Dream Becomes a Reality in Qiddiya",
-      "description": "The FIA Extreme H World Cup was a celebratory milestone. Not only was it the world’s first hydrogen-powered motorsport event, but it was the culminati...",
-      "link": "https://econews.com.au/68024/motorsports-hydrogen-dream-becomes-a-reality-in-qiddiya/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=motorsports-hydrogen-dream-becomes-a-reality-in-qiddiya",
-      "pubDate": "Mon, 13 Oct 2025 07:03:32 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/FIA-2-1024x576.jpg"
-    },
-    {
-      "title": "Celebrating 20 years of Sustainability in Victoria",
-      "description": " l-r is: Matt Genever, CEO Sustainability Victoria, Johan Scheffer, Sustainability Victoria Board Chair, Sheena Watt MP Parliamentary Secretary for Cl...",
-      "link": "https://econews.com.au/68022/celebrating-20-years-of-sustainability-in-victoria/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=celebrating-20-years-of-sustainability-in-victoria",
-      "pubDate": "Mon, 13 Oct 2025 06:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/07/Sustainability-Victoria.png"
-    },
-    {
-      "title": "Setting the stage for our next clean energy leaders: PowerMakers",
-      "description": "First Nations Clean Energy Network 26 First Nations people have been selected from over 100 applicants to participate in PowerMakers, a transformative...",
-      "link": "https://econews.com.au/68020/setting-the-stage-for-our-next-clean-energy-leaders-powermakers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=setting-the-stage-for-our-next-clean-energy-leaders-powermakers",
-      "pubDate": "Mon, 13 Oct 2025 06:03:14 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
