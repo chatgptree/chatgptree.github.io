@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-14T10:28:59.729Z",
+  "lastUpdated": "2025-10-14T11:21:06.846Z",
   "articles": [
+    {
+      "title": "Government approves 'UK's largest' solar farm",
+      "description": "Developers claim it will power about 300,000 homes - making it larger than any currently built....",
+      "link": "https://www.bbc.com/news/articles/c0kp40ky8j4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Oct 2025 11:17:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Former EPA Region 2 Administrator Lisa Garcia Considers Environmental Justice With Trump in Power",
       "description": "As a child, Lisa Garcia spent her summers in a South Bronx where playgrounds had more cracked pavement and asphalt than grass. She biked or hung out o...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3999fb1605de3ca6ed8594d77607f89ef4eef635/554_0_2852_2283/master/2852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50961eedca6e984f27d4b5d31f10b2ec"
-    },
-    {
-      "title": "Microplastics are brought into the wilderness on hiking shoes and gear, study shows",
-      "description": "&lt;p&gt;Research comparing Adirondack mountain lakes in New York suggests foot traffic is significant source of pollution&lt;/p&gt;&lt;p&gt;Hiking sh...",
-      "link": "https://www.theguardian.com/environment/2025/oct/13/microplastics-hiking-shoes-outdoor-gear",
-      "pubDate": "Mon, 13 Oct 2025 12:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/86871a9bd369158b9204b957f5b66e201777e5af/0_0_5414_4332/master/5414.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec2a74a3be056406d3bbd89f1bbb5236"
     }
   ]
 }
