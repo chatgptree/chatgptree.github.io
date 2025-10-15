@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-15T05:25:29.729Z",
+  "lastUpdated": "2025-10-15T06:37:34.904Z",
   "articles": [
+    {
+      "title": "Wednesday briefing: The new, devastating flood risk facing nearly all of Britain",
+      "description": "&lt;p&gt;In today’s newsletter: Flooding is predicted to become so bad that some towns may need to be abandoned, and it’s not even campaigners raising...",
+      "link": "https://www.theguardian.com/world/2025/oct/15/first-edition-flood-risk-britain",
+      "pubDate": "Wed, 15 Oct 2025 05:22:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/805612f4a415eec281b502fafa7634e79be6cbee/272_0_3456_2765/master/3456.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7bbfdd11844ea248c9cafd31227970c6"
+    },
     {
       "title": "Plantwatch: An extraordinary orchid that lives and flowers underground",
       "description": "&lt;p&gt;Botanist trying to conserve highly vulnerable rhizanthella that survives by feeding on nutrients from a fungus&lt;/p&gt;&lt;p&gt;Rhizanthella...",
@@ -53,7 +62,7 @@
       "pubDate": "Wed, 15 Oct 2025 04:00:13 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/9466106d51a09d55d3e21aae218454b06aed4fb8/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4333970144f00e6071fe50c2b4497197"
+      "image": "https://i.guim.co.uk/img/media/8221e6d88d1705439af1d480c4fbb18742604012/1454_1278_2784_2228/master/2784.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ae72fae1191f4a22af4570e98fcd228"
     },
     {
       "title": "AECOM recommits $1m to support Great Barrier Reef’s resilience through 2029",
@@ -72,6 +81,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Red Tractor ad banned for misleading environmental claims",
+      "description": "The Advertising Standards Authority upheld a complaint by environment charity River Action....",
+      "link": "https://www.bbc.com/news/articles/cx2lmnvj3n5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Oct 2025 02:40:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2025",
@@ -137,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/6134fbd38da3233c66bbfcad35ff8215465e8021/588_0_3412_2729/master/3412.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a87664246e65894382c695c609dd6157"
     },
     {
-      "title": "Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes, research finds",
-      "description": "&lt;p&gt;One expert says a cyclist hit by a car travelling 50km/h has about a one-in-10 chance of surviving, while at 30km/h it is a nine-in-10 chance...",
-      "link": "https://www.theguardian.com/environment/2025/oct/15/switching-50kmh-speed-limits-to-30kmh-would-protect-cyclists-while-barely-affecting-commutes-research-finds",
-      "pubDate": "Tue, 14 Oct 2025 13:01:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cc393d5d348d09069ec4c948068441e91b001115/560_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ab0e4ffa359ef1ffe848147375f3bf5"
-    },
-    {
       "title": "Pentagon retreats from climate fight even as heat and storms slam US troops",
       "description": "&lt;p&gt;For decades, the military treated the climate crisis as a threat. Now it’s backing away from plans to protect people and bases from extreme w...",
       "link": "https://www.theguardian.com/environment/2025/oct/14/pentagon-military-climate-crisis-trump",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Michigan town hopes to stop a data center with a 2026 ballot initiative",
-      "description": "Local officials see millions of dollars in tax revenue, but more than 950 residents who signed ballot petitions fear endless noise, pollution, and hig...",
-      "link": "https://grist.org/elections/a-michigan-town-hopes-to-stop-a-data-center-with-a-2026-ballot-initiative/",
-      "pubDate": "Tue, 14 Oct 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/building-5-of-our-new-albany-data-center-campus-in-central-ohio_.jpg?quality=75&amp;strip=all"
     }
   ]
 }
