@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-15T08:35:59.561Z",
+  "lastUpdated": "2025-10-15T09:28:26.053Z",
   "articles": [
+    {
+      "title": "Federal Actions Make New York’s Energy Future More Uncertain",
+      "description": "During a recent visit to a Long Island power station, U.S. Department of Energy Secretary Chris Wright criticized Biden-era policies that supported th...",
+      "link": "https://insideclimatenews.org/news/15102025/new-york-energy-federal-cuts/",
+      "pubDate": "Wed, 15 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Vermont lost track of millions in FEMA flood recovery funds",
+      "description": "As the federal government pushes more disaster recovery responsibilities onto states, they are “sitting ducks” for contractors....",
+      "link": "https://grist.org/accountability/how-vermont-lost-track-of-millions-in-fema-flood-recovery-funds/",
+      "pubDate": "Wed, 15 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/Email-from-Gosselin_August-2025.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "As data centers upend electric grids, the largest operator in the US is facing down a revolt from state officials",
       "description": "A coalition of 11 governors has threatened to withdraw from grid operator PJM....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/eb51f4f5d0e54ffc35b0da02b18abfb702d33da3/683_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba60933c5754d4a7672d85f2fd59552"
-    },
-    {
-      "title": "The Guardian view on the rising risk from flooding: uninsurable buildings should focus minds on climate adaptation | Editorial",
-      "description": "&lt;p&gt;The bleak future faced by one small town offers a cautionary tale about the threat from global heating&lt;/p&gt;&lt;p&gt;The &lt;a href=\"http...",
-      "link": "https://www.theguardian.com/commentisfree/2025/oct/14/the-guardian-view-on-the-rising-risk-from-flooding-uninsurable-buildings-should-focus-minds-on-climate-adaptation",
-      "pubDate": "Tue, 14 Oct 2025 17:58:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/61e12280babeb5544924b07ca3dac4bc4bf390e4/457_0_4551_3640/master/4551.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0168f94ee9354a7368a3e53f6016e41"
-    },
-    {
-      "title": "Government approves 'UK's largest' solar farm",
-      "description": "Developers claim it will power about 300,000 homes - making it larger than any currently built....",
-      "link": "https://www.bbc.com/news/articles/c0kp40ky8j4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Oct 2025 15:51:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
