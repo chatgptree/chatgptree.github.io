@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-15T07:26:19.705Z",
+  "lastUpdated": "2025-10-15T08:35:59.561Z",
   "articles": [
+    {
+      "title": "As data centers upend electric grids, the largest operator in the US is facing down a revolt from state officials",
+      "description": "A coalition of 11 governors has threatened to withdraw from grid operator PJM....",
+      "link": "https://grist.org/climate-energy/data-centers-electric-grids-pjm-operator-state-officials/",
+      "pubDate": "Wed, 15 Oct 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/openai-data-centers-ai-space.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Wildlife Photographer of the Year awards – in pictures",
+      "description": "&lt;p&gt;The Wildlife Photographer of the Year is an annual competition hosted by the Natural History Museum in London, which awards top honours in va...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/oct/15/wildlife-photographer-of-the-year-awards-in-pictures",
+      "pubDate": "Wed, 15 Oct 2025 08:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f038c75b9c718162192ff76c19b62743999be528/0_0_3250_2600/master/3250.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8d2a56c107bf79ee266868ddf7c9c94"
+    },
     {
       "title": "Watchdog rules Red Tractor exaggerated its environmental standards",
       "description": "&lt;p&gt;The Advertising Standards Authority agrees with River Action that the food safety body’s 2023 advert misled the public&lt;/p&gt;&lt;p&gt;The ...",
@@ -9,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1449599801a21b95276a0a4191f9f5fd54a31cad/513_503_2045_1636/master/2045.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8002cb3b93bacc24a92ef35877ffcde"
+    },
+    {
+      "title": "Government told to prepare for 2C warming by 2050",
+      "description": "The Climate Change Committee said the UK should make climate change adaptions beyond the Paris Agreement....",
+      "link": "https://www.bbc.com/news/articles/cx24kllyye1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Oct 2025 06:57:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Wednesday briefing: The new, devastating flood risk facing nearly all of Britain",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c0kp40ky8j4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 14 Oct 2025 15:51:47 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pentagon retreats from climate fight even as heat and storms slam US troops",
-      "description": "&lt;p&gt;For decades, the military treated the climate crisis as a threat. Now it’s backing away from plans to protect people and bases from extreme w...",
-      "link": "https://www.theguardian.com/environment/2025/oct/14/pentagon-military-climate-crisis-trump",
-      "pubDate": "Tue, 14 Oct 2025 12:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f350405963f48a6b52448f30c54d9dc86782cae3/489_0_4827_3862/master/4827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6743c5c180a5465b302ee0a192c0e94a"
-    },
-    {
-      "title": "Former EPA Region 2 Administrator Lisa Garcia Considers Environmental Justice With Trump in Power",
-      "description": "As a child, Lisa Garcia spent her summers in a South Bronx where playgrounds had more cracked pavement and asphalt than grass. She biked or hung out o...",
-      "link": "https://insideclimatenews.org/news/14102025/former-epa-region-2-administrator-lisa-garcia-considers-environmental-justice-with-trump-in-power/",
-      "pubDate": "Tue, 14 Oct 2025 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Environmental Advocates Keep Eyes on Iconic Chicago Silos as Demolition Resumes",
-      "description": "This story was originally published by Borderless Magazine. Access the original article here and sign up for its newsletter to learn the latest about ...",
-      "link": "https://insideclimatenews.org/news/14102025/environmental-advocates-keep-eyes-on-iconic-chicago-silos-as-demolition-resumes/",
-      "pubDate": "Tue, 14 Oct 2025 08:49:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
