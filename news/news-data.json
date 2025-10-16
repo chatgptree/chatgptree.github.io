@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-16T07:25:42.775Z",
+  "lastUpdated": "2025-10-16T08:35:48.900Z",
   "articles": [
+    {
+      "title": "The strategy behind Trump&#8217;s climate catchphrase, the &#8216;Green New Scam&#8217;",
+      "description": "The slogan may sound like a joke, but it’s part of a broader campaign to undermine public trust in climate action....",
+      "link": "https://grist.org/language/strategy-behind-trump-climate-catchphrase-green-new-scam/",
+      "pubDate": "Thu, 16 Oct 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/Trump-rally-New-Hampshire.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Artificial reef created at offshore wind farm",
+      "description": "The reef protects the wind turbine and serves as a home for a wide range of marine life....",
+      "link": "https://www.bbc.com/news/articles/czr1mgmz44ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Oct 2025 05:19:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Wage war on nature to build new homes: that’s Labour’s offer, but it’s a con trick  | George Monbiot",
       "description": "&lt;p&gt;The government’s new planning bill is tearing down environmental protections to benefit developers. This nation of nature lovers won’t stand ...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e5614b199e18bbba602afbeab8fe83c38634081d/295_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c260173e9e30884ef528ecaddba2f404"
-    },
-    {
-      "title": "Government told to prepare for 2C warming by 2050",
-      "description": "The Climate Change Committee said the UK should make climate change adaptions beyond the Paris Agreement....",
-      "link": "https://www.bbc.com/news/articles/cx24kllyye1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Oct 2025 11:37:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Federal Actions Make New York’s Energy Future More Uncertain",
-      "description": "During a recent visit to a Long Island power station, U.S. Department of Energy Secretary Chris Wright criticized Biden-era policies that supported th...",
-      "link": "https://insideclimatenews.org/news/15102025/new-york-energy-federal-cuts/",
-      "pubDate": "Wed, 15 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
