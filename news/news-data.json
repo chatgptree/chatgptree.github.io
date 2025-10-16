@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-16T03:09:44.992Z",
+  "lastUpdated": "2025-10-16T04:29:32.250Z",
   "articles": [
+    {
+      "title": "‘When I pass piles of fishing nets, I see piles of money’: a one man recycling revolution on the Cornish coast",
+      "description": "&lt;p&gt;Determined to find a solution to the discarded plastic nets, Ian Falconer found a way to convert them into filament for 3D printing, for use ...",
+      "link": "https://www.theguardian.com/environment/2025/oct/16/fishing-nets-money-a-one-man-recycling-revolution-on-the-cornish-coast",
+      "pubDate": "Thu, 16 Oct 2025 04:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2efc66ab110e70dff8126b32a5fa30e8a518ebe2/202_1209_4012_3208/master/4012.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0a56a4fd1231ee79c5194d29354e237"
+    },
     {
       "title": "Electric vehicles are key to unlocking clean energy revolution, but charging infrastructure needs to catch up fast, SXSW expert panel reveals",
       "description": "JOLT, Uber and Polestar senior executives share insights on how electric and autonomous vehicles are driving the green communities of the future Elect...",
@@ -47,10 +56,10 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
-      "title": "Tawny frogmouth named 2025 Australian bird of the year – live",
-      "description": "&lt;p&gt;Follow live as we announce the winner of the 2025 Australian bird of the year&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.t...",
+      "title": "Australia’s favourite bird named - as it happened",
+      "description": "&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/environment/2025/oct/16/tawny-frogmouth...",
       "link": "https://www.theguardian.com/environment/live/2025/oct/16/australian-bird-of-the-year-2025-winner-announcement-live",
-      "pubDate": "Thu, 16 Oct 2025 03:00:16 GMT",
+      "pubDate": "Thu, 16 Oct 2025 03:03:00 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7199c7225fe16fed1e86585e632a3a77afb1dba5/1275_0_7214_5774/master/7214.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e34f1b6067f2bfc057796021a3af6ef7"
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/Email-from-Gosselin_August-2025.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "As data centers upend electric grids, the largest operator in the US is facing down a revolt from state officials",
-      "description": "A coalition of 11 governors has threatened to withdraw from grid operator PJM....",
-      "link": "https://grist.org/climate-energy/data-centers-electric-grids-pjm-operator-state-officials/",
-      "pubDate": "Wed, 15 Oct 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/openai-data-centers-ai-space.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
