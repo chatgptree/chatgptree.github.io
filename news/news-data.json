@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-10-16T22:20:53.540Z",
+  "lastUpdated": "2025-10-16T23:20:17.239Z",
   "articles": [
     {
+      "title": "The Death Toll Is Rising from Ecuador’s Crackdown on Protesters",
+      "description": "At least three people have been killed in Ecuador as the government further ramps up its use of force against Indigenous-led protests triggered in par...",
+      "link": "https://insideclimatenews.org/news/16102025/ecuador-environmental-defenders-protests-death-toll/",
+      "pubDate": "Thu, 16 Oct 2025 23:15:19 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Nearly two dozen states sue to stop Trump ending $7bn solar grant program",
-      "description": "&lt;p&gt;States who received funding under EPA’s project aimed to expand solar energy for low-income communities&lt;/p&gt;&lt;p&gt;Nearly two dozen st...",
+      "description": "&lt;p&gt;States who received funding under an EPA project aimed to expand solar energy for low-income communities&lt;/p&gt;&lt;p&gt;Nearly two dozen s...",
       "link": "https://www.theguardian.com/us-news/2025/oct/16/lawsuit-trump-cancel-solar-energy-program",
       "pubDate": "Thu, 16 Oct 2025 22:00:10 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "CH4 Global throws its weight behind Adelaide to host COP31",
-      "description": "Leading Australian agri-tech company CH4 Global supports government moves to bring COP31 to Adelaide, and encourages Australia to join the UN Global S...",
-      "link": "https://econews.com.au/68058/ch4-global-throws-its-weight-behind-adelaide-to-host-cop31/",
-      "pubDate": "Thu, 16 Oct 2025 03:03:12 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
     }
   ]
 }
