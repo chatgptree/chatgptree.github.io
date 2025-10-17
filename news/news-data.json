@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-17T07:24:42.778Z",
+  "lastUpdated": "2025-10-17T08:34:16.461Z",
   "articles": [
+    {
+      "title": "From genocide to ecocide: After years of war, Gaza faces an environmental crisis ‘above imagination’",
+      "description": "A new report by scientists in Israel details the emerging environmental crisis in Palestine....",
+      "link": "https://grist.org/international/from-genocide-to-ecocide-after-years-of-war-gaza-faces-an-environmental-crisis-above-imagination/",
+      "pubDate": "Fri, 17 Oct 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Global conservation body backs genetically modified wildlife over Indigenous opposition",
+      "description": "Indigenous leaders say Free, Prior, and Informed Consent must guide decisions about synthetic conservation technologies on their lands....",
+      "link": "https://grist.org/indigenous/global-conservation-body-backs-genetically-modified-wildlife-over-indigenous-opposition/",
+      "pubDate": "Fri, 17 Oct 2025 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Week in wildlife: a hopeful pelican, peregrine chicks and cute baby numbats",
       "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
@@ -8,7 +26,7 @@
       "pubDate": "Fri, 17 Oct 2025 07:00:06 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/76ee1289fe9ab0583407964f1b8a2cf655c043c4/520_0_2602_2081/master/2602.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acd4aa47548da082792aace9f6cc2b86"
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Australian schools in the running to win a free screening of award-winning documentary Corals’ Last Stand – the Fight to Save Scott Reef",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The strategy behind Trump&#8217;s climate catchphrase, the &#8216;Green New Scam&#8217;",
-      "description": "The slogan may sound like a joke, but it’s part of a broader campaign to undermine public trust in climate action....",
-      "link": "https://grist.org/language/strategy-behind-trump-climate-catchphrase-green-new-scam/",
-      "pubDate": "Thu, 16 Oct 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/Trump-rally-New-Hampshire.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Bird migration is changing. What does this reveal about our planet? – visualised",
-      "description": "&lt;p&gt;Bird migrations rank as one of nature’s greatest spectacles. Thanks to GPS tracking, scientists are uncovering extraordinary insights into an...",
-      "link": "https://www.theguardian.com/environment/ng-interactive/2025/oct/16/bird-migration-is-changing-what-does-this-reveal-about-our-planet-visualised-aoe",
-      "pubDate": "Thu, 16 Oct 2025 08:00:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7aff0d9c4773d77a776559df9c01a11fad96948f/1_0_4998_4000/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8489f51affe20864344a36e78ec17631"
     }
   ]
 }
