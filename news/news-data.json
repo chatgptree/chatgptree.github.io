@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-17T08:34:16.461Z",
+  "lastUpdated": "2025-10-17T09:28:10.355Z",
   "articles": [
+    {
+      "title": "How a Declaration of Ancestral Wisdom Is Changing Law, Science and Our Understanding of the World",
+      "description": "When José Gualinga took the stage in a packed New York University law school auditorium in September, he admitted to feeling emotional.&#160; His audi...",
+      "link": "https://insideclimatenews.org/news/17102025/jose-gualinga-kichwa-people-sarayaku-living-forest-declaration/",
+      "pubDate": "Fri, 17 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How EVs can fix the grid and lower your electric bill",
+      "description": "A pilot project in Maryland is using EVs to create a cleaner, more resilient, and more affordable energy supply....",
+      "link": "https://grist.org/climate-energy/how-evs-can-fix-the-grid-and-lower-your-electric-bill/",
+      "pubDate": "Fri, 17 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/11/Goderich-5.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "From genocide to ecocide: After years of war, Gaza faces an environmental crisis ‘above imagination’",
       "description": "A new report by scientists in Israel details the emerging environmental crisis in Palestine....",
@@ -26,7 +44,7 @@
       "pubDate": "Fri, 17 Oct 2025 07:00:06 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://i.guim.co.uk/img/media/76ee1289fe9ab0583407964f1b8a2cf655c043c4/261_0_2601_2081/master/2601.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a4528b423e5baa0447fbf402f4c0615"
     },
     {
       "title": "Australian schools in the running to win a free screening of award-winning documentary Corals’ Last Stand – the Fight to Save Scott Reef",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6e6b6275ab82851ea740a0b02ee3062084687abb/731_0_7920_6336/master/7920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e89ce22d21850a128d9f8626604eafd0"
-    },
-    {
-      "title": "Some Shovelnose Sturgeon in Illinois Are Huge and Researchers Are Fishing for Reasons Why",
-      "description": "Most days, researcher Stefan Tucker, with trawls, trammel nets, trot lines and even electrofishing gear, is on his boat looking for sturgeon in the Ro...",
-      "link": "https://insideclimatenews.org/news/16102025/illinois-shovelnose-sturgeon-thriving/",
-      "pubDate": "Thu, 16 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists Warn About the ‘Greenlandification’ of Antarctica",
-      "description": "As recently as the 1990s, when the Greenland Ice Sheet and the rest of the Arctic region were measurably thawing under the climatic blowtorch of human...",
-      "link": "https://insideclimatenews.org/news/16102025/antarctica-greenlandification-ice-melt/",
-      "pubDate": "Thu, 16 Oct 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
