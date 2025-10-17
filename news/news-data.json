@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-17T15:26:23.881Z",
+  "lastUpdated": "2025-10-17T16:31:29.157Z",
   "articles": [
     {
       "title": "Landmark global shipping deal in tatters after US pressure",
       "description": "President Trump intervened in the talks calling the deal a \"green scam\"....",
       "link": "https://www.bbc.com/news/articles/c3vnl0yxg53o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 17 Oct 2025 14:48:45 GMT",
+      "pubDate": "Fri, 17 Oct 2025 16:13:11 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,10 +14,19 @@
       "title": "Landmark global shipping deal in tatters after US pressure",
       "description": "President Trump intervened in the talks calling the deal a \"green scam\"....",
       "link": "https://www.bbc.com/news/articles/c3vnl0yxg53o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 17 Oct 2025 14:48:45 GMT",
+      "pubDate": "Fri, 17 Oct 2025 16:13:11 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mississippi residents sue UK-owned biomass firm granted permit for more emissions",
+      "description": "&lt;p&gt;Nearby residents say they have had health concerns due to air pollution from Drax Biomass facility&lt;/p&gt;&lt;p&gt;Residents of a small &lt...",
+      "link": "https://www.theguardian.com/us-news/2025/oct/17/mississippi-suit-drax-biomass-air-pollution",
+      "pubDate": "Fri, 17 Oct 2025 15:03:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5c6a91ce06a89ddf4a3ce7615c6cd59132b88377/323_0_3290_2632/master/3290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=684889714a36bdf62686442bb81e7dec"
     },
     {
       "title": "Queensland anti-renewables group cited nonexistent papers in inquiry submissions using AI, publisher says",
@@ -27,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3a4bc615fe21d494e977f4054a939ee65874734a/468_0_2953_2362/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75f5fbc0b9d7306be6d4a81aee4d34b9"
+    },
+    {
+      "title": "Reward scheme for using less power at peak times could help lower US bills",
+      "description": "&lt;p&gt;With AI datacenters soaring power bills for households, a policy called ‘demand flexibility’ could help ease grid strain&lt;/p&gt;&lt;p&gt;A ...",
+      "link": "https://www.theguardian.com/us-news/2025/oct/17/tool-lower-home-energy-bills",
+      "pubDate": "Fri, 17 Oct 2025 12:30:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1d407c8a4f798630269d679eef0f1b548f61b95d/499_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=308bec47eb81b0639b6ee5cfeba1d141"
     },
     {
       "title": "Gavin Newsom’s veto on bill to ban Pfas hands industry a win, advocates fear",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/75bbc39da9582cc247cabe50c239037b3152ebc4/891_0_4453_3563/master/4453.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0281f67e74358d2e085f062763cc0b4e"
-    },
-    {
-      "title": "Brazil to ask countries at Cop30 to vastly increase biofuel use, leak suggests",
-      "description": "&lt;p&gt;Exclusive: Document sets draft pledge for leaders gathering at climate summit to increase use of controversial fuels&lt;/p&gt;&lt;p&gt;Brazil...",
-      "link": "https://www.theguardian.com/environment/2025/oct/16/brazil-ask-countries-quadruple-biofuel-use-leak-suggests",
-      "pubDate": "Thu, 16 Oct 2025 18:04:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5bb8a507b22d85ca7275880d8647bb9115c60ee1/365_0_3637_2911/master/3637.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=050ff37e93ef492912968f9149100aa6"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "The science and maths of playing The Traitors recorded at Green Man Festival....",
-      "link": "https://www.bbc.co.uk/sounds/play/m002kq3t?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Oct 2025 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
