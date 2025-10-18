@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-18T07:21:28.762Z",
+  "lastUpdated": "2025-10-18T08:30:59.753Z",
   "articles": [
+    {
+      "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
+      "description": " Yang, one of the world's most influential scientists, earned global recognition for his work in theoretical physics....",
+      "link": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 18 Oct 2025 06:49:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Mystery heatwave warms Pacific Ocean to new record",
       "description": "Temperatures have surged across a large area of the north Pacific - and scientists don't know exactly why....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/76ee1289fe9ab0583407964f1b8a2cf655c043c4/261_0_2601_2081/master/2601.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a4528b423e5baa0447fbf402f4c0615"
-    },
-    {
-      "title": "Australian schools in the running to win a free screening of award-winning documentary Corals’ Last Stand – the Fight to Save Scott Reef",
-      "description": "Teachers for Climate Australia and the Save Scott Reef Alliance Teachers for Climate Australia with the Save Scott Reef Alliance are giving 10 Austral...",
-      "link": "https://econews.com.au/68070/australian-schools-in-the-running-to-win-a-free-screening-of-award-winning-documentary-corals-last-stand-the-fight-to-save-scott-reef/",
-      "pubDate": "Fri, 17 Oct 2025 06:03:14 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
