@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-18T12:48:42.189Z",
+  "lastUpdated": "2025-10-18T13:29:29.748Z",
   "articles": [
+    {
+      "title": "America’s biggest offshore wind farm will be online in 6 months",
+      "description": "Dominion Energy’s 2.6 GW project off Virginia’s coast is progressing fast. The utility has a new, more definitive target to plug into the grid: March ...",
+      "link": "https://grist.org/energy/americas-biggest-offshore-wind-farm-will-be-online-in-six-months/",
+      "pubDate": "Sat, 18 Oct 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/chary.webp?quality=75&amp;strip=all"
+    },
     {
       "title": "US Senate poised to approve industry lobbyist to lead chemical safety at EPA",
       "description": "&lt;p&gt;If Douglas Troutman is confirmed, the top four toxics office at the environmental agency will be held by ex-lobbyists&lt;/p&gt;&lt;p&gt;The U...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mississippi residents sue UK-owned biomass firm granted permit for more emissions",
-      "description": "&lt;p&gt;Nearby residents say they have had health concerns due to air pollution from Drax Biomass facility&lt;/p&gt;&lt;p&gt;Residents of a small &lt...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/17/mississippi-suit-drax-biomass-air-pollution",
-      "pubDate": "Fri, 17 Oct 2025 15:03:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5c6a91ce06a89ddf4a3ce7615c6cd59132b88377/323_0_3290_2632/master/3290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=684889714a36bdf62686442bb81e7dec"
     }
   ]
 }
