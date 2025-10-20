@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-20T06:39:00.046Z",
+  "lastUpdated": "2025-10-20T07:26:26.523Z",
   "articles": [
+    {
+      "title": "Housing secretary says 'job on the line' over 1.5m housing target",
+      "description": "Housing secretary tells BBC Panorama widespread scepticism will make hitting target \"all the sweeter\"....",
+      "link": "https://www.bbc.com/news/articles/cj41v5g87w1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Oct 2025 05:01:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Schneider Electric’s AirSeT Honored by World Economic Forum for Excellence in Sustainable Design",
       "description": "Schneider Electric, the global leader in energy management and automation, is proud to announce that its pioneering medium-voltage switchgear technolo...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/chary.webp?quality=75&amp;strip=all"
-    },
-    {
-      "title": "US Senate poised to approve industry lobbyist to lead chemical safety at EPA",
-      "description": "&lt;p&gt;If Douglas Troutman is confirmed, the top four toxics office at the environmental agency will be held by ex-lobbyists&lt;/p&gt;&lt;p&gt;The U...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/18/senate-epa-confirmation-douglas-troutman-lobbyist",
-      "pubDate": "Sat, 18 Oct 2025 12:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/20335c9a2812ae912bd9555c9c22ffbdf35eae7e/211_0_3334_2668/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2dafb93695a9adbce6f96c5593125e4"
     }
   ]
 }
