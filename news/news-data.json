@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-21T07:25:58.005Z",
+  "lastUpdated": "2025-10-21T08:36:21.237Z",
   "articles": [
     {
       "title": "ASI honours sustainability leaders",
@@ -110,6 +110,15 @@
       "image": "https://i.guim.co.uk/img/media/bb49b34791e2f2371f08cc5e570646fc1824f237/1164_349_3123_2498/master/3123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=295014ecbd2a01982c0baece936e8f16"
     },
     {
+      "title": "Brazil grants oil exploration licence in Amazon region",
+      "description": "The project by state oil giant Petrobras has faced dismay and opposition from conservationists....",
+      "link": "https://www.bbc.com/news/articles/cm2735yp75ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Oct 2025 19:12:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Brazil greenlights oil drilling in Amazon as environmentalists raise alarm",
       "description": "&lt;p&gt;Conservationists argue president’s oil expansion plans clash with his image as a global leader on climate change&lt;/p&gt;&lt;p&gt;&lt;a href...",
       "link": "https://www.theguardian.com/world/2025/oct/20/brazil-greenlights-oil-drilling-amazon",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Racing against time, Illinois clears a major hurdle in containing an invasive fish",
-      "description": "After a political standoff between President Trump and Illinois Governor JB Pritzker, the state is now moving ahead with a billion-dollar project to c...",
-      "link": "https://grist.org/solutions/racing-against-time-illinois-clears-a-major-hurdle-in-containing-an-invasive-fish/",
-      "pubDate": "Mon, 20 Oct 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/ASIANCARP-08XX25-32-1-min.jpg?quality=75&amp;strip=all"
     }
   ]
 }
