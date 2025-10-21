@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-21T10:28:25.944Z",
+  "lastUpdated": "2025-10-21T11:21:24.962Z",
   "articles": [
+    {
+      "title": "Mosquitoes found in Iceland for first time as climate crisis warms country",
+      "description": "&lt;p&gt;Three specimens discovered in what was previously one of the only places in the world without the insects&lt;/p&gt;&lt;p&gt;Mosquitoes have b...",
+      "link": "https://www.theguardian.com/environment/2025/oct/21/mosquitoes-found-iceland-first-time-climate-crisis-warms-country",
+      "pubDate": "Tue, 21 Oct 2025 10:41:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/76284e8ec9c3184bf833c0349132a73bb314d29b/807_239_3362_2691/master/3362.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e9087a54bc0fb025e9ad72bf5680d92"
+    },
     {
       "title": "Delhi awakes to a toxic haze after Diwali as pollution season begins",
       "description": "&lt;p&gt;Air breathed by people in the city categorised as ‘severe’ in quality after fireworks contribute to thick smog&lt;/p&gt;&lt;p&gt;Delhi awoke ...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Brazil greenlights oil drilling in Amazon as environmentalists raise alarm",
-      "description": "&lt;p&gt;Conservationists argue president’s oil expansion plans clash with his image as a global leader on climate change&lt;/p&gt;&lt;p&gt;&lt;a href...",
-      "link": "https://www.theguardian.com/world/2025/oct/20/brazil-greenlights-oil-drilling-amazon",
-      "pubDate": "Mon, 20 Oct 2025 17:36:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0427cd6e1922d571ffa89dfd2fece51593eefd17/1263_0_3837_3070/master/3837.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1689877a695442da9e22b92fa1e202c"
     }
   ]
 }
