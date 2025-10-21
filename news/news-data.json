@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-21T06:38:13.824Z",
+  "lastUpdated": "2025-10-21T07:25:58.005Z",
   "articles": [
+    {
+      "title": "ASI honours sustainability leaders",
+      "description": "Bradbury Park Playscape (Winner – Small projects under $10m) Australian Steel Institute The steel industry’s leading sustainability projects and champ...",
+      "link": "https://econews.com.au/68094/asi-honours-sustainability-leaders/",
+      "pubDate": "Tue, 21 Oct 2025 07:03:11 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/Screenshot-2025-10-21-165313.png"
+    },
     {
       "title": "Beasts of the Sea: the tragic story of how the ‘gentle, lovable’ sea cow became the perfect victim",
       "description": "&lt;p&gt;Iida Turpeinen’s novel has been a sensation in her native Finland. On the eve of its UK publication, she talks about her compulsion to tell o...",
@@ -27,6 +36,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/UNSW-logo-1.png"
+    },
+    {
+      "title": "Nasa's first female space commander: I didn't want people to say 'the woman made a mistake'",
+      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a spacecraft....",
+      "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Nasa's first female space commander: I didn't want people to say 'the woman made a mistake'",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/ASIANCARP-08XX25-32-1-min.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Housing secretary says 'job on the line' over 1.5m housing target",
-      "description": "Housing secretary tells BBC Panorama widespread scepticism will make hitting target \"all the sweeter\"....",
-      "link": "https://www.bbc.com/news/articles/cj41v5g87w1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 20 Oct 2025 05:01:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Schneider Electric’s AirSeT Honored by World Economic Forum for Excellence in Sustainable Design",
-      "description": "Schneider Electric, the global leader in energy management and automation, is proud to announce that its pioneering medium-voltage switchgear technolo...",
-      "link": "https://econews.com.au/68080/schneider-electrics-airset-honored-by-world-economic-forum-for-excellence-in-sustainable-design/",
-      "pubDate": "Mon, 20 Oct 2025 04:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Schneider-Electric-logo.png"
     }
   ]
 }
