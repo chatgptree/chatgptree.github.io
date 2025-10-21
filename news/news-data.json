@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-21T17:23:02.335Z",
+  "lastUpdated": "2025-10-21T18:36:56.590Z",
   "articles": [
+    {
+      "title": "Climate-Warming Methane Emissions from the World’s Biggest Livestock Companies Are Bigger Than From Major Oil and Gas Companies",
+      "description": "The world’s biggest meat and dairy companies are responsible for emitting more climate-warming methane than all of the countries in the European Union...",
+      "link": "https://insideclimatenews.org/news/21102025/livestock-industry-methane-emissions/",
+      "pubDate": "Tue, 21 Oct 2025 18:21:52 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump Targets Federal Employees Working on Conservation and Environmental Protection",
       "description": "The Trump administration moved Monday to slash federal jobs across two key environmental and conservation agencies, targeting employees who work on sc...",
@@ -29,6 +38,15 @@
       "image": "https://i.guim.co.uk/img/media/6ef0b794ee0178f7844c4cb60af4861a99d53860/488_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=047f40d22c36dfef332492f323fb71e9"
     },
     {
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "description": "&lt;p&gt;Most vulnerable families could be without critical energy assistance, experts warn, as electricity and gas bills surge&lt;/p&gt;&lt;p&gt;Mill...",
+      "link": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/611c12e72be911f5528c4a9aa7cea4abca91cad5/334_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58c4f346fd71c0ec6b940e94606004be"
+    },
+    {
       "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
       "description": "&lt;p&gt;New rule would prohibit states from banning dangerous chemicals, and could invalidate hundreds of protections&lt;/p&gt;&lt;p&gt;A new rule pr...",
       "link": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
@@ -38,13 +56,13 @@
       "image": "https://i.guim.co.uk/img/media/749a0c24ee1fc2bf7d9586400e65e20811dab34e/492_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c5bb9b35986d15cf213940f73678be4"
     },
     {
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "description": "&lt;p&gt;Most vulnerable families could be without critical energy assistance, experts warn, as electricity and gas bills surge&lt;/p&gt;&lt;p&gt;Mill...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "title": "Infectious diseases are killing deer and risking rural US economies: ‘You smell the dead everywhere’",
+      "description": "&lt;p&gt;Climate crisis contributing to spread of diseases as hunting industry takes a hit from growing number of dead deer&lt;/p&gt;&lt;p&gt;When lan...",
+      "link": "https://www.theguardian.com/us-news/2025/oct/21/deer-diseases-rural-economies",
+      "pubDate": "Tue, 21 Oct 2025 12:00:34 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/611c12e72be911f5528c4a9aa7cea4abca91cad5/334_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58c4f346fd71c0ec6b940e94606004be"
+      "image": "https://i.guim.co.uk/img/media/3bbf0cbb6630280798ff84b0b85de28d13d6a173/78_0_1060_847/master/1060.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09b0287be5d81163e487807375b35dbf"
     },
     {
       "title": "Mosquitoes found in Iceland for first time as climate crisis warms country",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Green Music Australia is changing the tune on climate action",
-      "description": "Berish Bilander has spent years working at the intersection of two worlds that don’t always harmonise: the fast-paced, high-energy music industry and ...",
-      "link": "https://econews.com.au/68090/how-green-music-australia-is-changing-the-tune-on-climate-action/",
-      "pubDate": "Tue, 21 Oct 2025 01:03:17 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Endangered Chuditch become proud grandparents at WA wildlife sanctuary",
-      "description": "Juvenile Chuditch inside mumspouch. Second gen for Mt-Gibson.  ©-Louis-ONeill Mt Gibson Wildlife Sanctuary welcomes second generation of Western Quoll...",
-      "link": "https://econews.com.au/68088/endangered-chuditch-become-proud-grandparents-at-wa-wildlife-sanctuary/",
-      "pubDate": "Tue, 21 Oct 2025 01:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/07/AWC-Geographic.png"
     }
   ]
 }
