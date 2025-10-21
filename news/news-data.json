@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-21T02:01:16.639Z",
+  "lastUpdated": "2025-10-21T03:40:05.010Z",
   "articles": [
+    {
+      "title": "Nasa's first female space commander: I didn't want people to say 'the woman made a mistake'",
+      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a spacecraft....",
+      "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How Green Music Australia is changing the tune on climate action",
       "description": "Berish Bilander has spent years working at the intersection of two worlds that don’t always harmonise: the fast-paced, high-energy music industry and ...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Global study revises greenhouse gas emissions for tropical inland waters",
-      "description": "Aerial view of the South Alligator River and floodplain (Northern Territory, Australia). Lowland tropical rivers emit large quantities of greenhouse g...",
-      "link": "https://econews.com.au/68072/global-study-revises-greenhouse-gas-emissions-for-tropical-inland-waters/",
-      "pubDate": "Mon, 20 Oct 2025 04:03:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
     }
   ]
 }
