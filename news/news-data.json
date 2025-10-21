@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-21T11:21:24.962Z",
+  "lastUpdated": "2025-10-21T12:56:48.837Z",
   "articles": [
+    {
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "description": "&lt;p&gt;Most vulnerable families could be without critical energy assistance, experts warn, as electricity and gas bills surge&lt;/p&gt;&lt;p&gt;Mill...",
+      "link": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/611c12e72be911f5528c4a9aa7cea4abca91cad5/334_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58c4f346fd71c0ec6b940e94606004be"
+    },
+    {
+      "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
+      "description": "&lt;p&gt;New rule would prohibit states from banning dangerous chemicals, and could invalidate hundreds of protections&lt;/p&gt;&lt;p&gt;A new rule pr...",
+      "link": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
+      "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/749a0c24ee1fc2bf7d9586400e65e20811dab34e/492_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c5bb9b35986d15cf213940f73678be4"
+    },
     {
       "title": "Mosquitoes found in Iceland for first time as climate crisis warms country",
       "description": "&lt;p&gt;Three specimens discovered in what was previously one of the only places in the world without the insects&lt;/p&gt;&lt;p&gt;Mosquitoes have b...",
@@ -101,8 +119,8 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/UNSW-logo-1.png"
     },
     {
-      "title": "Nasa's first female space commander: I didn't want people to say 'the woman made a mistake'",
-      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a spacecraft....",
+      "title": "'It's harder to be a parent than a space shuttle commander', trailblazing Nasa pilot tells BBC",
+      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a Nasa spacecraft....",
       "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -110,8 +128,8 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Nasa's first female space commander: I didn't want people to say 'the woman made a mistake'",
-      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a spacecraft....",
+      "title": "'It's harder to be a parent than a space shuttle commander', trailblazing Nasa pilot tells BBC",
+      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a Nasa spacecraft....",
       "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/U16-Girls-683x1024.jpg"
-    },
-    {
-      "title": "Nearly half of UK garden space is paved over, RHS study finds",
-      "description": "&lt;p&gt;Homeowners urged to use more robust planting and permeable materials to help mitigate flood risk&lt;/p&gt;&lt;p&gt;Nearly half of the UK’s ga...",
-      "link": "https://www.theguardian.com/environment/2025/oct/21/nearly-half-of-uk-garden-space-is-paved-over-rhs-study-finds",
-      "pubDate": "Mon, 20 Oct 2025 23:01:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bb49b34791e2f2371f08cc5e570646fc1824f237/1164_349_3123_2498/master/3123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=295014ecbd2a01982c0baece936e8f16"
-    },
-    {
-      "title": "Brazil grants oil exploration licence in Amazon region",
-      "description": "The project by state oil giant Petrobras has faced dismay and opposition from conservationists....",
-      "link": "https://www.bbc.com/news/articles/cm2735yp75ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 20 Oct 2025 19:12:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
