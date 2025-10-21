@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-21T20:29:42.201Z",
+  "lastUpdated": "2025-10-21T21:23:48.304Z",
   "articles": [
+    {
+      "title": "New York City Unveils Plan for Flood-Prone Neighborhood Nicknamed ‘The Hole’",
+      "description": "It hadn’t rained in two days and yet, on a warm sunny day in early June, in a neighborhood on the border of Brooklyn and Queens known as “The Hole,” s...",
+      "link": "https://insideclimatenews.org/news/21102025/new-york-city-flood-prone-jewel-streets/",
+      "pubDate": "Tue, 21 Oct 2025 21:06:50 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Evacuating Remote Alaska Was Hard. Rebuilding Will Be Even Harder.",
+      "description": "When the remnants of a deadly typhoon slammed Western Alaska’s Yukon-Kuskokwim Delta a week and a half ago, it brought hurricane-force winds and catas...",
+      "link": "https://insideclimatenews.org/news/21102025/todays-climate-alaska-flood-typhoon-halong-evacuation-recovery/",
+      "pubDate": "Tue, 21 Oct 2025 21:03:47 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Climate-Warming Methane Emissions from the World’s Biggest Livestock Companies Are Bigger Than From Major Oil and Gas Companies",
       "description": "The world’s biggest meat and dairy companies are responsible for emitting more climate-warming methane than all of the countries in the European Union...",
@@ -38,15 +56,6 @@
       "image": "https://i.guim.co.uk/img/media/6ef0b794ee0178f7844c4cb60af4861a99d53860/488_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=047f40d22c36dfef332492f323fb71e9"
     },
     {
-      "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
-      "description": "&lt;p&gt;New rule would prohibit states from banning dangerous chemicals, and could invalidate hundreds of protections&lt;/p&gt;&lt;p&gt;A new rule pr...",
-      "link": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
-      "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/749a0c24ee1fc2bf7d9586400e65e20811dab34e/492_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c5bb9b35986d15cf213940f73678be4"
-    },
-    {
       "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
       "description": "&lt;p&gt;Most vulnerable families could be without critical energy assistance, experts warn, as electricity and gas bills surge&lt;/p&gt;&lt;p&gt;Mill...",
       "link": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
@@ -54,6 +63,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/611c12e72be911f5528c4a9aa7cea4abca91cad5/334_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58c4f346fd71c0ec6b940e94606004be"
+    },
+    {
+      "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
+      "description": "&lt;p&gt;New rule would prohibit states from banning dangerous chemicals, and could invalidate hundreds of protections&lt;/p&gt;&lt;p&gt;A new rule pr...",
+      "link": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
+      "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/749a0c24ee1fc2bf7d9586400e65e20811dab34e/492_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c5bb9b35986d15cf213940f73678be4"
     },
     {
       "title": "Infectious diseases are killing deer and risking rural US economies: ‘You smell the dead everywhere’",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/UNSW-logo-1.png"
-    },
-    {
-      "title": "'It's harder to be a parent than a space shuttle commander', trailblazing Nasa pilot tells BBC",
-      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a Nasa spacecraft....",
-      "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'It's harder to be a parent than a space shuttle commander', trailblazing Nasa pilot tells BBC",
-      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a Nasa spacecraft....",
-      "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
