@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-22T16:34:48.260Z",
+  "lastUpdated": "2025-10-22T17:23:15.489Z",
   "articles": [
+    {
+      "title": "New York City Needs More Housing. Should it Come With Promises to Protect Green Space?",
+      "description": "The Elizabeth Street Garden, a cherished green space in lower Manhattan, was at the center of a heated debate that pitted locals against affordable ho...",
+      "link": "https://insideclimatenews.org/news/22102025/new-york-city-housing-vs-parks/",
+      "pubDate": "Wed, 22 Oct 2025 16:48:51 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Heathrow third runway plans to be fast-tracked for expansion’s ‘full benefits sooner’",
       "description": "&lt;p&gt;Transport secretary says updated airports national policy statement (ANPS) will be published by next summer&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6b4db16674db8be1265c088aeb3aa0ad794a76fe/0_0_874_699/master/874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67356f72b3f2fdee25fdbe913c1acde1"
-    },
-    {
-      "title": "Ancient elephant migration routes are being blocked off – can anything stop the rising death toll?",
-      "description": "&lt;p&gt;Human-wildlife conflict has now overtaken poaching as a cause of fatalities – and is deadly for people too. Some villages are finding new way...",
-      "link": "https://www.theguardian.com/environment/2025/oct/22/africa-wildlife-conservation-ancient-elephant-migration-routes-blocked-off-human-animal-conflict-aoe",
-      "pubDate": "Wed, 22 Oct 2025 04:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2360ba6ad37a1f26316ea5abf9e0da07efed8318/1552_1072_1190_952/master/1190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=551219b30f9f6ddd5fc7c1e2fd6c658f"
     }
   ]
 }
