@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-22T09:30:12.011Z",
+  "lastUpdated": "2025-10-22T10:29:57.632Z",
   "articles": [
+    {
+      "title": "Flooding and droughts drove them from their homes. Now they’re seeking a safe haven in New York",
+      "description": "&lt;p&gt;Data analysis found higher than average migration growth to the US from areas in Guatemala, Bangladesh and Senegal hit by repeated climate di...",
+      "link": "https://www.theguardian.com/environment/2025/oct/22/climate-disasters-migration-new-york",
+      "pubDate": "Wed, 22 Oct 2025 10:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/813421a31c7d78e263779ec187e1e356b03c78ee/1047_0_5602_4480/master/5602.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c4755998d986d94c3394444fcee94ba"
+    },
     {
       "title": "‘Poorly thought through’: UK food firms say packaging tax is pushing up prices",
       "description": "&lt;p&gt;Green groups defend ‘essential’ levy, but Heck sausages and Gü desserts among those who say shoppers will pick up tab&lt;/p&gt;&lt;p&gt;A &lt...",
@@ -11,13 +20,22 @@
       "image": "https://i.guim.co.uk/img/media/9e579a8aa4523cc0361450eed1807e35b515987e/385_0_3172_2538/master/3172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ef0e7e2cf5b236d193bef6d07d6e443"
     },
     {
+      "title": "World Cup sends 'dangerous message' on climate",
+      "description": "In eight months the 2026 World Cup will make history as the biggest single sporting event - but not everyone is celebrating....",
+      "link": "https://www.bbc.com/sport/football/articles/c2314ve7d7jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 22 Oct 2025 09:05:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Inside the illegal eel trade: is there a way to stop Europe’s biggest wildlife crime before it’s too late?",
       "description": "&lt;p&gt;Interviews with experts and key players across four countries reveal why efforts to stop the multibillion-euro trafficking industry have fail...",
       "link": "https://www.theguardian.com/environment/2025/oct/22/illegal-eel-trade-trafficking-europe-biggest-wildlife-crime-endangered",
       "pubDate": "Wed, 22 Oct 2025 09:00:21 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/cde056a3ec96450ad03b2d6d1071fa383ae45ee1/288_0_4515_3612/master/4515.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f737c658b040e161282fdc84d4fe1b1"
+      "image": "https://i.guim.co.uk/img/media/cde056a3ec96450ad03b2d6d1071fa383ae45ee1/1659_862_2753_2203/master/2753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9242735ec5af9de595e9c0f1a1eab153"
     },
     {
       "title": "Defending Stingless Bees in the Peruvian Amazon",
@@ -52,15 +70,6 @@
       "link": "https://grist.org/indigenous/want-to-go-to-the-uns-biggest-gathering-of-indigenous-peoples-heres-how/",
       "pubDate": "Wed, 22 Oct 2025 08:30:00 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mosquitoes found in Iceland for first time after record heat",
-      "description": "Previously the country was one of the world's only mosquito-free zones....",
-      "link": "https://www.bbc.com/news/articles/clyz3vv62pgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 22 Oct 2025 08:22:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -152,7 +161,7 @@
       "pubDate": "Wed, 22 Oct 2025 04:00:55 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/2360ba6ad37a1f26316ea5abf9e0da07efed8318/1034_880_2180_1744/master/2180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=667e119e2000d539e929a198104b3874"
+      "image": "https://i.guim.co.uk/img/media/2360ba6ad37a1f26316ea5abf9e0da07efed8318/1552_1072_1190_952/master/1190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=551219b30f9f6ddd5fc7c1e2fd6c658f"
     },
     {
       "title": "Photographer captures timelapse of 'red lightning' in New Zealand – video",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c4gz7xyr2g7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 22 Oct 2025 00:50:51 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Close Friend of JD Vance Skirts Normal Channels to Take Over NIH Environmental Health Institute",
-      "description": "Employees at the National Institutes of Health learned in an email on Friday, in the midst of a hiring freeze, that their prestigious environmental he...",
-      "link": "https://insideclimatenews.org/news/21102025/jd-vance-friend-kyle-walsh-takes-over-nih-environmental-health/",
-      "pubDate": "Wed, 22 Oct 2025 00:15:15 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
