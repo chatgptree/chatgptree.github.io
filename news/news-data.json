@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2025-10-22T07:25:41.302Z",
+  "lastUpdated": "2025-10-22T08:36:54.974Z",
   "articles": [
     {
-      "title": "Sydney temperatures soar 10C in 90 minutes as wild winds and weather batter Victoria",
+      "title": "Want to go to the UN’s biggest gathering of Indigenous peoples? Here’s how.",
+      "description": "Applications are open until October 31 to receive funding to attend major Indigenous gatherings in New York and Geneva next year. ...",
+      "link": "https://grist.org/indigenous/want-to-go-to-the-uns-biggest-gathering-of-indigenous-peoples-heres-how/",
+      "pubDate": "Wed, 22 Oct 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mosquitoes found in Iceland for first time after record heat",
+      "description": "Previously the country was one of the world's only mosquito-free zones....",
+      "link": "https://www.bbc.com/news/articles/clyz3vv62pgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 22 Oct 2025 08:22:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Two dead at Melbourne beach as wild wind batters state, while parts of Sydney hit by record-breaking heat",
       "description": "&lt;p&gt;Sydney’s Observatory Hill peaks at 37C on Wednesday – below the 39C forecast – as the mercury in other parts of the city neared 40C&lt;/p&gt;...",
       "link": "https://www.theguardian.com/environment/2025/oct/22/sydney-weather-nsw-heat-bom-forecast-wind-warnings-australia",
       "pubDate": "Wed, 22 Oct 2025 06:50:51 GMT",
@@ -74,22 +92,13 @@
       "image": "https://i.guim.co.uk/img/media/6b4db16674db8be1265c088aeb3aa0ad794a76fe/0_0_874_699/master/874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67356f72b3f2fdee25fdbe913c1acde1"
     },
     {
-      "title": "Only one prosecution made after 15,195 wood-burning complaints in a year in England",
-      "description": "&lt;p&gt;Campaigners say figures reveal a lack of enforcement with just 24 fines issued by councils for rule violations&lt;/p&gt;&lt;p&gt;Only one pro...",
+      "title": "No prosecutions made after 15,195 wood-burning complaints in a year in England",
+      "description": "&lt;p&gt;Campaigners say figures reveal a lack of enforcement with just 24 fines issued by councils for rule violations&lt;/p&gt;&lt;p&gt;Not one pros...",
       "link": "https://www.theguardian.com/environment/2025/oct/22/only-one-prosecution-wood-burning-complaints-year-england",
       "pubDate": "Wed, 22 Oct 2025 05:00:56 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fd898aceaddd05f9dd06d3d1f6c0e865b891563b/611_0_2989_2391/master/2989.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00b544ebe3b861fba55e4c96fb342953"
-    },
-    {
-      "title": "Mosquitoes found in Iceland for first time after record heat",
-      "description": "The country was previously one of the world's only mosquito-free zones....",
-      "link": "https://www.bbc.com/news/articles/clyz3vv62pgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 22 Oct 2025 04:59:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Global use of coal hit record high in 2024",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "description": "&lt;p&gt;Most vulnerable families could be without critical energy assistance, experts warn, as electricity and gas bills surge&lt;/p&gt;&lt;p&gt;Mill...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/611c12e72be911f5528c4a9aa7cea4abca91cad5/334_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58c4f346fd71c0ec6b940e94606004be"
     }
   ]
 }
