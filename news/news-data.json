@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-10-23T09:28:44.144Z",
+  "lastUpdated": "2025-10-23T10:29:17.861Z",
   "articles": [
     {
-      "title": "Thames Water given lowest one star rating for repeated sewage spills",
-      "description": "England's water companies had their worst combined score since assessment began in 2011....",
+      "title": "England water companies get worst ever score over pollution",
+      "description": "Thames Water - the UK's largest water company - was given the lowest one-star rating. ...",
       "link": "https://www.bbc.com/news/articles/cdjrymnx1e8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Oct 2025 09:16:11 GMT",
+      "pubDate": "Thu, 23 Oct 2025 10:23:42 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Renewable energy investment should come from defence budgets, say retired military leaders",
+      "description": "&lt;p&gt;Former European officers say spending on low-carbon power would make nations more resilient to threats from potential aggressors&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2025/oct/23/renewable-energy-investment-should-come-from-defence-budgets-say-retired-military-leaders",
+      "pubDate": "Thu, 23 Oct 2025 10:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b500e0e981f89bfbe37cd9b31571ee2608d1628e/758_0_3735_2988/master/3735.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cec5a87fd9ea86cad12555cb1bc94fef"
     },
     {
       "title": "Ecuadorians to Vote on Constitutional Rewrite, Possibly Gutting Rights of Nature",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Keir Starmer prepares to miss key green target in effort to keep energy bills down",
-      "description": "&lt;p&gt;Exclusive: Promise to remove almost all fossil fuels from UK’s electricity supply by 2030 may be quietly abandoned over cost&lt;/p&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/politics/2025/oct/22/keir-starmer-green-pledge-2030-energy-bills",
-      "pubDate": "Wed, 22 Oct 2025 20:47:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a4d037ec77b0cede1a9e2cccac907f06987221c4/87_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ccb3f56d41f17c765b5e332c80808611"
     }
   ]
 }
