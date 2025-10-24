@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-24T06:37:21.523Z",
+  "lastUpdated": "2025-10-24T07:24:56.802Z",
   "articles": [
+    {
+      "title": "Week in wildlife: a ferocious wildcat, a cheeky seal and a disgruntled lioness",
+      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/oct/24/week-in-wildlife-a-ferocious-wildcat-a-cheeky-seal-and-a-disgruntled-lioness",
+      "pubDate": "Fri, 24 Oct 2025 07:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fb8ab57e30c64994ce4d7262110266edf2c8a68b/155_22_2339_1871/master/2339.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3ee089d71e82f6453e13f97245daa96"
+    },
     {
       "title": "Secret report shows likely source of ‘poo balls’ that closed Sydney’s beaches last summer",
       "description": "&lt;p&gt;&lt;strong&gt;Exclusive&lt;/strong&gt;: Fat, oil and grease built up in sewerage pipes before being dislodged by heavy rain and ejected from ...",
@@ -79,6 +88,15 @@
       "link": "https://insideclimatenews.org/news/23102025/trump-environmental-justice-grants-cancellation-lawsuit/",
       "pubDate": "Thu, 23 Oct 2025 22:16:09 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "South Korea's fishermen keep dying. Is climate change to blame?",
+      "description": "An increase in deadly incidents has been partly caused by climate change, an inquiry found....",
+      "link": "https://www.bbc.com/news/articles/cvg924nrgd3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Oct 2025 22:10:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c996a4d2d6280014288ff3e533e92597d3e151b0/176_0_1695_1356/master/1695.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80944d96a891a64fabe3beac4bfa6bb1"
-    },
-    {
-      "title": "Ecuadorians to Vote on Constitutional Rewrite, Possibly Gutting Rights of Nature",
-      "description": "In 2008, Ecuador made history by enshrining the rights of nature in its constitution, recognizing ecosystems as living entities with legal rights.&#16...",
-      "link": "https://insideclimatenews.org/news/23102025/ecuador-votes-on-possibly-gutting-rights-of-nature/",
-      "pubDate": "Thu, 23 Oct 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wetlands Help Remedy Agricultural Pollution. Some Illinois Farmers Are Installing New Ones.",
-      "description": "One September morning Jim Fulton was pumping fuel into a combine harvester and watching the sky for rain.&#160; Fulton’s family has been farming in Il...",
-      "link": "https://insideclimatenews.org/news/23102025/illinois-farmers-build-wetlands-to-help-agricultural-pollution/",
-      "pubDate": "Thu, 23 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
