@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-24T08:34:03.748Z",
+  "lastUpdated": "2025-10-24T09:28:10.262Z",
   "articles": [
+    {
+      "title": "Whale and Dolphin Migrations are Being Disrupted by Climate Change",
+      "description": "For millennia, some of the world’s largest filter-feeding whales, including humpbacks, fin whales and blue whales, have undertaken some of the longest...",
+      "link": "https://insideclimatenews.org/news/24102025/marine-mammal-migrations-disrupted-by-climate-change/",
+      "pubDate": "Fri, 24 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Iowa Counties Keep Water Quality Monitoring Afloat After State Funding Cuts",
+      "description": "DES MOINES, Iowa—For over a decade, a network of water quality sensors managed by the University of Iowa has provided publicly available data about wa...",
+      "link": "https://insideclimatenews.org/news/24102025/iowa-polk-county-water-quality-monitoring-agricultural-pollution/",
+      "pubDate": "Fri, 24 Oct 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Where the Appalachian brook trout vanish, something human goes missing, too",
+      "description": "As climate change reshapes the Blue Ridge, Appalachia’s native trout are losing ground — but dedicated anglers and scientists are racing to save them....",
+      "link": "https://grist.org/culture/where-the-appalachian-brook-trout-vanish-something-human-goes-missing-too/",
+      "pubDate": "Fri, 24 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/Trout_Thomas-Champeau.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Fossil fuel companies say they support the energy transition. New numbers suggest otherwise.",
       "description": "A new report shows that fossil fuel companies own less than 2 percent of renewable energy projects worldwide....",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After centuries of trauma, Montana’s Blackfeet Nation turns to an old friend for food sovereignty: bison",
-      "description": "&lt;p&gt;Local non-profits and schools are helping students explore traditional practices paired with modern science to make food sovereignty a realit...",
-      "link": "https://www.theguardian.com/artanddesign/2025/oct/23/blackfeet-nation-bison-food-sovereignty-montana",
-      "pubDate": "Thu, 23 Oct 2025 15:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/15dbf0aa7ea77f9ca37fd623c6830d7738591042/0_0_1280_1024/master/1280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d98052cb58badd186dd6942e5f45c59"
-    },
-    {
-      "title": "Marine heatwave over Pacific Ocean could lead to flooding in north-west",
-      "description": "&lt;p&gt;Severe ‘blob’ or marine heatwave can lead to increased inundation and wintery weather in eastern North America&lt;/p&gt;&lt;p&gt;A marine hea...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/23/pacific-ocean-marine-heatwave-north-west",
-      "pubDate": "Thu, 23 Oct 2025 15:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9d669dec293ea71bf9d28e9bca48f8ab8a6a2f27/436_0_4350_3481/master/4350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fd1e6719178cfb84025d2149f50c8ee"
-    },
-    {
-      "title": "Oil firm TotalEnergies made misleading green statements, court rules",
-      "description": "&lt;p&gt;French multinational is ordered to remove its website messages about aiming for carbon neutrality&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a...",
-      "link": "https://www.theguardian.com/environment/2025/oct/23/oil-firm-totalenergies-made-misleading-green-statements-court-rules",
-      "pubDate": "Thu, 23 Oct 2025 14:51:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/943790397f65a3b30c58859b141777f6bf669a6f/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d28694c7ae82ccf9dee76f65957a1931"
     }
   ]
 }
