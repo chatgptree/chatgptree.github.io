@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-23T23:22:18.339Z",
+  "lastUpdated": "2025-10-24T01:55:42.662Z",
   "articles": [
+    {
+      "title": "Will COP30 Finally Prioritize Indigenous Voices?",
+      "description": "Leaders of Indigenous, Afro-descendant and disenfranchised groups living in rural and forested regions around the world see the upcoming United Nation...",
+      "link": "https://insideclimatenews.org/news/23102025/brazil-un-cop30-indigenous-representation/",
+      "pubDate": "Fri, 24 Oct 2025 00:15:09 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Airport expansion will put UK’s net zero goal in ‘serious jeopardy’, MPs warn",
       "description": "&lt;p&gt;Committee urges ministers to set out measures to reduce carbon emissions before work starts on new runways&lt;/p&gt;&lt;p&gt;Airport expansio...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/Suriname-Map-2.0.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The entire world was ready to reduce shipping emissions. Then Trump stepped in.",
-      "description": "After the Trump administration threatened countries with tariffs and visa restrictions, a first-ever global carbon tax is left to an uncertain future....",
-      "link": "https://grist.org/transportation/shipping-carbon-tax-international-maritime-organization-trump/",
-      "pubDate": "Thu, 23 Oct 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
