@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-25T22:22:14.890Z",
+  "lastUpdated": "2025-10-25T23:21:54.257Z",
   "articles": [
     {
       "title": "One year after a historic dam removal, teens inspire river restoration worldwide: ‘It turns out you can win’",
@@ -18,6 +18,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-543392278-1.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "‘A problematic species’: California to allow hunting of ‘very aggressive’ swans",
+      "description": "&lt;p&gt;Officials say move essential to protect wetlands and native waterfowl but some groups call decision ‘inhumane’&lt;/p&gt;&lt;p&gt;A new law in...",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/california-swans-hunting-rules",
+      "pubDate": "Sat, 25 Oct 2025 11:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cafda443638c682cbf374574d14c048a0ecfee07/3_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89798fd215667572d5b029a8d7217912"
     },
     {
       "title": "Amazon strategised about keeping its datacentres’ full water use secret, leaked document shows",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fb8ab57e30c64994ce4d7262110266edf2c8a68b/155_22_2339_1871/master/2339.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3ee089d71e82f6453e13f97245daa96"
-    },
-    {
-      "title": "Hongkong Land pioneers Hong Kong’s first tempered and laminated glass recycling solution at Tomorrow’s CENTRAL",
-      "description": "Photo?Hongkong Land pioneers Hong Kong’s first tempered and laminated glass recycling solution at Tomorrow’s CENTRAL Key highlights include: Hongkong ...",
-      "link": "https://econews.com.au/68121/hongkong-land-pioneers-hong-kongs-first-tempered-and-laminated-glass-recycling-solution-at-tomorrows-central/",
-      "pubDate": "Fri, 24 Oct 2025 03:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
