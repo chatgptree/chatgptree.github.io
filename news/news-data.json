@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-25T12:48:25.541Z",
+  "lastUpdated": "2025-10-25T13:27:48.746Z",
   "articles": [
+    {
+      "title": "Mosquitoes found in Iceland for first time as climate crisis warms country",
+      "description": "Three specimens were discovered in what was previously one of the few places in the world without the insects....",
+      "link": "https://grist.org/science/mosquitoes-found-in-iceland-for-first-time-as-climate-crisis-warms-country/",
+      "pubDate": "Sat, 25 Oct 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-543392278-1.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Amazon strategised about keeping its datacentres’ full water use secret, leaked document shows",
+      "description": "&lt;p&gt;Executives at world’s biggest datacenter owner grappled with disclosing information about water used to help power facilities&lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/technology/2025/oct/25/amazon-datacentres-water-use-disclosure",
+      "pubDate": "Sat, 25 Oct 2025 10:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/07ac65e9f25b7dae81eb90071c7c56b60c6d187d/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce4689d9c4a7955ca9b30ade12ee97f4"
+    },
     {
       "title": "America’s Rye Whiskey Resurgence Could Help the Climate, but Not by Itself",
       "description": "Farming in the San Luis Valley, Colorado, is tough. The 8,000-square-mile, high-altitude desert has one of the shortest growing seasons in the United ...",
@@ -137,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "India trials Delhi cloud seeding to clean air in world’s most polluted city",
-      "description": "&lt;p&gt;Bharatiya Janata party launches first test flight as brown haze blankets city after Diwali – but experts decry ‘gimmick’&lt;/p&gt;&lt;p&gt;Th...",
-      "link": "https://www.theguardian.com/world/2025/oct/24/india-trial-delhi-cloud-seeding-clean-air-world-polluted-city-bharatiya-janata-party",
-      "pubDate": "Fri, 24 Oct 2025 07:25:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0317bf3fc7f7bb8d731554a87461c46033ff777b/458_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cceb9f1b14d48a2a52801b064adba2c1"
-    },
-    {
       "title": "Week in wildlife: a ferocious wildcat, a cheeky seal and a disgruntled lioness",
       "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
       "link": "https://www.theguardian.com/environment/gallery/2025/oct/24/week-in-wildlife-a-ferocious-wildcat-a-cheeky-seal-and-a-disgruntled-lioness",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
-    },
-    {
-      "title": "Winery flips the switch on ‘first of its kind’ Solar project",
-      "description": "Lowe Family Wine Co. a leader in organic and biodynamic winemaking, has just joined just a handful of wineries in NSW, in completely disconnecting fro...",
-      "link": "https://econews.com.au/68117/winery-flips-the-switch-on-first-of-its-kind-solar-project/",
-      "pubDate": "Fri, 24 Oct 2025 02:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
