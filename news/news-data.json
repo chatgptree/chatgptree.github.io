@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-26T09:23:18.257Z",
+  "lastUpdated": "2025-10-26T10:25:15.846Z",
   "articles": [
+    {
+      "title": "Antarctic krill: how did a paperclip-sized crustacean cause a diplomatic row – and why are they so important?",
+      "description": "&lt;p&gt;Russia’s &lt;a href=\"https://www.theguardian.com/environment/2025/oct/26/russia-ukrainian-biologist-leonid-pshenichnov-arrest-treason-antarct...",
+      "link": "https://www.theguardian.com/environment/2025/oct/26/explainer-antarctic-krill-vital-ecosystem-food-chain-conservation-carbon-store",
+      "pubDate": "Sun, 26 Oct 2025 10:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f00ab987981bb2dc3a7ae829425e53c6df9198ff/0_2_3901_3121/master/3901.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32fe984614312bf5a09ffa5e567bc466"
+    },
+    {
+      "title": "Russia arrests Ukrainian biologist for backing curbs on Antarctic krill fishing",
+      "description": "&lt;p&gt;‘Trumped-up’ charges spark diplomatic row as scientists express fears for health of 70-year-old Leonid Pshenichnov&lt;/p&gt;&lt;ul&gt;&lt;li&...",
+      "link": "https://www.theguardian.com/environment/2025/oct/26/russia-ukrainian-biologist-leonid-pshenichnov-arrest-treason-antarctic-krill-overfishing",
+      "pubDate": "Sun, 26 Oct 2025 10:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/be508f5599c539baae0837242dd904aa66611eab/1437_0_5968_4781/master/5968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3bed3db192ff473bcaa496bfe97530c"
+    },
     {
       "title": "How Did This State Become the Data Center Capital of the World?",
       "description": "ASHBURN, Va.—Driving up the six-lane Route 28 in Loudoun County, Virginia, there’s a dark blue one on the left. Further up the way in a small clearing...",
@@ -92,15 +110,6 @@
       "image": "https://i.guim.co.uk/img/media/cafda443638c682cbf374574d14c048a0ecfee07/3_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89798fd215667572d5b029a8d7217912"
     },
     {
-      "title": "Amazon strategised about keeping its datacentres’ full water use secret, leaked document shows",
-      "description": "&lt;p&gt;Executives at world’s biggest datacenter owner grappled with disclosing information about water used to help power facilities&lt;/p&gt;&lt;p&...",
-      "link": "https://www.theguardian.com/technology/2025/oct/25/amazon-datacentres-water-use-disclosure",
-      "pubDate": "Sat, 25 Oct 2025 10:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/07ac65e9f25b7dae81eb90071c7c56b60c6d187d/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce4689d9c4a7955ca9b30ade12ee97f4"
-    },
-    {
       "title": "America’s Rye Whiskey Resurgence Could Help the Climate, but Not by Itself",
       "description": "Farming in the San Luis Valley, Colorado, is tough. The 8,000-square-mile, high-altitude desert has one of the shortest growing seasons in the United ...",
       "link": "https://insideclimatenews.org/news/25102025/america-rye-whiskey-resurgence-climate-benefits/",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/70f07dddb6a1011695f64003315b4332ef717422/399_103_6752_5401/master/6752.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=962e4b405897345856f7c7235ddc89ca"
-    },
-    {
-      "title": "Whale and Dolphin Migrations are Being Disrupted by Climate Change",
-      "description": "For millennia, some of the world’s largest filter-feeding whales, including humpbacks, fin whales and blue whales, have undertaken some of the longest...",
-      "link": "https://insideclimatenews.org/news/24102025/marine-mammal-migrations-disrupted-by-climate-change/",
-      "pubDate": "Fri, 24 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
