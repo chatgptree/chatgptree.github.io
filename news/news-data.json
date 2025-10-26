@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-10-26T08:30:21.966Z",
+  "lastUpdated": "2025-10-26T09:23:18.257Z",
   "articles": [
+    {
+      "title": "How Did This State Become the Data Center Capital of the World?",
+      "description": "ASHBURN, Va.—Driving up the six-lane Route 28 in Loudoun County, Virginia, there’s a dark blue one on the left. Further up the way in a small clearing...",
+      "link": "https://insideclimatenews.org/news/26102025/virginia-data-center-capital-ai-boom/",
+      "pubDate": "Sun, 26 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Data Center Developer Takes a Small Michigan Farming Community to Court",
+      "description": "At the eastern edge of America’s “breadbasket” region, Michigan’s Saline Township is a quintessential agricultural community. The township is home to ...",
+      "link": "https://insideclimatenews.org/news/26102025/related-digital-michigan-data-center-settlement/",
+      "pubDate": "Sun, 26 Oct 2025 08:58:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump and Republicans Join Big Oil’s All-Out Push to Shut Down Climate Liability Efforts",
+      "description": "As efforts continue to hold some of the world’s largest fossil fuel corporations liable for destructive and deadly climate impacts, backlash from the ...",
+      "link": "https://insideclimatenews.org/news/26102025/trump-republicans-big-oil-climate-liability/",
+      "pubDate": "Sun, 26 Oct 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Data Center Capital of the World",
+      "description": "Virginia, especially Northern Virginia, leads the world in data center development, far outpacing other top markets like Beijing. How did this come to...",
+      "link": "https://insideclimatenews.org/news/26102025/icn-sunday-morning-virginia-data-centers/",
+      "pubDate": "Sun, 26 Oct 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cruise control: could a £5 ‘entry’ fee help balance Orkney’s needs with tourist demand?",
       "description": "&lt;p&gt;With tourists outnumbering locals by 20:1, islanders say levy is needed to help protect neolithic sites and maintain public services&lt;/p&gt...",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Iowa Counties Keep Water Quality Monitoring Afloat After State Funding Cuts",
-      "description": "DES MOINES, Iowa—For over a decade, a network of water quality sensors managed by the University of Iowa has provided publicly available data about wa...",
-      "link": "https://insideclimatenews.org/news/24102025/iowa-polk-county-water-quality-monitoring-agricultural-pollution/",
-      "pubDate": "Fri, 24 Oct 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Where the Appalachian brook trout vanish, something human goes missing, too",
-      "description": "As climate change reshapes the Blue Ridge, Appalachia’s native trout are losing ground — but dedicated anglers and scientists are racing to save them....",
-      "link": "https://grist.org/culture/where-the-appalachian-brook-trout-vanish-something-human-goes-missing-too/",
-      "pubDate": "Fri, 24 Oct 2025 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/Trout_Thomas-Champeau.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Fossil fuel companies say they support the energy transition. New numbers suggest otherwise.",
-      "description": "A new report shows that fossil fuel companies own less than 2 percent of renewable energy projects worldwide....",
-      "link": "https://grist.org/accountability/fossil-fuel-companies-renewable-energy-report/",
-      "pubDate": "Fri, 24 Oct 2025 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Week in wildlife: a ferocious wildcat, a cheeky seal and a disgruntled lioness",
-      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/oct/24/week-in-wildlife-a-ferocious-wildcat-a-cheeky-seal-and-a-disgruntled-lioness",
-      "pubDate": "Fri, 24 Oct 2025 07:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fb8ab57e30c64994ce4d7262110266edf2c8a68b/155_22_2339_1871/master/2339.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3ee089d71e82f6453e13f97245daa96"
     }
   ]
 }
