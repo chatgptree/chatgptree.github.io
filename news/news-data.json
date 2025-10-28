@@ -1,8 +1,17 @@
 {
-  "lastUpdated": "2025-10-28T11:21:58.142Z",
+  "lastUpdated": "2025-10-28T12:55:10.146Z",
   "articles": [
     {
-      "title": "Countries not doing enough to keep rise in global temperatures under 1.5C, UN says",
+      "title": "‘Trump doesn’t represent us’: US activist groups to push for climate action at Cop30 in Brazil",
+      "description": "&lt;p&gt;US groups aim to represent country at UN climate summit even as Trump administration declines to send a delegation&lt;/p&gt;&lt;p&gt;Despite ...",
+      "link": "https://www.theguardian.com/environment/2025/oct/28/cop30-us-climate-trump",
+      "pubDate": "Tue, 28 Oct 2025 12:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c558f017578fb2fb187716f970d9db2a87a13750/450_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1510c596b5bf44e07c28224653198191"
+    },
+    {
+      "title": "Most countries fail to submit new climate pledges ahead of summit",
       "description": "The UN's review of national climate plans shows the world is well off track to limit warming...",
       "link": "https://www.bbc.com/news/articles/czdrv8m5v4lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 28 Oct 2025 11:08:57 GMT",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/27102025/asheboro-nc-toxic-chemical-drinking-water-supply-epa/",
       "pubDate": "Mon, 27 Oct 2025 21:31:11 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Hurricane Melissa got so dangerous so fast",
-      "description": "“The role climate change has played in making Hurricane Melissa incredibly dangerous is undeniable.\"...",
-      "link": "https://grist.org/extreme-weather/how-hurricane-melissa-got-so-dangerous-so-fast/",
-      "pubDate": "Mon, 27 Oct 2025 21:17:48 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
