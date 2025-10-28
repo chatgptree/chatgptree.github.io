@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-28T10:29:46.436Z",
+  "lastUpdated": "2025-10-28T11:21:58.142Z",
   "articles": [
+    {
+      "title": "Countries not doing enough to keep rise in global temperatures under 1.5C, UN says",
+      "description": "The UN's review of national climate plans shows the world is well off track to limit warming...",
+      "link": "https://www.bbc.com/news/articles/czdrv8m5v4lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Oct 2025 11:08:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How do you move a village? Residents of France’s last outpost in North America try to outrun the sea",
+      "description": "&lt;p&gt;As rising tides eat away at Canada’s Saint-Pierre and Miquelon archipelago, plans to move the historic village to higher ground have divided ...",
+      "link": "https://www.theguardian.com/environment/2025/oct/28/canada-st-pierre-miquelon-relocation-climate-crisis-rising-tides-france-hurricanes",
+      "pubDate": "Tue, 28 Oct 2025 11:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/51fcd53843aa59c7b07f1dccfc2f3dc449980142/489_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e6c7658e7f12681b2870897ae955cbd"
+    },
     {
       "title": "As the Data Center Boom Ramps Up in the Rural Midwest, What Should Communities Expect?",
       "description": "TAZEWELL COUNTY, Ill.—To the untrained eye, Central Illinois is all lush fields of corn and green soybeans shortly before harvest. The wind shuffles t...",
@@ -54,15 +72,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "Countries not doing enough to keep rise in global temperatures under 1.5C, UN says",
-      "description": "The UN's review of national climate plans shows the world is well off track to limit warming...",
-      "link": "https://www.bbc.com/news/articles/czdrv8m5v4lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Oct 2025 07:04:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "The scary truth behind plastic Halloween decorations",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Two crucial Florida coral species left ‘functionally extinct’ by ocean heatwave",
-      "description": "&lt;p&gt;Climate crisis drives near-total collapse of staghorn and elkhorn corals that formed backbone to state’s reefs&lt;/p&gt;&lt;p&gt;Two of the m...",
-      "link": "https://www.theguardian.com/environment/2025/oct/27/coral-florida-functionally-extinct-climate-crisis",
-      "pubDate": "Mon, 27 Oct 2025 14:52:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/19108e6d13fb690aad4cec7874de56a43da4bb80/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b7e489f3d48187a93ca876393721cb3"
     }
   ]
 }
