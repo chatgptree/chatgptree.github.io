@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-10-28T19:21:01.846Z",
+  "lastUpdated": "2025-10-28T20:30:35.477Z",
   "articles": [
     {
-      "title": "Hurricane Melissa: a visual guide to Jamaica’s strongest storm since 1851",
-      "description": "&lt;p&gt;Slow-moving giant makes landfall and will linger over the island before slamming into Cuba&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"...",
-      "link": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
-      "pubDate": "Tue, 28 Oct 2025 18:48:33 GMT",
+      "title": "‘Rapid Explosion’ of Data Centers Causes Planning Struggles in Texas",
+      "description": "The “rapid explosion” of large load users looking to connect onto Texas’ electric grid are being built faster than traditional transmission planning c...",
+      "link": "https://insideclimatenews.org/news/28102025/texas-data-center-grid-planning-struggles/",
+      "pubDate": "Tue, 28 Oct 2025 19:37:06 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Storm of the century’: record-breaking Hurricane Melissa hits Jamaica",
+      "description": "&lt;p&gt;Government says it has done all it can to prepare for strongest hurricane in country since records began&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
+      "pubDate": "Tue, 28 Oct 2025 19:23:43 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/24ac84f2295f30a7d9add43d065c58e7a29a688a/414_0_4172_3336/master/4172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8e7886d231f61a3c1533b4157309b2d"
+      "image": "https://i.guim.co.uk/img/media/890d152464797e466186f66ffec97e0a8e1f24ac/535_0_5352_4281/master/5352.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7d16d384d46b30cea939cfb5e69914b"
     },
     {
       "title": "How do hurricanes form and are they getting stronger?",
@@ -27,15 +36,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hurricane Melissa makes landfall in Jamaica",
-      "description": "&lt;p&gt;Jamaica’s government says it has done all it can to prepare for strongest hurricane in country since records began&lt;/p&gt;&lt;ul&gt;&lt;li&...",
-      "link": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
-      "pubDate": "Tue, 28 Oct 2025 17:54:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/890d152464797e466186f66ffec97e0a8e1f24ac/535_0_5352_4281/master/5352.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7d16d384d46b30cea939cfb5e69914b"
     },
     {
       "title": "Bill Gates calls for climate fight to shift focus from global heating to ‘improving lives’",
@@ -57,12 +57,21 @@
     },
     {
       "title": "‘Heat deaths aren’t a thing’: Coalition MPs weighing net zero given sceptical briefing on climate science",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Briefing by conservative think-tank Centre for Independent Studies was arranged by a Coalition backbe...",
+      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Briefing by conservative thinktank Centre for Independent Studies was arranged by a Coalition backben...",
       "link": "https://www.theguardian.com/australia-news/2025/oct/29/coalition-mps-net-zero-doubts-climate-science",
       "pubDate": "Tue, 28 Oct 2025 14:00:39 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/845341a51961c5cf1e32060b45d3d15ca8ad163a/706_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c99f960df799a8eb8f00f19c2edc44e9"
+    },
+    {
+      "title": "Marine wildlife fleeing to poles due to global heating as Australian oceans face ‘uncharted’ future",
+      "description": "&lt;p&gt;From 2040 onwards the average year for marine ecosystems is likely to be more extreme than the worst years experienced up until 2015, researc...",
+      "link": "https://www.theguardian.com/environment/2025/oct/29/climate-change-global-heating-warming-oceans-uncharted-future-australia",
+      "pubDate": "Tue, 28 Oct 2025 14:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e207676246392468b3451f113c96488b372771f2/494_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=931e193dba9db735cc14ad9b8b77190b"
     },
     {
       "title": "The West’s new gold rush is the data center boom",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/The-Hardiness-Effect-674x1024.jpg"
-    },
-    {
-      "title": "Is it possible to find a sensible centre on climate change? | Fiona Katauskas",
-      "description": "&lt;p&gt;Murray Watt seems to think so&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;See more of &lt;a href=\"https://www.theguardian.com/profile/fiona-katausk...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2025/oct/28/is-it-possible-to-find-a-sensible-centre-on-climate-change",
-      "pubDate": "Tue, 28 Oct 2025 02:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8a92b90ea93b7685bbfc6b1a8bd1e962c5e74a34/0_0_1181_945/master/1181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e15b79919955e876c0a9ab48ca6b2f1b"
     }
   ]
 }
