@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2025-10-28T17:25:38.204Z",
+  "lastUpdated": "2025-10-28T18:39:04.464Z",
   "articles": [
     {
-      "title": "Hurricane Melissa: a visual guide to the strongest storm to hit Jamaica in almost two centuries",
+      "title": "How do hurricanes form and are they getting stronger?",
+      "description": "These powerful tropical storms are generally becoming more intense as the world warms....",
+      "link": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Oct 2025 18:00:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In the Outer Banks, 12 Homes Have Collapsed Into the Sea Since September",
+      "description": "The Outer Banks of North Carolina attracts more than 5 million visitors annually who prize this 200-mile stretch of islands as a Southern beach paradi...",
+      "link": "https://insideclimatenews.org/news/28102025/todays-climate-12-homes-collapse-outer-banks-north-carolina/",
+      "pubDate": "Tue, 28 Oct 2025 17:58:26 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hurricane Melissa makes landfall in Jamaica",
+      "description": "&lt;p&gt;Jamaica’s government says it has done all it can to prepare for strongest hurricane in country since records began&lt;/p&gt;&lt;ul&gt;&lt;li&...",
+      "link": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
+      "pubDate": "Tue, 28 Oct 2025 17:54:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/890d152464797e466186f66ffec97e0a8e1f24ac/535_0_5352_4281/master/5352.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7d16d384d46b30cea939cfb5e69914b"
+    },
+    {
+      "title": "Hurricane Melissa: a visual guide to Jamaica’s strongest storm since 1851",
       "description": "&lt;p&gt;Slow-moving giant about to make landfall and will linger over the island before slamming into Cuba&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;...",
       "link": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-a-visual-guide-to-the-strongest-storm-to-hit-jamaica-in-almost-two-centuries",
       "pubDate": "Tue, 28 Oct 2025 16:43:04 GMT",
@@ -54,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/51fcd53843aa59c7b07f1dccfc2f3dc449980142/489_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e6c7658e7f12681b2870897ae955cbd"
-    },
-    {
-      "title": "Pakistani farmers to sue German polluters over climate-linked flood damage",
-      "description": "&lt;p&gt;Claimants seek compensation from RWE and Heidelberg Materials after extreme flooding destroyed harvests&lt;/p&gt;&lt;p&gt;A group of Pakistan...",
-      "link": "https://www.theguardian.com/environment/2025/oct/28/pakistani-farmers-to-sue-german-polluters-over-climate-linked-flood-damage",
-      "pubDate": "Tue, 28 Oct 2025 13:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/da5f84436a05a4f0827510c3e4f3932dc5b54249/600_0_3740_2992/master/3740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aeda07d63fc5b0860a5cbf556e35c0a6"
     },
     {
       "title": "‘Trump doesn’t represent us’: US activist groups to push for climate action at Cop30 in Brazil",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8a92b90ea93b7685bbfc6b1a8bd1e962c5e74a34/0_0_1181_945/master/1181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e15b79919955e876c0a9ab48ca6b2f1b"
-    },
-    {
-      "title": "Biodiversity is in catastrophic decline. Here are three ways to ensure Australia’s conservation law actually works | Atticus Fleming and Andrew Macintosh",
-      "description": "&lt;p&gt;The highest priority must be to ensure land-clearing is properly regulated to save our native forests&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&...",
-      "link": "https://www.theguardian.com/commentisfree/2025/oct/28/australia-conservation-law-biodiversity-decline",
-      "pubDate": "Tue, 28 Oct 2025 01:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b9569e4fee9e182873ae435d3df1fba1aa3036d7/83_0_1707_1366/master/1707.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2f2fab8e832224a667c50976fc01051"
-    },
-    {
-      "title": "UN chief António Guterres: 'We don't want to see the Amazon become a savannah' - video",
-      "description": "&lt;p&gt;UN secretary general António Guterres speaks to the Guardian and Sumaúma about the 'failure' of the Cop process to limit global heating to 1....",
-      "link": "https://www.theguardian.com/world/video/2025/oct/28/un-chief-antonio-guterres-we-dont-want-to-see-the-amazon-become-a-savannah-video",
-      "pubDate": "Tue, 28 Oct 2025 00:53:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/289fd94682319e6d1ac65b89d898adb8c73fd007/400_39_1172_937/master/1172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e5b4bb0a4256bc43e9da230109f41f4"
     }
   ]
 }
