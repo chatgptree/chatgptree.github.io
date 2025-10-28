@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-28T08:35:34.400Z",
+  "lastUpdated": "2025-10-28T09:28:53.721Z",
   "articles": [
+    {
+      "title": "As the Data Center Boom Ramps Up in the Rural Midwest, What Should Communities Expect?",
+      "description": "TAZEWELL COUNTY, Ill.—To the untrained eye, Central Illinois is all lush fields of corn and green soybeans shortly before harvest. The wind shuffles t...",
+      "link": "https://insideclimatenews.org/news/28102025/rural-midwest-data-center-boom/",
+      "pubDate": "Tue, 28 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why Billions of Gallons of Raw Sewage Keep Ending up in Philadelphia Waterways",
+      "description": "PHILADELPHIA—Some 280 years after a river-swimming Benjamin Franklin petitioned to curb water pollution here, the city is still struggling to meet the...",
+      "link": "https://insideclimatenews.org/news/28102025/philadelphia-raw-sewage-waterways/",
+      "pubDate": "Tue, 28 Oct 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In New York, a pipeline proposal that just won’t die",
+      "description": "Why some think a “lurid political shakedown” by President Trump will get a pipeline built off Rockaway Beach....",
+      "link": "https://grist.org/politics/new-york-williams-pipeline-hochul-trump/",
+      "pubDate": "Tue, 28 Oct 2025 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "What we lost when cars won",
       "description": "Americans once feared cars. Now we can’t imagine life without them....",
@@ -29,7 +56,7 @@
       "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
     },
     {
-      "title": "Global efforts not enough to curb temperature rise, UN says ahead of climate summit",
+      "title": "Countries not doing enough to keep rise in global temperatures under 1.5C, UN says",
       "description": "The UN's review of national climate plans shows the world is well off track to limit warming...",
       "link": "https://www.bbc.com/news/articles/czdrv8m5v4lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 28 Oct 2025 07:04:03 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/19108e6d13fb690aad4cec7874de56a43da4bb80/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b7e489f3d48187a93ca876393721cb3"
-    },
-    {
-      "title": "The acquisitions of a fortunate life have accumulated over the years. All must be culled while I have the wherewithal | Paul Daley",
-      "description": "&lt;p&gt;Do I really need to replace my telephone every two years? Could my next laptop be recycled rather than brand new?&lt;/p&gt;&lt;p&gt;I have an...",
-      "link": "https://www.theguardian.com/environment/commentisfree/2025/oct/27/amassed-belongings-overflowing-time-cull-tidy",
-      "pubDate": "Mon, 27 Oct 2025 14:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ef2eee291ee5b8527763e80b46b71065499f9d75/443_0_4414_3533/master/4414.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dee033f458cda30635b29ba2222dfd6f"
-    },
-    {
-      "title": "Cranberry Farmers Consider Turning Bogs Into Wetlands as Temperatures Rise",
-      "description": "What happens when a region no longer has the ideal climate for its star crop?&#160; From late September through October, Massachusetts’ deep-red cranb...",
-      "link": "https://insideclimatenews.org/news/27102025/massachusetts-cranberry-bogs-wetlands/",
-      "pubDate": "Mon, 27 Oct 2025 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Lake Powell Recedes, Beavers are Building Back",
-      "description": "To hike up this narrow canyon, Eric Balken pushed through dense thickets of green. In the shadow of towering red rock walls, his route along a muddy c...",
-      "link": "https://insideclimatenews.org/news/27102025/colorado-river-lake-powell-drought-beavers/",
-      "pubDate": "Mon, 27 Oct 2025 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
