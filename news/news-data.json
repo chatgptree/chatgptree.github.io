@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-10-29T08:36:06.256Z",
+  "lastUpdated": "2025-10-29T09:28:01.794Z",
   "articles": [
+    {
+      "title": "Sir David Attenborough backs bid to buy estate",
+      "description": "Wildlife trusts attempt to raise £30m to keep Northumberland's Rothbury Estate  from being split up....",
+      "link": "https://www.bbc.com/news/articles/c1d0x39x270o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Oct 2025 09:16:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Britain's energy bills problem - and why firms are paid huge sums to stop producing power",
+      "description": "Could the government's radical plan to change the way the UK distributes electricity really bring down bills - or just lead to a postcode lottery?...",
+      "link": "https://www.bbc.com/news/articles/cdedjnw8e85o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Oct 2025 09:14:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "AI is Decoding Whales’ Language. Could That Be a Turning Point in the Push for Their Rights?",
+      "description": "For centuries, humans have drawn a line between themselves and other species, initially claiming that other animals couldn’t feel pain. Science proved...",
+      "link": "https://insideclimatenews.org/news/29102025/ai-sperm-whale-communications-legal-rights/",
+      "pubDate": "Wed, 29 Oct 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In a ‘Disheartening’ Era, the Nation’s Former Top Mining Regulator Speaks Out",
+      "description": "Joe Pizarchik knows mining.&#160; For nearly a decade, he served as the Senate-confirmed head of the Office of Surface Mining Reclamation and Enforcem...",
+      "link": "https://insideclimatenews.org/news/29102025/joe-pizarchik-alabama-mining-issues/",
+      "pubDate": "Wed, 29 Oct 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump killed a crucial disaster database. This nonprofit just saved it.",
       "description": "Climate Central revived the federal list of billion-dollar disasters, another example of nonprofits providing data the government deletes....",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Rapid Explosion’ of Data Centers Causes Planning Struggles in Texas",
-      "description": "The “rapid explosion” of large load users looking to connect onto Texas’ electric grid are being built faster than traditional transmission planning c...",
-      "link": "https://insideclimatenews.org/news/28102025/texas-data-center-grid-planning-struggles/",
-      "pubDate": "Tue, 28 Oct 2025 19:37:06 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In the Outer Banks, A Growing Number of Homes Are Getting Swallowed by the Sea",
-      "description": "This post was updated on Oct. 28 at 5:18 p.m. EST to reflect more home collapses. The Outer Banks of North Carolina attracts more than 5 million visit...",
-      "link": "https://insideclimatenews.org/news/28102025/todays-climate-homes-collapse-outer-banks-north-carolina/",
-      "pubDate": "Tue, 28 Oct 2025 17:58:26 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bill Gates says climate crisis won’t cause ‘humanity’s demise’ in call to shift focus to ‘improving lives’",
-      "description": "&lt;p&gt;Billionaire’s statement comes a day after UN said humanity missed 1.5C climate target and warned of devastation&lt;/p&gt;&lt;p&gt;Bill Gates ...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/28/bill-gates-climate-crisis-pivot",
-      "pubDate": "Tue, 28 Oct 2025 16:26:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/71057e75701ddba416dedf6ef07dcfe6ff3c2058/615_0_6159_4928/master/6159.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=281afd430a28105fe15d3e9886581a86"
-    },
-    {
-      "title": "The West’s new gold rush is the data center boom",
-      "description": "The tech industry’s soaring electricity and water demands are raising consumer rates and threatening sustainability goals....",
-      "link": "https://grist.org/sponsored/the-wests-new-gold-rush-is-the-data-center-boom/",
-      "pubDate": "Tue, 28 Oct 2025 14:00:28 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-2214908576-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
