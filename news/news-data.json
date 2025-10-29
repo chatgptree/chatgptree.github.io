@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-10-29T09:28:01.794Z",
+  "lastUpdated": "2025-10-29T10:29:32.556Z",
   "articles": [
     {
       "title": "Sir David Attenborough backs bid to buy estate",
       "description": "Wildlife trusts attempt to raise £30m to keep Northumberland's Rothbury Estate  from being split up....",
       "link": "https://www.bbc.com/news/articles/c1d0x39x270o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Oct 2025 09:16:45 GMT",
+      "pubDate": "Wed, 29 Oct 2025 09:57:58 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Toxic wastewater from oil fields keeps pouring out of the ground. Oklahoma regulators failed to stop it.",
+      "description": "Salt water laced with cancer-causing chemicals, a byproduct of oil and gas drilling, is spewing from old wells. Experts warn of a pollution crisis spr...",
+      "link": "https://grist.org/accountability/toxic-wastewater-from-oil-fields-keeps-pouring-out-of-the-ground-oklahoma-regulators-failed-to-stop-it/",
+      "pubDate": "Wed, 29 Oct 2025 09:35:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/purges-large.jpg?quality=75&amp;strip=all"
     },
     {
       "title": "Britain's energy bills problem - and why firms are paid huge sums to stop producing power",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/05263804aebd95b4153e496788abea150aeb1625/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95f59c9842156cd4bdf0f74b0b44eef8"
-    },
-    {
-      "title": "‘Catastrophic’ Hurricane Hits Jamaica as Risk of Climate Change-Fueled Tropical Storms Rises",
-      "description": "Flash floods, landslides and destructive winds could cause “total structural failure” as Melissa, a Category 5 hurricane with winds exceeding 180 mile...",
-      "link": "https://insideclimatenews.org/news/28102025/hurricane-melissa-hits-jamaica/",
-      "pubDate": "Tue, 28 Oct 2025 21:13:08 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
