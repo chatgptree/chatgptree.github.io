@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-29T07:26:01.004Z",
+  "lastUpdated": "2025-10-29T08:36:06.256Z",
   "articles": [
+    {
+      "title": "Trump killed a crucial disaster database. This nonprofit just saved it.",
+      "description": "Climate Central revived the federal list of billion-dollar disasters, another example of nonprofits providing data the government deletes....",
+      "link": "https://grist.org/extreme-weather/trump-killed-a-crucial-disaster-database-this-nonprofit-just-saved-it/",
+      "pubDate": "Wed, 29 Oct 2025 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How do hurricanes form and are they getting stronger?",
+      "description": "These powerful tropical storms are generally becoming more intense as the world warms....",
+      "link": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Oct 2025 07:34:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Shark feeding frenzy off popular Australian surf beach captured in chilling footage",
       "description": "&lt;p&gt;‘Wonderful’ for people to see the predators so close and feasting on bait fish at the Gold Coast’s Rainbow Bay, near Snapper Rocks, expert sa...",
@@ -137,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How do hurricanes form and are they getting stronger?",
-      "description": "These powerful tropical storms are generally becoming more intense as the world warms....",
-      "link": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Oct 2025 18:00:35 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "In the Outer Banks, A Growing Number of Homes Are Getting Swallowed by the Sea",
       "description": "This post was updated on Oct. 28 at 5:18 p.m. EST to reflect more home collapses. The Outer Banks of North Carolina attracts more than 5 million visit...",
       "link": "https://insideclimatenews.org/news/28102025/todays-climate-homes-collapse-outer-banks-north-carolina/",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-2214908576-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How do you move a village? Residents of France’s last outpost in North America try to outrun the sea",
-      "description": "&lt;p&gt;As rising tides eat away at the Saint-Pierre and Miquelon archipelago off Canada, plans to move the historic village to higher ground have di...",
-      "link": "https://www.theguardian.com/environment/2025/oct/28/canada-st-pierre-miquelon-relocation-climate-crisis-rising-tides-france-hurricanes",
-      "pubDate": "Tue, 28 Oct 2025 13:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/51fcd53843aa59c7b07f1dccfc2f3dc449980142/489_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e6c7658e7f12681b2870897ae955cbd"
     }
   ]
 }
