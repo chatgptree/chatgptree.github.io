@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-30T23:23:29.047Z",
+  "lastUpdated": "2025-10-31T02:03:20.126Z",
   "articles": [
+    {
+      "title": "Vietnam floods: streets of Hoi An submerged like canals of Venice – in pictures",
+      "description": "&lt;p&gt;Flooding that killed 10 people in central Vietnam this week turned streets in the historic town of Hoi An into canals on Thursday after a maj...",
+      "link": "https://www.theguardian.com/world/gallery/2025/oct/31/vietnam-floods-hoi-an-tourist-spots-submerged-pictures",
+      "pubDate": "Fri, 31 Oct 2025 00:54:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a364b2d62a00a7d069275e1b4af70899970453b3/540_0_3542_2835/master/3542.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc41e112d78eb6c835f4404071dc8e9a"
+    },
+    {
+      "title": "Bats are seeking sanctuary in churches - but they're making an unholy mess",
+      "description": "A new study estimates that about half of all churches in England have bats living in them. ...",
+      "link": "https://www.bbc.com/news/articles/cy8vq5318dxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Oct 2025 00:34:03 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Paint me cool: scientists reveal roof coating that can reduce surface temperatures up to 6C on hot days",
+      "description": "&lt;p&gt;Sydney researchers commercialising a product they say can cool indoor spaces and will cost little more than standard premium paints&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/environment/2025/oct/31/scientists-invent-roof-coating-reduce-indoor-temperatures-hot-days",
+      "pubDate": "Thu, 30 Oct 2025 23:39:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a1aa3782a36d3a1297888aebd070154889c80911/432_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92f53b72ffb9c995f9d651e7d31f6816"
+    },
     {
       "title": "Climate Change Made Hurricane Melissa Four Times More Likely, Study Suggests",
       "description": "Fueled by unusually warm waters, Hurricane Melissa this week turned into one of the strongest Atlantic storms ever recorded. Now a new rapid attributi...",
@@ -146,15 +173,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Shell’s profits pass $43bn after production hits new highs in Brazil and Gulf of Mexico",
-      "description": "&lt;p&gt;Oil company plans to buy back shares for 16th consecutive quarter as protesters say its earnings are ‘horror show’&lt;/p&gt;&lt;p&gt;Profits ...",
-      "link": "https://www.theguardian.com/business/2025/oct/30/shells-profits-surpass-43bn-after-production-hits-new-highs-in-brazil-and-gulf-of-mexico",
-      "pubDate": "Thu, 30 Oct 2025 08:49:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dfa715a5c970cddec15dff94c18de5accda4768f/0_0_6642_5317/master/6642.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=929aee97671340636ab19a8d1a8d9d59"
-    },
-    {
       "title": "This obscure Georgia election is about so much more than your power bill",
       "description": "Behind the PSC race is a battle for political control of the state — and maybe the country....",
       "link": "https://grist.org/georgia-psc/this-obscure-georgia-election-is-about-so-much-more-than-your-power-bill/",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/20251007_190133.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Australia Post accelerates sustainability with first large electric truck purchase and renewable diesel partnership",
-      "description": "Australia Post has today marked two major steps forward in its commitment to more sustainable logistics, unveiling its first heavy-duty large electric...",
-      "link": "https://econews.com.au/68165/australia-post-accelerates-sustainability-with-first-large-electric-truck-purchase-and-renewable-diesel-partnership/",
-      "pubDate": "Thu, 30 Oct 2025 07:03:14 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "OVHcloud launches next-generation of AI-powered cooling that balances performance and environmental responsibility in its data centres",
-      "description": "  OVHcloud, a global cloud player and the European Cloud leader, today unveils a new cooling architecture for its data centres. The OVHcloud Smart Dat...",
-      "link": "https://econews.com.au/68163/ovhcloud-launches-next-generation-of-ai-powered-cooling-that-balances-performance-and-environmental-responsibility-in-its-data-centres/",
-      "pubDate": "Thu, 30 Oct 2025 07:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
