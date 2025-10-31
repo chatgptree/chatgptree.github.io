@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-31T21:20:41.033Z",
+  "lastUpdated": "2025-10-31T22:24:48.898Z",
   "articles": [
+    {
+      "title": "For a struggling Iowa ranch, the government shutdown may be the last straw",
+      "description": "A family farm’s fight to recover from a devastating flood shows how the gridlock in Washington is only making it harder to grow and sell food....",
+      "link": "https://grist.org/food-and-agriculture/for-a-struggling-iowa-ranch-the-government-shutdown-may-be-the-last-straw/",
+      "pubDate": "Fri, 31 Oct 2025 21:50:23 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-2235257896-e1760051198210.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "‘A devastating global audit’ shows how climate change is undermining the health of millions",
+      "description": "Extreme heat now kills one person every minute, according to a sweeping new report by the British medical journal The Lancet....",
+      "link": "https://grist.org/health/lancet-2025-countdown-health-climate-change-report/",
+      "pubDate": "Fri, 31 Oct 2025 21:31:54 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2023/11/Screenshot-2023-11-03-at-2.43.15-PM.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Trump’s Order to Keep Michigan Coal Plant Running Has Cost $80 Million So Far",
+      "description": "The Trump administration’s emergency order to keep the huge J.H. Campbell coal plant on Lake Michigan operating past its planned retirement date has c...",
+      "link": "https://insideclimatenews.org/news/31102025/michigan-campbell-coal-plant-operation-has-cost-80-million/",
+      "pubDate": "Fri, 31 Oct 2025 21:28:13 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "At Rallies in Utah and Wyoming, PacifiCorp Customers Urge the Utility to Pursue Renewables",
       "description": "Activists in Utah and Wyoming held rallies this week urging state regulators to scrutinize a document they believe will raise energy bills for hundred...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/20c7e9582902867c2738869fd2e5033a5111c7ef/0_0_1730_1384/master/1730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb3d9c3987619b2aecda032aad352dad"
-    },
-    {
-      "title": "Vietnam floods: streets of Hoi An submerged like canals of Venice – in pictures",
-      "description": "&lt;p&gt;Flooding that killed 10 people in central Vietnam this week turned streets in the historic town of Hoi An into canals on Thursday after a maj...",
-      "link": "https://www.theguardian.com/world/gallery/2025/oct/31/vietnam-floods-hoi-an-tourist-spots-submerged-pictures",
-      "pubDate": "Fri, 31 Oct 2025 00:54:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a364b2d62a00a7d069275e1b4af70899970453b3/540_0_3542_2835/master/3542.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc41e112d78eb6c835f4404071dc8e9a"
-    },
-    {
-      "title": "Bats are seeking sanctuary in churches - but they're making an unholy mess",
-      "description": "A new study estimates that about half of all churches in England have bats living in them. ...",
-      "link": "https://www.bbc.com/news/articles/cy8vq5318dxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Oct 2025 00:34:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bats are seeking sanctuary in churches - but they're making an unholy mess",
-      "description": "A new study estimates that about half of all churches in England have bats living in them. ...",
-      "link": "https://www.bbc.com/news/articles/cy8vq5318dxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Oct 2025 00:34:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
