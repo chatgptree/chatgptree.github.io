@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-31T23:23:06.206Z",
+  "lastUpdated": "2025-11-01T02:06:54.294Z",
   "articles": [
+    {
+      "title": "CSX Train Derailment in Virginia Puts Chickahominy River at Risk",
+      "description": "A train derailment last Saturday dumped coal and diesel fuel into wetlands near the Chickahimony River in Virginia, and nearby residents and environme...",
+      "link": "https://insideclimatenews.org/news/31102025/csx-train-derailment-in-virginia-puts-chickahominy-river-at-risk/",
+      "pubDate": "Fri, 31 Oct 2025 23:24:48 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "For a struggling Iowa ranch, the government shutdown may be the last straw",
       "description": "A family farm’s fight to recover from a devastating flood shows how the gridlock in Washington is only making it harder to grow and sell food....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b0632e1a4810a695ab58dfcd29b123b603d1656a/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49218bd6d14d34753167a57adc8b6de3"
-    },
-    {
-      "title": "Two found dead in flooded basements as New York city hit by rainstorm",
-      "description": "&lt;p&gt;Separate incidents see bodies pulled from basements in Brooklyn and Manhattan as heavy rain closes roads and causes delays &lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/us-news/2025/oct/30/new-york-floods",
-      "pubDate": "Fri, 31 Oct 2025 03:53:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/20c7e9582902867c2738869fd2e5033a5111c7ef/0_0_1730_1384/master/1730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb3d9c3987619b2aecda032aad352dad"
     }
   ]
 }
