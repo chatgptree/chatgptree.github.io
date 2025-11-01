@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-01T12:49:06.910Z",
+  "lastUpdated": "2025-11-01T13:28:21.671Z",
   "articles": [
+    {
+      "title": "Google Earth gets an AI chatbot to help chart the climate crisis",
+      "description": "New AI features in Google Earth let users ask chatbot-style questions to find changes in the climate. The system could eventually predict disasters an...",
+      "link": "https://grist.org/technology/google-earth-gets-an-ai-chatbot-to-help-chart-the-climate-crisis/",
+      "pubDate": "Sat, 01 Nov 2025 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/googleearth.webp?quality=75&amp;strip=all"
+    },
     {
       "title": "A Company Eyes What Would Be North Carolina’s First Commercial Natural Gas Well",
       "description": "A company with connections to the cryptocurrency industry is considering drilling for natural gas near the Deep River north of Sanford in Lee County, ...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "I tried lab-grown chocolate. Could it be the future of Halloween?",
-      "description": "&lt;p&gt;It could eventually cut down on the production of traditional chocolate, which degrades soil and requires much fertilizer and pesticides&lt;/...",
-      "link": "https://www.theguardian.com/wellness/2025/oct/31/lab-grown-chocolate-halloween",
-      "pubDate": "Fri, 31 Oct 2025 16:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7032dc97474d9457738bd74fdb3fa89870cfcb09/0_0_3000_2400/master/3000.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1085a7332a5c1b2a6c2c1b7861fb08bb"
     }
   ]
 }
