@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-01T08:31:02.727Z",
+  "lastUpdated": "2025-11-01T09:24:17.994Z",
   "articles": [
+    {
+      "title": "A Company Eyes What Would Be North Carolina’s First Commercial Natural Gas Well",
+      "description": "A company with connections to the cryptocurrency industry is considering drilling for natural gas near the Deep River north of Sanford in Lee County, ...",
+      "link": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/",
+      "pubDate": "Sat, 01 Nov 2025 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Texas Grid Increasingly Meets Growing Demand With Renewables",
+      "description": "Texas’ independent grid is meeting a large portion of the state’s rising electricity demand through its growing fleet of solar facilities, wind power ...",
+      "link": "https://insideclimatenews.org/news/01112025/texas-grid-increasingly-meets-growing-demand-with-renewables/",
+      "pubDate": "Sat, 01 Nov 2025 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ted Bundy, Serial Killers and Lead Exposure: Exploring the Connection Between Neurotoxins and Violence",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with Caroline Fraser,...",
+      "link": "https://insideclimatenews.org/news/01112025/connecting-serial-killers-to-neurotoxins/",
+      "pubDate": "Sat, 01 Nov 2025 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Britain’s canals and rivers face lack of funds amid climate pressures, campaigners warn",
       "description": "&lt;p&gt;Many waterways vulnerable to breaches and closures and face mounting maintenance costs, charity says&lt;/p&gt;&lt;p&gt;Britain’s network of c...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7032dc97474d9457738bd74fdb3fa89870cfcb09/0_0_3000_2400/master/3000.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1085a7332a5c1b2a6c2c1b7861fb08bb"
-    },
-    {
-      "title": "Heavy rain floods streets in New York City – video",
-      "description": "&lt;p&gt;At least two people died on Thursday in flooded basements after record rainfall in parts of New York City that also deluged some streets and ...",
-      "link": "https://www.theguardian.com/us-news/video/2025/oct/31/heavy-rain-floods-streets-in-new-york-city-video",
-      "pubDate": "Fri, 31 Oct 2025 11:23:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0f4110a8a2fbb40d5b11ecdf2d7e00ce41ce128d/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=062e6faf1e449f74518b5fba17fa76f4"
-    },
-    {
-      "title": "Harrison Ford says Trump’s assault on climate policy ‘scares the shit out of me’",
-      "description": "&lt;p&gt;Indiana Jones star calls US president one of history’s greatest criminals for attacks on science and boosting of fossil fuels&lt;/p&gt;&lt;p&...",
-      "link": "https://www.theguardian.com/environment/2025/oct/31/harrison-ford-donald-trump-climate-crisis",
-      "pubDate": "Fri, 31 Oct 2025 10:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6f7055f9ed67a49980b6d16efaeac22ccc96fc9e/506_0_4995_3996/master/4995.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66c2e690a35e9c2d3bc44b456c9059bf"
-    },
-    {
-      "title": "After Decades of Protections, Green Sea Turtles Have Been Saved From the Brink of Extinction—for Now",
-      "description": "In the shallow turquoise waters off the island of Providenciales in Turks and Caicos—a British overseas territory south of the Bahamas—large adult gre...",
-      "link": "https://insideclimatenews.org/news/31102025/green-sea-turtles-protections/",
-      "pubDate": "Fri, 31 Oct 2025 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
