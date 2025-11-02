@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-02T09:23:00.431Z",
+  "lastUpdated": "2025-11-02T10:24:53.083Z",
   "articles": [
+    {
+      "title": "Western States Brace for a Uranium Boom as the Nation Looks to Recharge its Nuclear Power Industry",
+      "description": "BAIROIL, Wyo.—The remote dirt road through dusty fields of sagebrush that John Cash drove along in June seemed to pass little of economic value. But h...",
+      "link": "https://insideclimatenews.org/news/02112025/west-braces-for-uranium-boom-as-nuclear-makes-comeback/",
+      "pubDate": "Sun, 02 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "https://insideclimatenews.org/wp-content/uploads/2025/11/062525_Bolster_Bairoil016w.jpg"
+    },
+    {
+      "title": "Can Cows and Solar Power Coexist? We’re About to Find Out",
+      "description": "LANCASTER, Ky.—It is unusual to have a utility-scale solar array in Kentucky, and even more unusual that the grounds crew here is a live-in flock of m...",
+      "link": "https://insideclimatenews.org/news/02112025/cattle-solar-grazing/",
+      "pubDate": "Sun, 02 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What the Whales Are Saying",
+      "description": "What separates humans from other species? The answer to that question may no longer be language.&#160; With the help of artificial intelligence, robot...",
+      "link": "https://insideclimatenews.org/news/02112025/icn-sunday-morning-whale-communications-ai/",
+      "pubDate": "Sun, 02 Nov 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Sussan Ley under pressure as Nationals formally scrap net zero target",
       "description": "&lt;p&gt;David Littleproud says he informed the Liberal leader days ago of the policy position his party was considering&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Scouts-Vic-logo-839x1024.png"
-    },
-    {
-      "title": "CSX Train Derailment in Virginia Puts Chickahominy River at Risk",
-      "description": "A train derailment last Saturday dumped coal and diesel fuel into wetlands near the Chickahimony River in Virginia, and nearby residents and environme...",
-      "link": "https://insideclimatenews.org/news/31102025/csx-train-derailment-in-virginia-puts-chickahominy-river-at-risk/",
-      "pubDate": "Fri, 31 Oct 2025 23:24:48 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "For a struggling Iowa ranch, the government shutdown may be the last straw",
-      "description": "A family farm’s fight to recover from a devastating flood shows how the gridlock in Washington is only making it harder to grow and sell food....",
-      "link": "https://grist.org/food-and-agriculture/for-a-struggling-iowa-ranch-the-government-shutdown-may-be-the-last-straw/",
-      "pubDate": "Fri, 31 Oct 2025 21:50:23 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-2235257896-e1760051198210.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘A devastating global audit’ shows how climate change is undermining the health of millions",
-      "description": "Extreme heat now kills one person every minute, according to a sweeping new report by the British medical journal The Lancet....",
-      "link": "https://grist.org/health/lancet-2025-countdown-health-climate-change-report/",
-      "pubDate": "Fri, 31 Oct 2025 21:31:54 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2023/11/Screenshot-2023-11-03-at-2.43.15-PM.jpg?quality=75&amp;strip=all"
     }
   ]
 }
