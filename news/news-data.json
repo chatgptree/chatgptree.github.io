@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-03T15:28:13.793Z",
+  "lastUpdated": "2025-11-03T16:32:04.262Z",
   "articles": [
+    {
+      "title": "Antarctic glacier's rapid retreat sparks scientific 'whodunnit'",
+      "description": "A new study suggests that changes to Hektoria Glacier are unprecedented - but not all scientists agree....",
+      "link": "https://www.bbc.com/news/articles/c04gq00xyeeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Nov 2025 16:00:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Only 3% of international climate aid going to transitioning communities: ‘This is absurd’",
       "description": "&lt;p&gt;New report on funding to slash carbon emissions finds startlingly low engagement with the people affected&lt;/p&gt;&lt;p&gt;Less than 3% of i...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cae57b6c2eb47616a3fbda6dbc500649c14ba446/724_0_6139_4912/master/6139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1636f90f002ca5e56ded42355c76946"
-    },
-    {
-      "title": "Teachers unions leverage contracts to fight climate change",
-      "description": "As federal support and financial incentives for climate action wither, this sort of local action is becoming more difficult but also more urgent, advo...",
-      "link": "https://grist.org/labor/teachers-unions-leverage-contracts-to-fight-climate-change/",
-      "pubDate": "Sun, 02 Nov 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/01/schoolbikela.jpg?quality=75&#038;strip=all"
     }
   ]
 }
