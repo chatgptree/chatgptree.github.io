@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-03T08:36:44.152Z",
+  "lastUpdated": "2025-11-03T09:31:54.469Z",
   "articles": [
+    {
+      "title": "Native Alaska villages were already on the frontlines of climate change. Then a typhoon hit.",
+      "description": "As Typhoon Halong swept through western Alaska, it laid bare how centuries-old policies made Native villages particularly vulnerable to climate change...",
+      "link": "https://grist.org/indigenous/native-alaska-villages-were-already-on-the-frontlines-of-climate-change-then-a-typhoon-hit/",
+      "pubDate": "Mon, 03 Nov 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-1186236183.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Firms ordered to reduce forever chemicals in drinking water sources for 6 million people",
+      "description": "The persistent pollutants which build up in the environment have been linked to serious illnesses....",
+      "link": "https://www.bbc.com/news/articles/c9q1nzyzyjeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Nov 2025 08:35:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Coalition on brink of abandoning net zero emissions pledge as Ley under pressure to side with Nationals",
       "description": "&lt;p&gt;Decision to abandon policy could trigger revolt from moderate Liberals who are open to breaking Coalition if net zero not kept in some form&l...",
@@ -27,6 +45,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f200e33a95969d2d65d4a2a581f9d0592d9a6d4a/350_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24588ad991c8ac56ecff16f8d860742b"
+    },
+    {
+      "title": "Hedgerows and mob grazing: Can farming fix its carbon black hole?",
+      "description": "Scottish ministers are putting the finishing touches to a plan aimed at reducing planet-warming emissions....",
+      "link": "https://www.bbc.com/news/articles/c75q0dr2w09o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Nov 2025 06:12:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "GET YOUR GLOVES ON AUSTRALIA! REGISTRATIONS FOR CLEAN UP AUSTRALIA DAY 2026 ARE NOW OPEN",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Supercell Storm in Queensland Exposes Critical Gaps in Grid Edge Visibility",
-      "description": "As supercell storms threaten Queensland with destructive winds, flash flooding and giant hailstones, the latest extreme weather system has highlighted...",
-      "link": "https://econews.com.au/68175/supercell-storm-in-queensland-exposes-critical-gaps-in-grid-edge-visibility/",
-      "pubDate": "Sun, 02 Nov 2025 05:03:11 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/VisNet-Logo-1024x886.jpg"
-    },
-    {
-      "title": "Devastation on repeat: How climate change is worsening Pakistan's deadly floods",
-      "description": "The BBC speaks to those who have lost everything in this year's monsoon season and finds out why it will likely happen again. ...",
-      "link": "https://www.bbc.com/news/articles/cgmx2e3nnw0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Nov 2025 00:45:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Australia must put politics aside and pass nature laws that benefit the economy and the environment. We owe it to our kids | Zoe Daniel",
-      "description": "&lt;p&gt;There’s no such thing as a perfect legislative solution. It’s about finding one that’s workable – for the community, for the economy and for ...",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/01/australia-nature-laws-put-politics-aside-benefit-economy-environment-kids",
-      "pubDate": "Sat, 01 Nov 2025 19:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3f6c26464584f6ce8962b6112cd61e05697f4f64/1132_316_3340_2673/master/3340.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddb368d51fc5f6f50f3f655440a0af9a"
     }
   ]
 }
