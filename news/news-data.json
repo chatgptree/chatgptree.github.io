@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-03T16:32:04.262Z",
+  "lastUpdated": "2025-11-03T17:24:28.769Z",
   "articles": [
+    {
+      "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move",
+      "description": "&lt;p&gt;The climate crisis is causing the permafrost to melt in Alaska, forcing the village of Nunapitchuk to relocate&lt;/p&gt;&lt;p&gt;Children spl...",
+      "link": "https://www.theguardian.com/us-news/2025/nov/03/alaska-nunapitchuk-climate-melting-permafrost",
+      "pubDate": "Mon, 03 Nov 2025 17:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/eb980d6e284ffadd152f17b8af5c83d31dcf8244/0_0_1706_1365/master/1706.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=248c62bec0ac7d8ab034d73337b614db"
+    },
+    {
+      "title": "Antarctic glacier's rapid retreat sparks scientific 'whodunnit'",
+      "description": "A new study suggests that changes to Hektoria Glacier are unprecedented - but not all scientists agree....",
+      "link": "https://www.bbc.com/news/articles/c04gq00xyeeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Nov 2025 16:00:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Antarctic glacier's rapid retreat sparks scientific 'whodunnit'",
       "description": "A new study suggests that changes to Hektoria Glacier are unprecedented - but not all scientists agree....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/unnamed-51.jpg"
-    },
-    {
-      "title": "Hiking with the wildlife author who studies Yosemite’s high peaks: ‘These animals are equal to us’",
-      "description": "&lt;p&gt;Inspired by childhood encyclopedias and Jane Goodall, Beth Pratt writes about the more than 150 species in the national park – and transports...",
-      "link": "https://www.theguardian.com/us-news/2025/nov/02/beth-pratt-yosemite-author-wildlife",
-      "pubDate": "Sun, 02 Nov 2025 15:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/680dd167f9ea330dc2880351dadd50f26823a9e3/0_1293_3067_2453/master/3067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb8be350a9fb3a09e7a8d326d5bbb6ca"
-    },
-    {
-      "title": "Forget Jomo, gezellig and hygge – this winter, let’s get a grip and go out | Emma Beddington",
-      "description": "&lt;p&gt;The dark nights are here and staying in is more appealing than ever. But there’s a very real cost to not venturing out&lt;/p&gt;&lt;p&gt;Sinc...",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/02/forget-jomo-gezellig-hygge-winter-lets-go-out",
-      "pubDate": "Sun, 02 Nov 2025 14:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cae57b6c2eb47616a3fbda6dbc500649c14ba446/724_0_6139_4912/master/6139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1636f90f002ca5e56ded42355c76946"
     }
   ]
 }
