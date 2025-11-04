@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-04T18:37:50.147Z",
+  "lastUpdated": "2025-11-04T19:21:15.303Z",
   "articles": [
+    {
+      "title": "Reeves considers cut to green levies in effort to reduce cost of energy bills",
+      "description": "&lt;p&gt;Exclusive: Chancellor hopes to save up to £170 from average bill, though insiders warn move will be ‘disastrous’&lt;/p&gt;&lt;p&gt;Rachel Ree...",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/04/chancellor-considers-cut-green-levies-reduce-cost-of-energy-bills-rachel-reeves",
+      "pubDate": "Tue, 04 Nov 2025 19:01:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2e6466328d2ac979328c19536b943d6c2ce6def6/712_0_6328_5065/master/6328.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0554f739a701fbd49371c9c2f1c819ae"
+    },
+    {
+      "title": "New UN Report Warns of Lagging Climate Action",
+      "description": "A new emissions gap report released by the United Nations Environment Programme suggests that a decade of global climate policy under the Paris Agreem...",
+      "link": "https://insideclimatenews.org/news/04112025/un-report-warns-of-lagging-climate-action/",
+      "pubDate": "Tue, 04 Nov 2025 18:48:44 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Galápagos had no native amphibians. Then it was invaded by hundreds of thousands of frogs",
       "description": "&lt;p&gt;Scientists are only beginning to grasp the scale of the issue and understand what impact the tree frogs may have on the islands’ rare wildlif...",
@@ -110,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/88baa4d307135b73b284b89ada2da3625b6870cb/328_0_2695_2156/master/2695.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a09865cda7b00741f8d35e6cf11239b1"
     },
     {
-      "title": "Almost 120 flying foxes hospitalised after giant hail smashes Queensland colony",
-      "description": "&lt;p&gt;Rescued bats taken to RSPCA wildlife hospital in Brisbane’s south-west with injuries including ‘faces that were smashed and broken wings’&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/nov/04/giant-hail-queensland-flying-foxes-hospitalised",
-      "pubDate": "Tue, 04 Nov 2025 04:12:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/39eb3a23a5399fd2aa8648a0577f2a3f64490c0f/0_49_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05dd6d3612d89499957413c12b3f48d0"
-    },
-    {
       "title": "Single atoms of silver and earth-abundant carbon turn pollutants into fertiliser",
       "description": "Centre of Excellence for Carbon Science and Innovation A single atom of silver working in synergy with carbon and nitrogen atoms can efficiently conve...",
       "link": "https://econews.com.au/68195/single-atoms-of-silver-and-earth-abundant-carbon-turn-pollutants-into-fertiliser/",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move",
-      "description": "&lt;p&gt;The climate crisis is causing the permafrost to melt in Alaska, forcing the village of Nunapitchuk to relocate&lt;/p&gt;&lt;p&gt;Children spl...",
-      "link": "https://www.theguardian.com/us-news/2025/nov/03/alaska-nunapitchuk-climate-melting-permafrost",
-      "pubDate": "Mon, 03 Nov 2025 17:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eb980d6e284ffadd152f17b8af5c83d31dcf8244/0_0_1706_1365/master/1706.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=248c62bec0ac7d8ab034d73337b614db"
     }
   ]
 }
