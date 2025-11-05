@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-05T15:26:41.788Z",
+  "lastUpdated": "2025-11-05T16:35:28.121Z",
   "articles": [
+    {
+      "title": "William follows in mother Diana's footsteps with Rio statue photo",
+      "description": "The Prince of Wales posed beneath the Christ the Redeemer statue 34 years after his mother did....",
+      "link": "https://www.bbc.com/news/articles/cge5zlgpydxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Nov 2025 15:37:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump U-turns to renominate billionaire for Nasa chief",
+      "description": "Jared Isaacman's initial nomination was withdrawn by the president in May during his high-profile feud with Elon Musk....",
+      "link": "https://www.bbc.com/news/articles/c78ze3r1xrro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Nov 2025 15:11:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why cities around the world are uniting to keep cool",
       "description": "A new global initiative is helping cities from Phoenix to Quezon City address extreme heat with shared solutions and local action....",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "They survived the hurricane. Their insurance company didn&#8217;t.",
-      "description": "Hurricane Ida revealed a fragile insurance industry ill-prepared for the consequences of climate change. More than four years later, what's changed?...",
-      "link": "https://grist.org/economics/insurance-company-bankrupt-hurricane-ida-louisiana/",
-      "pubDate": "Tue, 04 Nov 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/Louisana-Mold2-Web.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "As aid dries up in Kenya, millions are threatened by  the climate-driven disease kala-azar",
-      "description": "Rising temperatures and erratic rainfall have supercharged the breeding of sandflies that spread the disease, putting 5 million at risk....",
-      "link": "https://grist.org/health/kala-azar-kenya-usaid/",
-      "pubDate": "Tue, 04 Nov 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/kalaazar_clinic_LongorotEpuu.jpg?quality=75&amp;strip=all"
     }
   ]
 }
