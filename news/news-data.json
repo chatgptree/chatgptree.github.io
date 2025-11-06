@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-06T06:39:22.735Z",
+  "lastUpdated": "2025-11-06T07:25:21.349Z",
   "articles": [
+    {
+      "title": "Pollution from Ineos’s Antwerp plastic plant ‘will cause more deaths than jobs created’",
+      "description": "&lt;p&gt;Lawyers challenge €4bn Project One development, saying emissions and health impacts vastly underestimated&lt;/p&gt;&lt;p&gt;The deaths from p...",
+      "link": "https://www.theguardian.com/business/2025/nov/06/pollution-ineos-antwerp-plastic-plant-deaths-jobs-created",
+      "pubDate": "Thu, 06 Nov 2025 07:00:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/02d6890821c00f4ea3d8b56fdba8f654c800c382/501_0_2852_2282/master/2852.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a52eb3f41fbbc7fa6f75ca30ab7fa1b0"
+    },
     {
       "title": "‘There is no money’: As carbon markets collapse, what happens to the forests they promised to protect?",
       "description": "&lt;p&gt;After it was found most offsets did not represent real carbon reductions, the money dried up. But successful schemes such as Kasigau in Kenya...",
@@ -27,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e25995da01549fee0a13e53c4b9a83f77024d37d/917_0_4729_3783/master/4729.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d76e78ce006c18b31f139d57cbee891"
+    },
+    {
+      "title": "William announces Earthshot Prize 2025 winners in Rio",
+      "description": "Winners include a project for making the Atlantic Forest financially viable and a global ocean treaty initiative...",
+      "link": "https://www.bbc.com/news/articles/cy0y50457y9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Nov 2025 04:10:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Ocean Photographer of the Year 2025 premieres at the Australian National Maritime Museum",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a18733febe3200376057affb0873275959b1084c/1933_0_4567_3656/master/4567.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fe7ad2487f523b0a760a4284a10fca3"
-    },
-    {
-      "title": "NYC Mayor-Elect Mamdani to Face Pressing Climate, Environment Issues",
-      "description": "It was 10 p.m. on election night. Twenty minutes prior, most news organizations had called the New York City mayoral race for state assemblymember Zoh...",
-      "link": "https://insideclimatenews.org/news/05112025/new-york-city-zohran-mamdani-climate-environment-issues/",
-      "pubDate": "Wed, 05 Nov 2025 17:18:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "William follows in mother Diana's footsteps with Rio statue photo",
-      "description": "The Prince of Wales posed beneath the Christ the Redeemer statue 34 years after his mother did....",
-      "link": "https://www.bbc.com/news/articles/cge5zlgpydxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Nov 2025 15:37:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
