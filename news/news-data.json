@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2025-11-06T09:29:18.258Z",
+  "lastUpdated": "2025-11-06T10:30:25.648Z",
   "articles": [
+    {
+      "title": "William announces Earthshot Prize 2025 winners in Rio",
+      "description": "Winners include a project for making the Atlantic Forest financially viable and a global ocean treaty initiative....",
+      "link": "https://www.bbc.com/news/articles/cy0y50457y9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Nov 2025 10:06:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘New reality’: Hurricane Melissa strength multiplied by climate crisis, study says",
+      "description": "&lt;p&gt;Winds of Melissa’s strength are now five times more frequent due to the climate crisis, research says&lt;/p&gt;&lt;p&gt;Every aspect of Hurri...",
+      "link": "https://www.theguardian.com/world/2025/nov/06/hurricane-melissa-storm-strength-climate-crisis",
+      "pubDate": "Thu, 06 Nov 2025 10:00:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/01987d4efc90799a8ac2c91fc56164928aa10c8b/500_0_6587_5271/master/6587.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2fea59d0e23ef7e580e99f524fa59bb"
+    },
+    {
+      "title": "Another Dry Spell Hits New England, Raising Alarm About Flash Droughts",
+      "description": "Eighty-two percent of New England is experiencing drought conditions, affecting everything from wildfire risk to the vibrancy of the region’s iconic f...",
+      "link": "https://insideclimatenews.org/news/06112025/new-england-drought-risk/",
+      "pubDate": "Thu, 06 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trucks Move the Country’s Goods Through This County. As Even More Loom, People Are Pushing Back.",
+      "description": "ELWOOD, Ill.—When Terri Papesh says she can’t stand the smell of diesel, she doesn’t mean it figuratively. The 62-year-old has a variety of health pro...",
+      "link": "https://insideclimatenews.org/news/06112025/illinois-will-county-intermodal-transport-hub-truck-pollution/",
+      "pubDate": "Thu, 06 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hurricane and Tropical Storm Remnants Impact the Midwest, Too",
+      "description": "When hurricanes form, all eyes are on the places where they make landfall—for obvious reasons. But their effects can extend hundreds of miles inland. ...",
+      "link": "https://insideclimatenews.org/news/06112025/midwest-hurricane-tropical-storm-impacts/",
+      "pubDate": "Thu, 06 Nov 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Here are the 5 issues to watch at COP30 in Brazil",
+      "description": "“The entire Paris Agreement experiment is being challenged.”...",
+      "link": "https://grist.org/international/here-are-the-5-issues-to-watch-at-cop30-in-brazil/",
+      "pubDate": "Thu, 06 Nov 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2244364997-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "How do hurricanes or typhoons form and are they getting stronger?",
+      "description": "These powerful tropical storms are generally becoming more intense as the world warms....",
+      "link": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Nov 2025 09:37:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rising energy bills are rewiring American politics",
+      "description": "Tuesday's election results suggest energy costs may be moving the political needle in ways that other issues, like climate change, have not....",
+      "link": "https://grist.org/energy/rising-energy-bills-are-rewiring-american-politics/",
+      "pubDate": "Thu, 06 Nov 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/election-results-climate.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Pollution from Ineos’s Antwerp plastic plant ‘will cause more deaths than jobs created’",
       "description": "&lt;p&gt;Lawyers challenge €4bn Project One development, saying emissions and health impacts vastly underestimated&lt;/p&gt;&lt;p&gt;The deaths from p...",
@@ -36,15 +108,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e25995da01549fee0a13e53c4b9a83f77024d37d/917_0_4729_3783/master/4729.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d76e78ce006c18b31f139d57cbee891"
-    },
-    {
-      "title": "William announces Earthshot Prize 2025 winners in Rio",
-      "description": "Winners include a project for making the Atlantic Forest financially viable and a global ocean treaty initiative...",
-      "link": "https://www.bbc.com/news/articles/cy0y50457y9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Nov 2025 04:10:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Ocean Photographer of the Year 2025 premieres at the Australian National Maritime Museum",
@@ -117,69 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2797b8203bc9de20d1e9f476c5f7344b8e3c1519/207_0_1106_885/master/1106.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46c5039e4d28942d90c7ff95eb180e8e"
-    },
-    {
-      "title": "Trump nominates ex-New Mexico lawmaker to oversee public lands",
-      "description": "&lt;p&gt;President names Steve Pearce to lead agency that manages a quarter-billion acres, about 10% of land in US&lt;/p&gt;&lt;p&gt;Donald Trump nomi...",
-      "link": "https://www.theguardian.com/us-news/2025/nov/05/trump-public-lands-nominee",
-      "pubDate": "Wed, 05 Nov 2025 23:30:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6c0fc17745c917cea320c4664c35c2c645f172a1/396_0_3960_3168/master/3960.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=046985baa9e4a5319d5cbeb6b66e549c"
-    },
-    {
-      "title": "With a Lock on State Government Control, Virginia Democrats Now Face Difficult Decisions on Data Centers and Renewable Energy",
-      "description": "RICHMOND, Va.—Democrats gained trifecta control of Virginia state government Tuesday night as former congresswoman Abigail Spanberger trounced Republi...",
-      "link": "https://insideclimatenews.org/news/05112025/virginia-democrats-government-control-data-centers-renewable-energy/",
-      "pubDate": "Wed, 05 Nov 2025 23:11:11 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Still a chance to return to 1.5C climate goal, researchers say",
-      "description": "&lt;p&gt;Report calls for scaling-up of renewable energy and electrification of key sectors to limit peak of global heating&lt;/p&gt;&lt;p&gt;There is...",
-      "link": "https://www.theguardian.com/environment/2025/nov/05/still-a-chance-to-return-to-1-point-5c-climate-goal-researchers-say",
-      "pubDate": "Wed, 05 Nov 2025 23:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6600bbf0acf4189f6b6b7cd8cf0bdf65a72abe62/482_0_2531_2025/master/2531.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e650a817660b66e239438c0f38c63b1c"
-    },
-    {
-      "title": "Green Groups’ Election Takeaway: Focus on Trump Energy Agenda Costs",
-      "description": "Democratic victories across the electoral map Tuesday affirmed for climate action advocates that high energy costs are a huge vulnerability for Presid...",
-      "link": "https://insideclimatenews.org/news/05112025/democrat-election-victories-new-jersey-virginia-georgia/",
-      "pubDate": "Wed, 05 Nov 2025 22:45:33 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "It was a very good election for the climate",
-      "description": "In the first election of Donald Trump's second term, voters make clear that they're unhappy with his energy policies — and they still care about clima...",
-      "link": "https://grist.org/politics/it-was-a-very-good-election-for-the-climate/",
-      "pubDate": "Wed, 05 Nov 2025 21:12:19 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘We’re leading the way’: Starmer defends plans for green economy before Cop30",
-      "description": "&lt;p&gt;PM defies critics calling for a slowdown as he flies to Brazil, where he may have frosty reception after opting out of tropical forest fund&l...",
-      "link": "https://www.theguardian.com/environment/2025/nov/05/were-leading-the-way-starmer-defends-plans-for-green-economy-before-cop30",
-      "pubDate": "Wed, 05 Nov 2025 20:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/052dba622d09a13ffb4cab8280734ba59134ad07/288_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84e66b92ed398586de4e3c3e760065f7"
-    },
-    {
-      "title": "UK opts out of flagship fund to protect Amazon and other threatened tropical forests",
-      "description": "&lt;p&gt;Decision is bitter blow to Brazil ahead of fund’s launch at Cop30 – and an embarrassment to Prince William&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
-      "link": "https://www.theguardian.com/environment/2025/nov/05/uk-opts-out-of-flagship-fund-to-protect-amazon-and-other-threatened-tropical-forests",
-      "pubDate": "Wed, 05 Nov 2025 17:32:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a18733febe3200376057affb0873275959b1084c/1933_0_4567_3656/master/4567.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fe7ad2487f523b0a760a4284a10fca3"
     }
   ]
 }
