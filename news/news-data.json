@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-06T12:55:43.221Z",
+  "lastUpdated": "2025-11-06T13:37:09.818Z",
   "articles": [
+    {
+      "title": "Misleading UK adverts for ’very low emission’ wood-burning stoves banned",
+      "description": "&lt;p&gt;ASA action won approval of clean air campaigners, who said some ‘seriously misleading myths’ had been debunked&lt;/p&gt;&lt;p&gt;Adverts clai...",
+      "link": "https://www.theguardian.com/environment/2025/nov/06/misleading-uk-adverts-for-very-low-emission-wood-burning-stoves-banned",
+      "pubDate": "Thu, 06 Nov 2025 13:02:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e66cf504befda67df55139f6394342ef17f53783/1911_1534_4960_3968/master/4960.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2d743d96022603ad530a00ae4c340a2"
+    },
+    {
+      "title": "Scientists criticize ‘straw man’ arguments in Bill Gates climate memo",
+      "description": "&lt;p&gt;Tech billionaire relying on ‘false binary’ with call to focus less on emissions and more on aid for poor, experts say&lt;/p&gt;&lt;p&gt;A &lt...",
+      "link": "https://www.theguardian.com/environment/2025/nov/06/bill-gates-climate-memo",
+      "pubDate": "Thu, 06 Nov 2025 13:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6746e529a4d708d3018f1a7fb040cd4fa0138ffb/0_0_2916_2333/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e129394eb3398ec1604ce3977468dfcc"
+    },
+    {
+      "title": "Bird flu virus spreading in UK could be worst yet, expert warns farmers",
+      "description": "A top virology expert tells the BBC that the \"super-infectious\" avian influenza virus could mutate....",
+      "link": "https://www.bbc.com/news/articles/cp85r67kn8xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Nov 2025 12:07:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Flooded UK coalmines could provide low-carbon cheap heat ‘for generations’",
       "description": "&lt;p&gt;Report says proven technology could benefit thousands in poor quality housing and help UK meet carbon reduction targets&lt;/p&gt;&lt;p&gt;Flo...",
@@ -26,7 +53,7 @@
       "pubDate": "Thu, 06 Nov 2025 10:00:07 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/01987d4efc90799a8ac2c91fc56164928aa10c8b/500_0_6587_5271/master/6587.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2fea59d0e23ef7e580e99f524fa59bb"
+      "image": "https://i.guim.co.uk/img/media/4ec6521676e575b9f195bae5c8abf38b082b27b0/225_104_2683_2146/master/2683.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6abc64df86fefbb4098e01afb6ee8fb"
     },
     {
       "title": "Another Dry Spell Hits New England, Raising Alarm About Flash Droughts",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/500_Logo_DarkBlue_RGB-1024x490.jpg"
-    },
-    {
-      "title": "Sustainability Is Now Central to Exit Readiness in Australia’s Property Market",
-      "description": "Matt Clifford, Head of Sustainability Services, APAC As Australia’s commercial property sector braces for a wave of capital recycling, one message is ...",
-      "link": "https://econews.com.au/68199/sustainability-is-now-central-to-exit-readiness-in-australias-property-market/",
-      "pubDate": "Thu, 06 Nov 2025 04:03:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/cushman-logo.png"
-    },
-    {
-      "title": "Celebrating the 26th Prime Minister’s Prizes for Science",
-      "description": "Prime Minister of Australia and Minister for Industry and Innovation and Minister for Science Australia’s top scientists, innovators and educators hav...",
-      "link": "https://econews.com.au/68197/celebrating-the-26th-prime-ministers-prizes-for-science/",
-      "pubDate": "Thu, 06 Nov 2025 04:03:11 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "New York Climate Advocates Celebrate Mamdani’s Victory, Prepare to Hold Him Accountable",
-      "description": "As news broke on Tuesday night that Zohran Mamdani had won New York City’s mayoral contest by a decisive margin, advocates for environmental justice b...",
-      "link": "https://insideclimatenews.org/news/05112025/new-york-climate-advocates-celebrate-zohran-mamdani-win/",
-      "pubDate": "Thu, 06 Nov 2025 00:45:46 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
