@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-06T19:21:15.070Z",
+  "lastUpdated": "2025-11-06T20:29:52.309Z",
   "articles": [
+    {
+      "title": "COP30: World leaders take aim at Trump for climate inaction",
+      "description": "World leaders address COP30 climate summit in Belém and take aim at Trump record on climate change....",
+      "link": "https://www.bbc.com/news/articles/cn4j8dgnj1wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Nov 2025 19:33:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Amazon lakes hit ‘unbearable’ hot-tub temperatures amid mass die-offs of pink river dolphins – study",
       "description": "&lt;p&gt;Droughts and heatwaves causing water in some areas to reach 41C, killing fish and endangered dolphins, say researchers&lt;/p&gt;&lt;p&gt;Amaz...",
@@ -20,15 +29,6 @@
       "image": "https://i.guim.co.uk/img/media/9e5c76abbd9a6eb6b046f00d04f7273792e3c984/283_0_3816_3053/master/3816.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2dbf84ddefc3574b0edd82849e617634"
     },
     {
-      "title": "COP30: World leaders take aim at Trump for climate inaction",
-      "description": "World leaders address COP30 climate summit in Belém and take aim at Trump record on climate change....",
-      "link": "https://www.bbc.com/news/articles/cn4j8dgnj1wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Nov 2025 18:49:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Illinois General Assembly Passes Energy Reform Act Aiming to Reduce Rates and Reach Clean Energy Goals",
       "description": "Illinois’ General Assembly passed a package of comprehensive energy reforms last week that would help the state reach its clean energy goals and aims ...",
       "link": "https://insideclimatenews.org/news/06112025/illinois-general-assembly-passes-clean-reliable-grid-affordability-act/",
@@ -40,7 +40,7 @@
     {
       "title": "BBC Inside Science",
       "description": "New evidence that the expansion of the universe is slowing. And the Godfather of AI....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txj?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Nov 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
