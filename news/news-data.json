@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-06T21:23:31.192Z",
+  "lastUpdated": "2025-11-06T22:25:39.749Z",
   "articles": [
+    {
+      "title": "The government froze food aid. Tribes are thawing old traditions.",
+      "description": "Decades of work to rebuild traditional food systems are paying off, but droughts and funding cuts threaten to unravel it....",
+      "link": "https://grist.org/indigenous/the-government-froze-food-aid-tribes-are-thawing-old-traditions/",
+      "pubDate": "Thu, 06 Nov 2025 21:55:06 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "In Georgia, power bills beat out party politics",
       "description": "Will the new Democratic public service commissioners advance clean energy and shake up next year’s midterms?...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/11/election-results-climate.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘There is no money’: As carbon markets collapse, what happens to the forests they promised to protect?",
-      "description": "&lt;p&gt;After it was found most offsets did not represent real carbon reductions, the money dried up. But successful schemes such as Kasigau in Kenya...",
-      "link": "https://www.theguardian.com/environment/2025/nov/06/carbon-offsetting-market-collapses-what-happens-to-the-forests-they-hoped-to-protect-aoe",
-      "pubDate": "Thu, 06 Nov 2025 06:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a509f527dff0e553bdbc4aa6f35e3fc7f9009555/998_0_5018_4016/master/5018.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44f62aecb81d92f2c6a119decef259bc"
     }
   ]
 }
