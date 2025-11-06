@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-06T22:25:39.749Z",
+  "lastUpdated": "2025-11-06T23:24:04.198Z",
   "articles": [
+    {
+      "title": "Conservation Groups Blast Trump’s Latest Choice to Head Up the Bureau of Land Management",
+      "description": "President Donald Trump on Wednesday tapped a conservation critic and former oil industry executive to head up the federal agency that oversees the maj...",
+      "link": "https://insideclimatenews.org/news/06112025/steve-pearce-trump-bureau-of-land-management-nomination/",
+      "pubDate": "Thu, 06 Nov 2025 23:10:21 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Net zero is an insidious loophole that distracts from the scientific imperative to eliminate fossil fuels | Joëlle Gergis",
+      "description": "&lt;p&gt;History tells us that polite incrementalism and political kowtowing will prevail at Cop30 – even as catastrophe unfolds around us&lt;/p&gt;&l...",
+      "link": "https://www.theguardian.com/commentisfree/2025/nov/07/net-zero-distracts-from-scientific-imperative-to-eliminate-fossil-fuels-cop30",
+      "pubDate": "Thu, 06 Nov 2025 23:01:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e33ca2fbb411dda4fb3f66e00a5281e5f2a08ef2/372_0_2952_2362/master/2952.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=913126ff6af28a0ae6c7b32cb33ab360"
+    },
     {
       "title": "The government froze food aid. Tribes are thawing old traditions.",
       "description": "Decades of work to rebuild traditional food systems are paying off, but droughts and funding cuts threaten to unravel it....",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2244364997-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How do hurricanes or typhoons form and are they getting stronger?",
-      "description": "These powerful tropical storms are generally becoming more intense as the world warms....",
-      "link": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Nov 2025 09:37:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rising energy bills are rewiring American politics",
-      "description": "Tuesday's election results suggest energy costs may be moving the political needle in ways that other issues, like climate change, have not....",
-      "link": "https://grist.org/energy/rising-energy-bills-are-rewiring-american-politics/",
-      "pubDate": "Thu, 06 Nov 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/election-results-climate.jpg?quality=75&#038;strip=all"
     }
   ]
 }
