@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-07T06:38:58.412Z",
+  "lastUpdated": "2025-11-07T07:25:17.956Z",
   "articles": [
+    {
+      "title": "Lights out: can we stop glow-worms and fireflies fading away?",
+      "description": "&lt;p&gt;From night walks with children to switching off streetlights and rewilding areas, naturalists are working to save Europe’s dwindling populati...",
+      "link": "https://www.theguardian.com/environment/2025/nov/07/conservation-endangered-insects-glow-worms-firefies-europe-dwindling-populations",
+      "pubDate": "Fri, 07 Nov 2025 07:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/291a82097e02221a1701607cdd8ad6ddf2dd6d39/0_320_1265_1012/master/1265.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2ef44a039413a500023beecbb5bd5c5"
+    },
     {
       "title": "HOP TO IT! CREATE A FROG-FRIENDLY BACKYARD THIS FROGID WEEK",
       "description": "Join the World’s Biggest Frog Count from Friday 7 – Sunday 16 November 2025 Australians will be heading into their backyards, paddocks and parks to li...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e2426fc4621248405db0fe73bc74feac1a6beccc/134_0_3421_2737/master/3421.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04147b23d5aa965695e0f0acedc5e018"
-    },
-    {
-      "title": "Bird flu virus spreading in UK could be worst yet, expert warns farmers",
-      "description": "A top virology expert tells the BBC that the \"super-infectious\" avian influenza virus could mutate....",
-      "link": "https://www.bbc.com/news/articles/cp85r67kn8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Nov 2025 12:07:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
