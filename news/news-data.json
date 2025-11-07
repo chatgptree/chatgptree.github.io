@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-07T19:21:12.297Z",
+  "lastUpdated": "2025-11-07T20:26:15.734Z",
   "articles": [
+    {
+      "title": "James Watson: Controversial discoverer of 'the secret of life'",
+      "description": "James Watson, the godfather of DNA who discovered the \"secrets of life\" has died aged 97....",
+      "link": "https://www.bbc.com/news/articles/cyr70zznpjxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Nov 2025 20:22:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "States and Nonprofits Are Helping National Parks Run During the Shutdown. Could Their Efforts Backfire?",
+      "description": "COLUMBIA FALLS, Mont.—Glacier National Park’s Going-to-the-Sun Road, completed in 1933, weaves past meandering streams, expansive valleys, stoic limes...",
+      "link": "https://insideclimatenews.org/news/07112025/states-nonprofits-help-national-parks-run-during-government-shutdown/",
+      "pubDate": "Fri, 07 Nov 2025 19:50:57 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on worsening extreme weather: the injustice of the climate crisis grows ever clearer | Editorial",
       "description": "&lt;p&gt;The increasing ferocity and frequency of tropical storms imposes an unbearable burden on countries including Jamaica&lt;/p&gt;&lt;p&gt;The ge...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Logitech Releases Fiscal 2025 Sustainability Impact Highlights",
-      "description": "Progress in emissions reductions, use of circular materials and renewable energy. Carbon Emissions: Logitech reduced Scope 1 &#38; 2 emissions by 53% ...",
-      "link": "https://econews.com.au/68209/logitech-releases-fiscal-2025-sustainability-impact-highlights/",
-      "pubDate": "Fri, 07 Nov 2025 04:03:11 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Logitech-Impact-report-2.jpg"
-    },
-    {
-      "title": "Conservation Groups Blast Trump’s Latest Choice to Head Up the Bureau of Land Management",
-      "description": "President Donald Trump on Wednesday tapped a conservation critic and former oil industry executive to head up the federal agency that oversees the maj...",
-      "link": "https://insideclimatenews.org/news/06112025/steve-pearce-trump-bureau-of-land-management-nomination/",
-      "pubDate": "Thu, 06 Nov 2025 23:10:21 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
