@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-07T09:27:36.628Z",
+  "lastUpdated": "2025-11-07T10:29:00.195Z",
   "articles": [
+    {
+      "title": "‘Hurtling Toward Climate Chaos’ as COP30 Nears",
+      "description": "In a recent science briefing, some of the world’s leading climate researchers said that accelerated warming over the past 10 years is a warning that E...",
+      "link": "https://insideclimatenews.org/news/07112025/climate-chaos-ahead-of-cop30/",
+      "pubDate": "Fri, 07 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hey so one day the ocean might burp up a bunch of heat",
+      "description": "When humans manage to cut enough emissions and eventually reduce global temperatures, new research shows the Southern Ocean could kick warming back in...",
+      "link": "https://grist.org/oceans/hey-so-one-day-the-ocean-might-burp-up-a-bunch-of-heat/",
+      "pubDate": "Fri, 07 Nov 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "After Hurricane Melissa, Jamaica’s climate resilience plan faces its biggest test yet",
+      "description": "A $150 million “catastrophe bond” will help with hurricane recovery, but experts hope financial markets will invest more in adaptation....",
+      "link": "https://grist.org/extreme-weather/jamaica-catastrophe-bond-hurricane-melissa/",
+      "pubDate": "Fri, 07 Nov 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Week in wildlife: a toxic newt, a rescued gibbon and baby flying foxes",
       "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
@@ -139,7 +166,7 @@
     {
       "title": "BBC Inside Science",
       "description": "New evidence that the expansion of the universe is slowing. And the Godfather of AI....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txj?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Nov 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/67c3a461d2388e83bdd5435cee3fd2f1eb723fac/0_0_2918_2334/master/2918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a37451f2e7e8e7bf6fbdefa0585c655"
-    },
-    {
-      "title": "Who are the major players at Cop30 and what do they want?",
-      "description": "&lt;p&gt;Delegates from global giants and smaller nations expected to clash at Brazilian summit over how to tackle the climate crisis and who should p...",
-      "link": "https://www.theguardian.com/environment/2025/nov/06/who-are-the-major-players-at-cop30-and-what-do-they-want",
-      "pubDate": "Thu, 06 Nov 2025 16:50:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6b2975facb6324c55d86b4810de9179feab5d635/7_0_4078_3263/master/4078.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43afda2f501472334623aef51e8e6c1d"
-    },
-    {
-      "title": "Triple-whammy of hottest ever years risks ‘irreversible damage’, says UN",
-      "description": "&lt;p&gt;Experts say 2023, 2024 and 2025 the three hottest years in 176 years of records, with 1.5C Paris agreement target now ‘virtually impossible’&...",
-      "link": "https://www.theguardian.com/environment/2025/nov/06/triple-whammy-of-hottest-ever-years-risks-irreversible-damage-says-un",
-      "pubDate": "Thu, 06 Nov 2025 14:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8ef5290bb4bf68d41deaa369b74be2de2b20af45/346_0_3371_2698/master/3371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f1655e9d0c92e1639b6bae533246649"
-    },
-    {
-      "title": "When the Power Grid Needs Relief from High Demand, Here’s Who You Call",
-      "description": "When electricity supplies are tight, being able to flip a few switches and save 38 gigawatt-hours is a pretty cool trick. CPower Energy said this week...",
-      "link": "https://insideclimatenews.org/news/06112025/inside-clean-energy-cpower-grid-relief/",
-      "pubDate": "Thu, 06 Nov 2025 14:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
