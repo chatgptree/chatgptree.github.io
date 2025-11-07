@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-07T10:29:00.195Z",
+  "lastUpdated": "2025-11-07T11:22:19.741Z",
   "articles": [
+    {
+      "title": "Over 100 US leaders to attend Cop30 climate summit as Trump stays away",
+      "description": "&lt;p&gt;Dozens of US state and local leaders will be at talks in Brazil with president’s team expected to send no representatives&lt;/p&gt;&lt;p&gt;T...",
+      "link": "https://www.theguardian.com/environment/2025/nov/07/cop30-climate-trump-us-officials",
+      "pubDate": "Fri, 07 Nov 2025 11:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d53e0d69c1ee004f90d518669c9da518eb2ec926/331_281_3410_2727/master/3410.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=563f19d225bb654a739afeb985a0e401"
+    },
     {
       "title": "‘Hurtling Toward Climate Chaos’ as COP30 Nears",
       "description": "In a recent science briefing, some of the world’s leading climate researchers said that accelerated warming over the past 10 years is a warning that E...",
@@ -165,21 +174,12 @@
     },
     {
       "title": "BBC Inside Science",
-      "description": "New evidence that the expansion of the universe is slowing. And the Godfather of AI....",
+      "description": "New evidence that the expansion of the universe is slowing. And the Godfather of AI...",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8txj?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Nov 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ignore the howls around pay-per-mile, chancellor. We can’t afford not to tax electric cars",
-      "description": "&lt;p&gt;The issue of how motoring taxes should change as we decarbonise the economy has been dodged for too long. Car salesmen need to get real &lt;/...",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/nov/06/ignore-the-howls-around-pay-per-mile-chancellor-we-cant-afford-not-to-tax-electric-cars",
-      "pubDate": "Thu, 06 Nov 2025 16:51:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67c3a461d2388e83bdd5435cee3fd2f1eb723fac/0_0_2918_2334/master/2918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a37451f2e7e8e7bf6fbdefa0585c655"
     }
   ]
 }
