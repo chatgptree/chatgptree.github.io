@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-11-09T09:23:15.352Z",
+  "lastUpdated": "2025-11-09T10:24:52.042Z",
   "articles": [
+    {
+      "title": "Last youth centre in one of England’s most deprived coastal areas faces closure",
+      "description": "&lt;p&gt;Pie Factory Music in Ramsgate, Kent, runs creative projects and provides a range of support services, but the building that houses the centre...",
+      "link": "https://www.theguardian.com/environment/2025/nov/09/last-youth-centre-in-one-of-englands-most-deprived-coastal-areas-faces-closure",
+      "pubDate": "Sun, 09 Nov 2025 10:00:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/782d790184261669974e8abef79f97d988f79f78/0_0_9371_7493/master/9371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0677d32c0ae3e67e4c7ff7bb0a465e"
+    },
+    {
+      "title": "For Many Disabled Fire Victims in Los Angeles, a Continuing Trauma",
+      "description": "After the Fires:&#160;Fourth in a series about health risks following the Los Angeles wildfires that destroyed Pacific Palisades and Altadena. This st...",
+      "link": "https://insideclimatenews.org/news/09112025/los-angeles-fires-disabled-people-trauma-health-care/",
+      "pubDate": "Sun, 09 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The EV Battery Tech That’s Worth the Hype, According to Experts",
+      "description": "This story was originally published by&#160;Wired. You’ve seen the headlines: This battery breakthrough is going to change the electric vehicle foreve...",
+      "link": "https://insideclimatenews.org/news/09112025/the-ev-battery-tech-thats-worth-the-hype-according-to-experts/",
+      "pubDate": "Sun, 09 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mamdani on Climate",
+      "description": "Climate activists celebrated Tuesday night as assemblymember Zohran Mamdani was elected mayor of New York City. Mamdani, a previously obscure politici...",
+      "link": "https://insideclimatenews.org/news/09112025/icn-sunday-morning-zohran-mamdani-climate/",
+      "pubDate": "Sun, 09 Nov 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Developers met ministers dozens of times over planning bill while ecologists were shut out",
       "description": "&lt;p&gt;Exclusive: Leading ecologists say warnings over threat to wildlife have been ignored in drive to build 1.5m new homes&lt;/p&gt;&lt;p&gt;The s...",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on worsening extreme weather: the injustice of the climate crisis grows ever clearer | Editorial",
-      "description": "&lt;p&gt;The increasing ferocity and frequency of tropical storms imposes an unbearable burden on countries including Jamaica&lt;/p&gt;&lt;p&gt;The ge...",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/07/the-guardian-view-on-worsening-extreme-weather-the-injustice-of-the-climate-crisis-grows-ever-clearer",
-      "pubDate": "Fri, 07 Nov 2025 18:30:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/781cdbcc74e917d5ae087d19dcaa50404907adc2/598_0_4583_3666/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70ad3780c20b32ce7c9a5040461119a1"
-    },
-    {
-      "title": "N.C. Supreme Court Says State Regulators Erred on CAFO Permits",
-      "description": "The North Carolina Supreme Court has ruled in favor of a powerful agribusiness group, concluding that state regulators improperly included three speci...",
-      "link": "https://insideclimatenews.org/news/07112025/north-carolina-supreme-court-cafo-permits/",
-      "pubDate": "Fri, 07 Nov 2025 17:44:33 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Residents of Alaska’s storm-battered Native towns consider moving to higher ground",
-      "description": "&lt;p&gt;Damage from Typhoon Halong underscored the vulnerability of villages in western Alaska to climate crisis&lt;/p&gt;&lt;p&gt;Darrel John watche...",
-      "link": "https://www.theguardian.com/us-news/2025/nov/07/native-alaskans-storm-damage-climate-crisis",
-      "pubDate": "Fri, 07 Nov 2025 17:21:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/763bbbae529031569ed2e7a718558fc1a73e226e/610_0_6101_4881/master/6101.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6b1bf4c78af824a0f4f36a7a683c7ff"
-    },
-    {
-      "title": "Coalition climate dysfunction is all upside for Labor but the words of Keating ‘to run the joint’ ring true | Tom McIlroy",
-      "description": "&lt;p&gt;As the Coalition tears itself to shreds, the Albanese government must keep progressing its net zero policies&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
-      "link": "https://www.theguardian.com/australia-news/commentisfree/2025/nov/08/coalition-climate-dysfunction-net-zero-labor-albanese-paul-keating-run-the-joint",
-      "pubDate": "Fri, 07 Nov 2025 14:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7c0d1201953853556e4cae925c6042e9d6c6cea1/385_0_4999_4000/master/4999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=047765d4cfba01c02d3de17f6ddb9b11"
     }
   ]
 }
