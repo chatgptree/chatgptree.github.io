@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-09T13:28:47.207Z",
+  "lastUpdated": "2025-11-09T14:21:15.198Z",
   "articles": [
+    {
+      "title": "Survey finds 40% of Australian women without kids hesitant to have children because of climate change",
+      "description": "&lt;p&gt;Research which polled a representative sample of 2,000 people also found over a third of Coalition voters believed the climate would not chan...",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/10/climate-change-women-hesitant-to-have-children-australia",
+      "pubDate": "Sun, 09 Nov 2025 14:00:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b19b43885acaafab8bb4cfe0e38323555e00aa79/341_0_3365_2692/master/3365.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0b0d5ad05e861d9cddbb254e97af9ec"
+    },
+    {
+      "title": "The EV battery tech that’s worth the hype, according to experts",
+      "description": "Major battery breakthroughs seemingly happen every day, but only some of that tech ever leaves the lab. WIRED breaks down what’s actually going to cha...",
+      "link": "https://grist.org/transportation/the-ev-battery-tech-thats-worth-the-hype-according-to-experts/",
+      "pubDate": "Sun, 09 Nov 2025 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "UK banks still committed to climate goals, Bank of England executive insists",
       "description": "&lt;p&gt;Exclusive: David Bailey plays down concerns after HSBC and Barclays quit UN-backed Net Zero Banking Alliance&lt;/p&gt;&lt;p&gt;A Bank of Engl...",
@@ -72,15 +90,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Environmental catastrophe’ fears as millions of plastic beads wash up on Camber Sands",
-      "description": "&lt;p&gt;MP asks for explanation from Southern Water amid concerns the spill could have dire impact on rare sea life&lt;/p&gt;&lt;p&gt;Southern Water ...",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/08/environmental-catastrophe-fears-as-millions-of-plastic-beads-wash-up-on-camber-sands",
-      "pubDate": "Sat, 08 Nov 2025 20:22:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/82f74d4fcda3e53e818d464c60533586e3f50d69/0_0_1788_1430/master/1788.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8b3d8d219e9daec0e0fad9c0339de5b"
     },
     {
       "title": "Trump’s anti-climate agenda is making it more expensive to own a car",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cyr70zznpjxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Nov 2025 20:22:44 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "States and Nonprofits Are Helping National Parks Run During the Shutdown. Could Their Efforts Backfire?",
-      "description": "COLUMBIA FALLS, Mont.—Glacier National Park’s Going-to-the-Sun Road, completed in 1933, weaves past meandering streams, expansive valleys, stoic limes...",
-      "link": "https://insideclimatenews.org/news/07112025/states-nonprofits-help-national-parks-run-during-government-shutdown/",
-      "pubDate": "Fri, 07 Nov 2025 19:50:57 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
