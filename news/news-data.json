@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-10T10:31:16.394Z",
+  "lastUpdated": "2025-11-10T11:23:02.556Z",
   "articles": [
+    {
+      "title": "Southern Water apologises for catastrophic spill of plastic biobeads in Sussex",
+      "description": "&lt;p&gt;Resulting pollution on Camber Sands beach poses threat to wildlife including dolphins and seals&lt;/p&gt;&lt;p&gt;Southern Water has taken re...",
+      "link": "https://www.theguardian.com/environment/2025/nov/10/southern-water-spill-plastic-biobeads-sussex-camber-sands",
+      "pubDate": "Mon, 10 Nov 2025 11:06:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d807aecdb75607545b9fcfa13ac1605cecd8c089/414_0_4172_3338/master/4172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4366bc68b9541cab47e25eead80d14f2"
+    },
     {
       "title": "The temperature at Cop30: Trump’s absence better than a US wrecking ball",
       "description": "&lt;p&gt;After bully-like behavior last month over a small emissions levy,  diplomats will be relieved if the US stays away from climate talks&lt;/p&g...",
@@ -18,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/39bcfe364e3cce8c53a8a6dccc2fe5219a89ed5c/653_976_9454_7567/master/9454.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3776097e0b9d76e3e6743010d49fff12"
+    },
+    {
+      "title": "A Disease-Carrying Mosquito Has Landed in the Rocky Mountains Where It Historically Couldn’t Survive",
+      "description": "GRAND JUNCTION, Colo.—It can carry life-threatening diseases. It’s difficult to find and hard to kill. And it’s obsessed with human blood.&#160; The A...",
+      "link": "https://insideclimatenews.org/news/10112025/colorado-invasive-dengue-fever-mosquito/",
+      "pubDate": "Mon, 10 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Are we all living in Florida now? The rise of &#8216;don&#8217;t say climate&#8217; politics.",
@@ -155,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/e6452478e32ee2399ef2fd38a40790f4cea572ce/1280_0_6440_5152/master/6440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01d668eec1c0b64a9b939ec3b1111d7a"
     },
     {
-      "title": "Twice as effective as nets: shark-spotting drones to become ‘permanent fixture’ on Queensland beaches",
-      "description": "&lt;p&gt;State government says expanded use of shark nets and drum lines will continue despite evidence of deadly impact on other marine life&lt;/p&gt...",
-      "link": "https://www.theguardian.com/environment/2025/nov/10/twice-as-effective-as-nets-shark-spotting-drones-to-become-permanent-fixture-on-queensland-beaches",
-      "pubDate": "Mon, 10 Nov 2025 00:00:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/773bb23a8ec0a1c25509932f2bce1d17cecf563a/317_0_4612_3688/master/4612.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abe4aa94887f7bd89f24c14aa262c423"
-    },
-    {
       "title": "The EV battery tech that’s worth the hype, according to experts",
       "description": "Major battery breakthroughs seemingly happen every day, but only some of that tech ever leaves the lab. WIRED breaks down what’s actually going to cha...",
       "link": "https://grist.org/transportation/the-ev-battery-tech-thats-worth-the-hype-according-to-experts/",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Last youth centre in one of England’s most deprived coastal areas faces closure",
-      "description": "&lt;p&gt;Pie Factory Music in Ramsgate, Kent, runs creative projects and provides a range of support services, but the building that houses the centre...",
-      "link": "https://www.theguardian.com/environment/2025/nov/09/last-youth-centre-in-one-of-englands-most-deprived-coastal-areas-faces-closure",
-      "pubDate": "Sun, 09 Nov 2025 10:00:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/782d790184261669974e8abef79f97d988f79f78/0_0_9371_7493/master/9371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0677d32c0ae3e67e4c7ff7bb0a465e"
     }
   ]
 }
