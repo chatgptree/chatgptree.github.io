@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-11T08:34:54.834Z",
+  "lastUpdated": "2025-11-11T09:29:14.410Z",
   "articles": [
+    {
+      "title": "Wessex Water must pay £11m over wastewater failures, says regulator",
+      "description": "&lt;p&gt;Company failed to effectively operate, maintain and upgrade its wastewater assets, Ofwat finds&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hr...",
+      "link": "https://www.theguardian.com/business/2025/nov/11/wessex-water-pay-wastewater-failures-ofwat",
+      "pubDate": "Tue, 11 Nov 2025 09:04:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6140ac779971d22cb7a24b15fb3deb9fe1f4bc3a/17_0_4187_3350/master/4187.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a67173a836e4de1509bcc15c8a17516"
+    },
+    {
+      "title": "Government sets out plan to phase out animal experiments",
+      "description": "The plan follows up on a manifesto promise to work towards the phasing out the practice.\n\n...",
+      "link": "https://www.bbc.com/news/articles/cm2lpekjeg9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Nov 2025 08:34:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Violent reprisals after DRC whistleblowers discover profiteering in protected land",
       "description": "&lt;p&gt;Environmentalists seeking to end logging, smuggling and pollution in DRC’s Mangrove Marine park faced threats, violence and rape&lt;/p&gt;&lt...",
@@ -83,15 +101,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "China’s CO2 emissions have been flat or falling for past 18 months, analysis finds",
-      "description": "&lt;p&gt;World’s biggest polluter on track to hit peak emissions target early but miss goal for cutting carbon intensity&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
-      "link": "https://www.theguardian.com/world/2025/nov/11/china-co2-emissions-flat-or-falling-for-past-18-months-analysis-finds",
-      "pubDate": "Tue, 11 Nov 2025 00:01:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f973606225dde66d0ac6dabe8a8e0b0686f97a43/816_0_5053_4044/master/5053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dedb28785d5b0cee78e3729ebf8241c"
-    },
-    {
       "title": "Data centers meet resistance over environmental concerns as AI boom spreads in Latin America",
       "description": "&lt;p&gt;An expert describes how communities in some of the world’s driest areas are demanding transparency as secretive governments court billions in...",
       "link": "https://www.theguardian.com/technology/2025/nov/10/data-centers-latin-america",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/11/election-energy-electricity-rates-prices-issue-climate.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "UN climate talks are built on consensus. That&#8217;s part of the problem.",
-      "description": "At COP, the requirement that countries find consensus before taking action has stalled climate progress for decades. Experts say there's a better way....",
-      "link": "https://grist.org/cop30/un-climate-treaty-voting-by-consensus/",
-      "pubDate": "Mon, 10 Nov 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/cop30-climate-brazil-belem.jpg?quality=75&#038;strip=all"
     }
   ]
 }
