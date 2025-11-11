@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-10T23:25:11.812Z",
+  "lastUpdated": "2025-11-11T02:05:53.905Z",
   "articles": [
+    {
+      "title": "‘It’s Not Too Late:’ New Cornell Study Maps the Environmental Cost of AI and How Policy Could Limit the Damage",
+      "description": "When Cornell University systems engineer Fengqi You started modeling the environmental footprint of data centers three years ago, the AI boom was just...",
+      "link": "https://insideclimatenews.org/news/10112025/ai-growth-environmental-damage-study/",
+      "pubDate": "Tue, 11 Nov 2025 00:21:40 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "China’s CO2 emissions have been flat or falling for past 18 months, analysis finds",
+      "description": "&lt;p&gt;World’s biggest polluter on track to hit peak emissions target early but miss goal for cutting carbon intensity&lt;/p&gt;&lt;p&gt;China’s car...",
+      "link": "https://www.theguardian.com/world/2025/nov/11/china-co2-emissions-flat-or-falling-for-past-18-months-analysis-finds",
+      "pubDate": "Tue, 11 Nov 2025 00:01:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/60c74898a5a792a2109f68143d9dae9ae3466bc0/125_0_3749_3000/master/3749.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74304e47c823a5770553f49118b7d9ea"
+    },
+    {
+      "title": "Data centers meet resistance over environmental concerns as AI boom spreads in Latin America",
+      "description": "&lt;p&gt;An expert describes how communities in some of the world’s driest areas are demanding transparency as secretive governments court billions in...",
+      "link": "https://www.theguardian.com/technology/2025/nov/10/data-centers-latin-america",
+      "pubDate": "Mon, 10 Nov 2025 23:58:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/32eea00d14ec6817f74922074e0cd7f2feb54680/436_0_3847_3078/master/3847.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ed99bcc3e836611fecad550a47ee2c2"
+    },
     {
       "title": "Agenda for Cop30 agreed as crucial climate talks begin – as it happened",
       "description": "&lt;p&gt;Ministers and high-ranking officials from nearly 200 countries have gathered in the Amazonian city of Belem, with Brazil insisting this will ...",
@@ -45,15 +72,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6dc3aa0531099b6af7bdbde62954f6a3601e9a72/809_128_3369_2694/master/3369.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fe7c1cffd19464d6376b920cd8769c5"
-    },
-    {
-      "title": "Southern Water apologises for catastrophic spill of plastic biobeads in Sussex",
-      "description": "&lt;p&gt;Resulting pollution on Camber Sands beach poses threat to wildlife including dolphins and seals&lt;/p&gt;&lt;p&gt;Southern Water has taken re...",
-      "link": "https://www.theguardian.com/environment/2025/nov/10/southern-water-spill-plastic-biobeads-sussex-camber-sands",
-      "pubDate": "Mon, 10 Nov 2025 14:20:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d807aecdb75607545b9fcfa13ac1605cecd8c089/414_0_4172_3338/master/4172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4366bc68b9541cab47e25eead80d14f2"
     },
     {
       "title": "Trump officials set to approve ‘forever chemical’ as pesticide ingredient",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/AspiraDAC-Image-2-1024x576.jpg"
-    },
-    {
-      "title": "FM Announces Enhanced Resilience Credit of US$825 Million to Support Client Investment in Resilience",
-      "description": "New program expands FM’s landmark climate-focused resilience credit to include operational resilience to help FM clients invest in protection and prev...",
-      "link": "https://econews.com.au/68221/fm-announces-enhanced-resilience-credit-of-us825-million-to-support-client-investment-in-resilience/",
-      "pubDate": "Mon, 10 Nov 2025 09:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "LOSTMTNS EXPANDS ITS AWARD-WINNING CULT COLLECTION WITH SWIM AND CAMP – FRESH GUIDES FOR SUMMER ESCAPES IN THE BLUE MOUNTAINS",
-      "description": "Two new guides unlock hidden swimming holes and remote campsites across NSW’s most-visited national park Adventure publisher LostMnts has unveiled two...",
-      "link": "https://econews.com.au/68219/lostmtns-expands-its-award-winning-cult-collection-with-swim-and-camp-fresh-guides-for-summer-escapes-in-the-blue-mountains/",
-      "pubDate": "Mon, 10 Nov 2025 09:03:12 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
