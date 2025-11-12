@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-12T06:39:42.485Z",
+  "lastUpdated": "2025-11-12T07:26:00.742Z",
   "articles": [
+    {
+      "title": "Fossil fuel projects around the world threaten the health of 2bn people – report",
+      "description": "&lt;p&gt;Exclusive: ‘Deep-rooted injustices’ affect billions of people due to location of  wells, pipelines and other infrastructure&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2025/nov/12/fossil-fuel-projects-health-research",
+      "pubDate": "Wed, 12 Nov 2025 07:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b7bcc04101649f6d0959ebee29bed411f8cee9df/310_0_3080_2464/master/3080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a76ff88ec07977df0cb342eab664dbb"
+    },
     {
       "title": "Supply boom in cheaper renewables will seal end of fossil fuel era, says IEA",
       "description": "&lt;p&gt;Watchdog’s flagship report says rise in low-carbon electricity will make transition ‘inevitable’, despite Trump’s calls to carry on drilling&...",
@@ -9,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/38a8dd1564f7167e688d1e77ea93e135d5d996f5/672_0_3516_2813/master/3516.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ccfa42ef1c85d9b981129b4cb759805b"
+    },
+    {
+      "title": "Protesters break into COP30 venue in Brazil",
+      "description": "More than 200 delegations, including senior world leaders, are attending the UN climate talks. ...",
+      "link": "https://www.bbc.com/news/articles/c0l7yjgn050o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Nov 2025 02:50:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Tussles break out between protesters and security at Cop30 in Brazil",
@@ -81,15 +99,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Removing CO2 from atmosphere vital to avoid catastrophic tipping points, leading scientist says",
-      "description": "&lt;p&gt;10bn tonnes must be captured from the air every year to limit global heating to 1.7C, says Johan Rockström&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
-      "link": "https://www.theguardian.com/environment/2025/nov/11/leading-scientist-says",
-      "pubDate": "Tue, 11 Nov 2025 18:18:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/897e6c3ecab05c7a8d886954b1dad0ad458f9808/598_0_3938_3150/master/3938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00a28edc70d40061954b7b4c9585c125"
     },
     {
       "title": "Ben Jennings on Cop30 – cartoon",
@@ -169,15 +178,6 @@
       "link": "https://grist.org/global-indigenous-affairs-desk/the-pacific-won-a-landmark-climate-case-at-the-worlds-top-court-now-they-want-countries-to-act/",
       "pubDate": "Tue, 11 Nov 2025 09:30:00 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Government sets out plan to phase out animal experiments",
-      "description": "The plan follows up on a manifesto promise to work towards the phasing out the practice.\n\n...",
-      "link": "https://www.bbc.com/news/articles/cm2lpekjeg9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Nov 2025 08:34:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
