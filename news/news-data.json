@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-11-12T17:26:04.397Z",
+  "lastUpdated": "2025-11-12T18:35:54.688Z",
   "articles": [
     {
-      "title": "Cop30 live: US looms over talks despite absence as protests at venue continue",
-      "description": "&lt;p&gt;Day three at the Belem summit is expected to see more protests as crucial climate negotiations begin in earnest&lt;/p&gt;&lt;p&gt;Hello comra...",
+      "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
+      "description": "&lt;p&gt;Former US vice-president also critical of Donald Trump and Bill Gates as negotiations begin in earnest&lt;/p&gt;&lt;p&gt;Hello comrades, this...",
       "link": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
-      "pubDate": "Wed, 12 Nov 2025 17:14:17 GMT",
+      "pubDate": "Wed, 12 Nov 2025 18:16:57 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/55bd1d177999bd2ed545b4e43204921d548678cb/351_1_4921_3937/master/4921.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e94170322a483f7ab6b22dea5df9b379"
+    },
+    {
+      "title": "Data Centers’ Use of Diesel Generators for Backup Power Is Commonplace—and Problematic",
+      "description": "“Five nines.”&#160; In the world of data centers, ensuring a facility will be online 99.999 percent of the time, is everything. Access to power is the...",
+      "link": "https://insideclimatenews.org/news/12112025/data-center-diesel-generators-noise-pollution/",
+      "pubDate": "Wed, 12 Nov 2025 18:02:42 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Western US states fail to agree on plan to manage Colorado River before federal deadline",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/48239332773c997642a9775d8bf091b17e94cede/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da92dfa647a70c78e54a46663c2c60ee"
-    },
-    {
-      "title": "Poor Air, Glaring Lights and Stress Could Hobble COP30 Climate Talks",
-      "description": "Some social scientists propose a shift in perspective when it comes to the climate crisis. Instead of approaching it as a fight to be won, viewing it ...",
-      "link": "https://insideclimatenews.org/news/11112025/cop30-indoor-environmental-conditions-health/",
-      "pubDate": "Tue, 11 Nov 2025 18:34:16 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
