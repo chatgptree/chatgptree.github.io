@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-13T07:25:41.599Z",
+  "lastUpdated": "2025-11-13T08:35:22.038Z",
   "articles": [
+    {
+      "title": "Malcolm Turnbull accuses Liberals of ‘Trumpian campaign against renewables’ after party dumps net zero",
+      "description": "&lt;p&gt;Climate groups call backflip a ‘disaster’ while moderate Liberals worry about impact on winning back urban electorates&lt;/p&gt;&lt;ul&gt;&lt...",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/13/malcom-turnbull-accuses-liberals-of-trumpian-campaign-against-renewables-after-party-dumps-net-zero",
+      "pubDate": "Thu, 13 Nov 2025 07:08:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2b731834392b328d9d11ab626bd8571a6a76c228/367_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8662e463de63fa579180e6b494f626e4"
+    },
     {
       "title": "The Liberals’ new emissions policy is bursting with contradictions – and is unlikely to be what voters want | Tom McIlroy",
       "description": "&lt;p&gt;Sussan Ley appears to have given up trying to meet voters where they are, instead allowing conservative MPs to dictate policy to keep her job...",
@@ -9,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/705d3f7ac154231b9551be98ded1c549f77fd7df/423_0_4230_3384/master/4230.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d02127a1d6c4d2ba90e82d6c45668005"
+    },
+    {
+      "title": "UK's first small nuclear power station to be built in north Wales",
+      "description": "Three small modular reactors are confirmed for the site, with the potential for up to eight....",
+      "link": "https://www.bbc.com/news/articles/c051y3d7myzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Nov 2025 06:15:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Liberals formally abandon net zero by 2050 but Ley says reaching target would still be ‘welcome outcome’",
@@ -54,6 +72,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/HeyDoodle_Forever-Greeting-Cards_1.jpg"
+    },
+    {
+      "title": "Fossil fuel emissions rise again - but renewables boom offers hope for climate",
+      "description": "Carbon emissions from burning fossil fuels are forecast to reach a new high in 2025 but could soon peak....",
+      "link": "https://www.bbc.com/news/articles/c620q30w0q0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Nov 2025 03:16:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "The Whyalla steelworks might be the best place in the world to make low-cost green iron. Will Labor seize the moment? | Rod Sims and Baethan Mullan",
@@ -137,15 +164,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/BCS-Concrete-Crack-Repair-1024x768.png"
     },
     {
-      "title": "World still on track for catastrophic 2.6C temperature rise, report finds",
-      "description": "&lt;p&gt;Fossil fuel emissions have hit a record high while many nations have done too little to avert deadly global heating&lt;/p&gt;&lt;p&gt;The wor...",
-      "link": "https://www.theguardian.com/environment/2025/nov/13/world-still-on-track-for-catastrophic-26c-temperature-rise-report-finds",
-      "pubDate": "Thu, 13 Nov 2025 00:01:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4f7811dce7178ef7f38f156e24f9e42833e92f02/0_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8fd6de57e6fed11c4623d32e978875a"
-    },
-    {
       "title": "Built to Fail: Rules at UN Climate Talks Favor the Status Quo, Not Progress",
       "description": "Frustration about slow progress at the United Nations climate talks boiled over this week. After hours under the equatorial sun at COP30 in Belém, Bra...",
       "link": "https://insideclimatenews.org/news/12112025/un-cop-climate-talks-favor-status-quo-not-progress/",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/92f49b23b30c07152c344c5f1acccbe5d3a1e1d0/666_0_4343_3474/master/4343.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db0235f1934cac705f6c2e1e30800f79"
-    },
-    {
-      "title": "ConocoPhillips Wants to Explore for Oil in an Arctic Wilderness",
-      "description": "When she was younger, Rosemary Ahtuangaruak used to camp for weeks at a time with family at their allotment near Teshekpuk Lake, on Alaska’s North Slo...",
-      "link": "https://insideclimatenews.org/news/12112025/conocophillips-alaska-arctic-wilderness-oil-exploratory-drilling/",
-      "pubDate": "Wed, 12 Nov 2025 19:59:13 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Data Centers’ Use of Diesel Generators for Backup Power Is Commonplace—and Problematic",
-      "description": "“Five nines.”&#160; In the world of data centers, ensuring a facility will be online 99.999 percent of the time, is everything. Access to power is the...",
-      "link": "https://insideclimatenews.org/news/12112025/data-center-diesel-generators-noise-pollution/",
-      "pubDate": "Wed, 12 Nov 2025 18:02:42 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
