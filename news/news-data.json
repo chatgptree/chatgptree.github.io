@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-13T09:29:29.002Z",
+  "lastUpdated": "2025-11-13T10:31:12.149Z",
   "articles": [
+    {
+      "title": "Rare Sightings of Critically Endangered Vaquita Spark Cautious Optimism About the Species’ Ability to Recover",
+      "description": "To spot a vaquita porpoise requires calm winds, clear skies and waters smooth as glass. But in September, those conditions were hard to come by off th...",
+      "link": "https://insideclimatenews.org/news/13112025/critically-endangered-vaquita-sightings-recovery-hope/",
+      "pubDate": "Thu, 13 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Inside the Fight to Stop the Illegal Trade Driving the Vaquita Porpoise Toward Extinction",
+      "description": "In Mexico’s Upper Gulf of California, a lucrative and deadly wildlife trade continues to threaten the survival of the world’s most endangered marine m...",
+      "link": "https://insideclimatenews.org/news/13112025/andrea-crosta-earth-league-international-fight-to-stop-totoaba-illegal-trade/",
+      "pubDate": "Thu, 13 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What will it take to rebuild Jamaica’s food system after Hurricane Melissa?",
+      "description": "For farmers in the nation’s breadbasket, surviving this storm is no guarantee against the next one....",
+      "link": "https://grist.org/food-and-agriculture/jamaica-food-system-after-hurricane-melissa/",
+      "pubDate": "Thu, 13 Nov 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/Miami-Beach-shoreline-construction.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "UK's first small nuclear power station to be built in north Wales",
       "description": "Three small modular reactors are confirmed for the site, with the potential for up to eight....",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/image002-5.jpg"
-    },
-    {
-      "title": "Why Repairing Concrete Should Come Before Recycling This National Recycling Week",
-      "description": "As Australia prepares for National Recycling Week (10–16 November), Building Chemical Supplies says the path to sustainability starts with repair, not...",
-      "link": "https://econews.com.au/68251/why-repairing-concrete-should-come-before-recycling-this-national-recycling-week/",
-      "pubDate": "Thu, 13 Nov 2025 01:03:11 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/BCS-Concrete-Crack-Repair-1024x768.png"
-    },
-    {
-      "title": "Built to Fail: Rules at UN Climate Talks Favor the Status Quo, Not Progress",
-      "description": "Frustration about slow progress at the United Nations climate talks boiled over this week. After hours under the equatorial sun at COP30 in Belém, Bra...",
-      "link": "https://insideclimatenews.org/news/12112025/un-cop-climate-talks-favor-status-quo-not-progress/",
-      "pubDate": "Wed, 12 Nov 2025 22:45:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Al Gore wonders if ‘bullying’ Trump prompted Bill Gates to backtrack on climate",
-      "description": "&lt;p&gt;Exclusive interview with ex-US vice-president at Cop30 also reveals his hope around much-maligned climate summit&lt;/p&gt;&lt;p&gt;Fear of be...",
-      "link": "https://www.theguardian.com/us-news/2025/nov/12/al-gore-cop30-climate",
-      "pubDate": "Wed, 12 Nov 2025 21:05:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/92f49b23b30c07152c344c5f1acccbe5d3a1e1d0/666_0_4343_3474/master/4343.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db0235f1934cac705f6c2e1e30800f79"
     }
   ]
 }
