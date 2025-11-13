@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2025-11-13T18:37:55.144Z",
+  "lastUpdated": "2025-11-13T19:21:28.222Z",
   "articles": [
+    {
+      "title": "Our dogs' diversity can be traced back to the Stone Age",
+      "description": "A new study suggests their physical transformation began much earlier than we previously thought....",
+      "link": "https://www.bbc.com/news/articles/ce9d7j89ykro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Nov 2025 19:00:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cop30 live: ‘We will exterminate ourselves’ if we keep extracting fossil fuels, activists say",
       "description": "&lt;p&gt;Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mo...",
       "link": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
-      "pubDate": "Thu, 13 Nov 2025 17:40:31 GMT",
+      "pubDate": "Thu, 13 Nov 2025 18:31:26 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9379041f82b328b6f0e3a5ddee4dbd850b238abb/259_0_2949_2359/master/2949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e82cd7bbf346d20990ec1d4bb8f7a1"
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As a conservative Liberal senator I see no coherent reason to run away from a net zero target | Andrew McLachlan",
-      "description": "&lt;p&gt;We cannot claim to be of the right of politics yet shy away from targets that hold us to account, especially ones that were once the Liberals...",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/13/liberal-senator-andrew-mclachlan-net-zero-emissions-target",
-      "pubDate": "Thu, 13 Nov 2025 01:13:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9c17f22e875db100eb6404b396ed0be05ad20577/705_0_5606_4487/master/5606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b40f726df0e90bc875e904426a76142"
     }
   ]
 }
