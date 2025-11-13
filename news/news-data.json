@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2025-11-13T14:25:58.935Z",
+  "lastUpdated": "2025-11-13T15:28:37.922Z",
   "articles": [
     {
+      "title": "UK's first small nuclear power station to be built in north Wales",
+      "description": "Three small modular reactors are confirmed for the site, with the potential for up to eight....",
+      "link": "https://www.bbc.com/news/articles/c051y3d7myzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Nov 2025 15:09:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Body of missing coal miner found in flooded West Virginia mine, governor says",
+      "description": "&lt;p&gt;Mining crew had hit unknown pocket of water last Saturday about three-quarters of a mile into the mine&lt;/p&gt;&lt;p&gt;Crews have found the...",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/body-missing-coal-miner-found-west-virginia",
+      "pubDate": "Thu, 13 Nov 2025 15:05:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0fca7dfb80af61040ea62008e988ad4d6fa42b66/655_0_3860_3091/master/3860.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c220b8e228441a1c0b894795a0bb0aab"
+    },
+    {
       "title": "Cop30 live: calls for ‘just transition’ plan grow as report warns world on track for 2.6C of heating",
-      "description": "&lt;p&gt;Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ac...",
+      "description": "&lt;p&gt;Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mo...",
       "link": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
-      "pubDate": "Thu, 13 Nov 2025 14:07:16 GMT",
+      "pubDate": "Thu, 13 Nov 2025 14:53:42 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9379041f82b328b6f0e3a5ddee4dbd850b238abb/259_0_2949_2359/master/2949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e82cd7bbf346d20990ec1d4bb8f7a1"
@@ -16,15 +34,6 @@
       "link": "https://insideclimatenews.org/news/13112025/inside-clean-energy-just-about-everyone-hates-data-centers/",
       "pubDate": "Thu, 13 Nov 2025 14:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK's first small nuclear power station to be built in north Wales",
-      "description": "Three small modular reactors are confirmed for the site, with the potential for up to eight....",
-      "link": "https://www.bbc.com/news/articles/c051y3d7myzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Nov 2025 13:56:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "AMPYR and Green Gold Energy to transform Port Augusta coal site with next-generation battery storage",
-      "description": "AMPYR CEO Alex Wonhas  AMPYR Australia (AMPYR) has today announced an agreement with Green Gold Energy (GGE) to acquire the Davenport battery energy s...",
-      "link": "https://econews.com.au/68255/ampyr-and-green-gold-energy-to-transform-port-augusta-coal-site-with-next-generation-battery-storage/",
-      "pubDate": "Thu, 13 Nov 2025 01:03:16 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Location-shot-1-1024x768.jpg"
     }
   ]
 }
