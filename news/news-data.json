@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2025-11-13T13:39:08.130Z",
+  "lastUpdated": "2025-11-13T14:25:58.935Z",
   "articles": [
     {
-      "title": "UK's first small nuclear power station to be built in north Wales",
-      "description": "Three small modular reactors are confirmed for the site, with the potential for up to eight....",
-      "link": "https://www.bbc.com/news/articles/c051y3d7myzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Nov 2025 13:03:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
+      "title": "Cop30 live: calls for ‘just transition’ plan grow as report warns world on track for 2.6C of heating",
+      "description": "&lt;p&gt;Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ac...",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
+      "pubDate": "Thu, 13 Nov 2025 14:07:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9379041f82b328b6f0e3a5ddee4dbd850b238abb/259_0_2949_2359/master/2949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e82cd7bbf346d20990ec1d4bb8f7a1"
+    },
+    {
+      "title": "A New Unifying Issue: Just About Everyone Hates Data Centers",
+      "description": "It’s not a novel observation to say that supporters of President Donald Trump and supporters of U.S. Sen. Bernie Sanders find common ground on many is...",
+      "link": "https://insideclimatenews.org/news/13112025/inside-clean-energy-just-about-everyone-hates-data-centers/",
+      "pubDate": "Thu, 13 Nov 2025 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Cop30 live: calls for ‘just transition’ plan grow as report warns world on track for 2.6C of heating",
-      "description": "&lt;p&gt;Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heating&lt;/p&gt;&lt;p&gt;Away from the of...",
-      "link": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
-      "pubDate": "Thu, 13 Nov 2025 12:42:33 GMT",
-      "sourceName": "theguardian.com",
+      "title": "UK's first small nuclear power station to be built in north Wales",
+      "description": "Three small modular reactors are confirmed for the site, with the potential for up to eight....",
+      "link": "https://www.bbc.com/news/articles/c051y3d7myzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Nov 2025 13:56:03 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/9379041f82b328b6f0e3a5ddee4dbd850b238abb/259_0_2949_2359/master/2949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e82cd7bbf346d20990ec1d4bb8f7a1"
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Oversupply of oil could create glut of 4m barrels a day, says energy watchdog",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Location-shot-1-1024x768.jpg"
-    },
-    {
-      "title": "Epson launches partnership and Smart Factory with Citizen Wolf and collaboration with OzHarvest Ventures",
-      "description": "(l-r) Epson A/NZ MD Craig Heckenberg, OzHarvest founder Ronni Kahn and Citizen Wolf co-founder Eric Phu Supporting sustainable manufacturing and minim...",
-      "link": "https://econews.com.au/68253/epson-launches-partnership-and-smart-factory-with-citizen-wolf-and-collaboration-with-ozharvest-ventures/",
-      "pubDate": "Thu, 13 Nov 2025 01:03:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/image002-5.jpg"
     }
   ]
 }
