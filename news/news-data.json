@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-15T09:24:27.130Z",
+  "lastUpdated": "2025-11-15T10:26:05.200Z",
   "articles": [
+    {
+      "title": "Decades After the U.S. Government Conducted Research Beneath This City, a Promising Clean Energy Technology Returns to Its Roots",
+      "description": "ST. PAUL, Minn.—Nearly half a century ago, the U.S. Department of Energy launched a clean energy experiment beneath the University of Minnesota with a...",
+      "link": "https://insideclimatenews.org/news/15112025/st-paul-minnesota-geothermal-drilling/",
+      "pubDate": "Sat, 15 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Glaciers Melt, the Earth’s Cryosphere Is on Thin Ice",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Miriam Jackson, the Eu...",
+      "link": "https://insideclimatenews.org/news/15112025/glacier-melt-earth-cryosphere/",
+      "pubDate": "Sat, 15 Nov 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘We feel we’re fighting a losing battle’: the race to remove millions of plastic beads from Camber Sands",
       "description": "&lt;p&gt;A huge cleanup effort has seen volunteers working to remove beads by hand and machine. They can only wait and see the extent of damage to wil...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/11/Loki-on-a-hike.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Week in wildlife: a chilled capybara, a bear at nursery and a Welsh polecat",
-      "description": "&lt;p&gt;The best of this week’s wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/nov/14/week-in-wildlife-a-chilled-capybara-a-bear-at-nursery-and-a-welsh-polecat",
-      "pubDate": "Fri, 14 Nov 2025 08:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b1a6f622becb707e4ef1307aa73291ae92a2e3e5/2066_0_9956_7965/master/9956.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6df001b2934a4ac58eaaba64571535d"
-    },
-    {
-      "title": "Adelaide and Parafield first Australian airports to reach highest level of Airport Carbon Accreditation",
-      "description": "Adelaide and Parafield Airports have become the first airports in Australia to be recognised by the global Airport Carbon Accreditation program for re...",
-      "link": "https://econews.com.au/68275/adelaide-and-parafield-first-australian-airports-to-reach-highest-level-of-airport-carbon-accreditation/",
-      "pubDate": "Fri, 14 Nov 2025 06:03:11 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/horizontal-logo-1024x449.png"
     }
   ]
 }
