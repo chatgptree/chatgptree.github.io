@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-15T15:23:52.372Z",
+  "lastUpdated": "2025-11-15T16:29:25.059Z",
   "articles": [
+    {
+      "title": "Thousands take to streets to protest against climate change",
+      "description": "Demonstrators marched through Glasgow city centre on a day of global action to coincide with the COP30 climate talks in Brazil....",
+      "link": "https://www.bbc.com/news/articles/cly4r9ggqleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Nov 2025 16:24:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Crowds march on doorstep of COP30 climate summit",
       "description": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/af09fa2dd81df753cc83828e3d85d6a8573932d1/508_0_3866_3095/master/3866.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90af50095e586a49ea87c56038f42aff"
-    },
-    {
-      "title": "How a Texas shrimper stalled Exxon’s $10bn plastics plant | Shilpi Chhotray",
-      "description": "&lt;p&gt;Diane Wilson recognized Exxon’s playbook – and showed how local people can take on even the most entrenched industries&lt;/p&gt;&lt;p&gt;When...",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/14/texas-shrimper-exxon-plastics",
-      "pubDate": "Fri, 14 Nov 2025 13:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/96f000c2ed70d4662b5c288663304e8fe409bd3c/215_0_2570_2056/master/2570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d37f789728a701367119b80745cfc5b7"
     }
   ]
 }
