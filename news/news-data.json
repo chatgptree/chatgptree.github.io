@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-16T13:29:17.535Z",
+  "lastUpdated": "2025-11-16T14:22:40.942Z",
   "articles": [
+    {
+      "title": "The last frontier of empathy: why we still struggle to see ourselves as animals | Megan Mayhew Bergman",
+      "description": "&lt;p&gt;Champions of exceptionalism say humans hold a unique moral status. Yet there’s only one species recklessly destroying the planet it needs to ...",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2025/nov/16/human-exceptionalism-essay",
+      "pubDate": "Sun, 16 Nov 2025 14:00:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/94e788b577ee4c890e4af95eb57252e27f4c1e9c/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d5b42f5de08113da01607aa16f48b61"
+    },
+    {
+      "title": "The birth of the climate doula",
+      "description": "In Florida, a new pilot program teaches doulas how to prepare pregnant people for hurricanes, flooding, and extreme heat — addressing a growing climat...",
+      "link": "https://grist.org/health/the-birth-of-the-climate-doula/",
+      "pubDate": "Sun, 16 Nov 2025 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/GettyImages-650522810-1.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Flooded and forgotten: the UK’s waters are rising and we’re being kept in the dark | John Harris",
       "description": "&lt;p&gt;Rescue operations in Wales, submerged railway lines in Cornwall – these events are ever more common. So why have we utterly failed to prepare...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Thousands take to streets to highlight 'climate emergency'",
-      "description": "Demonstrators marched through Glasgow city centre on a day of global action to coincide with the COP30 climate talks in Brazil....",
-      "link": "https://www.bbc.com/news/articles/cly4r9ggqleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Nov 2025 16:24:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Plastic paradise: on the frontlines of the fight to clean up pollution in Bali – in pictures",
-      "description": "&lt;p&gt;In January the island’s beaches were inundated with waves of plastic pollution, a phenomenon that has been getting worse by the year. Photogr...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/nov/16/plastic-paradise-on-the-frontlines-of-the-fight-to-clean-up-pollution-in-bali-in-pictures",
-      "pubDate": "Sat, 15 Nov 2025 14:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/938e80701fd911ca38163ed50b627885917987b8/174_0_1502_1201/master/1502.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb80bc9a731193c62a6adc874302697f"
     }
   ]
 }
