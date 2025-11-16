@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2025-11-16T08:32:15.607Z",
+  "lastUpdated": "2025-11-16T09:25:11.906Z",
   "articles": [
     {
-      "title": "Açai is everywhere - but the next \"superfood\" could be emerging from the Amazon",
-      "description": "Move over açaí berries - a new superfood could be emerging from the Amazon rainforest....",
+      "title": "Move over açaí - the Amazon has more 'superfoods' to offer",
+      "description": "Açaí is everywhere, but Brazil hopes more of its fruits rich in antioxidants and fibre will soon be enjoyed around the world....",
+      "link": "https://www.bbc.com/news/articles/cx27z4pvlz1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Nov 2025 08:31:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Move over açaí - the Amazon has more 'superfoods' to offer",
+      "description": "Açaí is everywhere, but Brazil hopes more of its fruits rich in antioxidants and fibre will soon be enjoyed around the world....",
+      "link": "https://www.bbc.com/news/articles/cx27z4pvlz1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Nov 2025 08:31:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Move over açaí - the Amazon has more 'superfoods' to offer",
+      "description": "Açaí is everywhere, but Brazil hopes more of its fruits rich in antioxidants and fibre will soon be enjoyed around the world....",
       "link": "https://www.bbc.com/news/articles/cx27z4pvlz1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Nov 2025 08:31:12 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0e4db0d3f9e1bb6157af4bd9ce6b620712bf7fca/162_0_4278_3422/master/4278.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c7a27b38eabc0ee492e29f3ba1de3e5"
-    },
-    {
-      "title": "Learning to handle some of the world's most venomous snakes – video",
-      "description": "&lt;p&gt;With a reported boom in people becoming snake handlers, Guardian Australia's Joe Hinchcliffe attended a venomous snake handling course in Que...",
-      "link": "https://www.theguardian.com/environment/video/2025/nov/15/learning-to-handle-some-of-the-worlds-most-venomous-snakes-video",
-      "pubDate": "Sat, 15 Nov 2025 02:44:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1bd23120e76bc74ac8eab163d3bd210996fb2d62/180_0_2953_2362/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a00efd01112530611dbcf45b323a832c"
-    },
-    {
-      "title": "Australian Company BHP Found Liable for Damages in One of Brazil’s Worst Mining Disasters",
-      "description": "In 2015, a mine tailings dam failed near the town of Bento Rodrigues, in the Brazilian state of Minas Gerais. The collapse spilled about 40 million cu...",
-      "link": "https://insideclimatenews.org/news/14112025/australian-company-bhp-found-liable-for-damages-in-one-of-brazils-worst-mining-disasters/",
-      "pubDate": "Sat, 15 Nov 2025 01:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
