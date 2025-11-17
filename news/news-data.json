@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-17T07:26:20.732Z",
+  "lastUpdated": "2025-11-17T08:37:50.596Z",
   "articles": [
+    {
+      "title": "‘Damned if we do but completely stuffed if we don’t’: heatwaves will worsen longer net zero is delayed",
+      "description": "&lt;p&gt;A new study suggests heatwaves will not revert back towards preindustrial conditions for at least 1,000 years after emissions target reached&...",
+      "link": "https://www.theguardian.com/environment/2025/nov/17/heatwaves-hotter-longer-more-frequent-net-zero-emisisons-delay",
+      "pubDate": "Mon, 17 Nov 2025 08:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a37353b65c7f7d145f5fb9043898845fc08801d8/456_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8d85a7e9cd9d7d681eded1de13b4399"
+    },
     {
       "title": "Another COP already? Surely you’ve all worked this out by now? | First Dog on the Moon",
       "description": "&lt;p&gt;Wait … I’m hearing you have worked it out you’re just not doing it&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian....",
@@ -54,6 +63,24 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/La-Trobe-logo.png"
+    },
+    {
+      "title": "Brazil's Amazon rainforest at risk as key protection under threat",
+      "description": "Brazilian farmers want to end a ban on planting soya on cleared land, which critics say would spur deforestation....",
+      "link": "https://www.bbc.com/news/articles/cwypzdgwg1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Nov 2025 01:10:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Brazil's Amazon rainforest at risk as key protection under threat",
+      "description": "Brazilian farmers want to end a ban on planting soya on cleared land, which critics say would spur deforestation....",
+      "link": "https://www.bbc.com/news/articles/cwypzdgwg1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Nov 2025 01:10:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Have courage to create fossil fuel phaseout roadmap at Cop30, Brazilian minister urges",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Move over açaí - the Amazon has more 'superfoods' to offer",
-      "description": "Açaí is everywhere, but Brazil hopes more of its fruits rich in antioxidants and fibre will soon be enjoyed around the world....",
-      "link": "https://www.bbc.com/news/articles/cx27z4pvlz1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Nov 2025 08:31:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Coalition pitches ‘affordable and responsible’ energy plan as Ley flags immigration as next policy battleground",
-      "description": "&lt;p&gt;Nationals and Liberals agree on new emissions plan after joint party room as opposition leader promises new immigration policy within weeks&l...",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/16/coalition-pitches-affordable-and-responsible-energy-plan-as-ley-flags-immigration-as-next-policy-battleground",
-      "pubDate": "Sun, 16 Nov 2025 06:35:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a3fe23b913b8ce34347000e0e3a5d5173c43f8ce/575_0_5748_4598/master/5748.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab6e9ac83e66c0967a0cdd20766b05dd"
-    },
-    {
-      "title": "We have lift-off! Melbourne’s skyscraper peregrine chicks take to the sky",
-      "description": "&lt;p&gt;Falcon fledglings’ inaugural flight watched by dedicated fans includes dramatic crash-landing&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/16/we-have-lift-off-melbournes-skyscraper-peregrine-chicks-take-to-the-sky",
-      "pubDate": "Sun, 16 Nov 2025 03:35:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d72640f03c73ef0b4e5653cb37d3038a0fc041ad/894_0_1929_1544/master/1929.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=083d6ed48c80c6d327fe43a15bbb8234"
     }
   ]
 }
