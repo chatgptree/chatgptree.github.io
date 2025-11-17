@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2025-11-17T20:29:58.553Z",
+  "lastUpdated": "2025-11-17T21:25:09.471Z",
   "articles": [
     {
-      "title": "Cop30: calls for new urgency to talks as studies show global warming may reach 2.5C – latest updates",
-      "description": "&lt;p&gt;As the summit goes into its second week, complex issues remain with anxiety growing over conference outcomes&lt;/p&gt;&lt;p&gt;Colombia will ...",
+      "title": "Cop30: UN accused of crackdown on Indigenous people – as it happened",
+      "description": "&lt;p&gt;As the summit entered its second week, complex issues remain with anxiety growing over conference outcomes&lt;/p&gt;&lt;p&gt;Colombia will ho...",
       "link": "https://www.theguardian.com/environment/live/2025/nov/17/cop30-belem-brazil-global-warming-latest-news-updates",
-      "pubDate": "Mon, 17 Nov 2025 20:12:05 GMT",
+      "pubDate": "Mon, 17 Nov 2025 21:03:36 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/327e6fba7b2548a2ca7bdb3f0dfa1f1eb50f4236/427_0_4272_3417/master/4272.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95e334f82dee25d58d15cc60b61d2324"
+      "image": "https://i.guim.co.uk/img/media/5acfadcf5b4aa1d99697143df9bcd633c20e75d7/0_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3894d7619861025c33f96ada007afcf"
+    },
+    {
+      "title": "Deadly in Small Doses: New Research Shows the Lethal Effects of Ingested Plastic on Marine Animals",
+      "description": "Ingesting just six pieces of rubber—each smaller than a pea—can all but seal a seabird’s fate, leaving it with a 90 percent chance of death. A 300-pou...",
+      "link": "https://insideclimatenews.org/news/17112025/plastic-pollution-lethal-for-marine-animals/",
+      "pubDate": "Mon, 17 Nov 2025 20:35:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "From seabirds to sea turtles: the fatal toll of plastic revealed",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The last frontier of empathy: why we still struggle to see ourselves as animals | Megan Mayhew Bergman",
-      "description": "&lt;p&gt;Champions of exceptionalism say humans hold a unique moral status. Yet there’s only one species recklessly destroying the planet it needs to ...",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2025/nov/16/human-exceptionalism-essay",
-      "pubDate": "Sun, 16 Nov 2025 14:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/94e788b577ee4c890e4af95eb57252e27f4c1e9c/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d5b42f5de08113da01607aa16f48b61"
     }
   ]
 }
