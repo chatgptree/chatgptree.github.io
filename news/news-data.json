@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2025-11-17T10:31:34.502Z",
+  "lastUpdated": "2025-11-17T11:23:53.912Z",
   "articles": [
-    {
-      "title": "BBC Inside Science",
-      "description": "The UK government plans to phase out animal experiments. What are the alternatives?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txk?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Nov 2025 10:12:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
     {
       "title": "These rare whales had never been seen alive. Then a team in Mexico sighted two",
       "description": "&lt;p&gt;The search for a gingko-toothed beaked whale had taken five years, when a thieving albatross nearly ruined it all&lt;/p&gt;&lt;p&gt;It was an...",
@@ -65,7 +56,7 @@
       "image": "https://i.guim.co.uk/img/media/861ad2ca854ed78523c9024d0226ca640ddabbf6/0_0_744_595/master/744.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=449d099c4b74ba341e38b3a90a9b10d7"
     },
     {
-      "title": "With neonicotinoid pesticide ban, France’s birds make a tentative recovery - study",
+      "title": "France’s birds start to show signs of recovery after bee-harming pesticide ban",
       "description": "&lt;p&gt;Analysis shows small hike in populations of insect-eating species after 2018 ruling, but full recovery may take decades&lt;/p&gt;&lt;p&gt;Ins...",
       "link": "https://www.theguardian.com/environment/2025/nov/17/france-wildlife-insect-bird-numbers-rise-neonicotinoid-pesticide-ban-aoe",
       "pubDate": "Mon, 17 Nov 2025 05:00:03 GMT",
@@ -180,6 +171,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ef857ab302b05485f356879fa44b1de410bb12ab/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a23552226b436b8e227494fe8f195bd"
+    },
+    {
+      "title": "Scorching Saturdays: The Rising Heat Threat Inside Football Stadiums",
+      "description": "TUSCALOOSA, Ala.—When Vanderbilt University football fan Douglas Dill set out with his son the morning of Oct. 4 to watch their team play rival Univer...",
+      "link": "https://insideclimatenews.org/news/16112025/southern-college-football-stadiums-excessive-heat-health/",
+      "pubDate": "Sun, 16 Nov 2025 10:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     }
   ]
 }
