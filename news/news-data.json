@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-11-17T09:32:44.781Z",
+  "lastUpdated": "2025-11-17T10:31:34.502Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The UK government plans to phase out animal experiments. What are the alternatives?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txk?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Nov 2025 10:12:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "These rare whales had never been seen alive. Then a team in Mexico sighted two",
+      "description": "&lt;p&gt;The search for a gingko-toothed beaked whale had taken five years, when a thieving albatross nearly ruined it all&lt;/p&gt;&lt;p&gt;It was an...",
+      "link": "https://www.theguardian.com/environment/2025/nov/17/rare-gingko-toothed-beaked-whale-science-cetacean-research",
+      "pubDate": "Mon, 17 Nov 2025 10:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f384e9604824fa8fb67e113d57e3fb6df5764134/0_0_1309_1047/master/1309.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1b414203fb1c5661ef2ce3358f8235e"
+    },
+    {
+      "title": "Pitted Against Waste",
+      "description": "Editor’s Note: This story is a collaboration between the Texas Observer and Inside Climate News. Peter Aldhous contributed data analysis for this stor...",
+      "link": "https://insideclimatenews.org/news/17112025/east-texas-oil-waste-pits/",
+      "pubDate": "Mon, 17 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What Chicago’s Boulevards Reveal about Community, Climate Change and Inequality",
+      "description": "I’m biking down Logan Boulevard on a bright Chicago morning. Tall maples filter the sun into dancing patches of shade. Joggers pass, dogs tug at leash...",
+      "link": "https://insideclimatenews.org/news/17112025/chicago-park-boulevard-system-climate-resilience/",
+      "pubDate": "Mon, 17 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Thames Water bidder says it is offering £1bn extra cash injection",
       "description": "&lt;p&gt;Castle Water says restructuring plans do not go far enough and extra funds will help resolve pollution crisis&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&l...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ef857ab302b05485f356879fa44b1de410bb12ab/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a23552226b436b8e227494fe8f195bd"
-    },
-    {
-      "title": "Scorching Saturdays: The Rising Heat Threat Inside Football Stadiums",
-      "description": "TUSCALOOSA, Ala.—When Vanderbilt University football fan Douglas Dill set out with his son the morning of Oct. 4 to watch their team play rival Univer...",
-      "link": "https://insideclimatenews.org/news/16112025/southern-college-football-stadiums-excessive-heat-health/",
-      "pubDate": "Sun, 16 Nov 2025 10:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Global Rush for Copper Hits the Amazon",
-      "description": "Lea este artículo en español. MOCOA, Colombia—This isn’t the first time foreigners have shown up here, where the Andes Mountains meet the Amazon rainf...",
-      "link": "https://insideclimatenews.org/news/16112025/amazon-rainforest-copper-mining/",
-      "pubDate": "Sun, 16 Nov 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What’s Happening at COP30",
-      "description": "COP30 is underway in Belém, Brazil, where nearly 200 countries have gathered for high-stakes global climate negotiations.&#160; Notably absent is the ...",
-      "link": "https://insideclimatenews.org/news/16112025/icn-sunday-morning-whats-happening-at-cop30/",
-      "pubDate": "Sun, 16 Nov 2025 09:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Move over açaí - the Amazon has more 'superfoods' to offer",
-      "description": "Açaí is everywhere, but Brazil hopes more of its fruits rich in antioxidants and fibre will soon be enjoyed around the world....",
-      "link": "https://www.bbc.com/news/articles/cx27z4pvlz1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Nov 2025 08:31:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
