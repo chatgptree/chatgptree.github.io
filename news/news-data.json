@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-11-18T11:24:31.827Z",
+  "lastUpdated": "2025-11-18T12:56:38.429Z",
   "articles": [
+    {
+      "title": "Cop30 live: exclusion zone around conference expanded after protests",
+      "description": "&lt;p&gt;Negotiations continue on day eight of the summit, with more ministerial national statements expected&lt;/p&gt;&lt;p&gt;A marriage of Indigeno...",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/18/cop30-climate-protests-latest-news-live-updates-brazil-belem",
+      "pubDate": "Tue, 18 Nov 2025 12:39:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/10ac8ad04135f36e9978cb928dc4337131477515/586_0_4724_3781/master/4724.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=13d6b5ff374018bc7880d1d5e77fe260"
+    },
+    {
+      "title": "Brazil creates new Indigenous territories during protest-hit COP30",
+      "description": "President Lula's government recognises 10 new Indigenous lands in an effort to protect their culture and environment....",
+      "link": "https://www.bbc.com/news/articles/c1d0vekq12ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:20:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California farms applied millions of pounds of PFAS to key crops, study finds",
+      "description": "&lt;p&gt;‘Forever chemicals’ sprayed on almonds, grapes, tomatoes and other crops as activists warn of ‘obvious problem’&lt;/p&gt;&lt;p&gt;California ...",
+      "link": "https://www.theguardian.com/environment/2025/nov/18/california-pfas-forever-chemicals",
+      "pubDate": "Tue, 18 Nov 2025 12:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8bb4b11d88260e2bb5986abd0a404ab7f9531522/1886_505_2687_2150/master/2687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8e6982a360fc5c30e94458ddb4cb6f3"
+    },
+    {
+      "title": "Australia will not oppose Turkey staging Cop31 as Albanese signals policy shift",
+      "description": "&lt;p&gt;Prime minister says fight over hosting rights jeopardises global unity needed for action to help Pacific islands&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
+      "link": "https://www.theguardian.com/environment/2025/nov/18/australia-will-not-oppose-turkey-staging-cop31-as-albanese-signals-policy-shift",
+      "pubDate": "Tue, 18 Nov 2025 11:31:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e4e4141dfab8cea149a4d83fbdf0bcc52ab82b4c/571_0_4397_3517/master/4397.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5991bf024ffa5d7bf9cd37d603455e26"
+    },
     {
       "title": "At least 15 English sewage plants use plastic beads spilled at Camber Sands",
       "description": "&lt;p&gt;Exclusive: Experts urge water companies to update plants to avoid another catastrophe, as analysis reveals scale of use&lt;/p&gt;&lt;p&gt;At ...",
@@ -11,22 +47,13 @@
       "image": "https://i.guim.co.uk/img/media/eda8f848ad03c34f4ce6efb6ef14c3c424879d02/418_0_4293_3434/master/4293.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25cd3f9411e37bb7684a3016f74921e0"
     },
     {
-      "title": "The Congo basin may be the world’s most important rainforest – why is it the least researched?",
-      "description": "&lt;p&gt;It is the second-largest tropical forest on Earth, and one of the most vital carbon sinks, but is losing out when it comes to climate policy ...",
+      "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
+      "description": "&lt;p&gt;It is one of the world’s most vital carbon sinks, but this tropical rainforest is losing out when it comes to climate policy and funding&lt;/...",
       "link": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe",
       "pubDate": "Tue, 18 Nov 2025 11:00:50 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1eb3cbf32935b310e4cb45d46d65fde6de03c6bd/243_0_3615_2892/master/3615.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c349aab207704a7f364ffebb488bc872"
-    },
-    {
-      "title": "Brazil creates new Indigenous territories after COP30 protests",
-      "description": "President Luiz Inácio Lula da Silva's government recognises 10 new Indigenous lands during climate summit....",
-      "link": "https://www.bbc.com/news/articles/c1d0vekq12ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Nov 2025 10:13:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "A Landmark Court Ruling Looms Over U.S. Absence at COP30",
@@ -65,7 +92,7 @@
       "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2245219147-e1762813265453.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "More than 300 big agriculture lobbyists took part in Cop30, investigation finds",
+      "title": "More than 300 big agriculture lobbyists have taken part in Cop30, investigation finds",
       "description": "&lt;p&gt;Lobbyists representing industry responsible for a quarter to a third of global emissions participated in key talks at the UN climate summit&l...",
       "link": "https://www.theguardian.com/environment/2025/nov/18/big-agriculture-lobbyists-cop30-climate-summit",
       "pubDate": "Tue, 18 Nov 2025 08:00:28 GMT",
@@ -150,33 +177,6 @@
       "description": "The Environmental Protection Agency and the Department of the Army on Monday announced a proposal to further define, and scale back, the number of wat...",
       "link": "https://insideclimatenews.org/news/17112025/trump-administration-weakens-waterways-wetlands-federal-protections/",
       "pubDate": "Tue, 18 Nov 2025 00:04:06 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Epson Australia releases second Sustainability Impact Report",
-      "description": "Updates sustainability progress, commitment and achievements Furthering its commitment to its local and global sustainability initiatives and followin...",
-      "link": "https://econews.com.au/epson-australia-releases-second-sustainability-impact-report/",
-      "pubDate": "Tue, 18 Nov 2025 00:00:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/image001-11.png"
-    },
-    {
-      "title": "Cop30: UN accused of crackdown on Indigenous people – as it happened",
-      "description": "&lt;p&gt;As the summit entered its second week, complex issues remain with anxiety growing over conference outcomes&lt;/p&gt;&lt;p&gt;Colombia will ho...",
-      "link": "https://www.theguardian.com/environment/live/2025/nov/17/cop30-belem-brazil-global-warming-latest-news-updates",
-      "pubDate": "Mon, 17 Nov 2025 21:03:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5acfadcf5b4aa1d99697143df9bcd633c20e75d7/0_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3894d7619861025c33f96ada007afcf"
-    },
-    {
-      "title": "Deadly in Small Doses: New Research Shows the Lethal Effects of Ingested Plastic on Marine Animals",
-      "description": "Ingesting just six pieces of rubber—each smaller than a pea—can all but seal a seabird’s fate, leaving it with a 90 percent chance of death. A 300-pou...",
-      "link": "https://insideclimatenews.org/news/17112025/plastic-pollution-lethal-for-marine-animals/",
-      "pubDate": "Mon, 17 Nov 2025 20:35:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
