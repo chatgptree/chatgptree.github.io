@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-18T17:25:47.817Z",
+  "lastUpdated": "2025-11-18T18:39:17.306Z",
   "articles": [
+    {
+      "title": "Cop30 live: Ministers from global north and south unite in call for a roadmap away from fossil fuels",
+      "description": "&lt;p&gt;Representatives from Germany, the UK, the Marshall Islands and a number of other countries came together to issue a call for a fossil fuel ro...",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/18/cop30-climate-protests-latest-news-live-updates-brazil-belem",
+      "pubDate": "Tue, 18 Nov 2025 18:25:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/33adf97862b2e7d19e9ee3ffa319b4def763fe53/458_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ab8f1c3de4f4299ff7faf6ce94703a5"
+    },
+    {
+      "title": "Extreme Heat, Leaks and Security Issues Roil COP30",
+      "description": "BELÉM, Brazil—The United Nations Framework Convention on Climate Change asked the host government to address complaints about stifling indoor conditio...",
+      "link": "https://insideclimatenews.org/news/18112025/cop30-extreme-heat-leaks-security-issues/",
+      "pubDate": "Tue, 18 Nov 2025 18:15:33 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Brazil creates new Indigenous territories during protest-hit COP30",
       "description": "President Lula's government recognises 10 new Indigenous lands in an effort to protect their culture and environment....",
@@ -9,15 +27,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cop30 live: first draft text revives shift away from fossil fuels",
-      "description": "&lt;p&gt;So-called “mutirão decision” text provides first look at potential outcomes of UN climate summit – but don’t call it a cover text, say Brazil...",
-      "link": "https://www.theguardian.com/environment/live/2025/nov/18/cop30-climate-protests-latest-news-live-updates-brazil-belem",
-      "pubDate": "Tue, 18 Nov 2025 16:42:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cce0dba2902b373e2fb4d9d92b1c060fdea64db1/731_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b1c502249fe09d41351e0c5a99ac201"
     },
     {
       "title": "Surgeons reattach 10-year-old girl’s hand nearly lost in Florida shark attack",
@@ -74,7 +83,7 @@
       "image": "https://i.guim.co.uk/img/media/c503c588e475d7abdad6c3d579feadc810243827/689_0_5203_4162/master/5203.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf6ec7241d46eb929120b618f3c4c052"
     },
     {
-      "title": "California farms applied millions of pounds of PFAS to key crops, study finds",
+      "title": "California farms applied millions of pounds of Pfas to key crops, study finds",
       "description": "&lt;p&gt;‘Forever chemicals’ sprayed on almonds, grapes, tomatoes and other crops as activists warn of ‘obvious problem’&lt;/p&gt;&lt;p&gt;California ...",
       "link": "https://www.theguardian.com/environment/2025/nov/18/california-pfas-forever-chemicals",
       "pubDate": "Tue, 18 Nov 2025 12:00:51 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "How mandatory climate reporting is raising the bar for corporate leadership",
-      "description": "By Lisa Zembrodt, Principal and Senior Director, Sustainability Business, Schneider Electric Around the world, businesses are entering a new era of ac...",
-      "link": "https://econews.com.au/how-mandatory-climate-reporting-is-raising-the-bar-for-corporate-leadership/",
-      "pubDate": "Tue, 18 Nov 2025 02:05:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Schneider-Electric-logo.png"
     }
   ]
 }
