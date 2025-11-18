@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2025-11-18T15:30:30.261Z",
+  "lastUpdated": "2025-11-18T16:37:25.320Z",
   "articles": [
     {
       "title": "Cop30 live: first draft text revives shift away from fossil fuels",
       "description": "&lt;p&gt;So-called “mutirão decision” text provides first look at potential outcomes of UN climate summit – but don’t call it a cover text, say Brazil...",
       "link": "https://www.theguardian.com/environment/live/2025/nov/18/cop30-climate-protests-latest-news-live-updates-brazil-belem",
-      "pubDate": "Tue, 18 Nov 2025 15:17:59 GMT",
+      "pubDate": "Tue, 18 Nov 2025 16:15:05 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cce0dba2902b373e2fb4d9d92b1c060fdea64db1/731_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b1c502249fe09d41351e0c5a99ac201"
+    },
+    {
+      "title": "Surgeons reattach 10-year-old girl’s hand nearly lost in Florida shark attack",
+      "description": "&lt;p&gt;Leah Lendel was bitten by a bull shark as she was snorkeling with her family from a beach in Boca Grande&lt;/p&gt;&lt;p&gt;A 10-year-old girl...",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/surgeons-reattach-hand-shark-attack",
+      "pubDate": "Tue, 18 Nov 2025 16:01:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8cc5660ddf8d6cd3b51543b6d69a9a05cc2e937d/391_0_1761_1410/master/1761.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e08432d1767aebfd3f1dc46ef2acada1"
+    },
+    {
+      "title": "How lifting Amazon's soya bean ban could threaten the rainforest",
+      "description": "The Amazon rainforest could face a renewed surge of deforestation as efforts grow to overturn a long-standing ban that has protected it....",
+      "link": "https://www.bbc.com/news/videos/cpwv41450llo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Nov 2025 15:47:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Bhutan PM on leading the first carbon-negative nation: ‘The wellbeing of our people is at the centre of our agenda’",
@@ -30,7 +48,7 @@
     },
     {
       "title": "Can mountain lions make a comeback in the US north-east? One group hopes so",
-      "description": "&lt;p&gt;Reintroducing the apex predator would control deer populations, and maintain healthy ecosystems and bolster biodiversity, rewilding group say...",
+      "description": "&lt;p&gt;Reintroducing the apex predator would control deer populations, maintaining healthy ecosystems and bolstering biodiversity, rewilding group s...",
       "link": "https://www.theguardian.com/us-news/2025/nov/18/mountain-lions-push-comeback-north-east",
       "pubDate": "Tue, 18 Nov 2025 13:00:52 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/Schneider-Electric-logo.png"
-    },
-    {
-      "title": "Schneider Electric named a leader in the IDC MarketScape for Worldwide Energy Transition Professional Services",
-      "description": "SE Advisory Services integrates global expertise, intelligent technology, and seamless implementation  Schneider Electric’s innovation strategy focuse...",
-      "link": "https://econews.com.au/schneider-electric-named-a-leader-in-the-idc-marketscape-for-worldwide-energy-transition-professional-services/",
-      "pubDate": "Tue, 18 Nov 2025 02:05:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Climate risks deepen energy hardships as Australians’ changing lives reshape transition to renewables, new report finds",
-      "description": "Monash University Key findings  Australians in flood, bushfire and blackout-prone areas are twice as likely to face energy hardship Daily routines, in...",
-      "link": "https://econews.com.au/climate-risks-deepen-energy-hardships-as-australians-changing-lives-reshape-transition-to-renewables-new-report-finds/",
-      "pubDate": "Tue, 18 Nov 2025 02:05:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
