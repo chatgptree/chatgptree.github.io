@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2025-11-18T19:21:37.076Z",
+  "lastUpdated": "2025-11-18T22:26:53.143Z",
   "articles": [
     {
-      "title": "Cop30 live: Ministers from global north and south unite in call for a roadmap away from fossil fuels",
-      "description": "&lt;p&gt;Representatives from Germany, the UK, the Marshall Islands and a number of other countries came together to issue a call for a fossil fuel ro...",
+      "title": "Stranded whale euthanized after failed rescue attempt off Oregon coast",
+      "description": "&lt;p&gt;Young humpback whale was found washed ashore and individuals had rallied together to try to help &lt;/p&gt;&lt;p&gt;A humpback whale stranded...",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/stranded-humpback-whale-euthanized-oregon",
+      "pubDate": "Tue, 18 Nov 2025 22:19:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/336dddaa0f6486a550d3a306fc45bf24a6364c4b/531_0_5310_4250/master/5310.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a05993cc2e5110f696ee72f3bf5a6b85"
+    },
+    {
+      "title": "Boat Electrification Is a Climate and Health Win. Making the Switch Isn’t Easy.",
+      "description": "Anyone who has visited a port or harbor knows that it can be an overwhelmingly sensory experience—from the pungent tang of diesel or gas exhaust to th...",
+      "link": "https://insideclimatenews.org/news/18112025/todays-climate-boat-electrification-working-waterfront/",
+      "pubDate": "Tue, 18 Nov 2025 21:21:51 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Our future is being burnt down’: youth activists call for fossil phaseout at Cop30 – as it happened",
+      "description": "&lt;p&gt;Thousands of youth activists from around the world presented a global youth statement calling for “full, fast, fair fossil phase-out”&lt;/p&g...",
       "link": "https://www.theguardian.com/environment/live/2025/nov/18/cop30-climate-protests-latest-news-live-updates-brazil-belem",
-      "pubDate": "Tue, 18 Nov 2025 19:05:56 GMT",
+      "pubDate": "Tue, 18 Nov 2025 21:05:24 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/33adf97862b2e7d19e9ee3ffa319b4def763fe53/458_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ab8f1c3de4f4299ff7faf6ce94703a5"
+    },
+    {
+      "title": "More than 80 countries at Cop30 join call for roadmap to fossil fuel phase-out",
+      "description": "&lt;p&gt;Countries from Africa, Asia, Latin America, Pacific and Europe plead for transition to be central outcome of talks&lt;/p&gt;&lt;ul&gt;&lt;li&...",
+      "link": "https://www.theguardian.com/environment/2025/nov/18/more-than-80-countries-join-call-at-cop30-for-roadmap-to-phasing-out-fossil-fuels",
+      "pubDate": "Tue, 18 Nov 2025 20:24:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8315d4c8b4d3a27dafa944159a64b63fb03fab61/334_0_3335_2668/master/3335.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7fabb5c03d183fa0bc3ae217dd3b42a5"
     },
     {
       "title": "Extreme Heat, Leaks and Security Issues Roil COP30",
@@ -92,15 +119,6 @@
       "image": "https://i.guim.co.uk/img/media/8bb4b11d88260e2bb5986abd0a404ab7f9531522/1886_505_2687_2150/master/2687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8e6982a360fc5c30e94458ddb4cb6f3"
     },
     {
-      "title": "Australia will not oppose Turkey staging Cop31 as Albanese signals policy shift",
-      "description": "&lt;p&gt;Prime minister says fight over hosting rights jeopardises global unity needed for action to help Pacific islands&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
-      "link": "https://www.theguardian.com/environment/2025/nov/18/australia-will-not-oppose-turkey-staging-cop31-as-albanese-signals-policy-shift",
-      "pubDate": "Tue, 18 Nov 2025 11:31:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e4e4141dfab8cea149a4d83fbdf0bcc52ab82b4c/571_0_4397_3517/master/4397.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5991bf024ffa5d7bf9cd37d603455e26"
-    },
-    {
       "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
       "description": "&lt;p&gt;It is one of the world’s most vital carbon sinks, but this tropical rainforest is losing out when it comes to climate policy and funding&lt;/...",
       "link": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/af8158b6b48aba5d62ca41575f81d5053c5976b6/1098_0_7857_6286/master/7857.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b515c69d08db08d5bf5239a30c2cbd5"
-    },
-    {
-      "title": "Sussan Ley, it’s time we took a look at your climate policy report card. You appear to have learned nothing | Tristan Edis",
-      "description": "&lt;p&gt;My advice to you if you want to avoid repeating 2025 is to pay far greater attention to the quality of your research sources&lt;/p&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/18/sussan-its-time-we-took-a-look-at-your-climate-policy-report-card-you-appear-to-have-learned-nothing",
-      "pubDate": "Tue, 18 Nov 2025 05:25:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ce321ccff13886373ea617379a9877b52417bdf2/688_303_3752_3001/master/3752.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97b7807e388b080add72b1f2f3fd05a6"
-    },
-    {
-      "title": "Welcome to the C2ES COP30 Dispatch Series: Midweek Summary, sharing regular negotiation updates from Belem.",
-      "description": "Welcome to the C2ES COP30 Dispatch Series: Midweek Summary, sharing regular negotiation updates from Belem. SOME HIGHLIGHTS FROM THE NEGOTIATIONS Late...",
-      "link": "https://econews.com.au/welcome-to-the-c2es-cop30-dispatch-series-midweek-summary-sharing-regular-negotiation-updates-from-belem/",
-      "pubDate": "Tue, 18 Nov 2025 03:04:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
