@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-18T23:24:30.163Z",
+  "lastUpdated": "2025-11-19T02:04:36.457Z",
   "articles": [
+    {
+      "title": "An Alabama City Council Approves Rezoning for a Massive Data Center, Dividing a Community",
+      "description": "BESSEMER, Ala.—Cleo King prays about every vote he casts on behalf of the people he represents in this city of 25,000 just southwest of Birmingham.&#1...",
+      "link": "https://insideclimatenews.org/news/18112025/alabama-city-council-approves-rezoning-for-massive-data-center/",
+      "pubDate": "Wed, 19 Nov 2025 00:20:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "First kiss dates back 21 million years, say scientists",
+      "description": "A new study looks at how the mouth-on-mouth smooch came into being, and concludes that Neanderthals also kissed.  ...",
+      "link": "https://www.bbc.com/news/articles/cr43gq61g2qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Nov 2025 00:08:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Florida, Manatee Deaths Edge Up Slightly in 2025",
+      "description": "Slightly more manatees died this year in Florida than in previous years, although the number was not as high as that in 2021 and 2022, when a record d...",
+      "link": "https://insideclimatenews.org/news/18112025/florida-manatee-deaths-2025/",
+      "pubDate": "Tue, 18 Nov 2025 23:50:05 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Stranded whale euthanized after failed rescue attempt off Oregon coast",
       "description": "&lt;p&gt;Young humpback whale was found washed ashore and individuals had rallied together to try to help &lt;/p&gt;&lt;p&gt;A humpback whale stranded...",
@@ -30,7 +57,7 @@
     },
     {
       "title": "More than 80 countries at Cop30 join call for roadmap to fossil fuel phase-out",
-      "description": "&lt;p&gt;Countries from Africa, Asia, Latin America, Pacific and Europe plead for transition to be central outcome of talks&lt;/p&gt;&lt;ul&gt;&lt;li&...",
+      "description": "&lt;p&gt;Countries from Africa, Asia, Latin America, Pacific and Europe plead for transition to be central outcome of talks&lt;/p&gt;&lt;p&gt;More tha...",
       "link": "https://www.theguardian.com/environment/2025/nov/18/more-than-80-countries-join-call-at-cop30-for-roadmap-to-phasing-out-fossil-fuels",
       "pubDate": "Tue, 18 Nov 2025 20:24:45 GMT",
       "sourceName": "theguardian.com",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the shutdown broke America’s food chain — and what happens next",
-      "description": "Cash-strapped farmers, gaps in the public safety net, and food inspection backlogs could reshape who eats what in the years to come....",
-      "link": "https://grist.org/food-and-agriculture/how-the-shutdown-broke-americas-food-chain-and-what-happens-next/",
-      "pubDate": "Tue, 18 Nov 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2245219147-e1762813265453.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "SA Power Networks Becomes the First Network to Join the Energy Efficiency Council as an Industry Leader",
-      "description": "The Energy Efficiency Council (EEC) has welcomed SA Power Networks as the first electricity network to step up as an EEC Industry Leader member to adv...",
-      "link": "https://econews.com.au/sa-power-networks-becomes-the-first-network-to-join-the-energy-efficiency-council-as-an-industry-leader/",
-      "pubDate": "Tue, 18 Nov 2025 07:05:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "The conservative parties can change their leaders – but it won’t stop the NSW Coalition’s death spiral | Anne Davies",
-      "description": "&lt;p&gt;The Nationals have a new leader in Gurmesh Singh, and Kellie Sloane could soon replace Liberal leader Mark Speakman. But the Coalition is fra...",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/18/the-conservative-parties-can-change-their-leaders-but-it-wont-stop-the-nsw-coalitions-death-spiral",
-      "pubDate": "Tue, 18 Nov 2025 06:37:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/af8158b6b48aba5d62ca41575f81d5053c5976b6/1098_0_7857_6286/master/7857.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b515c69d08db08d5bf5239a30c2cbd5"
     }
   ]
 }
