@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-20T21:24:34.627Z",
+  "lastUpdated": "2025-11-20T22:23:52.772Z",
   "articles": [
+    {
+      "title": "'Huge columns of smoke': BBC at the scene of fire at COP30",
+      "description": "Climate Editor Justin Rowlatt was at the UN climate talks in Brazil when a fire broke out....",
+      "link": "https://www.bbc.com/news/videos/cn5159k1krzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Nov 2025 21:58:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cop30 climate summit in Brazil disrupted after fire breaks out in venue",
+      "description": "&lt;p&gt;Event thrown into confusion and 13 treated for smoke inhalation after conference centre evacuated&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a...",
+      "link": "https://www.theguardian.com/environment/2025/nov/20/cop30-climate-summit-in-brazil-disrupted-after-fire-breaks-out-in-venue",
+      "pubDate": "Thu, 20 Nov 2025 21:52:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2562785bb5f5fbb2a54b8a884d59e526f628224e/256_0_1277_1022/master/1277.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1dd70c623d14e4e12c3b7f8dcbe3ed6b"
+    },
+    {
+      "title": "Pelosi calls Trump ‘the biggest con job in American history’ in reply to climate comment",
+      "description": "&lt;p&gt;US speaker emerita criticizes Trump’s anti-climate stance and his remarks to the UN general assembly&lt;/p&gt;&lt;p&gt;“President Trump is th...",
+      "link": "https://www.theguardian.com/us-news/2025/nov/20/pelosi-trump-con-job-climate",
+      "pubDate": "Thu, 20 Nov 2025 21:20:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f7abc9274a9756baf2a53c27acfc426a62b2c998/431_0_4306_3445/master/4306.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0185d85bf2c2037d568987f51321c226"
+    },
     {
       "title": "Gas Pipeline Proposals in Virginia Multiply Through the South—and Worry Community Activists",
       "description": "As plans for natural gas pipeline expansions in southwest Virginia are rapidly taking shape, proposals from two major energy firms to transport gas th...",
@@ -29,15 +56,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Cop30 climate summit in Brazil disrupted after fire breaks out in venue",
-      "description": "&lt;p&gt;Event thrown into confusion after conference centre evacuated but UN says no one hurt&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https...",
-      "link": "https://www.theguardian.com/environment/2025/nov/20/cop30-climate-summit-in-brazil-disrupted-after-fire-breaks-out-in-venue",
-      "pubDate": "Thu, 20 Nov 2025 20:28:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2562785bb5f5fbb2a54b8a884d59e526f628224e/256_0_1277_1022/master/1277.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1dd70c623d14e4e12c3b7f8dcbe3ed6b"
-    },
-    {
       "title": "Brazilian president will take fossil fuel phase-out plan to G20 summit",
       "description": "&lt;p&gt;Luiz Inácio Lula da Silva says he is ready to fight for transition roadmap despite opposition from some states&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
       "link": "https://www.theguardian.com/world/2025/nov/20/brazilian-president-fossil-fuel-transition-roadmap-g20-summit",
@@ -51,15 +69,6 @@
       "description": "Thousands of people are attending the UN climate talks in Brazil....",
       "link": "https://www.bbc.com/news/articles/ce9d9p5jrjgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Nov 2025 19:13:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Huge columns of smoke': BBC at the scene of fire at COP30",
-      "description": "Climate Editor Justin Rowlatt was at the UN climate talks in Brazil when a fire broke out....",
-      "link": "https://www.bbc.com/news/videos/cn5159k1krzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Nov 2025 18:58:26 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/unnamed-45-1024x1024.png"
-    },
-    {
-      "title": "A step forward for nature reporting",
-      "description": "Robin Hodess, CEO of GRI GRI welcomes ISSB plans for standard setting on nature-related risks and opportunities, drawing on the TNFD framework Given t...",
-      "link": "https://econews.com.au/a-step-forward-for-nature-reporting/",
-      "pubDate": "Thu, 20 Nov 2025 05:05:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/GRI-logo.png"
     }
   ]
 }
