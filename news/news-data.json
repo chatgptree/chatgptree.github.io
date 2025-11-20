@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2025-11-20T17:21:11.962Z",
+  "lastUpdated": "2025-11-20T18:38:48.229Z",
   "articles": [
     {
-      "title": "Cop30 live: current climate pathway ‘a death sentence for many’, says UN secretary-general",
-      "description": "&lt;p&gt;António Guterres uses speech at Belem summit to urge countries to find compromises in final hours of negotiations&lt;/p&gt;&lt;p&gt;Inside th...",
-      "link": "https://www.theguardian.com/environment/live/2025/nov/20/cop30-live-news-updates-belem-brazil-president-lula",
-      "pubDate": "Thu, 20 Nov 2025 17:14:02 GMT",
-      "sourceName": "theguardian.com",
+      "title": "COP30 climate talks evacuated after fire breaks out",
+      "description": "Thousands of people are attending the UN climate talks in Brazil....",
+      "link": "https://www.bbc.com/news/articles/ce9d9p5jrjgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Nov 2025 18:29:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/2d8197f89f689e007175bc578c602ce33e9c0d6a/239_0_2694_2155/master/2694.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=013552accbf223099aa3aa32f891bebc"
+      "image": "../images/header2.jpg"
     },
     {
-      "title": "Ottawa officials battle ‘mindblowing’ influx of thousands of goldfish in pond",
+      "title": "Cop30 live: conference centre evacuated as fire breaks out",
+      "description": "&lt;p&gt;UN secretary-general António Guterres earlier used speech at Belem summit to urge countries to find compromises in final hours of negotiation...",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/20/cop30-live-news-updates-belem-brazil-president-lula",
+      "pubDate": "Thu, 20 Nov 2025 18:07:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/66f32f59bb318f6dc5efd05fb094b0e4c70429bb/28_0_436_349/master/436.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c87fe0731dba5f76268ea24b2864424"
+    },
+    {
+      "title": "Ottawa officials to cull ‘mindblowing’ influx of thousands of goldfish in pond",
       "description": "&lt;p&gt;Scourge of goldfish has become growing problem as fish are released by pet owners into increasingly warm waters&lt;/p&gt;&lt;p&gt;City offici...",
       "link": "https://www.theguardian.com/world/2025/nov/20/ottawa-canada-goldfish",
       "pubDate": "Thu, 20 Nov 2025 17:07:15 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/31bc4b103d467795164b1aa3919b00c4cd566a26/397_0_3879_3104/master/3879.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75879107e1f4fef265ea52f6acbe2300"
+      "image": "https://i.guim.co.uk/img/media/9c52ec36e79e98aabc8a0c49e529a0bf3c5ea4bf/189_0_2123_1698/master/2123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f23e6ccf8795d6394a765e02a1ec3c9"
     },
     {
       "title": "BBC Inside Science",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ee372527f52743c747c3d9ca0cc48a02ed89ec36/40_0_1460_1168/master/1460.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cf99e891055116a034f01fdfc2582d3"
-    },
-    {
-      "title": "Compromise Position on COP31 Delivers Australia Leadership in Global Climate Conversation",
-      "description": "The Energy Efficiency Council (EEC) has welcomed the announcement that a final agreement is imminent on the hosting arrangements for COP31 in 2026.  C...",
-      "link": "https://econews.com.au/compromise-position-on-cop31-delivers-australia-leadership-in-global-climate-conversation/",
-      "pubDate": "Thu, 20 Nov 2025 02:04:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/EEC-Logo.jpg"
     }
   ]
 }
