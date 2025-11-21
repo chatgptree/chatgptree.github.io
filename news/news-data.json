@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-21T05:27:42.741Z",
+  "lastUpdated": "2025-11-21T06:40:33.407Z",
   "articles": [
+    {
+      "title": "Students 'anxious but hopeful' at mock COP30 talks",
+      "description": "Students played the roles of different countries, made speeches, and \"negotiated\" to strike deals....",
+      "link": "https://www.bbc.com/news/articles/czxn9xnpey2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Nov 2025 06:12:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nature emerges as mainstream issue for boards",
+      "description": "The Australian Institute of Company Directors (AICD) and the University of Sydney Business School have collaborated to produce Australia’s first study...",
+      "link": "https://econews.com.au/nature-emerges-as-mainstream-issue-for-boards/",
+      "pubDate": "Fri, 21 Nov 2025 06:05:11 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
     {
       "title": "California Is Finally Updating Its Methane Landfill Rule",
       "description": "California regulators voted on Thursday to update a 15-year-old rule controlling emissions of methane from municipal landfills, the second-largest sou...",
@@ -121,7 +139,7 @@
     {
       "title": "BBC Inside Science",
       "description": "As COP 30 draws to close in Brazil, we speak to a former negotiator....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txl?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Nov 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5a3cb413ac105a06613412c5fe894a63bc656d5c/479_0_4801_3840/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22c1ac74abe70074b5c5d2839adb553b"
-    },
-    {
-      "title": "As Seas Rise, So Do the Risks From Toxic Sites",
-      "description": "RICHMOND, Calif.—On a sunny morning in May, Luna Angulo walked alongside a towering chain-link fence topped with razor wire on San Francisco Bay’s eas...",
-      "link": "https://insideclimatenews.org/news/20112025/sea-level-rise-toxic-site-risks/",
-      "pubDate": "Thu, 20 Nov 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Congress Axes Biden-Era Protections That Shielded Alaskan Wetlands From Drilling",
-      "description": "The U.S. House of Representatives voted Tuesday to strike down protections against oil drilling in some of the most diverse ecosystems and wildest lan...",
-      "link": "https://insideclimatenews.org/news/20112025/congress-axes-alaska-wetlands-drilling-protections/",
-      "pubDate": "Thu, 20 Nov 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
