@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2025-11-21T22:26:02.889Z",
+  "lastUpdated": "2025-11-21T23:24:47.427Z",
   "articles": [
+    {
+      "title": "Trump’s Plans to Expand Offshore Drilling Meet Bipartisan Opposition",
+      "description": "It’s not often that the governors of California and Florida are on the same page, but this week they’re aligned in opposition to the White House’s lat...",
+      "link": "https://insideclimatenews.org/news/21112025/trumps-plans-to-expand-offshore-drilling-meet-bipartisan-opposition/",
+      "pubDate": "Fri, 21 Nov 2025 23:14:58 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "COP30’s biofuel gamble could cost the global food supply — and the planet",
+      "description": "What was once considered a climate holy grail comes with serious tradeoffs. The world wants more of it anyway....",
+      "link": "https://grist.org/food-and-agriculture/cop30s-biofuel-gamble-could-cost-the-global-food-supply-and-the-planet/",
+      "pubDate": "Fri, 21 Nov 2025 23:09:11 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/COP30-11.19.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Cop30 live: summit president says ‘everybody will lose’ as fears rise that conference will end without a deal",
       "description": "&lt;p&gt;André Corrêa do Lago issues plea to preserve Paris agreement with countries far from reaching agreement on scheduled final day&lt;/p&gt;&lt;p...",
       "link": "https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates",
-      "pubDate": "Fri, 21 Nov 2025 21:54:10 GMT",
+      "pubDate": "Fri, 21 Nov 2025 22:50:30 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5cc152a6c307c33163354cf4014fe785febcde3f/237_749_2736_2188/master/2736.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d572c3be4b7811f2ce35bec3f58f411c"
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "India's delayed action plan raises eyebrows at COP30 climate summit",
-      "description": "India says it has met a key target of its previous climate action plan, but many say it needs to do more....",
-      "link": "https://www.bbc.com/news/articles/cy8v8k8mlego?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Nov 2025 01:17:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "White House announces new oil and gas drilling off California and Florida",
-      "description": "&lt;p&gt;But Sunshine state Republicans might oppose drilling off state’s famous beaches that keep tourism dollars coming in&lt;/p&gt;&lt;p&gt;The &lt...",
-      "link": "https://www.theguardian.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida",
-      "pubDate": "Thu, 20 Nov 2025 23:54:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cde6a173c421cdf3e825633aa519506865cfc0b7/242_0_1516_1214/master/1516.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78bb09b48889d38585d44e1e9764391d"
     }
   ]
 }
