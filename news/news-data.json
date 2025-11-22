@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-22T11:19:24.398Z",
+  "lastUpdated": "2025-11-22T12:48:45.315Z",
   "articles": [
+    {
+      "title": "Cop30 live: ‘Clown show’ talks run into overtime with no clarity on climate deal",
+      "description": "&lt;p&gt;Negotiations ran late last night, and as delegates begin to leave the outcome of the summit remains unclear &lt;/p&gt;&lt;p&gt;As Cop30 conti...",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/22/cop30-climate-talks-deal-overtime-live-news",
+      "pubDate": "Sat, 22 Nov 2025 12:43:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/781b3104a98763efd90373b014f01cc9740366a7/469_0_4690_3752/master/4690.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26571758dc3d15915ae5b649ca07b77f"
+    },
+    {
+      "title": "COP30 climate talks overrun with deadlock over fossil fuels",
+      "description": "The annual climate conference was meant to finish on Friday but countries remain deeply divided....",
+      "link": "https://www.bbc.com/news/articles/c1lr5v5y932o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Nov 2025 12:42:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "COP30 climate talks overrun with deadlock over fossil fuels",
+      "description": "The annual climate conference was meant to finish on Friday but countries remain deeply divided....",
+      "link": "https://www.bbc.com/news/articles/c1lr5v5y932o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Nov 2025 12:42:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Superfluous consumerism’: adult Advent calendar trend alarms green groups",
       "description": "&lt;p&gt;Trend is adding to ‘waste crisis’ owing to individual packaging and potential for unwanted items, campaigners say&lt;/p&gt;&lt;p&gt;The trend...",
@@ -92,15 +119,6 @@
       "image": "https://i.guim.co.uk/img/media/b9df2e7064fb3fba79bfc87a214d9a2dad11d9e6/359_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14e4bae137c8313d41d8c4f501b491bb"
     },
     {
-      "title": "Miliband urges Cop30 to find ‘creative’ routes to roadmap on phasing out fossil fuel",
-      "description": "&lt;p&gt;UK energy secretary says UN climate talks must find way to keep proposals alive despite significant resistance&lt;/p&gt;&lt;p&gt;Supporters o...",
-      "link": "https://www.theguardian.com/environment/2025/nov/21/miliband-cop30-creative-routes-roadmap-phase-out-fossil-fuel",
-      "pubDate": "Fri, 21 Nov 2025 23:50:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9bdaab2a7672179912157924f4c9f4815e7b1bab/312_30_1715_1372/master/1715.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84e9497ac12576b7dddc8ba9f9589d65"
-    },
-    {
       "title": "Growing Tensions with Air Regulator Lead Top California Environmental Justice Advisor to Resign",
       "description": "While Governor Gavin Newsom was touting California’s climate leadership last week in Brazil at the U.N.’s annual climate summit, a conflict was brewin...",
       "link": "https://insideclimatenews.org/news/21112025/california-air-resources-board-environmental-justice-resignation/",
@@ -137,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit",
-      "description": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic....",
-      "link": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Nov 2025 21:21:41 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "The 2025 Oceania photo contest winners – in pictures",
       "description": "&lt;p&gt;Here are some of the standout images from this year’s &lt;a href=\"https://www.natureaustralia.org.au/\"&gt;Nature Conservancy Australia&lt;/a&...",
       "link": "https://www.theguardian.com/artanddesign/gallery/2025/nov/22/the-2025-oceania-photo-contest-winners-in-pictures",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Climate smart’ beef? After a lawsuit, Tyson agrees to drop the label.",
-      "description": "Advocates say a recent settlement is a win in the fight to hold industrial ag giants accountable....",
-      "link": "https://grist.org/food-and-agriculture/climate-smart-beef-after-a-lawsuit-tyson-agrees-to-drop-the-label/",
-      "pubDate": "Fri, 21 Nov 2025 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/factory-farm.jpg?quality=75&#038;strip=all"
     }
   ]
 }
