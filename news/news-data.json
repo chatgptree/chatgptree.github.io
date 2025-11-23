@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-23T09:25:31.053Z",
+  "lastUpdated": "2025-11-23T10:26:25.011Z",
   "articles": [
+    {
+      "title": "How China Silences Environmental Reporters Beyond Its Borders",
+      "description": "Planet China: Tenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. HARARE, Zimbabwe—Th...",
+      "link": "https://insideclimatenews.org/news/23112025/china-environmental-journalism-suppression-africa/",
+      "pubDate": "Sun, 23 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Anticipation, Then Handwringing, at the UN Climate Talks",
+      "description": "COP30 has wound down in Belém, Brazil—the U.N. climate change conference marked this year by Indigenous rights demonstrations, an actual fire, and not...",
+      "link": "https://insideclimatenews.org/news/23112025/icn-sunday-morning-un-cop30-handwringing/",
+      "pubDate": "Sun, 23 Nov 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘We’ve got to find answers’: Corby families affected by cancer searching for truth about toxic waste sites",
       "description": "&lt;p&gt;Alison Gaffney believes her son’s rare leukaemia was caused by dumped toxic waste from the town’s steelworks&lt;/p&gt;&lt;p&gt;Alison Gaffney...",
@@ -47,7 +65,7 @@
       "image": "https://i.guim.co.uk/img/media/106a6379ad7344030819802cea86a5bf3de7970b/1528_615_2024_1620/master/2024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f523436d2939ebb5a189bb057b8fc59"
     },
     {
-      "title": "Fury, confusion and gratitude as climate deal reached in Belé – as it happened",
+      "title": "Fury, confusion and gratitude as climate deal reached in Belém – as it happened",
       "description": "&lt;p&gt;After a series of all-night meetings and fears the summit could collapse, an agreement has been gavelled through at Cop30&lt;/p&gt;&lt;p&gt;W...",
       "link": "https://www.theguardian.com/environment/live/2025/nov/22/cop30-climate-talks-deal-overtime-live-news",
       "pubDate": "Sat, 22 Nov 2025 22:48:08 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Santalum-seed--576x1024.jpg"
-    },
-    {
-      "title": "15,000 bikes recycled by Sydney social enterprise",
-      "description": "The recovery, recycling and reuse of bicycles and other personal transport vehicles (PTVs) in Sydney today reached an unprecedented milestone with 15,...",
-      "link": "https://econews.com.au/15000-bikes-recycled-by-sydney-social-enterprise/",
-      "pubDate": "Sat, 22 Nov 2025 04:04:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Åhléns Partners with TrusTrace to Strengthen Supply Chain Sustainability, Risk Management, and Compliance",
-      "description": "TrusTrace, a global leader in supply chain traceability and compliance, today announced a strategic partnership with Åhléns, one of Sweden’s most icon...",
-      "link": "https://econews.com.au/ahlens-partners-with-trustrace-to-strengthen-supply-chain-sustainability-risk-management-and-compliance/",
-      "pubDate": "Sat, 22 Nov 2025 04:04:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/trusttrace-1024x442.jpg"
     }
   ]
 }
