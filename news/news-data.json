@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2025-11-24T09:33:24.677Z",
+  "lastUpdated": "2025-11-24T10:31:38.519Z",
   "articles": [
+    {
+      "title": "UK ‘most expensive place’ to build nuclear power, review finds",
+      "description": "&lt;p&gt;Government panel’s final report calls for ‘radical reset’ of planning and environmental rules to get reactors built faster and cheaper&lt;/p&...",
+      "link": "https://www.theguardian.com/environment/2025/nov/24/new-nuclear-reactors-regulations-uk-government-taskforce",
+      "pubDate": "Mon, 24 Nov 2025 10:04:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/686e0008cd45b07a22346d954f298ad290797b58/279_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57da6bbbec2bf8655cf11845962b6923"
+    },
+    {
+      "title": "Zombie fires: how Arctic wildfires that come back to life are ravaging forests",
+      "description": "&lt;p&gt;Blazes that smoulder in the permafrost, only to reignite, are extending fire season though winter, leaving vegetation struggling to recover&l...",
+      "link": "https://www.theguardian.com/environment/2025/nov/24/zombie-fires-arctic-wildfires-reignite-ravaging-forests-aoe",
+      "pubDate": "Mon, 24 Nov 2025 10:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2756d461f52603d2b4050ede57b1abf5d4c3d83d/0_0_1833_1467/master/1833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61d21dabb88ba449d0ecad849f27984a"
+    },
+    {
+      "title": "Texas Workers Keep Dying in the Heat",
+      "description": "Eighteen-year-old Danny Nolasco spent the day of July 15, 2024, mixing and hauling buckets of cement at a construction site in stifling heat.&#160; Th...",
+      "link": "https://insideclimatenews.org/news/24112025/texas-worker-heat-deaths/",
+      "pubDate": "Mon, 24 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Maine Was First To Ban Spreading PFAS-Contaminated Sludge on Farmland. Now Sludge Is Filling up Landfills.",
+      "description": "Farmland is everywhere in tiny Unity Township, from neat fields of corn to open cattle pastures. And so are layers of wet organic sludge, a onetime fe...",
+      "link": "https://insideclimatenews.org/news/24112025/maine-landfill-pfas-contamination/",
+      "pubDate": "Mon, 24 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How to make data centers less thirsty",
+      "description": "There’s a way to reduce both the climate and water harms of data centers: build them in places with lots of wind and solar energy....",
+      "link": "https://grist.org/energy/how-to-make-data-centers-less-thirsty/",
+      "pubDate": "Mon, 24 Nov 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How gas stations can become the best place to charge your EV",
       "description": "Fuel retailers are betting that fast chargers, clean bathrooms, and tasty snacks will draw EV drivers — and keep their stations central to how motoris...",
@@ -36,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2bacf1d3d7f57fcc38acbba2e902fc7656a23dc0/430_0_4040_3232/master/4040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ba9b3170f3a4a759ec404c5987d87cb"
-    },
-    {
-      "title": "Taskforce calls for UK nuclear regulation reset to speed construction",
-      "description": "&lt;p&gt;Panel’s final report outlines planning and environmental changes to get plants built faster and cheaper&lt;/p&gt;&lt;p&gt;A government taskfo...",
-      "link": "https://www.theguardian.com/environment/2025/nov/24/new-nuclear-reactors-regulations-uk-government-taskforce",
-      "pubDate": "Mon, 24 Nov 2025 07:26:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/686e0008cd45b07a22346d954f298ad290797b58/279_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57da6bbbec2bf8655cf11845962b6923"
     },
     {
       "title": "‘I’m afraid for our children’: living with the climate crisis in the Philippines – in pictures",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/69740a9d89bde0ff514cbcae015ec5c1aa1bf5e4/191_0_3450_2761/master/3450.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a03e5d162b3da919cd2531967fec808"
-    },
-    {
-      "title": "UN warns world losing climate battle but fragile Cop30 deal keeps up the fight",
-      "description": "&lt;p&gt;Reaching agreement in divisive political landscape shows ‘climate cooperation is alive and kicking’, says UN climate chief&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/environment/2025/nov/23/un-warns-world-losing-climate-battle-but-fragile-cop30-deal-keeps-up-the-fight",
-      "pubDate": "Sun, 23 Nov 2025 17:46:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b66352c368f7781afabd57a57e70f6a73fbe8c8d/819_0_4221_3377/master/4221.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c402d7a2639e8733b2a58e2cd5ed6931"
-    },
-    {
-      "title": "How China Silences Environmental Reporters Beyond Its Borders",
-      "description": "Planet China: Tenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. HARARE, Zimbabwe—Th...",
-      "link": "https://insideclimatenews.org/news/23112025/china-environmental-journalism-suppression-africa/",
-      "pubDate": "Sun, 23 Nov 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Anticipation, Then Handwringing, at the UN Climate Talks",
-      "description": "COP30 has wound down in Belém, Brazil—the U.N. climate change conference marked this year by Indigenous rights demonstrations, an actual fire, and not...",
-      "link": "https://insideclimatenews.org/news/23112025/icn-sunday-morning-un-cop30-handwringing/",
-      "pubDate": "Sun, 23 Nov 2025 09:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "COP30: Five key takeaways from a deeply divisive climate summit",
-      "description": "What did we learn from a climate summit that ended in a deal with no new mention of fossil fuels?...",
-      "link": "https://www.bbc.com/news/articles/cp84m16mdm1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Nov 2025 00:10:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
