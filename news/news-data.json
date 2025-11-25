@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-25T08:37:15.293Z",
+  "lastUpdated": "2025-11-25T09:31:32.365Z",
   "articles": [
+    {
+      "title": "Rising heat, failing kidneys: Climate’s hidden toll on migrant workers",
+      "description": "Migrant workers return from Gulf countries with failed kidneys, victims of extreme temperatures, grueling labor, and a global system that leaves them ...",
+      "link": "https://grist.org/health/rising-heat-failing-kidneys-climates-hidden-toll-on-migrant-workers/",
+      "pubDate": "Tue, 25 Nov 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/Surendra-Tamang-30-years-2.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Dismantling the Endangered Species Act will hurt a lot more than just wildlife",
+      "description": "The Trump administration's proposed rollbacks open the door for more drilling, mining, and logging....",
+      "link": "https://grist.org/regulation/dismantling-the-endangered-species-act-will-hurt-a-lot-more-than-just-wildlife/",
+      "pubDate": "Tue, 25 Nov 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/make-america-beautiful-again-climate-trump-rollbacks.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "COP30 SAW THE OCEAN RISING, BUT THE DEEP SEA REMAINS IN THE MARGINS",
       "description": "@ Alexander Semenov As COP30 concluded in Belém, Brazil, a noticeable shift in broad ocean ambition was observed. However, the deep sea – one of our p...",
@@ -44,7 +62,7 @@
       "pubDate": "Tue, 25 Nov 2025 08:00:27 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/fe2872496eb44371857a58fe5ff0ebf96d067410/192_150_1251_1000/master/1251.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9e63763b2d7d4b412dd7ada6792cb13"
+      "image": "https://i.guim.co.uk/img/media/a729bc83ca5467028fd28cedf8598822d1b029fe/219_0_1600_1280/master/1600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ee2dfb370d876f2b44656251d225892"
     },
     {
       "title": "The species at risk of extinction named in UK-first report",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2756d461f52603d2b4050ede57b1abf5d4c3d83d/0_0_1833_1467/master/1833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61d21dabb88ba449d0ecad849f27984a"
-    },
-    {
-      "title": "Texas Workers Keep Dying in the Heat",
-      "description": "Eighteen-year-old Danny Nolasco spent the day of July 15, 2024, mixing and hauling buckets of cement at a construction site in stifling heat.&#160; Th...",
-      "link": "https://insideclimatenews.org/news/24112025/texas-worker-heat-deaths/",
-      "pubDate": "Mon, 24 Nov 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Maine Was First To Ban Spreading PFAS-Contaminated Sludge on Farmland. Now Sludge Is Filling up Landfills.",
-      "description": "Farmland is everywhere in tiny Unity Township, from neat fields of corn to open cattle pastures. And so are layers of wet organic sludge, a onetime fe...",
-      "link": "https://insideclimatenews.org/news/24112025/maine-landfill-pfas-contamination/",
-      "pubDate": "Mon, 24 Nov 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
