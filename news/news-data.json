@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-24T23:25:14.081Z",
+  "lastUpdated": "2025-11-25T02:06:13.612Z",
   "articles": [
+    {
+      "title": "A Rare Recusal by Texas Oil and Gas Regulator Up for Re-election",
+      "description": "Jim Wright stepped out of the room last week while his fellow Railroad Commissioners voted to renew the permit for Eagleford Recycling LLC, an oilfiel...",
+      "link": "https://insideclimatenews.org/news/24112025/texas-railroad-commissioner-jim-wright-recusal/",
+      "pubDate": "Tue, 25 Nov 2025 00:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "What do Murray Watt and climate activists have in common? | Fiona Katauskas",
       "description": "&lt;p&gt; It’s all in the timing&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;See more of &lt;a href=\"https://www.theguardian.com/profile/fiona-katauskas\"&gt...",
@@ -93,7 +102,7 @@
     },
     {
       "title": "How to make data centers less thirsty",
-      "description": "There’s a way to reduce both the climate and water harms of data centers: build them in places with lots of wind and solar energy....",
+      "description": "There’s a way to reduce both the climate and water harms of data centers: Build them in places with lots of wind and solar energy....",
       "link": "https://grist.org/energy/how-to-make-data-centers-less-thirsty/",
       "pubDate": "Mon, 24 Nov 2025 09:45:00 +0000",
       "sourceName": "grist.org",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Nectr confirmed as top-tier value energy provider in NSW, QLD, ACT",
-      "description": "Australian energy retailer Nectr scoops Mozo Experts Choice Awards 2026 With spiralling electricity bills adding significant pressure to the cost of l...",
-      "link": "https://econews.com.au/nectr-confirmed-as-top-tier-value-energy-provider-in-nsw-qld-act/",
-      "pubDate": "Mon, 24 Nov 2025 06:00:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/nectr-logo.jpg"
     }
   ]
 }
