@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-26T13:41:43.916Z",
+  "lastUpdated": "2025-11-26T14:29:02.589Z",
   "articles": [
+    {
+      "title": "Australia’s emissions from fossil fuels down as electricity from renewables passes 40%",
+      "description": "&lt;p&gt;While greenhouse gas emissions fell 2.2% or 9.9m tonnes last financial year, new policies are needed to meet the 2035 target&lt;/p&gt;&lt;ul&...",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/26/australia-greenhouse-gas-emissions-from-fossil-fuels-down",
+      "pubDate": "Wed, 26 Nov 2025 14:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ccc5bded04380689b1a1c71185c86de02665174a/463_0_6568_5255/master/6568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f59fb993796a001368f0f42f5c0a6beb"
+    },
     {
       "title": "More North Sea drilling to be allowed in new Labour plan",
       "description": "The chancellor will unveil the North Sea Strategy in her Budget speech, the BBC understands....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US, Russia and Saudi Arabia create axis of obstruction as Cop30 sputters out",
-      "description": "&lt;p&gt;Trump puts US in unflattering company as lack of representative reveals disdain for climate progress&lt;/p&gt;&lt;p&gt;More than two decades ...",
-      "link": "https://www.theguardian.com/environment/2025/nov/25/trump-cop30-lacks-us-climate-progress",
-      "pubDate": "Tue, 25 Nov 2025 11:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fdecbb2df2e9f8a7175230a36e0970c71219ced5/31_0_4585_3667/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a197a861693a6d96499fcb6111333f63"
     }
   ]
 }
