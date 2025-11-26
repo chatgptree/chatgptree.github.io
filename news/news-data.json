@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-11-26T09:30:54.319Z",
+  "lastUpdated": "2025-11-26T10:31:33.629Z",
   "articles": [
+    {
+      "title": "Members of America’s Largest Power Grid Can’t Agree on How to Power Data Centers",
+      "description": "After months of wrangling over how to handle surging power demand from AI-driven data centers and the resulting spike in electricity prices for millio...",
+      "link": "https://insideclimatenews.org/news/26112025/pjm-interconnection-members-cant-agree-on-data-centers/",
+      "pubDate": "Wed, 26 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Maine’s First Major Data Center Project Touts Green Innovation",
+      "description": "Once a Cold War outpost near Maine’s northern border, the former Loring Air Force Base could soon be home to a very different kind of facility: the st...",
+      "link": "https://insideclimatenews.org/news/26112025/maine-data-center-green-innovation/",
+      "pubDate": "Wed, 26 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "County Planning Commission in Virginia Delays Vote Again on Proposed Gas Plant That Aims to Link to PJM Grid",
+      "description": "FORK UNION, Va.–The Fluvanna County Planning Commission again has delayed a vote on a proposed natural gas plant in Virginia that would bolster the PJ...",
+      "link": "https://insideclimatenews.org/news/26112025/virginia-fluvanna-county-planning-commission-proposed-gas-plant-pjm/",
+      "pubDate": "Wed, 26 Nov 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Everyone hates gas-powered leaf blowers. So why is it so hard to ban them?",
+      "description": "Cities and states are trying to ditch America's most hated appliance. They're running into challenges....",
+      "link": "https://grist.org/solutions/gas-powered-leaf-blowers-bans-challenges/",
+      "pubDate": "Wed, 26 Nov 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "FEMA&#8217;s terrible, horrible, no good, very bad year",
       "description": "Internal turmoil and delayed aid expose the agency's fragility under Trump....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fdecbb2df2e9f8a7175230a36e0970c71219ced5/31_0_4585_3667/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a197a861693a6d96499fcb6111333f63"
-    },
-    {
-      "title": "UK can create 5,400 jobs if it stops plastic waste exports, report finds",
-      "description": "&lt;p&gt;Campaigners say closure of loophole making it cheaper to export rather than recycle will boost circular economy&lt;/p&gt;&lt;p&gt;The UK coul...",
-      "link": "https://www.theguardian.com/environment/2025/nov/25/uk-can-create-5400-jobs-if-it-stops-plastic-waste-exports-report-finds",
-      "pubDate": "Tue, 25 Nov 2025 10:28:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bbf3f9de4654a7324ae11d2f05b15f40616d8133/670_0_3409_2727/master/3409.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7902291a9e5132dc152cf27c15792835"
-    },
-    {
-      "title": "One in seven English bathing spots rated as polluted in latest testing",
-      "description": "&lt;p&gt;Scarborough and Bognor Regis among places where water is so polluted it is not recommended for swimming&lt;/p&gt;&lt;p&gt;One in seven (13%) ...",
-      "link": "https://www.theguardian.com/environment/2025/nov/25/one-in-seven-english-bathing-spots-rated-as-polluted-in-latest-testing",
-      "pubDate": "Tue, 25 Nov 2025 10:16:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f3d567ad6bf763ce77ef2f5290c95a60aafeb1f5/0_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de581a2cc67dde1e7600347bba083eec"
-    },
-    {
-      "title": "‘The narwhals stop calling’: how the noise from ships is silencing wildlife in the Arctic",
-      "description": "&lt;p&gt;Evidence that the whales and other marine animals are particularly vulnerable to sound is driving calls for quieter vessels&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2025/nov/25/shipping-noise-arctic-whales-narwhals-sound-quieter-vessels",
-      "pubDate": "Tue, 25 Nov 2025 10:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a26658f40242eba3c7530b9416b05a1ddc8dcd7b/971_0_4876_3904/master/4876.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86afbebed8fbe9697e840757618374dd"
-    },
-    {
-      "title": "Old-Growth Forest in New Jersey at Center of Affordable Housing Debate",
-      "description": "When Roy Oser moved into his North Jersey condo in 2018, he thought he was buying into a quiet retirement: a manageable backyard pressed against a pri...",
-      "link": "https://insideclimatenews.org/news/25112025/new-jersey-old-growth-forest-zygi-wilf-housing-development/",
-      "pubDate": "Tue, 25 Nov 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
