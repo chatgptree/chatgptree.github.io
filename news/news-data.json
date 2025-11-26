@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-26T08:36:31.231Z",
+  "lastUpdated": "2025-11-26T09:30:54.319Z",
   "articles": [
+    {
+      "title": "FEMA&#8217;s terrible, horrible, no good, very bad year",
+      "description": "Internal turmoil and delayed aid expose the agency's fragility under Trump....",
+      "link": "https://grist.org/politics/trump-fema-david-richardson-karen-evans/",
+      "pubDate": "Wed, 26 Nov 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "North Sea exploration rules to be relaxed in new Labour plan",
+      "description": "The chancellor will unveil the North Sea Strategy in her Budget speech, the BBC understands....",
+      "link": "https://www.bbc.com/news/articles/c0r9gyjkky0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Nov 2025 08:44:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Labor’s nature laws risk collapse with deal yet to be struck on eve of parliament’s final sitting day",
       "description": "&lt;p&gt;If Labor cannot reach deal on Thursday, it will mark second time in 12 months that it has failed to secure planned EPBC Act reforms &lt;/p&gt...",
@@ -101,15 +119,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "North Sea exploration rules to be relaxed in new Labour plan",
-      "description": "The chancellor will unveil the North Sea Strategy in her Budget speech, the BBC understands....",
-      "link": "https://www.bbc.com/news/articles/c0r9gyjkky0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Nov 2025 23:14:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Guardian Essential poll: only a quarter of older Australians believe climate change can be prevented",
       "description": "&lt;p&gt;Results show a ‘general sense of gloom’ as fewer Australians now believe climate change is caused by humans compared with March&lt;/p&gt;&lt;...",
       "link": "https://www.theguardian.com/australia-news/2025/nov/25/guardian-essential-poll-only-a-quarter-of-older-australians-believe-climate-change-can-be-prevented",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rising heat, failing kidneys: Climate’s hidden toll on migrant workers",
-      "description": "Migrant workers return from Gulf countries with failed kidneys, victims of extreme temperatures, grueling labor, and a global system that leaves them ...",
-      "link": "https://grist.org/health/rising-heat-failing-kidneys-climates-hidden-toll-on-migrant-workers/",
-      "pubDate": "Tue, 25 Nov 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/Surendra-Tamang-30-years-2.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
