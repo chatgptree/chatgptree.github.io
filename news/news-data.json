@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-27T09:30:29.078Z",
+  "lastUpdated": "2025-11-27T10:31:08.022Z",
   "articles": [
+    {
+      "title": "Massachusetts Coastal Zone Management Unveils 50-Year Plan to Protect Coastlines from Rising Seas and Extreme Weather",
+      "description": "A long-awaited advisory plan to protect Massachusetts’ 1,519 miles of coastline from intensifying storms and sea level rise—an effort years in the mak...",
+      "link": "https://insideclimatenews.org/news/27112025/massachusetts-coastal-50-year-plan-sea-level-rise/",
+      "pubDate": "Thu, 27 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Australia projected to miss 2035 emissions reduction target ‘by a country mile’ unless it ramps up climate policies",
       "description": "&lt;p&gt;Climate change minister Chris Bowen acknowledges ‘additional work’ needed to meet 2035 goal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=...",
@@ -48,7 +57,7 @@
     },
     {
       "title": "Rachel Reeves hands farmers inheritance tax break",
-      "description": "&lt;p&gt;Treasury says concession could be worth £30m next year and then £70m annually until 2030&lt;/p&gt;&lt;p&gt;Rachel Reeves has eased inheritanc...",
+      "description": "&lt;p&gt;Treasury says concession could be worth £30m next year and then £70m annually until 2030&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"ht...",
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/rachel-reeves-hands-farmers-inheritance-tax-break",
       "pubDate": "Thu, 27 Nov 2025 06:00:18 GMT",
       "sourceName": "theguardian.com",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c0r9gyjkky0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Nov 2025 10:32:26 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Members of America’s Largest Power Grid Can’t Agree on How to Power Data Centers",
-      "description": "After months of wrangling over how to handle surging power demand from AI-driven data centers and the resulting spike in electricity prices for millio...",
-      "link": "https://insideclimatenews.org/news/26112025/pjm-interconnection-members-cant-agree-on-data-centers/",
-      "pubDate": "Wed, 26 Nov 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
