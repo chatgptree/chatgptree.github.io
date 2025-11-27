@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-27T14:28:12.532Z",
+  "lastUpdated": "2025-11-27T15:28:24.570Z",
   "articles": [
     {
       "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
@@ -38,6 +38,15 @@
       "image": "https://i.guim.co.uk/img/media/098f874b23c337b5c93b4b0a1e0a9b5b209e729c/86_576_1431_1146/master/1431.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d281e7acc7fd9f0824a717ae400a279"
     },
     {
+      "title": "What is the new charge for driving an electric or hybrid car?",
+      "description": "All new cars must be electric or hybrid from 2030, but the government could put new taxes on them....",
+      "link": "https://www.bbc.com/news/articles/clykywlw2eko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Nov 2025 10:22:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Massachusetts Coastal Zone Management Unveils 50-Year Plan to Protect Coastlines from Rising Seas and Extreme Weather",
       "description": "A long-awaited advisory plan to protect Massachusetts’ 1,519 miles of coastline from intensifying storms and sea level rise—an effort years in the mak...",
       "link": "https://insideclimatenews.org/news/27112025/massachusetts-coastal-50-year-plan-sea-level-rise/",
@@ -72,6 +81,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8cab9bee88f56f789f273167cc649722a96ac7a4/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c49954ddd6d2ca45138a4d44e478cfa"
+    },
+    {
+      "title": "Massive prehistoric structure found near Stonehenge",
+      "description": "A study has confirmed 16 pits were dug close to the Stonehenge more than 4,000 years ago....",
+      "link": "https://www.bbc.com/news/articles/cly3vgd5732o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Nov 2025 06:40:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Labor’s nature law overhaul contains wins – but we should watch for gremlins in the details | Adam Morton",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/image002-8-1024x538.png"
-    },
-    {
-      "title": "The rewriting of Australia’s nature laws comes as a relief, yet I can’t help feel a sense of foreboding | Georgina Woods",
-      "description": "&lt;p&gt;The minister says quick approvals can happen while protecting the environment, but my experience tells me that haste brings unintended conseq...",
-      "link": "https://www.theguardian.com/commentisfree/2025/nov/27/australia-nature-laws-environment-relief-yet-foreboding",
-      "pubDate": "Thu, 27 Nov 2025 03:44:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f85c367768765ba71941cfa36d6f80299783a043/125_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=408a27eab3eeecf1cb25998be96324ec"
-    },
-    {
-      "title": "New US National Parks Fees For International Visitors Draw Scrutiny",
-      "description": "U.S. citizenship will determine how expensive it is to access America’s national parks beginning next year, the Interior Department announced yesterda...",
-      "link": "https://insideclimatenews.org/news/26112025/national-park-fees-for-international-visitors/",
-      "pubDate": "Wed, 26 Nov 2025 23:15:23 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
