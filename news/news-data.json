@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-27T19:20:48.823Z",
+  "lastUpdated": "2025-11-27T20:27:23.761Z",
   "articles": [
+    {
+      "title": "Cats became our companions way later than you think",
+      "description": "In true feline style, cats took their time in deciding when and where to join us on the sofa. ...",
+      "link": "https://www.bbc.com/news/articles/cq8dvdp9gn7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Nov 2025 20:02:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Mark Carney reaches deal with Alberta for oil pipeline opposed by First Nations",
       "description": "&lt;p&gt;Prime minister says deal ‘sets the state for an industrial transformation’, but project is likely to face wide opposition&lt;/p&gt;&lt;p&gt;M...",
@@ -13,7 +22,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Three decades since the first successful gene therapy, why aren’t we using them more?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txm?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 27 Nov 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/image002-7.jpg"
-    },
-    {
-      "title": "AMPYR Australia and InCommodities sign 15 year battery storage agreement for the Bulabul BESS Project",
-      "description": "AMPYR Australia has today announced the signing of a 15-year battery storage agreement with global energy trading company, InCommodities, for the Bula...",
-      "link": "https://econews.com.au/ampyr-australia-and-incommodities-sign-15-year-battery-storage-agreement-for-the-bulabul-bess-project/",
-      "pubDate": "Thu, 27 Nov 2025 04:05:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/DJI_20251124095113_0238_D-min-1024x576.jpg"
     }
   ]
 }
