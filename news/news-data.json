@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-27T16:33:40.518Z",
+  "lastUpdated": "2025-11-27T17:23:36.608Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Three decades since the first successful gene therapy, why aren’t we using them more?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txm?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Nov 2025 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists warn of severe climate-related risks to UK economy and security",
+      "description": "&lt;p&gt;Experts lay out scale of changes needed in ‘first-of-its-kind national emergency briefing’ in Westminster&lt;/p&gt;&lt;p&gt;A host of eminent...",
+      "link": "https://www.theguardian.com/environment/2025/nov/27/limate-related-risks-uk-economy-security",
+      "pubDate": "Thu, 27 Nov 2025 16:21:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5b4d9330710bb9cd1f4d42e73b1cfb20ce75b3c3/809_0_2789_2232/master/2789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b567e8b4e091768a4618a30913645932"
+    },
     {
       "title": "Willow trees on Prince William’s land in Devon poisoned with herbicide",
       "description": "&lt;p&gt;Exclusive: Unknown culprit suspected of spraying glyphosate on protected trees hoped to stop peat erosion  and flooding&lt;/p&gt;&lt;p&gt;Tre...",
@@ -83,15 +101,6 @@
       "image": "https://i.guim.co.uk/img/media/ed703d29de5c66fafab6d297e1ac19e242e1d575/585_541_2855_2284/master/2855.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb6ba46e714a3120a39cf9a614bd56ae"
     },
     {
-      "title": "Ministers to crack down on ‘for-profit’ litter enforcers in England",
-      "description": "&lt;p&gt;Councils will end contracts allowing private enforcers to receive 50% to 100% of each fine served&lt;/p&gt;&lt;p&gt;Ministers have signalled ...",
-      "link": "https://www.theguardian.com/environment/2025/nov/27/crack-down-on-for-profit-litter-enforcers-england",
-      "pubDate": "Thu, 27 Nov 2025 07:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8cab9bee88f56f789f273167cc649722a96ac7a4/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c49954ddd6d2ca45138a4d44e478cfa"
-    },
-    {
       "title": "Massive prehistoric structure found near Stonehenge",
       "description": "A study has confirmed 16 pits were dug close to the Stonehenge more than 4,000 years ago....",
       "link": "https://www.bbc.com/news/articles/cly3vgd5732o?at_medium=RSS&amp;at_campaign=rss",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/DJI_20251124095113_0238_D-min-1024x576.jpg"
-    },
-    {
-      "title": "WA Clean-Tech Startup Li-ion Energy Wins National Sustainability Honor",
-      "description": "Western Australian clean-tech startup Li-ion Energy has been named the national winner in the Promoting Sustainability category at the Telstra’s Best ...",
-      "link": "https://econews.com.au/wa-clean-tech-startup-li-ion-energy-wins-national-sustainability-honor/",
-      "pubDate": "Thu, 27 Nov 2025 04:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/image002-8-1024x538.png"
     }
   ]
 }
