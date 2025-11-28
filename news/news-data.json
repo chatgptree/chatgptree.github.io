@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-28T12:56:02.975Z",
+  "lastUpdated": "2025-11-28T13:35:46.758Z",
   "articles": [
+    {
+      "title": "Trump order to keep Michigan power plant open costs taxpayers $113m",
+      "description": "&lt;p&gt;Critics say JH Campbell coal-fired plant in western Michigan is expensive and emits high levels of toxic pollution&lt;/p&gt;&lt;p&gt;Trump ad...",
+      "link": "https://www.theguardian.com/us-news/2025/nov/28/trump-michigan-power-plant",
+      "pubDate": "Fri, 28 Nov 2025 13:00:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b9b34cbdc104d29367bc1633536ccfdc96826c35/451_0_4499_3597/master/4499.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd9fa87175bee2b47f6aaaa6a4c987c2"
+    },
     {
       "title": "UK energy bill payers will hand £2bn a year to EDF for new power stations",
       "description": "&lt;p&gt;French government-owned company to receive funding for Hinkley Point C and Sizewell C &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"http...",
@@ -130,7 +139,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Three decades since the first successful gene therapy, why aren’t we using them more?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txm?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 27 Nov 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Week in wildlife: seal pups, albino turtles and a sleeping tiger",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025/nov/27...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/nov/27/week-in-wildlife-seal-pups-albino-turtles-and-a-sleeping-tiger",
-      "pubDate": "Thu, 27 Nov 2025 08:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ed703d29de5c66fafab6d297e1ac19e242e1d575/585_541_2855_2284/master/2855.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb6ba46e714a3120a39cf9a614bd56ae"
     }
   ]
 }
