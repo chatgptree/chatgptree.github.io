@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-28T09:28:30.669Z",
+  "lastUpdated": "2025-11-28T10:30:38.336Z",
   "articles": [
+    {
+      "title": "Africa’s forests transformed from carbon sink to carbon source, study finds",
+      "description": "&lt;p&gt;Alarming shift since 2010 means planet’s three main rainforest regions now contribute to climate breakdown&lt;/p&gt;&lt;p&gt;Africa’s forests...",
+      "link": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
+      "pubDate": "Fri, 28 Nov 2025 10:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/55739f8180a891c284c8682eeb3d0194f67d7eef/751_0_4099_3280/master/4099.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b9e57800f009311cbf2e9fcac1a7570"
+    },
+    {
+      "title": "Invasive Scud Is Threatening the Great Lakes. Pollution Might Be Helping to Keep It Back.",
+      "description": "Through the murky waters of the Illinois River, scud have been moving steadily toward Lake Michigan. Scientists suggest the tiny crustaceans, an invas...",
+      "link": "https://insideclimatenews.org/news/28112025/illinois-river-invasive-scud-threatens-great-lakes/",
+      "pubDate": "Fri, 28 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Ripple effects’: support soars for dark sky haven",
       "description": "Milky Way Credit: Dr Ken Wishaw As the movement to establish a Dark Sky Reserve in the Sunshine Coast hinterland forges ahead, residents say they are ...",
@@ -103,7 +121,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Three decades since the first successful gene therapy, why aren’t we using them more?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txm?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 27 Nov 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -117,15 +135,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5b4d9330710bb9cd1f4d42e73b1cfb20ce75b3c3/809_0_2789_2232/master/2789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b567e8b4e091768a4618a30913645932"
-    },
-    {
-      "title": "Willow trees on Prince William’s land in Devon poisoned with herbicide",
-      "description": "&lt;p&gt;Exclusive: Unknown culprit suspected of spraying glyphosate on protected trees hoped to stop peat erosion  and flooding&lt;/p&gt;&lt;p&gt;Tre...",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/27/willow-trees-on-prince-william-land-in-devon-dartmoor-poisoned-with-herbicide-duchy-of-cornwall",
-      "pubDate": "Thu, 27 Nov 2025 15:36:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f2545f3f03e90425ecef624aee16e66bc49b5056/0_640_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f784e8125e7c9eb6d9c4f1e8586081b"
     },
     {
       "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ed703d29de5c66fafab6d297e1ac19e242e1d575/585_541_2855_2284/master/2855.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb6ba46e714a3120a39cf9a614bd56ae"
-    },
-    {
-      "title": "Massive prehistoric structure found near Stonehenge",
-      "description": "A study has confirmed 16 pits were dug close to the Stonehenge more than 4,000 years ago....",
-      "link": "https://www.bbc.com/news/articles/cly3vgd5732o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Nov 2025 06:40:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
