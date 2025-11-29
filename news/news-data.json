@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-29T09:26:42.104Z",
+  "lastUpdated": "2025-11-29T10:27:07.197Z",
   "articles": [
+    {
+      "title": "Murdoch Media Wrongly Pinned NJ High Electricity Costs on Clean Energy, Says Watchdog",
+      "description": "Media companies owned by Rupert Murdoch have found a “scapegoat” in clean energy for the rising electricity prices in New Jersey, according to two rep...",
+      "link": "https://insideclimatenews.org/news/29112025/murdoch-media-new-jersey-high-electricity-costs-misinformation/",
+      "pubDate": "Sat, 29 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Indigenous Cultural Burns Can Help Heal Climate-Ravaged Forests—and People",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Aynsley O’Neill with Amy Cardinal Christia...",
+      "link": "https://insideclimatenews.org/news/29112025/indigenous-prescribed-burns-forest-management/",
+      "pubDate": "Sat, 29 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Sri Lanka death toll from floods and landslides reaches 123",
       "description": "&lt;p&gt;Another 130 missing after heavy rains from Cyclone Ditwah while almost 44,000 evacuated to temporary shelters amid rescue operations&lt;/p&gt...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Three decades since the first successful gene therapy, why aren’t we using them more?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txm?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Nov 2025 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
-      "description": "&lt;p&gt;Ecologically sound farming and land stewardship can change individual, collective and planetary health&lt;/p&gt;&lt;p&gt;Within Indigenous co...",
-      "link": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
-      "pubDate": "Thu, 27 Nov 2025 14:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b820ee2a02b92a4a2d6e72b380c0c5584d047450/1040_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0296828fe70a749ead742ccdb4d06b54"
     }
   ]
 }
