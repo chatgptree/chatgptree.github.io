@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-30T22:25:51.206Z",
+  "lastUpdated": "2025-11-30T23:27:29.215Z",
   "articles": [
     {
       "title": "Death toll passes 900 in Indonesia, Thailand and Sri Lanka floods",
@@ -128,33 +128,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "At the Intersection of Sustainability and Financial Markets",
-      "description": "Amplify Your Authentic Sustainability Story. In the ‘APAC’ market, merely doing the right thing behind closed doors is no longer enough. Stakeholders ...",
-      "link": "https://econews.com.au/at-the-intersection-of-sustainability-and-financial-markets/",
-      "pubDate": "Sat, 29 Nov 2025 08:00:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Eco-Voice-logo-image-1024x571.png"
-    },
-    {
-      "title": "Inner West Council to host second Repair Day after record community turnout",
-      "description": "Following the overwhelming success of Inner West Council’s inaugural Repair Day in August – where residents brought in more than 112 items to be fixed...",
-      "link": "https://econews.com.au/inner-west-council-to-host-second-repair-day-after-record-community-turnout/",
-      "pubDate": "Sat, 29 Nov 2025 04:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/DSC07923-1024x681.jpeg"
-    },
-    {
-      "title": "Data centers turn to oceans and space amid surging AI-driven energy demand, says GlobalData",
-      "description": "The growing popularity of artificial intelligence (AI), cloud services, and digital applications is driving unprecedented demand for computing power, ...",
-      "link": "https://econews.com.au/data-centers-turn-to-oceans-and-space-amid-surging-ai-driven-energy-demand-says-globaldata/",
-      "pubDate": "Sat, 29 Nov 2025 04:04:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
       "title": "Trump order to keep Michigan power plant open costs taxpayers $113m",
       "description": "&lt;p&gt;Critics say JH Campbell coal-fired plant in western Michigan is expensive and emits high levels of toxic pollution&lt;/p&gt;&lt;p&gt;Trump ad...",
       "link": "https://www.theguardian.com/us-news/2025/nov/28/trump-michigan-power-plant",
@@ -173,13 +146,40 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "‘Ripple effects’: support soars for dark sky haven",
-      "description": "Milky Way Credit: Dr Ken Wishaw As the movement to establish a Dark Sky Reserve in the Sunshine Coast hinterland forges ahead, residents say they are ...",
-      "link": "https://econews.com.au/ripple-effects-support-soars-for-dark-sky-haven/",
-      "pubDate": "Fri, 28 Nov 2025 07:00:25 +0000",
-      "sourceName": "econews.com.au",
+      "title": "What is the new charge for driving an electric or plug-in hybrid car?",
+      "description": "All new cars must be electric or hybrid from 2030, but the government could put new taxes on them....",
+      "link": "https://www.bbc.com/news/articles/clykywlw2eko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Nov 2025 22:27:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Isaac-Moore-Park_Credit-Dr-Ken-Wishaw-1024x682.jpg"
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Australia finally acknowledges environment underpins all else. That’s no small thing | Ken Henry",
+      "description": "&lt;p&gt;In what are dangerous times for democracies around the world, parliament’s overhaul of nature laws in the EPBC Act shows ambitious reform rem...",
+      "link": "https://www.theguardian.com/commentisfree/2025/nov/28/nature-protection-laws-australia-acknowledges-environment-underpins-all",
+      "pubDate": "Thu, 27 Nov 2025 22:20:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/84331e3b8fde435391d1f831877960843e068c2f/375_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8700fbac7a3f21911003652ab353cd19"
+    },
+    {
+      "title": "Cats became our companions way later than you think",
+      "description": "In true feline style, cats took their time in deciding when and where to join us on the sofa. ...",
+      "link": "https://www.bbc.com/news/articles/cq8dvdp9gn7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Nov 2025 20:02:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Three decades since the first successful gene therapy, why aren’t we using them more?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txm?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Nov 2025 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     }
   ]
 }
