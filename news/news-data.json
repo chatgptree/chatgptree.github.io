@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-11-30T09:25:29.446Z",
+  "lastUpdated": "2025-11-30T10:26:26.771Z",
   "articles": [
+    {
+      "title": "Greeks Challenge EU-Backed Fish Farms Amid Environmental Concerns",
+      "description": "For Dimitris Kaleantopoulos, the mud is most disconcerting. When he sets out in his fishing boat, the waters of the Aegean Sea are clear enough for hi...",
+      "link": "https://insideclimatenews.org/news/30112025/greece-challenges-eu-fish-farms-environmental-concerns/",
+      "pubDate": "Sun, 30 Nov 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Petrochemical Expansion in Texas Will Fall Heavily on Communities of Color, Study Finds",
+      "description": "Researchers at Texas Southern University in Houston have analyzed demographic data around the locations of almost 100 industrial facilities proposed s...",
+      "link": "https://insideclimatenews.org/news/30112025/texas-petrochemical-expansion-will-fall-heavily-on-communities-of-color/",
+      "pubDate": "Sun, 30 Nov 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sri Lanka’s capital hit by floods as cyclone death toll nears 200",
+      "description": "&lt;p&gt;Hundreds of people still missing after heavy rain and mudslides in country’s deadliest natural disaster for years&lt;/p&gt;&lt;p&gt;Entire ar...",
+      "link": "https://www.theguardian.com/world/2025/nov/30/sri-lanka-capital-colombo-hit-by-floods-as-cyclone-death-toll-rises",
+      "pubDate": "Sun, 30 Nov 2025 09:28:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/72a2897018db36875cb71dbcd59db6f6691cd8f2/479_0_6742_5396/master/6742.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=468fa5897d46ece8c0f18b4b9a6714fa"
+    },
     {
       "title": "Water shortages could derail UK’s net zero plans, study finds",
       "description": "&lt;p&gt;Tensions grow after research in England finds there may not be enough water for planned carbon capture and hydrogen projects&lt;/p&gt;&lt;ul&...",
@@ -36,15 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c8fbec39ac7aad0864d74bba4d2dea0535eb6f1b/72_0_1084_867/master/1084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed3e0b67c0dcc31a7b5937a9c7411568"
-    },
-    {
-      "title": "Sri Lanka death toll from floods and landslides reaches 153",
-      "description": "&lt;p&gt;Another 191 missing after heavy rains from Cyclone Ditwah while almost 78,000 evacuated to temporary shelters amid rescue operations&lt;/p&gt...",
-      "link": "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters",
-      "pubDate": "Sat, 29 Nov 2025 16:39:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dcbdce75ad7f8f4ae5154e27e0ceab13e00960e9/427_0_4646_3718/master/4646.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d563a6a23ccf8ed5827e269b90ecd448"
     },
     {
       "title": "New England kicks off $450M plan to supercharge heat pump adoption",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/04/RMIT-logo.png"
-    },
-    {
-      "title": "SMARTGROUP UNVEILS NEW COMMITMENTS IN 2028 SUSTAINABILITY STRATEGY",
-      "description": "Leading Australian salary packaging, novated lease and fleet management provider Smartgroup has launched its 2028 sustainability strategy, strengtheni...",
-      "link": "https://econews.com.au/smartgroup-unveils-new-commitments-in-2028-sustainability-strategy/",
-      "pubDate": "Fri, 28 Nov 2025 07:00:23 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "AGED CARE AND HEALTH SECTOR EMBRACE NEW ERA OF DESIGN INNOVATION",
-      "description": "AGED CARE ACT 2025 USHERS IN NEXT GENERATION OF AGED CARE DESIGN PRINCIPLES Architects and designers across Australia are embracing a new era of innov...",
-      "link": "https://econews.com.au/aged-care-and-health-sector-embrace-new-era-of-design-innovation/",
-      "pubDate": "Fri, 28 Nov 2025 07:00:18 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
