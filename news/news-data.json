@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-30T12:51:57.961Z",
+  "lastUpdated": "2025-11-30T13:31:36.866Z",
   "articles": [
+    {
+      "title": "EPA urged to ban spraying of antibiotics on US food crops amid resistance fears",
+      "description": "&lt;p&gt;Use of 8m pounds of antibiotics and antifungals a year leads to superbugs and damages human health, lawsuit claims&lt;/p&gt;&lt;p&gt;A new &l...",
+      "link": "https://www.theguardian.com/environment/2025/nov/30/antibiotics-spraying-farms-epa-bacteria-resistance",
+      "pubDate": "Sun, 30 Nov 2025 13:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4a763803918607d36ee9bbf03682bcdbad9e2416/237_0_3228_2582/master/3228.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34f551d8da3ba80056e9dc0c44324b33"
+    },
     {
       "title": "Power surge: law changes could soon bring balcony solar to millions across US",
       "description": "&lt;p&gt;Tweaks to state laws mean many Americans will be able to benefit from small, simple plug-in solar panels&lt;/p&gt;&lt;p&gt;Acquiring solar pa...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Copy-of-ET-2025-1-1024x768.jpg"
-    },
-    {
-      "title": "Purearth Foods pioneers first software-led UPS deployment in ANZ beverage manufacturing with Schneider Electric",
-      "description": "Schneider Electric has partnered with Purearth Foods for a first-of-its-kind power infrastructure upgrade in ANZ’s beverage sector The project deliver...",
-      "link": "https://econews.com.au/purearth-foods-pioneers-first-software-led-ups-deployment-in-anz-beverage-manufacturing-with-schneider-electric/",
-      "pubDate": "Fri, 28 Nov 2025 07:00:24 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
