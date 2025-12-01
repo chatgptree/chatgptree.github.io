@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-01T08:40:23.536Z",
+  "lastUpdated": "2025-12-01T09:36:30.788Z",
   "articles": [
+    {
+      "title": "A drying Great Salt Lake is spewing toxic dust. It could cost Utah billions",
+      "description": "A new report lays out the case for action --  instead of waiting for more data....",
+      "link": "https://grist.org/climate/dust-great-salt-lake-public-health-billions/",
+      "pubDate": "Mon, 01 Dec 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/20250512-gsl-04.gif?quality=75&amp;strip=all"
+    },
     {
       "title": "Australia could miss clean energy target as solar and wind investment slumps, investors warn",
       "description": "&lt;p&gt;Expert cautions large pipeline of potential projects will not deliver required energy capacity unless companies make final investments&lt;/p&...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a715198eeff1fd0cea4009307d6478648cddc242/715_0_10672_8540/master/10672.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2843dcc861f5f688ab5d9ad918fd1a4"
-    },
-    {
-      "title": "The five things that set the 2025 Atlantic hurricane season apart",
-      "description": "2025 was an unusual Atlantic hurricane season. Darren Bett explains what set this season apart from others....",
-      "link": "https://www.bbc.com/weather/articles/cz68pd38y7vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Nov 2025 01:12:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
