@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-01T12:59:41.203Z",
+  "lastUpdated": "2025-12-01T13:43:35.685Z",
   "articles": [
+    {
+      "title": "Death toll in Indonesia floods passes 500",
+      "description": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region....",
+      "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 01 Dec 2025 13:03:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cooking with gas gets more expensive as Americans face rising prices into 2026",
       "description": "&lt;p&gt;Trump promised to cut consumers’ energy costs within his first year in office but gas price is up 4% on average&lt;/p&gt;&lt;p&gt;Americans u...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ed5b78a9b8e237fc232fff1419a4c422dcf7a476/62_0_2798_2239/master/2798.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba2d356f598136a22ebc60a13b5467f1"
-    },
-    {
-      "title": "England’s water industry issued £10.5bn in ‘green bonds’ despite pollution record",
-      "description": "&lt;p&gt;River Action says use of issuance tied to environmental benefits is ‘corporate greenwash on steroids’&lt;/p&gt;&lt;p&gt;Water companies have ...",
-      "link": "https://www.theguardian.com/business/2025/nov/30/england-water-companies-issued-105bn-in-green-bonds-despite-pollution-record",
-      "pubDate": "Sun, 30 Nov 2025 17:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f39cc4c23caad4ccb575175865623449ac4ff054/222_0_3701_2961/master/3701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a56f6cefc41fc02e067a071cbe87ae"
     }
   ]
 }
