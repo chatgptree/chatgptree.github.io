@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T07:29:03.499Z",
+  "lastUpdated": "2025-12-02T08:39:26.317Z",
   "articles": [
     {
       "title": "Death toll in Indonesia floods passes 600",
@@ -27,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/36e88d44bc90a6bba62abda5ae5c2d899c9842ea/49_0_3540_2832/master/3540.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8d028089d357ec975d99f224bf893fa"
+    },
+    {
+      "title": "'Birdgirl' marks decade of making nature accessible",
+      "description": "Dr Mya-Rose Craig marks 10 years of Black2Nature and calls for wider access to nature across the UK....",
+      "link": "https://www.bbc.com/news/articles/c8r3k7rejp1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 02 Dec 2025 06:16:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "To compete globally, Australia must rethink the foundations of industrial automation",
@@ -81,6 +90,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/LucilaDotto-1024x681.jpeg"
+    },
+    {
+      "title": "Why time is running out for Germany's green hydrogen industry",
+      "description": "Firms are ready to make the equipment needed for green hydrogen, but demand has not picked up yet....",
+      "link": "https://www.bbc.com/news/articles/cze60epnde0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 02 Dec 2025 00:18:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "People living along polluted Thames file legal complaint to force water firm to act",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hurricane season is over. Here&#8217;s why the US never got hit.",
-      "description": "For the first time in a decade, the country avoided landfall, thanks to an atmospheric anomaly. But this hurricane season was exceptional in other bad...",
-      "link": "https://grist.org/science/hurricane-season-is-over-heres-why-the-u-s-never-got-hit/",
-      "pubDate": "Mon, 01 Dec 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/Hurricane-Melissa-Black-River.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "A drying Great Salt Lake is spewing toxic dust. It could cost Utah billions.",
-      "description": "Instead of waiting for more data, a new report lays out the case for action....",
-      "link": "https://grist.org/health/dust-great-salt-lake-public-health-billions/",
-      "pubDate": "Mon, 01 Dec 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/20250512-gsl-04.gif?quality=75&amp;strip=all"
     }
   ]
 }
