@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-02T12:59:54.229Z",
+  "lastUpdated": "2025-12-02T13:45:48.865Z",
   "articles": [
+    {
+      "title": "‘Renewable’ No More: The Trump Administration Renames the National Renewable Energy Laboratory",
+      "description": "The Trump administration has renamed the National Renewable Energy Laboratory, now calling it the National Laboratory of the Rockies, marking an ident...",
+      "link": "https://insideclimatenews.org/news/02122025/renewable-no-more-the-trump-administration-renames-the-national-renewable-energy-laboratory/",
+      "pubDate": "Tue, 02 Dec 2025 13:21:45 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘They’re a lot like us’: saving the tiny punk monkeys facing extinction",
+      "description": "&lt;p&gt;In the tropical dry forests of northern Colombia, a small team is gradually restoring the degraded habitat of the rare cotton-top tamarin&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/dec/02/monkeys-northern-colombia-habitat-cotton-top-tamarins-aoe",
+      "pubDate": "Tue, 02 Dec 2025 13:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2d3e008d33e698759aaabff70a05e0dce9182e2f/1168_643_1185_948/master/1185.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbb4bf088eb627b15ee2967c36f599a1"
+    },
     {
       "title": "Spanish swine fever outbreak may be linked to food eaten by boar, say officials",
       "description": "&lt;p&gt;Hundreds of police, rangers and military personnel deployed to tackle virus threatening pork export industry&lt;/p&gt;&lt;p&gt;Spanish author...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/274e34bf348c10b72e58f4a1c36549b276e5fe96/1348_0_4580_3665/master/4580.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b3468dc6a4accc1d6bd8e42075f8db4"
-    },
-    {
-      "title": "Zillow deletes climate risk data from listings after complaints it harms sales",
-      "description": "&lt;p&gt;Site removes feature after real estate agents and some homeowners say scores appear arbitrary and hurt sales&lt;/p&gt;&lt;p&gt;Zillow, the US...",
-      "link": "https://www.theguardian.com/environment/2025/dec/01/zillow-removes-climate-risk-data-home-listings",
-      "pubDate": "Mon, 01 Dec 2025 18:27:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/95263208a12b2e25cf8d4a742921cf5a8b14f7df/0_216_3893_3116/master/3893.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=789655377a149aeb6106ff4c37f9c0d1"
-    },
-    {
-      "title": "Cooking with gas gets more expensive as Americans face rising prices into 2026",
-      "description": "&lt;p&gt;Trump promised to cut consumers’ energy costs within his first year in office but gas price is up 4% on average&lt;/p&gt;&lt;p&gt;Americans u...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/01/gas-energy-prices",
-      "pubDate": "Mon, 01 Dec 2025 12:30:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2a753121c16e6e211888033f086851315e8c486e/0_0_3697_2957/master/3697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fe96dbf0aea6a57019c0fdd49b1449f"
     }
   ]
 }
