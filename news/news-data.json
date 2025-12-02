@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-02T19:25:38.083Z",
+  "lastUpdated": "2025-12-02T20:35:04.959Z",
   "articles": [
+    {
+      "title": "Trump administration puts Fema workers back on administrative leave",
+      "description": "&lt;p&gt;Fourteen workers who signed a petition that warned cuts put the US at risk were initially suspended in August&lt;/p&gt;&lt;p&gt;The &lt;a hre...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/02/trump-fema-workers-administrative-leave",
+      "pubDate": "Tue, 02 Dec 2025 20:23:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e3f078909cd8407cc213e26849bace2cff896a61/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eaa434b26501d12f8cce0b4f5c10051a"
+    },
+    {
+      "title": "Global heating and other human activity are making Asia’s floods more lethal",
+      "description": "&lt;p&gt;Much improved response systems are struggling to cope with ever more powerful and destructive storms&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&l...",
+      "link": "https://www.theguardian.com/world/2025/dec/02/global-heating-and-other-human-activity-are-making-asias-floods-more-lethal",
+      "pubDate": "Tue, 02 Dec 2025 19:19:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/39457291d432907301936a0abb7ddc4f8ca65198/65_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37b0517c72dd223eb4ddc7af352e3b4e"
+    },
     {
       "title": "Mayor says too many families are 'working poor'",
       "description": "Tracy Brabin talks to Radio Leeds about the Budget, COP30 and taxing tourists....",
@@ -119,65 +137,47 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "To compete globally, Australia must rethink the foundations of industrial automation",
-      "description": "By Carlos Urbano, Vice President – Industry, Schneider Electric Australia’s manufacturing sector is at a pivotal moment. Competitive pressure, sustain...",
-      "link": "https://econews.com.au/to-compete-globally-australia-must-rethink-the-foundations-of-industrial-automation/",
-      "pubDate": "Tue, 02 Dec 2025 05:05:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "New documentary trailer with Simon Baker launches Final Fight for the Bight campaign for World Heritage protection",
-      "description": "A new film project, ‘Final Fight for the Bight: Legacy’, today releases a powerful spec trailer narrated by acclaimed Australian actor and surfer Simo...",
-      "link": "https://econews.com.au/new-documentary-trailer-with-simon-baker-launches-final-fight-for-the-bight-campaign-for-world-heritage-protection/",
-      "pubDate": "Tue, 02 Dec 2025 05:05:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Sunway Hotels &#038; Resorts Partners with Saxon Renewables to Let Guests Take Control of their Carbon Emissions",
-      "description": "Landmark collaboration enables eco-conscious travellers to contribute directly to certified carbon offsetting projects and drive real climate action S...",
-      "link": "https://econews.com.au/sunway-hotels-resorts-partners-with-saxon-renewables-to-let-guests-take-control-of-their-carbon-emissions/",
-      "pubDate": "Tue, 02 Dec 2025 05:05:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Southern Annular Mode in most positive state in 1,000 years, review finds",
-      "description": "Key physical SAM impacts across the Southern Ocean and Antarctica Monash University A new scientific review has revealed that the Southern Annular Mod...",
-      "link": "https://econews.com.au/southern-annular-mode-in-most-positive-state-in-1000-years-review-finds/",
-      "pubDate": "Tue, 02 Dec 2025 05:05:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "Six business skills you’ll need to succeed in 2026 – CPA Australia",
-      "description": "Gavan Ord, Business Investment and International Lead, CPA Australia. CPA Australia Australia’s biggest accounting body, CPA Australia, has outlined s...",
-      "link": "https://econews.com.au/six-business-skills-youll-need-to-succeed-in-2026-cpa-australia/",
-      "pubDate": "Tue, 02 Dec 2025 05:05:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/CPA-logo.jpg"
-    },
-    {
-      "title": "Powering Australia’s Future: Smarter renewable energy projects and sustainable outcomes",
-      "description": "SoHyun Kang, Regional Managing Director for Asia Pacific By SoHyun Kang, Regional Managing Director for Asia Pacific, and Lucila Dotto, Global Head of...",
-      "link": "https://econews.com.au/powering-australias-future-smarter-renewable-energy-projects-and-sustainable-outcomes/",
-      "pubDate": "Tue, 02 Dec 2025 05:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/LucilaDotto-1024x681.jpeg"
-    },
-    {
       "title": "Why time is running out for Germany's green hydrogen industry",
       "description": "Firms are ready to make the equipment needed for green hydrogen, but demand has not picked up yet....",
       "link": "https://www.bbc.com/news/articles/cze60epnde0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 02 Dec 2025 00:18:35 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Floods kill at least 1,100 people across south and south-east Asia – video",
+      "description": "&lt;p&gt;Sri Lanka and Indonesia deployed military personnel as they raced to help victims of devastating flooding that has killed more than 1,100 peo...",
+      "link": "https://www.theguardian.com/world/video/2025/dec/01/floods-asia-sri-lanka-thailand-indonesia-sumatra-malaysia-video",
+      "pubDate": "Mon, 01 Dec 2025 19:01:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/274e34bf348c10b72e58f4a1c36549b276e5fe96/1348_0_4580_3665/master/4580.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b3468dc6a4accc1d6bd8e42075f8db4"
+    },
+    {
+      "title": "Zillow deletes climate risk data from listings after complaints it harms sales",
+      "description": "&lt;p&gt;Site removes feature after real estate agents and some homeowners say scores appear arbitrary and hurt sales&lt;/p&gt;&lt;p&gt;Zillow, the US...",
+      "link": "https://www.theguardian.com/environment/2025/dec/01/zillow-removes-climate-risk-data-home-listings",
+      "pubDate": "Mon, 01 Dec 2025 18:27:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/95263208a12b2e25cf8d4a742921cf5a8b14f7df/0_216_3893_3116/master/3893.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=789655377a149aeb6106ff4c37f9c0d1"
+    },
+    {
+      "title": "Cooking with gas gets more expensive as Americans face rising prices into 2026",
+      "description": "&lt;p&gt;Trump promised to cut consumers’ energy costs within his first year in office but gas price is up 4% on average&lt;/p&gt;&lt;p&gt;Americans u...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/01/gas-energy-prices",
+      "pubDate": "Mon, 01 Dec 2025 12:30:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2a753121c16e6e211888033f086851315e8c486e/0_0_3697_2957/master/3697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fe96dbf0aea6a57019c0fdd49b1449f"
+    },
+    {
+      "title": "A Massive, Chinese-Backed Port in Peru Could Push the Amazon Rainforest Over the Edge",
+      "description": "Planet China: Eleventh in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. CHANCAY, Peru—Th...",
+      "link": "https://insideclimatenews.org/news/01122025/china-port-in-peru-impact-on-amazon-rainforest/",
+      "pubDate": "Mon, 01 Dec 2025 10:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
