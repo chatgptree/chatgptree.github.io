@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2025-12-02T06:42:47.465Z",
+  "lastUpdated": "2025-12-02T07:29:03.499Z",
   "articles": [
     {
       "title": "Death toll in Indonesia floods passes 600",
       "description": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region....",
       "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 02 Dec 2025 06:16:07 GMT",
+      "pubDate": "Tue, 02 Dec 2025 07:10:41 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘I kept smelling a horrible nasty smell’: the risks of England’s old dumping grounds",
+      "description": "&lt;p&gt;For some, the smell brings on nausea and headaches. Others fear ‘forever chemicals’ seeping into the water&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2025/dec/02/i-kept-smelling-a-horrible-nasty-smell-the-risks-of-englands-old-dumping-grounds",
+      "pubDate": "Tue, 02 Dec 2025 07:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d092f8ee2d6bac63e3d548898ed6bbfb86227a6c/114_0_1787_1429/master/1787.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f61117f2247e0056fca296951c95751"
+    },
+    {
+      "title": "UK and Europe’s hidden landfills at risk of leaking toxic waste into water supplies",
+      "description": "&lt;p&gt;Exclusive: Rising flood risks driven by climate change could release chemicals from ageing sites – posing threats to ecosystems&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/environment/2025/dec/02/uk-europe-hidden-landfill-leaking-toxic-waste-water-supplies",
+      "pubDate": "Tue, 02 Dec 2025 07:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/36e88d44bc90a6bba62abda5ae5c2d899c9842ea/49_0_3540_2832/master/3540.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8d028089d357ec975d99f224bf893fa"
     },
     {
       "title": "To compete globally, Australia must rethink the foundations of industrial automation",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/11/20250512-gsl-04.gif?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Australia could miss clean energy target as solar and wind investment slumps, investors warn",
-      "description": "&lt;p&gt;Expert cautions large pipeline of potential projects will not deliver required energy capacity unless companies make final investments&lt;/p&...",
-      "link": "https://www.theguardian.com/environment/2025/dec/01/australia-could-miss-clean-energy-target-as-solar-and-wind-investment-slumps-investors-warn",
-      "pubDate": "Mon, 01 Dec 2025 08:22:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1fb353b80336d5be2f8d66ca112a27cf0a1d6b95/516_0_1213_971/master/1213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b4613b4c95121b412153038a33f3680"
-    },
-    {
-      "title": "Wood-burning stoves could face partial ban in Labour’s updated environment plan",
-      "description": "&lt;p&gt;Exclusive: Pollution targets set out alongside nature recovery projects to allay concerns over housebuilding&lt;/p&gt;&lt;p&gt;Wood-burning s...",
-      "link": "https://www.theguardian.com/environment/2025/dec/01/wood-burning-stoves-to-face-partial-ban-in-labours-updated-environment-plan",
-      "pubDate": "Mon, 01 Dec 2025 08:05:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7873f78ddf4f751cf77d4fc1513dc7c37007d6d4/264_0_3412_2731/master/3412.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d24abb41d164c25060601855502a0667"
     }
   ]
 }
