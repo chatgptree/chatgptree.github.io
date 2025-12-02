@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-02T05:27:52.210Z",
+  "lastUpdated": "2025-12-02T06:42:47.465Z",
   "articles": [
+    {
+      "title": "Death toll in Indonesia floods passes 600",
+      "description": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region....",
+      "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 02 Dec 2025 06:16:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "To compete globally, Australia must rethink the foundations of industrial automation",
       "description": "By Carlos Urbano, Vice President – Industry, Schneider Electric Australia’s manufacturing sector is at a pivotal moment. Competitive pressure, sustain...",
@@ -90,15 +99,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b530842e8253a464b096bff96e389a36e5c62ef5/866_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52151930c910ce3f8184b20820832546"
-    },
-    {
-      "title": "Death toll in Indonesia floods passes 500",
-      "description": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region....",
-      "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 01 Dec 2025 13:03:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Cooking with gas gets more expensive as Americans face rising prices into 2026",
