@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-03T16:38:45.787Z",
+  "lastUpdated": "2025-12-03T17:29:01.451Z",
   "articles": [
+    {
+      "title": "Rare Win for Renewable Energy: Trump Administration Funds Geothermal Network Expansion",
+      "description": "The U.S. Department of Energy has approved an $8.6 million grant that will allow the nation’s first utility-led geothermal heating and cooling network...",
+      "link": "https://insideclimatenews.org/news/03122025/rare-win-for-renewable-energy-trump-administration-funds-geothermal-network-expansion/",
+      "pubDate": "Wed, 03 Dec 2025 17:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How one Seattle organization is turning food waste into plant food",
       "description": "A program in Seattle’s South Park neighborhood is reducing garbage while helping residents grow their own gardens....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump administration puts Fema workers back on administrative leave",
-      "description": "&lt;p&gt;Fourteen workers who signed a petition that warned cuts put the US at risk were initially suspended in August&lt;/p&gt;&lt;p&gt;The &lt;a hre...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/02/trump-fema-workers-administrative-leave",
-      "pubDate": "Tue, 02 Dec 2025 20:23:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e3f078909cd8407cc213e26849bace2cff896a61/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eaa434b26501d12f8cce0b4f5c10051a"
     }
   ]
 }
