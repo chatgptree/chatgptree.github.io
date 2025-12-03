@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-03T13:00:10.454Z",
+  "lastUpdated": "2025-12-03T13:45:04.607Z",
   "articles": [
+    {
+      "title": "The environmental costs of corn: should the US change how it grows its dominant crop?",
+      "description": "&lt;p&gt;Amid concerns over greenhouse gas emissions, the Trump administration has abolished climate-friendly farming incentives&lt;/p&gt;&lt;p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2025/dec/03/environment-corn-farming-trump-administration",
+      "pubDate": "Wed, 03 Dec 2025 13:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/57ef13a588f12fdc935bbdd49c83b1a71dc0926d/349_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b51fd561ccbaa38f7c7aeacf9f5d05c"
+    },
     {
       "title": "A Hurricane Season That Surprised with Record Storms and Notable Lulls",
       "description": "The 2025 Atlantic hurricane season may be best-remembered for its unusual distribution of storms, including Melissa, which struck Jamaica as a devasta...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/98e973386df5018975753faa20af8a30e0eb07e3/0_0_2810_2250/master/2810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ef97d1e7e1e32985afb68d2b91b88b8"
-    },
-    {
-      "title": "‘Renewable’ No More: The Trump Administration Renames the National Renewable Energy Laboratory",
-      "description": "The Trump administration has renamed the National Renewable Energy Laboratory, now calling it the National Laboratory of the Rockies, marking an ident...",
-      "link": "https://insideclimatenews.org/news/02122025/renewable-no-more-the-trump-administration-renames-the-national-renewable-energy-laboratory/",
-      "pubDate": "Tue, 02 Dec 2025 13:21:45 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
