@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-03T14:30:01.214Z",
+  "lastUpdated": "2025-12-03T15:32:06.724Z",
   "articles": [
+    {
+      "title": "How one Seattle organization is turning food waste into plant food",
+      "description": "A program in Seattle’s South Park neighborhood is reducing garbage while helping residents grow their own gardens....",
+      "link": "https://grist.org/sponsored/how-one-seattle-organization-is-turning-food-waste-into-plant-food/",
+      "pubDate": "Wed, 03 Dec 2025 15:04:34 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/image003.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "The environmental costs of corn: should the US change how it grows its dominant crop?",
       "description": "&lt;p&gt;Amid concerns over greenhouse gas emissions, the Trump administration has abolished climate-friendly farming incentives&lt;/p&gt;&lt;p&gt;&lt...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e3f078909cd8407cc213e26849bace2cff896a61/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eaa434b26501d12f8cce0b4f5c10051a"
-    },
-    {
-      "title": "Mayor says too many families are 'working poor'",
-      "description": "Tracy Brabin talks to Radio Leeds about the Budget, COP30 and taxing tourists....",
-      "link": "https://www.bbc.com/news/articles/c5y26k3dlp3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 02 Dec 2025 16:46:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
