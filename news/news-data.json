@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T13:45:04.607Z",
+  "lastUpdated": "2025-12-03T14:30:01.214Z",
   "articles": [
     {
       "title": "The environmental costs of corn: should the US change how it grows its dominant crop?",
@@ -9,6 +9,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/57ef13a588f12fdc935bbdd49c83b1a71dc0926d/349_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b51fd561ccbaa38f7c7aeacf9f5d05c"
+    },
+    {
+      "title": "Nike, Superdry and Lacoste ads banned over misleading green claims",
+      "description": "The advertising watchdog said the retailers misled shoppers with their 'sustainability' claims....",
+      "link": "https://www.bbc.com/news/articles/ckgm79djr9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 03 Dec 2025 11:50:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "A Hurricane Season That Surprised with Record Storms and Notable Lulls",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’",
-      "description": "&lt;p&gt;Polluting facilities in Monterrey, which has close ties to the US, are pumping toxic heavy metals into the city’s air and threatening residen...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
-      "pubDate": "Tue, 02 Dec 2025 14:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/98e973386df5018975753faa20af8a30e0eb07e3/0_0_2810_2250/master/2810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ef97d1e7e1e32985afb68d2b91b88b8"
     }
   ]
 }
