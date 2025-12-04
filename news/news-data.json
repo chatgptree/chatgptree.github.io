@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-12-04T13:00:31.820Z",
+  "lastUpdated": "2025-12-04T14:29:49.964Z",
   "articles": [
     {
-      "title": "Water plant at centre of Tunbridge Wells supply failure given risk notice in 2024",
-      "description": "&lt;p&gt;Regulator investigating South East Water contamination issue had previously warned of potential health danger &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "title": "A diving prince, sunken treasure and snared by the Titanic: Joe MacInnis on his ‘rip-roaring’ life as an ocean adventurer",
+      "description": "&lt;p&gt;At 88, the Canadian reflects on a golden era of underwater discovery and how shipwrecks and the cruel sea are the ‘greatest of all teachers’&...",
+      "link": "https://www.theguardian.com/environment/2025/dec/04/joe-macinnis-canada-ocean-exploration-shipwrecks-leadership-treasure-diving-titanic",
+      "pubDate": "Thu, 04 Dec 2025 14:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/27282f8f4fa1288fa3a5531b73af7b793fa28b7f/678_7_2596_2077/master/2596.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=067a7261bc24592bf880875dbdacf5f4"
+    },
+    {
+      "title": "EV Sales Are in the Tank. So What Happens Next?",
+      "description": "Sales of new electric vehicles have plunged since federal tax credits ended on Sept. 30. In November, EVs accounted for 5.3 percent of U.S. new-car an...",
+      "link": "https://insideclimatenews.org/news/04122025/inside-clean-energy-ev-sales-after-tax-credits-removal/",
+      "pubDate": "Thu, 04 Dec 2025 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Factory Farms in Iowa Generate 110 Billion Pounds of Manure Per Year. No One Tracks Where It’s Going.",
+      "description": "This story is a collaboration between Inside Climate News and Sentient Media. More than a thousand hogs grow fat in the enclosed shed-like structures ...",
+      "link": "https://insideclimatenews.org/news/04122025/iowa-factory-farms-manure-management/",
+      "pubDate": "Thu, 04 Dec 2025 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Water plant that caused Tunbridge Wells supply failure was given risk notice in 2024",
+      "description": "&lt;p&gt;Watchdog investigating South East Water contamination issue had previously warned of potential health danger&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
       "link": "https://www.theguardian.com/environment/2025/dec/04/south-east-water-plant-tunbridge-wells-supply-failure-risk-notice",
       "pubDate": "Thu, 04 Dec 2025 12:55:02 GMT",
       "sourceName": "theguardian.com",
@@ -36,6 +63,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-2198948583-1.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Households face higher energy bills as £28bn grid upgrade gets go-ahead",
+      "description": "&lt;p&gt;Plan to improve gas networks and rewire electricity systems across Great Britain likely to add £30 to average annual bill&lt;/p&gt;&lt;ul&gt;...",
+      "link": "https://www.theguardian.com/money/2025/dec/04/fears-of-higher-energy-bills-as-28bn-grid-upgrade-gets-go-ahead",
+      "pubDate": "Thu, 04 Dec 2025 08:26:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/eb30f42d48b32b97f659990cea8daecbb59ff556/0_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9798aafc478ff89841784156fb64843"
     },
     {
       "title": "GB Energy plan to focus on historical oil and gas areas",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/733f62dbaf657aaa4a0bf1401b816e5d2175c5ee/667_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fc075e136146908206f10aeba0c1ca1"
-    },
-    {
-      "title": "Trump says he will repeal Biden-era fuel efficiency standards for cars and trucks",
-      "description": "&lt;p&gt;Move marks president’s latest effort to dismantle pollution regulations and support for cleaner-running vehicles&lt;/p&gt;&lt;p&gt;&lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/03/trump-fuel-efficiency-rules",
-      "pubDate": "Wed, 03 Dec 2025 22:04:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/db169b08a3a3f11122df5e83c5937ed1a3999592/333_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=348bc3d3b65850f02161bf397b5a4518"
-    },
-    {
-      "title": "Rare Win for Renewable Energy: Trump Administration Funds Geothermal Network Expansion",
-      "description": "The U.S. Department of Energy has approved an $8.6 million grant that will allow the nation’s first utility-led geothermal heating and cooling network...",
-      "link": "https://insideclimatenews.org/news/03122025/rare-win-for-renewable-energy-trump-administration-funds-geothermal-network-expansion/",
-      "pubDate": "Wed, 03 Dec 2025 17:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How one Seattle organization is turning food waste into plant food",
-      "description": "A program in Seattle’s South Park neighborhood is reducing garbage while helping residents grow their own gardens....",
-      "link": "https://grist.org/sponsored/how-one-seattle-organization-is-turning-food-waste-into-plant-food/",
-      "pubDate": "Wed, 03 Dec 2025 15:04:34 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/image003.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The environmental costs of corn: should the US change how it grows its dominant crop?",
-      "description": "&lt;p&gt;Amid concerns over greenhouse gas emissions, the Trump administration has abolished climate-friendly farming incentives&lt;/p&gt;&lt;p&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2025/dec/03/environment-corn-farming-trump-administration",
-      "pubDate": "Wed, 03 Dec 2025 13:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/57ef13a588f12fdc935bbdd49c83b1a71dc0926d/349_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b51fd561ccbaa38f7c7aeacf9f5d05c"
     }
   ]
 }
