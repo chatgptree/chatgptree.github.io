@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-03T23:24:22.195Z",
+  "lastUpdated": "2025-12-04T02:09:05.398Z",
   "articles": [
+    {
+      "title": "Trump Administration Terminates Fuel Economy Standards",
+      "description": "The Trump administration unveiled a significant rollback of the Biden administration’s national fuel economy standards on Wednesday to make it easier ...",
+      "link": "https://insideclimatenews.org/news/03122025/trump-administration-terminates-fuel-economy-standards/",
+      "pubDate": "Thu, 04 Dec 2025 01:23:28 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK farmers lose £800m after heat and drought cause one of worst harvests on record",
+      "description": "&lt;p&gt;Many now concerned about ability to make living in fast-changing climate after one of worst grain harvests recorded&lt;/p&gt;&lt;p&gt;Record ...",
+      "link": "https://www.theguardian.com/environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest",
+      "pubDate": "Thu, 04 Dec 2025 00:01:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/733f62dbaf657aaa4a0bf1401b816e5d2175c5ee/667_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fc075e136146908206f10aeba0c1ca1"
+    },
     {
       "title": "Trump says he will repeal Biden-era fuel efficiency standards for cars and trucks",
       "description": "&lt;p&gt;Move marks president’s latest effort to dismantle pollution regulations and support for cleaner-running vehicles&lt;/p&gt;&lt;p&gt;&lt;a href...",
@@ -119,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Tesla privately warned UK that weakening EV rules would hit sales",
-      "description": "&lt;p&gt;Elon Musk-owned electric carmaker also called for support for the secondhand market, documents reveal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&...",
-      "link": "https://www.theguardian.com/technology/2025/dec/03/tesla-uk-ev-rules-sales-elon-musk-electric-car",
-      "pubDate": "Wed, 03 Dec 2025 06:00:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7c53a1f4d6976908b74b34d151277e9ef4b96d8d/657_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7a2b461a7a854581fa756026b64d0b0"
-    },
-    {
       "title": "AEMO’s warning – generation progress will amount to nothing and hit consumers hard if it cannot be distributed",
       "description": "Tom Gooch, VP Commercial, Neara By Tom Gooch, VP Commercial, Neara “AEMO’s latest warning on the long-term stability of Australia’s energy network bey...",
       "link": "https://econews.com.au/aemos-warning-generation-progress-will-amount-to-nothing-and-hit-consumers-hard-if-it-cannot-be-distributed/",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "As Countries Take Steps to Protect Wildlife in Legal Trade, Animal and Plant Trafficking Rages On",
-      "description": "Whether people realize it or not, traces of the global wildlife trade are ubiquitous, from expensive reptile-skin boots in department stores to the co...",
-      "link": "https://insideclimatenews.org/news/02122025/todays-climate-global-wildlife-trade-regulations-illegal/",
-      "pubDate": "Tue, 02 Dec 2025 22:26:40 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
