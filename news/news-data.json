@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-04T11:26:41.262Z",
+  "lastUpdated": "2025-12-04T13:00:31.820Z",
   "articles": [
+    {
+      "title": "Water plant at centre of Tunbridge Wells supply failure given risk notice in 2024",
+      "description": "&lt;p&gt;Regulator investigating South East Water contamination issue had previously warned of potential health danger &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "link": "https://www.theguardian.com/environment/2025/dec/04/south-east-water-plant-tunbridge-wells-supply-failure-risk-notice",
+      "pubDate": "Thu, 04 Dec 2025 12:55:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/66e29581230beb51db7a3cdd060a25b599dca262/198_0_4120_3296/master/4120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cb526a5bb64fe5f7efb103ff684e66a"
+    },
     {
       "title": "Ohio Landfills Take Drilling Waste but Don’t Track or Test Much of It",
       "description": "This story by The Allegheny Front&#160;was reported in collaboration with Inside Climate News. Listen to the radio version of the piece below. Tina an...",
@@ -29,6 +38,15 @@
       "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-2198948583-1.jpg?quality=75&#038;strip=all"
     },
     {
+      "title": "GB Energy plan to focus on historical oil and gas areas",
+      "description": "The new publicly-owned body says its investments will aim to support 10,000 jobs by 2030....",
+      "link": "https://www.bbc.com/news/articles/c39pxjdm7xno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Dec 2025 06:12:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "The Uneven Race Against Heat",
       "description": "Curlew Sandpiper  Credit: Photographer Ryan Barnaby Why Australia’s Shorebirds Are Evolving in Real-Time By Sarah Hard While politicians debate climat...",
       "link": "https://econews.com.au/the-uneven-race-against-heat/",
@@ -45,6 +63,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/73a616380c68e968cd06985f43a671c0921b7bc2/0_1383_3648_2917/master/3648.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1a8d555fb8687ff22c855f851650743"
+    },
+    {
+      "title": "Waste from UK's largest opencast mine 'poses significant risk'",
+      "description": "There are safety worries as three large spoil tips are set to be left above Merthyr Tydfil....",
+      "link": "https://www.bbc.com/news/articles/c62vzw30y0qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Dec 2025 06:00:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "A Greener Christmas: Sustainable gifts that won’t end up in landfill",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/57ef13a588f12fdc935bbdd49c83b1a71dc0926d/349_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b51fd561ccbaa38f7c7aeacf9f5d05c"
-    },
-    {
-      "title": "Nike, Superdry and Lacoste ads banned over misleading green claims",
-      "description": "The advertising watchdog said the retailers misled shoppers with their 'sustainability' claims....",
-      "link": "https://www.bbc.com/news/articles/ckgm79djr9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 03 Dec 2025 11:50:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Hurricane Season That Surprised With Record Storms and Notable Lulls",
-      "description": "The 2025 Atlantic hurricane season may be best-remembered for its unusual distribution of storms, including Melissa, which struck Jamaica as a devasta...",
-      "link": "https://insideclimatenews.org/news/03122025/hurricane-season-record-storms-united-states-spared/",
-      "pubDate": "Wed, 03 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Alabama Regulators Approve Two-Year Electric Rate Freeze and Two Solar Projects for a Meta Inc. Data Center",
-      "description": "MONTGOMERY, Ala.—The Alabama Public Service Commission on Tuesday approved a sweeping package of temporary changes they say will keep electric rates s...",
-      "link": "https://insideclimatenews.org/news/03122025/alabama-public-service-commission-approves-rate-freeze-data-center-solar-projects/",
-      "pubDate": "Wed, 03 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
