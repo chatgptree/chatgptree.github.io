@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-04T15:32:21.347Z",
+  "lastUpdated": "2025-12-04T16:39:27.122Z",
   "articles": [
+    {
+      "title": "New Report Warns of Critical Climate Risks in Arab Region",
+      "description": "As global warming accelerates, about 480 million people in North Africa and the Arabian Peninsula face intensifying and in some places unsurvivable he...",
+      "link": "https://insideclimatenews.org/news/04122025/arab-region-global-warming-farms-aquifers/",
+      "pubDate": "Thu, 04 Dec 2025 16:21:55 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Volcanic eruption may have triggered Europe's deadly Black Death plague",
+      "description": "A volcanic eruption may have set off a chain reaction that led to Europe's deadliest pandemic....",
+      "link": "https://www.bbc.com/news/articles/cy5gr2x914ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Dec 2025 16:00:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A diving prince, sunken treasure and snared by the Titanic: Joe MacInnis on his ‘rip-roaring’ life as an ocean adventurer",
       "description": "&lt;p&gt;At 88, the Canadian reflects on a golden era of underwater discovery and how shipwrecks and the cruel sea are the ‘greatest of all teachers’&...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9a4887c4572f03ab76db7b7032a344ac2d20f7f6/137_0_2063_1650/master/2063.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81bb32ae0ee8de7126de73ffb9e27572"
-    },
-    {
-      "title": "Trump Administration Terminates Fuel Economy Standards",
-      "description": "The Trump administration unveiled a significant rollback of the Biden administration’s national fuel economy standards on Wednesday to make it easier ...",
-      "link": "https://insideclimatenews.org/news/03122025/trump-administration-terminates-fuel-economy-standards/",
-      "pubDate": "Thu, 04 Dec 2025 01:23:28 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK farmers lose £800m after heat and drought cause one of worst harvests on record",
-      "description": "&lt;p&gt;Many now concerned about ability to make living in fast-changing climate after one of worst grain harvests recorded&lt;/p&gt;&lt;p&gt;Record ...",
-      "link": "https://www.theguardian.com/environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest",
-      "pubDate": "Thu, 04 Dec 2025 00:01:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/733f62dbaf657aaa4a0bf1401b816e5d2175c5ee/667_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fc075e136146908206f10aeba0c1ca1"
     }
   ]
 }
