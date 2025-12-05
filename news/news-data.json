@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-05T13:38:30.846Z",
+  "lastUpdated": "2025-12-05T14:28:58.756Z",
   "articles": [
+    {
+      "title": "South Australian bus ads misled public by claiming gas is ‘clean and green’, regulator finds",
+      "description": "&lt;p&gt;Ads to be removed from Adelaide Metro buses after advertising regulator rules they breach its environmental claims code&lt;/p&gt;&lt;ul&gt;&l...",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/06/south-australia-bus-advertising-natural-gas-clean-green",
+      "pubDate": "Fri, 05 Dec 2025 14:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d68fe495fdb931c954a80c7a53ec7586f8348688/0_450_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70fb23195fdb782ab93f5011c9d8067d"
+    },
+    {
+      "title": "Streets named after birds in Britain on rise as species’ populations plummet",
+      "description": "&lt;p&gt;RSPB says growing trend for honouring species that are in decline is not matched by action on conservation&lt;/p&gt;&lt;p&gt;Britain’s street...",
+      "link": "https://www.theguardian.com/environment/2025/dec/05/street-names-birds-britain-rise-populations-plummet",
+      "pubDate": "Fri, 05 Dec 2025 14:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/62e651911e3d37714d53c2f021507ca0ecd8e8e1/324_0_3240_2592/master/3240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07ddb209df91205fe0843954163d4844"
+    },
     {
       "title": "California pesticide agency could loosen restrictions on most toxic rat poisons",
       "description": "&lt;p&gt;The anti-coagulant rodenticides also unintentionally harm wildlife across the state, including endangered species&lt;/p&gt;&lt;p&gt;The admin...",
@@ -53,7 +71,7 @@
       "pubDate": "Fri, 05 Dec 2025 09:45:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/11/COP30-11.19.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "Week in wildlife: a studious deer and a partying raccoon",
@@ -99,15 +117,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2c6633786d9648d722d67b803f89d6e24463692a/0_0_7580_6068/master/7580.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b66130e910cf210749619041a0ad3b78"
-    },
-    {
-      "title": "60,000 African penguins starved to death after sardine numbers collapsed – study",
-      "description": "&lt;p&gt;Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in South Africa, research finds&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
-      "pubDate": "Fri, 05 Dec 2025 06:00:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fde4d28df532332df9d64bc14c2ac5ed2c9b529d/421_0_4164_3332/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38c5c561b1acb2e5aeabe027eb5c0398"
     },
     {
       "title": "Top UK scientist says research visa restrictions endanger economy",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Image-2-1024x683.jpeg"
-    },
-    {
-      "title": "Why small farmers can’t fix our hunger problem | Cassandra Loftlin",
-      "description": "&lt;p&gt;Big farmers grab the lion’s share of US government support, and recent cuts have chipped away at small growers’ markets and margins&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/environment/2025/dec/04/small-farmers-american-hunger-problem",
-      "pubDate": "Thu, 04 Dec 2025 18:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/57dbafeab5849796cda7c35480e5d928f5869d40/1033_0_3591_2874/master/3591.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=544f09132c5fc824140609edd3f20fa7"
     }
   ]
 }
