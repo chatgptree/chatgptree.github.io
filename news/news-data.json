@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-05T05:28:24.582Z",
+  "lastUpdated": "2025-12-05T06:42:09.515Z",
   "articles": [
+    {
+      "title": "Over a pint in Oxford, we may have stumbled upon the holy grail of agriculture | George Monbiot",
+      "description": "&lt;p&gt;I knew that a revolution in our understanding of soil could change the world. Then came a eureka moment – and the birth of the Earth Rover Pr...",
+      "link": "https://www.theguardian.com/commentisfree/2025/dec/05/agriculture-revolution-soil-farming-earth-rover-program",
+      "pubDate": "Fri, 05 Dec 2025 06:00:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c280970e6ce2591a5f9aa21e162fe40c28af6578/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1305ff5b2655ad9274db846c60814e69"
+    },
+    {
+      "title": "‘We can tell farmers the problems’: experts say seismic waves can check soil health and boost yields",
+      "description": "&lt;p&gt;‘Soilsmology’ aims to map world’s soils and help avert famine, says not-for-profit co-founded by George Monbiot&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/environment/2025/dec/05/soilsmology-seismic-waves-soil-health-boost-yields",
+      "pubDate": "Fri, 05 Dec 2025 06:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2c6633786d9648d722d67b803f89d6e24463692a/0_0_7580_6068/master/7580.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b66130e910cf210749619041a0ad3b78"
+    },
+    {
+      "title": "60,000 African penguins starve to death after sardine numbers collapse – study",
+      "description": "&lt;p&gt;Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in South Africa, research finds&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+      "pubDate": "Fri, 05 Dec 2025 06:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fde4d28df532332df9d64bc14c2ac5ed2c9b529d/421_0_4164_3332/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38c5c561b1acb2e5aeabe027eb5c0398"
+    },
     {
       "title": "Household electrification is surest way to reduce energy costs – new Energy Commission report",
       "description": "Solar Citizens welcomes the finding in the latest Residential Electricity Price Trends report that speeding up the rollout of renewable energy, includ...",
@@ -76,7 +103,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Almost four decades after the first HIV treatment, is there finally a ‘functional’ cure?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txn?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 04 Dec 2025 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -151,33 +178,6 @@
       "link": "https://insideclimatenews.org/news/04122025/chesapeake-executive-council-bay-cleanup/",
       "pubDate": "Thu, 04 Dec 2025 10:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Zillow deletes climate risk data from listings after complaints it harms sales",
-      "description": "The site removed the feature after real estate agents and some homeowners alleged that the scores appear arbitrary and hurt sales....",
-      "link": "https://grist.org/housing/zillow-deletes-climate-risk-data-from-listings-after-complaints-it-harms-sales/",
-      "pubDate": "Thu, 04 Dec 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-2198948583-1.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Households face higher energy bills as £28bn grid upgrade gets go-ahead",
-      "description": "&lt;p&gt;Plan to improve gas networks and rewire electricity systems across Great Britain likely to add £30 to average annual bill&lt;/p&gt;&lt;p&gt;H...",
-      "link": "https://www.theguardian.com/money/2025/dec/04/fears-of-higher-energy-bills-as-28bn-grid-upgrade-gets-go-ahead",
-      "pubDate": "Thu, 04 Dec 2025 08:26:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eb30f42d48b32b97f659990cea8daecbb59ff556/0_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9798aafc478ff89841784156fb64843"
-    },
-    {
-      "title": "GB Energy plan to focus on historical oil and gas areas",
-      "description": "The new publicly-owned body says its investments will aim to support 10,000 jobs by 2030....",
-      "link": "https://www.bbc.com/news/articles/c39pxjdm7xno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 04 Dec 2025 06:12:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
