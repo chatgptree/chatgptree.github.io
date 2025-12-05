@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-05T22:26:49.444Z",
+  "lastUpdated": "2025-12-05T23:25:26.460Z",
   "articles": [
+    {
+      "title": "A New Tool Could Help Track Deep-Sea Mining Activity",
+      "description": "As demand for critical minerals surges around the world, countries are debating whether to mine the untapped deep-sea reserves of cobalt, copper and m...",
+      "link": "https://insideclimatenews.org/news/05122025/deep-sea-mining-tracking-tool/",
+      "pubDate": "Fri, 05 Dec 2025 22:32:26 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Science journal retracts study on safety of Monsanto’s Roundup: ‘serious ethical concerns’",
       "description": "&lt;p&gt;Paper published in 2000 found glyphosate was not harmful, while internal emails later revealed company’s influence&lt;/p&gt;&lt;p&gt;The jour...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Key digital initiatives could save oil and gas industry over $320 billion",
-      "description": "By Rystad Energy Digital innovation is rapidly emerging as a defining force for the oilfield services (OFS) sector as it adapts to changing market con...",
-      "link": "https://econews.com.au/key-digital-initiatives-could-save-oil-and-gas-industry-over-320-billion/",
-      "pubDate": "Fri, 05 Dec 2025 00:00:27 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Rystad-Energy-logo.png"
     }
   ]
 }
