@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-05T11:25:27.599Z",
+  "lastUpdated": "2025-12-05T12:57:16.002Z",
   "articles": [
+    {
+      "title": "Nature recovery plan in England hit by clause allowing contracts to end with a year’s notice",
+      "description": "&lt;p&gt;Conservationists say changes, coupled with underfunding, will curb take-up and leave less land protected for nature&lt;/p&gt;&lt;ul&gt;&lt;li...",
+      "link": "https://www.theguardian.com/environment/2025/dec/05/nature-recovery-plan-england-clause-conservation-nature",
+      "pubDate": "Fri, 05 Dec 2025 11:51:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c45a0e23ec4d3d2baa63d820820dbbbf39ea5cc0/448_0_4475_3580/master/4475.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8edec20e1a792b25371c0a1163a89796"
+    },
     {
       "title": "Global Scientists Anticipate Less Reliance on the United States in Future Carbon Monitoring",
       "description": "This fall, when the World Meteorological Organization confirmed the grim news—a record 3.5 parts per million annual increase in the global concentrati...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/04122025/trump-administration-national-monuments-threats-could-endanger-drinking-water/",
       "pubDate": "Thu, 04 Dec 2025 17:15:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Almost four decades after the first HIV treatment, is there finally a ‘functional’ cure?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txn?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 04 Dec 2025 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
