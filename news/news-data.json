@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-06T09:26:16.126Z",
+  "lastUpdated": "2025-12-06T10:27:21.693Z",
   "articles": [
+    {
+      "title": "Google Data Centers Will Bring Nuclear Power Back To Tornado Country",
+      "description": "When a derecho slammed into the Duane Arnold nuclear plant in 2020, Diana Lokenvitz had time for exactly one glance out her window. A wall of clouds h...",
+      "link": "https://insideclimatenews.org/news/06122025/google-data-center-nuclear-power-iowa/",
+      "pubDate": "Sat, 06 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Forestry Carbon Credit Programs Have a Poor Track Record. Can a More Refined Approach Fix the Problem?",
+      "description": "David Funk has spent decades working to restore the native forest ecosystems of southeast Ohio. Now, he’s finally getting paid for it—through a carbon...",
+      "link": "https://insideclimatenews.org/news/06122025/family-forest-carbon-credit-program/",
+      "pubDate": "Sat, 06 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Environment Agency faces landfill tax bill worth millions to clear illegal waste",
       "description": "&lt;p&gt;Exclusive: ‘extremely unhelpful’ policy seen as deterrent to clearing thousands of dump sites across England&lt;/p&gt;&lt;p&gt;Millions of po...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Heidi-headshot_green.jpeg"
-    },
-    {
-      "title": "Where rubber meets the road: Old tyres are key to building tougher roads",
-      "description": "CDU PhD candidate Ramin Shahbazi is investigating the impact of using recycled tyres in bitumen to build tougher roads. Charles Darwin University Almo...",
-      "link": "https://econews.com.au/where-rubber-meets-the-road-old-tyres-are-key-to-building-tougher-roads/",
-      "pubDate": "Fri, 05 Dec 2025 01:00:11 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
-    },
-    {
-      "title": "Tech Sector Growth Under Threat Without Value Chain Sustainability, New Nature Report Finds",
-      "description": "The technology sector could unlock $800 billion in value by 2030 if tech companies reduce their negative impacts on natural systems and dependencies o...",
-      "link": "https://econews.com.au/tech-sector-growth-under-threat-without-value-chain-sustainability-new-nature-report-finds/",
-      "pubDate": "Fri, 05 Dec 2025 01:00:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
