@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-06T13:31:59.163Z",
+  "lastUpdated": "2025-12-06T14:23:54.209Z",
   "articles": [
+    {
+      "title": "The wealthy profit from public lands, and taxpayers pick up the tab",
+      "description": "Roughly two-thirds of grazing on Bureau of Land Management land is controlled by just 10 percent of permit holders....",
+      "link": "https://grist.org/economics/the-wealthy-profit-from-public-lands-and-taxpayers-pick-up-the-tab/",
+      "pubDate": "Sat, 06 Dec 2025 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/free-range-hcn-2.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Google Data Centers Will Bring Nuclear Power Back To Tornado Country",
       "description": "When a derecho slammed into the Duane Arnold nuclear plant in 2020, Diana Lokenvitz had time for exactly one glance out her window. A wall of clouds h...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Household electrification is surest way to reduce energy costs – new Energy Commission report",
-      "description": "Solar Citizens welcomes the finding in the latest Residential Electricity Price Trends report that speeding up the rollout of renewable energy, includ...",
-      "link": "https://econews.com.au/household-electrification-is-surest-way-to-reduce-energy-costs-new-energy-commission-report/",
-      "pubDate": "Fri, 05 Dec 2025 01:00:12 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Heidi-headshot_green.jpeg"
     }
   ]
 }
