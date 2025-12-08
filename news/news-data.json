@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-08T09:36:05.456Z",
+  "lastUpdated": "2025-12-08T10:33:02.505Z",
   "articles": [
+    {
+      "title": "As NOAA Funding Lags, a Critical Ocean Weather System Nears a Breaking Point",
+      "description": "Years of underfunding and new delays in federal grantmaking threaten buoys and ocean monitoring assets run by the National Oceanic and Atmospheric Adm...",
+      "link": "https://insideclimatenews.org/news/08122025/noaa-integrated-ocean-observing-system-funding/",
+      "pubDate": "Mon, 08 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Utility Asks New Mexico for ‘Zero Emission’ Status for Gas-Fired Power Plant",
+      "description": "This story was originally published by Capital &#38; Main. The Southwestern Public Service Company&#160;has asked the state of New Mexico to grant exc...",
+      "link": "https://insideclimatenews.org/news/08122025/new-mexico-utility-asks-for-zero-emission-status-gas-power-plant/",
+      "pubDate": "Mon, 08 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Illinois families are going electric — for free",
+      "description": "As federal incentives for home electrification disappear, an innovative state law lets utilities meet energy-efficiency mandates by getting people off...",
+      "link": "https://grist.org/business/illinois-families-are-going-electric-for-free/",
+      "pubDate": "Mon, 08 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Campaign group formed to fight wind farm plans",
       "description": "If proposals are approved, 20 turbines will be built between Arkengarthdale and Teesdale....",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "NGV Gala meets Op-Shop: Dee Salmin elevates pre-loved style in upcycled Vinnies Victoria lace",
-      "description": "Dee Salmin (L) attends the NGV Gala 2025 at the opening of the Westwood &#124; Kawakubo exhibition at the National Gallery of Victoria on December 06,...",
-      "link": "https://econews.com.au/ngv-gala-meets-op-shop-dee-salmin-elevates-pre-loved-style-in-upcycled-vinnies-victoria-lace/",
-      "pubDate": "Sun, 07 Dec 2025 06:00:30 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Dee-Salmin-NGV-1-1024x683.jpg"
-    },
-    {
-      "title": "‘No one knows where it came from’: first wild beaver spotted in Norfolk in 500 years",
-      "description": "&lt;p&gt;Cameras capture lone creature collecting materials for its lodge in riverside nature reserve&lt;/p&gt;&lt;p&gt;A wild beaver has been spotted...",
-      "link": "https://www.theguardian.com/environment/2025/dec/07/no-one-knows-where-it-came-from-first-wild-beaver-spotted-in-norfolk-for-400-years",
-      "pubDate": "Sun, 07 Dec 2025 06:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3f670938e904e2248c0aba1d226835f9f9474953/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=463b01688e740e073128cd7aa1c8282e"
-    },
-    {
-      "title": "California officials warn foragers after person dies from poison mushroom",
-      "description": "&lt;p&gt;Several additional people, including children, have severe liver damage amid 21 cases of amatoxin poisoning&lt;/p&gt;&lt;p&gt;&lt;a href=\"htt...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/06/california-mushroom-poisoning",
-      "pubDate": "Sat, 06 Dec 2025 20:19:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ec28321f5bdd2827abc3087dc6d8812d608a86f1/258_0_2499_2000/master/2499.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb14f8417d0cba4ee1fa4240991b009"
     }
   ]
 }
