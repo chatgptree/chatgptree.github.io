@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-08T11:26:08.116Z",
+  "lastUpdated": "2025-12-08T12:58:51.800Z",
   "articles": [
+    {
+      "title": "More than 200 environmental groups demand halt to new US data centers",
+      "description": "&lt;p&gt;Exclusive: Congress urged to act against energy-hungry facilities blamed for increasing bills and worsening climate crisis&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/08/us-data-centers",
+      "pubDate": "Mon, 08 Dec 2025 12:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7487c3a8c1ce3e04080db3f644342c8d03f0a1c9/250_0_7493_5995/master/7493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3c3dc5921899f0945b94f6401dde1fb"
+    },
     {
       "title": "As NOAA Funding Lags, a Critical Ocean Weather System Nears a Breaking Point",
       "description": "Years of underfunding and new delays in federal grantmaking threaten buoys and ocean monitoring assets run by the National Oceanic and Atmospheric Adm...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/07122025/icn-sunday-morning-port-that-could-doom-the-amazon/",
       "pubDate": "Sun, 07 Dec 2025 09:50:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch: Moment Hawaii volcano eruption engulfs camera",
-      "description": "Kilauea, one of the world's most active volcanoes, has been erupting intermittently since December last year....",
-      "link": "https://www.bbc.com/news/videos/ckgm4yjl214o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 07 Dec 2025 09:44:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
