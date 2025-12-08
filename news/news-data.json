@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-08T08:40:23.262Z",
+  "lastUpdated": "2025-12-08T09:36:05.456Z",
   "articles": [
+    {
+      "title": "Campaign group formed to fight wind farm plans",
+      "description": "If proposals are approved, 20 turbines will be built between Arkengarthdale and Teesdale....",
+      "link": "https://www.bbc.com/news/articles/crl900d130ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 08 Dec 2025 08:45:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Mine site waste need not be a dirty word as experts look for new solutions",
       "description": "Professor Sarah Harmer, from the College of Science and Engineering at Flinders University Thousands of open cut mines lie abandoned worldwide, while ...",
@@ -137,6 +146,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Watch: Moment Hawaii volcano eruption engulfs camera",
+      "description": "Kilauea, one of the world's most active volcanoes, has been erupting intermittently since December last year....",
+      "link": "https://www.bbc.com/news/videos/ckgm4yjl214o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 07 Dec 2025 09:44:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "NGV Gala meets Op-Shop: Dee Salmin elevates pre-loved style in upcycled Vinnies Victoria lace",
       "description": "Dee Salmin (L) attends the NGV Gala 2025 at the opening of the Westwood &#124; Kawakubo exhibition at the National Gallery of Victoria on December 06,...",
       "link": "https://econews.com.au/ngv-gala-meets-op-shop-dee-salmin-elevates-pre-loved-style-in-upcycled-vinnies-victoria-lace/",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ec28321f5bdd2827abc3087dc6d8812d608a86f1/258_0_2499_2000/master/2499.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb14f8417d0cba4ee1fa4240991b009"
-    },
-    {
-      "title": "Drag queen Pattie Gonia completes 100-mile trek raising $1m to make outdoors more ‘equitable’",
-      "description": "&lt;p&gt;Drag queen, environmentalist, diversity and inclusion advocate and social media star arrives in San Francisco&lt;/p&gt;&lt;p&gt;Pattie Gonia,...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/06/pattie-gonia-drag-queen-environmentalist",
-      "pubDate": "Sat, 06 Dec 2025 15:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6e11c13a01816a7f2d4c018529902d53dd608356/200_0_1000_800/master/1000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75432d323e3885d189bd8bfb853dcf5f"
-    },
-    {
-      "title": "The wealthy profit from public lands, and taxpayers pick up the tab",
-      "description": "Roughly two-thirds of grazing on Bureau of Land Management land is controlled by just 10 percent of permit holders....",
-      "link": "https://grist.org/economics/the-wealthy-profit-from-public-lands-and-taxpayers-pick-up-the-tab/",
-      "pubDate": "Sat, 06 Dec 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/free-range-hcn-2.jpg?quality=75&amp;strip=all"
     }
   ]
 }
