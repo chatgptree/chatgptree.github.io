@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-08T07:30:24.659Z",
+  "lastUpdated": "2025-12-08T08:40:23.262Z",
   "articles": [
+    {
+      "title": "Mine site waste need not be a dirty word as experts look for new solutions",
+      "description": "Professor Sarah Harmer, from the College of Science and Engineering at Flinders University Thousands of open cut mines lie abandoned worldwide, while ...",
+      "link": "https://econews.com.au/mine-site-waste-need-not-be-a-dirty-word-as-experts-look-for-new-solutions/",
+      "pubDate": "Mon, 08 Dec 2025 08:00:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Sarah-Harmer-test-tanks-1024x907.jpg"
+    },
     {
       "title": "‘Zombie’ electricity projects in Britain face axe to ease quicker grid connections",
       "description": "&lt;p&gt;Backlog delaying ‘shovel-ready’ ventures will be cleared with aim of building virtually zero-carbon power system by 2030&lt;/p&gt;&lt;p&gt;Br...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/free-range-hcn-2.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Google Data Centers Will Bring Nuclear Power Back To Tornado Country",
-      "description": "When a derecho slammed into the Duane Arnold nuclear plant in 2020, Diana Lokenvitz had time for exactly one glance out her window. A wall of clouds h...",
-      "link": "https://insideclimatenews.org/news/06122025/google-data-center-nuclear-power-iowa/",
-      "pubDate": "Sat, 06 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
