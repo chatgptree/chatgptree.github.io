@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-09T15:32:13.997Z",
+  "lastUpdated": "2025-12-09T16:36:37.015Z",
   "articles": [
+    {
+      "title": "US judge strikes down Trump order blocking wind energy projects",
+      "description": "&lt;p&gt;Federal judge declared January executive order unlawful, ruling in favor of a coalition of state attorneys general&lt;/p&gt;&lt;p&gt;A federa...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/09/judge-blocks-trump-order-wind-energy",
+      "pubDate": "Tue, 09 Dec 2025 15:16:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f1c94df64b11717aadf747a1a106884ee7b57f99/974_0_5668_4534/master/5668.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce1b6526c4a41a2976b41fe38d88887e"
+    },
     {
       "title": "Days After COP30, Brazil Weakened Amazon Safeguards",
       "description": "Despite claims of environmental leadership and promises to preserve the Amazon rainforest ahead of COP30, Brazil is stripping away protections for the...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7487c3a8c1ce3e04080db3f644342c8d03f0a1c9/250_0_7493_5995/master/7493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3c3dc5921899f0945b94f6401dde1fb"
-    },
-    {
-      "title": "As NOAA Funding Lags, a Critical Ocean Weather System Nears a Breaking Point",
-      "description": "Years of underfunding and new delays in federal grantmaking threaten buoys and ocean monitoring assets run by the National Oceanic and Atmospheric Adm...",
-      "link": "https://insideclimatenews.org/news/08122025/noaa-integrated-ocean-observing-system-funding/",
-      "pubDate": "Mon, 08 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
