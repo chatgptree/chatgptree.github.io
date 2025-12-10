@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-10T02:11:25.334Z",
+  "lastUpdated": "2025-12-10T03:58:34.154Z",
   "articles": [
+    {
+      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
+      "description": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers....",
+      "link": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 10 Dec 2025 03:37:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Arizona Launches Investigation into Proposed Critical Mineral Mine’s Contaminated Water Discharge",
       "description": "A proposed critical minerals mine in southern Arizona that was the first added to a federal permitting process designed to be quicker and more transpa...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Logo-22-1.png"
-    },
-    {
-      "title": "Trex Unveils Cooler Decking: Trex Select® with SunComfortable™ Technology Lands in Australia",
-      "description": "Outdoor living in Australia has been given a fresh lift in comfort and design with the launch of Trex Select®, the industry’s first mid-tier composite...",
-      "link": "https://econews.com.au/trex-unveils-cooler-decking-trex-select-with-suncomfortable-technology-lands-in-australia/",
-      "pubDate": "Tue, 09 Dec 2025 07:00:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
     }
   ]
 }
