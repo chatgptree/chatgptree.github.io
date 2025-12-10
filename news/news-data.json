@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-10T06:44:06.447Z",
+  "lastUpdated": "2025-12-10T07:30:11.402Z",
   "articles": [
+    {
+      "title": "Humans cuddle up to meerkats in the monogamy rankings",
+      "description": "When it comes to monogamy, humans more closely resemble meerkats and beavers than our primate cousins....",
+      "link": "https://www.bbc.com/news/articles/c4gpvx3exglo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 10 Dec 2025 07:11:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Synthetic chemicals in food system creating health burden of $2.2tn a year, report finds",
       "description": "&lt;p&gt;Scientists issue urgent warning about chemicals, found to cause cancer and infertility as well as harming environment&lt;/p&gt;&lt;p&gt;Scien...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/unnamed-53-1024x371.png"
-    },
-    {
-      "title": "National research effort to turn carbon waste into industrial solutions launches",
-      "description": "Hub Director Professor Lian Zhang, from Monash’s Department of Chemical and Biological Engineering, says Australia is facing an urgent need to better ...",
-      "link": "https://econews.com.au/national-research-effort-to-turn-carbon-waste-into-industrial-solutions-launches/",
-      "pubDate": "Tue, 09 Dec 2025 07:00:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
     }
   ]
 }
