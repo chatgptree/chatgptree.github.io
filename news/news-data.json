@@ -1,8 +1,44 @@
 {
-  "lastUpdated": "2025-12-10T09:32:49.062Z",
+  "lastUpdated": "2025-12-10T10:34:01.602Z",
   "articles": [
     {
-      "title": "Humans cuddle up to meerkats in the monogamy rankings",
+      "title": "Scientists Say the Forever Chemical TFA Could Cause Irreversible Harm. In Eastern North Carolina, It’s Everywhere.",
+      "description": "Forever War, Part 2: This story is published in partnership with WHQR, a nonprofit radio station and NPR affiliate in Wilmington. It is the second in ...",
+      "link": "https://insideclimatenews.org/news/10122025/north-carolina-tfa-forever-chemicals-chemours/",
+      "pubDate": "Wed, 10 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Gas Stoves Account For More Than Half of Some Americans’ Exposure to a Known Toxin, New Research Concludes",
+      "description": "Pollution from gas stoves accounts for more than half of some Americans’ total exposure to nitrogen dioxide (NO2), a toxin linked to asthma, a study i...",
+      "link": "https://insideclimatenews.org/news/10122025/gas-stoves-nitrogen-dioxide-exposure/",
+      "pubDate": "Wed, 10 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wisconsin Tribes Have Helped the Lake Sturgeon Recover. Climate Change Is Stressing Its Ability to Adapt.",
+      "description": "On a cool October morning, members of the St. Croix Chippewa Tribe gathered at the Clam Lake boat landing in northern Wisconsin, carrying five-gallon ...",
+      "link": "https://insideclimatenews.org/news/10122025/wisconsin-tribes-lake-sturgeon-recovery/",
+      "pubDate": "Wed, 10 Dec 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Navajo Nation said no to a hydropower project. Trump officials want to ensure tribes can&#8217;t do that again.",
+      "description": "The U.S. Energy Secretary said allowing tribes to weigh in on energy projects on their land creates \"unnecessary burdens to the development of critica...",
+      "link": "https://grist.org/indigenous/the-navajo-nation-said-no-to-a-hydropower-project-trump-officials-want-to-ensure-tribes-cant-do-that-again/",
+      "pubDate": "Wed, 10 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How monogamous are humans? Scientists compile 'league table' of pairing up",
       "description": "When it comes to monogamy, humans more closely resemble meerkats and beavers than our primate cousins....",
       "link": "https://www.bbc.com/news/articles/c4gpvx3exglo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 10 Dec 2025 07:11:10 GMT",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
-      "description": "The US and other governments derailed an agreement on a global environment study, its co-chair says....",
-      "link": "https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 09 Dec 2025 09:00:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
-      "description": "The US and other governments derailed an agreement on a global environment study, its co-chair says....",
-      "link": "https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 09 Dec 2025 09:00:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Food and fossil fuel production causing $5bn of environmental damage an hour’",
-      "description": "&lt;p&gt;UN GEO report says ending this harm key to global transformation required ‘before collapse becomes inevitable’&lt;/p&gt;&lt;p&gt;The unsustai...",
-      "link": "https://www.theguardian.com/environment/2025/dec/09/food-fossil-fuel-production-5bn-environmental-damage-an-hour-un-geo-report-",
-      "pubDate": "Tue, 09 Dec 2025 09:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/570e974d40bd57bb9baf46378b30ebc1e2d333d4/0_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f09be9bc70dca8439e7060037fe2fb61"
-    },
-    {
-      "title": "New report finds industrial hemp in Australia and New Zealand approaching a coordinated growth phase",
-      "description": "Industrial hemp in Australia and New Zealand is entering a more coordinated stage of development, with clearer demand signals from construction, fibre...",
-      "link": "https://econews.com.au/new-report-finds-industrial-hemp-in-australia-and-new-zealand-approaching-a-coordinated-growth-phase/",
-      "pubDate": "Tue, 09 Dec 2025 07:00:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/unnamed-53-1024x371.png"
     }
   ]
 }
