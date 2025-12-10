@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-10T14:31:38.172Z",
+  "lastUpdated": "2025-12-10T15:32:58.969Z",
   "articles": [
+    {
+      "title": "When Elephants Trample Your Farm, Who Do You Call?",
+      "description": "By reconnecting fragmented habitats, researcher Krithi Karanth is pioneering ways to reduce conflict between people and wildlife....",
+      "link": "https://grist.org/sponsored/when-elephants-trample-your-farm-who-do-you-call/",
+      "pubDate": "Wed, 10 Dec 2025 15:00:54 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Greenpeace Scrutinizes the Environmental Record of the Company That Sued the Group",
       "description": "The environmental nonprofit Greenpeace was under the microscope in a North Dakota trial this year. Now the organization is calling attention to the en...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5a35c1b41e7bc58fe4bfceb901673ce2e437fc45/1365_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dc0fa35fdd207c9c83f3bc4fb5839e0"
-    },
-    {
-      "title": "Days After COP30, Brazil Weakened Amazon Safeguards",
-      "description": "Despite claims of environmental leadership and promises to preserve the Amazon rainforest ahead of COP30, Brazil is stripping away protections for the...",
-      "link": "https://insideclimatenews.org/news/09122025/brazil-weakens-amazon-forest-protection/",
-      "pubDate": "Tue, 09 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
