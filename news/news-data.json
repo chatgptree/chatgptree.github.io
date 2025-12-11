@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-11T08:41:23.520Z",
+  "lastUpdated": "2025-12-11T09:33:37.178Z",
   "articles": [
+    {
+      "title": "The EPA website got the basics of climate science right. Until last week.",
+      "description": "The Trump administration purged 80 pages of facts about climate change — including that it's caused by humans....",
+      "link": "https://grist.org/politics/epa-website-erases-climate-science-basics/",
+      "pubDate": "Thu, 11 Dec 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/natl-climate-assessment-colorful-2.gif?quality=75&#038;strip=all"
+    },
+    {
+      "title": "MP calls for ban on ‘biobeads’ at sewage works after devastating Camber Sands spillage",
+      "description": "&lt;p&gt;Exclusive: Use of toxic plastic beads in treatment works is unnecessary and outdated say conservationists after hundreds of millions wash up ...",
+      "link": "https://www.theguardian.com/environment/2025/dec/11/mp-calls-for-ban-on-biobeads-at-sewage-works-after-devastating-camber-sands-spillage",
+      "pubDate": "Thu, 11 Dec 2025 09:16:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/440e1f2d045b207d68710f334cee46d7225d6c20/703_0_2934_2348/master/2934.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=772c5385928f43627354fa199c7661df"
+    },
     {
       "title": "Snakes, spiders and rare birds seized by Border Force in month-long operation",
       "description": "&lt;p&gt;Wildlife smuggling is serious organised crime that ‘fuels corruption and drives species to extinction’, Home Office says&lt;/p&gt;&lt;p&gt;Mo...",
@@ -29,13 +47,49 @@
       "image": "https://i.guim.co.uk/img/media/079b092c5e50ee75e3d1dd03ec68563fa370a777/0_0_5463_4370/master/5463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4a8546e012b3f824e8ca46e879cf037"
     },
     {
-      "title": "‘Not normal’: Climate crisis supercharged deadly monsoon floods in Asia",
-      "description": "&lt;p&gt;Cyclones like those in Indonesia, Sri Lanka and Malaysia that killed 1,750 are ‘alarming new reality’&lt;/p&gt;&lt;p&gt;The climate crisis su...",
-      "link": "https://www.theguardian.com/environment/2025/dec/11/climate-crisis-made-monsoon-floods-asia-worse-study",
-      "pubDate": "Thu, 11 Dec 2025 03:00:54 GMT",
-      "sourceName": "theguardian.com",
+      "title": "From Tiny Forests to Solar Asphalt – and a Young Climate Leader Making Global Waves",
+      "description": "2025 NSW Sustainability Award Winners Announced at the National Maritime Museum  Sydney, NSW – A teen climate visionary inspiring global action throug...",
+      "link": "https://econews.com.au/from-tiny-forests-to-solar-asphalt-and-a-young-climate-leader-making-global-waves/",
+      "pubDate": "Thu, 11 Dec 2025 03:00:05 +0000",
+      "sourceName": "econews.com.au",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/784fd1b54122d7a95c2a7f68d0faf52267d58424/307_0_3055_2445/master/3055.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0f8e51b1d70d538ff62a7f1898bb7e4"
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Banksia-Foundation-NSW-Awards.png"
+    },
+    {
+      "title": "FERRERO AUSTRALIA WINS 2025 BANKSIA NSW SUSTAINABILITY AWARD",
+      "description": "Chris Hinton, Managing Director, Ferrero Australia Lithgow Plant Ferrero’s Lithgow factory recognised as regional manufacturing leader Ferrero Austral...",
+      "link": "https://econews.com.au/ferrero-australia-wins-2025-banksia-nsw-sustainability-award/",
+      "pubDate": "Thu, 11 Dec 2025 03:00:05 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
+    },
+    {
+      "title": "New environmentally friendly solution to thwart marine fouling",
+      "description": "Marine fouling triggers ongoing economic losses for the global shipping industry through detrimental effects on structures and vessels – but tests by ...",
+      "link": "https://econews.com.au/new-environmentally-friendly-solution-to-thwart-marine-fouling/",
+      "pubDate": "Thu, 11 Dec 2025 03:00:01 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Sophie-Leterme-and-Tamar-Jamieson-1024x683.jpg"
+    },
+    {
+      "title": "Australia’s homes are powering the clean-energy shift",
+      "description": "Around two in five (41%) Australian households using gas intend to fully electrify their homes, according to the Telsyte Australian Smart Home Study 2...",
+      "link": "https://econews.com.au/australias-homes-are-powering-the-clean-energy-shift/",
+      "pubDate": "Thu, 11 Dec 2025 02:05:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Epson Selected to IAM’s 2025 Asia IP Elite",
+      "description": "Epson’s Asia IP Elite 2025 award plaque Accelerating business growth and innovation through IP strategy Epson has been selected to be among “The 2025 ...",
+      "link": "https://econews.com.au/epson-selected-to-iams-2025-asia-ip-elite/",
+      "pubDate": "Thu, 11 Dec 2025 02:04:59 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Logo_2023_RGB_Blue-1024x395.png"
     },
     {
       "title": "ERCOT’s Market is Transitioning Toward Storage and Solar",
@@ -124,60 +178,6 @@
       "link": "https://insideclimatenews.org/news/10122025/north-carolina-tfa-forever-chemicals-chemours/",
       "pubDate": "Wed, 10 Dec 2025 10:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gas Stoves Account For More Than Half of Some Americans’ Exposure to a Known Toxin, New Research Concludes",
-      "description": "Pollution from gas stoves accounts for more than half of some Americans’ total exposure to nitrogen dioxide (NO2), a toxin linked to asthma, a study i...",
-      "link": "https://insideclimatenews.org/news/10122025/gas-stoves-nitrogen-dioxide-exposure/",
-      "pubDate": "Wed, 10 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wisconsin Tribes Have Helped the Lake Sturgeon Recover. Climate Change Is Stressing Its Ability to Adapt.",
-      "description": "On a cool October morning, members of the St. Croix Chippewa Tribe gathered at the Clam Lake boat landing in northern Wisconsin, carrying five-gallon ...",
-      "link": "https://insideclimatenews.org/news/10122025/wisconsin-tribes-lake-sturgeon-recovery/",
-      "pubDate": "Wed, 10 Dec 2025 09:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Navajo Nation said no to a hydropower project. Trump officials want to ensure tribes can&#8217;t do that again.",
-      "description": "The U.S. Energy Secretary said allowing tribes to weigh in on energy projects on their land creates \"unnecessary burdens to the development of critica...",
-      "link": "https://grist.org/indigenous/the-navajo-nation-said-no-to-a-hydropower-project-trump-officials-want-to-ensure-tribes-cant-do-that-again/",
-      "pubDate": "Wed, 10 Dec 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How monogamous are humans? Scientists compile 'league table' of pairing up",
-      "description": "When it comes to monogamy, humans more closely resemble meerkats and beavers than our primate cousins....",
-      "link": "https://www.bbc.com/news/articles/c4gpvx3exglo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 10 Dec 2025 07:11:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Even the animals seem confused’: a retreating Kashmir glacier is creating an entire new world in its wake",
-      "description": "&lt;p&gt;Kolahoi is one of many glaciers whose decline is disrupting whole ecosystems – water, wildlife and human life that it has supported for centu...",
-      "link": "https://www.theguardian.com/environment/2025/dec/10/kashmir-glacier-ecosystems-snow-kolahoi-biodiversity-agriculture-aoe",
-      "pubDate": "Wed, 10 Dec 2025 04:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f921adea25675e8299bd25d6a19bb632f7446ee9/532_0_1215_972/master/1215.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21f787d703c8a8df6494211a8d174d6e"
-    },
-    {
-      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
-      "description": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers....",
-      "link": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 10 Dec 2025 03:37:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
