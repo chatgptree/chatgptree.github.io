@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-11T16:40:40.766Z",
+  "lastUpdated": "2025-12-11T17:35:07.687Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "New evidence shows that early neanderthals made fire 350 thousand years before we thought....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txp?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cameras on killer whales record first evidence of joint hunt with dolphins",
       "description": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two species working together.\n...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A dead whale shows up on your beach. What do you do with the 40-ton carcass?",
-      "description": "&lt;p&gt;A fin whale washed ashore in Anchorage and was left there for months. Then a self-described ‘wacko’ museum director made a plan&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2025/dec/10/whale-ecosystem-death-anchorage-alaska",
-      "pubDate": "Wed, 10 Dec 2025 16:00:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ac599e98acaa41e5ff2b4f899981afeee71c64c8/229_0_5001_4002/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e44d942d17b669735a69afd860030d78"
     }
   ]
 }
