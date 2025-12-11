@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-11T15:33:59.900Z",
+  "lastUpdated": "2025-12-11T16:40:40.766Z",
   "articles": [
+    {
+      "title": "Cameras on killer whales record first evidence of joint hunt with dolphins",
+      "description": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two species working together.\n...",
+      "link": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 16:01:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Orcas team up with dolphins to hunt salmon, study finds",
+      "description": "&lt;p&gt;Northern resident killer whales appear to use dolphins as ‘scouts’, in a  surprising cooperative hunting strategy&lt;/p&gt;&lt;p&gt;&lt;a hre...",
+      "link": "https://www.theguardian.com/environment/2025/dec/11/orca-killer-whale-dolphin-hunt-salmon-study-british-columbia-canada",
+      "pubDate": "Thu, 11 Dec 2025 16:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ef514f2096564892735a22e8abfb1e93cc3db29b/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f123a6ad38bf690f80dd89b6031e187"
+    },
+    {
+      "title": "Economic growth no longer linked to carbon emissions in most of the world, study finds",
+      "description": "&lt;p&gt;Analysis marking 10 years since Paris climate agreement underscores effectiveness of strong government policies&lt;/p&gt;&lt;p&gt;The once-ri...",
+      "link": "https://www.theguardian.com/environment/2025/dec/11/economic-growth-no-longer-linked-to-carbon-emissions-in-most-of-the-world-study-finds",
+      "pubDate": "Thu, 11 Dec 2025 15:24:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4faf836c371fff6d647826e983702b15634411bc/573_0_5669_4536/master/5669.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6246959aeed7a736dff6784cfda43218"
+    },
     {
       "title": "Eight more UK universities cut recruitment ties with fossil fuel industry",
       "description": "&lt;p&gt;Manchester Metropolitan University again wins top spot for climate and social justice in league table &lt;/p&gt;&lt;p&gt;More universities ha...",
@@ -45,24 +72,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/440e1f2d045b207d68710f334cee46d7225d6c20/703_0_2934_2348/master/2934.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=772c5385928f43627354fa199c7661df"
-    },
-    {
-      "title": "Snakes, spiders and rare birds seized by Border Force in month-long operation",
-      "description": "&lt;p&gt;Wildlife smuggling is serious organised crime that ‘fuels corruption and drives species to extinction’, Home Office says&lt;/p&gt;&lt;p&gt;Mo...",
-      "link": "https://www.theguardian.com/environment/2025/dec/11/snakes-spiders-and-rare-birds-seized-by-border-force-in-month-long-operation",
-      "pubDate": "Thu, 11 Dec 2025 06:00:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/31501326b0bc15091b2d2f862c45c6b3b30c1743/0_998_2382_1904/master/2382.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ba27d77f1f52908829c32efef02042a"
-    },
-    {
-      "title": "NSW koala numbers higher than previously thought, but new data may not show true picture",
-      "description": "&lt;p&gt;Updated estimate reflects more accurate technology and extensive survey work, rather than a true increase in the koala population&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/11/nsw-koala-numbers-higher-than-previously-thought-but-new-data-may-not-show-true-picture",
-      "pubDate": "Thu, 11 Dec 2025 05:38:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/25aba4e673c42393be08942b91926fdf4804426f/592_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1ffc8a17a62387200ff6c4e7e632ade"
     },
     {
       "title": "From Tiny Forests to Solar Asphalt – and a Young Climate Leader Making Global Waves",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ac599e98acaa41e5ff2b4f899981afeee71c64c8/229_0_5001_4002/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e44d942d17b669735a69afd860030d78"
-    },
-    {
-      "title": "When Elephants Trample Your Farm, Who Do You Call?",
-      "description": "By reconnecting fragmented habitats, researcher Krithi Karanth is pioneering ways to reduce conflict between people and wildlife....",
-      "link": "https://grist.org/sponsored/when-elephants-trample-your-farm-who-do-you-call/",
-      "pubDate": "Wed, 10 Dec 2025 15:00:54 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
