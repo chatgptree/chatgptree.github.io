@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-11T04:44:43.335Z",
+  "lastUpdated": "2025-12-11T05:31:06.367Z",
   "articles": [
+    {
+      "title": "Sea urchin species on brink of extinction after marine pandemic",
+      "description": "&lt;p&gt;Ecologically important &lt;em&gt;Diadema africanum&lt;/em&gt; almost eliminated by unknown disease in Canary Islands&lt;/p&gt;&lt;p&gt;A mari...",
+      "link": "https://www.theguardian.com/environment/2025/dec/11/sea-urchin-species-on-brink-of-extinction-after-marine-pandemic",
+      "pubDate": "Thu, 11 Dec 2025 05:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/079b092c5e50ee75e3d1dd03ec68563fa370a777/0_0_5463_4370/master/5463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4a8546e012b3f824e8ca46e879cf037"
+    },
     {
       "title": "‘Not normal’: Climate crisis supercharged deadly monsoon floods in Asia",
       "description": "&lt;p&gt;Cyclones like those in Indonesia, Sri Lanka and Malaysia that killed 1,750 are ‘alarming new reality’&lt;/p&gt;&lt;p&gt;The climate crisis su...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Synthetic chemicals in food system creating health burden of $2.2tn a year, report finds",
-      "description": "&lt;p&gt;Scientists issue urgent warning about chemicals, found to cause cancer and infertility as well as harming environment&lt;/p&gt;&lt;p&gt;Scien...",
-      "link": "https://www.theguardian.com/environment/2025/dec/10/synthetic-chemicals-food-system-health-burden-report",
-      "pubDate": "Wed, 10 Dec 2025 06:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c0f86b8a0253ab432b2a0b5cae6baaeb075eca78/346_0_3960_3168/master/3960.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=11cd3028c180a0cd5957abf0ed34519e"
     }
   ]
 }
