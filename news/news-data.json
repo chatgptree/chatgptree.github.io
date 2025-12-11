@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T07:30:21.315Z",
+  "lastUpdated": "2025-12-11T08:41:23.520Z",
   "articles": [
     {
       "title": "Snakes, spiders and rare birds seized by Border Force in month-long operation",
@@ -8,7 +8,7 @@
       "pubDate": "Thu, 11 Dec 2025 06:00:59 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/31501326b0bc15091b2d2f862c45c6b3b30c1743/0_1048_2382_1904/master/2382.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c334b7db22815432fa5b64e81c1a3056"
+      "image": "https://i.guim.co.uk/img/media/31501326b0bc15091b2d2f862c45c6b3b30c1743/0_998_2382_1904/master/2382.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ba27d77f1f52908829c32efef02042a"
     },
     {
       "title": "NSW koala numbers higher than previously thought, but new data may not show true picture",
@@ -38,56 +38,20 @@
       "image": "https://i.guim.co.uk/img/media/784fd1b54122d7a95c2a7f68d0faf52267d58424/307_0_3055_2445/master/3055.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0f8e51b1d70d538ff62a7f1898bb7e4"
     },
     {
-      "title": "From Tiny Forests to Solar Asphalt – and a Young Climate Leader Making Global Waves",
-      "description": "2025 NSW Sustainability Award Winners Announced at the National Maritime Museum  Sydney, NSW – A teen climate visionary inspiring global action throug...",
-      "link": "https://econews.com.au/from-tiny-forests-to-solar-asphalt-and-a-young-climate-leader-making-global-waves/",
-      "pubDate": "Thu, 11 Dec 2025 03:00:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Banksia-Foundation-NSW-Awards.png"
-    },
-    {
-      "title": "FERRERO AUSTRALIA WINS 2025 BANKSIA NSW SUSTAINABILITY AWARD",
-      "description": "Chris Hinton, Managing Director, Ferrero Australia Lithgow Plant Ferrero’s Lithgow factory recognised as regional manufacturing leader Ferrero Austral...",
-      "link": "https://econews.com.au/ferrero-australia-wins-2025-banksia-nsw-sustainability-award/",
-      "pubDate": "Thu, 11 Dec 2025 03:00:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
-    },
-    {
-      "title": "New environmentally friendly solution to thwart marine fouling",
-      "description": "Marine fouling triggers ongoing economic losses for the global shipping industry through detrimental effects on structures and vessels – but tests by ...",
-      "link": "https://econews.com.au/new-environmentally-friendly-solution-to-thwart-marine-fouling/",
-      "pubDate": "Thu, 11 Dec 2025 03:00:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Sophie-Leterme-and-Tamar-Jamieson-1024x683.jpg"
-    },
-    {
-      "title": "Australia’s homes are powering the clean-energy shift",
-      "description": "Around two in five (41%) Australian households using gas intend to fully electrify their homes, according to the Telsyte Australian Smart Home Study 2...",
-      "link": "https://econews.com.au/australias-homes-are-powering-the-clean-energy-shift/",
-      "pubDate": "Thu, 11 Dec 2025 02:05:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Epson Selected to IAM’s 2025 Asia IP Elite",
-      "description": "Epson’s Asia IP Elite 2025 award plaque Accelerating business growth and innovation through IP strategy Epson has been selected to be among “The 2025 ...",
-      "link": "https://econews.com.au/epson-selected-to-iams-2025-asia-ip-elite/",
-      "pubDate": "Thu, 11 Dec 2025 02:04:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Logo_2023_RGB_Blue-1024x395.png"
-    },
-    {
       "title": "ERCOT’s Market is Transitioning Toward Storage and Solar",
       "description": "Battery storage facilities and solar farms powered virtually all capacity growth in Texas’ electric grid throughout 2025, as the home of the nation’s ...",
       "link": "https://insideclimatenews.org/news/10122025/texas-electric-grid-transitioning-to-battery-storage-solar/",
       "pubDate": "Thu, 11 Dec 2025 00:27:01 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Shell facing first UK legal claim over climate impacts of fossil fuels",
+      "description": "Survivors of a deadly typhoon in the Philippines have filed a claim against the UK's largest oil company....",
+      "link": "https://www.bbc.com/news/articles/c0r9p1ypyjyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 00:20:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -178,6 +142,42 @@
       "link": "https://insideclimatenews.org/news/10122025/wisconsin-tribes-lake-sturgeon-recovery/",
       "pubDate": "Wed, 10 Dec 2025 09:50:00 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Navajo Nation said no to a hydropower project. Trump officials want to ensure tribes can&#8217;t do that again.",
+      "description": "The U.S. Energy Secretary said allowing tribes to weigh in on energy projects on their land creates \"unnecessary burdens to the development of critica...",
+      "link": "https://grist.org/indigenous/the-navajo-nation-said-no-to-a-hydropower-project-trump-officials-want-to-ensure-tribes-cant-do-that-again/",
+      "pubDate": "Wed, 10 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How monogamous are humans? Scientists compile 'league table' of pairing up",
+      "description": "When it comes to monogamy, humans more closely resemble meerkats and beavers than our primate cousins....",
+      "link": "https://www.bbc.com/news/articles/c4gpvx3exglo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 10 Dec 2025 07:11:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Even the animals seem confused’: a retreating Kashmir glacier is creating an entire new world in its wake",
+      "description": "&lt;p&gt;Kolahoi is one of many glaciers whose decline is disrupting whole ecosystems – water, wildlife and human life that it has supported for centu...",
+      "link": "https://www.theguardian.com/environment/2025/dec/10/kashmir-glacier-ecosystems-snow-kolahoi-biodiversity-agriculture-aoe",
+      "pubDate": "Wed, 10 Dec 2025 04:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f921adea25675e8299bd25d6a19bb632f7446ee9/532_0_1215_972/master/1215.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21f787d703c8a8df6494211a8d174d6e"
+    },
+    {
+      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
+      "description": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers....",
+      "link": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 10 Dec 2025 03:37:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
