@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-11T09:33:37.178Z",
+  "lastUpdated": "2025-12-11T10:33:46.066Z",
   "articles": [
+    {
+      "title": "How Batteries Could Play a Role in Data Center Rollouts",
+      "description": "With data center developers in Texas and most other states now commonly deploying fossil fuel generators as backup power sources, a nascent industry f...",
+      "link": "https://insideclimatenews.org/news/11122025/data-center-battery-storage/",
+      "pubDate": "Thu, 11 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a species of bamboo could help protect the South from future floods",
+      "description": "In the face of mounting climate disasters, tribes, scientists, and Southern communities are rallying around a nearly forgotten native plant....",
+      "link": "https://grist.org/solutions/how-rivercane-a-native-bamboo-could-help-protect-the-south-from-future-floods/",
+      "pubDate": "Thu, 11 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/river-cane-hurricane-helene.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "The EPA website got the basics of climate science right. Until last week.",
       "description": "The Trump administration purged 80 pages of facts about climate change — including that it's caused by humans....",
@@ -12,7 +30,7 @@
     },
     {
       "title": "MP calls for ban on ‘biobeads’ at sewage works after devastating Camber Sands spillage",
-      "description": "&lt;p&gt;Exclusive: Use of toxic plastic beads in treatment works is unnecessary and outdated say conservationists after hundreds of millions wash up ...",
+      "description": "&lt;p&gt;Exclusive: Use of toxic plastic beads in treatment works is unnecessary and outdated, say conservationists&lt;/p&gt;&lt;p&gt;The use of tiny,...",
       "link": "https://www.theguardian.com/environment/2025/dec/11/mp-calls-for-ban-on-biobeads-at-sewage-works-after-devastating-camber-sands-spillage",
       "pubDate": "Thu, 11 Dec 2025 09:16:45 GMT",
       "sourceName": "theguardian.com",
@@ -160,24 +178,6 @@
       "link": "https://grist.org/sponsored/when-elephants-trample-your-farm-who-do-you-call/",
       "pubDate": "Wed, 10 Dec 2025 15:00:54 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Greenpeace Scrutinizes the Environmental Record of the Company That Sued the Group",
-      "description": "The environmental nonprofit Greenpeace was under the microscope in a North Dakota trial this year. Now the organization is calling attention to the en...",
-      "link": "https://insideclimatenews.org/news/10122025/greenpeace-spotlights-energy-transfer-pipeline-environmental-record/",
-      "pubDate": "Wed, 10 Dec 2025 11:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists Say the Forever Chemical TFA Could Cause Irreversible Harm. In Eastern North Carolina, It’s Everywhere.",
-      "description": "Forever War, Part 2: This story is published in partnership with WHQR, a nonprofit radio station and NPR affiliate in Wilmington. It is the second in ...",
-      "link": "https://insideclimatenews.org/news/10122025/north-carolina-tfa-forever-chemicals-chemours/",
-      "pubDate": "Wed, 10 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
