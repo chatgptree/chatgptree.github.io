@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-12T17:26:50.563Z",
+  "lastUpdated": "2025-12-12T18:41:32.361Z",
   "articles": [
+    {
+      "title": "Hunger’s whip: why connecting US food stamps to work is outdated and ineffective",
+      "description": "&lt;p&gt;In many parts of the country, there are new work requirements to get food aid. But starving people doesn’t motivate them – despite centuries ...",
+      "link": "https://www.theguardian.com/environment/2025/dec/12/snap-food-stamp-work-requirement",
+      "pubDate": "Fri, 12 Dec 2025 18:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/138ee667aa80f57a674fbe6139860b190fce18a4/2_0_3395_2717/master/3395.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40854c10fcf688275259fd45dba5d687"
+    },
     {
       "title": "Flooding remains threat in Pacific north-west as Washington declares emergency",
       "description": "&lt;p&gt;Torrential rain has caused mudslides, washed out roads and submerged vehicles with more deluges expected on Sunday&lt;/p&gt;&lt;p&gt;Dangerou...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "White House Abruptly Cancels Meeting on FEMA’s Future After Leaked Report Revealed Plan to Gut the Agency",
-      "description": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin.&#160; The final re...",
-      "link": "https://insideclimatenews.org/news/11122025/white-house-cancels-fema-meeting-on-proposed-cuts/",
-      "pubDate": "Fri, 12 Dec 2025 01:17:46 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
