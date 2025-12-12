@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-12-12T05:30:35.354Z",
+  "lastUpdated": "2025-12-12T06:44:24.050Z",
   "articles": [
+    {
+      "title": "One of world’s largest reef restoration trials during Reef spawning",
+      "description": "The Australian Institute of Marine Science (AIMS) has led one of the world’s largest reef restoration tests on a coral reef ecosystem during the recen...",
+      "link": "https://econews.com.au/one-of-worlds-largest-reef-restoration-trials-during-reef-spawning/",
+      "pubDate": "Fri, 12 Dec 2025 06:05:00 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/unnamed-55.png"
+    },
+    {
+      "title": "Droughts lasting longer across Australia, study shows",
+      "description": "UNSW Sydney A study tracking not only the forces that drive drought but the damage it leaves behind has revealed that droughts have lasted longer in A...",
+      "link": "https://econews.com.au/droughts-lasting-longer-across-australia-study-shows/",
+      "pubDate": "Fri, 12 Dec 2025 06:04:57 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Air passengers exposed to extremely high levels of ultrafine particle pollution, study finds",
+      "description": "&lt;p&gt;Levels during boarding and taxiing were far above those defined as high by the World Health Organization&lt;/p&gt;&lt;p&gt;&lt;a href=\"https:...",
+      "link": "https://www.theguardian.com/environment/2025/dec/12/air-passengers-extremely-high-levels-ultrafine-particle-pollution-study",
+      "pubDate": "Fri, 12 Dec 2025 06:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/155282e7ddfbb69facf05641403340b7859615b6/512_0_5120_4096/master/5120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e7dc63dfcf18c97048067e9afbed662"
+    },
+    {
+      "title": "Climate protesters win groundbreaking class action against Victoria police over use of pepper spray",
+      "description": "&lt;p&gt;Potentially precedent-setting case brought after Jordan Brown hit with capsicum spray outside mining and resources conference in Melbourne in...",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/12/victoria-police-pepper-spray-climate-activists-class-action-win",
+      "pubDate": "Fri, 12 Dec 2025 05:39:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/af19a161110cf738793d834438542b5ff1a36030/0_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c5eabed700718b0c48f3eb7995b56d3"
+    },
     {
       "title": "Kyndryl and Microsoft Study Finds Over Half of Australian Organisations Highlight IT as a Key Enabler of Sustainability",
       "description": "Strong executive focus, IT teams increasingly driving environmental outcomes, yet AI stewardship is down, ROI and data challenges stall progress Kyndr...",
@@ -38,15 +74,6 @@
       "image": "https://i.guim.co.uk/img/media/0953473d04f10588d4c644df9b766e8057c39f22/351_312_3099_2480/master/3099.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd1b82a1c7b3bb51158b04e43118ff8a"
     },
     {
-      "title": "Climate protesters win groundbreaking class action against Victoria police over use of pepper spray",
-      "description": "&lt;p&gt;Potentially precedent-setting case brought after Jordan Brown hit with capsicum spray outside mining and resources conference in Melbourne in...",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/12/victoria-police-pepper-spray-climate-activists-class-action-win",
-      "pubDate": "Fri, 12 Dec 2025 03:28:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/af19a161110cf738793d834438542b5ff1a36030/0_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c5eabed700718b0c48f3eb7995b56d3"
-    },
-    {
       "title": "White House Abruptly Cancels Meeting on FEMA’s Future After Leaked Report Revealed Plan to Gut the Agency",
       "description": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin.  The final report ...",
       "link": "https://insideclimatenews.org/news/11122025/white-house-cancels-fema-meeting-on-proposed-cuts/",
@@ -76,7 +103,7 @@
     {
       "title": "BBC Inside Science",
       "description": "New evidence shows that early neanderthals made fire 350 thousand years before we thought....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txp?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 11 Dec 2025 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -99,15 +126,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Orcas team up with dolphins to hunt salmon, study finds",
-      "description": "&lt;p&gt;Northern resident killer whales appear to use dolphins as ‘scouts’, in a  surprising cooperative hunting strategy&lt;/p&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/environment/2025/dec/11/orca-killer-whale-dolphin-hunt-salmon-study-british-columbia-canada",
-      "pubDate": "Thu, 11 Dec 2025 16:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ef514f2096564892735a22e8abfb1e93cc3db29b/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f123a6ad38bf690f80dd89b6031e187"
     },
     {
       "title": "How Batteries Could Play a Role in Data Center Rollouts",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Sophie-Leterme-and-Tamar-Jamieson-1024x683.jpg"
-    },
-    {
-      "title": "Australia’s homes are powering the clean-energy shift",
-      "description": "Around two in five (41%) Australian households using gas intend to fully electrify their homes, according to the Telsyte Australian Smart Home Study 2...",
-      "link": "https://econews.com.au/australias-homes-are-powering-the-clean-energy-shift/",
-      "pubDate": "Thu, 11 Dec 2025 02:05:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Epson Selected to IAM’s 2025 Asia IP Elite",
-      "description": "Epson’s Asia IP Elite 2025 award plaque Accelerating business growth and innovation through IP strategy Epson has been selected to be among “The 2025 ...",
-      "link": "https://econews.com.au/epson-selected-to-iams-2025-asia-ip-elite/",
-      "pubDate": "Thu, 11 Dec 2025 02:04:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Logo_2023_RGB_Blue-1024x395.png"
     }
   ]
 }
