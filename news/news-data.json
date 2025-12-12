@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2025-12-12T07:29:40.853Z",
+  "lastUpdated": "2025-12-12T08:39:08.867Z",
   "articles": [
     {
-      "title": "Climate protesters win groundbreaking class action against Victoria police over use of pepper spray",
+      "title": "Week in wildlife: a baby echidna, a 600lb gator and an ‘unbearable’ bear",
+      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025/dec/12...",
+      "link": "https://www.theguardian.com/environment/gallery/2025/dec/12/week-in-wildlife-a-baby-echidna-a-600lb-gator-and-an-unbearable-bear",
+      "pubDate": "Fri, 12 Dec 2025 08:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/26ef23a4915461638efdb9ca5cd4fd7af4e84826/66_0_1196_957/master/1196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=110f1f0d0062ab262d491bddb74a79b1"
+    },
+    {
+      "title": "Geminid meteor shower set to light up sky during weekend peak",
+      "description": "The meteor shower peaks this weekend with dark skies giving the UK a good chance of seeing them, weather-permitting ...",
+      "link": "https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 12 Dec 2025 07:37:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate protesters win groundbreaking class action against Victoria police over use of capsicum spray",
       "description": "&lt;p&gt;Potentially precedent-setting case brought after Jordan Brown hit with capsicum spray outside mining and resources conference in Melbourne in...",
       "link": "https://www.theguardian.com/australia-news/2025/dec/12/victoria-police-pepper-spray-climate-activists-class-action-win",
       "pubDate": "Fri, 12 Dec 2025 06:50:29 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Banksia-Foundation-NSW-Awards.png"
-    },
-    {
-      "title": "FERRERO AUSTRALIA WINS 2025 BANKSIA NSW SUSTAINABILITY AWARD",
-      "description": "Chris Hinton, Managing Director, Ferrero Australia Lithgow Plant Ferrero’s Lithgow factory recognised as regional manufacturing leader Ferrero Austral...",
-      "link": "https://econews.com.au/ferrero-australia-wins-2025-banksia-nsw-sustainability-award/",
-      "pubDate": "Thu, 11 Dec 2025 03:00:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
-    },
-    {
-      "title": "New environmentally friendly solution to thwart marine fouling",
-      "description": "Marine fouling triggers ongoing economic losses for the global shipping industry through detrimental effects on structures and vessels – but tests by ...",
-      "link": "https://econews.com.au/new-environmentally-friendly-solution-to-thwart-marine-fouling/",
-      "pubDate": "Thu, 11 Dec 2025 03:00:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Sophie-Leterme-and-Tamar-Jamieson-1024x683.jpg"
     }
   ]
 }
