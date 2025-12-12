@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-12T14:25:55.568Z",
+  "lastUpdated": "2025-12-12T15:30:45.961Z",
   "articles": [
+    {
+      "title": "Flooding remains threat in Pacific north-west as Washington declares emergency",
+      "description": "&lt;p&gt;Torrential rain has caused mudslides, washed out roads and submerged vehicles with more deluges expected on Sunday&lt;/p&gt;&lt;p&gt;Dangerou...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/12/flood-water-rain-pacific-northwest-washington",
+      "pubDate": "Fri, 12 Dec 2025 14:53:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f9fe8f20249ce1bfbbab37f7fb9a59c9469b2506/799_0_4001_3200/master/4001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aed17ce53b1a628adecaf35866978add"
+    },
     {
       "title": "Opening up Victoria’s Otway basin to offshore gas exploration an ‘environmental betrayal’, Greens say",
       "description": "&lt;p&gt;Federal resources minister Madeleine King announces five new offshore exploration zones as part of future gas strategy&lt;/p&gt;&lt;ul&gt;&lt...",
@@ -56,7 +65,7 @@
       "image": "https://i.guim.co.uk/img/media/c366a7ea08b7255d7dbff8ee08ad7c87cecc2a05/929_0_4219_3375/master/4219.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e408125c7d5830c86610db40b437d2d7"
     },
     {
-      "title": "Hightailing along high streets and raiding ponds: otters’ revival in Britain",
+      "title": "Hightailing along city streets and raiding ponds: otters’ revival in Britain",
       "description": "&lt;p&gt;Still rare only 20 years ago, the charismatic animals are in almost every UK river and a conservation success story&lt;/p&gt;&lt;p&gt;On a qu...",
       "link": "https://www.theguardian.com/environment/2025/dec/12/otter-cities-fish-revival-rivers-britain-pollution",
       "pubDate": "Fri, 12 Dec 2025 10:00:33 GMT",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/11122025/big-oil-deceptive-climate-ads-false-solutions/",
       "pubDate": "Thu, 11 Dec 2025 23:19:18 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "New evidence shows that early neanderthals made fire 350 thousand years before we thought....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txp?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 11 Dec 2025 21:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
