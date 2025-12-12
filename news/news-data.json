@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-12T22:27:38.584Z",
+  "lastUpdated": "2025-12-12T23:26:13.933Z",
   "articles": [
+    {
+      "title": "A huge cache of critical minerals found in Utah may be the largest in the US",
+      "description": "The discovery could reshape the clean energy supply chain....",
+      "link": "https://grist.org/energy/utah-mine-critical-minerals-rare-earths/",
+      "pubDate": "Fri, 12 Dec 2025 22:49:15 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Green California’s Big Oil Problem",
       "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec. 5, in the latest of ...",
@@ -48,7 +57,7 @@
     },
     {
       "title": "Opening up Victoria’s Otway basin to offshore gas exploration an ‘environmental betrayal’, Greens say",
-      "description": "&lt;p&gt;Federal resources minister Madeleine King announces five new offshore exploration zones as part of future gas strategy&lt;/p&gt;&lt;ul&gt;&lt...",
+      "description": "&lt;p&gt;Federal resources minister announces five new offshore exploration zones as part of future gas strategy&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
       "link": "https://www.theguardian.com/environment/2025/dec/13/opening-up-victorias-otway-basin-to-offshore-gas-exploration-an-environmental-betrayal-greens-say",
       "pubDate": "Fri, 12 Dec 2025 14:00:09 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Kyndryl and Microsoft Study Finds Over Half of Australian Organisations Highlight IT as a Key Enabler of Sustainability",
-      "description": "Strong executive focus, IT teams increasingly driving environmental outcomes, yet AI stewardship is down, ROI and data challenges stall progress Kyndr...",
-      "link": "https://econews.com.au/kyndryl-and-microsoft-study-finds-over-half-of-australian-organisations-highlight-it-as-a-key-enabler-of-sustainability/",
-      "pubDate": "Fri, 12 Dec 2025 05:05:26 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/kyndryl_logo_R_Warm-Red.jpg"
     }
   ]
 }
