@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-12T21:25:52.145Z",
+  "lastUpdated": "2025-12-12T22:27:38.584Z",
   "articles": [
+    {
+      "title": "Green California’s Big Oil Problem",
+      "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec. 5, in the latest of ...",
+      "link": "https://insideclimatenews.org/news/12122025/california-oil-field-spills/",
+      "pubDate": "Fri, 12 Dec 2025 21:44:58 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ancient lake reappears in Death Valley after record-breaking rains",
+      "description": "&lt;p&gt;Repeated fall storms led to the temporary lake, known as Lake Manly, appearing in basin 282ft beneath sea level&lt;/p&gt;&lt;p&gt;After recor...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/12/lake-manly-death-valley",
+      "pubDate": "Fri, 12 Dec 2025 21:24:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e9c9252a198397dab097ceecfc763e1777ab0d83/417_0_4489_3592/master/4489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=309b323cd7904b8d5c3210526c4e9f89"
+    },
     {
       "title": "Hunger’s whip: why connecting US food stamps to work is outdated and ineffective",
       "description": "&lt;p&gt;In many parts of the country, there are new work requirements to get food aid. But starving people doesn’t motivate them – despite centuries ...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/kyndryl_logo_R_Warm-Red.jpg"
-    },
-    {
-      "title": "Kuva Space Partners with WWF-Indonesia to Bring Hyperspectral Satellite Technology to Blue Carbon Verification and Sustainable Financing",
-      "description": "The collaboration will apply Kuva Space’s climate data innovation, powered by hyperspectral satellites and AI, to track mangrove and seagrass growth, ...",
-      "link": "https://econews.com.au/kuva-space-partners-with-wwf-indonesia-to-bring-hyperspectral-satellite-technology-to-blue-carbon-verification-and-sustainable-financing/",
-      "pubDate": "Fri, 12 Dec 2025 05:05:23 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Xpansiv Marks Milestones in Energy Transition Infrastructure Platform",
-      "description": "Xpansiv®, the leading infrastructure provider for the global energy transition markets, today announced strategic milestones in its development of a c...",
-      "link": "https://econews.com.au/xpansiv-marks-milestones-in-energy-transition-infrastructure-platform/",
-      "pubDate": "Fri, 12 Dec 2025 05:05:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
