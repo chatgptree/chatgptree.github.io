@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-13T09:26:52.578Z",
+  "lastUpdated": "2025-12-13T10:27:46.817Z",
   "articles": [
+    {
+      "title": "Hundreds of Sea Turtles Are Freezing in Cape Cod",
+      "description": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their f...",
+      "link": "https://insideclimatenews.org/news/13122025/sea-turtles-freezing-in-cape-cod/",
+      "pubDate": "Sat, 13 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New York City’s Forests Are Ailing. New Funding May Get at the Root of the Problem",
+      "description": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected sectio...",
+      "link": "https://insideclimatenews.org/news/13122025/new-york-city-forest-restoration-grants/",
+      "pubDate": "Sat, 13 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Mining company claims government didn’t follow proper process for Aboriginal heritage protection order",
       "description": "&lt;p&gt;Regis Resources told a federal court hearing the partial protection order, which blocks construction of a planned tailings dam, would make it...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "One of world’s largest reef restoration trials during Reef spawning",
-      "description": "The Australian Institute of Marine Science (AIMS) has led one of the world’s largest reef restoration tests on a coral reef ecosystem during the recen...",
-      "link": "https://econews.com.au/one-of-worlds-largest-reef-restoration-trials-during-reef-spawning/",
-      "pubDate": "Fri, 12 Dec 2025 06:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/unnamed-55.png"
-    },
-    {
-      "title": "Droughts lasting longer across Australia, study shows",
-      "description": "UNSW Sydney A study tracking not only the forces that drive drought but the damage it leaves behind has revealed that droughts have lasted longer in A...",
-      "link": "https://econews.com.au/droughts-lasting-longer-across-australia-study-shows/",
-      "pubDate": "Fri, 12 Dec 2025 06:04:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
