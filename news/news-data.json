@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-14T10:30:14.887Z",
+  "lastUpdated": "2025-12-14T11:24:09.253Z",
   "articles": [
+    {
+      "title": "Wyoming Ranchers Hoping Solar Can Lower Costs Say Utilities and the State Stand in Their Way",
+      "description": "COKEVILLE, Wyo.—Tim Teichert and Jason Thornock want the sun to help them survive as ranchers in Cokeville, Wyoming. On an overcast May day, the two d...",
+      "link": "https://insideclimatenews.org/news/14122025/cokeville-wyoming-ranch-scale-solar/",
+      "pubDate": "Sun, 14 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a Nation Famous for Conservation Is Fueling Its Own Destruction",
+      "description": "In April 2022, a blue and white fishing boat sliced through the protected waters surrounding Costa Rica’s Isla San José at high speed. Its 75-horsepow...",
+      "link": "https://insideclimatenews.org/news/14122025/costa-rica-fuel-subsidies-funds-poaching-overfishing/",
+      "pubDate": "Sun, 14 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Where Does 110 Billion Pounds of Manure Go?",
+      "description": "Iowa raises about 23 million hogs each year. That many animals produce a lot of manure—some 110 billion pounds of it—but no one keeps track of where i...",
+      "link": "https://insideclimatenews.org/news/14122025/icn-sunday-morning-iowa-manure/",
+      "pubDate": "Sun, 14 Dec 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Atmospheric rivers – what to know about the storms inundating the Pacific north-west",
       "description": "&lt;p&gt;This week’s weather system dumped 5tn gallons of rain on Washington state – and another one is threatening Canada&lt;/p&gt;&lt;p&gt;Just as r...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/57ce5ed80ed01c49b2da9a474b2fe587125217a3/448_0_4090_3273/master/4090.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebb87b7c89a05fad805516614a448def"
-    },
-    {
-      "title": "Hightailing along city streets and raiding ponds: otters’ revival in Britain",
-      "description": "&lt;p&gt;Still rare only 20 years ago, the charismatic animals are in almost every UK river and a conservation success story&lt;/p&gt;&lt;p&gt;On a qu...",
-      "link": "https://www.theguardian.com/environment/2025/dec/12/otter-cities-fish-revival-rivers-britain-pollution",
-      "pubDate": "Fri, 12 Dec 2025 10:00:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e8262a110d7d34b0ca25efc935eaaf2b9fd6eac3/1980_1398_2527_2022/master/2527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3531603f5797361642bce676c79f2b8a"
-    },
-    {
-      "title": "Sharks and Rays Gain Landmark Protections as Nations Move to Curb International Trade",
-      "description": "For the first time, global governments have agreed to widespread international trade bans and restrictions for sharks and rays being driven to extinct...",
-      "link": "https://insideclimatenews.org/news/12122025/sharks-rays-landmark-protection-against-international-trade/",
-      "pubDate": "Fri, 12 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gaza Faces Another Catastrophic Winter as Environmental and Humanitarian Devastation Mount",
-      "description": "Every day when Rajaa Musleh wakes up and checks her phone, she fears she will see news that another member of her family has been killed in Gaza.&#160...",
-      "link": "https://insideclimatenews.org/news/12122025/gaza-catastrophic-winter-amid-environmental-humanitarian-devastation/",
-      "pubDate": "Fri, 12 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
