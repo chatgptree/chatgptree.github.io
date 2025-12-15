@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-12-15T09:40:21.696Z",
+  "lastUpdated": "2025-12-15T10:35:50.476Z",
   "articles": [
+    {
+      "title": "‘I consider him my first son’: how living with a baby monkey taught me I’m ready to be a dad",
+      "description": "&lt;p&gt;I went from selling flats in Paris to being alone in a cabin in Guinea looking after primates. It changed my life, but one relationship marke...",
+      "link": "https://www.theguardian.com/environment/2025/dec/15/baby-monkey-jungle-guinea-monkeys-aoe",
+      "pubDate": "Mon, 15 Dec 2025 10:00:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f8cb5710bedb50415446259892ef18289efb94dc/540_0_6468_5177/master/6468.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=771d9a43b4f0e99980f178cde62697b7"
+    },
+    {
+      "title": "Virginia Regulators Weigh Expanded Use of Data Center’s Polluting Generators",
+      "description": "This past summer, a fire at an electrical substation forced data centers in Loudoun County to rely on backup diesel generators as their power source. ...",
+      "link": "https://insideclimatenews.org/news/15122025/virginia-regulators-weigh-expanded-use-of-data-centers-polluting-generators/",
+      "pubDate": "Mon, 15 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "One Big, Shining Beacon for Climate Hope",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with author and clima...",
+      "link": "https://insideclimatenews.org/news/15122025/bill-mckibben-here-comes-the-sun-climate-hope/",
+      "pubDate": "Mon, 15 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What your cheap clothes cost the planet",
+      "description": "A global supply chain built for speed is leaving behind waste, toxins, and a trail of environmental wreckage....",
+      "link": "https://grist.org/business/what-your-cheap-clothes-cost-the-planet/",
+      "pubDate": "Mon, 15 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/fastfashion_0.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "How the planet fared in 2025 — the good, the bad, and the ugly",
       "description": "From winter wildfires in Los Angeles to the unchecked growth of data centers, here are the big climate stories we covered in 2025....",
@@ -142,42 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c36z84ej6e0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 14 Dec 2025 09:41:27 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Atmospheric rivers – what to know about the storms inundating the Pacific north-west",
-      "description": "&lt;p&gt;This week’s weather system dumped 5tn gallons of rain on Washington state – and another one is threatening Canada&lt;/p&gt;&lt;p&gt;Just as r...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/13/atmospheric-river-washington-canada-pacific-north-west",
-      "pubDate": "Sat, 13 Dec 2025 20:17:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7a064d0320fcbdacd49ca9eaf9f896d897a21de3/306_0_3062_2450/master/3062.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=191814c525e3fc7ef891d71d211fa26e"
-    },
-    {
-      "title": "Australia’s best news agency photography for 2025 – in pictures",
-      "description": "&lt;p&gt;Floods, fires, festivities and legal wins are all captured in the best images from the wire agencies in 2025&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
-      "link": "https://www.theguardian.com/australia-news/gallery/2025/dec/14/australia-best-news-agency-photography-2025",
-      "pubDate": "Sat, 13 Dec 2025 19:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/728ee962e84ed296ca8172993b3a8578bc86dbdf/205_0_3251_2601/master/3251.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f82cf751f5af9b244ceec17c494b11d6"
-    },
-    {
-      "title": "Top Interior Department official has ties to Thacker Pass lithium mine",
-      "description": "Karen Budd-Falen’s family ranching operation agreed to sell water rights to the company developing the controversial Nevada lithium project....",
-      "link": "https://grist.org/accountability/top-interior-department-official-has-ties-to-thacker-pass-lithium-mine/",
-      "pubDate": "Sat, 13 Dec 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/agtalkkbf.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Hundreds of Sea Turtles Are Freezing in Cape Cod",
-      "description": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their f...",
-      "link": "https://insideclimatenews.org/news/13122025/sea-turtles-freezing-in-cape-cod/",
-      "pubDate": "Sat, 13 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
