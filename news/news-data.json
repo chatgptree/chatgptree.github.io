@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T07:31:58.110Z",
+  "lastUpdated": "2025-12-15T08:41:52.908Z",
   "articles": [
     {
       "title": "Tabletop tomatoes and drought-resistant roses tipped as 2026’s top garden trends",
@@ -45,6 +45,24 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/UNSW-logo.png"
+    },
+    {
+      "title": "Spain's commitment to renewable energy may be in doubt",
+      "description": "The current government is politically weakened and the opposition wants more use of fossil fuels....",
+      "link": "https://www.bbc.com/news/articles/cn410nll79po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 15 Dec 2025 00:02:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Spain's commitment to renewable energy may be in doubt",
+      "description": "The current government is politically weakened and the opposition wants more use of fossil fuels....",
+      "link": "https://www.bbc.com/news/articles/cn410nll79po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 15 Dec 2025 00:02:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Conservatives would end 2030 ban on new petrol and diesel cars",
@@ -101,6 +119,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Tories to scrap petrol car ban if they win next election",
+      "description": "The Conservative Party leader says the policy is \"destructive\" and \"economic self-harm\"....",
+      "link": "https://www.bbc.com/news/articles/c36z84ej6e0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 14 Dec 2025 09:41:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Atmospheric rivers – what to know about the storms inundating the Pacific north-west",
       "description": "&lt;p&gt;This week’s weather system dumped 5tn gallons of rain on Washington state – and another one is threatening Canada&lt;/p&gt;&lt;p&gt;Just as r...",
       "link": "https://www.theguardian.com/us-news/2025/dec/13/atmospheric-river-washington-canada-pacific-north-west",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/88d216e549617e52b216d075690573f867704d6a/1120_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3dbb64f33cf9ae134b22d5d841f4e321"
-    },
-    {
-      "title": "A huge cache of critical minerals found in Utah may be the largest in the US",
-      "description": "The discovery could reshape the clean energy supply chain....",
-      "link": "https://grist.org/energy/utah-mine-critical-minerals-rare-earths/",
-      "pubDate": "Fri, 12 Dec 2025 22:49:15 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Green California’s Big Oil Problem",
-      "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec. 5, in the latest of ...",
-      "link": "https://insideclimatenews.org/news/12122025/california-oil-field-spills/",
-      "pubDate": "Fri, 12 Dec 2025 21:44:58 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ancient lake reappears in Death Valley after record-breaking rains",
-      "description": "&lt;p&gt;Repeated fall storms led to the temporary lake, known as Lake Manly, appearing in basin 282ft beneath sea level&lt;/p&gt;&lt;p&gt;After recor...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/12/lake-manly-death-valley",
-      "pubDate": "Fri, 12 Dec 2025 21:24:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e9c9252a198397dab097ceecfc763e1777ab0d83/417_0_4489_3592/master/4489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=309b323cd7904b8d5c3210526c4e9f89"
     }
   ]
 }
