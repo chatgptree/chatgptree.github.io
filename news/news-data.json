@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-15T21:27:37.425Z",
+  "lastUpdated": "2025-12-15T22:28:20.351Z",
   "articles": [
+    {
+      "title": "Disaster Survivors Denounce Proposed FEMA Downsizing",
+      "description": "Flood, storm and fire survivors gathered in Washington, D.C., Monday to express their alarm over a leaked report from the FEMA Review Council that pro...",
+      "link": "https://insideclimatenews.org/news/15122025/disaster-survivors-denounce-fema-downsizing/",
+      "pubDate": "Mon, 15 Dec 2025 21:40:48 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Trump’s Big Ag bailout is alienating his MAHA base",
+      "description": "The administration’s pro-industry tilt — across three executive agencies — is feeding the MAHA movement’s growing discontent....",
+      "link": "https://grist.org/food-and-agriculture/how-trumps-big-ag-bailout-is-alienating-his-maha-base/",
+      "pubDate": "Mon, 15 Dec 2025 21:40:36 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/united-states-climate-action.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Morrisons becomes first UK supermarket to delay net zero targets",
       "description": "&lt;p&gt;Britain’s fifth-biggest grocer postpones goal by 15 years to 2050, saying revised plan will now cover entire supply chain&lt;/p&gt;&lt;p&gt;M...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/20251116-Gratz-NE-Lead11-min.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Wyoming Ranchers Hoping Solar Can Lower Costs Say Utilities and the State Stand in Their Way",
-      "description": "COKEVILLE, Wyo.—Tim Teichert and Jason Thornock want the sun to help them survive as ranchers in Cokeville, Wyoming. On an overcast May day, the two d...",
-      "link": "https://insideclimatenews.org/news/14122025/cokeville-wyoming-ranch-scale-solar/",
-      "pubDate": "Sun, 14 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How a Nation Famous for Marine Conservation Is Bankrolling Its Own Destruction",
-      "description": "In April 2022, a blue and white fishing boat sliced through the protected waters surrounding Costa Rica’s Isla San José at high speed. Its 75-horsepow...",
-      "link": "https://insideclimatenews.org/news/14122025/costa-rica-fuel-subsidies-funds-poaching-overfishing/",
-      "pubDate": "Sun, 14 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
