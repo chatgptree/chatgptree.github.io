@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-15T08:41:52.908Z",
+  "lastUpdated": "2025-12-15T09:40:21.696Z",
   "articles": [
+    {
+      "title": "How the planet fared in 2025 — the good, the bad, and the ugly",
+      "description": "From winter wildfires in Los Angeles to the unchecked growth of data centers, here are the big climate stories we covered in 2025....",
+      "link": "https://grist.org/climate/climate-environmental-stories-2025/",
+      "pubDate": "Mon, 15 Dec 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/GettyImages-2194774503a.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Under Trump, the National Renewable Energy Lab is losing &#8216;renewable&#8217; from its name",
+      "description": "The lab has spurred major solar, wind, and storage breakthroughs. Its new remit is a \"broader vision\" for energy research....",
+      "link": "https://grist.org/energy/under-trump-the-national-renewable-energy-lab-is-losing-renewable-from-its-name/",
+      "pubDate": "Mon, 15 Dec 2025 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/solar-panels-nrel.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Tabletop tomatoes and drought-resistant roses tipped as 2026’s top garden trends",
       "description": "&lt;p&gt;RHS predicts big shift in gardening habits as green-fingered Britons adapt to climate breakdown&lt;/p&gt;&lt;p&gt;Bouquets of cut flowers wil...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New York City’s Forests Are Ailing. New Funding May Get at the Root of the Problem",
-      "description": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected sectio...",
-      "link": "https://insideclimatenews.org/news/13122025/new-york-city-forest-restoration-grants/",
-      "pubDate": "Sat, 13 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mining company claims government didn’t follow proper process for Aboriginal heritage protection order",
-      "description": "&lt;p&gt;Regis Resources told a federal court hearing the partial protection order, which blocks construction of a planned tailings dam, would make it...",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/13/regis-resources-mining-aboriginal-heritage-protection-claims",
-      "pubDate": "Sat, 13 Dec 2025 01:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/88d216e549617e52b216d075690573f867704d6a/1120_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3dbb64f33cf9ae134b22d5d841f4e321"
     }
   ]
 }
