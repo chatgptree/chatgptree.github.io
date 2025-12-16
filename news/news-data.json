@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-16T14:33:04.655Z",
+  "lastUpdated": "2025-12-16T15:31:59.283Z",
   "articles": [
+    {
+      "title": "Thousands of dinosaur footprints found on Italian mountain",
+      "description": "The footprints date back some 210 million years and show traces of toes and claws. ...",
+      "link": "https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 16 Dec 2025 15:09:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Government rolls back nature protections to boost housing",
+      "description": "Critics say government changes to a flagship biodiversity policy could stall nature recovery....",
+      "link": "https://www.bbc.com/news/articles/c3r7zp418p8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 16 Dec 2025 14:53:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Washington state residents urged to ‘go now’ as flooding causes levee breach",
       "description": "&lt;p&gt;Police in city of Pacific told residents to evacuate just hours after evacuation order had been lifted in nearby suburbs&lt;/p&gt;&lt;p&gt;Re...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Disaster Survivors Denounce Proposed FEMA Downsizing",
-      "description": "Flood, storm and fire survivors gathered in Washington, D.C., Monday to express their alarm over a leaked report from the FEMA Review Council that pro...",
-      "link": "https://insideclimatenews.org/news/15122025/disaster-survivors-denounce-fema-downsizing/",
-      "pubDate": "Mon, 15 Dec 2025 21:40:48 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Trump’s Big Ag bailout is alienating his MAHA base",
-      "description": "The administration’s pro-industry tilt — across three executive agencies — is feeding the MAHA movement’s growing discontent....",
-      "link": "https://grist.org/food-and-agriculture/how-trumps-big-ag-bailout-is-alienating-his-maha-base/",
-      "pubDate": "Mon, 15 Dec 2025 21:40:36 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/united-states-climate-action.jpg?quality=75&#038;strip=all"
     }
   ]
 }
