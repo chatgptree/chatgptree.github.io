@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-16T13:01:17.325Z",
+  "lastUpdated": "2025-12-16T14:33:04.655Z",
   "articles": [
+    {
+      "title": "Washington state residents urged to ‘go now’ as flooding causes levee breach",
+      "description": "&lt;p&gt;Police in city of Pacific told residents to evacuate just hours after evacuation order had been lifted in nearby suburbs&lt;/p&gt;&lt;p&gt;Re...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/16/washington-flooding-levee-breach",
+      "pubDate": "Tue, 16 Dec 2025 14:14:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c02fc5dea7ef7bfc48dd9bdde33302cce34d3469/0_0_2138_1710/master/2138.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7592de97f517d39b5429a23f2b462a4b"
+    },
+    {
+      "title": "Electricity generation costs would be a third lower with 82% renewable grid, CSIRO says",
+      "description": "&lt;p&gt;Modelling suggests by 2050 main electricity market could run almost entirely on renewables without increase in generation cost&lt;/p&gt;&lt;u...",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/16/electricity-generation-costs-third-lower-82-renewable-grid",
+      "pubDate": "Tue, 16 Dec 2025 14:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6129418a66709ecf08d0fe2a1e6142e361527cd3/1191_0_2800_2242/master/2800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=776ebb13aba3f3d804d20ab1f9089dc9"
+    },
+    {
+      "title": "Michigan Lawmakers Introduce Bill to Repeal Data Center Tax Incentives",
+      "description": "A bipartisan bill introduced Tuesday in the Michigan Legislature would repeal the state’s data center tax incentive laws, which, since their late 2024...",
+      "link": "https://insideclimatenews.org/news/16122025/michigan-lawmakers-introduce-bill-to-repeal-data-center-tax-incentives/",
+      "pubDate": "Tue, 16 Dec 2025 13:53:13 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Hope—and Many Fears—Follow in the Wake of Trump&#8217;s Plan to Transform Wildland Firefighting",
       "description": "One of the most profound shifts in how the United States manages wildland fire is underway. Federal wildland fire forces are spread across several age...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/united-states-climate-action.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Morrisons becomes first UK supermarket to delay net zero targets",
-      "description": "&lt;p&gt;Britain’s fifth-biggest grocer postpones goal by 15 years to 2050, saying revised plan will now cover entire supply chain&lt;/p&gt;&lt;p&gt;M...",
-      "link": "https://www.theguardian.com/business/2025/dec/15/morrisons-becomes-first-uk-supermarket-to-delay-net-zero-targets",
-      "pubDate": "Mon, 15 Dec 2025 18:22:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bee80a7858864cb5a06931ba91d2e013b2d2bde6/0_539_2000_1600/master/2000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9139b763ab2e549f58fc88267b1aad5"
-    },
-    {
-      "title": "Glaciers to reach peak rate of extinction in the Alps in eight years",
-      "description": "&lt;p&gt;Climate crisis forecast to wipe out thousands of glaciers a year globally, threatening water supplies and cultural heritage&lt;/p&gt;&lt;ul&g...",
-      "link": "https://www.theguardian.com/environment/2025/dec/15/alpine-glaciers-rate-extinction-climate-crisis",
-      "pubDate": "Mon, 15 Dec 2025 16:00:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a1f9ef4210d2b7a8c21a778c5c5fb065915015f1/683_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5ec051cfe1a576feeaf588e9eddd1b5"
-    },
-    {
-      "title": "Tories to scrap petrol car ban if they win next election",
-      "description": "The Conservative Party leader says the policy is \"destructive\" and \"economic self-harm\"....",
-      "link": "https://www.bbc.com/news/articles/c36z84ej6e0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 15 Dec 2025 12:44:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
