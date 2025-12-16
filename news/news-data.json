@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T15:31:59.283Z",
+  "lastUpdated": "2025-12-16T16:39:32.853Z",
   "articles": [
     {
       "title": "Thousands of dinosaur footprints found on Italian mountain",
@@ -9,6 +9,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Jane Goodall Earth medal to recognise people working to improve the world",
+      "description": "&lt;p&gt;Organisers of award in honour of late primatologist hope it will inspire and encourage people to take action&lt;/p&gt;&lt;p&gt;Earth might be...",
+      "link": "https://www.theguardian.com/science/2025/dec/16/jane-goodall-earth-medal-recognise-people-working-improve-world",
+      "pubDate": "Tue, 16 Dec 2025 15:00:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d917e098014d6a6b557007193a306d242f2c981f/960_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=952dc6fbdfce7d265953a87807a3461c"
     },
     {
       "title": "Government rolls back nature protections to boost housing",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6e1cfe85ebdd8a8717c20195683ac2a33c93e762/98_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a9cd4e26fd76cd18672cd15336b4fa9"
-    },
-    {
-      "title": "Ford to scale back electric vehicle plans, taking $19.5bn hit",
-      "description": "The US carmaker is backing away from large electric vehicles, citing lacklustre demand and recent regulatory changes under US President Donald Trump....",
-      "link": "https://www.bbc.com/news/articles/c0l9j65w30eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 15 Dec 2025 23:32:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
