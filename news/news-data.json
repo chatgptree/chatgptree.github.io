@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-12-16T09:36:11.910Z",
+  "lastUpdated": "2025-12-16T10:34:00.245Z",
   "articles": [
+    {
+      "title": "Hope—and Many Fears—Follow in the Wake of Trump&#8217;s Plan to Transform Wildland Firefighting",
+      "description": "One of the most profound shifts in how the United States manages wildland fire is underway. Federal wildland fire forces are spread across several age...",
+      "link": "https://insideclimatenews.org/news/16122025/trumps-plan-to-transform-wildland-firefighting/",
+      "pubDate": "Tue, 16 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can a Flood-Prone Coastal City Learn to Live With Water?",
+      "description": "Shelton Tucker is part of a novel plan to deal with the waters that are increasingly encroaching on his neighborhood in Hampton, Virginia. Situated at...",
+      "link": "https://insideclimatenews.org/news/16122025/flood-prone-hampton-virginia-coastal-water-plan/",
+      "pubDate": "Tue, 16 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "After Hurricane Katrina, a New Orleans Architect Turned to the Dutch to Learn to Live With Water",
+      "description": "For years, David Waggonner designed courthouses and other public buildings at his architectural practice, Waggonner &#38; Ball, in New Orleans. Then H...",
+      "link": "https://insideclimatenews.org/news/16122025/new-orleans-architect-finds-dutch-answer-to-living-with-water/",
+      "pubDate": "Tue, 16 Dec 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The country&#8217;s biggest magnesium producer went bankrupt. Who&#8217;s going to clean up the $100M mess?",
+      "description": "US Magnesium, on the shores of Utah’s Great Salt Lake, left a legacy of environmental problems....",
+      "link": "https://grist.org/accountability/magnesium-producer-bankrupt-pollution-great-salt-lake/",
+      "pubDate": "Tue, 16 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/E5SAYX3TPBHRVHEENYGK4I7USU-1.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "How the Trump administration is fast-tracking logging in Illinois’ only national forest",
       "description": "Facing pressure to increase timber harvests, the Forest Service is sidestepping rigorous environmental reviews and limiting public participation....",
@@ -36,6 +72,51 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Following ocean currents to predict and prevent seabird deaths",
+      "description": "Albatross chick with satellite tag. Kath Walker, Graeme Elliot A new study seeks to support conservation and management strategies by identifying zone...",
+      "link": "https://econews.com.au/following-ocean-currents-to-predict-and-prevent-seabird-deaths/",
+      "pubDate": "Tue, 16 Dec 2025 01:05:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/unnamed-56-1024x416.png"
+    },
+    {
+      "title": "Virescent Ventures backs innovative Australian early-fault detection and bushfire prevention technology to scale globally",
+      "description": "Kristin Vaughan, Managing Partner of Virescent Ventures Virescent Ventures has announced that it is the Australian partner in an A$50 million funding ...",
+      "link": "https://econews.com.au/virescent-ventures-backs-innovative-australian-early-fault-detection-and-bushfire-prevention-technology-to-scale-globally/",
+      "pubDate": "Tue, 16 Dec 2025 01:05:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "10 “Quiet Escapes” Defining Intentional Travel in 2026",
+      "description": "Travel is changing, and the data is in: 2026 is shaping up to be the year of quiet escapes, ultra-personalized retreats, and a decisive return to slow...",
+      "link": "https://econews.com.au/10-quiet-escapes-defining-intentional-travel-in-2026/",
+      "pubDate": "Tue, 16 Dec 2025 01:05:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/unnamed-61-1024x576.jpg"
+    },
+    {
+      "title": "Extreme Fires Expose Critical Gaps in Grid Edge Visibility as AEMO Warns on CER and System Security",
+      "description": "Credit: Matt Palmer Fires in New South Wales and Western Australia have validated the growing vulnerabilities in Australia’s low voltage (LV) electric...",
+      "link": "https://econews.com.au/extreme-fires-expose-critical-gaps-in-grid-edge-visibility-as-aemo-warns-on-cer-and-system-security/",
+      "pubDate": "Tue, 16 Dec 2025 01:05:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Building Beyond Sustainability: How Nature Positive Design Can Transform Australia’s Future",
+      "description": "By David Cummins, Managing Director of Future Property Group For too long, the built environment has treated sustainability as optional, constrained b...",
+      "link": "https://econews.com.au/building-beyond-sustainability-how-nature-positive-design-can-transform-australias-future/",
+      "pubDate": "Tue, 16 Dec 2025 01:04:57 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
     },
     {
       "title": "Nissan begins production of new electric car in Sunderland",
@@ -97,87 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c36z84ej6e0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 15 Dec 2025 12:44:25 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘I consider him my first son’: how living with a baby monkey taught me I’m ready to be a dad",
-      "description": "&lt;p&gt;I went from selling flats in Paris to being alone in a cabin in Guinea looking after primates. It changed my life, but one relationship marke...",
-      "link": "https://www.theguardian.com/environment/2025/dec/15/baby-monkey-jungle-guinea-monkeys-aoe",
-      "pubDate": "Mon, 15 Dec 2025 10:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f8cb5710bedb50415446259892ef18289efb94dc/540_0_6468_5177/master/6468.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=771d9a43b4f0e99980f178cde62697b7"
-    },
-    {
-      "title": "Virginia Regulators Weigh Expanded Use of Data Center’s Polluting Generators",
-      "description": "This past summer, a fire at an electrical substation forced data centers in Loudoun County to rely on backup diesel generators as their power source. ...",
-      "link": "https://insideclimatenews.org/news/15122025/virginia-regulators-weigh-expanded-use-of-data-centers-polluting-generators/",
-      "pubDate": "Mon, 15 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "One Big, Shining Beacon for Climate Hope",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with author and clima...",
-      "link": "https://insideclimatenews.org/news/15122025/bill-mckibben-here-comes-the-sun-climate-hope/",
-      "pubDate": "Mon, 15 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What your cheap clothes cost the planet",
-      "description": "A global supply chain built for speed is leaving behind waste, toxins, and a trail of environmental wreckage....",
-      "link": "https://grist.org/business/what-your-cheap-clothes-cost-the-planet/",
-      "pubDate": "Mon, 15 Dec 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/fastfashion_0.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How the planet fared in 2025 — the good, the bad, and the ugly",
-      "description": "From winter wildfires in Los Angeles to the unchecked growth of data centers, here are the big climate stories we covered in 2025....",
-      "link": "https://grist.org/climate/climate-environmental-stories-2025/",
-      "pubDate": "Mon, 15 Dec 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/GettyImages-2194774503a.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Under Trump, the National Renewable Energy Lab is losing &#8216;renewable&#8217; from its name",
-      "description": "The lab has spurred major solar, wind, and storage breakthroughs. Its new remit is a \"broader vision\" for energy research....",
-      "link": "https://grist.org/energy/under-trump-the-national-renewable-energy-lab-is-losing-renewable-from-its-name/",
-      "pubDate": "Mon, 15 Dec 2025 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/solar-panels-nrel.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Spain's commitment to renewable energy may be in doubt",
-      "description": "The current government is politically weakened and the opposition wants more use of fossil fuels....",
-      "link": "https://www.bbc.com/news/articles/cn410nll79po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 15 Dec 2025 00:02:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The EPA was considering a massive lead cleanup in Omaha. Then Trump shifted guidance.",
-      "description": "Tens of thousands of Omahans have lead in their yards at levels that experts say is dangerous, especially for kids. Growing momentum to do more cleanu...",
-      "link": "https://grist.org/accountability/the-epa-was-considering-a-massive-lead-cleanup-in-omaha-then-trump-shifted-guidance/",
-      "pubDate": "Sun, 14 Dec 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/20251116-Gratz-NE-Lead11-min.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Wyoming Ranchers Hoping Solar Can Lower Costs Say Utilities and the State Stand in Their Way",
-      "description": "COKEVILLE, Wyo.—Tim Teichert and Jason Thornock want the sun to help them survive as ranchers in Cokeville, Wyoming. On an overcast May day, the two d...",
-      "link": "https://insideclimatenews.org/news/14122025/cokeville-wyoming-ranch-scale-solar/",
-      "pubDate": "Sun, 14 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
