@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-17T07:29:34.796Z",
+  "lastUpdated": "2025-12-17T08:39:52.989Z",
   "articles": [
     {
       "title": "Christmas dinner and festive treats up to 70% more expensive, reports Which?",
@@ -101,6 +101,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "EU waters down plans to end new petrol and diesel car sales by 2035",
+      "description": "Carmakers, particularly in Germany, have lobbied heavily for concessions to the planned rules....",
+      "link": "https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 16 Dec 2025 19:28:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Climate change primed Washington state for historic flooding",
       "description": "Low snowpack, leftover burn scars, and abnormally warm temperatures are supercharging the atmospheric rivers hitting the Pacific Northwest....",
       "link": "https://grist.org/extreme-weather/climate-change-primed-washington-state-for-historic-flooding/",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The country&#8217;s biggest magnesium producer went bankrupt. Who&#8217;s going to clean up the $100M mess?",
-      "description": "US Magnesium, on the shores of Utah’s Great Salt Lake, left a legacy of environmental problems....",
-      "link": "https://grist.org/accountability/magnesium-producer-bankrupt-pollution-great-salt-lake/",
-      "pubDate": "Tue, 16 Dec 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/E5SAYX3TPBHRVHEENYGK4I7USU-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
