@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-17T16:39:10.291Z",
+  "lastUpdated": "2025-12-17T17:29:57.668Z",
   "articles": [
+    {
+      "title": "Trump administration to dismantle key climate research center in Colorado",
+      "description": "&lt;p&gt;Governor Jared Polis warned that breaking up Boulder’s NCAR would put ‘public safety at risk’&lt;/p&gt;&lt;p&gt;The Trump administration is b...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/17/trump-boulder-ncar-climate-lab",
+      "pubDate": "Wed, 17 Dec 2025 16:59:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/873516d7999dd5d1c3b862e891cf708a8f50ebb8/415_0_4170_3339/master/4170.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dcfd4a5303e450b5e8657cf362f5873"
+    },
     {
       "title": "‘Everything is worse since Drax came here’: US residents say wood-pellet plant harming their town",
       "description": "&lt;p&gt;Residents of Gloster, Mississippi, are suing plant that exports wood pellets to UK and Europe. Company says it is reducing emissions&lt;/p&gt...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate change primed Washington state for historic flooding",
-      "description": "Low snowpack, leftover burn scars, and abnormally warm temperatures are supercharging the atmospheric rivers hitting the Pacific Northwest....",
-      "link": "https://grist.org/extreme-weather/climate-change-primed-washington-state-for-historic-flooding/",
-      "pubDate": "Tue, 16 Dec 2025 19:27:57 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/GettyImages-1828927442-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
