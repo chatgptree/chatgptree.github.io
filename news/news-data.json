@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-18T16:39:50.600Z",
+  "lastUpdated": "2025-12-18T17:29:51.990Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "President Trump continues to shake up science. We look at the impact it’s already having....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txq?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 18 Dec 2025 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump’s Energy Secretary Orders a Washington State Coal Plant to Remain Open",
       "description": "SEATTLE—The last coal-fired power plant in Washington state was set to go cold at the end of the year. It would then switch to natural gas, cutting ca...",
@@ -111,7 +120,7 @@
     },
     {
       "title": "‘It’s an open invasion’: how millions of quagga mussels changed Lake Geneva for ever",
-      "description": "&lt;p&gt;The molluscs are decimating food chains in Switzerland, have devastated the Great Lakes in the US, and this week were spotted in Northern Ire...",
+      "description": "&lt;p&gt;The molluscs are decimating food chains in Switzerland, have devastated the Great Lakes in North America, and this week were spotted in North...",
       "link": "https://www.theguardian.com/environment/2025/dec/18/invasive-quagga-mussels-lake-geneva-aoe",
       "pubDate": "Thu, 18 Dec 2025 05:00:29 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Washington state flooding damage profound but unclear, governor warns",
-      "description": "&lt;p&gt;Record rains have forced hundreds of rescues, swamped communities and left rivers high, with more storms forecast&lt;/p&gt;&lt;p&gt;The exten...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/17/washington-flooding-damage-governor",
-      "pubDate": "Thu, 18 Dec 2025 00:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e91d94a3d0e07bfc00e0be0b145b4f9a554f276e/516_170_3091_2473/master/3091.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=152fe457e88806db44cd78dbae7c9d81"
     }
   ]
 }
