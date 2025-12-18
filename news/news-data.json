@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-18T13:45:15.769Z",
+  "lastUpdated": "2025-12-18T14:30:54.399Z",
   "articles": [
+    {
+      "title": "‘Massive disruption’: UK’s worst-case climate crisis scenarios revealed by scientists",
+      "description": "&lt;p&gt;Scientists say government must prepare for ‘plausible’ 4C rise in temperature and a 2-metre rise in sea levels&lt;/p&gt;&lt;p&gt;The worst-ca...",
+      "link": "https://www.theguardian.com/environment/2025/dec/18/massive-disruption-uk-worst-case-climate-crisis-risks",
+      "pubDate": "Thu, 18 Dec 2025 14:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/805612f4a415eec281b502fafa7634e79be6cbee/872_700_2581_2065/master/2581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00b08e2ccd349a51493ada910edea92a"
+    },
+    {
+      "title": "How Do Rooftop Solar and EVs Affect Electricity Costs for Everyone Else? Here’s a New Estimate",
+      "description": "One of the most divisive topics among environmental advocates and researchers is the claim that the growth of rooftop solar leads to a concerning tran...",
+      "link": "https://insideclimatenews.org/news/18122025/inside-clean-energy-rooftop-solar-electricity-rates/",
+      "pubDate": "Thu, 18 Dec 2025 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Farmers 'bewildered and frightened' over inheritance tax, report finds",
       "description": "A government-commissioned report into farm profitability says farmers fear what the future might hold....",
@@ -74,6 +92,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Sir David Attenborough's London - why he wouldn't live anywhere else",
+      "description": "In a new one-off documentary, the broadcaster and conservationist comes home - to London....",
+      "link": "https://www.bbc.com/news/articles/c93wj8134q0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 18 Dec 2025 06:06:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "‘It’s an open invasion’: how millions of quagga mussels changed Lake Geneva for ever",
       "description": "&lt;p&gt;The molluscs are decimating food chains in Switzerland, have devastated the Great Lakes in the US, and this week were spotted in Northern Ire...",
       "link": "https://www.theguardian.com/environment/2025/dec/18/invasive-quagga-mussels-lake-geneva-aoe",
@@ -137,15 +164,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Met Office: 2026 will bring heat more than 1.4C above preindustrial levels",
-      "description": "&lt;p&gt;Forecast is slightly cooler than the record 1.55C reached in 2024, but 2026 set to be among four hottest years since 1850&lt;/p&gt;&lt;p&gt;N...",
-      "link": "https://www.theguardian.com/environment/2025/dec/18/met-office-2026-will-bring-heat-more-than-14c-above-preindustrial-levels",
-      "pubDate": "Thu, 18 Dec 2025 00:01:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c79600ce16cce725a7bdec175f8110a9e6ad3371/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5083e8609d1002ba32de9a9d8074c9ca"
-    },
-    {
       "title": "Washington state flooding damage profound but unclear, governor warns",
       "description": "&lt;p&gt;Record rains have forced hundreds of rescues, swamped communities and left rivers high, with more storms forecast&lt;/p&gt;&lt;p&gt;The exten...",
       "link": "https://www.theguardian.com/us-news/2025/dec/17/washington-flooding-damage-governor",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Spain to open network of climate shelters",
-      "description": "Prime Minister Pedro Sanchez says the shelters will be in public buildings across the country....",
-      "link": "https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 17 Dec 2025 17:50:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump administration to dismantle key climate research center in Colorado",
-      "description": "&lt;p&gt;Governor Jared Polis warned that breaking up Boulder’s NCAR would put ‘public safety at risk’&lt;/p&gt;&lt;p&gt;The Trump administration is b...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/17/trump-boulder-ncar-climate-lab",
-      "pubDate": "Wed, 17 Dec 2025 16:59:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/873516d7999dd5d1c3b862e891cf708a8f50ebb8/415_0_4170_3339/master/4170.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dcfd4a5303e450b5e8657cf362f5873"
     }
   ]
 }
