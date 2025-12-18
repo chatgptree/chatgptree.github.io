@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-18T15:31:51.251Z",
+  "lastUpdated": "2025-12-18T16:39:50.600Z",
   "articles": [
+    {
+      "title": "Trump’s Energy Secretary Orders a Washington State Coal Plant to Remain Open",
+      "description": "SEATTLE—The last coal-fired power plant in Washington state was set to go cold at the end of the year. It would then switch to natural gas, cutting ca...",
+      "link": "https://insideclimatenews.org/news/18122025/trumps-energy-secretary-orders-a-washington-state-coal-plant-to-remain-open/",
+      "pubDate": "Thu, 18 Dec 2025 16:17:43 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘You learn tricks to reduce it’: the smart bins measuring food waste in South Korea",
       "description": "&lt;p&gt;Digital facilities that track wastage down to the gram have brought about behavioural change among users &lt;/p&gt;&lt;p&gt;Min Geum-nan walk...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e91d94a3d0e07bfc00e0be0b145b4f9a554f276e/516_170_3091_2473/master/3091.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=152fe457e88806db44cd78dbae7c9d81"
-    },
-    {
-      "title": "Gas Exports Are Driving Up Americans’ Energy Bills, Report Says",
-      "description": "During the 2024 campaign, President Donald Trump promised voters that his policies would lower their energy prices by 50 percent, repeating this pledg...",
-      "link": "https://insideclimatenews.org/news/17122025/liquefied-natural-gas-exports-driving-up-energy-bills/",
-      "pubDate": "Wed, 17 Dec 2025 22:38:26 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
