@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-18T10:32:34.719Z",
+  "lastUpdated": "2025-12-18T11:25:59.737Z",
   "articles": [
+    {
+      "title": "2025’s AI boom caused huge CO2 emissions and use of water, research finds",
+      "description": "&lt;p&gt;Study’s author says society not tech companies paying for environmental impact of AI and asks if this is fair&lt;/p&gt;&lt;p&gt;The AI boom h...",
+      "link": "https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds",
+      "pubDate": "Thu, 18 Dec 2025 11:15:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6454f44555fa48a5f38d1d066c370cb6e7376a80/0_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2c6966aba034a344664fd433e1e0b7f"
+    },
+    {
+      "title": "A Long Wait for Flooding Help in Chicago May Be Nearing an End",
+      "description": "CHICAGO—Two-and-a-half years after Dorothy Rosenthal’s home on the West Side flooded, she is still dealing with financial pain. She received $8,000 fr...",
+      "link": "https://insideclimatenews.org/news/18122025/a-long-wait-for-flooding-help-in-chicago-may-be-nearing-an-end/",
+      "pubDate": "Thu, 18 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Here&#8217;s the global playbook being used to crack down on climate protest",
       "description": "A new study finds that repression of environmental protest is rising worldwide and Indigenous land defenders face the greatest risk....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5c9dde58d9bae0e2ebe59b6cb7abe7f9e72c4005/944_660_1381_1105/master/1381.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=156db12ad2270e291c1ae79019cdcc5e"
-    },
-    {
-      "title": "China’s Clean Energy Investments Abroad Are a Boon for Climate, but Human Rights and the Environment Are a Different Story",
-      "description": "Planet China: Twelfth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. HAJDÚSZOBOSZLÓ, H...",
-      "link": "https://insideclimatenews.org/news/17122025/china-oversea-clean-energy-investments/",
-      "pubDate": "Wed, 17 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ohio Farmers Say Regenerative Agriculture Methods Helped Them Survive a Drought. State and Federal Leaders Are Slashing Programs That Fund Them.",
-      "description": "This summer, mere months after Ohio’s eighth wettest spring came its driest August on record and with it, a critical moment for both soybeans and corn...",
-      "link": "https://insideclimatenews.org/news/17122025/ohio-regenerative-agriculture-drought-protection/",
-      "pubDate": "Wed, 17 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
