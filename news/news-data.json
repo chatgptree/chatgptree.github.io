@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-18T08:38:45.955Z",
+  "lastUpdated": "2025-12-18T09:34:45.844Z",
   "articles": [
+    {
+      "title": "Here&#8217;s the global playbook being used to crack down on climate protest",
+      "description": "A new study finds that repression of environmental protest is rising worldwide and Indigenous land defenders face the greatest risk....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/heres-the-global-playbook-being-used-to-crack-down-on-climate-protest/",
+      "pubDate": "Thu, 18 Dec 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Archaeologists uncover 3,000-year-old mysterious mass burial site",
+      "description": "Archaeologists find evidence of some kind of \"horrible event\" in the hills of southern Scotland....",
+      "link": "https://www.bbc.com/news/articles/cedxev6e027o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 18 Dec 2025 06:18:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘It’s an open invasion’: how millions of quagga mussels changed Lake Geneva for ever",
       "description": "&lt;p&gt;The molluscs are decimating food chains in Switzerland, have devastated the Great Lakes in the US, and this week were spotted in Northern Ire...",
@@ -92,6 +110,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Spain to open network of climate shelters",
+      "description": "Prime Minister Pedro Sanchez says the shelters will be in public buildings across the country....",
+      "link": "https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 17 Dec 2025 17:50:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Trump administration to dismantle key climate research center in Colorado",
       "description": "&lt;p&gt;Governor Jared Polis warned that breaking up Boulder’s NCAR would put ‘public safety at risk’&lt;/p&gt;&lt;p&gt;The Trump administration is b...",
       "link": "https://www.theguardian.com/us-news/2025/dec/17/trump-boulder-ncar-climate-lab",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The year the US doubled down on critical minerals",
-      "description": "In 2025, the list of metals became a top priority under Trump. But what even are they?...",
-      "link": "https://grist.org/energy/the-year-the-us-doubled-down-on-critical-minerals/",
-      "pubDate": "Wed, 17 Dec 2025 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/GettyImages-2149644773a.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Christmas dinner and festive treats up to 70% more expensive, reports Which?",
-      "description": "&lt;p&gt;Price of turkey jumps as much as £15 compared with 2024, while chocolate has steepest mark-up&lt;/p&gt;&lt;p&gt;Shoppers are paying up to 70%...",
-      "link": "https://www.theguardian.com/business/2025/dec/17/christmas-dinner-chocolate-more-expensive-reports-which",
-      "pubDate": "Wed, 17 Dec 2025 06:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5d3db2b448d6a54e1373aadcba485886bb3a3867/314_0_4160_3328/master/4160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e8c4cd3cd6decb4c92e8f75e19de252"
-    },
-    {
-      "title": "‘Magical’ galaxy frogs disappear after reports of photographers destroying their habitats",
-      "description": "&lt;p&gt;Researcher in Kerala rainforest sounds alarm after being told frogs had died after being handled by humans&lt;/p&gt;&lt;p&gt;A group of endan...",
-      "link": "https://www.theguardian.com/environment/2025/dec/17/galaxy-frogs-disappear-photographers-habitat-kerala",
-      "pubDate": "Wed, 17 Dec 2025 05:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fa269caf8b38739d3f5f97d7c05cf0a78b8530a3/419_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=42bece5d2607fa99bc40bcd3153af778"
     }
   ]
 }
