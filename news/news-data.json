@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-19T08:38:43.802Z",
+  "lastUpdated": "2025-12-19T09:32:08.628Z",
   "articles": [
+    {
+      "title": "One word sums up climate politics in 2025: Greenlash",
+      "description": "In a year shaped by Trump's return to the White House, the new administration touted \"energy dominance\" and protesters threw eggs at \"swasticars.\"...",
+      "link": "https://grist.org/words-of-the-year/climate-politics-2025-greenlash-swasticar-trump/",
+      "pubDate": "Fri, 19 Dec 2025 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/woty25-2024-c.png?w=120"
+    },
+    {
+      "title": "‘I can’t think of a place more pristine’: 133,000 hectares of Chilean Patagonia preserved after local fundraising",
+      "description": "&lt;p&gt;Exclusive: Ancient forests and turquoise rivers of the Cochamó Valley protected from logging, damming and development&lt;/p&gt;&lt;p&gt;A wil...",
+      "link": "https://www.theguardian.com/world/2025/dec/19/i-cant-think-of-a-place-more-pristine-133000-hectares-of-chilean-patagonia-preserved-after-local-fundraising",
+      "pubDate": "Fri, 19 Dec 2025 09:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bc6ec39cedf15ec608caf6cd7f87b368e4992be9/0_0_3213_2570/master/3213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebd7588e47131488934a89e3b9a3f7a1"
+    },
     {
       "title": "Week in wildlife: honeymooning owls, an otter on the razz and a magical frog",
       "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025/dec/19...",
@@ -65,6 +83,15 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/exergio-logo.png"
     },
     {
+      "title": "Drones detect deadly virus in Arctic whales' breath",
+      "description": "Whale breath collected by drones is giving clues to the health of wild humpbacks and other whales....",
+      "link": "https://www.bbc.com/news/articles/cjdrpkj8111o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 01:44:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "SPEED Act Passes in House Despite Changes That Threaten Clean Power Projects",
       "description": "The House of Representatives cleared the way for a massive overhaul of the federal environmental review process on Thursday, despite last-minute chang...",
       "link": "https://insideclimatenews.org/news/18122025/speed-act-passes-in-house-threatens-clean-power-projects/",
@@ -94,7 +121,7 @@
     {
       "title": "BBC Inside Science",
       "description": "President Trump continues to shake up science. We look at the impact it’s already having....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txq?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 18 Dec 2025 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c9975z55dr5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 18 Dec 2025 13:38:39 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rainfall creates crimson spectacle at beach on Iran’s Hormuz Island",
-      "description": "&lt;p&gt;Streams of soil turn sand and surrounding water red, creating sharp contrast with blue waters of Persian Gulf&lt;/p&gt;&lt;p&gt;Rainfall on I...",
-      "link": "https://www.theguardian.com/world/2025/dec/18/rainfall-iran-hormuz-island-red-beach",
-      "pubDate": "Thu, 18 Dec 2025 12:56:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff9f87c6b084b2285dda73aa0dc928e105079dd5/0_116_2330_1863/master/2330.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=333d23f69bfb30f0f3269ae434be19d4"
-    },
-    {
-      "title": "Rain transforms Iranian beach into striking red spectacle – video",
-      "description": "&lt;p&gt;Rainfall on Hormuz Island briefly transformed the coastline of its famed Red Beach into a striking natural scene this week, as soil flowed in...",
-      "link": "https://www.theguardian.com/world/video/2025/dec/18/rain-transforms-iranian-beach-into-striking-red-spectacle-video",
-      "pubDate": "Thu, 18 Dec 2025 12:44:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff9f87c6b084b2285dda73aa0dc928e105079dd5/0_116_2330_1863/master/2330.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=333d23f69bfb30f0f3269ae434be19d4"
-    },
-    {
-      "title": "A Long Wait for Flooding Help in Chicago May Be Nearing an End",
-      "description": "CHICAGO—Two-and-a-half years after Dorothy Rosenthal’s home on the West Side flooded, she is still dealing with financial pain. She received $8,000 fr...",
-      "link": "https://insideclimatenews.org/news/18122025/a-long-wait-for-flooding-help-in-chicago-may-be-nearing-an-end/",
-      "pubDate": "Thu, 18 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
