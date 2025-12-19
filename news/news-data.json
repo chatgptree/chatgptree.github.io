@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-12-19T09:32:08.628Z",
+  "lastUpdated": "2025-12-19T10:32:51.296Z",
   "articles": [
+    {
+      "title": "Food becoming more calorific but less nutritious due to rising carbon dioxide",
+      "description": "&lt;p&gt;Researchers noticed ‘dramatic’ changes in nutrients in crops, including drop in zinc and rise in lead&lt;/p&gt;&lt;p&gt;More carbon dioxide i...",
+      "link": "https://www.theguardian.com/environment/2025/dec/19/higher-carbon-dioxide-food-more-calorific-less-nutritious-study",
+      "pubDate": "Fri, 19 Dec 2025 10:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9cc6b99fc363b96e23a12389c8bec809f35d0ce6/383_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc67a09d41cc6cd080171f60ca05eae4"
+    },
+    {
+      "title": "Tracking Oil and Gas Waste in Pennsylvania Is Still a ‘Logistical Mess’",
+      "description": "Fracking’s Forever Problem: Sixth in a series about the gas industry’s radioactive waste. How much toxic oil and gas waste is produced in Pennsylvania...",
+      "link": "https://insideclimatenews.org/news/19122025/pennsylvania-oil-and-gas-waste-tracking-logistical-mess/",
+      "pubDate": "Fri, 19 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Maine’s Once Abundant Kelp Forests Face an Array of Growing Threats",
+      "description": "Shane Farrell has spent the better part of the last three years underwater, diving off the coast of Maine. The University of Maine Ph.D. student and h...",
+      "link": "https://insideclimatenews.org/news/19122025/maine-kelp-forests-face-growing-threats/",
+      "pubDate": "Fri, 19 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Alaska&#8217;s $44 billion bet on natural gas",
+      "description": "No-bid deals, undisclosed contracts, and millions already spent: Inside the wild story of the Alaska gas pipeline that will not die....",
+      "link": "https://grist.org/energy/alaskas-44-billion-bet-on-natural-gas/",
+      "pubDate": "Fri, 19 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/DOI-Alaska-2.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "One word sums up climate politics in 2025: Greenlash",
       "description": "In a year shaped by Trump's return to the White House, the new administration touted \"energy dominance\" and protesters threw eggs at \"swasticars.\"...",
@@ -9,6 +45,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/woty25-2024-c.png?w=120"
+    },
+    {
+      "title": "Weather tracker: Early snowfall in New York and a storm ruins Christmas lights in Spain",
+      "description": "&lt;p&gt;Long Island receives 21cm of snow, while a tornado tears down decorations near Málaga&lt;/p&gt;&lt;p&gt;Heavy snow fell in parts of New Engla...",
+      "link": "https://www.theguardian.com/environment/2025/dec/19/weather-tracker-early-snowfall-new-york-storm-rips-down-lights-spain",
+      "pubDate": "Fri, 19 Dec 2025 09:24:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a10c34a7bc67bcf8f3b4e47ef75af19041acccc3/362_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f39fe34c940d856060bdd69f2d8a0a74"
     },
     {
       "title": "‘I can’t think of a place more pristine’: 133,000 hectares of Chilean Patagonia preserved after local fundraising",
@@ -121,7 +166,7 @@
     {
       "title": "BBC Inside Science",
       "description": "President Trump continues to shake up science. We look at the impact it’s already having....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txq?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 18 Dec 2025 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -133,51 +178,6 @@
       "link": "https://grist.org/climate/were-all-at-risk-if-trump-dismantles-this-legendary-lab/",
       "pubDate": "Thu, 18 Dec 2025 18:26:31 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s Energy Secretary Orders a Washington State Coal Plant to Remain Open",
-      "description": "SEATTLE—The last coal-fired power plant in Washington state was set to go cold at the end of the year. It would then switch to natural gas, cutting ca...",
-      "link": "https://insideclimatenews.org/news/18122025/trumps-energy-secretary-orders-a-washington-state-coal-plant-to-remain-open/",
-      "pubDate": "Thu, 18 Dec 2025 16:17:43 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘You learn tricks to reduce it’: the smart bins measuring food waste in South Korea",
-      "description": "&lt;p&gt;Digital facilities that track wastage down to the gram have brought about behavioural change among users &lt;/p&gt;&lt;p&gt;Min Geum-nan walk...",
-      "link": "https://www.theguardian.com/environment/2025/dec/18/smart-bins-measuring-food-waste-south-korea",
-      "pubDate": "Thu, 18 Dec 2025 14:29:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/703e76272fc841ea10559eb696fa05c822c1fdba/497_0_4925_3938/master/4925.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a855166c68564624eb136733d145dbd7"
-    },
-    {
-      "title": "‘Massive disruption’: UK’s worst-case climate crisis scenarios revealed by scientists",
-      "description": "&lt;p&gt;Scientists say government must prepare for unlikely but ‘plausible’ 4C rise in temperature and a 2-metre rise in sea levels&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2025/dec/18/massive-disruption-uk-worst-case-climate-crisis-risks",
-      "pubDate": "Thu, 18 Dec 2025 14:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/805612f4a415eec281b502fafa7634e79be6cbee/872_700_2581_2065/master/2581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00b08e2ccd349a51493ada910edea92a"
-    },
-    {
-      "title": "How Do Rooftop Solar and EVs Affect Electricity Costs for Everyone Else? Here’s a New Estimate",
-      "description": "One of the most divisive topics among environmental advocates and researchers is the claim that the growth of rooftop solar leads to a concerning tran...",
-      "link": "https://insideclimatenews.org/news/18122025/inside-clean-energy-rooftop-solar-electricity-rates/",
-      "pubDate": "Thu, 18 Dec 2025 14:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Farmers 'bewildered and frightened' over inheritance tax, report finds",
-      "description": "A government-commissioned report into farm profitability says farmers fear what the future might hold....",
-      "link": "https://www.bbc.com/news/articles/c9975z55dr5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 18 Dec 2025 13:38:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
