@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-19T13:39:17.374Z",
+  "lastUpdated": "2025-12-19T14:29:30.602Z",
   "articles": [
+    {
+      "title": "Trump’s EPA wants to weaken formaldehyde protections – this is what it could mean",
+      "description": "&lt;p&gt;EPA proposed undoing Biden-era policy on exposure to carcinogenic toxin in latest push to weaken toxin standards&lt;/p&gt;&lt;p&gt;&lt;a href...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/trump-epa-formaldehyde-protection-proposal",
+      "pubDate": "Fri, 19 Dec 2025 13:30:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e82b1ddc2ce8a24a3121d79c205ef6168aabe411/309_0_3001_2400/master/3001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=457f56283402251c2d9f2258c5e36902"
+    },
     {
       "title": "Revealed: how Toyota uses retro-style games and prizes to urge US workers to lobby politicians",
       "description": "&lt;p&gt;Games such as Dragon Quest used to mobilize workers to back corporate goals including relaxing environmental rules&lt;/p&gt;&lt;p&gt;&lt;a hr...",
@@ -39,7 +48,7 @@
     },
     {
       "title": "Alaska&#8217;s $44 billion bet on natural gas",
-      "description": "No-bid deals, undisclosed contracts, and millions already spent: Inside the wild story of the Alaska gas pipeline that will not die....",
+      "description": "No-bid deals, undisclosed contracts, and millions already spent: inside the wild story of the Alaska gas pipeline that will not die....",
       "link": "https://grist.org/energy/alaskas-44-billion-bet-on-natural-gas/",
       "pubDate": "Fri, 19 Dec 2025 09:45:00 +0000",
       "sourceName": "grist.org",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/AWC-logo.png"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "President Trump continues to shake up science. We look at the impact it’s already having....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 18 Dec 2025 21:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
