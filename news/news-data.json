@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-19T20:31:22.932Z",
+  "lastUpdated": "2025-12-19T21:25:47.982Z",
   "articles": [
+    {
+      "title": "Diane Wilson Takes on Another Plastics Plant in Texas",
+      "description": "Diane Wilson, the prominent Gulf Coast environmentalist, filed a legal notice of intent on Wednesday to sue Dow for alleged large-scale discharges of ...",
+      "link": "https://insideclimatenews.org/news/19122025/diane-wilson-takes-on-another-plastics-plant-in-texas/",
+      "pubDate": "Fri, 19 Dec 2025 20:38:59 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Texas Power Grid Will Get a Boost from Batteries This Winter",
       "description": "Even with less available electric power capacity during cold weather in Texas, battery storage systems are reducing the risk of power outages this win...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/exergio-logo.png"
-    },
-    {
-      "title": "Drones detect deadly virus in Arctic whales' breath",
-      "description": "Whale breath collected by drones is giving clues to the health of wild humpbacks and other whales....",
-      "link": "https://www.bbc.com/news/articles/cjdrpkj8111o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 19 Dec 2025 01:44:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
