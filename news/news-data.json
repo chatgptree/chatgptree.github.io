@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-20T13:32:28.946Z",
+  "lastUpdated": "2025-12-20T14:25:08.865Z",
   "articles": [
+    {
+      "title": "What a crumbling power grid means for disabled Americans",
+      "description": "Angela Frederick’s new book is a call to put disability at the center of disaster planning....",
+      "link": "https://grist.org/energy/what-a-crumbling-power-grid-means-for-disabled-americans/",
+      "pubDate": "Sat, 20 Dec 2025 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Borrowed time’: crop pests and food losses supercharged by climate crisis",
       "description": "&lt;p&gt;Heating means pests breeding and spreading faster, warn scientists, with simplified current food system already vulnerable&lt;/p&gt;&lt;ul&gt...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a10c34a7bc67bcf8f3b4e47ef75af19041acccc3/362_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f39fe34c940d856060bdd69f2d8a0a74"
-    },
-    {
-      "title": "Week in wildlife: honeymooning owls, an otter on the razz and a magical frog",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2025/dec/19...",
-      "link": "https://www.theguardian.com/environment/gallery/2025/dec/19/week-in-wildlife-honeymooning-owls-an-otter-on-the-razz-and-a-magical-frog",
-      "pubDate": "Fri, 19 Dec 2025 08:00:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ad0ff7c2d5bcc1e267f3084a77149636f911d842/598_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5069ea5def5ff32f87495cf392dde642"
     }
   ]
 }
