@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-20T14:25:08.865Z",
+  "lastUpdated": "2025-12-20T15:26:10.378Z",
   "articles": [
+    {
+      "title": "‘The biggest transformation in a century’: how California remade itself as a clean energy powerhouse",
+      "description": "&lt;p&gt;The Golden State’s clean energy use hit new highs in 2025. As the Trump administration abandons US climate initiatives, can California fill t...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/20/california-renewable-energy",
+      "pubDate": "Sat, 20 Dec 2025 15:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a52e0ac7a3e03ca88697f8b319f8afbb6758a41c/0_0_3326_2662/master/3326.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e69d5d28fa559c6703150de668f74ec6"
+    },
     {
       "title": "What a crumbling power grid means for disabled Americans",
       "description": "Angela Frederick’s new book is a call to put disability at the center of disaster planning....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/woty25-2024-c.png?w=120"
-    },
-    {
-      "title": "Weather tracker: Early snowfall in New York and a storm ruins Christmas lights in Spain",
-      "description": "&lt;p&gt;Long Island receives 21cm of snow, while a tornado tears down decorations near Málaga&lt;/p&gt;&lt;p&gt;Heavy snow fell in parts of New Engla...",
-      "link": "https://www.theguardian.com/environment/2025/dec/19/weather-tracker-early-snowfall-new-york-storm-rips-down-lights-spain",
-      "pubDate": "Fri, 19 Dec 2025 09:24:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a10c34a7bc67bcf8f3b4e47ef75af19041acccc3/362_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f39fe34c940d856060bdd69f2d8a0a74"
     }
   ]
 }
