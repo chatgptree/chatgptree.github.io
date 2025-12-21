@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-21T22:26:48.301Z",
+  "lastUpdated": "2025-12-21T23:25:39.463Z",
   "articles": [
+    {
+      "title": "Puppy farm ban promised by animal welfare strategy",
+      "description": "The government promises its animal welfare strategy will bring \"the biggest reforms in a generation\"....",
+      "link": "https://www.bbc.com/news/articles/c93wxd27dvko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 21 Dec 2025 22:30:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trail hunting to be banned as part of new animal welfare strategy",
       "description": "The government says the practice is being used as a \"smokescreen\" for the hunting of wild animals....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s EPA wants to weaken formaldehyde protections – this is what it could mean",
-      "description": "&lt;p&gt;EPA proposed undoing Biden-era policy on exposure to carcinogenic toxin in latest push to weaken toxin standards&lt;/p&gt;&lt;p&gt;&lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/19/trump-epa-formaldehyde-protection-proposal",
-      "pubDate": "Fri, 19 Dec 2025 13:30:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e82b1ddc2ce8a24a3121d79c205ef6168aabe411/309_0_3001_2400/master/3001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=457f56283402251c2d9f2258c5e36902"
     }
   ]
 }
