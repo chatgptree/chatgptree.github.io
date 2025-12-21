@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-12-21T10:28:21.384Z",
+  "lastUpdated": "2025-12-21T11:22:43.899Z",
   "articles": [
+    {
+      "title": "UK supermarkets turn to European turkeys as avian flu hits supply",
+      "description": "&lt;p&gt;Asda, Lidl and Morrisons understood to be stocking imported branded turkeys to meet Christmas demand&lt;/p&gt;&lt;p&gt;Several of the UK’s bi...",
+      "link": "https://www.theguardian.com/business/2025/dec/21/uk-supermarkets-european-turkeys-avian-flu-hits-supply-christmas",
+      "pubDate": "Sun, 21 Dec 2025 11:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/850912cda99b0fa7634d4894d7c6a94e252c9b06/234_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b5dc26b6cdb693fb33715038df01fa4"
+    },
+    {
+      "title": "The ‘Toxic Cocktail’ Brewing in Pennsylvania’s Waterways",
+      "description": "Fracking’s Forever Problem: Eighth in a series about the gas industry’s radioactive waste. BELLE VERNON, Pa.—Off a back road in the hilly country sout...",
+      "link": "https://insideclimatenews.org/news/21122025/pennsylvania-fracking-waste-water-pollution/",
+      "pubDate": "Sun, 21 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Countries Want Debt Relief for Conservation. Is China Ready to Play a Role?",
+      "description": "Planet China: Thirteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world. LIMÓN INDANZA,...",
+      "link": "https://insideclimatenews.org/news/21122025/ecuador-debt-for-nature-swap-china-conservation/",
+      "pubDate": "Sun, 21 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Messy Trail of Toxic Oil and Gas Waste",
+      "description": "Pennsylvania is ground zero for the fracking boom. It’s increased natural gas production there 37-fold since 2008. That production generates a lot of ...",
+      "link": "https://insideclimatenews.org/news/21122025/icn-sunday-morning-pennsylvania-fracking-waste/",
+      "pubDate": "Sun, 21 Dec 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘The biggest transformation in a century’: how California remade itself as a clean energy powerhouse",
       "description": "&lt;p&gt;The Golden State’s clean energy use hit new highs in 2025. As the Trump administration abandons US climate initiatives, can California fill t...",
@@ -110,24 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "A River That Millions Rely on for Water Is on the Brink. A Deal to Save It Isn&#8217;t.",
-      "description": "LAS VEGAS—The Colorado River Basin is, quite literally, 50 feet away from collapse, and an agreement to save it is nowhere in sight.&#160; Water titan...",
-      "link": "https://insideclimatenews.org/news/19122025/negotiators-remain-stuck-at-colorado-river-users-summit/",
-      "pubDate": "Fri, 19 Dec 2025 17:38:36 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "U.S. Company Releasing Unauthorized Emissions From Peru LNG Terminal",
-      "description": "This story was originally published by Convoca, an investigative newsroom in Peru, in partnership with the research group Point Source. Read the story...",
-      "link": "https://insideclimatenews.org/news/19122025/u-s-company-releasing-unauthorized-emissions-from-peru-lng-terminal/",
-      "pubDate": "Fri, 19 Dec 2025 17:24:51 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Trump’s EPA wants to weaken formaldehyde protections – this is what it could mean",
       "description": "&lt;p&gt;EPA proposed undoing Biden-era policy on exposure to carcinogenic toxin in latest push to weaken toxin standards&lt;/p&gt;&lt;p&gt;&lt;a href...",
       "link": "https://www.theguardian.com/us-news/2025/dec/19/trump-epa-formaldehyde-protection-proposal",
@@ -155,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/9cc6b99fc363b96e23a12389c8bec809f35d0ce6/383_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc67a09d41cc6cd080171f60ca05eae4"
     },
     {
-      "title": "Tracking Oil and Gas Waste in Pennsylvania Is Still a ‘Logistical Mess’",
-      "description": "Fracking’s Forever Problem: Sixth in a series about the gas industry’s radioactive waste. How much toxic oil and gas waste is produced in Pennsylvania...",
-      "link": "https://insideclimatenews.org/news/19122025/pennsylvania-oil-and-gas-waste-tracking-logistical-mess/",
-      "pubDate": "Fri, 19 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Alaska&#8217;s $44 billion bet on natural gas",
       "description": "No-bid deals, undisclosed contracts, and millions already spent: inside the wild story of the Alaska gas pipeline that will not die....",
       "link": "https://grist.org/energy/alaskas-44-billion-bet-on-natural-gas/",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/DOI-Alaska-2.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "One word sums up climate politics in 2025: Greenlash",
-      "description": "In a year shaped by Trump's return to the White House, the new administration touted \"energy dominance\" and protesters threw eggs at \"swasticars.\"...",
-      "link": "https://grist.org/words-of-the-year/climate-politics-2025-greenlash-swasticar-trump/",
-      "pubDate": "Fri, 19 Dec 2025 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/woty25-2024-c.png?w=120"
     }
   ]
 }
