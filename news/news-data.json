@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2025-12-22T09:36:26.569Z",
+  "lastUpdated": "2025-12-22T10:31:33.186Z",
   "articles": [
+    {
+      "title": "Hen cages and pig farrowing crates to be banned under new plans",
+      "description": "The government says its animal welfare strategy will bring \"the biggest reforms in a generation\"....",
+      "link": "https://www.bbc.com/news/articles/c93wxd27dvko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 22 Dec 2025 10:11:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Could Rescinding The Roadless Rule Make It Harder To Delist Yellowstone Grizzlies?",
+      "description": "When the U.S. Fish and Wildlife Service attempted to delist grizzly bears during President Donald Trump’s first administration, its justification for ...",
+      "link": "https://insideclimatenews.org/news/22122025/roadless-rule-protects-yellowstone-grizzly-bears/",
+      "pubDate": "Mon, 22 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As the Whitmer Administration Enters Its Final Year, Environmental Advocates Lament Wasted Opportunities",
+      "description": "In late 2023, an unlikely state in the country’s industrial heartland passed nation-leading climate laws—Michigan. The “bold” and &#8220;ambitious&#82...",
+      "link": "https://insideclimatenews.org/news/22122025/michigan-gov-gretchen-whitmer-environmental-record/",
+      "pubDate": "Mon, 22 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Will New Jersey’s Environmental Regulators Approve Transco’s NESE Pipeline After Rejecting it Twice?",
+      "description": "After approving necessary water permits for the Northeast Supply Enhancement (NESE) pipeline, the New Jersey Department of Environmental Protection is...",
+      "link": "https://insideclimatenews.org/news/22122025/new-jersey-regulators-consider-transco-nese-pipeline-again/",
+      "pubDate": "Mon, 22 Dec 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What changed for deep-sea mining in 2025? Everything.",
+      "description": "Trump reshaped the industry this year, even as it faced opposition from the United Nations, scientists and Indigenous peoples....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/what-changed-for-deep-sea-mining-in-2025-everything/",
+      "pubDate": "Mon, 22 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/07/Deepsea.jpg.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Ministers defend ‘most ambitious animal welfare strategy in generation’ before publication – UK politics live",
+      "description": "&lt;p&gt;Conservatives claim government’s plan for higher welfare standards for farmed animals could undermine British agriculture&lt;/p&gt;&lt;p&gt;H...",
+      "link": "https://www.theguardian.com/politics/live/2025/dec/22/animal-welfare-farming-labour-conservatives-latest-news-updates",
+      "pubDate": "Mon, 22 Dec 2025 09:38:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/901d8253024450c900a4c54cba21648365ff3d30/92_0_2411_1929/master/2411.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db061572b962bcc17d397330aaf53b0d"
+    },
     {
       "title": "The Pentagon is hoarding critical minerals that could power the clean energy transition",
       "description": "The Department of Defense is stockpiling cobalt, lithium, and other minerals at the expense of climate action, a new report warns....",
@@ -11,15 +65,6 @@
       "image": "https://grist.org/wp-content/uploads/2025/08/copper-mine-utah.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "Ministers defend ‘most ambitious animal welfare strategy in generation’ before publication – UK politics live",
-      "description": "&lt;p&gt;Conservatives claim government’s plan for higher welfare standards for farmed animals could undermine British agriculture&lt;/p&gt;&lt;p&gt;G...",
-      "link": "https://www.theguardian.com/politics/live/2025/dec/22/animal-welfare-farming-labour-conservatives-latest-news-updates",
-      "pubDate": "Mon, 22 Dec 2025 09:26:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/901d8253024450c900a4c54cba21648365ff3d30/92_0_2411_1929/master/2411.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db061572b962bcc17d397330aaf53b0d"
-    },
-    {
       "title": "Georgia&#8217;s hunters take aim at rural hunger",
       "description": "With rural food programs stretched especially thin and climate change driving up prices, meat donations and local initiatives are trying to fill the g...",
       "link": "https://grist.org/food-and-agriculture/georgia-hunters-donatios-rural-food-insecurity/",
@@ -27,15 +72,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/03/ASD-staff-member-stacking-a-food-box-edited.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Puppy farm ban promised in plans to improve animal welfare",
-      "description": "The government says its animal welfare strategy will bring \"the biggest reforms in a generation\"....",
-      "link": "https://www.bbc.com/news/articles/c93wxd27dvko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 22 Dec 2025 08:59:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "The Forest Plan to End Deforestation",
@@ -72,6 +108,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/392a9d1b8e137f6b35fe1f2fb11e447f61e15b13/221_0_4538_3630/master/4538.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c2fd551095384b07b4712deb52fabcf"
+    },
+    {
+      "title": "'New reservoirs will help address water shortage'",
+      "description": "Water company says it needs two new reservoirs and a recycling plant to cope with demand in Suffolk....",
+      "link": "https://www.bbc.com/news/articles/c04vxgv05keo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 22 Dec 2025 05:28:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Forget elf on the shelf – these Aussie birds are perfect for the festive season | Jess Harwood",
@@ -132,51 +177,6 @@
       "description": "Pennsylvania is ground zero for the fracking boom. It’s increased natural gas production there 37-fold since 2008. That production generates a lot of ...",
       "link": "https://insideclimatenews.org/news/21122025/icn-sunday-morning-pennsylvania-fracking-waste/",
       "pubDate": "Sun, 21 Dec 2025 09:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘The biggest transformation in a century’: how California remade itself as a clean energy powerhouse",
-      "description": "&lt;p&gt;The Golden State’s clean energy use hit new highs in 2025. As the Trump administration abandons US climate initiatives, can California fill t...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/20/california-renewable-energy",
-      "pubDate": "Sat, 20 Dec 2025 15:00:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a52e0ac7a3e03ca88697f8b319f8afbb6758a41c/0_0_3326_2662/master/3326.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e69d5d28fa559c6703150de668f74ec6"
-    },
-    {
-      "title": "What a crumbling power grid means for disabled Americans",
-      "description": "Angela Frederick’s new book is a call to put disability at the center of disaster planning....",
-      "link": "https://grist.org/energy/what-a-crumbling-power-grid-means-for-disabled-americans/",
-      "pubDate": "Sat, 20 Dec 2025 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Twenty Years Into Fracking, Pennsylvania Has Yet to Reckon With Its Radioactive Waste",
-      "description": "Fracking’s Forever Problem: Seventh in a series about the gas industry’s radioactive waste. When John Quigley became the secretary of the Pennsylvania...",
-      "link": "https://insideclimatenews.org/news/20122025/pennsylvania-fracking-radioactive-waste/",
-      "pubDate": "Sat, 20 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Murphy’s Final Weeks, NJ Climate Advocates Race to Lock in 100 Percent Clean Power",
-      "description": "In the final weeks of Gov. Phil Murphy’s tenure, New Jersey climate advocates are trying to do something governors rarely manage on their way out the ...",
-      "link": "https://insideclimatenews.org/news/20122025/new-jersey-gov-phil-murphy-race-to-clean-power/",
-      "pubDate": "Sat, 20 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Proposed Changes to the Endangered Species Act Could Further Threaten the Country&#8217;s Imperiled Species",
-      "description": "A polar bear stood outside the Department of the Interior’s headquarters in Washington, D.C., Thursday with a message: “Stop Trump’s Extinction Plan.”...",
-      "link": "https://insideclimatenews.org/news/20122025/how-proposed-changes-to-the-endangered-species-act-could-further-threaten-the-countrys-imperiled-species/",
-      "pubDate": "Sat, 20 Dec 2025 09:50:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
