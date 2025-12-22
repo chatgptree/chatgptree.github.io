@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-22T19:23:22.907Z",
+  "lastUpdated": "2025-12-22T20:31:28.312Z",
   "articles": [
+    {
+      "title": "Trump has always hated offshore wind. Now he&#8217;s moving to kill it.",
+      "description": "The Trump administration has halted 5 already approved offshore wind projects despite rising electricity demand....",
+      "link": "https://grist.org/climate-energy/trump-has-always-hated-offshore-wind-now-hes-moving-to-kill-it/",
+      "pubDate": "Mon, 22 Dec 2025 19:36:25 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-1407548832.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Man describes narrow escape after boats pulled into giant hole on Shropshire canal",
+      "description": "&lt;p&gt;Major incident declared as 50-metre-long breach opens up in waterway previously flagged as ‘amber risk’&lt;/p&gt;&lt;p&gt;A man has told of h...",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/22/people-rescued-boats-sinkhole-shropshire-canal",
+      "pubDate": "Mon, 22 Dec 2025 19:16:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/35c10a10a871037882327fe664e088c2964b3b04/843_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b97724ba6c5bbeb531ca18bf9c84247"
+    },
+    {
+      "title": "Yellowstone hot spring spews forth spectacular muddy plumes",
+      "description": "&lt;p&gt;Black Diamond Pool eruption provides dramatic footage after being captured on official camera&lt;/p&gt;&lt;p&gt;A hot spring in Yellowstone &...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/22/yellowstone-hot-spring-black-diamond-pool",
+      "pubDate": "Mon, 22 Dec 2025 18:49:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f4a2fb785d565236b0096ad83883c970aa5dbca4/412_0_2059_1647/master/2059.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66bc634746d6c763059f459f93f9126c"
+    },
     {
       "title": "Trump officials halt offshore wind-farm projects over ‘national security risks’",
       "description": "&lt;p&gt;Interior department move affects five projects under construction in latest blow to industry targeted by Trump&lt;/p&gt;&lt;p&gt;The Trump ad...",
@@ -36,15 +63,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Man describes narrow escape after boats pulled into giant hole on Shropshire canal",
-      "description": "&lt;p&gt;Major incident declared as 50-metre-long breach opens up in waterway previously flagged as ‘amber risk’&lt;/p&gt;&lt;p&gt;A man has told of h...",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/22/people-rescued-boats-sinkhole-shropshire-canal",
-      "pubDate": "Mon, 22 Dec 2025 12:49:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/35c10a10a871037882327fe664e088c2964b3b04/843_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b97724ba6c5bbeb531ca18bf9c84247"
     },
     {
       "title": "'Year of octopus' declared after warmer seas lead to record UK numbers",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "2025 is ‘year of the octopus’ as record numbers spotted off England’s south coast",
-      "description": "&lt;p&gt;Milder weather led to a bloom in the invertebrates in south Cornwall and Devon, wildlife charity says&lt;/p&gt;&lt;p&gt;Record numbers of sig...",
-      "link": "https://www.theguardian.com/environment/2025/dec/22/2025-is-year-of-the-octopus-as-record-numbers-spotted-off-englands-south-coast",
-      "pubDate": "Mon, 22 Dec 2025 06:01:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/84072a143cb79f25a635f8e0d46d075821555d40/301_0_1666_1333/master/1666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e438c4f5ea8346fd1920221322640fee"
-    },
-    {
-      "title": "'New reservoirs will help address water shortage'",
-      "description": "Water company says it needs two new reservoirs and a recycling plant to cope with demand in Suffolk....",
-      "link": "https://www.bbc.com/news/articles/c04vxgv05keo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 22 Dec 2025 05:28:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
