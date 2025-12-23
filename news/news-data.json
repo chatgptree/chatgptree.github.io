@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-23T09:33:18.741Z",
+  "lastUpdated": "2025-12-23T10:32:33.339Z",
   "articles": [
+    {
+      "title": "Indigenous Groups Fight to Save Rediscovered Settlement Site on an Industrial Waterfront in Texas",
+      "description": "INGLESIDE, Texas—The rediscovery of an ancient settlement site, sandwiched between industrial complexes on Corpus Christi Bay, has spurred a campaign ...",
+      "link": "https://insideclimatenews.org/news/23122025/texas-indigenous-groups-fight-to-save-site-on-industrial-waterfront/",
+      "pubDate": "Tue, 23 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Illinois Is Going All In on Battery Storage. What Will That Mean?",
+      "description": "Illinois is lagging on battery storage—projects that collect solar and wind energy to use when the sun isn’t shining and the wind isn’t blowing.&#160;...",
+      "link": "https://insideclimatenews.org/news/23122025/illinois-battery-storage-plan-for-data-centers/",
+      "pubDate": "Tue, 23 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What happens when disaster recovery becomes a luxury good",
+      "description": "As federal services deteriorate, a patchwork of private companies is taking their place — for better or for worse....",
+      "link": "https://grist.org/economics/what-happens-when-disaster-recovery-becomes-a-luxury-good/",
+      "pubDate": "Tue, 23 Dec 2025 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/GettyImages-2183552262_disaster-economy-original-ratio.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "The country&#8217;s largest magnesium supplier shut down. Now what?",
       "description": "What US Magnesium's bankruptcy means for the U.S. supply of a critical mineral -- and the environment.\n...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Year of octopus' declared after warmer seas lead to record UK numbers",
-      "description": "The Wildlife Trusts say its is 'flabbergasted' by the sighting of the highest number of octopuses since 1950...",
-      "link": "https://www.bbc.com/news/articles/c709gz3k9k9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 22 Dec 2025 12:49:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US farmers say Trump’s $12bn package not enough to undo damage from tariffs",
-      "description": "&lt;p&gt;Thousands of farms set to go bankrupt as grain farmers in particular hit by trade disruptions caused by price hikes&lt;/p&gt;&lt;p&gt;Donald ...",
-      "link": "https://www.theguardian.com/business/2025/dec/22/trump-aid-package-us-farmers",
-      "pubDate": "Mon, 22 Dec 2025 11:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a5b37db11e70b74de940832f43b178d585f94250/333_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=567b4cb20b64bf53fd023240d5895c44"
-    },
-    {
-      "title": "Trump’s shuttering of the National Center for Atmospheric Research is Stalinist | Michael Mann and Bob Ward",
-      "description": "&lt;p&gt;This is the latest in the relentless purge of climate researchers who refuse to be co-opted by the fossil fuel industry&lt;/p&gt;&lt;p&gt;The...",
-      "link": "https://www.theguardian.com/commentisfree/2025/dec/22/trump-stalin-national-center-atmospheric-research",
-      "pubDate": "Mon, 22 Dec 2025 11:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7536dc4650af80c0674c7afc52c5899da7bc597e/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b636cac5924ee8ba86ac4f14a92c2cc8"
     }
   ]
 }
