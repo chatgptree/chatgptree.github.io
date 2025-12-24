@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-24T15:29:16.938Z",
+  "lastUpdated": "2025-12-24T16:34:55.969Z",
   "articles": [
+    {
+      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
+      "description": "&lt;p&gt;More than a year after the storm ripped apart families and farms, growers are bullish about strength of their industry&lt;/p&gt;&lt;p&gt;Chri...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "pubDate": "Wed, 24 Dec 2025 16:00:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f1d87ac9d32bb1f73dd3d10fe6bf8babfd71139b/400_0_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae94156ea7ccf2d801ba68436c3dc275"
+    },
     {
       "title": "U-turn on inheritance tax for farmers ‘snuck out’ to avoid scrutiny, say Tories",
       "description": "&lt;p&gt;Victoria Atkins says announcement to raise tax threshold from £1m to £2.5m days before Christmas ‘seems very odd’&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump has always hated offshore wind. Now he&#8217;s moving to kill it.",
-      "description": "The Trump administration has halted five already approved offshore wind projects despite rising electricity demand....",
-      "link": "https://grist.org/energy/trump-has-always-hated-offshore-wind-now-hes-moving-to-kill-it/",
-      "pubDate": "Mon, 22 Dec 2025 19:36:25 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-1407548832.jpg?quality=75&#038;strip=all"
     }
   ]
 }
