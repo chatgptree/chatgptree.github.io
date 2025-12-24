@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-24T09:31:33.676Z",
+  "lastUpdated": "2025-12-24T10:30:52.027Z",
   "articles": [
+    {
+      "title": "U-turn on inheritance tax for farmers ‘snuck out’ to avoid scrutiny, say Tories",
+      "description": "&lt;p&gt;Victoria Atkins says announcement to raise tax threshold from £1m to £2.5m days before Christmas ‘seems very odd’&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/politics/2025/dec/24/u-turn-inheritance-tax-farmers-snuck-out-avoid-scrutiny-victoria-atkins",
+      "pubDate": "Wed, 24 Dec 2025 10:06:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ddf71ceef7950bcd49c569955c50b5a6813e0584/1_0_3025_2421/master/3025.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52c125c8eb08a54c37dd71d364435364"
+    },
+    {
+      "title": "Nonprofit Center Works with Rural Maine Towns to Prepare for and Protect Against Extreme Weather",
+      "description": "The December 2023 flood. The 2022 Halloween storm. The Patriots Day storm of 2007. The Great Ice Storm of 1998.&#160; These dates are shared memories ...",
+      "link": "https://insideclimatenews.org/news/24122025/rural-maine-center-for-an-ecology-based-economy/",
+      "pubDate": "Wed, 24 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In the Great Lakes Region, a Push to Grow Water-Focused Startups Amid Federal Funding Uncertainty",
+      "description": "When it comes to cleaning up dirty water, tiny bubbles can pack a big punch. When Nano Gas Environmental was called to clean up ponds and lagoons in a...",
+      "link": "https://insideclimatenews.org/news/24122025/great-lakes-water-focused-startups/",
+      "pubDate": "Wed, 24 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Barracuda, grouper, tuna – and seaweed: Madagascar’s fishers forced to find new ways to survive",
       "description": "&lt;p&gt;Seaweed has become a key cash crop as climate change and industrial trawling test the resilient culture of the semi-nomadic Vezo people&lt;/p...",
@@ -54,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/88abe17e6062a66be2434f39cc45f80235de0440/378_0_3984_3187/master/3984.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3773e591296d3710a627a59a12d4beee"
-    },
-    {
-      "title": "Shropshire canal breach caused by collapse of artificial embankment",
-      "description": "&lt;p&gt;Work under way to refloat boats on emptied waterway after earthwork more than 200 years old fails&lt;/p&gt;&lt;p&gt;The dramatic breach of a ...",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/23/shropshire-canal-breach-caused-by-collapse-of-artificial-embankment",
-      "pubDate": "Tue, 23 Dec 2025 16:07:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/34475ef882001a6a99d608e5a60453cc788b2d7a/925_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8847944c4f6cf97f2e4c40a530174289"
     },
     {
       "title": "'This is our future,' climate adviser warns as 2025 to break heat records",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/GettyImages-1407548832.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Yellowstone hot spring spews forth spectacular muddy plumes",
-      "description": "&lt;p&gt;Black Diamond Pool eruption provides dramatic footage after being captured on official camera&lt;/p&gt;&lt;p&gt;A hot spring in Yellowstone &...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/22/yellowstone-hot-spring-black-diamond-pool",
-      "pubDate": "Mon, 22 Dec 2025 18:49:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f4a2fb785d565236b0096ad83883c970aa5dbca4/412_0_2059_1647/master/2059.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66bc634746d6c763059f459f93f9126c"
-    },
-    {
-      "title": "Trump officials halt offshore wind-farm projects over ‘national security risks’",
-      "description": "&lt;p&gt;Interior department move affects five projects under construction in latest blow to industry targeted by Trump&lt;/p&gt;&lt;p&gt;The Trump ad...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/22/trump-wind-farms",
-      "pubDate": "Mon, 22 Dec 2025 16:16:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/032955822e051ce27be9f73afc1e2ba7e74ddbf8/374_0_3751_3000/master/3751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cce2d8581457449a42d2d3a6d2e31413"
     }
   ]
 }
