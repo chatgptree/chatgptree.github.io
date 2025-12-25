@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-25T20:31:23.544Z",
+  "lastUpdated": "2025-12-25T21:25:47.768Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "A weekly show exploring science, its mysteries, and the debates it sparks....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txr?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 25 Dec 2025 21:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
       "description": "&lt;p&gt;Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could sto...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/US-Magnesium-fk-434.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The Bad River Band is suing to protect its wild rice from an oil pipeline",
-      "description": "The lawsuit targets a federal permit for Enbridge’s Line 5, which the tribe says puts wetlands, rivers, and treaty-protected resources at risk....",
-      "link": "https://grist.org/indigenous/the-bad-river-band-is-suing-to-protect-its-wild-rice-from-an-oil-pipeline/",
-      "pubDate": "Tue, 23 Dec 2025 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
