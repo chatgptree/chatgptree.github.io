@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-26T09:30:18.332Z",
+  "lastUpdated": "2025-12-26T10:30:21.949Z",
   "articles": [
+    {
+      "title": "Living on the edge: what young people in England told us about life on the coast",
+      "description": "&lt;p&gt;As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challen...",
+      "link": "https://www.theguardian.com/environment/2025/dec/26/young-people-england-life-on-the-coast-18-to-30-year-olds-coastline",
+      "pubDate": "Fri, 26 Dec 2025 10:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1adc2dc30e42199de4a5edb1c777bbda49f0b455/292_0_2920_2336/master/2920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3cc0293531368e0a950f71af8f97219"
+    },
     {
       "title": "Year in wildlife – in pictures",
       "description": "&lt;p&gt;We look back over the year’s wildlife photographs, and hand out some much-deserved gongs to brilliant and beautiful creatures around the worl...",
@@ -49,7 +58,7 @@
     {
       "title": "BBC Inside Science",
       "description": "A weekly show exploring science, its mysteries, and the debates it sparks....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txr?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 25 Dec 2025 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 23 Dec 2025 11:44:17 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Indigenous Groups Fight to Save Rediscovered Settlement Site on an Industrial Waterfront in Texas",
-      "description": "INGLESIDE, Texas—The rediscovery of an ancient settlement site, sandwiched between industrial complexes on Corpus Christi Bay, has spurred a campaign ...",
-      "link": "https://insideclimatenews.org/news/23122025/texas-indigenous-groups-fight-to-save-site-on-industrial-waterfront/",
-      "pubDate": "Tue, 23 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
