@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-26T11:25:32.227Z",
+  "lastUpdated": "2025-12-26T12:59:48.200Z",
   "articles": [
+    {
+      "title": "US voters linking climate crisis to rising bills despite Trump’s ‘green scam’ claims",
+      "description": "&lt;p&gt;New polling shows 65% of registered US voters believe global heating is affecting cost of living&lt;/p&gt;&lt;p&gt;Most Americans now connect...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/26/us-voters-link-climate-crisis-affordability",
+      "pubDate": "Fri, 26 Dec 2025 12:30:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d4fce672a5973025bc72709787f1299e6da89ccd/876_0_6627_5304/master/6627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6c4860631ac5b96a35179a667a78a4f"
+    },
     {
       "title": "Living on the edge: what young people in England told us about life on the coast",
       "description": "&lt;p&gt;As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challen...",
@@ -9,6 +18,24 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1adc2dc30e42199de4a5edb1c777bbda49f0b455/292_0_2920_2336/master/2920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3cc0293531368e0a950f71af8f97219"
+    },
+    {
+      "title": "How George Wallace and Bull Connor Set the Stage for Alabama’s Sky-High Electric Rates",
+      "description": "Wired for Profit: Second in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer...",
+      "link": "https://insideclimatenews.org/news/26122025/george-wallace-bull-connor-set-stage-for-alabama-sky-high-electric-rates/",
+      "pubDate": "Fri, 26 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scenes From an Unfolding Climate Drama",
+      "description": "The last 10 global climate summits have played out on vastly different stages: from the hopeful consensus of the Paris Agreement through a subsequent ...",
+      "link": "https://insideclimatenews.org/news/26122025/a-decade-of-the-united-nations-climate-change-conference/",
+      "pubDate": "Fri, 26 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Year in wildlife – in pictures",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7f6956c62ca3c64d69f6ae7c3b572ae15896a263/0_0_3348_2678/master/3348.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a93086bb25314348f0dd24e287c20151"
-    },
-    {
-      "title": "Government waters down inheritance tax plan for farms",
-      "description": "The government has now said it will lift the intended threshold from £1m to £2.5m....",
-      "link": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 23 Dec 2025 17:29:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'This is our future,' climate adviser warns as 2025 to break heat records",
-      "description": "The Met Office says that 2025 is likely to be the UK's hottest year since records began....",
-      "link": "https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 23 Dec 2025 11:44:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'This is our future,' climate adviser warns as 2025 to break heat records",
-      "description": "The Met Office says that 2025 is likely to be the UK's hottest year since records began....",
-      "link": "https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 23 Dec 2025 11:44:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
