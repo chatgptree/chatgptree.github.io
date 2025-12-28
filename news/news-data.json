@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-28T09:28:36.285Z",
+  "lastUpdated": "2025-12-28T10:28:50.031Z",
   "articles": [
+    {
+      "title": "The Year in Climate: Attacks on Science, the Start of Trump’s Second Term and Surging Electricity Demand Foreshadow a Future Filled with Uncertainty",
+      "description": "That was rough. The past year had a combination of policy fiascos, natural disasters and a steady march toward a future that is too hot. Many of the m...",
+      "link": "https://insideclimatenews.org/news/28122025/2025-year-in-climate/",
+      "pubDate": "Sun, 28 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "ICN Sunday Morning: Let’s Talk About 2025",
+      "description": "What a year: policy fiascos, natural disasters and a steady march toward a future that is too hot. The Trump administration’s dismantling of environme...",
+      "link": "https://insideclimatenews.org/news/28122025/icn-sunday-morning-2025-climate-review/",
+      "pubDate": "Sun, 28 Dec 2025 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "London Eye architect proposes 14-mile tidal power station off Somerset coast",
       "description": "&lt;p&gt;West Somerset Lagoon would harness renewable energy for UK’s AI boom – and create ‘iconic’ arc around Bristol Channel&lt;/p&gt;&lt;p&gt;The a...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Lessons on Scaling Gift Economies—and How It Can Help the Planet",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with “The Serviceberry” auth...",
-      "link": "https://insideclimatenews.org/news/25122025/gift-economies-can-help-the-planet/",
-      "pubDate": "Thu, 25 Dec 2025 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
-      "description": "&lt;p&gt;More than a year after the storm ripped apart families and farms, growers are bullish about strength of their industry&lt;/p&gt;&lt;p&gt;Chri...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
-      "pubDate": "Wed, 24 Dec 2025 16:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f1d87ac9d32bb1f73dd3d10fe6bf8babfd71139b/400_0_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae94156ea7ccf2d801ba68436c3dc275"
     }
   ]
 }
