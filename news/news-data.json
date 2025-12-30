@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-30T08:38:47.546Z",
+  "lastUpdated": "2025-12-30T09:33:10.335Z",
   "articles": [
+    {
+      "title": "‘There is a crack in everything’: capturing the dark of winter – in pictures",
+      "description": "&lt;p&gt;How do you photograph darkness? A question Sarah Lee considers with her work as the nights draw in: ‘I’ve always been drawn to photographing ...",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/dec/30/there-is-a-crack-in-everything-capturing-the-dark-of-winter-in-pictures",
+      "pubDate": "Tue, 30 Dec 2025 08:36:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/922b16d02fe7ca2273d34fa88fa8f12682c85f1d/269_0_6160_4928/master/6160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=348567f7fe49cebd68e6867ba28dea6b"
+    },
+    {
+      "title": "Great white sharks face extinction in Mediterranean, say researchers",
+      "description": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites....",
+      "link": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 30 Dec 2025 01:15:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Stingless bees from the Amazon granted legal rights in world first",
       "description": "&lt;p&gt;Planet’s oldest bee species and primary pollinators were under threat from deforestation and competition from ‘killer bees’&lt;/p&gt;&lt;p&gt...",
@@ -27,6 +45,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ff2c3e71a547ecb423a7c6bc26fc04491e52d9b0/478_0_4775_3821/master/4775.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0158f2433b80f8f8b50238c059af8bbd"
+    },
+    {
+      "title": "BBC taken to secret location in Welsh mountains to find rare plant",
+      "description": "BBC Climate Editor Justin Rowlatt travels to Eryri - also known as Snowdonia - to find a rare plant....",
+      "link": "https://www.bbc.com/news/videos/cx2d2xrwn3po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 29 Dec 2025 12:26:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘Cities need nature to be happy’: David Attenborough seeks out London’s hidden wildlife",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b11928be6ce89b1df7e2f68337b0b920f29e4b04/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d9054b8ece415a8561c56772ef7e1ce"
-    },
-    {
-      "title": "US voters linking climate crisis to rising bills despite Trump’s ‘green scam’ claims",
-      "description": "&lt;p&gt;New polling shows 65% of registered US voters believe global heating is affecting cost of living&lt;/p&gt;&lt;p&gt;Most Americans now connect...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/26/us-voters-link-climate-crisis-affordability",
-      "pubDate": "Fri, 26 Dec 2025 12:30:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d4fce672a5973025bc72709787f1299e6da89ccd/876_0_6627_5304/master/6627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6c4860631ac5b96a35179a667a78a4f"
-    },
-    {
-      "title": "Living on the edge: what young people in England told us about life on the coast",
-      "description": "&lt;p&gt;As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challen...",
-      "link": "https://www.theguardian.com/environment/2025/dec/26/young-people-england-life-on-the-coast-18-to-30-year-olds-coastline",
-      "pubDate": "Fri, 26 Dec 2025 10:00:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1adc2dc30e42199de4a5edb1c777bbda49f0b455/292_0_2920_2336/master/2920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3cc0293531368e0a950f71af8f97219"
-    },
-    {
-      "title": "How George Wallace and Bull Connor Set the Stage for Alabama’s Sky-High Electric Rates",
-      "description": "Wired for Profit: Second in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer...",
-      "link": "https://insideclimatenews.org/news/26122025/george-wallace-bull-connor-set-stage-for-alabama-sky-high-electric-rates/",
-      "pubDate": "Fri, 26 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
