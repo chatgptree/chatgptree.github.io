@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-12-30T09:33:10.335Z",
+  "lastUpdated": "2025-12-30T10:32:27.667Z",
   "articles": [
+    {
+      "title": "Maine’s Shellfish Harvesters Are Caught up in Climate-Related Closures",
+      "description": "This story was co-published and supported by the journalism nonprofit the Economic Hardship Reporting Project. Chris Warner has been harvesting seafoo...",
+      "link": "https://insideclimatenews.org/news/30122025/maine-oyster-clam-harvesting/",
+      "pubDate": "Tue, 30 Dec 2025 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Michigan’s Other Water Crisis: PFAS’s Prevalence in Private Wells",
+      "description": "Seeking peace and quiet amid hectic careers, Sandy Wynn-Stelt and her husband Joel moved to Kent County, Michigan, in 1992. They picked out a home sur...",
+      "link": "https://insideclimatenews.org/news/30122025/michigan-pfas-private-wells/",
+      "pubDate": "Tue, 30 Dec 2025 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Young Atlantic salmon seen in three English rivers for first time in a decade",
+      "description": "&lt;p&gt;Species that is critically endangered in Britain is spotted in Mersey, Bollin and Goyt rivers in north-west&lt;/p&gt;&lt;p&gt;Young Atlantic ...",
+      "link": "https://www.theguardian.com/environment/2025/dec/30/young-atlantic-salmon-english-rivers-mersey-bollin-goyt",
+      "pubDate": "Tue, 30 Dec 2025 09:27:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a1c66e3d637cc0dd5a9e5c3c731f7c8c3210331f/267_0_5268_4216/master/5268.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fce2e683be49867a6da84ba49db0e46a"
+    },
     {
       "title": "‘There is a crack in everything’: capturing the dark of winter – in pictures",
       "description": "&lt;p&gt;How do you photograph darkness? A question Sarah Lee considers with her work as the nights draw in: ‘I’ve always been drawn to photographing ...",
@@ -128,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "London Eye architect proposes 14-mile tidal power station off Somerset coast",
-      "description": "&lt;p&gt;West Somerset Lagoon would harness renewable energy for UK’s AI boom – and create ‘iconic’ arc around Bristol Channel&lt;/p&gt;&lt;p&gt;The a...",
-      "link": "https://www.theguardian.com/environment/2025/dec/27/london-eye-architect-proposes-14-mile-tidal-power-station-off-somerset-coast",
-      "pubDate": "Sat, 27 Dec 2025 11:07:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/598c1ac5a60cd64117162ed972cdbfd30c1486c5/605_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a51f4af2ceed3487dafd34003ef3a660"
-    },
-    {
       "title": "After a Hard Year for Environmental Justice, Chicago Communities Are Picking Up the Pieces",
       "description": "In her 40 years as an environmental justice organizer, Cheryl Johnson had never seen environmental funding as revolutionary as the Community Change gr...",
       "link": "https://insideclimatenews.org/news/27122025/chicago-environmental-justice-grant-cuts/",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f4841eb193a070921874dc4fb830f8708220bc2d/840_0_5861_4689/master/5861.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5f3fa9b0db92caa477cd6d9414d1592"
-    },
-    {
-      "title": "The Guardian view on adapting to the climate crisis: it demands political honesty about extreme weather | Editorial",
-      "description": "&lt;p&gt;Over the holiday period, the Guardian leader column is looking ahead at the themes of 2026. Today we look at how the struggle to adapt to a d...",
-      "link": "https://www.theguardian.com/commentisfree/2025/dec/26/the-guardian-view-on-adapting-to-the-climate-crisis-it-demands-political-honesty-about-extreme-weather",
-      "pubDate": "Fri, 26 Dec 2025 17:30:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/570fb60250619f4a748c0aa7c43c05e9cce508d3/967_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b966acea6c43459b41ad3087c828fb9"
-    },
-    {
-      "title": "Defunding fungi: US’s living library of ‘vital ecosystem engineers’ is in danger of closing",
-      "description": "&lt;p&gt;These fungi boost plant growth and restore depleted ecosystems, but federal funding for a library housing them has been cut – and it may be f...",
-      "link": "https://www.theguardian.com/environment/2025/dec/26/arbuscular-mycorrhizal-fungi-living-library-vital-ecosystem-engineers",
-      "pubDate": "Fri, 26 Dec 2025 17:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b11928be6ce89b1df7e2f68337b0b920f29e4b04/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d9054b8ece415a8561c56772ef7e1ce"
     }
   ]
 }
