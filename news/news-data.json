@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-30T23:26:20.990Z",
+  "lastUpdated": "2025-12-31T02:20:26.634Z",
   "articles": [
+    {
+      "title": "Made in space? Start-up brings factory in orbit one step closer to reality",
+      "description": "A factory in space has been switched on and has reached temperatures of about 1,000C....",
+      "link": "https://www.bbc.com/news/articles/c62vx0pgyrgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 31 Dec 2025 00:26:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California snowpack gets a boost from series of December downpours",
+      "description": "&lt;p&gt;Water stored as snow during the winter months feeds waterways in the summer and supplies cities and farms&lt;/p&gt;&lt;p&gt;A series of Decem...",
+      "link": "https://www.theguardian.com/us-news/2025/dec/30/california-snowpack-water",
+      "pubDate": "Tue, 30 Dec 2025 23:53:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c4f2573b55c0f791b382a2bc5b5c0d3bf06438bd/42_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12dc345c96f769139a4d0a317b9e7782"
+    },
     {
       "title": "Iceland has hottest Christmas Eve ever with temperature of 19.8C recorded",
       "description": "&lt;p&gt;Meteorological office reports high temperatures across country and record measured at Seyðisfjörður in east&lt;/p&gt;&lt;p&gt;Record temperat...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After a Hard Year for Environmental Justice, Chicago Communities Are Picking Up the Pieces",
-      "description": "In her 40 years as an environmental justice organizer, Cheryl Johnson had never seen environmental funding as revolutionary as the Community Change gr...",
-      "link": "https://insideclimatenews.org/news/27122025/chicago-environmental-justice-grant-cuts/",
-      "pubDate": "Sat, 27 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A conversation between Joe Rogan and Mel Gibson summed up 2025 for me – and not in a good way | George Monbiot",
-      "description": "&lt;p&gt;From merrily dismissing climate science, to promoting irresponsible health claims, the podcast was an unintentional warning for our times &lt...",
-      "link": "https://www.theguardian.com/commentisfree/2025/dec/27/mel-gibson-denies-climate-breakdown-home-burns-joe-rogan",
-      "pubDate": "Sat, 27 Dec 2025 08:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4a4a5b8beb69b7cf9821d10f938775d1d410b72b/44_0_6573_5260/master/6573.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95d303f45793427b55b21cbb894a2ddf"
     }
   ]
 }
