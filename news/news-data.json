@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-01-02T11:25:28.022Z",
+  "lastUpdated": "2026-01-02T12:57:26.726Z",
   "articles": [
+    {
+      "title": "2025 was a big year for climate in the US courts - these were the wins and losses",
+      "description": "&lt;p&gt;Americans are increasingly turning to courts to hold big oil accountable. Here are major trends that emerged last year&lt;/p&gt;&lt;p&gt;As t...",
+      "link": "https://www.theguardian.com/us-news/2026/jan/02/climate-accountability-lawsuits-us-2025",
+      "pubDate": "Fri, 02 Jan 2026 12:30:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/38995d2c47863ea1f1e0c9954052cf86b8a62e27/2345_1336_3174_2538/master/3174.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63dae85f894592f0ce6c2d19fdcc7ddf"
+    },
+    {
+      "title": "Rapid expansion of ring-necked parakeets in UK sparks concern",
+      "description": "&lt;p&gt;Bird organisations say more research on the species needed to control impact on other wildlife&lt;/p&gt;&lt;p&gt;In the past 20 years, the so...",
+      "link": "https://www.theguardian.com/environment/2026/jan/02/rapid-expansion-of-ring-necked-parakeets-in-uk-sparks-concern",
+      "pubDate": "Fri, 02 Jan 2026 12:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f6322f38770d5e8238a86a310264627e1b33fc64/1009_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f44dde28a60ab26fd11f0e02b6f738ac"
+    },
+    {
+      "title": "Record year for wind and solar electricity in Great Britain in 2025",
+      "description": "Wind, solar and other renewables hit a new high last year but the government is still some way off its clean power target....",
+      "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Jan 2026 11:48:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "What makes an elephant abandon her calf – and is it a growing problem?",
       "description": "&lt;p&gt;A helpless baby elephant has won the Thai public’s sympathy but her case has shed light on the pressures facing herds across Asia&lt;/p&gt;&l...",
@@ -11,7 +38,7 @@
       "image": "https://i.guim.co.uk/img/media/c0d816925ac3a0da0959e0cd4b6d7573a2f4d511/210_0_1600_1281/master/1600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=961f3c9d471155cc22ce0fee6ee086bb"
     },
     {
-      "title": "Why NYC Is Spending Millions on ‘Bluebelts’",
+      "title": "Why New York City Is Spending Millions on ‘Bluebelts’",
       "description": "New York City is expected to experience increasing rainfall over the next few decades, especially during cloudbursts—short, intense rainfall events. W...",
       "link": "https://insideclimatenews.org/news/02012026/why-nyc-is-spending-millions-on-bluebelts/",
       "pubDate": "Fri, 02 Jan 2026 10:00:00 +0000",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/48f3f0342e8c1d5ee08ffb3d6e4aefdaae61de1b/379_740_2864_2291/master/2864.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb092f5eebd18a849bd31507dbd33f13"
-    },
-    {
-      "title": "World is in better place than when Eden Project created 25 years ago, founder says",
-      "description": "&lt;p&gt;Tim Smit also says extreme political views will fade when people realise good things around the corner&lt;/p&gt;&lt;p&gt;Sir Tim Smit says th...",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/01/eden-project-25-anniversary-founder-tim-smit",
-      "pubDate": "Thu, 01 Jan 2026 05:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b86209ec1bef1b9ee54859bd0e95e02e9f9bbae3/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cffd8e455372265169739b9f05e4caaf"
-    },
-    {
-      "title": "Intriguing finds could solve mystery of women in medieval cemetery",
-      "description": "There is growing evidence that the women were part of an early female religious community....",
-      "link": "https://www.bbc.com/news/articles/cpd65wp8z9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Jan 2026 00:34:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Intriguing finds could solve mystery of women in medieval cemetery",
-      "description": "There is growing evidence that the women were part of an early female religious community....",
-      "link": "https://www.bbc.com/news/articles/cpd65wp8z9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Jan 2026 00:34:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
