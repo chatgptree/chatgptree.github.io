@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-02T09:32:28.327Z",
+  "lastUpdated": "2026-01-02T10:30:55.263Z",
   "articles": [
+    {
+      "title": "Why NYC Is Spending Millions on ‘Bluebelts’",
+      "description": "New York City is expected to experience increasing rainfall over the next few decades, especially during cloudbursts—short, intense rainfall events. W...",
+      "link": "https://insideclimatenews.org/news/02012026/why-nyc-is-spending-millions-on-bluebelts/",
+      "pubDate": "Fri, 02 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildfire smoke is a national crisis, and it&#8217;s worse than you think",
+      "description": "Greenhouse gas and particulate emissions from fires globally may be 70 percent higher than once believed....",
+      "link": "https://grist.org/climate/wildfire-smoke-is-a-national-crisis-and-its-worse-than-you-think/",
+      "pubDate": "Fri, 02 Jan 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/wildfire-smoke-health-risks-deadly-.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "University of Nebraska is eliminating a key climate research department",
       "description": "As Nebraska's weather intensifies, farmers are losing a critical resource to understand it....",
@@ -56,7 +74,7 @@
       "image": "https://i.guim.co.uk/img/media/19e8c0cecf76b1a4ed223054ba4e3f383273e729/232_0_2917_2335/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=086a3fed3262456a9b9e9d1aa6597b60"
     },
     {
-      "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
+      "title": "Should the NHS really use magic mushrooms to treat mental health?",
       "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising result...",
       "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Jan 2026 00:03:20 GMT",
@@ -65,7 +83,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
+      "title": "Should the NHS really use magic mushrooms to treat mental health?",
       "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising result...",
       "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Jan 2026 00:03:20 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1bcfedc1ec9007d7ea94a8dab1946a1d709796a1/439_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d4918be146581c38e5e221a938a2ee6"
-    },
-    {
-      "title": "A polycrisis has shattered our world this year. But with care, we can put it back together | Elif Shafak",
-      "description": "&lt;p&gt;The challenges and strains have been almost too much to take. But in 2025, words of depth and courage have been an antidote to numbness&lt;/p...",
-      "link": "https://www.theguardian.com/world/2025/dec/31/polycrisis-world-care-challenge-2025-courage",
-      "pubDate": "Wed, 31 Dec 2025 12:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0b92daa8df6b0f95dc274001dfdb8b91f2e5d089/1840_186_3922_3138/master/3922.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06e84dfe124736508a63c4ca915e3ef2"
-    },
-    {
-      "title": "‘They didn’t de-extinct anything’: can Colossal’s genetically engineered animals ever be the real thing?",
-      "description": "&lt;p&gt;The bioscience startup has attracted billions in investment – and a flurry of criticism, but founder tells the Guardian plans to bring back t...",
-      "link": "https://www.theguardian.com/environment/2025/dec/31/colossal-ben-lamm-deextinction-dire-wolf-dodo-tasmanian-tiger-aoe",
-      "pubDate": "Wed, 31 Dec 2025 11:00:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5c9607ab8801c84036f2e1a840e692f90b2f12a5/0_0_1336_1069/master/1336.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f1b776d730452ed4742b93c1c91f7cb"
     }
   ]
 }
