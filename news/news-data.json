@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-01-01T23:27:23.165Z",
+  "lastUpdated": "2026-01-02T02:22:31.992Z",
   "articles": [
+    {
+      "title": "Australian electric car market to get influx of new models as cheaper EVs hit the road in 2026",
+      "description": "&lt;p&gt;New utes, sports cars and hatchbacks will break price records at both ends as traditional brands release electric vehicles in 2026&lt;/p&gt;&...",
+      "link": "https://www.theguardian.com/environment/2026/jan/02/ev-australia-electric-cars-vehicle-lower-price-cheap-best-2026-new-models",
+      "pubDate": "Fri, 02 Jan 2026 00:31:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/19e8c0cecf76b1a4ed223054ba4e3f383273e729/232_0_2917_2335/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=086a3fed3262456a9b9e9d1aa6597b60"
+    },
+    {
+      "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
+      "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising result...",
+      "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Jan 2026 00:03:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
+      "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising result...",
+      "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Jan 2026 00:03:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "From what came before the big bang to why snowflakes are six sided....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7597a3ab5a5c11d162d40bc18b85d0fd363741db/726_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9898b29221b28771d7e900ba9f4655f1"
-    },
-    {
-      "title": "‘You could see bones’: Families’ anguish over coastal erosion threat to Norfolk graves",
-      "description": "&lt;p&gt;Bereaved relatives say delays over risks at village churchyards are causing distress and call for council action&lt;/p&gt;&lt;p&gt;Families o...",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/31/families-coastal-erosion-graves-norfolk-villages-churchyards-council",
-      "pubDate": "Wed, 31 Dec 2025 05:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/867a033734415a2504ddfd2dc10618b03399e77a/883_0_6578_5262/master/6578.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=982084b54f78e0a1ef0f2fd89176b785"
-    },
-    {
-      "title": "UK company sends factory with 1,000C furnace into space",
-      "description": "A factory in space has been switched on and has reached temperatures of about 1,000C....",
-      "link": "https://www.bbc.com/news/articles/c62vx0pgyrgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 31 Dec 2025 00:26:41 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California snowpack gets a boost from series of December downpours",
-      "description": "&lt;p&gt;Water stored as snow during the winter months feeds waterways in the summer and supplies cities and farms&lt;/p&gt;&lt;p&gt;A series of Decem...",
-      "link": "https://www.theguardian.com/us-news/2025/dec/30/california-snowpack-water",
-      "pubDate": "Tue, 30 Dec 2025 23:53:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c4f2573b55c0f791b382a2bc5b5c0d3bf06438bd/42_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12dc345c96f769139a4d0a317b9e7782"
     }
   ]
 }
