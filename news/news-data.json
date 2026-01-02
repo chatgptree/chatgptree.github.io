@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-02T08:39:06.295Z",
+  "lastUpdated": "2026-01-02T09:32:28.327Z",
   "articles": [
+    {
+      "title": "University of Nebraska is eliminating a key climate research department",
+      "description": "As Nebraska's weather intensifies, farmers are losing a critical resource to understand it....",
+      "link": "https://grist.org/extreme-weather/university-of-nebraska-is-eliminating-a-key-climate-research-department/",
+      "pubDate": "Fri, 02 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/Quentin-Connealy_FlatwaterFreePress.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Week in wildlife: a hide-and-seek squirrel and an otter in a Christmas tree",
       "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jan/02...",
@@ -17,7 +26,7 @@
       "pubDate": "Fri, 02 Jan 2026 06:00:02 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/b2fa224f6632e69f64ab5361fca2a9ef8d6777e7/259_0_3050_2440/master/3050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba8477f813118ce9a4fdb287008db857"
+      "image": "https://i.guim.co.uk/img/media/4d0e8a67012f6e9d9f4a611753dd387e94d8296c/747_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de2a1bdde8391a3a849bb2a029b469b9"
     },
     {
       "title": "What if floods left your home unsellable? That’s the reality facing more and more people in Britain | Kirsty Major",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5c9607ab8801c84036f2e1a840e692f90b2f12a5/0_0_1336_1069/master/1336.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f1b776d730452ed4742b93c1c91f7cb"
-    },
-    {
-      "title": "An Idaho Bird Research Station Rises From the Ashes of a Wildfire",
-      "description": "BOISE, Idaho—Ping. The sound that wrenched Lucian Davis awake was a phone notification from the wildfire-tracking app Watch Duty. There was a fire jus...",
-      "link": "https://insideclimatenews.org/news/31122025/idaho-valley-fire-torched-lucky-peak-bird-research-station/",
-      "pubDate": "Wed, 31 Dec 2025 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
