@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-03T13:34:30.314Z",
+  "lastUpdated": "2026-01-03T14:26:11.915Z",
   "articles": [
+    {
+      "title": "Louisiana town fights for relief after a billion-dollar oil disaster",
+      "description": "Federal and state officials have sued the company behind the blast, but Roseland, Louisiana, residents say the case won’t bring relief to their town....",
+      "link": "https://grist.org/accountability/louisiana-town-fights-for-relief-after-a-billion-dollar-oil-disaster/",
+      "pubDate": "Sat, 03 Jan 2026 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2245219147-e1762813265453.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Jason White on plastic pollution in the food chain – cartoon",
       "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/jan/03/jason-white-plastic-pollution-food-chain-cartoon\"&gt;Continue reading...&lt;...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b0f38b58d9e48921c12b687c59f5f7e4edc95bc7/598_0_5667_4533/master/5667.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=155963e08869308885367e3316e543e0"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "From what came before the big bang to why snowflakes are six sided....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txs?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Jan 2026 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
