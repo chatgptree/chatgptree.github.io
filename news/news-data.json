@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-04T16:33:32.371Z",
+  "lastUpdated": "2026-01-04T17:24:32.059Z",
   "articles": [
+    {
+      "title": "‘The perfect storm’: Trump has left the US less prepared for natural disasters, experts say",
+      "description": "&lt;p&gt;Emergency managers say the US president has presided over a dangerous erosion in US capacity to prepare for and respond to natural disasters&...",
+      "link": "https://www.theguardian.com/us-news/2026/jan/04/donald-trump-disaster-response-preparedness",
+      "pubDate": "Sun, 04 Jan 2026 17:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4a4a5b8beb69b7cf9821d10f938775d1d410b72b/754_0_6574_5260/master/6574.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7d56c07fc93fba57208ca81723d0bff"
+    },
     {
       "title": "Despite Trump-era reversals, 2025 still saw environmental wins. Here are 7 worth noting.",
       "description": "Environmental advocates notched key wins at local and state levels this year — despite the Trump administration’s rollbacks....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfire smoke is a national crisis, and it&#8217;s worse than you think",
-      "description": "Greenhouse gas and particulate emissions from fires globally may be 70 percent higher than once believed....",
-      "link": "https://grist.org/health/wildfire-smoke-is-a-national-crisis-and-its-worse-than-you-think/",
-      "pubDate": "Fri, 02 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/wildfire-smoke-health-risks-deadly-.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
