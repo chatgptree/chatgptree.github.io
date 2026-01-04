@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-01-04T09:27:16.301Z",
+  "lastUpdated": "2026-01-04T10:28:17.317Z",
   "articles": [
+    {
+      "title": "The electric vehicle revolution is still on course – don’t let your loathing of Elon Musk stop you joining up | Zoe Williams",
+      "description": "&lt;p&gt;Other firms are taking advantage of Tesla’s sales slump, while technological advances mean that glitches are being left in the rear-view mirr...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/04/electric-vehicle-elon-musk-tesla-sales",
+      "pubDate": "Sun, 04 Jan 2026 10:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/02c64f6e590ba76d15d5331737c6ae687968eb5a/536_0_4585_3668/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c012404c10f2cb6773d0d651ac3c3e4b"
+    },
+    {
+      "title": "Ten Million Corals Are in the Path of a Federal Dredging Project in Florida",
+      "description": "Beneath the surface of one of South Florida’s busiest maritime hubs, Port Everglades, scientists found 10 million corals thriving in and around the ma...",
+      "link": "https://insideclimatenews.org/news/04012026/florida-port-everglades-dredging-project-could-damaga-corals/",
+      "pubDate": "Sun, 04 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Real Pain of Climate Change Is Easy to Feel, but Increasingly Difficult to Study",
+      "description": "Dawn Gibson can literally feel storms coming in her bones. “I'll start feeling like this gnawing and throbbing in my bones and joints,” the 48-year-ol...",
+      "link": "https://insideclimatenews.org/news/04012026/chronic-pain-and-climate-change/",
+      "pubDate": "Sun, 04 Jan 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Aliens: the spread of invasive plants and animals across Europe – in pictures",
       "description": "&lt;p&gt;Erik Irmer has been documenting the spread of invasive plant and animal species that disrupt native ecology across Europe. He focuses on huma...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/Quentin-Connealy_FlatwaterFreePress.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Week in wildlife: a hide-and-seek squirrel and an otter in a Christmas tree",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jan/02...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jan/02/week-in-wildlife-a-hide-and-seek-squirrel-and-an-otter-in-a-christmas-tree",
-      "pubDate": "Fri, 02 Jan 2026 08:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/77473328fa8e601843e6efc9e80fa337c71302dd/1188_660_2953_2363/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2c1b28c336b2af3a907ae38b2037694"
-    },
-    {
-      "title": "Controversial post-Brexit farm subsidy scheme 'landmark moment for Wales'",
-      "description": "The post-Brexit subsidy scheme for farmers begins, almost a decade after the vote to leave the EU....",
-      "link": "https://www.bbc.com/news/articles/c1m8k3r3m59o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Jan 2026 06:01:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Controversial post-Brexit farm subsidy scheme 'landmark moment for Wales'",
-      "description": "The post-Brexit subsidy scheme for farmers begins, almost a decade after the vote to leave the EU....",
-      "link": "https://www.bbc.com/news/articles/c1m8k3r3m59o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Jan 2026 06:01:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
