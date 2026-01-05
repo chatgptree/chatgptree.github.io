@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T15:32:52.906Z",
+  "lastUpdated": "2026-01-05T16:36:30.185Z",
   "articles": [
     {
       "title": "Nine scientific breakthroughs I’d like to see in 2026 – from earworms to procrastination | Emma Beddington",
@@ -18,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2d29bcee1c838425a71732ac7dadcafa195ef77f/407_0_4081_3264/master/4081.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88f2eada6b52fe58c9b057e832b55ae0"
+    },
+    {
+      "title": "Trump wants Venezuela's oil. Will his plan work?",
+      "description": "Donald Trump has said that American oil firms will invest billions to produce oil in Venezuela....",
+      "link": "https://www.bbc.com/news/articles/crkr4y717k7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 05 Jan 2026 10:35:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Arizona’s AG Is Clear-Eyed About the State’s Energy Costs and Water Scarcity—but Can It Help Her Win Reelection?",
@@ -146,6 +155,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Biodiversity continues to decline, 2025 data shows",
+      "description": "Wallingford scientists contributed to the 2025 indicators with analysis of animal and plant trends....",
+      "link": "https://www.bbc.com/news/articles/c24gpl0l545o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 07:29:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "China’s BYD overtakes Tesla as world’s biggest electric car seller",
       "description": "&lt;p&gt;Sales at Elon Musk’s company slump after Donald Trump’s withdrawal of EV subsidies&lt;/p&gt;&lt;p&gt;China’s BYD overtook Tesla as the world’...",
       "link": "https://www.theguardian.com/business/2026/jan/02/china-byd-tesla-worlds-biggest-electric-car-seller-elon-musk-donald-trump-ev",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The debate about whether the NHS should use magic mushrooms to treat depression",
-      "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising result...",
-      "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Jan 2026 15:47:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ørsted files legal challenge against US government over windfarm lease freeze",
-      "description": "&lt;p&gt;Europe’s biggest offshore wind developer seeking to overturn White House decision to suspend work on a $5bn wind farm project&lt;/p&gt;&lt;p&...",
-      "link": "https://www.theguardian.com/business/2026/jan/02/rsted-files-legal-challenge-against-us-government-over-windfarm-lease-freeze",
-      "pubDate": "Fri, 02 Jan 2026 14:27:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eab550bc8bf970a9b0998029f89ed3d68f767379/576_0_4182_3346/master/4182.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2faadec5d56f6404dd79f4bc8a1daffb"
     }
   ]
 }
