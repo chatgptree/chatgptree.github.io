@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-06T11:26:03.185Z",
+  "lastUpdated": "2026-01-06T13:00:39.677Z",
   "articles": [
+    {
+      "title": "We can safely experiment on reflecting sunlight away from Earth. Here’s how | Dakota Gruener and Daniele Visioni",
+      "description": "&lt;p&gt;Reflecting a small fraction of incoming sunlight to reduce global heating is not a new idea. It is time to safely experiment&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/06/reflecting-sunlight-climate-crisis-heating",
+      "pubDate": "Tue, 06 Jan 2026 12:00:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/aacf3c65925c4ee61e06811084b6d26d7b06912b/672_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a93ed96a4fd7e2f308e00f922e5e6c3c"
+    },
     {
       "title": "Nature boys and girls – here’s your chance to get published in the Guardian",
       "description": "&lt;p&gt;Our wildlife series Young Country Diary is looking for articles written by children, about their winter encounters with nature&lt;/p&gt;&lt;p...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2d29bcee1c838425a71732ac7dadcafa195ef77f/407_0_4081_3264/master/4081.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88f2eada6b52fe58c9b057e832b55ae0"
-    },
-    {
-      "title": "Trump wants Venezuela's oil. Will his plan work?",
-      "description": "Donald Trump has said that American oil firms will invest billions to produce oil in Venezuela....",
-      "link": "https://www.bbc.com/news/articles/crkr4y717k7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 05 Jan 2026 10:35:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
