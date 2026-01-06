@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-06T08:41:15.654Z",
+  "lastUpdated": "2026-01-06T09:34:33.038Z",
   "articles": [
+    {
+      "title": "Why forcing people to go green can backfire",
+      "description": "A new study reveals a conundrum for climate policy: People hate when you tell them what to do....",
+      "link": "https://grist.org/politics/why-forcing-people-to-go-green-can-backfire/",
+      "pubDate": "Tue, 06 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/woty-2025-merged2.png?quality=75&#038;strip=all"
+    },
     {
       "title": "Violence, death and stolen land: people need to know the true cost of an avocado | Claudia Ignacio Álvarez",
       "description": "&lt;p&gt;Behind the west’s huge appetite for the fruit lies the dark reality of environmental destruction and Indigenous exploitation in Mexico&lt;/p&...",
@@ -9,6 +18,24 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cfb6b15c4224b46ee5be498e814891e384dea3de/448_0_5118_4096/master/5118.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7f49071e509d538a2eb5664243f011c"
+    },
+    {
+      "title": "Electric car discounts are unsustainable, says industry group",
+      "description": "The SMMT warned of a growing gap between consumer demand and the government's ambitions for EVs....",
+      "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 06 Jan 2026 06:58:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Christmas trees are getting a new lease of life",
+      "description": "Some businesses are helping to recycle and reuse trees in a bid to reduce landfill and emissions....",
+      "link": "https://www.bbc.com/news/articles/c5yx7pkwe4wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 06 Jan 2026 06:04:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘Mad fishing’: the super-size fleet of squid catchers plundering the high seas",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Real Pain of Climate Change Is Easy to Feel, but Increasingly Difficult to Study",
-      "description": "Dawn Gibson can literally feel storms coming in her bones. “I'll start feeling like this gnawing and throbbing in my bones and joints,” the 48-year-ol...",
-      "link": "https://insideclimatenews.org/news/04012026/chronic-pain-and-climate-change/",
-      "pubDate": "Sun, 04 Jan 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Aliens: the spread of invasive plants and animals across Europe – in pictures",
-      "description": "&lt;p&gt;Erik Irmer has been documenting the spread of invasive plant and animal species that disrupt native ecology across Europe. He focuses on huma...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jan/04/aliens-the-spread-of-invasive-plants-and-animals-across-europe-in-pictures",
-      "pubDate": "Sun, 04 Jan 2026 09:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1b8b54869f101e6ec1c4f0ef1fd59e5d4589db40/0_944_4281_3421/master/4281.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32f51a54532e7e7bd4b5bf897af54631"
-    },
-    {
-      "title": "Louisiana town fights for relief after a billion-dollar oil disaster",
-      "description": "Federal and state officials have sued the company behind the blast, but Roseland, Louisiana, residents say the case won’t bring relief to their town....",
-      "link": "https://grist.org/accountability/louisiana-town-fights-for-relief-after-a-billion-dollar-oil-disaster/",
-      "pubDate": "Sat, 03 Jan 2026 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2245219147-e1762813265453.jpg?quality=75&#038;strip=all"
     }
   ]
 }
