@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-01-06T09:34:33.038Z",
+  "lastUpdated": "2026-01-06T10:33:30.002Z",
   "articles": [
+    {
+      "title": "Nature boys and girls – here’s your chance to get published in the Guardian",
+      "description": "&lt;p&gt;Our wildlife series Young Country Diary is looking for articles written by children, about their winter encounters with nature&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
+      "pubDate": "Tue, 06 Jan 2026 10:04:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/38bef4bb918b83bd07ffa851212b0c816b49450c/0_33_480_384/master/480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=71981a549f2b37ef43e9066d971d67c9"
+    },
+    {
+      "title": "Endangered quoll rediscovered on Cape York sanctuary after more than 80 years",
+      "description": "General Northern Quoll. © Brad Leue.jpg An endangered Northern Quoll has been detected at Piccaninny Plains Wildlife Sanctuary, on Northern Kaanju Cou...",
+      "link": "https://econews.com.au/endangered-quoll-rediscovered-on-cape-york-sanctuary-after-more-than-80-years/",
+      "pubDate": "Tue, 06 Jan 2026 10:00:33 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/AWC-logo.png"
+    },
+    {
+      "title": "IAG Research Flags Safety Gap Amid Surge in Battery-Powered Devices",
+      "description": "As lithium-ion devices including e-scooters, e-bikes and portable power banks become a staple in Australian homes, safety experts are warning of growi...",
+      "link": "https://econews.com.au/iag-research-flags-safety-gap-amid-surge-in-battery-powered-devices/",
+      "pubDate": "Tue, 06 Jan 2026 10:00:32 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Cracking the ‘long tail’ problem: new research targets hidden solar panel issue",
+      "description": "UNSW Sydney Around a fifth of solar panels examined in a new study fail much faster than expected and some may last for only half their anticipated li...",
+      "link": "https://econews.com.au/cracking-the-long-tail-problem-new-research-targets-hidden-solar-panel-issue/",
+      "pubDate": "Tue, 06 Jan 2026 10:00:32 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Global EV charging infrastructure to reach 11 million units in 2030, forecasts GlobalData",
+      "description": "With electric vehicle (EV) adoption accelerating, driven by stricter government emissions regulations worldwide, the demand for a strong EV charging n...",
+      "link": "https://econews.com.au/global-ev-charging-infrastructure-to-reach-11-million-units-in-2030-forecasts-globaldata/",
+      "pubDate": "Tue, 06 Jan 2026 10:00:31 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-59-1024x576.png"
+    },
+    {
+      "title": "A good way for households to reduce pollution in our ecosystems",
+      "description": "A single laundry load containing synthetic clothing can release thousands of plastic microfibres from nylon, acrylic and polyester materials. Lab test...",
+      "link": "https://econews.com.au/a-good-way-for-households-to-reduce-pollution-in-our-ecosystems/",
+      "pubDate": "Tue, 06 Jan 2026 10:00:23 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/Karen-ANFF-lab-Flinders-1024x715.jpg"
+    },
+    {
+      "title": "How Trump Derailed a NOAA Pioneer’s Move From Climate Impacts to Solutions",
+      "description": "After spending the first 16 years of her federal government career focused on the impacts of climate change, Libby Jewett hoped to wrap up her time at...",
+      "link": "https://insideclimatenews.org/news/06012026/trump-federal-layoffs-derailed-noaa-scientists-climate-solutions/",
+      "pubDate": "Tue, 06 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Loosely Regulated Petrochemical Barge Industry Is Commandeering a Texas River",
+      "description": "This article was originally published by Public Health Watch, a nonprofit investigative news organization. Find out more at&#160;publichealthwatch.org...",
+      "link": "https://insideclimatenews.org/news/06012026/texas-san-jacinto-river-petrochemical-barge-industry/",
+      "pubDate": "Tue, 06 Jan 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Electric car discounts are unsustainable, says industry group",
+      "description": "The SMMT warned of a growing gap between consumer demand and the government's ambitions for EVs....",
+      "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 06 Jan 2026 09:48:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why forcing people to go green can backfire",
       "description": "A new study reveals a conundrum for climate policy: People hate when you tell them what to do....",
@@ -18,15 +99,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cfb6b15c4224b46ee5be498e814891e384dea3de/448_0_5118_4096/master/5118.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7f49071e509d538a2eb5664243f011c"
-    },
-    {
-      "title": "Electric car discounts are unsustainable, says industry group",
-      "description": "The SMMT warned of a growing gap between consumer demand and the government's ambitions for EVs....",
-      "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 06 Jan 2026 06:58:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "How Christmas trees are getting a new lease of life",
@@ -106,78 +178,6 @@
       "link": "https://www.bbc.com/news/articles/crkr4y717k7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 05 Jan 2026 10:35:11 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Arizona’s AG Is Clear-Eyed About the State’s Energy Costs and Water Scarcity—but Can It Help Her Win Reelection?",
-      "description": "Kris Mayes believes in the lost art of the town hall.&#160; That conviction recently brought the Arizona attorney general before a group of a few doze...",
-      "link": "https://insideclimatenews.org/news/05012026/arizona-attorney-general-kris-mayes-energy-costs-water-scarcity/",
-      "pubDate": "Mon, 05 Jan 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Health Care Providers Are Dropping a Common Anesthesia Drug That’s Also a Climate Super Pollutant",
-      "description": "Desflurane is a common anesthetic used in hospital operating rooms worldwide. It’s also a climate super pollutant. Now, several decades after the drug...",
-      "link": "https://insideclimatenews.org/news/05012026/health-care-providers-are-dropping-a-common-anesthesia-drug-thats-also-a-climate-super-pollutant/",
-      "pubDate": "Mon, 05 Jan 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The biggest climate migration problem may be that there&#8217;s not enough of it",
-      "description": "In his new book, Julian Hattem explores how migration can be a climate solution — not just for those who are able to move, but for their home communit...",
-      "link": "https://grist.org/migration/the-biggest-climate-migration-problem-may-be-that-theres-not-enough-of-it/",
-      "pubDate": "Mon, 05 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/Julian-Hattem-2.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How demand for elite falcons in the Middle East is driving illegal trade of British birds",
-      "description": "&lt;p&gt;Exclusive: data reveals hundreds of UK nests have been raided in the past decade amid growing appetite to own prized birds for racing and bre...",
-      "link": "https://www.theguardian.com/environment/2026/jan/05/elite-falcons-middle-east-illegal-trafficking-trade-british-birds",
-      "pubDate": "Mon, 05 Jan 2026 08:51:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/776cc772b56773d389b8cff3ac5ae720cc6a4979/839_498_3158_2526/master/3158.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10a95607de3cd78e5676df814901a670"
-    },
-    {
-      "title": "‘The perfect storm’: Trump has left the US less prepared for natural disasters, experts say",
-      "description": "&lt;p&gt;Emergency managers say the US president has presided over a dangerous erosion in US capacity to prepare for and respond to natural disasters&...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/04/donald-trump-disaster-response-preparedness",
-      "pubDate": "Sun, 04 Jan 2026 17:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4a4a5b8beb69b7cf9821d10f938775d1d410b72b/754_0_6574_5260/master/6574.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7d56c07fc93fba57208ca81723d0bff"
-    },
-    {
-      "title": "Despite Trump-era reversals, 2025 still saw environmental wins. Here are 7 worth noting.",
-      "description": "Environmental advocates notched key wins at local and state levels this year — despite the Trump administration’s rollbacks....",
-      "link": "https://grist.org/solutions/despite-trump-era-reversals-2025-still-saw-environmental-wins-here-are-7-worth-noting/",
-      "pubDate": "Sun, 04 Jan 2026 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/Pongan-fin-a-la-contaminacion-plastica.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The electric vehicle revolution is still on course – don’t let your loathing of Elon Musk stop you joining up | Zoe Williams",
-      "description": "&lt;p&gt;Other firms are taking advantage of Tesla’s sales slump, while technological advances mean that glitches are being left in the rear-view mirr...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/04/electric-vehicle-elon-musk-tesla-sales",
-      "pubDate": "Sun, 04 Jan 2026 10:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/02c64f6e590ba76d15d5331737c6ae687968eb5a/536_0_4585_3668/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c012404c10f2cb6773d0d651ac3c3e4b"
-    },
-    {
-      "title": "Ten Million Corals Are in the Path of a Federal Dredging Project in Florida",
-      "description": "Beneath the surface of one of South Florida’s busiest maritime hubs, Port Everglades, scientists found 10 million corals thriving in and around the ma...",
-      "link": "https://insideclimatenews.org/news/04012026/florida-port-everglades-dredging-project-could-damaga-corals/",
-      "pubDate": "Sun, 04 Jan 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
