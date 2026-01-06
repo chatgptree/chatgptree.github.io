@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-06T22:30:06.126Z",
+  "lastUpdated": "2026-01-06T23:28:43.080Z",
   "articles": [
+    {
+      "title": "A Year After the LA Fires, Recovery Is Lagging, But Bright Spots Emerge",
+      "description": "While people look to start fresh in the new year, many residents in California’s Los Angeles County are still living in the burn scars of the past. A ...",
+      "link": "https://insideclimatenews.org/news/06012026/todays-climate-la-wildfires-anniversary-recovery-rebuilding/",
+      "pubDate": "Tue, 06 Jan 2026 22:59:52 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Venezuelan Oil Brought to the U.S. Would Be Refined in Black Gulf Communities",
       "description": "This article was originally published by Capital B. On Saturday morning, John Beard woke up to news that he’d been dreading, but preparing for: A glob...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d63a69465c18ebb29f3b7678e17cbb03dd2a83ba/134_0_2392_1913/master/2392.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1edddbe4ba86dedb79585ea98e429ca6"
-    },
-    {
-      "title": "EPA Funding Salvaged in US Congress Spending Bill",
-      "description": "In a step toward heading off a government shutdown when a temporary funding agreement expires at the end of January, appropriators in both the Senate ...",
-      "link": "https://insideclimatenews.org/news/05012026/congress-epa-budget-bill-rejects-extreme-cuts/",
-      "pubDate": "Tue, 06 Jan 2026 02:13:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
