@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T07:32:54.068Z",
+  "lastUpdated": "2026-01-07T08:41:13.062Z",
   "articles": [
     {
       "title": "EcoCeres Earns China’s SAF Export “White List” Recognition and Airworthiness Certificate, Strengthening Global Market Access and Safety Credentials",
@@ -9,6 +9,24 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/logo-4-1.png"
+    },
+    {
+      "title": "Carbon capture company lands nearly £1m in backing",
+      "description": "The Carbon Removers, based near Dumfries, will use the funding to expand its operations across Europe....",
+      "link": "https://www.bbc.com/news/articles/cdex9kd4n06o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 07 Jan 2026 06:10:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rare Iron Age war trumpet and boar standard found",
+      "description": "The discoveries are \"extraordinarily rare\", say the archaeologists who helped find them....",
+      "link": "https://www.bbc.com/news/articles/cr7jvj8d39eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 07 Jan 2026 06:02:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Specieswatch: tough times for reindeer as rain increases in warming Arctic",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/06012026/trump-federal-layoffs-derailed-noaa-scientists-climate-solutions/",
       "pubDate": "Tue, 06 Jan 2026 10:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Loosely Regulated Petrochemical Barge Industry Is Commandeering a Texas River",
-      "description": "This article was originally published by Public Health Watch, a nonprofit investigative news organization. Find out more at&#160;publichealthwatch.org...",
-      "link": "https://insideclimatenews.org/news/06012026/texas-san-jacinto-river-petrochemical-barge-industry/",
-      "pubDate": "Tue, 06 Jan 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Electric car discounts are unsustainable, says industry group",
-      "description": "The SMMT warned of a growing gap between consumer demand and the government's ambitions for EVs....",
-      "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 06 Jan 2026 09:48:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
