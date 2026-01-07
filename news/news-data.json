@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-07T10:33:44.401Z",
+  "lastUpdated": "2026-01-07T11:27:41.231Z",
   "articles": [
+    {
+      "title": "The LA wildfire victims still living in toxic homes: ‘We have nowhere else to go’",
+      "description": "&lt;p&gt;A year after the Eaton fire, residents returning to Altadena confront lingering contamination and little official clarity&lt;/p&gt;&lt;p&gt;O...",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jan/07/la-wildfire-victims-toxic-homes",
+      "pubDate": "Wed, 07 Jan 2026 11:00:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ffe2e42f4d55a2dbe2a617bcf6aeb1c164bbe9fd/0_330_1500_1198/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8adf23d3114aaa5fcd6b08cabe56d24e"
+    },
+    {
+      "title": "We study glaciers. ‘Artificial glaciers’ and other tech may halt their total collapse | Brent Minchew and Colin Meyer",
+      "description": "&lt;p&gt;How might we prevent sea-level rise? Satellite-based radar, solar-powered drones, robot submarines and lab-based ‘artificial glaciers’ could ...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/07/we-study-glaciers-artificial-glaciers-and-other-tech-may-halt-their-total-collapse",
+      "pubDate": "Wed, 07 Jan 2026 11:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e775a275bc3deaa70e2c180cc3ea7fb8f909358d/458_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77f5e83aa32189d2390ec774f467ca48"
+    },
     {
       "title": "To Save An Endangered Prairie Fish, Dried-up Iowa Wetlands Get New Life",
       "description": "The minnow U.S. Fish and Wildlife Service ecologists pulled from the shallow moat was a puny thing, with a flare of orange rimming its fins and a dark...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Cracking the ‘long tail’ problem: new research targets hidden solar panel issue",
-      "description": "UNSW Sydney Around a fifth of solar panels examined in a new study fail much faster than expected and some may last for only half their anticipated li...",
-      "link": "https://econews.com.au/cracking-the-long-tail-problem-new-research-targets-hidden-solar-panel-issue/",
-      "pubDate": "Tue, 06 Jan 2026 10:00:32 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Global EV charging infrastructure to reach 11 million units in 2030, forecasts GlobalData",
-      "description": "With electric vehicle (EV) adoption accelerating, driven by stricter government emissions regulations worldwide, the demand for a strong EV charging n...",
-      "link": "https://econews.com.au/global-ev-charging-infrastructure-to-reach-11-million-units-in-2030-forecasts-globaldata/",
-      "pubDate": "Tue, 06 Jan 2026 10:00:31 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-59-1024x576.png"
     }
   ]
 }
