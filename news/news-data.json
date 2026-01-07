@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-07T09:36:00.611Z",
+  "lastUpdated": "2026-01-07T10:33:44.401Z",
   "articles": [
+    {
+      "title": "To Save An Endangered Prairie Fish, Dried-up Iowa Wetlands Get New Life",
+      "description": "The minnow U.S. Fish and Wildlife Service ecologists pulled from the shallow moat was a puny thing, with a flare of orange rimming its fins and a dark...",
+      "link": "https://insideclimatenews.org/news/07012026/iowa-oxbow-wetlands-restoration-to-save-endangered-topeka-shiner/",
+      "pubDate": "Wed, 07 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Texas clears the way for petrochemical expansion as experts warn of health risks",
       "description": "Public Health Watch chronicles a fossil-fuel infrastructure boom that could worsen air pollution in some areas and exacerbate climate change....",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-59-1024x576.png"
-    },
-    {
-      "title": "A good way for households to reduce pollution in our ecosystems",
-      "description": "A single laundry load containing synthetic clothing can release thousands of plastic microfibres from nylon, acrylic and polyester materials. Lab test...",
-      "link": "https://econews.com.au/a-good-way-for-households-to-reduce-pollution-in-our-ecosystems/",
-      "pubDate": "Tue, 06 Jan 2026 10:00:23 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/Karen-ANFF-lab-Flinders-1024x715.jpg"
     }
   ]
 }
