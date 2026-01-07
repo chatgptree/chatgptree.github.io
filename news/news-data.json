@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-07T15:34:14.738Z",
+  "lastUpdated": "2026-01-07T16:40:26.223Z",
   "articles": [
+    {
+      "title": "Endangered Toad Wins Legal Victory Against Highway Construction in Ecuador",
+      "description": "An Ecuadorian court has blocked construction of a highway after ruling it poses an imminent and irreversible threat to the rights of a critically enda...",
+      "link": "https://insideclimatenews.org/news/07012026/endangered-jambato-toad-wins-against-ecuador-highway-construction/",
+      "pubDate": "Wed, 07 Jan 2026 16:05:06 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The LA wildfire victims still living in toxic homes: ‘We have nowhere else to go’",
       "description": "&lt;p&gt;A year after the Eaton fire, residents returning to Altadena confront lingering contamination and little official clarity&lt;/p&gt;&lt;p&gt;O...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/AWC-logo.png"
-    },
-    {
-      "title": "IAG Research Flags Safety Gap Amid Surge in Battery-Powered Devices",
-      "description": "As lithium-ion devices including e-scooters, e-bikes and portable power banks become a staple in Australian homes, safety experts are warning of growi...",
-      "link": "https://econews.com.au/iag-research-flags-safety-gap-amid-surge-in-battery-powered-devices/",
-      "pubDate": "Tue, 06 Jan 2026 10:00:32 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
