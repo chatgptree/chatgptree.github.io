@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-07T08:41:13.062Z",
+  "lastUpdated": "2026-01-07T09:36:00.611Z",
   "articles": [
+    {
+      "title": "Texas clears the way for petrochemical expansion as experts warn of health risks",
+      "description": "Public Health Watch chronicles a fossil-fuel infrastructure boom that could worsen air pollution in some areas and exacerbate climate change....",
+      "link": "https://grist.org/energy/texas-clears-the-way-for-petrochemical-expansion-as-experts-warn-of-health-risks/",
+      "pubDate": "Wed, 07 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/PHW-StoryMap-1.png?quality=75&amp;strip=all"
+    },
     {
       "title": "EcoCeres Earns China’s SAF Export “White List” Recognition and Airworthiness Certificate, Strengthening Global Market Access and Safety Credentials",
       "description": "EcoCeres Inc., a leading pure-play renewable fuels producer, announced that its wholly-owned subsidiary, ECO Biochemical Technology (Zhangjiagang) Com...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/Karen-ANFF-lab-Flinders-1024x715.jpg"
-    },
-    {
-      "title": "How Trump Derailed a NOAA Pioneer’s Move From Climate Impacts to Solutions",
-      "description": "After spending the first 16 years of her federal government career focused on the impacts of climate change, Libby Jewett hoped to wrap up her time at...",
-      "link": "https://insideclimatenews.org/news/06012026/trump-federal-layoffs-derailed-noaa-scientists-climate-solutions/",
-      "pubDate": "Tue, 06 Jan 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
