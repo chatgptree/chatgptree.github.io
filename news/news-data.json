@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-08T20:33:43.051Z",
+  "lastUpdated": "2026-01-08T21:29:47.887Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "What rare earths have been found in Greenland, and why do we want them?...",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Jan 2026 21:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Outcry Builds Over Trump’s Withdrawal From International, Climate Treaties",
+      "description": "It landed as one fell swoop after a year of relentless cuts to U.S. climate programs, personnel and policy. President Donald Trump announced Wednesday...",
+      "link": "https://insideclimatenews.org/news/08012026/trump-international-climate-treaties-withdrawal/",
+      "pubDate": "Thu, 08 Jan 2026 20:37:59 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘They are going after everything rural’: inheritance tax U-turn does little to dampen farmers’ anger at Labour",
       "description": "&lt;p&gt;At the Oxford farming conference there were signs the government has much to do to win back farmers’ trust&lt;/p&gt;&lt;p&gt;Few symbols were...",
@@ -9,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7e4fe094ba5869c7dca50613e0a6e25319bfc8ee/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=13f49a6c44d2f7cfa6f08708a7d3dce7"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "What rare earths have been found in Greenland, and why do we want them?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Jan 2026 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Trump just took his most dramatic step yet against global climate action",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c119a90613cadb124657242a5f9a072a2360aa46/0_1_1181_945/master/1181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b89d1076a6c62a13d8a35c8bd29907c"
-    },
-    {
-      "title": "Virginia Regulators Approve New Dominion Rates, Assign More Costs to Data Centers",
-      "description": "RICHMOND, Va.—The State Corporation Commission in November approved a new Dominion Energy rate increase for 2026 that will add $16 a month to the typi...",
-      "link": "https://insideclimatenews.org/news/07012026/virginia-regulators-approve-new-dominion-rates/",
-      "pubDate": "Wed, 07 Jan 2026 23:16:59 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
