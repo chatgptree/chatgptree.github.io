@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-08T07:31:57.670Z",
+  "lastUpdated": "2026-01-08T08:40:47.430Z",
   "articles": [
+    {
+      "title": "Trump withdraws US from key climate treaty and dozens of other groups",
+      "description": "The White House says the decision was taken because those entities \"no longer serve American interests\"....",
+      "link": "https://www.bbc.com/news/articles/cp80ln97py5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Jan 2026 06:48:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Shifting offshore sandbanks pose unique navigation hazard",
       "description": "&lt;p&gt;Sandbanks can shift position during winter storms, but sonar mapping means charts can now be updated immediately &lt;/p&gt;&lt;p&gt;Offshore ...",
@@ -21,7 +30,7 @@
     },
     {
       "title": "Dog food accounts for 1% of UK greenhouse gas emissions, study finds",
-      "description": "&lt;p&gt;Study of 1,000 products finds wet, raw and meat-free foods have substantially higher climate impact than dry kibble&lt;/p&gt;&lt;p&gt;Dog foo...",
+      "description": "&lt;p&gt;Study of 1,000 products finds wet, raw and meat-rich products have higher climate impact than dry kibble&lt;/p&gt;&lt;p&gt;Dog food accounts ...",
       "link": "https://www.theguardian.com/lifeandstyle/2026/jan/08/dog-food-accounts-for-1-of-uk-greenhouse-gas-emissions-study-finds",
       "pubDate": "Thu, 08 Jan 2026 06:00:02 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-63-1024x257.jpg"
-    },
-    {
-      "title": "Thermal drone monitoring a promising way to monitor dolphin health",
-      "description": "Drone-based thermal imaging was used in this study to measure dolphin surface temperature and respiration rates. Photo: Dr Guido J. Parra/CEBEL Austra...",
-      "link": "https://econews.com.au/thermal-drone-monitoring-a-promising-way-to-monitor-dolphin-health/",
-      "pubDate": "Wed, 07 Jan 2026 06:00:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Flinders-Uni-logo.png"
     }
   ]
 }
