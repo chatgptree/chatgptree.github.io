@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-09T20:33:12.617Z",
+  "lastUpdated": "2026-01-09T21:28:29.351Z",
   "articles": [
+    {
+      "title": "Burning Plastic Waste for Household Fuel Endangers Millions",
+      "description": "Several global trends are colliding with disastrous consequences for health and the environment, new research warns. Plastic production has skyrockete...",
+      "link": "https://insideclimatenews.org/news/09012026/plastic-waste-fuel-endangers-millions-in-global-south/",
+      "pubDate": "Fri, 09 Jan 2026 20:35:03 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
       "description": "The first crewed Moon mission in 50 years could launch in February, preparing the way for a future landing....",
@@ -21,7 +30,7 @@
     },
     {
       "title": "Mobile homes already have huge utility bills. Congress may make it worse.",
-      "description": "With latest vote, legislators may end up making mobile homes even less energy efficient....",
+      "description": "With their latest vote, legislators may end up making mobile homes even less energy-efficient....",
       "link": "https://grist.org/energy/mobile-homes-already-have-huge-utility-bills-congress-may-make-it-worse/",
       "pubDate": "Fri, 09 Jan 2026 17:20:59 +0000",
       "sourceName": "grist.org",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Solar hydrogen can now be produced efficiently without the scarce metal platinum",
-      "description": "A green advance &#124; A research breakthrough opens up for efficient hydrogen production from solar energy – without using the scarce metal platinum....",
-      "link": "https://econews.com.au/solar-hydrogen-can-now-be-produced-efficiently-without-the-scarce-metal-platinum/",
-      "pubDate": "Fri, 09 Jan 2026 04:00:31 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-66.jpg"
     }
   ]
 }
