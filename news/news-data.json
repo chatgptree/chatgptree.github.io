@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-09T07:33:00.073Z",
+  "lastUpdated": "2026-01-09T08:40:49.375Z",
   "articles": [
+    {
+      "title": "‘Profound impacts’: record ocean heat is intensifying climate disasters, data shows",
+      "description": "&lt;p&gt;Oceans absorb 90% of global heating, making them a stark indicator of the relentless march of the climate crisis&lt;/p&gt;&lt;p&gt;The world’...",
+      "link": "https://www.theguardian.com/environment/2026/jan/09/profound-impacts-record-ocean-heat-intensifying-climate-disasters",
+      "pubDate": "Fri, 09 Jan 2026 08:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/da508f46950c1510b53ff5cb3b5841ed2fdb83c7/1386_0_6935_5548/master/6935.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59e27b3178589ffe361fe540a2199e58"
+    },
+    {
+      "title": "Week in wildlife: rare gorilla twins, racing camels and a psychedelic spider",
+      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jan/09...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/jan/09/week-in-wildlife-rare-gorilla-twins-racing-camels-and-a-psychedelic-spider",
+      "pubDate": "Fri, 09 Jan 2026 08:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9ed0e6f9484cfa31213278ba689361ff4756592e/0_787_1800_1439/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f2fd26773fd295546b774b20d3489e2"
+    },
     {
       "title": "Why is Trump interested in Greenland? Look to the thawing Arctic ice | Gaby Hinsliff",
       "description": "&lt;p&gt;Forecasts suggest that global heating could create a shortcut from Asia to North America, and new routes for trading, shipping – and attack&l...",
@@ -61,6 +79,15 @@
       "link": "https://insideclimatenews.org/news/08012026/top-climate-scientists-react-to-trump-treaty-withdrawals/",
       "pubDate": "Fri, 09 Jan 2026 00:06:15 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Astronaut's 'serious medical condition' forces Nasa to end space station mission early",
+      "description": "It is the first time in Nasa's over-65 year history that a mission will return early due to a health issue. ...",
+      "link": "https://www.bbc.com/news/articles/cd9e2y7nkv8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Jan 2026 23:47:50 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nasa considers whether to bring sick crew member back to Earth",
-      "description": "Nasa is assessing what to do next following a medical issue on board the International Space Station....",
-      "link": "https://www.bbc.com/news/articles/cx2l9perw68o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Jan 2026 13:09:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US national parks staff say new $100 fee for non-residents risks ‘alienating visitors for decades’",
-      "description": "&lt;p&gt;Advocates suing to reverse administration’s surcharge system that has led to passport checks and angry visitors&lt;/p&gt;&lt;p&gt;A new $100 ...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/08/trump-national-parks-international-visitor-fee",
-      "pubDate": "Thu, 08 Jan 2026 12:30:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff20e728b93040a6377085e481a53bcdcb4660f7/605_0_3822_3059/master/3822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a96040a847d1bd19d1ca3ea8d9f92403"
-    },
-    {
-      "title": "Dense, sticky and heavy: why Venezuela’s oil is valuable to Trump – video explainer",
-      "description": "&lt;p&gt;The Venezuelan oil industry is ‘a total bust’ according to Donald Trump, something he has promised to ‘fix’ after attacking Caracas and &lt;a...",
-      "link": "https://www.theguardian.com/world/video/2026/jan/08/why-venezuela-oil-valuable-trump-video-explainer",
-      "pubDate": "Thu, 08 Jan 2026 12:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/87306672106afc78a0db3b853371a2d7030280c9/156_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3110f9b2c1b5a6cfe4fe2eecf8c5fbbd"
     }
   ]
 }
