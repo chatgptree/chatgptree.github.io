@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-12T22:26:51.031Z",
+  "lastUpdated": "2026-01-12T23:23:33.389Z",
   "articles": [
+    {
+      "title": "US judge lets Danish firm resume Rhode Island offshore wind project halted by Trump",
+      "description": "&lt;p&gt;Ørsted and other wind developers have faced repeated disruptions to multibillion dollar projects under Trump&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/business/2026/jan/12/orsted-rhode-island-wind-project-trump",
+      "pubDate": "Mon, 12 Jan 2026 22:29:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/578ff0e63cc8d2a55356887e13eed81d88682eac/446_0_4312_3449/master/4312.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73d1411818da1b289374b417e777aa0c"
+    },
     {
       "title": "Are Declining Stocking Rates Underexplored By Scientists?",
       "description": "If you stood in front of a map of the world, subtracted its oceans and threw a dart, you would have about a one-in-four chance of hitting land humans ...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/10012026/restoring-the-american-prairie/",
       "pubDate": "Sat, 10 Jan 2026 09:50:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, preparing the way for a future landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 19:52:26 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
