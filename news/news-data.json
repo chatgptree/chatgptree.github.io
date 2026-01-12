@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-12T09:40:47.003Z",
+  "lastUpdated": "2026-01-12T10:35:00.173Z",
   "articles": [
+    {
+      "title": "‘I Am the River’: How Indigenous Knowledge Reshaped New Zealand’s Law",
+      "description": "Ned Tapa has spent his life along New Zealand’s Whanganui River. For Tapa, a Māori leader, the river is not a resource to be managed or a commodity to...",
+      "link": "https://insideclimatenews.org/news/12012026/indigenous-knowledge-helped-whanganui-river-rights/",
+      "pubDate": "Mon, 12 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "One Family’s Battle With Trenton’s Lead Legacy",
+      "description": "TRENTON, N.J.—Amber DeLoney-Stewart brought her 2-year-old, Valencia, to the doctor’s office for an annual checkup in early September. Valencia was a ...",
+      "link": "https://insideclimatenews.org/news/12012026/one-familys-battle-with-trentons-lead-legacy/",
+      "pubDate": "Mon, 12 Jan 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Energy and health optimism help lift civil service morale under Labour",
       "description": "&lt;p&gt;Foreign Office and MoD among only four departments with declining morale in annual Whitehall monitor report &lt;/p&gt;&lt;p&gt;Civil service ...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e104a6848fadbe2b63ff91f83d877d3752777868/706_0_4568_3656/master/4568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e33e5666bbace7716c2e11e5a3ed801b"
-    },
-    {
-      "title": "Mobile homes already have huge utility bills. Congress may make it worse.",
-      "description": "With their latest vote, legislators may end up making mobile homes even less energy-efficient....",
-      "link": "https://grist.org/energy/mobile-homes-already-have-huge-utility-bills-congress-may-make-it-worse/",
-      "pubDate": "Fri, 09 Jan 2026 17:20:59 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/climate-action-policies-public-response-bans-1.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Ocean Warming Breaks Record for Ninth Straight Year",
-      "description": "Every second of last year, the Earth’s oceans absorbed the equivalent in energy to 12 Hiroshima-sized atomic bombs.&#160; Global ocean heat content (O...",
-      "link": "https://insideclimatenews.org/news/09012026/ocean-warming-breaks-record-for-ninth-straight-year/",
-      "pubDate": "Fri, 09 Jan 2026 16:54:50 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
