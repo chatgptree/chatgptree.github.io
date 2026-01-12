@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T07:34:56.829Z",
+  "lastUpdated": "2026-01-12T08:43:51.507Z",
   "articles": [
     {
       "title": "Energy and health optimism help lift civil service morale under Labour",
@@ -20,6 +20,15 @@
       "image": "https://i.guim.co.uk/img/media/fdf4f13cd0651cd59924f561414a4ea8968ed695/616_409_1004_804/master/1004.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46f9404b1fe4959b5559b4546a5bcf0a"
     },
     {
+      "title": "Huge Roman villa found under popular park dubbed town's 'Pompeii'",
+      "description": "The largest Roman villa ever found in Wales lies less than a metre under Margam Country Park....",
+      "link": "https://www.bbc.com/news/articles/cgk8j1gkxelo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 12 Jan 2026 06:13:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "‘We want people to sit, pause, relax’: National Trust to open its libraries for public use",
       "description": "&lt;p&gt;Charity plans to make stately homes more welcoming by inviting visitors to use furniture and reading rooms&lt;/p&gt;&lt;p&gt;There was a time...",
       "link": "https://www.theguardian.com/uk-news/2026/jan/12/we-want-people-to-sit-pause-relax-national-trust-to-open-its-libraries-for-public-use",
@@ -27,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6c54afecce03a2c776c7129b8bee6d55766bd4a4/465_0_4645_3716/master/4645.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f4a03e02c56fba0096f6c7077462574"
+    },
+    {
+      "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "description": "Experts say dwindling snowfall during winter will impact the lives and livelihoods of millions....",
+      "link": "https://www.bbc.com/news/articles/clyndv7zd20o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 12 Jan 2026 00:38:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Queensland braces for heavy rain and floods after ex-Tropical Cyclone Koji batters north",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As the Trump Administration Withdraws From Climate Treaties, Legal Scholars Debate Whether—and How—It Can Do So",
-      "description": "After the Trump administration announced late Wednesday that it would withdraw from the foundational agreement underpinning the international effort t...",
-      "link": "https://insideclimatenews.org/news/09012026/as-the-trump-administration-withdraws-from-climate-treaties-legal-scholars-debate-whether-and-how-it-can-do-so/",
-      "pubDate": "Fri, 09 Jan 2026 14:52:43 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Some want to ban geoengineering research. This would be a catastrophic mistake for our planet | Craig Segall and Baroness Bryony Worthington",
-      "description": "&lt;p&gt;We’ve already geoengineered the planet through the careless release of greenhouse gases. Now we need a plan to manage the risks we’ve set in ...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/09/geoengineering-research-greenhouse-gases-plan",
-      "pubDate": "Fri, 09 Jan 2026 11:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1dff1c97acf593753b1b8873acfa5d48f9ba5f6f/162_0_4836_3870/master/4836.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94e9c4616a57ad3b3fdec1cb11a29995"
     }
   ]
 }
