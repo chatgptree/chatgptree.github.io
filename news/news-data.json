@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-12T11:28:10.730Z",
+  "lastUpdated": "2026-01-12T13:04:19.000Z",
   "articles": [
+    {
+      "title": "Trump’s move to pull US from key UN climate treaty may be illegal, experts say",
+      "description": "&lt;p&gt;President’s memo stating US ‘shall withdraw’ from UNFCCC marks first time any country has tried to exit the agreement&lt;/p&gt;&lt;p&gt;The &...",
+      "link": "https://www.theguardian.com/us-news/2026/jan/12/trump-un-climate-treaty-unfccc",
+      "pubDate": "Mon, 12 Jan 2026 12:30:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/635db193737a1a92708152706b2976acbe30373d/358_0_3583_2867/master/3583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34eea8877428e31162117b9c1a0085db"
+    },
     {
       "title": "‘I Am the River’: How Indigenous Knowledge Reshaped New Zealand’s Law",
       "description": "Ned Tapa has spent his life along New Zealand’s Whanganui River. For Tapa, a Māori leader, the river is not a resource to be managed or a commodity to...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California is completely drought-free for the first time in 25 years",
-      "description": "&lt;p&gt;Some wet years and recent winter storms have helped bring the state out of drought after years of insufficient rainfall&lt;/p&gt;&lt;p&gt;&lt...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/09/california-completely-drought-free",
-      "pubDate": "Fri, 09 Jan 2026 19:15:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e104a6848fadbe2b63ff91f83d877d3752777868/706_0_4568_3656/master/4568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e33e5666bbace7716c2e11e5a3ed801b"
     }
   ]
 }
