@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-13T22:30:50.091Z",
+  "lastUpdated": "2026-01-13T23:26:33.207Z",
   "articles": [
+    {
+      "title": "How Does Nature Contribute to the Economy? These Environmental Accountants Are Trying to Find Out",
+      "description": "In an era of rapid globalization, economic growth has come with trade-offs. To make room for urban development or fossil fuel extraction, countries of...",
+      "link": "https://insideclimatenews.org/news/13012026/todays-climate-natural-capital-accounting-economy/",
+      "pubDate": "Tue, 13 Jan 2026 22:37:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "US carbon pollution rose in 2025 in reversal of previous years’ reductions",
       "description": "&lt;p&gt;Study from research firm finds that US greenhouse gas emissions grew faster than economic activity last year&lt;/p&gt;&lt;p&gt;In a reversal ...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "From Space to Earth: LYNRED launches an eSWIR sensor to better measure critical resources and climate signals",
-      "description": "Presented at SPIE Photonics West 2026 (20–22 January, booth 1866), Sirocco SW brings Space-grade spectroscopy to mining, agriculture and environmental...",
-      "link": "https://econews.com.au/from-space-to-earth-lynred-launches-an-eswir-sensor-to-better-measure-critical-resources-and-climate-signals/",
-      "pubDate": "Tue, 13 Jan 2026 04:00:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-63-1024x801.png"
     }
   ]
 }
