@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-13T09:36:03.587Z",
+  "lastUpdated": "2026-01-13T10:33:41.446Z",
   "articles": [
+    {
+      "title": "Cold weather and data centres drive up US greenhouse gas emissions",
+      "description": "US emissions of planet-warming gases rise for the first time in three years....",
+      "link": "https://www.bbc.com/news/articles/cj9r3832j47o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 13 Jan 2026 10:01:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A major agreement to protect the Amazon is falling apart after 20 years",
+      "description": "Amid changing political headwinds, the moratorium on soy-driven deforestation is in danger. What now?...",
+      "link": "https://grist.org/business/a-major-agreement-to-protect-the-amazon-is-falling-apart-after-20-years/",
+      "pubDate": "Tue, 13 Jan 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/GettyImages-542630366.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "After one year of Trump, is anything left of the American Climate Corps?",
       "description": "The federal program shut down, but a handful of state efforts are carrying on — with a lower profile....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/635db193737a1a92708152706b2976acbe30373d/358_0_3583_2867/master/3583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34eea8877428e31162117b9c1a0085db"
-    },
-    {
-      "title": "‘I Am the River’: How Indigenous Knowledge Reshaped New Zealand’s Law",
-      "description": "Ned Tapa has spent his life along New Zealand’s Whanganui River. For Tapa, a Māori leader, the river is not a resource to be managed or a commodity to...",
-      "link": "https://insideclimatenews.org/news/12012026/indigenous-knowledge-helped-whanganui-river-rights/",
-      "pubDate": "Mon, 12 Jan 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "One Family’s Battle With Trenton’s Lead Legacy",
-      "description": "TRENTON, N.J.—Amber DeLoney-Stewart brought her 2-year-old, Valencia, to the doctor’s office for an annual checkup in early September. Valencia was a ...",
-      "link": "https://insideclimatenews.org/news/12012026/one-familys-battle-with-trentons-lead-legacy/",
-      "pubDate": "Mon, 12 Jan 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
