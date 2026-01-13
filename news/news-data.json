@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T07:32:04.996Z",
+  "lastUpdated": "2026-01-13T08:41:14.649Z",
   "articles": [
     {
       "title": "Search for single-tusked elephant after 22 killed in India rampage",
@@ -9,6 +9,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8bbf1933b924de711742f9be80c09f87e6523ad8/197_0_3712_2970/master/3712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f4bf12b49e1a8e078370aa3f8eb6be5"
+    },
+    {
+      "title": "'I wake up at night in fear of losing my home'",
+      "description": "A fourth home in the village is being demolished due to the eroding coastline. ...",
+      "link": "https://www.bbc.com/news/articles/c20gxgd8dj3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 13 Jan 2026 06:21:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Once in a lifetime Koala sighting at family-owned wildlife sanctuary",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s EPA could limit its own ability to use new science to strengthen air pollution rules",
-      "description": "In government records that have flown under the radar, the EPA is questioning its legal authority to revise pollution rules more than once when new sc...",
-      "link": "https://grist.org/accountability/trumps-epa-could-limit-its-own-ability-to-use-new-science-to-strengthen-air-pollution-rules/",
-      "pubDate": "Sun, 11 Jan 2026 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/4-14-25-Cardinal-Health-Warehouse-Photos-IPA-965.jpg?quality=75&#038;strip=all"
     }
   ]
 }
