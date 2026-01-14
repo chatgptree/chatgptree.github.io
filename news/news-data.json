@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-14T09:36:58.347Z",
+  "lastUpdated": "2026-01-14T10:34:36.348Z",
   "articles": [
     {
-      "title": "UK secures record supply of offshore wind projects",
-      "description": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets....",
-      "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Jan 2026 09:10:24 GMT",
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "description": "The first crewed Moon mission in 50 years could launch in February, preparing the way for a future landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 14 Jan 2026 10:13:37 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,10 +14,37 @@
       "title": "UK secures record supply of offshore wind projects",
       "description": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets....",
       "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Jan 2026 09:10:24 GMT",
+      "pubDate": "Wed, 14 Jan 2026 10:03:36 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK secures record supply of offshore wind projects",
+      "description": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets....",
+      "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 14 Jan 2026 10:03:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why almost none of the homes burned in LA have been rebuilt since last year’s fires",
+      "description": "The wildfires destroyed 13,000 homes. In Los Angeles County, just seven have been rebuilt.\n...",
+      "link": "https://grist.org/housing/la-homes-not-rebuilt-after-last-years-wildfires/",
+      "pubDate": "Wed, 14 Jan 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/billion-dollar-climate-disasters-united-states-us-2025.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "With this record wind power auction, we’ve proved the rightwing doubters wrong | Ed Miliband",
+      "description": "&lt;p&gt;The only way that Britain’s energy bills can come down is if we are no longer reliant on fossil fuels. Today marks a big step towards that go...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/14/record-wind-power-auction-rightwing-doubters-britain-energy-fossil-fuels-ed-miliband",
+      "pubDate": "Wed, 14 Jan 2026 09:30:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9e39900a5fcd887d3781c5164c5dbb2a87d64232/43_0_4213_3371/master/4213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b2a44ef97df8c40d89de1efd52e411"
     },
     {
       "title": "Offshore windfarm contracts to fuel 12m homes in Great Britain after record auction",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/climate-corps-map.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "States say they need more help replacing lead pipes. Congress may cut the funding instead.",
-      "description": "The U.S. House voted to cut millions promised for the work this year. The Senate will vote this week, as advocates and some lawmakers push back....",
-      "link": "https://grist.org/politics/states-say-they-need-more-help-replacing-lead-pipes-congress-may-cut-the-funding-instead/",
-      "pubDate": "Tue, 13 Jan 2026 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'I wake up at night in fear of losing my home'",
-      "description": "A fourth home in the village is being demolished due to the eroding coastline. ...",
-      "link": "https://www.bbc.com/news/articles/c20gxgd8dj3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 13 Jan 2026 06:21:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Once in a lifetime Koala sighting at family-owned wildlife sanctuary",
-      "description": "A Koala found on Wandiyali sanctuary. © David Larcombe Conservationists at a wildlife sanctuary on the outskirts of Canberra are celebrating a rare vi...",
-      "link": "https://econews.com.au/once-in-a-lifetime-koala-sighting-at-family-owned-wildlife-sanctuary/",
-      "pubDate": "Tue, 13 Jan 2026 05:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/AWC-logo.png"
     }
   ]
 }
