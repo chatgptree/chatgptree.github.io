@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-14T08:40:45.232Z",
+  "lastUpdated": "2026-01-14T09:36:58.347Z",
   "articles": [
     {
       "title": "UK secures record supply of offshore wind projects",
       "description": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets....",
       "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Jan 2026 08:14:15 GMT",
+      "pubDate": "Wed, 14 Jan 2026 09:10:24 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,19 +14,28 @@
       "title": "UK secures record supply of offshore wind projects",
       "description": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets....",
       "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Jan 2026 08:14:15 GMT",
+      "pubDate": "Wed, 14 Jan 2026 09:10:24 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
       "title": "Offshore windfarm contracts to fuel 12m homes in Great Britain after record auction",
-      "description": "&lt;p&gt;Subsidies guaranteeing price for each unit of clean electricity generated given to 12 renewables projects&lt;/p&gt;&lt;p&gt;A make-or-break a...",
+      "description": "&lt;p&gt;Subsidies guaranteeing price for each unit of clean electricity generated given to 12 renewables projects&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&...",
       "link": "https://www.theguardian.com/environment/2026/jan/14/offshore-windfarm-contracts-to-fuel-homes-great-britain-record-auction",
       "pubDate": "Wed, 14 Jan 2026 07:25:33 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d7bfcaf2e88dfadc29df99a99adb89dd45eef7b7/87_0_4606_3685/master/4606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=620be05d350dc68e87f74cfae77e0fc9"
+    },
+    {
+      "title": "Global temperatures dipped in 2025 but more heat records on way, scientists warn",
+      "description": "The last three years were Earth's hottest on record, as humanity's carbon emissions continue to heat the planet....",
+      "link": "https://www.bbc.com/news/articles/c5y5p9rzd4ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 14 Jan 2026 03:44:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Human activity helped make 2025 third-hottest year on record, experts say",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/AWC-logo.png"
-    },
-    {
-      "title": "Households installing home batteries at record pace ahead of major changes to rebate",
-      "description": "A leading energy solutions provider says households are more motivated than ever to install larger home battery systems as the federal government make...",
-      "link": "https://econews.com.au/households-installing-home-batteries-at-record-pace-ahead-of-major-changes-to-rebate/",
-      "pubDate": "Tue, 13 Jan 2026 05:04:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
