@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-01-14T17:34:53.103Z",
+  "lastUpdated": "2026-01-14T18:45:20.256Z",
   "articles": [
+    {
+      "title": "I’ve been thinking a lot about dog poo | Adrian Chiles",
+      "description": "&lt;p&gt;There was a time when nobody picked up after their dogs – and it would have been considered disgusting to do so. What caused the change in at...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/14/ive-been-thinking-a-lot-about-dog-poo",
+      "pubDate": "Wed, 14 Jan 2026 17:52:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ab162c819693fc723597da47e0ff8a42376ce40d/16_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7080ded07daba02bb45ba8b4c288a505"
+    },
+    {
+      "title": "EPA to stop calculating money and lives saved by curbs on air pollution",
+      "description": "&lt;p&gt;Agency to focus rules for fine particulate matter and ozone only on cost to industry, aligning with Trump approach&lt;/p&gt;&lt;p&gt;The Envi...",
+      "link": "https://www.theguardian.com/us-news/2026/jan/14/epa-air-pollution-cost-savings-deaths",
+      "pubDate": "Wed, 14 Jan 2026 17:46:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d3fc9d3f97f7e649b8f87f167b5eb9a1fdedc7d8/158_0_4729_3783/master/4729.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=117275313c58a26b5f4e9037f8b664b7"
+    },
     {
       "title": "South East Water could lose operating licence after outages in Kent and Sussex",
       "description": "&lt;p&gt;Fine of 10% of annual turnover among other potential penalties as environment secretary calls for Ofwat review&lt;/p&gt;&lt;p&gt;South East W...",
       "link": "https://www.theguardian.com/business/2026/jan/14/south-east-water-operating-licence-ofwat-review-outages-kent-sussex",
-      "pubDate": "Wed, 14 Jan 2026 17:21:54 GMT",
+      "pubDate": "Wed, 14 Jan 2026 17:41:58 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/048131667d6bfaaa0290411bbd48d702620998d7/325_0_4635_3708/master/4635.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=735ed6de70eaf584c3689786d05b5144"
+    },
+    {
+      "title": "These Finnish homes are being heated by a surprising source: Bitcoin",
+      "description": "Can the reuse of crypto mining’s waste heat redeem its carbon footprint?...",
+      "link": "https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/",
+      "pubDate": "Wed, 14 Jan 2026 17:37:06 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2021/05/Bitcoin.gif?quality=75&#038;strip=all"
     },
     {
       "title": "Labour still faces risks on energy despite ‘record’ wind power auction | Nils Pratley",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e898455d44d7c18c80d4d992dabae49ee0278c90/3198_1870_2663_2130/master/2663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e976b5cb23ca2b6bc14f1423e77e4fef"
-    },
-    {
-      "title": "Red-state Republicans seek climate ‘liability shield’ for fossil fuel industry",
-      "description": "&lt;p&gt;If enacted, Utah and Oklahoma measures would restrict litigation against oil companies over role in climate crisis&lt;/p&gt;&lt;p&gt;US lawma...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/13/republicans-climate-liability-shield-fossil-fuel-industry",
-      "pubDate": "Tue, 13 Jan 2026 12:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/945d3d681d2caf86b64e42710b378a07cb80b253/540_160_3126_2502/master/3126.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3144ad0676d38d7fdc044cf6dd50d55"
-    },
-    {
-      "title": "Ex-FDA workers warn Trump cuts will increase risk of food safety lapses in US",
-      "description": "&lt;p&gt;Current and former workers caution administration’s ‘politicization of science’ will negatively affect Americans &lt;/p&gt;&lt;p&gt;Sweeping ...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/13/fda-employees-food-safety-warning",
-      "pubDate": "Tue, 13 Jan 2026 12:00:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/87d252b4b415e0c6456b49c7d80f0a0390562745/555_0_5528_4425/master/5528.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f29d935f99fae363630da478a4360c1"
-    },
-    {
-      "title": "Cold weather and data centres drive up US greenhouse gas emissions",
-      "description": "US emissions of planet-warming gases rise for the first time in three years....",
-      "link": "https://www.bbc.com/news/articles/cj9r3832j47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 13 Jan 2026 11:40:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
