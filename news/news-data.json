@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-14T06:49:02.956Z",
+  "lastUpdated": "2026-01-14T07:33:17.430Z",
   "articles": [
+    {
+      "title": "UK secures record supply of offshore wind",
+      "description": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets....",
+      "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 14 Jan 2026 07:28:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Offshore windfarm contracts to fuel 12m homes in Great Britain after record auction",
+      "description": "&lt;p&gt;Subsidies guaranteeing price for each unit of clean electricity generated given to 12 renewables projects&lt;/p&gt;&lt;p&gt;A make-or-break a...",
+      "link": "https://www.theguardian.com/environment/2026/jan/14/offshore-windfarm-contracts-to-fuel-homes-great-britain-record-auction",
+      "pubDate": "Wed, 14 Jan 2026 07:25:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d7bfcaf2e88dfadc29df99a99adb89dd45eef7b7/87_0_4606_3685/master/4606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=620be05d350dc68e87f74cfae77e0fc9"
+    },
     {
       "title": "Human activity helped make 2025 third-hottest year on record, experts say",
       "description": "&lt;p&gt;Data leads scientists to declare 2015 Paris agreement to keep global heating below 1.5C  ‘dead in the water’&lt;/p&gt;&lt;p&gt;Last year was ...",
@@ -128,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Search for single-tusked elephant after 22 killed in India rampage",
-      "description": "&lt;p&gt;Eastern region on high alert as authorities try to track animal tearing through villages in Jharkhand after apparently becoming separated fro...",
-      "link": "https://www.theguardian.com/world/2026/jan/13/search-elephant-people-killed-india-jharkand",
-      "pubDate": "Tue, 13 Jan 2026 07:07:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8bbf1933b924de711742f9be80c09f87e6523ad8/197_0_3712_2970/master/3712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f4bf12b49e1a8e078370aa3f8eb6be5"
-    },
-    {
       "title": "'I wake up at night in fear of losing my home'",
       "description": "A fourth home in the village is being demolished due to the eroding coastline. ...",
       "link": "https://www.bbc.com/news/articles/c20gxgd8dj3o?at_medium=RSS&amp;at_campaign=rss",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Monash-Uni-logo.png"
-    },
-    {
-      "title": "He invented mini saunas for frogs – now this biologist has big plans to save hundreds of species",
-      "description": "&lt;p&gt;A deadly fungus has already wiped out 90 species and threatens 500 more but Anthony Waddle is hoping gene replacement could be their salvatio...",
-      "link": "https://www.theguardian.com/environment/2026/jan/13/save-endangered-frogs-genes-chytrid-fungus-anthony-waddle-aoe",
-      "pubDate": "Tue, 13 Jan 2026 05:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ffec126a4d62da9aa23527f762cb1bbb225e7f89/603_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b86cdebf8ce040814a35025ce2ec5cf"
     }
   ]
 }
