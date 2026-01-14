@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T10:34:36.348Z",
+  "lastUpdated": "2026-01-14T11:28:56.967Z",
   "articles": [
     {
       "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
@@ -29,6 +29,24 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Wyoming County Approves Construction of What Could Become the Largest Data Center in US",
+      "description": "Wyoming is poised to become an artificial-intelligence powerhouse after Laramie County commissioners last week unanimously voted to move forward with ...",
+      "link": "https://insideclimatenews.org/news/14012026/wyoming-county-approves-ai-data-center/",
+      "pubDate": "Wed, 14 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New EPA Proposal Would Strip States’ and Tribes’ Authority to Block Oil and Gas Pipelines, Other Infrastructure Projects",
+      "description": "The Trump Administration on Tuesday proposed a new rule aimed at speeding up and streamlining the permitting process for large energy and infrastructu...",
+      "link": "https://insideclimatenews.org/news/14012026/epa-proposal-streamlines-oil-gas-infrastructure-approval/",
+      "pubDate": "Wed, 14 Jan 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Why almost none of the homes burned in LA have been rebuilt since last year’s fires",
       "description": "The wildfires destroyed 13,000 homes. In Los Angeles County, just seven have been rebuilt.\n...",
       "link": "https://grist.org/housing/la-homes-not-rebuilt-after-last-years-wildfires/",
@@ -48,7 +66,7 @@
     },
     {
       "title": "Offshore windfarm contracts to fuel 12m homes in Great Britain after record auction",
-      "description": "&lt;p&gt;Subsidies guaranteeing price for each unit of clean electricity generated given to 12 renewables projects&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&...",
+      "description": "&lt;p&gt;Subsidies awarded to eight new projects after ministers increased funding available to developers&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a...",
       "link": "https://www.theguardian.com/environment/2026/jan/14/offshore-windfarm-contracts-to-fuel-homes-great-britain-record-auction",
       "pubDate": "Wed, 14 Jan 2026 07:25:33 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A major agreement to protect the Amazon is falling apart after 20 years",
-      "description": "Amid changing political headwinds, the moratorium on soy-driven deforestation is in danger. What now?...",
-      "link": "https://grist.org/business/a-major-agreement-to-protect-the-amazon-is-falling-apart-after-20-years/",
-      "pubDate": "Tue, 13 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/GettyImages-542630366.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "After one year of Trump, is anything left of the American Climate Corps?",
-      "description": "The federal program shut down, but a handful of state efforts are carrying on — with a lower profile....",
-      "link": "https://grist.org/labor/trump-left-american-climate-corps-california-washington/",
-      "pubDate": "Tue, 13 Jan 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/climate-corps-map.jpg?quality=75&amp;strip=all"
     }
   ]
 }
