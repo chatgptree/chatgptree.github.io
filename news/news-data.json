@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-15T16:45:57.879Z",
+  "lastUpdated": "2026-01-15T17:39:49.677Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Nasa’s Artemis II rocket is about to be rolled out. What is the mission hoping to achieve?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txv?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Talking About Energy Dominance? Solar Would Like to Have a Word.",
       "description": "There’s a lot happening right now in U.S. energy and policy and it’s easy to lose track of the larger picture. I’m going to ask you to turn your atten...",
@@ -30,7 +39,7 @@
     },
     {
       "title": "Spain’s meteorologists subjected to ‘alarming’ rise in hate speech, minister warns",
-      "description": "&lt;p&gt;Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work&lt;/p&gt;&lt;ul&gt;&lt;li...",
+      "description": "&lt;p&gt;Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work&lt;/p&gt;&lt;p&gt;&lt;/p&...",
       "link": "https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns",
       "pubDate": "Thu, 15 Jan 2026 13:01:41 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2021/05/Bitcoin.gif?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Labour still faces risks on energy despite ‘record’ wind power auction | Nils Pratley",
-      "description": "&lt;p&gt;Government hails step towards clean power in Great Britain by 2030 – but the auction shows trade-offs are now needed&lt;/p&gt;&lt;ul&gt;&lt;l...",
-      "link": "https://www.theguardian.com/business/2026/jan/14/labour-wind-power-risks-clean-power-great-britain",
-      "pubDate": "Wed, 14 Jan 2026 16:44:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ae194759ab246c9f9d80ac7ec6209888b31dd133/150_0_4639_3710/master/4639.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53a7078349c5b4d2f5d71b961934af12"
     }
   ]
 }
