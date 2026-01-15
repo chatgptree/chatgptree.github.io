@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-14T23:24:48.230Z",
+  "lastUpdated": "2026-01-15T02:22:06.783Z",
   "articles": [
+    {
+      "title": "Serial houseplant killer? Here's how to keep them alive",
+      "description": "The three easiest plants to keep alive and how to make sure  you keep them healthy all year round....",
+      "link": "https://www.bbc.com/news/articles/c1lr8vy2v69o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 00:30:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Traces of cancer-linked pesticide found in tests at UK playgrounds",
+      "description": "&lt;p&gt;Pressure mounting for use of glyphosate, listed by WHO since 2015 as probable carcinogen, to be heavily restricted&lt;/p&gt;&lt;p&gt;Children...",
+      "link": "https://www.theguardian.com/environment/2026/jan/15/glyphosate-cancer-linked-pesticide-uk-playgrounds",
+      "pubDate": "Thu, 15 Jan 2026 00:01:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4ae77d28efbbfc169d67514e32489c0d917e9ff5/0_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=018353c6722ddd81ec260cefb684cec8"
+    },
     {
       "title": "Bessemer Data Center Developer to Request Rezoning for Additional 900 Acres",
       "description": "BESSEMER, Ala.—Logistic Land Investment LLC, the developer behind Project Marvel, a $14.5 billion proposed data center project in central Alabama, wil...",
@@ -101,15 +119,6 @@
       "image": "https://i.guim.co.uk/img/media/8c2abbe6b8eeffdf0bd5b2900aeef03a5c58e739/17_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21ab84ced35477ec819a4f3deb271ee5"
     },
     {
-      "title": "Former NSW Labor minister condemns Forestry Corporation after greater glider ‘den trees’ found at planned logging site",
-      "description": "&lt;p&gt;Bob Debus says operations at Glenbog state forest on south coast show native forest logging is untenable&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/15/nsw-logging-halted-greater-glider-den-trees-found",
-      "pubDate": "Wed, 14 Jan 2026 14:00:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7997e9b047286357ff989f89d5d21b5da0e72e35/0_0_2947_2358/master/2947.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af8ca8600422f62161a67ab0f9fcd88"
-    },
-    {
       "title": "UK secures record supply of offshore wind projects",
       "description": "The government says the projects will bring down bills but the Conservatives say it is locking in high wind prices....",
       "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9e39900a5fcd887d3781c5164c5dbb2a87d64232/43_0_4213_3371/master/4213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b2a44ef97df8c40d89de1efd52e411"
-    },
-    {
-      "title": "Global temperatures dipped in 2025 but more heat records on way, scientists warn",
-      "description": "The last three years were Earth's hottest on record, as humanity's carbon emissions continue to heat the planet....",
-      "link": "https://www.bbc.com/news/articles/c5y5p9rzd4ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Jan 2026 03:44:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
