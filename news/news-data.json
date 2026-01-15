@@ -1,21 +1,39 @@
 {
-  "lastUpdated": "2026-01-15T11:28:25.484Z",
+  "lastUpdated": "2026-01-15T13:02:50.522Z",
   "articles": [
+    {
+      "title": "This tech could keep EVs from stressing the grid — and save everyone money",
+      "description": "Instead of lots of EVs juicing up their huge batteries all at once, \"active managed charging\" distributes the load throughout the night, helping stabi...",
+      "link": "https://grist.org/transportation/this-tech-could-keep-evs-from-stressing-the-grid-and-save-everyone-money/",
+      "pubDate": "Thu, 15 Jan 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/evs.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "South East Water boss in line for £400,000 bonus despite outages",
+      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; David Hinton, who faces calls to resign, will receive payout regardless of performance if he stays un...",
+      "link": "https://www.theguardian.com/business/2026/jan/15/south-east-water-boss-david-hinton-in-line-for-400000-bonus-despite-outages",
+      "pubDate": "Thu, 15 Jan 2026 12:11:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/248c9a35c6c5cf1ec34702df6617d4024f50990b/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c2f7b8c86c376ec321019c216683bad"
+    },
+    {
+      "title": "Astronauts splash down to Earth after medical evacuation from space station",
+      "description": "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing....",
+      "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 12:06:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "In Hurricane-Prone Florida, Legislators Reconsider New Growth and Development Law",
       "description": "After three hurricanes battered Florida in 2024, state lawmakers approved legislation that supporters said would help communities recover. But the mea...",
       "link": "https://insideclimatenews.org/news/15012026/florida-legislators-reconsider-resiliency-efforts-law/",
       "pubDate": "Thu, 15 Jan 2026 10:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Astronauts splash down to Earth after medical evacuation from space station",
-      "description": "The crew is expected to splash down off the coast of California in the early hours of Thursday local time....",
-      "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Jan 2026 09:51:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -137,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/ae194759ab246c9f9d80ac7ec6209888b31dd133/150_0_4639_3710/master/4639.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53a7078349c5b4d2f5d71b961934af12"
     },
     {
-      "title": "Human activity helped make 2025 third-hottest year on record, experts say",
-      "description": "&lt;p&gt;Data leads scientists to declare 2015 Paris agreement to keep global heating below 1.5C  ‘dead in the water’&lt;/p&gt;&lt;p&gt;Last year was ...",
-      "link": "https://www.theguardian.com/environment/2026/jan/14/human-activity-helped-make-2025-third-hottest-year-on-record-experts-say",
-      "pubDate": "Wed, 14 Jan 2026 15:59:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6fcd5ee800a9258d8cd86e45bc153891ecbf52be/77_0_1913_1530/master/1913.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72cf47459d2fc583294b4a3d9c27da4e"
-    },
-    {
       "title": "UK secures record supply of offshore wind projects",
       "description": "The government says the projects will bring down bills but the Conservatives say it is locking in high wind prices....",
       "link": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&amp;at_campaign=rss",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 14 Jan 2026 10:13:37 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wyoming County Approves Construction of What Could Become the Largest Data Center in US",
-      "description": "Wyoming is poised to become an artificial-intelligence powerhouse after Laramie County commissioners last week unanimously voted to move forward with ...",
-      "link": "https://insideclimatenews.org/news/14012026/wyoming-county-approves-ai-data-center/",
-      "pubDate": "Wed, 14 Jan 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
