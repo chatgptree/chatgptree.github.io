@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-15T08:40:59.286Z",
+  "lastUpdated": "2026-01-15T09:36:06.187Z",
   "articles": [
+    {
+      "title": "Astronauts splash down to Earth after medical evacuation from space station",
+      "description": "The crew is expected to splash down off the coast of California in the early hours of Thursday local time....",
+      "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 08:42:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Thursday briefing: Is your body really full of microplastics?",
       "description": "&lt;p&gt;In today’s newsletter: Numerous studies have found evidence of microplastics in the human body and warned of the risks to our health. But in ...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why almost none of the homes burned in LA have been rebuilt since last year’s fires",
-      "description": "The wildfires destroyed 13,000 homes. In Los Angeles County, just seven have been rebuilt.\n...",
-      "link": "https://grist.org/housing/la-homes-not-rebuilt-after-last-years-wildfires/",
-      "pubDate": "Wed, 14 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/billion-dollar-climate-disasters-united-states-us-2025.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
