@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-15T20:34:46.530Z",
+  "lastUpdated": "2026-01-15T21:29:43.057Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Nasa’s Artemis II rocket is about to be rolled out. What is the mission hoping to achieve?...",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 21:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New York Offshore Wind Project Allowed to Restart Construction—for Now",
+      "description": "A federal judge issued a temporary injunction, allowing the developer of Empire Wind, an offshore wind project off the coast of Long Island, to resume...",
+      "link": "https://insideclimatenews.org/news/15012026/new-york-offshore-empire-wind-project-restarts/",
+      "pubDate": "Thu, 15 Jan 2026 20:38:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Pesticides may drastically shorten fish lifespans, study finds",
       "description": "&lt;p&gt;Even low levels of widely used agricultural chemicals were linked to accelerated ageing, research suggests&lt;/p&gt;&lt;p&gt;The lifespan of ...",
@@ -9,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b06dddb1b3279a480db4ae6d126aff8cfb66034f/7_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8333e734ffc354ded98bf088ac83c3a6"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Nasa’s Artemis II rocket is about to be rolled out. What is the mission hoping to achieve?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Jan 2026 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Talking About Energy Dominance? Solar Would Like to Have a Word.",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d3fc9d3f97f7e649b8f87f167b5eb9a1fdedc7d8/158_0_4729_3783/master/4729.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=117275313c58a26b5f4e9037f8b664b7"
-    },
-    {
-      "title": "These Finnish homes are being heated by a surprising source: Bitcoin",
-      "description": "Can the reuse of crypto mining’s waste heat redeem its carbon footprint?...",
-      "link": "https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/",
-      "pubDate": "Wed, 14 Jan 2026 17:37:06 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2021/05/Bitcoin.gif?quality=75&#038;strip=all"
     }
   ]
 }
