@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-16T05:33:11.184Z",
+  "lastUpdated": "2026-01-16T06:46:58.005Z",
   "articles": [
+    {
+      "title": "BP accused of ‘insidious’ influence on UK education through Science Museum links",
+      "description": "&lt;p&gt;Campaigners claim firm has bought sway over the teaching of science, technology, engineering and maths &lt;/p&gt;&lt;p&gt;Campaigners have ac...",
+      "link": "https://www.theguardian.com/business/2026/jan/16/bp-accused-of-insidious-influence-on-uk-education-through-science-museum-links",
+      "pubDate": "Fri, 16 Jan 2026 06:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8a90a91cff1ef68d8e3fdd965eb858f01553f205/960_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=950fdd6642feed4693e9afb6e3b6fafd"
+    },
     {
       "title": "Greg Evans, former Perfect Match host and awarding winning radio personality was rushed into emergency heart surgery at 72",
       "description": "Greg Evans Evans has revealed he underwent a quadruple heart bypass after receiving a serious diagnosis a few days before Christmas. “That (the test r...",
@@ -94,7 +103,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Nasa’s Artemis II rocket is about to be rolled out. What is the mission hoping to achieve?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txv?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Jan 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/248c9a35c6c5cf1ec34702df6617d4024f50990b/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c2f7b8c86c376ec321019c216683bad"
-    },
-    {
-      "title": "Astronauts splash down to Earth after medical evacuation from space station",
-      "description": "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing....",
-      "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Jan 2026 12:06:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
