@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-01-16T08:39:49.823Z",
+  "lastUpdated": "2026-01-16T09:34:31.233Z",
   "articles": [
+    {
+      "title": "Trump is trying to kill clean energy. The market has other plans.",
+      "description": "The administration has done real damage to climate action, experts say. But in many ways, renewables are unstoppable....",
+      "link": "https://grist.org/climate-energy/trump-is-trying-to-kill-clean-energy-the-market-has-other-plans/",
+      "pubDate": "Fri, 16 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Daria Egereva fought for Indigenous voices at the U.N. Now she’s in a Russian jail.",
+      "description": "Observers say Egereva’s case highlights the risks Indigenous advocates face when they challenge powerful governments on climate and human rights....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/daria-egereva-fought-for-indigenous-voices-at-the-u-n-now-shes-in-a-russian-jail/",
+      "pubDate": "Fri, 16 Jan 2026 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sydney awaits ‘soggiest weekend of summer’ as Victorian authorities defend flash flood warnings",
+      "description": "&lt;p&gt;Floods predicted for NSW south coast after severe storms dumped 180mm in six hours on Victoria’s Lorne and Wye River, washing cars into the s...",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/16/warnings-for-flash-floods-on-victorias-surf-coast-were-not-issued-late-authorities-say",
+      "pubDate": "Fri, 16 Jan 2026 08:50:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d40c8c402010170149723e939b7e15737c946ed4/553_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cdc81f659737cd72d34312a6a9ee488a"
+    },
     {
       "title": "Week in wildlife: monkey spa day, a frisky kākāpō and a camouflaged owl",
       "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jan/16...",
@@ -74,7 +101,7 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
     },
     {
-      "title": "The landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+      "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
       "description": "Scientists believe the map could shed light on how Antarctica's vast ice sheet will respond to climate change....",
       "link": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 16 Jan 2026 00:00:21 GMT",
@@ -112,7 +139,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Nasa’s Artemis II rocket is about to be rolled out. What is the mission hoping to achieve?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txv?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Jan 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Jan 2026 13:57:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Spain’s meteorologists subjected to ‘alarming’ rise in hate speech, minister warns",
-      "description": "&lt;p&gt;Environment minister says attacks on social media affect perceptions of meteorology and denigrate researchers’ work&lt;/p&gt;&lt;p&gt;&lt;/p&...",
-      "link": "https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns",
-      "pubDate": "Thu, 15 Jan 2026 13:01:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c321ad74b13492798a0367185f409bc3406524f7/402_0_4018_3214/master/4018.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53bbf7b348b14699593e1e151724e010"
-    },
-    {
-      "title": "This tech could keep EVs from stressing the grid — and save everyone money",
-      "description": "Instead of lots of EVs juicing up their huge batteries all at once, \"active managed charging\" distributes the load throughout the night, helping stabi...",
-      "link": "https://grist.org/transportation/this-tech-could-keep-evs-from-stressing-the-grid-and-save-everyone-money/",
-      "pubDate": "Thu, 15 Jan 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/evs.jpg?quality=75&#038;strip=all"
     }
   ]
 }
