@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-01-15T23:29:05.703Z",
+  "lastUpdated": "2026-01-16T02:23:48.269Z",
   "articles": [
+    {
+      "title": "Historic High Seas Treaty enters into force, launching a new era of global ocean governance",
+      "description": "©Worachat Sodsri in Unsplash Today the High Seas Treaty, formally the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity...",
+      "link": "https://econews.com.au/historic-high-seas-treaty-enters-into-force-launching-a-new-era-of-global-ocean-governance/",
+      "pubDate": "Fri, 16 Jan 2026 02:05:06 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/High-Seas-Alliance-logo.png"
+    },
+    {
+      "title": "A $100 Billion Investment Imperative: Turning Clean Fuel Ambition into Progress by 2030",
+      "description": "New World Economic Forum report suggests global clean fuel investment could rise from ~$25 billion today to over $100 billion annually by 2030 driven ...",
+      "link": "https://econews.com.au/a-100-billion-investment-imperative-turning-clean-fuel-ambition-into-progress-by-2030/",
+      "pubDate": "Fri, 16 Jan 2026 02:05:06 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "The best hydrogen for heavy-duty transport is locally produced and green",
+      "description": "Samara Doole, Possesed Photography, Thomas Reaubourgh via Unsplash.com If trucks ran on hydrogen instead of fossil fuels, carbon dioxide emissions fro...",
+      "link": "https://econews.com.au/the-best-hydrogen-for-heavy-duty-transport-is-locally-produced-and-green/",
+      "pubDate": "Fri, 16 Jan 2026 02:05:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Chalmers-logo.png"
+    },
+    {
+      "title": "Scouts lose major campsite in Longwood fires",
+      "description": "Amongst the many, many losses in the Longwood fire are structures at one of Victoria’s largest Scouting campsites. Mafeking Rover Park, situated at Ca...",
+      "link": "https://econews.com.au/scouts-lose-major-campsite-in-longwood-fires/",
+      "pubDate": "Fri, 16 Jan 2026 02:05:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-69.jpg"
+    },
+    {
+      "title": "Conservation planning ‘good for biodiversity and business’",
+      "description": "The research highlights significant gaps in conservation planning in the Northern Territory. Charles Darwin University The Northern Territory’s invest...",
+      "link": "https://econews.com.au/conservation-planning-good-for-biodiversity-and-business/",
+      "pubDate": "Fri, 16 Jan 2026 02:04:57 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
+    },
+    {
+      "title": "The landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+      "description": "Scientists believe the map could shed light on how Antarctica's vast ice sheet will respond to climate change....",
+      "link": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 16 Jan 2026 00:00:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Data Centers Jostle to Get on Texas’ Grid, ERCOT Promises New Rules for ‘Batch Zero’",
+      "description": "Texas’ grid operator is developing a new process to evaluate multiple large-load interconnection requests at the same time. The question for cryptocur...",
+      "link": "https://insideclimatenews.org/news/15012026/texas-ercot-rules-for-data-center-grid-connection/",
+      "pubDate": "Thu, 15 Jan 2026 23:55:54 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Duke Energy Plans to Build a Massive Natural Gas Power Plant in Davidson County. But Where, Exactly?",
+      "description": "Duke Energy could build a 1,360-megawatt natural gas power plant on company-owned land in western Davidson County, which, if approved by the N.C. Util...",
+      "link": "https://insideclimatenews.org/news/15012026/duke-energy-proposed-natural-gas-power-plant-davidson-county/",
+      "pubDate": "Thu, 15 Jan 2026 23:43:44 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ocean Damage Nearly Doubles the Cost of Climate Change",
+      "description": "The global cost of greenhouse gas emissions are nearly double what scientists previously thought, according to a study published Thursday by researche...",
+      "link": "https://insideclimatenews.org/news/15012026/ocean-damage-nearly-doubles-the-cost-of-climate-change/",
+      "pubDate": "Thu, 15 Jan 2026 23:37:47 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "Nasa’s Artemis II rocket is about to be rolled out. What is the mission hoping to achieve?...",
@@ -99,87 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Thursday briefing: Is your body really full of microplastics?",
-      "description": "&lt;p&gt;In today’s newsletter: Numerous studies have found evidence of microplastics in the human body and warned of the risks to our health. But in ...",
-      "link": "https://www.theguardian.com/world/2026/jan/15/thursday-briefing-is-your-body-really-full-of-microplastics",
-      "pubDate": "Thu, 15 Jan 2026 06:48:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a73c8346debf3061af375decc85fc9a50a9b24de/2050_0_2598_2080/master/2598.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8a86ea02371a90d8eef16c7f1fa70d99"
-    },
-    {
-      "title": "Africa’s great elephant divide: countries struggle with too many elephants – or too few",
-      "description": "&lt;p&gt;In countries such as South Sudan, the great herds have all but disappeared. But further south, conservation success mean increasing human-wil...",
-      "link": "https://www.theguardian.com/environment/2026/jan/15/africas-elephant-conundrum-dying-out-south-sudan-too-many-zimbabwe-aoe",
-      "pubDate": "Thu, 15 Jan 2026 05:00:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e2771d44a69c969766eb44f2a144a91b44dc8fd7/437_297_1295_1037/master/1295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b05ddba1890196a123894a385bac387"
-    },
-    {
-      "title": "Serial houseplant killer? Here's how to keep them alive",
-      "description": "The three easiest plants to keep alive and how to make sure  you keep them healthy all year round....",
-      "link": "https://www.bbc.com/news/articles/c1lr8vy2v69o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Jan 2026 00:30:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bessemer Data Center Developer to Request Rezoning for Additional 900 Acres",
-      "description": "BESSEMER, Ala.—Logistic Land Investment LLC, the developer behind Project Marvel, a $14.5 billion proposed data center project in central Alabama, wil...",
-      "link": "https://insideclimatenews.org/news/14012026/bessemer-alabama-data-center-to-ask-for-additional-900-acres/",
-      "pubDate": "Wed, 14 Jan 2026 22:38:42 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Iran’s Regime Has Survived War, Sanctions and Uprising. Environmental Crises May Bring It Down.",
-      "description": "The anti‑government protests sweeping across Iran, from major cities to rural towns, are fueled by anger over economic collapse and political repressi...",
-      "link": "https://insideclimatenews.org/news/14012026/iran-environmental-crisis-water-shortage-protests/",
-      "pubDate": "Wed, 14 Jan 2026 22:20:23 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hochul Wants More Nuclear Power in New York",
-      "description": "During her State of the State address this week, New York Gov. Kathy Hochul announced that she will push to invest more funds into nuclear energy, cal...",
-      "link": "https://insideclimatenews.org/news/14012026/new-york-gov-hochul-highlights-nuclear-power-in-state-address/",
-      "pubDate": "Wed, 14 Jan 2026 19:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Underwater Cameras Could Help Unlock America’s Tidal Energy Industry",
-      "description": "At the narrow entrance to Sequim Bay’s tidal channel, an underwater, four-bladed turbine spinning above the seabed might look like a hazard. But here,...",
-      "link": "https://insideclimatenews.org/news/14012026/tidal-turbine-study-tracks-impact-on-marine-life/",
-      "pubDate": "Wed, 14 Jan 2026 19:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "I’ve been thinking a lot about dog poo | Adrian Chiles",
-      "description": "&lt;p&gt;There was a time when nobody picked up after their dogs – and it would have been considered disgusting to do so. What caused the change in at...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/14/ive-been-thinking-a-lot-about-dog-poo",
-      "pubDate": "Wed, 14 Jan 2026 17:52:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab162c819693fc723597da47e0ff8a42376ce40d/16_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7080ded07daba02bb45ba8b4c288a505"
-    },
-    {
-      "title": "EPA to stop calculating money and lives saved by curbs on air pollution",
-      "description": "&lt;p&gt;Agency to focus rules for fine particulate matter and ozone only on cost to industry, aligning with Trump approach&lt;/p&gt;&lt;p&gt;The Envi...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/14/epa-air-pollution-cost-savings-deaths",
-      "pubDate": "Wed, 14 Jan 2026 17:46:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d3fc9d3f97f7e649b8f87f167b5eb9a1fdedc7d8/158_0_4729_3783/master/4729.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=117275313c58a26b5f4e9037f8b664b7"
     }
   ]
 }
