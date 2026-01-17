@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-16T23:27:57.495Z",
+  "lastUpdated": "2026-01-17T02:11:15.373Z",
   "articles": [
+    {
+      "title": "Federal Court Allows Dominion Energy in Virginia to Continue Offshore Wind Project",
+      "description": "NORFOLK, Va.—U.S. District Court Judge Jamar K. Walker granted Dominion Energy a preliminary injunction on Friday, pausing a stop work order from the ...",
+      "link": "https://insideclimatenews.org/news/16012026/federal-court-allows-dominion-energy-in-virginia-to-continue-offshore-wind-project/",
+      "pubDate": "Sat, 17 Jan 2026 02:03:22 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Clean Energy Advocates Criticize ‘Glaring’ Omission in White House Plan to Fuel Data Centers in PJM Region",
+      "description": "Rising electricity costs and the rapid build-out of energy-hungry data centers across the mid-Atlantic region brought a bipartisan group of governors ...",
+      "link": "https://insideclimatenews.org/news/16012026/mid-atlantic-governors-proposal-fuel-data-centers-in-pjm-region/",
+      "pubDate": "Sat, 17 Jan 2026 00:28:29 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A Year Out From One of the World’s Largest Battery Facility Fires",
       "description": "MOSS LANDING, Calif.—A snarl of steel and debris still sits front and center at the Moss Landing Power Plant, after one of the largest battery fires i...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Chalmers-logo.png"
-    },
-    {
-      "title": "Scouts lose major campsite in Longwood fires",
-      "description": "Amongst the many, many losses in the Longwood fire are structures at one of Victoria’s largest Scouting campsites. Mafeking Rover Park, situated at Ca...",
-      "link": "https://econews.com.au/scouts-lose-major-campsite-in-longwood-fires/",
-      "pubDate": "Fri, 16 Jan 2026 02:05:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-69.jpg"
-    },
-    {
-      "title": "Conservation planning ‘good for biodiversity and business’",
-      "description": "The research highlights significant gaps in conservation planning in the Northern Territory. Charles Darwin University The Northern Territory’s invest...",
-      "link": "https://econews.com.au/conservation-planning-good-for-biodiversity-and-business/",
-      "pubDate": "Fri, 16 Jan 2026 02:04:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
     }
   ]
 }
