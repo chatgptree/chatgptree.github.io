@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-18T13:35:04.764Z",
+  "lastUpdated": "2026-01-18T14:26:05.846Z",
   "articles": [
+    {
+      "title": "Why am I a vegan? I do it for my mental health | Emma Beddington",
+      "description": "&lt;p&gt;Vegan restaurants are closing, RFK Jr is sounding the drum for carnivores, and the protein cult is bigger than ever. But eschewing animal pro...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/18/why-am-i-a-vegan-i-do-it-for-my-mental-health",
+      "pubDate": "Sun, 18 Jan 2026 14:00:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5a00ae293237cf919932a82e4cd60b29811171cb/588_0_5758_4606/master/5758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e8d9b17742c55e124a7fed792a8bf9b"
+    },
+    {
+      "title": "Red-state Republicans seek climate ‘liability shield’ for fossil fuel industry",
+      "description": "If enacted, the Utah and Oklahoma measures would restrict litigation against oil companies over their role in the climate crisis....",
+      "link": "https://grist.org/accountability/red-state-republicans-seek-climate-liability-shield-for-fossil-fuel-industry/",
+      "pubDate": "Sun, 18 Jan 2026 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/LNG-Louisiana-Lylla-Younes-Grist.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "A Small Oil Company Polluted Midland’s Water Reserve. The Cleanup Has Dragged on for Years.",
       "description": "Reporting for this story was supported by a grant from the Fund for Investigative Journalism. WINKLER COUNTY, Texas—The first sign of trouble appeared...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Adelaide rolls out the welcome mat to cycling world for Tour Down Under, I feel ashamed | Maeve Plouffe",
-      "description": "&lt;p&gt;Australia’s WorldTour race on my local roads fills me with pride, but as the years go on it feels like hosting international friends in a hou...",
-      "link": "https://www.theguardian.com/sport/2026/jan/16/adelaide-cycling-world-tour-down-under-ashamed",
-      "pubDate": "Fri, 16 Jan 2026 14:01:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4315dd711610c73fddf84028d7071bef3542aa21/526_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91d67fd4515661eefc8c0dc159d8b339"
-    },
-    {
-      "title": "Are our bodies full of microplastics or not? There’s a way to resolve this debate, and scientists must hurry | Debora MacKenzie",
-      "description": "&lt;p&gt;This week’s furore is microplastics researchers’ ozone moment. If they fail, the powerful plastics lobby will step into the breach&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/16/microplastics-bodies-debate",
-      "pubDate": "Fri, 16 Jan 2026 11:00:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9e5cdcaf33235000e7945edd6510f9ee09556b52/164_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e87077393316b72b324fc1483a3fc90a"
     }
   ]
 }
