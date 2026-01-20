@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-01-20T22:30:07.808Z",
+  "lastUpdated": "2026-01-20T23:31:01.038Z",
   "articles": [
+    {
+      "title": "Congress Has Doubts About the Trump Administration’s New Wildfire Management Plans",
+      "description": "The Trump administration last week established a new firefighting agency to combine operations at the Department of the Interior under one entity. But...",
+      "link": "https://insideclimatenews.org/news/20012026/todays-climate-united-states-wildland-fire-service-congress/",
+      "pubDate": "Tue, 20 Jan 2026 22:49:03 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Patagonia Is Burning",
+      "description": "More than thirty wildfires ripped through Chile this weekend, killing 19 and burning more than 135 square miles and hundreds of homes in the regions o...",
+      "link": "https://insideclimatenews.org/news/20012026/patagonia-wildfires-fueled-by-heat-drought-wind/",
+      "pubDate": "Tue, 20 Jan 2026 22:37:36 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK households to get £15bn for solar and green tech to lower energy bills",
+      "description": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills....",
+      "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Jan 2026 22:32:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "No ban on gas boilers in UK warm homes plan but heat pumps get £2.7bn push",
+      "description": "&lt;p&gt;Government opts against phasing out new boilers by 2035 in effort to cut energy bills by as much as £1,000 a year&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/environment/2026/jan/20/uk-warm-homes-plan-gas-boilers-billions-heat-pumps",
+      "pubDate": "Tue, 20 Jan 2026 22:30:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/28519093a295191efd826bf69c37bca07db1495e/532_0_5318_4254/master/5318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=992c11b174e41caa26f46c9460935a4b"
+    },
     {
       "title": "CALLING FARMERS – Funky Food wants your surplus, your quirky and your imperfect picks",
       "description": "Funky Food founder Kamran Kasaei-Nejad: “We don’t need semi-trailer loads or perfect-looking produce; if it’s fresh, safe and edible, we want to hear ...",
@@ -137,15 +173,6 @@
       "image": "https://grist.org/wp-content/uploads/2026/01/J.H.-Campbell-coal-plant.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Antarctic penguins have radically shifted their breeding season – seemingly in response to climate change",
-      "description": "&lt;p&gt;Changing temperatures may be behind change in behaviour, which experts fear threatens three species’ survival&lt;/p&gt;&lt;p&gt;Penguins in A...",
-      "link": "https://www.theguardian.com/world/2026/jan/20/antarctic-penguins-shift-breeding-season-climate-change",
-      "pubDate": "Tue, 20 Jan 2026 05:01:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7a3c727ca2063b646df6bc18478a391ac7a7824c/125_0_1250_1000/master/1250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ee637cb8abb79d1065032e66f1cf554"
-    },
-    {
       "title": "Threatened bandicoot numbers triple in Central Australian sanctuary",
       "description": "Credit: Tom Sayers/AWC Conservationists are celebrating a major win in Central Australia, with threatened Golden Bandicoot numbers tripling inside a f...",
       "link": "https://econews.com.au/threatened-bandicoot-numbers-triple-in-central-australian-sanctuary/",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
-    },
-    {
-      "title": "Potential for satellites and AI to help tackle critical invasive species problem",
-      "description": "The study explored using satellite imagery and artificial intelligence to detect bitou bush (pictured) and African lovegrass. Charles Darwin Universit...",
-      "link": "https://econews.com.au/potential-for-satellites-and-ai-to-help-tackle-critical-invasive-species-problem/",
-      "pubDate": "Tue, 20 Jan 2026 02:05:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
-    },
-    {
-      "title": "Engineers set efficiency world record for emerging solar cell material",
-      "description": "Scientia Professor Xiaojing Hao working in her laboratory in the Tyree building, Kensignton campus UNSW. Image from UNSW UNSW Sydney Photovoltaic rese...",
-      "link": "https://econews.com.au/engineers-set-efficiency-world-record-for-emerging-solar-cell-material/",
-      "pubDate": "Tue, 20 Jan 2026 02:05:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/unnamed-71.jpg"
-    },
-    {
-      "title": "$10million funding boost welcome by WARR industry",
-      "description": "The Waste Management and Resource Recovery Association of Australia (WMRR) has welcomed this week’s Recycling Modernisation Fund (RMF) announcements —...",
-      "link": "https://econews.com.au/10million-funding-boost-welcome-by-warr-industry/",
-      "pubDate": "Tue, 20 Jan 2026 02:04:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
