@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T07:37:01.836Z",
+  "lastUpdated": "2026-01-21T08:41:53.982Z",
   "articles": [
     {
       "title": "Half of world’s CO2 emissions come from just 32 fossil fuel firms, study shows",
@@ -70,6 +70,15 @@
       "link": "https://insideclimatenews.org/news/20012026/patagonia-wildfires-fueled-by-heat-drought-wind/",
       "pubDate": "Tue, 20 Jan 2026 22:37:36 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
+      "description": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills....",
+      "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Jan 2026 22:32:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/DSF2067.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Water companies to face regular MOT-style checks in industry shake-up",
-      "description": "The government says the industry will have \"nowhere to hide\", but campaigners say the reforms do not go far enough....",
-      "link": "https://www.bbc.com/news/articles/cwygpg281dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Jan 2026 09:43:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
