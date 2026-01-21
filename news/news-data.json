@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-01-21T17:07:58.016Z",
+  "lastUpdated": "2026-01-21T18:54:16.415Z",
   "articles": [
+    {
+      "title": "Half of Fossil Fuel Carbon Emissions in 2024 Came From 32 Companies",
+      "description": "As fossil fuel-based carbon dioxide emissions continue to rise to record levels, a new analysis shows that a majority of these emissions can be traced...",
+      "link": "https://insideclimatenews.org/news/21012026/half-of-fossil-fuel-carbon-emissions-in-2024-came-from-32-companies/",
+      "pubDate": "Wed, 21 Jan 2026 18:01:22 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientific rigour and the dangers of microplastics | Letters",
+      "description": "&lt;p&gt;&lt;strong&gt;Joe Yates&lt;/strong&gt;, &lt;strong&gt;Prof Philip J Landrigan&lt;/strong&gt;, &lt;strong&gt;Prof Jennifer Kirwan&lt;/strong&g...",
+      "link": "https://www.theguardian.com/environment/2026/jan/21/scientific-rigour-and-the-dangers-of-microplastics",
+      "pubDate": "Wed, 21 Jan 2026 17:49:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b188495733be59588adca29de3896b446ff063b4/2400_0_2600_2080/master/2600.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2dbfc693f02bf3c3c416f4ec05ac0652"
+    },
+    {
+      "title": "Snow, ice and subzero temperatures to sweep across US this weekend",
+      "description": "&lt;p&gt;The storm will stretch 2,000 miles from south-west to east, disrupting travel and threatening power outages&lt;/p&gt;&lt;p&gt;A vast winter s...",
+      "link": "https://www.theguardian.com/us-news/2026/jan/21/winter-snow-storm-watch-southwest-east",
+      "pubDate": "Wed, 21 Jan 2026 17:34:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bc37fd276058ed1afb1a90c5fcdb806afec74125/154_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8fa360ce790092b9da22da13668273e"
+    },
+    {
+      "title": "Meta Wants Data Center in Sunny El Paso to Rely on Natural Gas",
+      "description": "EL PASO—In October 2025, local officials celebrated the groundbreaking of a 1-gigawatt, $1.5 billion data center for the tech giant Meta.&#160; El Pas...",
+      "link": "https://insideclimatenews.org/news/21012026/meta-data-center-in-sunny-el-paso-will-rely-on-natural-gas/",
+      "pubDate": "Wed, 21 Jan 2026 17:29:57 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Oldest cave painting of red claw hand  could rewrite human creativity timeline",
       "description": "A stencilled outline of a hand found on the Indonesian island of Sulawesi is the world's oldest known cave painting, researchers say....",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Congress Has Doubts About the Trump Administration’s New Wildfire Management Plans",
-      "description": "The Trump administration last week established a new firefighting agency to combine operations at the Department of the Interior under one entity. But...",
-      "link": "https://insideclimatenews.org/news/20012026/todays-climate-united-states-wildland-fire-service-congress/",
-      "pubDate": "Tue, 20 Jan 2026 22:49:03 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Patagonia Is Burning",
-      "description": "More than thirty wildfires ripped through Chile this weekend, killing 19 and burning more than 135 square miles and hundreds of homes in the regions o...",
-      "link": "https://insideclimatenews.org/news/20012026/patagonia-wildfires-fueled-by-heat-drought-wind/",
-      "pubDate": "Tue, 20 Jan 2026 22:37:36 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "CALLING FARMERS – Funky Food wants your surplus, your quirky and your imperfect picks",
-      "description": "Funky Food founder Kamran Kasaei-Nejad: “We don’t need semi-trailer loads or perfect-looking produce; if it’s fresh, safe and edible, we want to hear ...",
-      "link": "https://econews.com.au/calling-farmers-funky-food-wants-your-surplus-your-quirky-and-your-imperfect-picks/",
-      "pubDate": "Tue, 20 Jan 2026 22:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "EA TECHNOLOGY AUSTRALIA APPOINTS NEW BUSINESS DEVELOPMENT LEAD",
-      "description": " EA Technology, a global leader in electrical asset management and smart grid solutions, announced today that it has strengthened its leadership team ...",
-      "link": "https://econews.com.au/ea-technology-australia-appoints-new-business-development-lead/",
-      "pubDate": "Tue, 20 Jan 2026 22:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/EA-Technology.jpg"
     }
   ]
 }
