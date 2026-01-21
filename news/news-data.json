@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-01-21T08:41:53.982Z",
+  "lastUpdated": "2026-01-21T09:40:53.141Z",
   "articles": [
+    {
+      "title": "Can you build data centers in a desert without draining the water supply? Utah is finding out.",
+      "description": "Politicians are pushing for one of the driest states to become a haven for data centers. ...",
+      "link": "https://grist.org/technology/utah-data-center-water-supply-meta-novva/",
+      "pubDate": "Wed, 21 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/250924_GUVGSL_1712_bb.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
+      "description": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills....",
+      "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Jan 2026 09:00:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
+      "description": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills....",
+      "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Jan 2026 09:00:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Half of world’s CO2 emissions come from just 32 fossil fuel firms, study shows",
       "description": "&lt;p&gt;Critics accuse leading firms of sabotaging climate action but say data increasingly being used to hold them to account&lt;/p&gt;&lt;p&gt;Just...",
@@ -8,7 +35,7 @@
       "pubDate": "Wed, 21 Jan 2026 06:00:53 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/fc49e7fc924cd8143c1418ab6d61e06c536275aa/1224_295_2465_1972/master/2465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1333523e4d8fc72f88effc924e4733f3"
+      "image": "https://i.guim.co.uk/img/media/8444f4a428764b52546c10f0d674852c61315687/23_75_3157_2526/master/3157.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=363a1d21a0f89688bb171b22ff80b124"
     },
     {
       "title": "Plantwatch: Neighbouring plants warn each other about incoming stress",
@@ -70,24 +97,6 @@
       "link": "https://insideclimatenews.org/news/20012026/patagonia-wildfires-fueled-by-heat-drought-wind/",
       "pubDate": "Tue, 20 Jan 2026 22:37:36 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
-      "description": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills....",
-      "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Jan 2026 22:32:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
-      "description": "The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills....",
-      "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Jan 2026 22:32:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Bangladesh, thousands of volunteers are battling climate-fueled disease at its source",
-      "description": "As mosquitoes spread dengue and chikungunya, Bangladeshi cleanup crews are taking public health into their own hands....",
-      "link": "https://grist.org/health/bangladesh-clean-volunteers-dhaka-mosquitoes/",
-      "pubDate": "Tue, 20 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/DSF2067.jpg?quality=75&amp;strip=all"
     }
   ]
 }
