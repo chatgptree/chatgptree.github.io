@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-01-22T05:36:36.859Z",
+  "lastUpdated": "2026-01-22T06:48:44.286Z",
   "articles": [
+    {
+      "title": "Schools, airports, high-rise towers: architects urged to get ‘bamboo-ready’",
+      "description": "&lt;p&gt;Manual for building design aims to encourage low-carbon construction as alternative to steel and concrete&lt;/p&gt;&lt;p&gt;An airport made o...",
+      "link": "https://www.theguardian.com/environment/2026/jan/22/bamboo-architecture-construction-engineering-schools-airports-towers",
+      "pubDate": "Thu, 22 Jan 2026 06:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7f18687ee41d25cb861138e4f0ea7cae253f42ef/257_0_2568_2054/master/2568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27fe89f67e2b57acd2299e7b47490434"
+    },
+    {
+      "title": "Half the world’s 100 largest cities are in high water stress areas, analysis finds",
+      "description": "&lt;p&gt;Exclusive: Beijing, Delhi, Los Angeles and Rio de Janeiro among worst affected, with demand close to exceeding supply&lt;/p&gt;&lt;p&gt;Half ...",
+      "link": "https://www.theguardian.com/environment/2026/jan/22/half-world-100-largest-cities-in-high-water-stress-areas-analysis-finds",
+      "pubDate": "Thu, 22 Jan 2026 06:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3f91d892ed925a7680c5bb4104d2f603cebd282e/125_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b3e690bc528af589dfb0058af1fdaf6"
+    },
+    {
+      "title": "What happens when the taps run dry? England is about to find out | Aditya Chakrabortty",
+      "description": "&lt;p&gt;It’s not just Tunbridge Wells – a country famous around the world for its rain is in danger of self-imposed drought&lt;/p&gt;&lt;p&gt;You get...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/22/what-happens-england-water-run-out-drought-tunbridge-wells",
+      "pubDate": "Thu, 22 Jan 2026 06:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6c52ee24d7b04f569d20b8408ba5d95b27637c66/3_0_2437_1949/master/2437.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2028f5b5aed89463eb8689504ca3dac8"
+    },
     {
       "title": "Limestone Coast’s rich bird history highlights ancient climate change",
       "description": "Flinders University palaeontology researchers – with local fossil experts – have discovered how prolific shorebirds,  including the Plains-wanderer, o...",
@@ -137,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/f59297fef9b22e452936d6d91e61b44c8f22b04c/186_0_4860_3888/master/4860.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f59ec03524013241136c8cd9a8304ed8"
     },
     {
-      "title": "Toby Carvery owner faces eviction from north London site for felling ancient oak",
-      "description": "&lt;p&gt;Felling of 500-year-old oak has provoked fury from public and Enfield council, which leases land to Mitchells &amp;amp; Butlers&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/jan/21/toby-carvery-owner-faces-eviction-enfield-north-london-felling-ancient-oak",
-      "pubDate": "Wed, 21 Jan 2026 10:25:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/10530dce7fd45da6752e70ff2e8d253d22436fad/670_0_6698_5358/master/6698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da9dec183cc12e699cdd5bb46f82f063"
-    },
-    {
       "title": "Peaceful Protest Against Whaling in Iceland Lands Two Activists in Court",
       "description": "At 4 a.m. on Sept. 4, 2023, two environmental activists, Elissa Phillips and Anahita Sahar Babaei, climbed aboard a pair of aging whaling vessels moor...",
       "link": "https://insideclimatenews.org/news/21012026/iceland-whale-activists-head-to-trial/",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The consequences of Trump&#8217;s war on climate in 7 charts",
-      "description": "Seven snapshots reveal how climate rollbacks altered the trajectory of U.S. energy, environmental protection, and economic security....",
-      "link": "https://grist.org/politics/the-consequences-of-trumps-war-on-climate-in-7-charts/",
-      "pubDate": "Wed, 21 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/tesla-byd-light.png"
-    },
-    {
-      "title": "Can you build data centers in a desert without draining the water supply? Utah is finding out.",
-      "description": "Politicians are pushing for one of the driest states to become a haven for data centers. ...",
-      "link": "https://grist.org/technology/utah-data-center-water-supply-meta-novva/",
-      "pubDate": "Wed, 21 Jan 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/250924_GUVGSL_1712_bb.jpg?quality=75&amp;strip=all"
     }
   ]
 }
