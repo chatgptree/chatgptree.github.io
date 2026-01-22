@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-22T16:45:33.363Z",
+  "lastUpdated": "2026-01-22T17:37:02.769Z",
   "articles": [
+    {
+      "title": "Senators urge Ford to disclose suspected lobbying over Trump’s climate rollbacks",
+      "description": "&lt;p&gt;Sheldon Whitehouse adds auto giant to investigation after US president claimed CEO requests changes to regulations&lt;/p&gt;&lt;p&gt;As the T...",
+      "link": "https://www.theguardian.com/us-news/2026/jan/22/senate-ford-trump-climate-rollbacks",
+      "pubDate": "Thu, 22 Jan 2026 17:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4d9e1dc1ed5391015ff5ca83a81e4a05c419a9cc/213_0_2129_1703/master/2129.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49c0f3f724f68175d7a22bf43f02ec5a"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "50 years since Concorde’s first commercial flight, is aviation going supersonic again?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txw?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Jan 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Half the world’s 100 largest cities are in high water stress areas, analysis finds",
       "description": "&lt;p&gt;Exclusive: Beijing, Delhi, Los Angeles and Rio de Janeiro among worst affected, with demand close to exceeding supply&lt;/p&gt;&lt;p&gt;Half ...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b188495733be59588adca29de3896b446ff063b4/2400_0_2600_2080/master/2600.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2dbfc693f02bf3c3c416f4ec05ac0652"
-    },
-    {
-      "title": "Snow, ice and subzero temperatures to sweep across US this weekend",
-      "description": "&lt;p&gt;The storm will stretch 2,000 miles from south-west to east, disrupting travel and threatening power outages&lt;/p&gt;&lt;p&gt;A vast winter s...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/21/winter-snow-storm-watch-southwest-east",
-      "pubDate": "Wed, 21 Jan 2026 17:34:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bc37fd276058ed1afb1a90c5fcdb806afec74125/154_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8fa360ce790092b9da22da13668273e"
-    },
-    {
-      "title": "Meta Wants Data Center in Sunny El Paso to Rely on Natural Gas",
-      "description": "EL PASO—In October 2025, local officials celebrated the groundbreaking of a 1-gigawatt, $1.5 billion data center for the tech giant Meta.&#160; El Pas...",
-      "link": "https://insideclimatenews.org/news/21012026/meta-data-center-in-sunny-el-paso-will-rely-on-natural-gas/",
-      "pubDate": "Wed, 21 Jan 2026 17:29:57 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
