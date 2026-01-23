@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-01-23T09:38:10.442Z",
+  "lastUpdated": "2026-01-23T10:34:56.203Z",
   "articles": [
+    {
+      "title": "Stretched Thin, Iowa Agency Issues Few Fines for Manure Pollution",
+      "description": "This story is a collaboration between Inside Climate News and Sentient Media. Over half a century ago, Larry Stone moved to northeast Iowa, drawn by t...",
+      "link": "https://insideclimatenews.org/news/23012026/stretched-thin-iowa-agency-issues-few-fines-for-manure-pollution/",
+      "pubDate": "Fri, 23 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s Plan for Venezuelan Oil Raises Prospects of Paramilitary Violence",
+      "description": "There is a sense of deja vu in the jungles of South America to the Trump Administration’s calls for private security contractors to protect the entran...",
+      "link": "https://insideclimatenews.org/news/23012026/trumps-plan-for-venezuelan-oil-raises-prospects-of-paramilitary-violence/",
+      "pubDate": "Fri, 23 Jan 2026 09:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Europe gets ‘green energy’. These Southern towns get dirty air.",
+      "description": "In Louisiana and Mississippi, people living near wood-pellet mills say they’re getting sick....",
+      "link": "https://grist.org/energy/europe-green-energy-wood-pellets-mississippi-louisiana/",
+      "pubDate": "Fri, 23 Jan 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/Drax_Gloster_portrait_man_couch.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Indonesia Revokes Permit for Chinese-Built Dam Threatening Ape Species",
+      "description": "The Indonesian government said it has revoked the licenses of 28 companies for violating forestry regulations in provinces hit by devastating flooding...",
+      "link": "https://insideclimatenews.org/news/23012026/indonesia-revokes-permit-for-chinese-built-dam-threatening-ape-species/",
+      "pubDate": "Fri, 23 Jan 2026 09:40:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A melting Greenland is easier to exploit — but also more perilous",
       "description": "Climate change is opening up previously inaccessible land and sea, boosting global interest in Greenland....",
@@ -94,7 +130,7 @@
     {
       "title": "BBC Inside Science",
       "description": "50 years since Concorde’s first commercial flight, is aviation going supersonic again?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txw?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 Jan 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/baac088514e785655d3f22df37a4d09dd93c1fe8/1323_206_1035_828/master/1035.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e18179224e60c740b0193015d5184b25"
-    },
-    {
-      "title": "On Michigan Cherry Farms, Small Falcons Are Improving Food Safety",
-      "description": "Every spring, raptors return to nesting sites across northern Michigan. The smallest of these birds of prey, a falcon called the American kestrel (Fal...",
-      "link": "https://insideclimatenews.org/news/22012026/michigan-cherry-farms-american-kestrel-food-safety/",
-      "pubDate": "Thu, 22 Jan 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Greenland is a global model for Indigenous self-governance. Trump’s demands for the island threaten that.",
-      "description": "Historians say underpinning Trump's talk of national security lies a longstanding pattern of American entitlement to Native land....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/greenland-is-a-global-model-for-indigenous-self-governance-trumps-demands-for-the-island-threaten-that/",
-      "pubDate": "Thu, 22 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/Aqqaluk-Lynge-Getty-Photo-Resized.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The Trump EPA ended the &#8216;green new scam.&#8217; A year later, communities are still paying the price.",
-      "description": "Across the country, communities that lost grants have responded in a variety of ways — suing the government, searching for other funds, or simply movi...",
-      "link": "https://grist.org/politics/trump-epa-green-new-scam-environmental-justice/",
-      "pubDate": "Thu, 22 Jan 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How permanent is Trump&#8217;s assault on climate action?",
-      "description": "Trump’s attacks on bedrock environmental and climate laws are inherently fragile — and could reflect the president’s preference for political dominanc...",
-      "link": "https://grist.org/politics/how-permanent-is-trumps-assault-on-climate-action/",
-      "pubDate": "Thu, 22 Jan 2026 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/GettyImages-2185482692-1.jpg?quality=75&#038;strip=all"
     }
   ]
 }
