@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T22:30:03.117Z",
+  "lastUpdated": "2026-01-24T23:26:57.795Z",
   "articles": [
     {
       "title": "This Brooklyn bagel shop is saving money with plug-in batteries",
@@ -63,6 +63,42 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b281b1c56609dc1e70b9a2af05a81f59055c86d0/129_1094_2952_2362/master/2952.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5835d1577fb2fb6601b1ca5af38ade7f"
+    },
+    {
+      "title": "Capral Aluminium Hosts National Launch of $20 Million Made Right Here Campaign",
+      "description": "Capral Aluminium today hosted the official national launch of the Australian Government-backed ‘Made Right Here’ campaign at its Smithfield manufactur...",
+      "link": "https://econews.com.au/capral-aluminium-hosts-national-launch-of-20-million-made-right-here-campaign/",
+      "pubDate": "Sat, 24 Jan 2026 03:05:30 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Schneider Electric advances energy technology at World Economic Forum Annual Meeting in Davos",
+      "description": " Schneider Electric, a global energy technology leader, announces its participation in the World Economic Forum Annual Meeting in Davos, Switzerland. ...",
+      "link": "https://econews.com.au/schneider-electric-advances-energy-technology-at-world-economic-forum-annual-meeting-in-davos/",
+      "pubDate": "Sat, 24 Jan 2026 03:05:22 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
+    },
+    {
+      "title": "New carbon-conversion technology could turn emissions into jet fuel",
+      "description": "Dr Lei Zhang, Distinguished Professor Tianyi Ma and Dr Peng Li (left to right) in their RMIT University lab, with Professor Ma holding the team’s 3 kW...",
+      "link": "https://econews.com.au/new-carbon-conversion-technology-could-turn-emissions-into-jet-fuel/",
+      "pubDate": "Sat, 24 Jan 2026 02:00:09 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/download.png"
+    },
+    {
+      "title": "EA Technology appoints Gareth Burton as Chief Executive Officer",
+      "description": "Gareth Burton – Chief Executive Officer EA Technology, a leading provider of technology solutions supporting the energy transition, has announced the ...",
+      "link": "https://econews.com.au/ea-technology-appoints-gareth-burton-as-chief-executive-officer/",
+      "pubDate": "Sat, 24 Jan 2026 02:00:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/EA-Technology.jpg"
     },
     {
       "title": "Trump’s Grant Terminations Upheld by Fourth Circuit Court of Appeals",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s Plan for Venezuelan Oil Raises Prospects of Paramilitary Violence",
-      "description": "There is a sense of deja vu in the jungles of South America to the Trump Administration’s calls for private security contractors to protect the entran...",
-      "link": "https://insideclimatenews.org/news/23012026/trumps-plan-for-venezuelan-oil-raises-prospects-of-paramilitary-violence/",
-      "pubDate": "Fri, 23 Jan 2026 09:45:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Europe gets ‘green energy.’ These Southern towns get dirty air.",
-      "description": "In Louisiana and Mississippi, people living near wood-pellet mills say they’re getting sick....",
-      "link": "https://grist.org/health/europe-green-energy-wood-pellets-mississippi-louisiana/",
-      "pubDate": "Fri, 23 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/Drax_Gloster_portrait_man_couch.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Indonesia Revokes Permit for Chinese-Built Dam Threatening Ape Species",
-      "description": "The Indonesian government said it has revoked the licenses of 28 companies for violating forestry regulations in provinces hit by devastating flooding...",
-      "link": "https://insideclimatenews.org/news/23012026/indonesia-revokes-permit-for-chinese-built-dam-threatening-ape-species/",
-      "pubDate": "Fri, 23 Jan 2026 09:40:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A melting Greenland is easier to exploit — but also more perilous",
-      "description": "Climate change is opening up previously inaccessible land and sea, boosting global interest in Greenland....",
-      "link": "https://grist.org/climate/a-melting-greenland-is-easier-to-exploit-but-also-more-perilous/",
-      "pubDate": "Fri, 23 Jan 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/Greenland-protest-photo-Getty-Compressed.jpg?quality=75&#038;strip=all"
     }
   ]
 }
