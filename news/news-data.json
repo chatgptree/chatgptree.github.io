@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-26T08:45:22.266Z",
+  "lastUpdated": "2026-01-26T09:43:04.860Z",
   "articles": [
+    {
+      "title": "Data centers are facing an image problem. The tech industry is spending millions to rebrand them.",
+      "description": "Through television ads and online campaigns, industry-backed groups are promising jobs, clean energy, and lower electricity bills....",
+      "link": "https://grist.org/energy/data-centers-are-facing-an-image-problem-the-tech-industry-is-spending-millions-to-rebrand-them/",
+      "pubDate": "Mon, 26 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Asia Pacific Maritime Returns to Singapore Bringing Next Energy to Focus; Accelerating Maritime Decarbonisation Forward",
       "description": "Asia Pacific Maritime (APM), Asia’s premier exhibition and conference for Shipbuilding &#38; Marine, Workboat, Offshore, and Electric &#38; Hybrid Mar...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Schneider Electric advances energy technology at World Economic Forum Annual Meeting in Davos",
-      "description": " Schneider Electric, a global energy technology leader, announces its participation in the World Economic Forum Annual Meeting in Davos, Switzerland. ...",
-      "link": "https://econews.com.au/schneider-electric-advances-energy-technology-at-world-economic-forum-annual-meeting-in-davos/",
-      "pubDate": "Sat, 24 Jan 2026 03:05:22 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
     }
   ]
 }
