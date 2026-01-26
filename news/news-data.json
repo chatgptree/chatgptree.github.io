@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T07:35:26.582Z",
+  "lastUpdated": "2026-01-26T08:45:22.266Z",
   "articles": [
     {
       "title": "Asia Pacific Maritime Returns to Singapore Bringing Next Energy to Focus; Accelerating Maritime Decarbonisation Forward",
@@ -45,6 +45,24 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6f050c4276134905bd05ceeb77295c7da11edb7a/501_0_6250_5000/master/6250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1327ab75e8b0c48a1a9df8e965d7ae0f"
+    },
+    {
+      "title": "UK to join major wind farm project with nine European countries",
+      "description": "For the first time, the new wind farms will be connected to more than one country through undersea cables....",
+      "link": "https://www.bbc.com/news/articles/cp372d37gxgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Jan 2026 00:43:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK to join major wind farm project with nine European countries",
+      "description": "For the first time, the new wind farms will be connected to more than one country through undersea cables....",
+      "link": "https://www.bbc.com/news/articles/cp372d37gxgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Jan 2026 00:43:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘A fraudulent scheme’: New Mexico sues Texas oil companies for walking away from leaking wells",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
-    },
-    {
-      "title": "New carbon-conversion technology could turn emissions into jet fuel",
-      "description": "Dr Lei Zhang, Distinguished Professor Tianyi Ma and Dr Peng Li (left to right) in their RMIT University lab, with Professor Ma holding the team’s 3 kW...",
-      "link": "https://econews.com.au/new-carbon-conversion-technology-could-turn-emissions-into-jet-fuel/",
-      "pubDate": "Sat, 24 Jan 2026 02:00:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/download.png"
-    },
-    {
-      "title": "EA Technology appoints Gareth Burton as Chief Executive Officer",
-      "description": "Gareth Burton – Chief Executive Officer EA Technology, a leading provider of technology solutions supporting the energy transition, has announced the ...",
-      "link": "https://econews.com.au/ea-technology-appoints-gareth-burton-as-chief-executive-officer/",
-      "pubDate": "Sat, 24 Jan 2026 02:00:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/EA-Technology.jpg"
     }
   ]
 }
