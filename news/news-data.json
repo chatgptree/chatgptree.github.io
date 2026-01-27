@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-01-27T09:41:21.774Z",
+  "lastUpdated": "2026-01-27T10:38:10.430Z",
   "articles": [
+    {
+      "title": "Storm Chandra live: flooding and travel disruption hits UK as police warn against travel in parts of Devon",
+      "description": "&lt;p&gt;Weather warnings, incluiding ‘danger to life’ flood threat in Devon, are in place across much of the UK with major travel disruption expected...",
+      "link": "https://www.theguardian.com/uk-news/live/2026/jan/27/storm-chandra-live-updates-uk-weather-latest-met-office-environment-agency-devon-flooding",
+      "pubDate": "Tue, 27 Jan 2026 10:22:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6c5c39d4b40e227804ab99c6e5238a3388aac3ba/876_0_2075_1661/master/2075.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87546dccaf5442578cad39ea8c768fd8"
+    },
+    {
+      "title": "Scientists Push for More Ambitious Climate Targets",
+      "description": "Researchers say a line has been crossed. For systems like coral reefs and ice sheets, the climate is already past safe. Scientists studying climate ti...",
+      "link": "https://insideclimatenews.org/news/27012026/scientists-push-for-more-ambitious-climate-targets/",
+      "pubDate": "Tue, 27 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Texas’ Grid Holds Up During Winter Weather",
+      "description": "In the eyes of many Texans, this weekend’s freezing weather was a test.&#160; How the state’s independent electric grid fared would demonstrate whethe...",
+      "link": "https://insideclimatenews.org/news/27012026/texas-grid-holds-up-during-winter-weather/",
+      "pubDate": "Tue, 27 Jan 2026 09:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The EPA wants to eliminate one of the few ways that tribes can protect their water",
+      "description": "The agency’s plan would narrow water quality reviews and make it harder for tribes to enforce treaty rights....",
+      "link": "https://grist.org/indigenous/the-epa-wants-to-eliminate-one-of-the-few-ways-that-tribes-can-protect-their-water/",
+      "pubDate": "Tue, 27 Jan 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Relief from the Nightmare’: Alabama Judge Halts Operations at a Quarry Residents Say Is Ruining Their Community",
       "description": "For Brad Vice and his family, the nightmare is over, at least for a while.&#160; Nine years ago, Vice and his wife, Brittney, moved into the rural, un...",
@@ -9,15 +45,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Storm Chandra live: danger to life warning as severe flooding expected in south-west England",
-      "description": "&lt;p&gt;Flood and weather warnings from both Environment Agency and the Met Office are in place across much of the UK&lt;/p&gt;&lt;p&gt;Some of the r...",
-      "link": "https://www.theguardian.com/uk-news/live/2026/jan/27/storm-chandra-live-updates-uk-weather-latest-met-office-environment-agency-devon-flooding",
-      "pubDate": "Tue, 27 Jan 2026 09:25:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6c5c39d4b40e227804ab99c6e5238a3388aac3ba/876_0_2075_1661/master/2075.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87546dccaf5442578cad39ea8c768fd8"
     },
     {
       "title": "Heat records tumble in Victoria as authorities warn against complacency amid significant blazes",
@@ -44,7 +71,7 @@
       "pubDate": "Tue, 27 Jan 2026 06:00:08 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/204a9ccf9de3b5d329760b86fbe9e4438de8c933/630_0_4430_3546/master/4430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acf2a859e7fa54eb197f58b7fa6696d6"
+      "image": "https://i.guim.co.uk/img/media/3d8b74917de056793d06a264a20e960369b01d04/580_0_4248_3399/master/4248.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ededd29537d1aa5fdd358452dbcad636"
     },
     {
       "title": "Scotland-France ferry could relaunch amid £35bn Dunkirk regeneration plan",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Data centers are facing an image problem. The tech industry is spending millions to rebrand them.",
-      "description": "Through television ads and online campaigns, industry-backed groups are promising jobs, clean energy, and lower electricity bills....",
-      "link": "https://grist.org/energy/data-centers-are-facing-an-image-problem-the-tech-industry-is-spending-millions-to-rebrand-them/",
-      "pubDate": "Mon, 26 Jan 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Asia Pacific Maritime Returns to Singapore Bringing Next Energy to Focus; Accelerating Maritime Decarbonisation Forward",
-      "description": "Asia Pacific Maritime (APM), Asia’s premier exhibition and conference for Shipbuilding &#38; Marine, Workboat, Offshore, and Electric &#38; Hybrid Mar...",
-      "link": "https://econews.com.au/asia-pacific-maritime-returns-to-singapore-bringing-next-energy-to-focus-accelerating-maritime-decarbonisation-forward/",
-      "pubDate": "Mon, 26 Jan 2026 07:05:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Frontier selects Leilac to develop zero carbon lime solution",
-      "description": "Frontier, an advance market commitment to accelerate permanent carbon removal, announced today that it awarded an R&#38;D grant to Leilac to support t...",
-      "link": "https://econews.com.au/frontier-selects-leilac-to-develop-zero-carbon-lime-solution/",
-      "pubDate": "Mon, 26 Jan 2026 06:00:29 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
