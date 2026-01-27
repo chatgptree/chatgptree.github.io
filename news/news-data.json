@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-01-27T10:38:10.430Z",
+  "lastUpdated": "2026-01-27T11:30:20.459Z",
   "articles": [
     {
-      "title": "Storm Chandra live: flooding and travel disruption hits UK as police warn against travel in parts of Devon",
-      "description": "&lt;p&gt;Weather warnings, incluiding ‘danger to life’ flood threat in Devon, are in place across much of the UK with major travel disruption expected...",
+      "title": "Storm Chandra live: flooding and travel disruption hit UK as police warn against travel in parts of Devon",
+      "description": "&lt;p&gt;Weather warnings, including ‘danger to life’ flood threat in Devon, are in place across much of the UK with major travel disruption expected&...",
       "link": "https://www.theguardian.com/uk-news/live/2026/jan/27/storm-chandra-live-updates-uk-weather-latest-met-office-environment-agency-devon-flooding",
-      "pubDate": "Tue, 27 Jan 2026 10:22:29 GMT",
+      "pubDate": "Tue, 27 Jan 2026 11:00:36 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6c5c39d4b40e227804ab99c6e5238a3388aac3ba/876_0_2075_1661/master/2075.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87546dccaf5442578cad39ea8c768fd8"
+    },
+    {
+      "title": "The ‘Biggest Tragedy’ of Trump’s Gutting of the National Park Service",
+      "description": "PENDLETON, Ore.—With the second coming of Donald J. Trump, the first Native American director of the National Park Service packed up his belongings in...",
+      "link": "https://insideclimatenews.org/news/27012026/the-biggest-tragedy-of-trumps-gutting-of-the-national-park-service/",
+      "pubDate": "Tue, 27 Jan 2026 10:15:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Scientists Push for More Ambitious Climate Targets",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0fba27f4e0f7680fb85d0e816621019e57e6146a/210_140_1425_1140/master/1425.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c91fc8ca787ab09dc4379bf638b8f93"
-    },
-    {
-      "title": "A Town’s Opposition to Proposed Power Lines Sparks Discussion About the Cost of Texas’ Growth",
-      "description": "GLEN ROSE, Texas—After a long journey north through Mexico’s highlands, small songbirds with bright yellow faces descend upon mature canopies of ashe ...",
-      "link": "https://insideclimatenews.org/news/26012026/a-towns-opposition-to-proposed-power-lines-sparks-discussion-about-the-cost-of-texas-growth/",
-      "pubDate": "Mon, 26 Jan 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
