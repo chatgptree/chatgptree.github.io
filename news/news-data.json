@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T17:35:52.506Z",
+  "lastUpdated": "2026-01-27T18:52:36.514Z",
   "articles": [
     {
       "title": "The UK government didn't want you to see this report on ecosystem collapse. I'm not surprised | George Monbiot",
@@ -36,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9dbf00135f124f30f8543ef7c8b4ae337c52845c/0_0_5260_4207/master/5260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33c1b075791584943cf8d295519169ae"
+    },
+    {
+      "title": "What is a heat pump and what grants are available?",
+      "description": "The government wants more homes to have heat pumps and is making grants available....",
+      "link": "https://www.bbc.com/news/articles/c8xgdv9e007o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Jan 2026 13:05:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘Abdication’: Trump takes US out of Paris climate agreement for a second time",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Six people killed in private jet crash in Maine during snowstorm",
-      "description": "&lt;p&gt;Aircraft crashed on takeoff at Bangor airport as visibility diminished amid winter storm, leading to airport shutdown&lt;/p&gt;&lt;p&gt;Six p...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/26/private-aircraft-crashes-maine-winter-storm",
-      "pubDate": "Tue, 27 Jan 2026 00:29:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7463b384562c559916e52754d483d0020cdca92a/359_0_1973_1579/master/1973.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54babe7e8882f1d16d7d302562482930"
     }
   ]
 }
