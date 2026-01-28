@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-28T21:37:41.100Z",
+  "lastUpdated": "2026-01-28T22:38:21.335Z",
   "articles": [
+    {
+      "title": "As an Oil Rig Topples in the Alaskan Arctic and Ignites a Fire, Exploration There Continues",
+      "description": "When ConocoPhillips won federal approval last year to explore for oil in the Alaskan Arctic, environmental groups warned the proposal was rushed throu...",
+      "link": "https://insideclimatenews.org/news/28012026/as-an-oil-rig-topples-in-the-alaskan-arctic-and-ignites-a-fire-exploration-there-continues/",
+      "pubDate": "Wed, 28 Jan 2026 22:32:59 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The winter storm exposed the grid’s real weakness: Lots of old poles",
+      "description": "Aging infrastructure is to blame for Winter Storm Fern’s weather outages — and for recent price spikes....",
+      "link": "https://grist.org/energy/winter-storm-fern-utility-poles-wires-electricity-grid/",
+      "pubDate": "Wed, 28 Jan 2026 21:50:07 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/polar-vortex-arctic-cold-winter-storm-U.S.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "One-Third of Pacific Island Fish Contaminated With Microplastics",
       "description": "From the coral-covered coastlines of Tonga to the remote sandy atolls of Tuvalu, microscopic synthetic fibers are infiltrating the region’s species an...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/623b9298564f2e7a49b6e42d41b90f8fa8ff5e5e/1_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4521444728df859e1d09c7f195a7d4ec"
-    },
-    {
-      "title": "What is a heat pump and what grants are available?",
-      "description": "The government wants more homes to have heat pumps and is making grants available....",
-      "link": "https://www.bbc.com/news/articles/c8xgdv9e007o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Jan 2026 13:05:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Abdication’: Trump takes US out of Paris climate agreement for a second time",
-      "description": "&lt;p&gt;Experts are watching for how other countries will react as the ‘real economy’ shifts to cheaper, cleaner energy&lt;/p&gt;&lt;p&gt;The United ...",
-      "link": "https://www.theguardian.com/us-news/2026/jan/27/trump-withdraws-paris-climate-agreement",
-      "pubDate": "Tue, 27 Jan 2026 12:30:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a564c1accf53bbaf666cc60175d885db2fb3b19a/476_0_4839_3870/master/4839.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28d5895f53d13d217d5736dd11a3141e"
     }
   ]
 }
