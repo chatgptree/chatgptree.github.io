@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-29T22:36:23.811Z",
+  "lastUpdated": "2026-01-29T23:35:03.324Z",
   "articles": [
+    {
+      "title": "Disaster Survivors Want Kristi Noem Out of FEMA",
+      "description": "Heather Talley’s life savings are tied up in a Swannanoa, North Carolina, home she can’t live in after Hurricane Helene. Bill Gould wants to rebuild h...",
+      "link": "https://insideclimatenews.org/news/29012026/disaster-survivors-want-kristi-noem-out-of-fema/",
+      "pubDate": "Thu, 29 Jan 2026 23:08:02 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "GPS is vulnerable to interference, so how can we make navigating at sea safer?...",
@@ -74,7 +83,7 @@
       "image": "https://i.guim.co.uk/img/media/10c54e8a1bc15b1df68aebdae189e74a76c73524/640_0_2978_2384/master/2978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c33309dd74c0fc27af5bf6a84ed692d"
     },
     {
-      "title": "Global Energy Transition Investment Grew in 2025 Despite Major Obstacles;  Here Are the Numbers",
+      "title": "Global Energy Transition Investment Grew in 2025 Despite Major Obstacles; Here Are the Numbers",
       "description": "Global investment in the energy transition rose to $2.3 trillion last year, an 8 percent increase from the prior year, demonstrating resilience amid p...",
       "link": "https://insideclimatenews.org/news/29012026/global-energy-transition-investment-grew-in-2025-inside-clean-energy/",
       "pubDate": "Thu, 29 Jan 2026 14:00:00 +0000",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The winter storm exposed the grid’s real weakness: Lots of old poles",
-      "description": "Aging infrastructure is to blame for Winter Storm Fern’s weather outages — and for recent price spikes....",
-      "link": "https://grist.org/energy/winter-storm-fern-utility-poles-wires-electricity-grid/",
-      "pubDate": "Wed, 28 Jan 2026 21:50:07 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/polar-vortex-arctic-cold-winter-storm-U.S.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
