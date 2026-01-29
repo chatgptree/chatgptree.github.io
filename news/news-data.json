@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-01-29T08:53:06.257Z",
+  "lastUpdated": "2026-01-29T09:53:50.471Z",
   "articles": [
+    {
+      "title": "Solar farms can be havens for rare plants. Just ask the threecorner milkvetch.",
+      "description": "The Mojave Desert species is thriving at a solar farm near Las Vegas, perhaps because the panels slow evaporation....",
+      "link": "https://grist.org/energy/solar-farms-can-be-havens-for-rare-plants-just-ask-the-threecorner-milkvetch/",
+      "pubDate": "Thu, 29 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/Gemini-Solar.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Climate news is written in a language most people can&#8217;t understand",
+      "description": "A new report argues that English-only climate science and disaster alerts are excluding most of the world, and putting Indigenous communities at great...",
+      "link": "https://grist.org/indigenous/climate-news-is-written-in-a-language-most-people-cant-understand/",
+      "pubDate": "Thu, 29 Jan 2026 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why the government is trying to make coal cute",
+      "description": "Trump said coal needed better PR. Then Coalie showed up....",
+      "link": "https://grist.org/culture/trump-coal-mascot-coalie-cute-burgum/",
+      "pubDate": "Thu, 29 Jan 2026 09:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/coalie-tweet.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Amid National Call to ‘Make Polluters Pay,’ Illinois Lawmakers Are Prepping a Climate Change Superfund Bill",
       "description": "Illinois lawmakers plan to introduce a climate change superfund bill in the state legislature this session, the latest in a growing number of states s...",
@@ -151,33 +178,6 @@
       "link": "https://grist.org/georgia-psc/an-ousted-regulator-reflects-on-georgia-new-power-politics/",
       "pubDate": "Wed, 28 Jan 2026 09:15:00 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sunken Thames barges create new island for birds",
-      "description": "The National Trust describes the Northey Island project as \"a bold marine engineering feat\"....",
-      "link": "https://www.bbc.com/news/articles/cvg5zw5l42xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Jan 2026 07:02:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Filming a Frosty Fruit in 48C heat. Spoiler alert: the camera couldn't handle it – video",
-      "description": "&lt;p&gt;How long does it take for a Frosty Fruit to melt in a heatwave? Guardian Australia sacrificed three ice blocks in Melbourne, Sydney and Ouyen...",
-      "link": "https://www.theguardian.com/australia-news/video/2026/jan/28/ice-block-frosty-fruit-melt-heatwave-48c-australia",
-      "pubDate": "Wed, 28 Jan 2026 06:41:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a1f8deb8497862541a7c96e7522b12ce76013ab9/285_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5c232b282c4cb992e63bced996a6434"
-    },
-    {
-      "title": "Despite Limited Interest in Drilling on Federal Land, Forest Service ‘Streamlines’ Oil and Gas Leasing Rules",
-      "description": "The U.S. Forest Service announced revisions to its oil and gas leasing rules on Tuesday that the agency promises “modernizes and streamlines” the perm...",
-      "link": "https://insideclimatenews.org/news/27012026/forest-service-streamlines-oil-and-gas-leasing-rules/",
-      "pubDate": "Tue, 27 Jan 2026 23:28:27 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
