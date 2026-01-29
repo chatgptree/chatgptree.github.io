@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-29T16:53:42.120Z",
+  "lastUpdated": "2026-01-29T17:45:01.059Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "GPS is vulnerable to interference, so how can we make navigating at sea safer?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txx?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Jan 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
       "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1188feac6c4c9ffe367d6b492f25091e82404974/240_0_5233_4188/master/5233.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1340ef351edba0b52ef25785c3539b47"
-    },
-    {
-      "title": "‘I wasn’t going to be diverted,’ says King Charles about campaign on the environment",
-      "description": "&lt;p&gt;Monarch says he has remained focused despite early criticisms of his beliefs, in new film Finding Harmony: A King’s Vision&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/28/i-wasnt-going-to-be-diverted-says-king-charles-about-campaign-on-the-environment",
-      "pubDate": "Wed, 28 Jan 2026 17:30:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e2325ae70c23500c425b7a535613b8ccb27c2410/110_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85ed48f2d5a64be1eaff0b1dafae1bf4"
     }
   ]
 }
