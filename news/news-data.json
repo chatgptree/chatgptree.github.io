@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-29T19:37:32.455Z",
+  "lastUpdated": "2026-01-29T20:40:30.184Z",
   "articles": [
+    {
+      "title": "A Nebraska utility says that its coal plant poses no ‘significant’ health threat",
+      "description": "North Omaha residents, health experts, and two of the utility’s board members aren’t buying it....",
+      "link": "https://grist.org/climate-energy/a-nebraska-utility-says-that-its-coal-plant-poses-no-significant-health-threat/",
+      "pubDate": "Thu, 29 Jan 2026 20:07:05 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/Coal_Playground.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Organic salmon certifier forced to share findings amid claims consumers misled",
       "description": "&lt;p&gt;Information tribunal rules Soil Association must disclose salmon farm inspection reports to WildFish campaigners&lt;/p&gt;&lt;p&gt;Campaigner...",
@@ -13,7 +22,7 @@
     {
       "title": "BBC Inside Science",
       "description": "GPS is vulnerable to interference, so how can we make navigating at sea safer?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txx?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Jan 2026 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/polar-vortex-arctic-cold-winter-storm-U.S.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "One-Third of Pacific Island Fish Contaminated With Microplastics",
-      "description": "From the coral-covered coastlines of Tonga to the remote sandy atolls of Tuvalu, microscopic synthetic fibers are infiltrating the region’s species an...",
-      "link": "https://insideclimatenews.org/news/28012026/one-third-of-pacific-island-fish-contaminated-with-microplastics/",
-      "pubDate": "Wed, 28 Jan 2026 19:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
