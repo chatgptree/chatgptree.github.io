@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-29T10:49:06.893Z",
+  "lastUpdated": "2026-01-29T11:38:12.506Z",
   "articles": [
+    {
+      "title": "Developer Calls GW Ranch in Pecos County, Texas, the ‘Largest Power Project’ in U.S.",
+      "description": "Texas’ environmental regulator this week issued the largest air pollution permit in the country to an enormous planned complex of gas power plants and...",
+      "link": "https://insideclimatenews.org/news/29012026/developer-calls-gw-ranch-in-pecos-county-texas-the-largest-power-project-in-u-s/",
+      "pubDate": "Thu, 29 Jan 2026 11:22:51 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Baltimore bridge collapse: crew members from ship still held by US two years on",
+      "description": "&lt;p&gt;Despite no criminal charges being brought against them, four officers have been detained since the MV Dali struck the Francis Scott Key Bridg...",
+      "link": "https://www.theguardian.com/environment/2026/jan/29/baltimore-francis-stock-key-bridge-collapse-crew-members-mv-dali-ship-still-held-by-us",
+      "pubDate": "Thu, 29 Jan 2026 11:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4e02b2cf96a950c2c7fbef906f66af75a005c37d/687_187_3099_2480/master/3099.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=906b9e00bc877f8125e1f64a9e5793e0"
+    },
     {
       "title": "Data Centers in PJM Grid Can Rely Solely on Generators During the Cold, DOE Rules",
       "description": "RICHMOND, Va.—The U.S. Department of Energy used the Federal Power Act on Monday to allow data centers within the regional grid operated by PJM Interc...",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/28012026/trumps-choice-to-be-alabamas-next-senator-finds-an-odd-political-target-the-modern-gas-can/",
       "pubDate": "Wed, 28 Jan 2026 09:45:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump destroyed offshore wind. The Northeast can’t live without it.",
-      "description": "To keep the lights on, states like New York and Massachusetts will need to build projects that are currently “impossible.”...",
-      "link": "https://grist.org/climate-energy/trump-offshore-wind-northeast-new-york-massachusetts-orsted-equinor/",
-      "pubDate": "Wed, 28 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/1st-year-charts-centered.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Can cities make landlords care about energy efficiency?",
-      "description": "New research shows that city and state climate policies often leave renters behind....",
-      "link": "https://grist.org/buildings/can-cities-make-landlords-care-about-energy-efficiency/",
-      "pubDate": "Wed, 28 Jan 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
