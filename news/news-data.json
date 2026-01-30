@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-30T09:49:43.832Z",
+  "lastUpdated": "2026-01-30T10:45:40.883Z",
   "articles": [
+    {
+      "title": "Maine Again Looks North for Onshore Wind, but Full Grid Integration Will Have to Wait",
+      "description": "New wind projects could be coming to Northern Maine–just not new power. The Maine Public Utilities Commission (PUC) has released a final Request for P...",
+      "link": "https://insideclimatenews.org/news/30012026/maine-again-looks-north-for-onshore-wind-but-full-grid-integration-will-have-to-wait/",
+      "pubDate": "Fri, 30 Jan 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "In Arizona, Utilities and State Regulators Double Down on Fossil Fuels and Higher Costs Despite Opposition From Residents",
       "description": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Fr...",
@@ -148,7 +157,7 @@
     {
       "title": "BBC Inside Science",
       "description": "GPS is vulnerable to interference, so how can we make navigating at sea safer?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txx?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Jan 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4bba088d9dfc792a24a6bc23c2e96f941473cd9b/0_0_4853_3883/master/4853.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78a4e7b34d05f56820914bfef46620d2"
-    },
-    {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:25:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
