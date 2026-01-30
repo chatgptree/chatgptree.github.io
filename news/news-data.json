@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-30T21:35:16.584Z",
+  "lastUpdated": "2026-01-30T22:35:17.378Z",
   "articles": [
+    {
+      "title": "Panic buying ahead of the winter storm isn’t preparedness. Here’s who it hurts.",
+      "description": "While some hoard bread, milk, and eggs, others face bare shelves — and the planet pays too....",
+      "link": "https://grist.org/food-and-agriculture/panic-buying-ahead-of-the-winter-storm-isnt-preparedness-heres-who-it-hurts/",
+      "pubDate": "Fri, 30 Jan 2026 22:12:50 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/Frozen-power-poles.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Trump’s Pick to Lead the Federal Reserve Could Steer Bank Away From Climate Change",
+      "description": "The fight over control of the Federal Reserve has revolved around interest rates and inflation, but President Donald Trump’s choice to be the bank’s n...",
+      "link": "https://insideclimatenews.org/news/30012026/trumps-pick-to-lead-the-federal-reserve-could-steer-bank-away-from-climate-change/",
+      "pubDate": "Fri, 30 Jan 2026 21:59:19 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Day and night, there’s no relief: five ways this heatwave is one of Australia’s worst on record",
       "description": "&lt;p&gt;Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia’s ‘most significant’ heatwaves ...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/82b2428966681c569390f49365d41b7097403656/0_214_2712_2170/master/2712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a958ef2cf237ea1dcdce4f24f5084dd"
-    },
-    {
-      "title": "Disaster Survivors Want Kristi Noem Out of FEMA",
-      "description": "Heather Talley’s life savings are tied up in a Swannanoa, North Carolina, home she can’t live in after Hurricane Helene. Bill Gould wants to rebuild h...",
-      "link": "https://insideclimatenews.org/news/29012026/disaster-survivors-want-kristi-noem-out-of-fema/",
-      "pubDate": "Thu, 29 Jan 2026 23:08:02 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "GPS is vulnerable to interference, so how can we make navigating at sea safer?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txx?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Jan 2026 21:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
