@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-01-30T08:52:27.349Z",
+  "lastUpdated": "2026-01-30T09:49:43.832Z",
   "articles": [
+    {
+      "title": "In Arizona, Utilities and State Regulators Double Down on Fossil Fuels and Higher Costs Despite Opposition From Residents",
+      "description": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Fr...",
+      "link": "https://insideclimatenews.org/news/30012026/in-arizona-utilities-and-state-regulators-double-down-on-fossil-fuels-and-higher-costs-despite-opposition-from-residents/",
+      "pubDate": "Fri, 30 Jan 2026 09:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The biomass industry promised these Southern towns prosperity. So why are they still dying?",
+      "description": "States gave Drax millions in tax breaks in the hopes of boosting jobs....",
+      "link": "https://grist.org/accountability/biomass-industry-south-mill-towns-louisiana-mississippi/",
+      "pubDate": "Fri, 30 Jan 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/Drax_Urania_man.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "EVs are already making your air cleaner",
+      "description": "A study in California finds that even small increases in EV adoption lead to measurable drops in neighborhood-level air pollution....",
+      "link": "https://grist.org/solutions/evs-are-already-making-your-air-cleaner/",
+      "pubDate": "Fri, 30 Jan 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/wawa.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "How thick is the ice on the Great Lakes? Scientists want your help.",
+      "description": "As climate change alters ice cover, researchers are asking for data from locals who are already \"in tune with the ice.\"...",
+      "link": "https://grist.org/science/great-lakes-ice-citizen-science-climate-data/",
+      "pubDate": "Fri, 30 Jan 2026 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/ice-auger.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Epson Ranked 6th among Clarivate Top 100 Global Innovators 2026",
       "description": "Epson has been ranked 6th, the same position as last year, in the list of Clarivate Top 100 Global Innovators 2026 announced by the global information...",
@@ -112,7 +148,7 @@
     {
       "title": "BBC Inside Science",
       "description": "GPS is vulnerable to interference, so how can we make navigating at sea safer?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txx?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Jan 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Feels like a losing battle’: the fight against flooding in Somerset",
-      "description": "&lt;p&gt;Emergency pumps are deployed in attempt to stop water inundating homes around River Parrett&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=...",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/29/somerset-fight-against-flooding-emergency-pumps-river-parrett",
-      "pubDate": "Thu, 29 Jan 2026 16:18:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/92b7235375bc6252dfd8c2cc57daa7d7d24ebc5b/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c84c5916a067eaa97c1295edff69db3"
-    },
-    {
-      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
-      "description": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey....",
-      "link": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:00:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
-      "description": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey....",
-      "link": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:00:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Skinks to high heaven: endangered alpine lizard numbers set to rise after Omeo falls pregnant in Victoria",
-      "description": "&lt;p&gt;Eleven guthega skinks could soon become 13 thanks to a captive breeding program in the Alpine national park&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/jan/29/skink-endangered-alpine-lizard-numbers-alpine-national-park-victoria",
-      "pubDate": "Thu, 29 Jan 2026 14:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/10c54e8a1bc15b1df68aebdae189e74a76c73524/640_0_2978_2384/master/2978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c33309dd74c0fc27af5bf6a84ed692d"
     }
   ]
 }
