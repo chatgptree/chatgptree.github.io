@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T10:38:09.861Z",
+  "lastUpdated": "2026-02-01T11:29:09.566Z",
   "articles": [
     {
       "title": "With Waters Rising, Pennsylvania’s Historical Treasures Must ‘Adapt or Collapse’",
@@ -79,6 +79,15 @@
       "link": "https://insideclimatenews.org/news/31012026/protesters-target-cargill-at-one-of-the-companys-major-amazonian-ports/",
       "pubDate": "Sat, 31 Jan 2026 09:57:00 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How winter storms are rapidly reshaping our coastline",
+      "description": "Why the coastline is eroding fast - after Storm Ingrid strips beaches in height and exposes homes....",
+      "link": "https://www.bbc.com/news/articles/c701yz8xe51o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Jan 2026 07:31:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/11/wawa.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "How thick is the ice on the Great Lakes? Scientists want your help.",
-      "description": "As climate change alters ice cover, researchers are asking for data from locals who are already \"in tune with the ice.\"...",
-      "link": "https://grist.org/science/great-lakes-ice-citizen-science-climate-data/",
-      "pubDate": "Fri, 30 Jan 2026 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/ice-auger.jpg?quality=75&amp;strip=all"
     }
   ]
 }
