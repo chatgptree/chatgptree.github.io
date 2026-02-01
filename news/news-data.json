@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-01T11:29:09.566Z",
+  "lastUpdated": "2026-02-01T13:07:36.266Z",
   "articles": [
+    {
+      "title": "‘It sounds apocalyptic’: experts warn of impact of UK floods on birds, butterflies and dormice",
+      "description": "&lt;p&gt;Events such as Storm Chandra take a terrible toll on ecosystems, but nature can be part of the solution for mitigating flood waters&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/environment/2026/feb/01/storm-chandra-uk-floods-impact-wildlife-birds-butterflies-dormice-beavers-aoe",
+      "pubDate": "Sun, 01 Feb 2026 13:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ba83962b59abc065105f710fc11726670b154d05/0_0_5095_4078/master/5095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7830770dad41ae9c60433a2e34d0088"
+    },
+    {
+      "title": "Fossil fuel firms may have to pay for climate damage under proposed UN tax",
+      "description": "&lt;p&gt;Framework Convention on International Tax Cooperation could also force ultra-rich to pay global wealth tax &lt;/p&gt;&lt;p&gt;Fossil fuel com...",
+      "link": "https://www.theguardian.com/environment/2026/feb/01/fossil-fuel-firms-may-have-to-pay-for-climate-damage-under-proposed-un-tax",
+      "pubDate": "Sun, 01 Feb 2026 12:00:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5702a81767f367163e1e4da4150a991e6d4c9fe3/347_0_3465_2773/master/3465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b3ef39fcec3be5d6af13e4e72497305"
+    },
     {
       "title": "With Waters Rising, Pennsylvania’s Historical Treasures Must ‘Adapt or Collapse’",
       "description": "PHILADELPHIA—Karen Young stood in a cavernous room perched on the edge of the Schuylkill River that was once a public swimming pool.  Abandoned in 197...",
@@ -36,6 +54,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/012e51b04cc185154413d615763026d580055e80/845_359_5755_4606/master/5755.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dffd2530d358cbb7d3b6beb6fb727835"
+    },
+    {
+      "title": "Musk's SpaceX applies to launch a million satellites into orbit",
+      "description": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence....",
+      "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Jan 2026 16:19:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "New Hampshire Republicans want to raise taxes on homes with solar",
@@ -128,15 +155,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Day and night, there’s no relief: five ways this heatwave is one of Australia’s worst on record",
-      "description": "&lt;p&gt;Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia’s ‘most significant’ heatwaves ...",
-      "link": "https://www.theguardian.com/environment/2026/jan/31/day-and-night-theres-no-relief-five-ways-this-heatwave-is-one-of-australias-worst-on-record",
-      "pubDate": "Fri, 30 Jan 2026 14:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/41d7eb9d151314d8e6fa94ceb30b0cd83ad5fe88/8_0_4354_3484/master/4354.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4cbbb87287d41b9380aa40eec2849b6a"
-    },
-    {
       "title": "How Trump’s EPA rollbacks could harm our air and water – and worsen global heating",
       "description": "&lt;p&gt;Experts say administration has launched ‘war on all fronts’ to undo environmental rules – here are the key areas at risk&lt;/p&gt;&lt;p&gt;In...",
       "link": "https://www.theguardian.com/environment/2026/jan/30/trump-epa-rollbacks-air-water-climate",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The biomass industry promised these Southern towns prosperity. So why are they still dying?",
-      "description": "States gave Drax millions in tax breaks in the hopes of boosting jobs....",
-      "link": "https://grist.org/accountability/biomass-industry-south-mill-towns-louisiana-mississippi/",
-      "pubDate": "Fri, 30 Jan 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/Drax_Urania_man.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "EVs are already making your air cleaner",
-      "description": "A study in California finds that even small increases in EV adoption lead to measurable drops in neighborhood-level air pollution....",
-      "link": "https://grist.org/solutions/evs-are-already-making-your-air-cleaner/",
-      "pubDate": "Fri, 30 Jan 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/wawa.jpg?quality=75&#038;strip=all"
     }
   ]
 }
