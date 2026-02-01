@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-01T22:34:16.730Z",
+  "lastUpdated": "2026-02-01T23:33:46.505Z",
   "articles": [
+    {
+      "title": "Bomb cyclone brings freezing temperatures and snow to millions in US",
+      "description": "&lt;p&gt;About 150m faced cold weather advisories along eastern US, and two in North Carolina died in storm-related conditions&lt;/p&gt;&lt;p&gt;A bom...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/01/bomb-cyclone-snow-cold-weather-storm-us",
+      "pubDate": "Sun, 01 Feb 2026 22:51:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/821a0b4e4e9169e9118214b25b98c9353ffc8f2a/0_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98f7a2081f0075669bde8979195a3d39"
+    },
     {
       "title": "The Guardian view on risks from biodiversity collapse: warnings must be heeded before it’s too late | Editorial",
       "description": "&lt;p&gt;Inadequate food supplies and collapsing rainforests must be recognised as national security threats – not pigeonholed as green issues&lt;/p&g...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/Frozen-power-poles.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Trump’s Pick to Lead the Federal Reserve Could Steer Bank Away From Climate Change",
-      "description": "The fight over control of the Federal Reserve has revolved around interest rates and inflation, but President Donald Trump’s choice to be the bank’s n...",
-      "link": "https://insideclimatenews.org/news/30012026/trumps-pick-to-lead-the-federal-reserve-could-steer-bank-away-from-climate-change/",
-      "pubDate": "Fri, 30 Jan 2026 21:59:19 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
