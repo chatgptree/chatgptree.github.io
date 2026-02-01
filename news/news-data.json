@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-01T16:39:32.208Z",
+  "lastUpdated": "2026-02-01T17:34:17.828Z",
   "articles": [
+    {
+      "title": "Mexico moves to combat pollution following Guardian investigations",
+      "description": "&lt;p&gt;After stories revealed high levels of contamination in neighborhood around factory processing US toxic waste, government announces sweeping a...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/01/mexico-moves-to-combat-pollution-following-guardian-investigations",
+      "pubDate": "Sun, 01 Feb 2026 17:08:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bf3b407f358e71a0c12d97058eb9487806ee4668/414_0_4140_3312/master/4140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=753f369a10e98776c2524463e0a89173"
+    },
     {
       "title": "Visiting Oregon? You may soon have to pay a tax to protect its wildlife.",
       "description": "A bill in the legislature would increase the state’s hotel and lodging taxes by 1.25 percent....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/527934a93a10a3209170a23125a8f5b35bf78701/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acacda9101ef50b690ea30165f8f64a4"
-    },
-    {
-      "title": "Maine Again Looks North for Onshore Wind, but Full Grid Integration Will Have to Wait",
-      "description": "New wind projects could be coming to Northern Maine–just not new power. The Maine Public Utilities Commission (PUC) has released a final Request for P...",
-      "link": "https://insideclimatenews.org/news/30012026/maine-again-looks-north-for-onshore-wind-but-full-grid-integration-will-have-to-wait/",
-      "pubDate": "Fri, 30 Jan 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
