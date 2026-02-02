@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-02T14:51:42.747Z",
+  "lastUpdated": "2026-02-02T15:44:22.708Z",
   "articles": [
+    {
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Feb 2026 15:39:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Street where residents are terrified of flooding to be bulldozed",
       "description": "Homes on a street at severe risk of flooding will be bought by a local council....",
@@ -66,12 +75,12 @@
     },
     {
       "title": "Turmoil at FEMA adds to the revolt against Kristi Noem",
-      "description": "The Homeland Security secretary has all but halted the agency’s disaster spending....",
+      "description": "The homeland security secretary has all but halted the agency’s disaster spending....",
       "link": "https://grist.org/extreme-weather/kristi-noem-fema-dhs-trump-disaster/",
       "pubDate": "Mon, 02 Feb 2026 09:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/11/FEMA-glass-HQ.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "‘Nothing is sacred to them’: the race to save rare plants as Russian troops advance",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/HorseshoeLake.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "‘It sounds apocalyptic’: experts warn of impact of UK floods on birds, butterflies and dormice",
-      "description": "&lt;p&gt;Events such as Storm Chandra take a terrible toll on ecosystems, but nature can be part of the solution for mitigating flood waters&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/environment/2026/feb/01/storm-chandra-uk-floods-impact-wildlife-birds-butterflies-dormice-beavers-aoe",
-      "pubDate": "Sun, 01 Feb 2026 13:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ba83962b59abc065105f710fc11726670b154d05/0_0_5095_4078/master/5095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7830770dad41ae9c60433a2e34d0088"
     }
   ]
 }
