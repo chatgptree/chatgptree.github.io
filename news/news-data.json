@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-03T11:41:16.670Z",
+  "lastUpdated": "2026-02-03T13:19:26.135Z",
   "articles": [
+    {
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Feb 2026 13:18:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The blight of sewage pollution tackled in water shake-up",
+      "description": "A major review called for oversight of water companies in Wales and England to be overhauled....",
+      "link": "https://www.bbc.com/news/articles/c205v3dj818o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Feb 2026 12:25:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Plan to allow fishing around Chagos Islands alarms conservationists",
+      "description": "&lt;p&gt;Chagossian people would be allowed to fish in area that has teemed with life since ban was introduced in 2010&lt;/p&gt;&lt;p&gt;One of the mo...",
+      "link": "https://www.theguardian.com/world/2026/feb/03/conservationists-oppose-proposal-allow-fishing-chagos-islands",
+      "pubDate": "Tue, 03 Feb 2026 12:08:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/25da67ef346aade32610145326aa94c0163499aa/146_0_3290_2632/master/3290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1af9b45e52ad32a218258dc08c0f58b"
+    },
     {
       "title": "Composting Fines for Buildings Are Back on in New York City",
       "description": "In 2024, New York City’s Department of Sanitation rolled out a mandatory curbside organics collection program, aiming to reduce landfill waste and cut...",
@@ -38,15 +65,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Feb 2026 08:04:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Environmentalists decry ‘crushingly disappointing’ Pfas action plan for UK",
       "description": "&lt;p&gt;Ministers’ proposals to tackle ‘forever chemicals’ fail to match tougher stance taken in Europe, say experts&lt;/p&gt;&lt;p&gt;Environmental ...",
       "link": "https://www.theguardian.com/environment/2026/feb/03/environmentalists-decry-crushingly-disappointing-pfas-action-plan-for-uk",
@@ -72,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2762f2d37c7aac00807044bcb617ba2e8c3ee693/634_0_4549_3641/master/4549.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a592cd2116ff9d409d68788ec260b73"
-    },
-    {
-      "title": "NSW goldmine faces community class action over allegations of a ‘toxic trifecta’ of pollution",
-      "description": "&lt;p&gt;Residents living near Cadia goldmine in central western NSW allege in court filings that dust containing heavy metals has contaminated the wa...",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/03/cadia-goldmine-nsw-community-class-action-pollution",
-      "pubDate": "Tue, 03 Feb 2026 03:28:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5b272c28d8715a68a83d05be121bbe8116601562/307_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ec44062494d7212b2a6ecf4542824c6"
     },
     {
       "title": "Candela P-12 completes world’s longest electric sea journey",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9801ba052b01be56ec364bc9dd33b68ac68ab13d/791_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0de9ebc8b1e4cb5eed3e20d11a1e61fc"
-    },
-    {
-      "title": "As the Arctic Grows Noisier, Narwhals Are Becoming Quieter",
-      "description": "For most of their evolutionary history, narwhals have relied more on sound than sight to survive in the Arctic’s dark icy waters. The speckled toothed...",
-      "link": "https://insideclimatenews.org/news/02022026/as-the-arctic-grows-noisier-narwhals-are-becoming-quieter/",
-      "pubDate": "Mon, 02 Feb 2026 10:15:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
