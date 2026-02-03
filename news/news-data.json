@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-03T14:53:59.225Z",
+  "lastUpdated": "2026-02-03T15:57:47.152Z",
   "articles": [
+    {
+      "title": "Here’s why US household energy bills are soaring – and how to fix it | Mark Wolfe",
+      "description": "&lt;p&gt;Trump has prioritized fossil fuel companies over consumers, hitting the lowest-income families hardest&lt;/p&gt;&lt;p&gt;Donald Trump promise...",
+      "link": "https://www.theguardian.com/commentisfree/2026/feb/03/us-energy-bills-trump",
+      "pubDate": "Tue, 03 Feb 2026 15:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/17c6a57a3b88c166c51d7c329a5df51b8475a21e/590_0_5912_4730/master/5912.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=051635f0ebeb3447daba5b799df665ac"
+    },
     {
       "title": "The blight of sewage pollution tackled in water shake-up",
       "description": "A major review called for oversight of water companies in Wales and England to be overhauled....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Is tyre pollution causing mass deaths in vulnerable salmon populations?",
-      "description": "&lt;p&gt;A US judge will decide if, as research suggests, a chemical tyre additive is harming endangered fish species&lt;/p&gt;&lt;p&gt;Last week, a d...",
-      "link": "https://www.theguardian.com/environment/2026/feb/02/is-tyre-pollution-causing-mass-deaths-in-vulnerable-salmon-populations",
-      "pubDate": "Mon, 02 Feb 2026 12:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9801ba052b01be56ec364bc9dd33b68ac68ab13d/791_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0de9ebc8b1e4cb5eed3e20d11a1e61fc"
     }
   ]
 }
