@@ -1,12 +1,30 @@
 {
-  "lastUpdated": "2026-02-03T08:51:00.966Z",
+  "lastUpdated": "2026-02-03T09:54:17.300Z",
   "articles": [
     {
-      "title": "Musk firms SpaceX and xAI merge to make world's most valuable private company",
-      "description": "Musk's space exploration company and his AI start-up are merging....",
+      "title": "Japan&#8217;s unprecedented project could test the limits of deep-sea mining",
+      "description": "Japan is spending five weeks mining the sea floor. It is a technological milestone — and a stress test for how nations balance geopolitics, clean ener...",
+      "link": "https://grist.org/international/japans-unprecedented-project-could-test-the-limits-of-deep-sea-mining/",
+      "pubDate": "Tue, 03 Feb 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/Mining-feat-illustration.png?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Musk's SpaceX and xAI merge to make world's most valuable private company",
+      "description": "Musk says the combined firm - which has been valued at more than $1tn - will be an \"innovation engine\"....",
       "link": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Feb 2026 08:40:40 GMT",
+      "pubDate": "Tue, 03 Feb 2026 09:31:06 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why the future of meat production is in vats, not farms",
+      "description": "“Cultivated” offerings join a herd of alternative meats that are challenging the traditional ways of raising livestock....",
+      "link": "https://grist.org/climate/why-the-future-of-meat-production-is-in-vats-not-farms/",
+      "pubDate": "Tue, 03 Feb 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump&#8217;s &#8216;get-out-of-jail-free card&#8217; for polluters faces its latest test in court",
-      "description": "The president exempted about 40 medical sterilization companies from Biden-era emissions standards. A new lawsuit challenges his authority....",
-      "link": "https://grist.org/regulation/trump-presidential-exemption-ethylene-oxide/",
-      "pubDate": "Mon, 02 Feb 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/02/0229_ETO-e1709142940180.png?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Turmoil at FEMA adds to the revolt against Kristi Noem",
-      "description": "The homeland security secretary has all but halted the agency’s disaster spending....",
-      "link": "https://grist.org/extreme-weather/kristi-noem-fema-dhs-trump-disaster/",
-      "pubDate": "Mon, 02 Feb 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/FEMA-glass-HQ.jpg?quality=75&#038;strip=all"
     }
   ]
 }
