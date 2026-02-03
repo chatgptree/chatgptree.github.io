@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-03T07:04:26.640Z",
+  "lastUpdated": "2026-02-03T08:51:00.966Z",
   "articles": [
+    {
+      "title": "Musk firms SpaceX and xAI merge to make world's most valuable private company",
+      "description": "Musk's space exploration company and his AI start-up are merging....",
+      "link": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Feb 2026 08:40:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Feb 2026 08:04:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmentalists decry ‘crushingly disappointing’ Pfas action plan for UK",
+      "description": "&lt;p&gt;Ministers’ proposals to tackle ‘forever chemicals’ fail to match tougher stance taken in Europe, say experts&lt;/p&gt;&lt;p&gt;Environmental ...",
+      "link": "https://www.theguardian.com/environment/2026/feb/03/environmentalists-decry-crushingly-disappointing-pfas-action-plan-for-uk",
+      "pubDate": "Tue, 03 Feb 2026 07:56:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0e9d54aea239e8b446e3725c6668eab3271d7692/281_0_2439_1951/master/2439.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0254ba975048e76d3dc0fad47b2b0bd"
+    },
     {
       "title": "Riverford sales rise 6% as UK organics market enjoys biggest boom in two decades",
       "description": "&lt;p&gt;Sector bounces back as consumers focus on provenance and healthy eating, but is still well behind Europe&lt;/p&gt;&lt;p&gt;Consumers searchin...",
@@ -92,15 +119,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 02 Feb 2026 15:39:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Street where residents are terrified of flooding to be bulldozed",
       "description": "Homes on a street at severe risk of flooding will be bought by a local council....",
       "link": "https://www.bbc.com/news/articles/ckgl62rx6l2o?at_medium=RSS&amp;at_campaign=rss",
@@ -117,15 +135,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Race to contain suspected bird flu outbreak among Thames Valley swans",
-      "description": "&lt;p&gt;Volunteer workers say increasing case numbers and dozens of dead birds raise fears spread is wider than recorded&lt;/p&gt;&lt;p&gt;Members of...",
-      "link": "https://www.theguardian.com/environment/2026/feb/02/race-contain-suspected-bird-flu-outbreak-swans",
-      "pubDate": "Mon, 02 Feb 2026 12:59:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2e247f2303e66c40f65356f501b9fd1a4d2ef18f/435_0_4258_3406/master/4258.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0ede4065d1b63c755d968280b200fac"
     },
     {
       "title": "Is tyre pollution causing mass deaths in vulnerable salmon populations?",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/11/FEMA-glass-HQ.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘Nothing is sacred to them’: the race to save rare plants as Russian troops advance",
-      "description": "&lt;p&gt;With some of Ukraine’s most valuable biodiversity sites and science facilities under occupation, experts at Sofiyivka Park in Uman are strugg...",
-      "link": "https://www.theguardian.com/environment/2026/feb/02/ukrainian-botanists-rare-endangered-plants-russian-occupation-biodiversity-aoe",
-      "pubDate": "Mon, 02 Feb 2026 09:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a9c7826bf9527a586f897825c1be4f52193287d0/202_0_1706_1365/master/1706.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adbc3d8b273da114a872d844dbe8223f"
     }
   ]
 }
