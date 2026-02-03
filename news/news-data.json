@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-03T21:43:01.713Z",
+  "lastUpdated": "2026-02-03T22:38:55.023Z",
   "articles": [
+    {
+      "title": "Wildfire Urgency Unites Congress. The ‘Fix Our Forests’ Act Does Not.",
+      "description": "Lawmakers from both parties agreed at a congressional hearing Tuesday that the federal government must act to address the growing threat of catastroph...",
+      "link": "https://insideclimatenews.org/news/03022026/congress-forests-act-wildfire/",
+      "pubDate": "Tue, 03 Feb 2026 22:15:33 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "NYC Congestion Pricing Is Improving Air Quality, but Trump Pushback Threatens Its Future",
+      "description": "Just over a year ago, New York City implemented a first-in-the-nation “congestion pricing” program to reduce traffic, fund public transit work and imp...",
+      "link": "https://insideclimatenews.org/news/03022026/todays-climate-nyc-congestion-pricing-air-quality-trump/",
+      "pubDate": "Tue, 03 Feb 2026 22:15:01 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Some experts say the new US dietary guidelines have ‘conflicting messaging’. Here’s who will be affected most",
       "description": "&lt;p&gt;It will take years for changes to take effect, but children who eat school meals and seniors served by Meals on Wheels will feel the DGA ripp...",
@@ -44,7 +62,7 @@
       "pubDate": "Tue, 03 Feb 2026 14:00:03 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/8dc3d2227ddfc2e4f514617e25c772f37298d929/815_1085_3165_2534/master/3165.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6552f925c98f42a3699f1031501b345"
+      "image": "https://i.guim.co.uk/img/media/5e952f0844d2cdf93907c88ee2b9ff8ff57d5796/1963_0_6677_5341/master/6677.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=430759d8deb844be172611050973dc9d"
     },
     {
       "title": "Up to half of coarse sediments on UK urban beaches may be human-made, study suggests",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "UK launches plan to tackle 'forever chemicals' amid growing concerns",
-      "description": "Increasing testing for PFAS is part of the UK's first ever national plan for tackling the substances....",
-      "link": "https://www.bbc.com/news/articles/cz9vz249keno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Feb 2026 00:06:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EV Charging Program Faces the Axe in Budget Bill",
-      "description": "A budget bill moving through Congress this week would defund a 5-year-old program designed to expand electric-vehicle charging stations. The National ...",
-      "link": "https://insideclimatenews.org/news/02022026/national-electric-vehicle-infrastructure-charging-funding/",
-      "pubDate": "Mon, 02 Feb 2026 23:38:18 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
