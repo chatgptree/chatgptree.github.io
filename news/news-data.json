@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-04T04:46:59.817Z",
+  "lastUpdated": "2026-02-04T05:56:21.721Z",
   "articles": [
+    {
+      "title": "‘If I think about what this means, I want to cry’: what happens when a city loses its university?",
+      "description": "&lt;p&gt;When Essex University’s Southend campus opened, it was a message of hope for a ‘left behind’ UK seaside town. Its closure will be felt far be...",
+      "link": "https://www.theguardian.com/environment/2026/feb/04/essex-university-southend-campus-closure-seaside-deprivation",
+      "pubDate": "Wed, 04 Feb 2026 05:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/efe0fff9ffef35683222d1a81cde8793f7b3277b/600_0_10928_8742/master/10928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92a7ede7b526b954ac8e7da6789dafea"
+    },
     {
       "title": "Missing pieces added to ancient global fish puzzle",
       "description": "Gogo field fossil imprint (unidentified)  Credit: Flinders University  New pieces have been added to the puzzle of the evolution of some of the oldest...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Environmentalists decry ‘crushingly disappointing’ Pfas action plan for UK",
-      "description": "&lt;p&gt;Ministers’ proposals to tackle ‘forever chemicals’ fail to match tougher stance taken in Europe, say experts&lt;/p&gt;&lt;p&gt;Environmental ...",
-      "link": "https://www.theguardian.com/environment/2026/feb/03/environmentalists-decry-crushingly-disappointing-pfas-action-plan-for-uk",
-      "pubDate": "Tue, 03 Feb 2026 07:56:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0e9d54aea239e8b446e3725c6668eab3271d7692/281_0_2439_1951/master/2439.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0254ba975048e76d3dc0fad47b2b0bd"
     }
   ]
 }
