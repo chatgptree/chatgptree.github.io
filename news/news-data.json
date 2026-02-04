@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-02-04T08:54:43.797Z",
+  "lastUpdated": "2026-02-04T09:55:52.478Z",
   "articles": [
+    {
+      "title": "Inside the polarizing plan to stash carbon in a California wetland",
+      "description": "A proposal to store carbon dioxide deep below a Bay Area wetland is testing how — and where — California pursues climate solutions....",
+      "link": "https://grist.org/solutions/inside-the-polarizing-plan-to-stash-carbon-in-a-california-wetland/",
+      "pubDate": "Wed, 04 Feb 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/05/DSC_0914-e1731559460859.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "The U.S. doesn&#8217;t need to generate as much new electricity as you think",
+      "description": "Load shifting and improving energy efficiency could reduce the need for new power plants, but utilities often profit more from building than saving po...",
+      "link": "https://grist.org/energy/the-u-s-doesnt-need-to-generate-as-much-new-electricity-as-you-think/",
+      "pubDate": "Wed, 04 Feb 2026 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Vast seagrass meadows will shield coastline",
+      "description": "Trials to restore the saltwater plant to the Humber Estuary are hugely encouraging, experts say....",
+      "link": "https://www.bbc.com/news/articles/ce3k6vrxwp0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Feb 2026 07:43:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Vast seagrass meadows will shield coastline",
+      "description": "Trials to restore the saltwater plant to the Humber Estuary are hugely encouraging, experts say....",
+      "link": "https://www.bbc.com/news/articles/ce3k6vrxwp0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Feb 2026 07:43:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Wildlife photographer of the year – people’s choice 2026",
       "description": "&lt;p&gt;A shortlist of 24 images has been selected for the wildlife photographer of the year people’s choice award. You can &lt;a href=\"https://www.n...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0d4408b5efa8d57073bcb0ad717c94b55d87dfca/121_0_3640_2912/master/3640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de68dea53081d923fdeeb652ad8efaf6"
-    },
-    {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Feb 2026 13:18:51 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Plan to allow fishing around Chagos Islands alarms conservationists",
-      "description": "&lt;p&gt;Chagossian people would be allowed to fish in area that has teemed with life since ban was introduced in 2010&lt;/p&gt;&lt;p&gt;One of the mo...",
-      "link": "https://www.theguardian.com/world/2026/feb/03/conservationists-oppose-proposal-allow-fishing-chagos-islands",
-      "pubDate": "Tue, 03 Feb 2026 12:08:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/25da67ef346aade32610145326aa94c0163499aa/146_0_3290_2632/master/3290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1af9b45e52ad32a218258dc08c0f58b"
-    },
-    {
-      "title": "Composting Fines for Buildings Are Back on in New York City",
-      "description": "In 2024, New York City’s Department of Sanitation rolled out a mandatory curbside organics collection program, aiming to reduce landfill waste and cut...",
-      "link": "https://insideclimatenews.org/news/03022026/composting-fines-for-buildings-are-back-on-in-new-york-city/",
-      "pubDate": "Tue, 03 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Japan&#8217;s unprecedented project could test the limits of deep-sea mining",
-      "description": "Japan is spending five weeks mining the seafloor. It is a technological milestone — and a stress test for how nations balance geopolitics, clean energ...",
-      "link": "https://grist.org/international/japans-unprecedented-project-could-test-the-limits-of-deep-sea-mining/",
-      "pubDate": "Tue, 03 Feb 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/Mining-feat-illustration.png?quality=75&#038;strip=all"
     }
   ]
 }
