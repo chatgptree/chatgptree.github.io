@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-05T20:43:03.041Z",
+  "lastUpdated": "2026-02-05T21:40:21.341Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "New research on how forever chemicals get into our environment....",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Feb 2026 21:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a ‘Powerful Vision’ on Whales and Oceans Could Change Worldviews",
+      "description": "As governments struggle to halt biodiversity loss and protect the world’s oceans using legal systems largely built by and for nation-states, Indigenou...",
+      "link": "https://insideclimatenews.org/news/05022026/maori-scientist-daniel-hikuroa-legal-rights-of-whales/",
+      "pubDate": "Thu, 05 Feb 2026 20:43:53 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Stark warning’: pesticide harm to wildlife rising globally, study finds",
       "description": "&lt;p&gt;Toxicity from farm chemicals increased for most species groups between 2013 and 2019, with insects worst affected&lt;/p&gt;&lt;p&gt;Ecologica...",
@@ -36,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f8123257ac04f934205c88b8e0054810d2fd7253/0_0_4733_3786/master/4733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acb5c09669188d967e2c469d48945309"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "New research on how forever chemicals get into our environment....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Feb 2026 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Airlines should tell UK customers the carbon impact of flights, watchdog says",
@@ -155,31 +164,22 @@
       "image": "https://i.guim.co.uk/img/media/d1f92280081decc7f555850a13ae873a30b77d7a/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91e86fa9e103082b259cfe6bec8e60af"
     },
     {
-      "title": "MEX and Xpansiv Enter Strategic Partnership to Advance Global Environmental Commodities Market Connectivity",
-      "description": "Macao International Carbon Emission Exchange (MEX) and Xpansiv, the leading infrastructure provider for the global energy transition markets, today an...",
-      "link": "https://econews.com.au/mex-and-xpansiv-enter-strategic-partnership-to-advance-global-environmental-commodities-market-connectivity/",
-      "pubDate": "Thu, 05 Feb 2026 03:04:56 +0000",
-      "sourceName": "econews.com.au",
+      "title": "Rio Grande Valley Advocates Urge Congress to Restore Protections for Public Lands in Path of Border Wall",
+      "description": "Advocates are calling for the Homeland Security funding bill, currently being negotiated, to include protections for Texas parks and cultural heritage...",
+      "link": "https://insideclimatenews.org/news/04022026/rio-grande-valley-border-wall-public-lands/",
+      "pubDate": "Thu, 05 Feb 2026 00:27:13 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+      "image": "../images/header2.jpg"
     },
     {
-      "title": "Science-led rewilding brings Eastern quolls back to mainland Australia",
-      "description": "Eastern Quoll Rewilding Health Check Sydney Zoo released the four Eastern quolls joeys at Bannockburn Rewilding Sanctuary, building on a successful re...",
-      "link": "https://econews.com.au/science-led-rewilding-brings-eastern-quolls-back-to-mainland-australia/",
-      "pubDate": "Thu, 05 Feb 2026 02:04:57 +0000",
-      "sourceName": "econews.com.au",
+      "title": "IOC must 'be better' on climate change - Coventry",
+      "description": "International Olympic Committee president Kirsty Coventry says it must \"be better\" on climate change after receiving a petition signed by more than 21...",
+      "link": "https://www.bbc.com/sport/articles/cwyg4xw283no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Feb 2026 20:34:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/image001-12.png"
-    },
-    {
-      "title": "NSW set to smash big battery target to secure our renewable energy future",
-      "description": "Minister for Energy, Penny Sharpe, Member for Granville Julia Finn MP with Iberdrola Ribbon Cutting     Penny Sharpe Minister for Climate Change Minis...",
-      "link": "https://econews.com.au/nsw-set-to-smash-big-battery-target-to-secure-our-renewable-energy-future/",
-      "pubDate": "Thu, 05 Feb 2026 02:04:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
+      "image": "../images/header2.jpg"
     }
   ]
 }
