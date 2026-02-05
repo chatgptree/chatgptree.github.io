@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-05T11:41:08.722Z",
+  "lastUpdated": "2026-02-05T13:21:17.334Z",
   "articles": [
+    {
+      "title": "Michigan accuses big oil of being ‘cartel’ that fuels climate crisis and high energy costs",
+      "description": "&lt;p&gt;In first-of-its-kind complaint, state accused four fossil fuel majors and US oil lobbying group of climate disinformation&lt;/p&gt;&lt;p&gt;A...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/05/michigan-oil-climate-crisis-energy-cost",
+      "pubDate": "Thu, 05 Feb 2026 13:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ec2416af74412765db5b2e8890fd962ee7356bd9/462_0_4615_3692/master/4615.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af11ca5aa6e2b1dcc82e8d249896dea3"
+    },
+    {
+      "title": "UK's £8bn research fund faces 'hard decisions' as it pauses new grants",
+      "description": "UKRI boss Ian Chapman said it had been told by the government to \"focus and do fewer things better\".\n...",
+      "link": "https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Feb 2026 12:00:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Hope and relief’ as seaside town’s last youth centre saved",
       "description": "&lt;p&gt;Charity praises effort to stop Ramsgate’s Pie Factory Music closing but calls for more youth services in coastal towns&lt;/p&gt;&lt;p&gt;The ...",
@@ -63,6 +81,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6d85931cff3cb5a077ba4adbd051d4428156941c/1412_0_5760_4608/master/5760.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=380816ae059f7a0110b05a1d62bb281e"
+    },
+    {
+      "title": "‘Everything is quagga mussel now’: can invasive species be stopped? – podcast",
+      "description": "&lt;p&gt;On a recent trip to Lake Geneva in Switzerland, biodiversity reporter Phoebe Weston witnessed the impact of one of the planet’s most potent i...",
+      "link": "https://www.theguardian.com/science/audio/2026/feb/05/everything-is-quagga-mussel-now-can-invasive-species-be-stopped-podcast",
+      "pubDate": "Thu, 05 Feb 2026 05:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d1f92280081decc7f555850a13ae873a30b77d7a/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91e86fa9e103082b259cfe6bec8e60af"
     },
     {
       "title": "MEX and Xpansiv Enter Strategic Partnership to Advance Global Environmental Commodities Market Connectivity",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/60cfa29920e56f7b27122fcfef295381007f99a7/769_0_6528_5223/master/6528.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68a825ed87479cbef2cf94acd4d26a6d"
-    },
-    {
-      "title": "Trump’s environmental rollbacks contradict RFK Jr’s healthy America promise, report finds",
-      "description": "&lt;p&gt;Dismantling rules will make children vulnerable to chronic diseases ‘make America healthy again’ wants to eradicate&lt;/p&gt;&lt;p&gt;Donald ...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/04/trump-environmental-rollbacks-maha-promise",
-      "pubDate": "Wed, 04 Feb 2026 12:30:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/82429e38521ecc0908e0e7a649ba60b33b3c12b3/180_0_1640_1312/master/1640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b85c910a2b851382ff0f9ca5bf8d0ecc"
-    },
-    {
-      "title": "Colorado River Negotiators Are Nearly Out of Time and Snowpack",
-      "description": "Time and water are running low on the Colorado River. Amid one of the driest winters on record, representatives from seven Western states have less th...",
-      "link": "https://insideclimatenews.org/news/04022026/colorado-river-record-low-snow-litigation/",
-      "pubDate": "Wed, 04 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Troubled Hog Farm in Wayne County, North Carolina, Is Hit With a New String of Violations",
-      "description": "FREMONT, N.C.—On a chilly afternoon in early January, Samantha Krop, the Neuse riverkeeper, and Taylor Register, a water quality specialist, trekked a...",
-      "link": "https://insideclimatenews.org/news/04022026/north-carolina-hog-farm-violations/",
-      "pubDate": "Wed, 04 Feb 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
