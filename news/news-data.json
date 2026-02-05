@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-05T09:56:11.125Z",
+  "lastUpdated": "2026-02-05T10:53:18.456Z",
   "articles": [
+    {
+      "title": "One of Africa’s Most Important Water Sources Just Got Some Very Good News",
+      "description": "A vast wetland system that feeds water supplies for much of central and southern Africa has remained largely outside the global conservation spotlight...",
+      "link": "https://insideclimatenews.org/news/05022026/africa-angola-wetlands-global-recognition/",
+      "pubDate": "Thu, 05 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mapping Unequal Climate Risks in a Northern California County",
+      "description": "The Bay Area Air District kicked off the new year with a warning for residents of the nine counties around San Francisco: if they lit a fireplace, woo...",
+      "link": "https://insideclimatenews.org/news/05022026/northern-california-air-pollution-sensors-climate-risks/",
+      "pubDate": "Thu, 05 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Olympics are ditching PFAS waxes — and the ‘ridiculous’ speed they gave skiers",
       "description": "After years of concern over so-called “fluoro” waxes, the Milan Cortina Games will be the first Olympics without them....",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Inside the polarizing plan to stash carbon in a California wetland",
-      "description": "A proposal to store carbon dioxide deep below a Bay Area wetland is testing how — and where — California pursues climate solutions....",
-      "link": "https://grist.org/solutions/inside-the-polarizing-plan-to-stash-carbon-in-a-california-wetland/",
-      "pubDate": "Wed, 04 Feb 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/05/DSC_0914-e1731559460859.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The US doesn&#8217;t need to generate as much new electricity as you think",
-      "description": "Load shifting and improving energy efficiency could reduce the need for new power plants, but utilities often profit more from building than saving po...",
-      "link": "https://grist.org/energy/the-u-s-doesnt-need-to-generate-as-much-new-electricity-as-you-think/",
-      "pubDate": "Wed, 04 Feb 2026 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/election-energy-electricity-rates-prices-issue-climate.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
