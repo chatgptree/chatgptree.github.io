@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-05T15:50:45.519Z",
+  "lastUpdated": "2026-02-05T17:00:01.223Z",
   "articles": [
+    {
+      "title": "Airlines should tell UK customers the carbon impact of flights, watchdog says",
+      "description": "&lt;p&gt;CAA’s guidance also including booking sites to enable passengers to make ‘more informed travel decisions’&lt;/p&gt;&lt;p&gt;Airlines and book...",
+      "link": "https://www.theguardian.com/environment/2026/feb/05/watchdog-urges-airlines-tell-uk-customers-carbon-impact-flights",
+      "pubDate": "Thu, 05 Feb 2026 16:05:00 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8b727946406e76d5770d09583e98af7281fe663d/592_0_6093_4876/master/6093.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1152eed26d19eb99bec9a7e3ca669106"
+    },
     {
       "title": "Looking Ahead to When Gas Stations Vanish",
       "description": "Sooner than you think, your city may be down to its last gas station, or, in large cities, the last few gas stations. They likely will be owned or hea...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flawed economic models mean climate crisis could crash global economy, experts warn",
-      "description": "&lt;p&gt;States and financial bodies using modelling that ignores shocks from extreme weather and climate tipping points &lt;/p&gt;&lt;p&gt;Flawed eco...",
-      "link": "https://www.theguardian.com/environment/2026/feb/05/flawed-economic-models-mean-climate-crisis-could-crash-global-economy-experts-warn",
-      "pubDate": "Thu, 05 Feb 2026 00:01:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f4c70034e9c850b947677fb9cdaea68bb11b396c/22_0_4402_3521/master/4402.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5f8b059dbcffa75aa9fc110bbf57b38"
     }
   ]
 }
