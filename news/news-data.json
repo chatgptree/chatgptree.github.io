@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-05T17:00:01.223Z",
+  "lastUpdated": "2026-02-05T17:58:21.320Z",
   "articles": [
+    {
+      "title": "UK to cut climate finance to poor countries by a fifth despite promising more help",
+      "description": "&lt;p&gt;Exclusive: Campaigners say proposed cut from £11.9bn over past five years to £9bn over next five years will cost lives and livelihoods&lt;/p&...",
+      "link": "https://www.theguardian.com/environment/2026/feb/05/uk-cut-climate-finance-poor-countries-by-fifth",
+      "pubDate": "Thu, 05 Feb 2026 17:00:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f8123257ac04f934205c88b8e0054810d2fd7253/0_0_4733_3786/master/4733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acb5c09669188d967e2c469d48945309"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "New research on how forever chemicals get into our environment....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8txy?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Feb 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Airlines should tell UK customers the carbon impact of flights, watchdog says",
       "description": "&lt;p&gt;CAA’s guidance also including booking sites to enable passengers to make ‘more informed travel decisions’&lt;/p&gt;&lt;p&gt;Airlines and book...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "CH4 Global scoops the pool with 2 international sustainability gongs",
-      "description": "CH4 Global founder and CEO Steve Meller CH4 Global has won two international awards recognising business sustainability and the impacts being made wit...",
-      "link": "https://econews.com.au/ch4-global-scoops-the-pool-with-2-international-sustainability-gongs/",
-      "pubDate": "Thu, 05 Feb 2026 01:04:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Heath-on-the-side-with-Methane-Tamer-in-his-hands-1024x683.jpg"
-    },
-    {
-      "title": "Rio Grande Valley Advocates Urge Congress to Restore Protections for Public Lands In Path of Border Wall",
-      "description": "Advocates are calling for the Homeland Security funding bill, currently being negotiated, to include protections for Texas parks and cultural heritage...",
-      "link": "https://insideclimatenews.org/news/04022026/rio-grande-valley-border-wall-public-lands/",
-      "pubDate": "Thu, 05 Feb 2026 00:27:13 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
