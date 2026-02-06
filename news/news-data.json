@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-06T15:50:39.950Z",
+  "lastUpdated": "2026-02-06T16:59:19.956Z",
   "articles": [
+    {
+      "title": "Europe feels the impact of weeks of wet weather and freezing cold",
+      "description": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extre...",
+      "link": "https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Feb 2026 16:03:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Calls to postpone presidential election as Storm Leonardo lashes Portugal and Spain",
       "description": "&lt;p&gt;Portugal’s far-right Chega party has said vote should be delayed as state of calamity declared in 69 areas&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
@@ -110,15 +119,6 @@
       "image": "https://i.guim.co.uk/img/media/6cd508335ce5804dbdf9626b0a0428964264f47d/443_571_2696_2157/master/2696.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1132d9e02f348be42fd584a3dacc1660"
     },
     {
-      "title": "European Social Media Company with Big Focus on Digital Integrity Launched at Davos",
-      "description": "Human User Verification to Counter Disinformation and AI-Bots Users across the globe will soon have an alternative to the existing social media channe...",
-      "link": "https://econews.com.au/european-social-media-company-with-big-focus-on-digital-integrity-launched-at-davos/",
-      "pubDate": "Fri, 06 Feb 2026 02:04:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
       "title": "Under Trump, EPA’s Enforcement of Environmental Laws Collapses, Report Finds",
       "description": "Enforcement against polluters in the United States plunged in the first year of President Donald Trump’s second term, a far bigger drop than in the sa...",
       "link": "https://insideclimatenews.org/news/05022026/trump-epa-polluter-enforcement-collapses/",
@@ -164,20 +164,20 @@
       "image": "https://i.guim.co.uk/img/media/d7c199a7d1570f3f39369753786cbaa435934a5b/671_0_4722_3780/master/4722.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60ab1876a5eb09b4277a5b222f695e00"
     },
     {
-      "title": "Europe feels the impact of Storm Leonardo and freezing cold",
-      "description": "Heavy rain and freezing temperatures have had a significant impact since the start of 2026 as Darren Bett explains....",
-      "link": "https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Feb 2026 17:21:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Looking Ahead to When Gas Stations Vanish",
       "description": "Sooner than you think, your city may be down to its last gas station, or, in large cities, the last few gas stations. They likely will be owned or hea...",
       "link": "https://insideclimatenews.org/news/05022026/inside-clean-energy-when-gas-stations-vanish/",
       "pubDate": "Thu, 05 Feb 2026 14:00:00 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What are critical minerals and why do countries need them?",
+      "description": "Countries are racing to secure the critical minerals and rare earths needed to make vital products....",
+      "link": "https://www.bbc.com/news/articles/cj6wwx7zxd9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Feb 2026 13:22:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
