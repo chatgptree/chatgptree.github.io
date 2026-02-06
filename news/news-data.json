@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-06T22:34:15.205Z",
+  "lastUpdated": "2026-02-06T23:34:09.416Z",
   "articles": [
+    {
+      "title": "Pennsylvania Governor Courts Data Centers While Seeking Consumer Protections",
+      "description": "Amid a national flight over data centers, Pennsylvania Gov. Josh Shapiro is trying to welcome the economic growth they bring while suggesting ways to ...",
+      "link": "https://insideclimatenews.org/news/06022026/pennsylvania-governor-josh-shapiro-data-center-growth-consumer-protections/",
+      "pubDate": "Fri, 06 Feb 2026 23:19:32 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Billie Eilish, stolen land, and the climate cost of America’s dispossession",
+      "description": "Returning Indigenous land won't destroy civilization, it could save it....",
+      "link": "https://grist.org/indigenous/billie-eilish-stolen-land-and-the-climate-cost-of-americas-dispossession/",
+      "pubDate": "Fri, 06 Feb 2026 23:08:42 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/Ute-land-sign.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Pennsylvania Must Act to Limit Greenhouse Gases, Lawyers Argue",
       "description": "Nearly 25 years ago, environmental lawyers Robert McKinstry and John Dernbach appeared at an early conference on climate change at Penn State Universi...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Stark warning’: pesticide harm to wildlife rising globally, study finds",
-      "description": "&lt;p&gt;Toxicity from farm chemicals increased for most species groups between 2013 and 2019, with insects worst affected&lt;/p&gt;&lt;p&gt;Ecologica...",
-      "link": "https://www.theguardian.com/environment/2026/feb/05/pesticide-wildlife-harm-rising-globally-despite-stark-warning-study",
-      "pubDate": "Thu, 05 Feb 2026 19:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8ec8dfaec2af72ae9343c0dc9cc8de600f1a47f0/599_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc1c3805d30898dd39df4bbb01c40706"
-    },
-    {
-      "title": "Florida euthanizes 5,000 iguanas after cold snap stuns the invasive reptiles",
-      "description": "&lt;p&gt;State culled a number of the non-native reptiles after thousands were ‘cold-stunned’ and dropped from trees&lt;/p&gt;&lt;p&gt;Wildlife offici...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/05/florida-frozen-iguanas-euthanized",
-      "pubDate": "Thu, 05 Feb 2026 17:52:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d7c199a7d1570f3f39369753786cbaa435934a5b/671_0_4722_3780/master/4722.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60ab1876a5eb09b4277a5b222f695e00"
     }
   ]
 }
