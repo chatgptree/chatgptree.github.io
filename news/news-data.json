@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-07T09:39:11.401Z",
+  "lastUpdated": "2026-02-07T10:36:16.448Z",
   "articles": [
+    {
+      "title": "Georgia Power Gas Expansion Would Drive Significant Climate-Damaging Pollution",
+      "description": "Georgia regulators have approved a massive expansion of natural gas power plants that could dramatically increase the state’s climate pollution, large...",
+      "link": "https://insideclimatenews.org/news/07022026/georgia-power-natural-gas-expansion-pollution/",
+      "pubDate": "Sat, 07 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The State of Environmental Justice Under Trump 2.0",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Monique Harden, an env...",
+      "link": "https://insideclimatenews.org/news/07022026/environmental-justice-under-trump/",
+      "pubDate": "Sat, 07 Feb 2026 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Europe feels the impact of weeks of wet weather and freezing cold",
+      "description": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extre...",
+      "link": "https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Feb 2026 09:41:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Wealthy use loophole to conceal value of £300m in Scottish land sales",
       "description": "&lt;p&gt;Prices paid for large estates not being disclosed on official register, land reform advocates say&lt;/p&gt;&lt;p&gt;Land reform campaigners a...",
@@ -101,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/2f21065fcea5b229bd580403d3f95ac8da240a13/161_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e705cab07dbbae43baca3eade009f616"
     },
     {
-      "title": "Europe feels the impact of weeks of wet weather and freezing cold",
-      "description": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extre...",
-      "link": "https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Feb 2026 16:03:59 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Storm Leonardo devastates southern Portugal and Spain – video",
       "description": "&lt;p&gt;Storm has ravaged southern regions of Spain and Portugal this week, leaving one man dead in Portugal and one woman missing in Spain&lt;/p&gt;...",
       "link": "https://www.theguardian.com/world/video/2026/feb/06/storm-leonardo-devastates-southern-portugal-spain-video",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/12/Drax_UK_fieldflowers_focus.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The US lost $35B in clean energy projects last year",
-      "description": "A new report indicates that Trump administration policies led to billions of dollars in canceled investment and tens of thousands of lost jobs....",
-      "link": "https://grist.org/politics/trump-2025-renewable-energy-investment-electric-vehicles/",
-      "pubDate": "Fri, 06 Feb 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What happens when a neighborhood is built around a farm",
-      "description": "Agrihoods reimagine urban living by putting food, not cars, at the center of the community....",
-      "link": "https://grist.org/cities/what-happens-when-a-neighborhood-is-built-around-a-farm/",
-      "pubDate": "Fri, 06 Feb 2026 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/IMG_5605.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
