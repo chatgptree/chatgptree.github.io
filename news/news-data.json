@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-07T10:36:16.448Z",
+  "lastUpdated": "2026-02-07T11:29:02.854Z",
   "articles": [
+    {
+      "title": "A Groundbreaking Geothermal Heating and Cooling Network Saves This Colorado College Money and Water",
+      "description": "GRAND JUNCTION, Colo.—The discussions started roughly a decade ago, when an account manager at Xcel Energy, the electricity and gas utility provider, ...",
+      "link": "https://insideclimatenews.org/news/07022026/colorado-college-geothermal-network/",
+      "pubDate": "Sat, 07 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Georgia Power Gas Expansion Would Drive Significant Climate-Damaging Pollution",
       "description": "Georgia regulators have approved a massive expansion of natural gas power plants that could dramatically increase the state’s climate pollution, large...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The UK quit coal. But is burning Louisiana’s trees any better?",
-      "description": "How Britain's new \"green energy\" depends on cutting down forests in the Deep South....",
-      "link": "https://grist.org/energy/coal-uk-louisiana-biomass-yorkshire-emissions/",
-      "pubDate": "Fri, 06 Feb 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/Drax_UK_fieldflowers_focus.jpg?quality=75&amp;strip=all"
     }
   ]
 }
