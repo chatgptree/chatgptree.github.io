@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-08T11:32:54.778Z",
+  "lastUpdated": "2026-02-08T13:07:56.950Z",
   "articles": [
+    {
+      "title": "Office buzz: UK employers turn to beehives to boost workplace wellbeing",
+      "description": "&lt;p&gt;Providers report rise in demand as companies seek mental health benefits and increased sense of community&lt;/p&gt;&lt;p&gt;In a growing numb...",
+      "link": "https://www.theguardian.com/environment/2026/feb/08/uk-employers-beehives-office-workplace-mental-health-community-nature",
+      "pubDate": "Sun, 08 Feb 2026 12:34:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3aad3900c1dea68433429c9b99954101a46f7b1f/187_0_2133_1707/master/2133.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5c3b008ff6b38a33a4978f5a8f7a01d"
+    },
     {
       "title": "‘A Disaster Waiting to Happen’: How the Fracking Boom Put an Oil Field in the Guadalupe River Floodplain",
       "description": "GONZALES, Texas—More than 500 enormous oil tanks dot the floodplains of the Guadalupe River and its tributaries where they cross one of Texas’ leading...",
@@ -74,15 +83,6 @@
       "image": "https://i.guim.co.uk/img/media/418e34eadd79660753a1cefaed212ea3f93ee10e/1254_754_2357_1886/master/2357.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f21ab190447c9a262460d6c13d5a9d77"
     },
     {
-      "title": "UK electric vehicle charging firms ‘seeking buyers amid rising costs and tough competition’",
-      "description": "&lt;p&gt;Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be.EV co-founder&lt;/p&gt;&lt;p&gt;British e...",
-      "link": "https://www.theguardian.com/environment/2026/feb/07/uk-electric-vehicle-charging-mergers-acquisitions-b-ev",
-      "pubDate": "Sat, 07 Feb 2026 12:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3137b3440752ee664c55c6896ab76ff0aebe3100/7_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=963990aba7b048dcbcd6944652ae24dd"
-    },
-    {
       "title": "A Groundbreaking Geothermal Heating and Cooling Network Saves This Colorado College Money and Water",
       "description": "GRAND JUNCTION, Colo.—The discussions started roughly a decade ago, when an account manager at Xcel Energy, the electricity and gas utility provider, ...",
       "link": "https://insideclimatenews.org/news/07022026/colorado-college-geothermal-network/",
@@ -119,6 +119,51 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Humidity-resistant hydrogen sensor can improve safety in large-scale clean energy",
+      "description": "Hydrogen plays an important role in society’s energy transition. For the technology to be used on a broad scale, effective hydrogen sensors are requir...",
+      "link": "https://econews.com.au/humidity-resistant-hydrogen-sensor-can-improve-safety-in-large-scale-clean-energy/",
+      "pubDate": "Sat, 07 Feb 2026 05:00:05 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/unnamed-78.jpg"
+    },
+    {
+      "title": "Frog in agenda for Environmental Research Grants",
+      "description": "Dr Alex Callen and PhD student Kate Tunstill are working to conserve the green and golden bell frog  A Council research grant program is helping two U...",
+      "link": "https://econews.com.au/frog-in-agenda-for-environmental-research-grants/",
+      "pubDate": "Sat, 07 Feb 2026 03:05:08 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Green-and-golden-bell-frogs-change-colour-when-exposed-to-sunlight-1024x683.jpg"
+    },
+    {
+      "title": "Detmold group ON TRACK with 2025-2050 sustainability goals",
+      "description": "Leading Australian-owned global packaging company, Detmold Group, is working towards a greener future and is on track to meets its sustainability targ...",
+      "link": "https://econews.com.au/detmold-group-on-track-with-2025-2050-sustainability-goals/",
+      "pubDate": "Sat, 07 Feb 2026 03:05:05 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Detpak-Logo-85-Black-1024x268.png"
+    },
+    {
+      "title": "General Oceans Invests in Turbulence Solutions Specialist ReynKo",
+      "description": "General Oceans Inc., a subsidiary of General Oceans AS, has entered into an investment agreement with ReynKo Inc., a US based turbulence solutions spe...",
+      "link": "https://econews.com.au/general-oceans-invests-in-turbulence-solutions-specialist-reynko/",
+      "pubDate": "Sat, 07 Feb 2026 03:05:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "La Trobe University cuts emissions by 80% in landmark Net Zero program",
+      "description": "La Trobe University has achieved a 80 per cent reduction in operational emissions, equivalent to 45,000 tonnes of CO?, through its Net Zero by 2029 pr...",
+      "link": "https://econews.com.au/la-trobe-university-cuts-emissions-by-80-in-landmark-net-zero-program/",
+      "pubDate": "Sat, 07 Feb 2026 03:04:55 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
+    },
+    {
       "title": "Pennsylvania Governor Courts Data Centers While Seeking Consumer Protections",
       "description": "Amid a national flight over data centers, Pennsylvania Gov. Josh Shapiro is trying to welcome the economic growth they bring while suggesting ways to ...",
       "link": "https://insideclimatenews.org/news/06022026/pennsylvania-governor-josh-shapiro-data-center-growth-consumer-protections/",
@@ -135,51 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/02/Ute-land-sign.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Pennsylvania Must Act to Limit Greenhouse Gases, Lawyers Argue",
-      "description": "Nearly 25 years ago, environmental lawyers Robert McKinstry and John Dernbach appeared at an early conference on climate change at Penn State Universi...",
-      "link": "https://insideclimatenews.org/news/06022026/pennsylvania-greenhouse-gas-cap-and-trade-proposal/",
-      "pubDate": "Fri, 06 Feb 2026 19:13:26 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Storm Leonardo devastates southern Portugal and Spain – video",
-      "description": "&lt;p&gt;Storm has ravaged southern regions of Spain and Portugal this week, leaving one man dead in Portugal and one woman missing in Spain&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/world/video/2026/feb/06/storm-leonardo-devastates-southern-portugal-spain-video",
-      "pubDate": "Fri, 06 Feb 2026 13:30:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "MethaneSAT Releases First Global Assessment of Oil and Gas Climate Pollution",
-      "description": "MethaneSAT, the world’s most advanced methane-detecting satellite and first spacecraft owned by an environmental nonprofit, promised to usher in a new...",
-      "link": "https://insideclimatenews.org/news/06022026/methanesat-climate-pollution-global-assessment/",
-      "pubDate": "Fri, 06 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Solar Siting Reforms Advance in Virginia After Years of Failed Attempts",
-      "description": "RICHMOND, Va.—The Virginia House passed legislation on Thursday by a 63-33 vote, nearly along party lines, that would facilitate the development of so...",
-      "link": "https://insideclimatenews.org/news/06022026/virginia-solar-siting-reform/",
-      "pubDate": "Fri, 06 Feb 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California Explores First-Time Regulation on Dairy Methane Emissions",
-      "description": "After years of relying on voluntary grant and incentive programs to bring down a potent climate pollutant from dairy and livestock operations, Califor...",
-      "link": "https://insideclimatenews.org/news/06022026/california-dairy-methane-emissions-regulation/",
-      "pubDate": "Fri, 06 Feb 2026 09:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
