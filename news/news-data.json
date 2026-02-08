@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-08T13:07:56.950Z",
+  "lastUpdated": "2026-02-08T14:36:39.860Z",
   "articles": [
+    {
+      "title": "Bank chairs backtracking on climate commitments could face shareholder revolts",
+      "description": "&lt;p&gt;Exclusive: Campaign group calls on institutional shareholders to vote against re-election of bosses overseeing net zero row-back&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/business/2026/feb/08/bank-chairs-backtracking-climate-commitments-net-zero-campaign-shareholder-revolts",
+      "pubDate": "Sun, 08 Feb 2026 14:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4052a9d7c5a9c1de8842fe2b75cc4143a1c9fa82/0_0_4806_3847/master/4806.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09bcd646a998831f855c7922ccf54d5b"
+    },
+    {
+      "title": "These US states want polluters to pay for the rising insurance costs of climate disasters",
+      "description": "&lt;p&gt;Proposals by California, Hawaii and New York lawmakers aim to hold fossil fuel industry accountable for soaring rates&lt;/p&gt;&lt;p&gt;As cl...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/08/proposal-fossil-fuel-companies-insurance-costs",
+      "pubDate": "Sun, 08 Feb 2026 14:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e815e0f00bb5238ea32c489c03c7276711532704/0_0_4552_3641/master/4552.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d42f1164e7bff068833293dff7933d7"
+    },
+    {
+      "title": "Overshoot: The world is hitting point of no return on climate",
+      "description": "With warming set to pass the critical 1.5-degree limit, scientists are warning that the world is on course to trigger tipping points that would lead t...",
+      "link": "https://grist.org/science/overshoot-the-world-is-hitting-point-of-no-return-on-climate/",
+      "pubDate": "Sun, 08 Feb 2026 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/Global-Warming.webp?quality=75&amp;strip=all"
+    },
     {
       "title": "Office buzz: UK employers turn to beehives to boost workplace wellbeing",
       "description": "&lt;p&gt;Providers report rise in demand as companies seek mental health benefits and increased sense of community&lt;/p&gt;&lt;p&gt;In a growing numb...",
@@ -54,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/388db29ffecdbdcc9d98c6c3d683491e284edfec/757_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3104576af083f82f777c7da6627059c"
-    },
-    {
-      "title": "Chance of El Niño forming in Pacific Ocean may push global temperatures to record highs in 2027",
-      "description": "&lt;p&gt;One expert says 2027 could be even hotter than the last three years, which have been the top three warmest on record&lt;/p&gt;&lt;ul&gt;&lt;l...",
-      "link": "https://www.theguardian.com/environment/2026/feb/08/global-weather-el-nino-pacific-ocean-high-temperatures-2027",
-      "pubDate": "Sat, 07 Feb 2026 19:00:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/22846d8489c2161ce578eb42378952b4cd768f5b/292_0_3826_3063/master/3826.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3e8f83a0641eb3fd0fa82592224c995"
     },
     {
       "title": "Inside the historic effort to keep the Great Barrier Reef alive",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "Pennsylvania Governor Courts Data Centers While Seeking Consumer Protections",
-      "description": "Amid a national flight over data centers, Pennsylvania Gov. Josh Shapiro is trying to welcome the economic growth they bring while suggesting ways to ...",
-      "link": "https://insideclimatenews.org/news/06022026/pennsylvania-governor-josh-shapiro-data-center-growth-consumer-protections/",
-      "pubDate": "Fri, 06 Feb 2026 23:19:32 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Billie Eilish, stolen land, and the climate cost of America’s dispossession",
-      "description": "Returning Indigenous land won't destroy civilization, it could save it....",
-      "link": "https://grist.org/indigenous/billie-eilish-stolen-land-and-the-climate-cost-of-americas-dispossession/",
-      "pubDate": "Fri, 06 Feb 2026 23:08:42 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/Ute-land-sign.jpg?quality=75&amp;strip=all"
     }
   ]
 }
