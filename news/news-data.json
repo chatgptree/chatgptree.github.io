@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-10T17:12:45.628Z",
+  "lastUpdated": "2026-02-10T19:18:33.544Z",
   "articles": [
+    {
+      "title": "US restaurants targeted for opposing ICE: ‘I refuse to cook for fascists’",
+      "description": "&lt;p&gt;Restaurants face one-star reviews and less business in an already precarious industry. Some restaurateurs fear speaking out as immigrants the...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/10/us-restaurant-owners-ice-immigration",
+      "pubDate": "Tue, 10 Feb 2026 19:00:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3e5def03ae8755186103875883798dbb4c45e11e/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24083b69ea227f3e6200e68ac368a82b"
+    },
+    {
+      "title": "Utilities in the Southeast may be overestimating the AI boom",
+      "description": "Power companies are already building more costly fossil fuel infrastructure than data centers may actually need....",
+      "link": "https://grist.org/energy/utilities-in-the-southeast-may-be-overestimating-the-ai-boom/",
+      "pubDate": "Tue, 10 Feb 2026 18:26:35 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/AP25353689042043.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "The EU is working on a blanket ban of ‘forever chemicals’. Why isn't Britain? | Pippa Neill",
       "description": "&lt;p&gt;In Lancashire, I met people living with dangerous levels of Pfas, including in their food. The government is failing them&lt;/p&gt;&lt;p&gt;L...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/New-Bannerette.jpg"
-    },
-    {
-      "title": "Trump Administration to Finalize Protections for 11 South Florida Plants and Animals",
-      "description": "The Trump administration has agreed to finalize protections under the Endangered Species Act for 11 South Florida plants and animals, settling federal...",
-      "link": "https://insideclimatenews.org/news/09022026/south-florida-plants-animals-endangered-species-act/",
-      "pubDate": "Mon, 09 Feb 2026 23:35:21 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on heavy rain: England’s flood defences are not strong enough | Editorial",
-      "description": "&lt;p&gt;The disruption and distress caused by record downpours must focus minds on the need for climate preparedness&lt;/p&gt;&lt;p&gt;With &lt;a hre...",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/09/the-guardian-view-on-heavy-rain-englands-flood-defences-are-not-strong-enough",
-      "pubDate": "Mon, 09 Feb 2026 18:50:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e7a99f99e3d3796e9b8f92714e5dab4a721f50c6/454_0_4549_3640/master/4549.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96fda6b46c1c9a9863d6a5bb7c2df120"
     }
   ]
 }
