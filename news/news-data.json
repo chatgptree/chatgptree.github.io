@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-02-10T09:05:44.128Z",
+  "lastUpdated": "2026-02-10T11:02:27.671Z",
   "articles": [
+    {
+      "title": "More solar farms on the way after record renewables auction",
+      "description": "The results have been welcomed by climate and clean energy groups but could face opposition from local communities. ...",
+      "link": "https://www.bbc.com/news/articles/cp85n416n3vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Feb 2026 10:19:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trailblazing Atmospheric Scientist Was ‘a Titan in the Scientific World’",
+      "description": "More than half a century ago, at Queen’s University Belfast in Northern Ireland, Michael McElroy’s classmates had just finished an exceptionally diffi...",
+      "link": "https://insideclimatenews.org/news/10022026/trailblazing-atmospheric-scientist-was-a-titan-in-the-scientific-world/",
+      "pubDate": "Tue, 10 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Data centers are scrambling to power the AI boom with natural gas",
+      "description": "As tech giants find creative ways to generate electricity, they’re building a glut of new fossil fuel projects....",
+      "link": "https://grist.org/energy/data-centers-natural-gas-methane-behind-the-meter/",
+      "pubDate": "Tue, 10 Feb 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/GettyImages-2246165120-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Geothermal could replace almost half of the EU’s fossil fuel power",
+      "description": "Advances in drilling and subsurface engineering are unlocking a constant, clean power source deep within the Earth....",
+      "link": "https://grist.org/energy/geothermal-could-replace-almost-half-of-europes-fossil-fuel-power/",
+      "pubDate": "Tue, 10 Feb 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/06/Geothermal-borehole-drilling-Farley-Lot-Framingham-MA-081723-Eversource-Energy.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "UK backs biggest English onshore windfarm in a decade among 190 green energy projects",
+      "description": "&lt;p&gt;Government also offers contracts for record number of solar schemes as it aims to create clean electricity system by 2030&lt;/p&gt;&lt;ul&gt;...",
+      "link": "https://www.theguardian.com/business/2026/feb/10/uk-onshore-windfarm-new-green-energy-projects-contracts",
+      "pubDate": "Tue, 10 Feb 2026 09:29:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4f08a464f687a96ce44266df16abaa3f142a4689/31_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73c240e40c1b23d007d0bbe96b23c3f0"
+    },
     {
       "title": "Misery for many as rain falls for 40 days in some parts of UK",
       "description": "&lt;p&gt;Persistent wet weather is affecting farmers, builders, sports, wildlife – and damaging roads and homes&lt;/p&gt;&lt;p&gt;“Feel like it hasn’t...",
@@ -9,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e302f0a45d4312c12b1a24b762d5ca69d1849e6d/168_0_3742_2994/master/3742.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0e1c965517ce498fe0e327c87cb976e"
-    },
-    {
-      "title": "More solar farms on the way after record renewables auction",
-      "description": "The results have been welcomed by climate and clean energy groups but could face opposition from local communities. ...",
-      "link": "https://www.bbc.com/news/articles/cp85n416n3vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Feb 2026 08:39:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "£700m ‘fish disco’ plan could save 90% of marine life, says Hinkley Point C study",
@@ -30,7 +66,7 @@
     },
     {
       "title": "Rethinking Economics, the movement changing how the subject is taught",
-      "description": "&lt;p&gt;Born of student disquiet after the 2008 crash, the group says it reshaping economists’ education&lt;/p&gt;&lt;p&gt;As the fallout from the 20...",
+      "description": "&lt;p&gt;Born of student disquiet after the 2008 crash, the group says it is reshaping economists’ education&lt;/p&gt;&lt;p&gt;As the fallout from the...",
       "link": "https://www.theguardian.com/environment/2026/feb/10/rethinking-economics-student-academic-organisation-changing-education",
       "pubDate": "Tue, 10 Feb 2026 08:00:16 GMT",
       "sourceName": "theguardian.com",
@@ -101,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Miliband pledges up to £1bn for community green energy schemes",
-      "description": "&lt;p&gt;UK projects will allow local areas to control and profit from renewable power generation, says energy secretary&lt;/p&gt;&lt;p&gt;The UK gove...",
-      "link": "https://www.theguardian.com/environment/2026/feb/09/miliband-pledges-up-to-1bn-for-community-green-energy-schemes",
-      "pubDate": "Mon, 09 Feb 2026 22:30:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c0dd67aa056362c8a6eae83f446ad690d05ceeb9/308_33_1366_1092/master/1366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2cb5ad82f468f89b453630e04ab597d"
-    },
-    {
       "title": "The Guardian view on heavy rain: England’s flood defences are not strong enough | Editorial",
       "description": "&lt;p&gt;The disruption and distress caused by record downpours must focus minds on the need for climate preparedness&lt;/p&gt;&lt;p&gt;With &lt;a hre...",
       "link": "https://www.theguardian.com/commentisfree/2026/feb/09/the-guardian-view-on-heavy-rain-englands-flood-defences-are-not-strong-enough",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bdef9faec5ab98f3c5dee1818f0cf083bb082d49/379_0_4251_3400/master/4251.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c31d9122f5fade0ed4a3af2de280c1f"
-    },
-    {
-      "title": "Local Barley Becomes Local Booze at a Wisconsin Distillery Prioritizing Ag Sustainability",
-      "description": "In the Driftless Area of Wisconsin, food and beverage businesses are partnering with organic farms in a small but growing effort to promote regenerati...",
-      "link": "https://insideclimatenews.org/news/09022026/wisconsin-distillery-sustainable-agriculture/",
-      "pubDate": "Mon, 09 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What over a century of ice data can tell us about the Great Lakes&#8217; future",
-      "description": "Using old records, scientists created a new dataset on how ice coverage has shifted since 1897. Researchers are already using it to study a declining ...",
-      "link": "https://grist.org/science/great-lakes-ice-science-climate/",
-      "pubDate": "Mon, 09 Feb 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/ice-measuring.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Extinct Hawaiian bird described as ‘nearly blind bin chicken’",
-      "description": "Illustration of the Hawaiian ibis (courtesy University of Lethbridge) Islands are famous for producing some of the world’s strangest creatures, and no...",
-      "link": "https://econews.com.au/extinct-hawaiian-bird-described-as-nearly-blind-bin-chicken/",
-      "pubDate": "Mon, 09 Feb 2026 04:04:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Vera-Weisbecker-Aubrey.jpg"
     }
   ]
 }
