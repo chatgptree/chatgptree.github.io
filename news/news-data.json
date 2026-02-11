@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-11T13:40:13.373Z",
+  "lastUpdated": "2026-02-11T15:02:41.911Z",
   "articles": [
+    {
+      "title": "As the Trump EPA Prepares to Revoke Key Legal Finding on Climate Change, What Happens Next?",
+      "description": "Following three of the warmest years on record, as scientists reckon with climate tipping points and states and cities grapple with the escalating cos...",
+      "link": "https://insideclimatenews.org/news/11022026/as-the-trump-epa-prepares-to-revoke-key-legal-finding-on-climate-change-what-happens-next/",
+      "pubDate": "Wed, 11 Feb 2026 14:26:27 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Toxic Beauty: Black Women Most at Risk from Harmful Chemicals in Unregulated Hair Products",
       "description": "Elissia Franklin is an analytical chemist with an infectious laugh, a penchant for braided hair extensions and a fierce commitment to reducing health ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3e5def03ae8755186103875883798dbb4c45e11e/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24083b69ea227f3e6200e68ac368a82b"
-    },
-    {
-      "title": "Utilities in the Southeast may be overestimating the AI boom",
-      "description": "Power companies are already building more costly fossil fuel infrastructure than data centers may actually need....",
-      "link": "https://grist.org/energy/utilities-in-the-southeast-may-be-overestimating-the-ai-boom/",
-      "pubDate": "Tue, 10 Feb 2026 18:26:35 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/AP25353689042043.jpg?quality=75&amp;strip=all"
     }
   ]
 }
