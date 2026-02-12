@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-12T16:01:35.933Z",
+  "lastUpdated": "2026-02-12T17:59:32.345Z",
   "articles": [
+    {
+      "title": "MPs fear data centre boom could derail Miliband's net zero plans",
+      "description": "A senior Labour MP says emission from data centres \"have been highlighted as a key area of concern\"....",
+      "link": "https://www.bbc.com/news/articles/c5yjr9mp92po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Feb 2026 17:05:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump named ‘undisputed champion of beautiful clean coal’ by industry group",
+      "description": "&lt;p&gt;Award was presented as president directed Pentagon to buy billions of dollars’ worth of energy from coal plants&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/12/trump-clean-coal-award",
+      "pubDate": "Thu, 12 Feb 2026 16:36:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3cec5d66724d2275c624dc2c1eb48f29ebf178d4/906_0_5944_4756/master/5944.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0d613dcc61c32b08c74cf46eeb4b510"
+    },
     {
       "title": "Climate leaders condemn Trump EPA’s biggest rollback yet: ‘This is corruption’",
       "description": "&lt;p&gt;Leaders promise to fight back with court challenges as Trump rescinds finding foundational to US climate rules&lt;/p&gt;&lt;p&gt;Climate lead...",
@@ -9,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a13a3470ef4edea3efe8f92ceb359522c0eb43b6/832_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba225321077b84f458085c1ba05ec63d"
-    },
-    {
-      "title": "MPs fear data centre boom could derail Miliband's net zero plans",
-      "description": "A senior Labour MP says emission from data centres \"have been highlighted as a key area of concern\"....",
-      "link": "https://www.bbc.com/news/articles/c5yjr9mp92po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Feb 2026 14:06:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "‘The Sky Isn’t Falling’: Providing Perspective on the Data Center Boom",
@@ -35,7 +44,7 @@
       "pubDate": "Thu, 12 Feb 2026 13:40:44 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/57561861966744578f96686d944a614b784f57b4/660_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69423e850e69ffaa6c1977e91263d7fa"
+      "image": "https://i.guim.co.uk/img/media/3028f23818f1a17b992a645a41e80b5d9db94530/333_0_2381_1905/master/2381.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e6ceec53d4e01d72eebdd1ca19dec1a"
     },
     {
       "title": "We can move beyond the capitalist model and save the climate – here are the first three steps | Jason Hickel and Yanis Varoufakis",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Graphic--1024x576.jpg"
-    },
-    {
-      "title": "Labor will never have a better time to revisit carbon pricing – but does it have the stomach to make polluters pay? | Clear Air",
-      "description": "&lt;p&gt;The government has not made enough of a dent in emissions, but global trends and a shambolic opposition offer a rare opportunity to act&lt;/p...",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/12/there-will-never-be-a-better-time-to-revisit-carbon-pricing-in-australia-but-does-labor-have-the-stomach-to-make-polluters-pay",
-      "pubDate": "Thu, 12 Feb 2026 00:58:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/43ae1e8cf6f810ba3713658b0889cd1f5f7fdd44/44_0_4625_3704/master/4625.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=daa1867d5ea4903968a43dc60dadce16"
     }
   ]
 }
