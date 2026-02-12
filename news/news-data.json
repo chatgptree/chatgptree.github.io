@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-12T13:38:26.529Z",
+  "lastUpdated": "2026-02-12T14:56:35.612Z",
   "articles": [
+    {
+      "title": "MPs fear data centre boom could derail Miliband's net zero plans",
+      "description": "A senior Labour MP says emission from data centres \"have been highlighted as a key area of concern\"....",
+      "link": "https://www.bbc.com/news/articles/c5yjr9mp92po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Feb 2026 14:06:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘The Sky Isn’t Falling’: Providing Perspective on the Data Center Boom",
+      "description": "The rise of AI data centers has sparked panic about how to provide enough electricity to support new development without overheating the planet and sa...",
+      "link": "https://insideclimatenews.org/news/12022026/inside-clean-energy-data-center-boom-electricity-demand/",
+      "pubDate": "Thu, 12 Feb 2026 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Portugal urged to adapt to climate emergency after series of deadly storms",
+      "description": "&lt;p&gt;Continuing extreme weather has caused deaths of 16 people, evacuation of thousands and destruction of homes&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
+      "link": "https://www.theguardian.com/world/2026/feb/12/portugal-climate-emergency-battered-storms-extreme-weather",
+      "pubDate": "Thu, 12 Feb 2026 13:40:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/57561861966744578f96686d944a614b784f57b4/660_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69423e850e69ffaa6c1977e91263d7fa"
+    },
     {
       "title": "We can move beyond the capitalist model and save the climate – here are the first three steps | Jason Hickel and Yanis Varoufakis",
       "description": "&lt;p&gt;Capitalism cares about our species’ prospects as much as a wolf cares about a lamb’s. But democratise our economy and a better world is withi...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Citing National Security, Trump Has Abandoned Fenceline Monitoring at Coke Ovens",
-      "description": "BIRMINGHAM, Ala.—Haley Lewis dreamed about Charlie Powell last night.&#160; It’s been more than a month since Powell, a staple in Birmingham’s advocac...",
-      "link": "https://insideclimatenews.org/news/11022026/trump-administration-ends-coke-fenceline-monitoring/",
-      "pubDate": "Wed, 11 Feb 2026 22:40:04 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "N.C. Judge Upholds the State’s Limits on 1,4-Dioxane Pollution in Utilities’ Wastewater",
-      "description": "A Wake County Superior Court judge has ruled against the cities of Asheboro, Greensboro and Reidsville, concluding that state environmental regulators...",
-      "link": "https://insideclimatenews.org/news/11022026/nc-1-4-dioxane-pollution-limits/",
-      "pubDate": "Wed, 11 Feb 2026 21:47:12 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Point of no return: a hellish ‘hothouse Earth’ getting closer, scientists say",
-      "description": "&lt;p&gt;Continued global heating could set irreversible course by triggering climate tipping points, but most people unaware &lt;/p&gt;&lt;p&gt;The w...",
-      "link": "https://www.theguardian.com/environment/2026/feb/11/point-of-no-return-hothouse-earth-global-heating-climate-tipping-points",
-      "pubDate": "Wed, 11 Feb 2026 16:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/692a069912f58a2f90f3911c6888d10d90ce2cba/292_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d837dcb4fd9198ced83c1840d38dd6e8"
     }
   ]
 }
