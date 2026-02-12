@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-12T19:16:50.762Z",
+  "lastUpdated": "2026-02-12T20:44:03.886Z",
   "articles": [
+    {
+      "title": "MPs fear data centre boom could derail Miliband's net zero plans",
+      "description": "A senior Labour MP says emission from data centres \"have been highlighted as a key area of concern\"....",
+      "link": "https://www.bbc.com/news/articles/c5yjr9mp92po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Feb 2026 20:34:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s EPA repeals landmark climate finding in gift to ‘billionaire polluters’",
+      "description": "&lt;p&gt;Rollback of government’s ability to limit climate-heating pollution from vehicles will make families ‘sicker and less safe’, environmental ad...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/12/trump-epa-rollback-pollution-regulation-endangerment-finding",
+      "pubDate": "Thu, 12 Feb 2026 19:03:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9ae25bbf9c69cc9459103a133337ff956623e371/0_0_3228_2582/master/3228.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea8647b3c109ded35b7ccd21155de3ee"
+    },
     {
       "title": "Trump just killed the EPA’s ability to fight climate change. It may backfire.",
       "description": "The EPA’s repeal of the “endangerment finding” could threaten automakers and oil companies — if it survives in court....",
@@ -11,20 +29,20 @@
       "image": "https://grist.org/wp-content/uploads/2025/02/GettyImages-2196949508.jpg?quality=75&#038;strip=all"
     },
     {
+      "title": "China’s Yangtze River shows signs of remarkable recovery after fishing ban",
+      "description": "&lt;p&gt;Doubling of fish biomass and rebounding of endangered species shows government measures starting to work, biologists say&lt;/p&gt;&lt;p&gt;Th...",
+      "link": "https://www.theguardian.com/environment/2026/feb/12/china-yangtze-river-recovery-after-fishing-ban",
+      "pubDate": "Thu, 12 Feb 2026 19:00:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fb6ca2e3fdcf3a5d3a840f00dd5374a0f26932e7/1053_0_6498_5197/master/6498.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd4469a5907791637f63b568bbd21afc"
+    },
+    {
       "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
       "description": "Flowing almost 4,000 miles from the Tibetan Plateau to the East China Sea, the Yangtze is China’s “Mother River.” From the emerald-green rice paddies ...",
       "link": "https://insideclimatenews.org/news/12022026/yangtze-river-fishing-ban-conservation/",
       "pubDate": "Thu, 12 Feb 2026 19:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "MPs fear data centre boom could derail Miliband's net zero plans",
-      "description": "A senior Labour MP says emission from data centres \"have been highlighted as a key area of concern\"....",
-      "link": "https://www.bbc.com/news/articles/c5yjr9mp92po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Feb 2026 17:05:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e60f093f82d0d4469618e5eaa4b2012c56b4e97a/429_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cba25a6353edcaf79d177f262125da88"
-    },
-    {
-      "title": "ANSTO Celebrates its Incredible Women in Science",
-      "description": "Australian Science and Technology Organisation (ANSTO) ANSTO is privileged to be home to an incredible array of outstanding women in science. On the I...",
-      "link": "https://econews.com.au/ansto-celebrates-its-incredible-women-in-science/",
-      "pubDate": "Thu, 12 Feb 2026 02:05:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Schneider Electric launches EVlink Pro DC 720: High-Power EV charging for all road users",
-      "description": "EVlink Pro DC 720 Schneider Electric, a global energy technology leader, has introduced EVlink Pro DC 720, a next generation electric vehicle (EV) cha...",
-      "link": "https://econews.com.au/schneider-electric-launches-evlink-pro-dc-720-high-power-ev-charging-for-all-road-users/",
-      "pubDate": "Thu, 12 Feb 2026 02:05:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
     }
   ]
 }
