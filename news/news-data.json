@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-02-12T08:58:31.562Z",
+  "lastUpdated": "2026-02-12T10:01:55.183Z",
   "articles": [
     {
-      "title": "Economics has failed on the climate crisis. This complexity scientist has a plan to fix that",
+      "title": "Maryland Environmentalists Face Awkward Choice: Support Moore’s Budget Raid or Fight for Climate Goals",
+      "description": "Maryland environmental groups are backing Gov. Wes Moore’s plan to redirect more than $700 million from the state’s main clean energy fund while at th...",
+      "link": "https://insideclimatenews.org/news/12022026/maryland-gov-moore-clean-energy-budget/",
+      "pubDate": "Thu, 12 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s beef trade deal is a lose-lose gamble that won&#8217;t lower prices",
+      "description": "There’s no two ways about it: Eating more beef is bad for the planet and the climate....",
+      "link": "https://grist.org/food-and-agriculture/trump-beef-trade-deal-is-a-lose-lose-gamble-that-wont-lower-prices/",
+      "pubDate": "Thu, 12 Feb 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/GettyImages-2247165790.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Growing evidence points to link between autism and wildfire smoke",
+      "description": "Two new studies have identified an alarming connection between exposure to wildfire smoke during pregnancy and autism in young children....",
+      "link": "https://grist.org/health/growing-evidence-points-to-link-between-autism-and-wildfire-smoke/",
+      "pubDate": "Thu, 12 Feb 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Economics has failed on the climate crisis. This complexity scientist has a mind-blowing plan to fix that",
       "description": "&lt;p&gt;Doyne Farmer says a super-simulator of the global economy would accelerate the transition to a green, clean world&lt;/p&gt;&lt;p&gt;It’s a mi...",
       "link": "https://www.theguardian.com/environment/2026/feb/12/economics-climate-crisis-complexity-scientist-plan",
       "pubDate": "Thu, 12 Feb 2026 08:00:43 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/47ea8f0c9ca61fe2d73b95f81c7745c164e80c34/1521_586_2891_2313/master/2891.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c2156cca295eb8f2a6fdb88aa6003e9"
-    },
-    {
-      "title": "Climate crisis linked to fall in southern right whale birth rates as researchers raise ‘warning signal’",
-      "description": "&lt;p&gt;Lead author of Australian study says breeding slowdown is linked to climate-driven changes in ‘magnificent’ whale’s foraging grounds&lt;/p&gt...",
-      "link": "https://www.theguardian.com/environment/2026/feb/11/climate-crisis-southern-right-whale-birth-rates",
-      "pubDate": "Wed, 11 Feb 2026 10:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/40eb42a24c655462f0c359e07d1eacc62b87d020/977_165_3246_2599/master/3246.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41901c31fdfcb3651946ded8aacbc90b"
-    },
-    {
-      "title": "Pennsylvania County Denies Rezoning Plan That Would Have Allowed a Data Center",
-      "description": "A Pennsylvania county on Tuesday rejected a plan to rezone land so a data center could be built there, becoming the latest locality to push back again...",
-      "link": "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/",
-      "pubDate": "Wed, 11 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gwich&#8217;in fight to protect caribou from Alaska oil development",
-      "description": "For \"the caribou people,\" protecting the Arctic National Wildlife Refuge means protecting a way of life....",
-      "link": "https://grist.org/indigenous/gwichin-fight-to-protect-caribou-from-alaska-oil-development/",
-      "pubDate": "Wed, 11 Feb 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
