@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-12T07:15:26.398Z",
+  "lastUpdated": "2026-02-12T08:58:31.562Z",
   "articles": [
+    {
+      "title": "Economics has failed on the climate crisis. This complexity scientist has a plan to fix that",
+      "description": "&lt;p&gt;Doyne Farmer says a super-simulator of the global economy would accelerate the transition to a green, clean world&lt;/p&gt;&lt;p&gt;It’s a mi...",
+      "link": "https://www.theguardian.com/environment/2026/feb/12/economics-climate-crisis-complexity-scientist-plan",
+      "pubDate": "Thu, 12 Feb 2026 08:00:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2483924a69385ea217173eb0774fd2be556249b6/311_0_3111_2488/master/3111.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba83df5faaa08a8cbe9a3736caccec09"
+    },
+    {
+      "title": "Supersized dump fire risk report kept from public",
+      "description": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk....",
+      "link": "https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Feb 2026 07:13:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Betolar, EcoGraf and GTK collaborate to transform Epanko mine tailings using Betolar’s metal extraction technology",
+      "description": "From left: EVP Jyri Talja, Betolar Plc. Director General Kimmo Tiilikainen, GTK Managing Director Andrew Spinks, EcoGraf Tanzgraphite Director Christe...",
+      "link": "https://econews.com.au/betolar-ecograf-and-gtk-collaborate-to-transform-epanko-mine-tailings-using-betolars-metal-extraction-technology/",
+      "pubDate": "Thu, 12 Feb 2026 07:00:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/9183af5ace1bd2d5_800x800ar.jpg"
+    },
     {
       "title": "Thursday briefing: Britain ​is ​flooding, ​so ​why ​is ​support for ​net ​zero ​drying ​up?",
       "description": "&lt;p&gt;In today’s newsletter: ​Misinformation, rising bills and shifting party lines ​have reshape​d attitudes toward green policies​ at a time when...",
@@ -18,6 +45,42 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e60f093f82d0d4469618e5eaa4b2012c56b4e97a/429_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cba25a6353edcaf79d177f262125da88"
+    },
+    {
+      "title": "ANSTO Celebrates its Incredible Women in Science",
+      "description": "Australian Science and Technology Organisation (ANSTO) ANSTO is privileged to be home to an incredible array of outstanding women in science. On the I...",
+      "link": "https://econews.com.au/ansto-celebrates-its-incredible-women-in-science/",
+      "pubDate": "Thu, 12 Feb 2026 02:05:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Schneider Electric launches EVlink Pro DC 720: High-Power EV charging for all road users",
+      "description": "EVlink Pro DC 720 Schneider Electric, a global energy technology leader, has introduced EVlink Pro DC 720, a next generation electric vehicle (EV) cha...",
+      "link": "https://econews.com.au/schneider-electric-launches-evlink-pro-dc-720-high-power-ev-charging-for-all-road-users/",
+      "pubDate": "Thu, 12 Feb 2026 02:05:01 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
+    },
+    {
+      "title": "Australia’s first Passive House in a retirement village open",
+      "description": "Keyton’s Passive House The Grove, Ngunnawal ACT (exterior) Keyton Keyton, one of Australia’s leading retirement living operator-developers has showcas...",
+      "link": "https://econews.com.au/australias-first-passive-house-in-a-retirement-village-open/",
+      "pubDate": "Thu, 12 Feb 2026 02:05:00 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/DSC02198-1024x684.jpg"
+    },
+    {
+      "title": "Flagship whales facing climate-driven decline in Australia",
+      "description": "Courtesy Richard Twist, Current Environmental Australian Right Whale Research @southernrightwhales.  Drone Permit Number M26085-13. The tide has turne...",
+      "link": "https://econews.com.au/flagship-whales-facing-climate-driven-decline-in-australia/",
+      "pubDate": "Thu, 12 Feb 2026 02:04:57 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Graphic--1024x576.jpg"
     },
     {
       "title": "Labor will never have a better time to revisit carbon pricing – but does it have the stomach to make polluters pay? | Clear Air",
@@ -117,69 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Some of world’s oldest trees hit by climate-fuelled wildfires in Patagonia",
-      "description": "&lt;p&gt;Wildfires that left 23 people dead were made about three times more likely by global heating, researchers say&lt;/p&gt;&lt;p&gt;The climate c...",
-      "link": "https://www.theguardian.com/world/2026/feb/11/climate-fuelled-wildfires-patagonia-argentina-chile-oldest-trees",
-      "pubDate": "Wed, 11 Feb 2026 08:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67f5c898edc7c7abe359065821e817bfa17a460f/531_0_6825_5461/master/6825.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d6a27ee7fa329722b9f58f81451cfba"
-    },
-    {
-      "title": "Are wetter winters and frequent flooding here to stay?",
-      "description": "Many places across the UK have experienced their wettest January in more than 100 years....",
-      "link": "https://www.bbc.com/news/articles/cvgjw0kpd89o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Feb 2026 02:59:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Are wetter winters and frequent flooding here to stay?",
-      "description": "Many places across the UK have experienced their wettest January in more than 100 years....",
-      "link": "https://www.bbc.com/news/articles/cvgjw0kpd89o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Feb 2026 02:59:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gray wolf appears in Los Angeles county for first time in more than 100 years",
-      "description": "&lt;p&gt;Three-year-old black coat female, known as BEY03F, crossed into LA county around 6am on 7 February&lt;/p&gt;&lt;p&gt;A gray wolf wandered int...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/10/gray-wolf-los-angeles-county",
-      "pubDate": "Tue, 10 Feb 2026 23:43:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/655154b216bca5de341e748c2dd65ef8fc2ed871/551_0_7217_5773/master/7217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af702672e4af0be5a2e93f189c1f0d5c"
-    },
-    {
-      "title": "Choosing the Right Home Is Tough. Climate Change Is Making It Harder.",
-      "description": "Trying to buy a home comes with a seemingly endless list of things to consider: What’s the commute to work like? Can you qualify for a mortgage? Will ...",
-      "link": "https://insideclimatenews.org/news/10022026/todays-climate-risks-buying-homes-flooding-wildfire/",
-      "pubDate": "Tue, 10 Feb 2026 22:51:53 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Will Order Defense Department to Buy Coal Power",
-      "description": "President Donald Trump plans to announce an executive order on Wednesday directing the U.S. Department of Defense to buy electricity from coal-fired p...",
-      "link": "https://insideclimatenews.org/news/10022026/trump-department-of-defense-coal-power/",
-      "pubDate": "Tue, 10 Feb 2026 22:20:31 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump to repeal Obama-era finding foundational to US climate rules",
-      "description": "&lt;p&gt;Climate groups vow to fight rollback of 2009 finding determining CO&lt;sub&gt;2&lt;/sub&gt; and other greenhouse gases harm health&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/10/trump-repeal-regulation-greenhouse-gases",
-      "pubDate": "Tue, 10 Feb 2026 22:17:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1166ed968bc88981a62ae6a5594c499b70955bef/458_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f2b2e4f76ca08cfb577ac65786e876b"
     }
   ]
 }
