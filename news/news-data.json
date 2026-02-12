@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-12T11:48:24.962Z",
+  "lastUpdated": "2026-02-12T13:38:26.529Z",
   "articles": [
+    {
+      "title": "We can move beyond the capitalist model and save the climate – here are the first three steps | Jason Hickel and Yanis Varoufakis",
+      "description": "&lt;p&gt;Capitalism cares about our species’ prospects as much as a wolf cares about a lamb’s. But democratise our economy and a better world is withi...",
+      "link": "https://www.theguardian.com/environment/commentisfree/2026/feb/12/capitalist-model-climate-growth-capitalism-species-humanity",
+      "pubDate": "Thu, 12 Feb 2026 13:00:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/887ad70e0037ac6756e532b445daffd31836730f/329_0_5141_4112/master/5141.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0805a5a658726cd5d921151553817e7c"
+    },
+    {
+      "title": "‘Unprecedented’ spate of toxic mushroom illnesses jar California",
+      "description": "&lt;p&gt;After state sees four deaths and 40 hospitalizations, public health officials and foraging experts urge caution&lt;/p&gt;&lt;p&gt;A wet winte...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/12/california-toxic-mushroom-deaths",
+      "pubDate": "Thu, 12 Feb 2026 12:00:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/03d20a316e1f048382ecf54744a4198f83f6adef/319_0_3312_2650/master/3312.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e4775a078b2af8c14f149ad100b8642"
+    },
     {
       "title": "The race to save Wikie and Keijo: the mother and son orcas left in a shut-down aquarium",
       "description": "&lt;p&gt;Marineland Antibes, the French government and animal welfare groups all agree on the need to rehome the listless killer whales but no one can...",
@@ -128,6 +146,15 @@
       "image": "https://i.guim.co.uk/img/media/43ae1e8cf6f810ba3713658b0889cd1f5f7fdd44/44_0_4625_3704/master/4625.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=daa1867d5ea4903968a43dc60dadce16"
     },
     {
+      "title": "China Could Reach Peak Greenhouse Gas Emissions Sooner Than Beijing Planned, New Report Suggests",
+      "description": "Planet-warming emissions from China, currently the world’s largest greenhouse gas polluter, have continued to flatline or fall as cleaner forms of ene...",
+      "link": "https://insideclimatenews.org/news/11022026/china-greenhouse-gas-emissions-offset-by-clean-energy/",
+      "pubDate": "Thu, 12 Feb 2026 00:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Citing National Security, Trump Has Abandoned Fenceline Monitoring at Coke Ovens",
       "description": "BIRMINGHAM, Ala.—Haley Lewis dreamed about Charlie Powell last night.&#160; It’s been more than a month since Powell, a staple in Birmingham’s advocac...",
       "link": "https://insideclimatenews.org/news/11022026/trump-administration-ends-coke-fenceline-monitoring/",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/692a069912f58a2f90f3911c6888d10d90ce2cba/292_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d837dcb4fd9198ced83c1840d38dd6e8"
-    },
-    {
-      "title": "Accelerated Global Warming Could Lock Earth Into a Hothouse Future",
-      "description": "If you think of Earth’s climate system as a backyard swing that’s been gently swaying for millennia, then human-caused global warming is like a sudden...",
-      "link": "https://insideclimatenews.org/news/11022026/earth-unprecedented-shift-from-warm-to-hot/",
-      "pubDate": "Wed, 11 Feb 2026 16:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As the Trump EPA Prepares to Revoke Key Legal Finding on Climate Change, What Happens Next?",
-      "description": "Following three of the warmest years on record, as scientists reckon with climate tipping points and states and cities grapple with the escalating cos...",
-      "link": "https://insideclimatenews.org/news/11022026/as-the-trump-epa-prepares-to-revoke-key-legal-finding-on-climate-change-what-happens-next/",
-      "pubDate": "Wed, 11 Feb 2026 14:26:27 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Toxic Beauty: Black Women Most at Risk From Harmful Chemicals in Unregulated Hair Products",
-      "description": "Elissia Franklin is an analytical chemist with an infectious laugh, a penchant for braided hair extensions and a fierce commitment to reducing health ...",
-      "link": "https://insideclimatenews.org/news/11022026/unregulated-hair-extensions-harmful-chemicals/",
-      "pubDate": "Wed, 11 Feb 2026 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
