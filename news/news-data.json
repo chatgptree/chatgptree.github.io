@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-13T17:49:23.223Z",
+  "lastUpdated": "2026-02-13T19:02:27.148Z",
   "articles": [
+    {
+      "title": "The First Casualty of Trump’s Climate Action Repeal: The U.S. EV Transition",
+      "description": "With the repeal of the Environmental Protection Agency’s scientific finding on the dangers of greenhouse gases, the Trump administration is aiming to ...",
+      "link": "https://insideclimatenews.org/news/13022026/endangerment-finding-repeal-affects-ev-transition/",
+      "pubDate": "Fri, 13 Feb 2026 18:55:52 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
+      "description": "&lt;p&gt;Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacenters&lt;/p&gt;&lt;p&gt;&lt;a href=\"https...",
+      "link": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi",
+      "pubDate": "Fri, 13 Feb 2026 18:00:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a6b3c96ced1c49e27b5605c81f24520a5dd15c07/568_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=490584b02d12876e1ca71636c47c4519"
+    },
     {
       "title": "Showdown in the American west as Colorado River faces crucial deadline: ‘Mother nature isn’t going to bail us out’",
       "description": "&lt;p&gt;Seven states must make deal for sharing basin that supplies 40 million people, before US government steps in. With negotiations at an impasse...",
@@ -159,24 +177,6 @@
       "description": "What would it really take to build a city on the moon?...",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8txz?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 12 Feb 2026 21:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s EPA repeals landmark climate finding in gift to ‘billionaire polluters’",
-      "description": "&lt;p&gt;Rollback of government’s ability to limit climate-heating pollution will make families ‘sicker and less safe’, environmental advocate says&lt...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/12/trump-epa-rollback-pollution-regulation-endangerment-finding",
-      "pubDate": "Thu, 12 Feb 2026 20:53:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a826d6a0928d29edf7b6eca574770d9f1f3d9be5/478_0_4763_3813/master/4763.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93c283c1d819836148360f5a049bc92f"
-    },
-    {
-      "title": "MPs fear data centre boom could derail Miliband's net zero plans",
-      "description": "A senior Labour MP says emission from data centres \"have been highlighted as a key area of concern\"....",
-      "link": "https://www.bbc.com/news/articles/c5yjr9mp92po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Feb 2026 20:34:16 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
