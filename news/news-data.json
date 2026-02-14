@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-13T23:38:39.545Z",
+  "lastUpdated": "2026-02-14T02:45:22.065Z",
   "articles": [
+    {
+      "title": "Elon Musk’s xAI faces second lawsuit over toxic pollutants from datacenter",
+      "description": "&lt;p&gt;NAACP alleges artificial intelligence firm is violating Clean Air Act and polluting Black communities in Mississippi&lt;/p&gt;&lt;p&gt;&lt;a ...",
+      "link": "https://www.theguardian.com/technology/2026/feb/13/elon-musk-xai-pollution-naacp",
+      "pubDate": "Sat, 14 Feb 2026 00:47:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cf044ff7755bc5874c3854571c1210e87e40c126/440_0_4400_3520/master/4400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e8c73189958a46fd72b62ddbb75c53c"
+    },
     {
       "title": "Trump Administration Dropped Controversial Climate Report From Its Decision to Rescind EPA Endangerment Finding",
       "description": "When the U.S. Environmental Protection Agency rescinded its bedrock endangerment finding Thursday, it explicitly excluded a controversial report issue...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/12022026/environmental-lawyers-vow-to-challenge-trump-repeal-of-endangerment-finding/",
       "pubDate": "Thu, 12 Feb 2026 23:14:11 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Olympics just saw its first &#8216;forever chemical&#8217; disqualifications",
-      "description": "Waxes containing PFAS are banned at the Milan-Cortina Games. Three athletes already have been disqualified for using them....",
-      "link": "https://grist.org/accountability/the-olympics-just-saw-its-first-forever-chemical-disqualifications/",
-      "pubDate": "Thu, 12 Feb 2026 21:56:48 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
