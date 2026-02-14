@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-14T09:39:46.912Z",
+  "lastUpdated": "2026-02-14T10:36:27.283Z",
   "articles": [
+    {
+      "title": "Nose for trouble: Italian town seeks ‘odour evaluators’ to sniff out bad smells",
+      "description": "&lt;p&gt;Mayor of Brendola in Vicenza says he has received complaints from residents who live near industrial zones&lt;/p&gt;&lt;p&gt;An Italian town ...",
+      "link": "https://www.theguardian.com/world/2026/feb/14/italian-town-brendola-odour-evaluators-sniff-out-bad-smells",
+      "pubDate": "Sat, 14 Feb 2026 10:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/42a5f5e0b99c1841d3fb778ecd536692bfd4b2f6/292_27_3683_2947/master/3683.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebc229401584c2001fa6196f7c2ad08e"
+    },
+    {
+      "title": "Mamdani’s New Chief Climate Officer Wants to Make New York a ‘Better Place to Live’",
+      "description": "In Louise Yeung’s decade of work in New York City government, she has helped rebuild flood infrastructure after Hurricane Sandy, worked to make street...",
+      "link": "https://insideclimatenews.org/news/14022026/new-york-city-chief-climate-officer/",
+      "pubDate": "Sat, 14 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "China Is Leaving America in the Dust on Clean Energy",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with journalist Isabe...",
+      "link": "https://insideclimatenews.org/news/14022026/china-dominates-clean-energy/",
+      "pubDate": "Sat, 14 Feb 2026 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Peta calls for pork-free menus as Peppa Pig show rolls into Grimsby",
       "description": "&lt;p&gt;Auditorium to remove bacon and sausages from cafe during stage run after request from campaign group&lt;/p&gt;&lt;p&gt;Campaigners are callin...",
@@ -137,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/816baff629a83d19587ee2f41f8a9def9f6f34bb/1993_1292_4996_3999/master/4996.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=966848451285ddccefd2296aea47af28"
     },
     {
-      "title": "River Thames spot among 13 sites shortlisted for swimming status",
-      "description": "&lt;p&gt;Choice could prove difficult for Thames Water, which is trying to push through a water recycling scheme nearby&lt;/p&gt;&lt;p&gt;The first de...",
-      "link": "https://www.theguardian.com/environment/2026/feb/13/river-thames-ham-london-swimming-bathing-water",
-      "pubDate": "Fri, 13 Feb 2026 07:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8d59ed090e3881a4c003fe99745f3078ecdfabfc/80_0_1099_879/master/1099.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=116d7868bd571fa39131938c08b3bb26"
-    },
-    {
       "title": "Paddling for a purpose: Lake Mac locals gear up to clean up",
       "description": "Elena Babazogli picking up rubbish at Naru Beach One of Australia’s largest community environmental events is fast approaching, and Lake Macquarie Cit...",
       "link": "https://econews.com.au/paddling-for-a-purpose-lake-mac-locals-gear-up-to-clean-up/",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/AORA-2025-101_websize-1-1024x683.jpg"
-    },
-    {
-      "title": "Stockholm’s electric flying ferry successful on all parameters, according to official report",
-      "description": "The world’s first hydrofoiling ferry, Candela P-12 Nova, foiling at 22 knots after departing Stockholm City Hall, bound for Ekerö centrum The novel fl...",
-      "link": "https://econews.com.au/stockholms-electric-flying-ferry-successful-on-all-parameters-according-to-official-report/",
-      "pubDate": "Fri, 13 Feb 2026 00:05:25 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/unnamed-88.jpg"
-    },
-    {
-      "title": "Fugro completes artificial reef installation for Woodside and Recfishwest",
-      "description": "Lifting pyramid Reef module on the Etive vessel. Image credit: Fugro Fugro has successfully installed an artificial reef off the coast of Dampier, Wes...",
-      "link": "https://econews.com.au/fugro-completes-artificial-reef-installation-for-woodside-and-recfishwest/",
-      "pubDate": "Fri, 13 Feb 2026 00:05:22 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/download-2.png"
     }
   ]
 }
