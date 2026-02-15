@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-02-15T09:40:37.462Z",
+  "lastUpdated": "2026-02-15T10:36:38.057Z",
   "articles": [
+    {
+      "title": "California Pays Farms to Make Biogas from Hog Waste in North Carolina, Where Locals Say It’s Fueling Pollution",
+      "description": "TURKEY, N.C.—The Align RNG biogas processing facility here is so small, you would miss it if you weren’t looking for it. Just four small silver mounds...",
+      "link": "https://insideclimatenews.org/news/15022026/north-carolina-hog-waste-biogas-fuels-california/",
+      "pubDate": "Sun, 15 Feb 2026 10:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Michigan Tries a New Legal Tactic Against Big Oil, Alleging Antitrust Violations Aimed at Hobbling EVs and Renewable Energy",
+      "description": "Michigan is taking on major oil and gas companies in court, joining nearly a dozen other states that have brought climate-related lawsuits against Exx...",
+      "link": "https://insideclimatenews.org/news/15022026/michigan-alleges-antitrust-violations-against-big-oil/",
+      "pubDate": "Sun, 15 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Texas to Study ‘Batch Zero’ of Data Centers by Late Summer",
+      "description": "A month after the state’s grid operator said it would pull together data centers and other large load projects that have been waiting to connect to th...",
+      "link": "https://insideclimatenews.org/news/15022026/texas-batch-zero-study-data-centers/",
+      "pubDate": "Sun, 15 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate Action in the Hands of the State",
+      "description": "As the Trump administration moves to dismantle the federal government’s ability to act against climate change, the real fight to curb carbon emissions...",
+      "link": "https://insideclimatenews.org/news/15022026/icn-sunday-morning-pennsylvania-climate-action/",
+      "pubDate": "Sun, 15 Feb 2026 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Rental ebike programs booming in Australian cities as e-scooter ‘moral panic’ sees take-up stall",
       "description": "&lt;p&gt;After a fast kick-off in Australia, e-scooter hire crackdowns fuelled by safety concerns have seen shared ebikes pull ahead&lt;/p&gt;&lt;ul&g...",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
-      "description": "&lt;p&gt;Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacenters&lt;/p&gt;&lt;p&gt;&lt;a href=\"https...",
-      "link": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi",
-      "pubDate": "Fri, 13 Feb 2026 18:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a6b3c96ced1c49e27b5605c81f24520a5dd15c07/568_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=490584b02d12876e1ca71636c47c4519"
-    },
-    {
-      "title": "Enforcement of laws against polluters nearly non-existent in US, analysis finds",
-      "description": "&lt;p&gt;EPA’s records show one environmental consent decree filed in last year – 26 were filed in year one of first Trump term&lt;/p&gt;&lt;p&gt;Enfo...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/13/environmental-laws-enforcement-polluters",
-      "pubDate": "Fri, 13 Feb 2026 13:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e964e95a1b13f430db313175d30ce160d0a2936a/106_0_4501_3600/master/4501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b385ae4db6222473aa645a629c9893"
-    },
-    {
-      "title": "Trump Says He Supports American Oil and Gas. Why Is His Administration Financing a French-Owned Project in Mozambique?",
-      "description": "In the conflict-riven northern corner of Mozambique, a huge gas export terminal is moving ahead with the backing of the United States government. Moza...",
-      "link": "https://insideclimatenews.org/news/13022026/trump-administration-finances-french-oil-project-in-mozambique/",
-      "pubDate": "Fri, 13 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Poison at play: Unsafe lead levels found in half of New Orleans playgrounds",
-      "description": "Even trace amounts of the toxic metal can cause learning problems and behavioral issues in children....",
-      "link": "https://grist.org/accountability/poison-at-play-unsafe-lead-levels-found-in-half-of-new-orleans-playgrounds/",
-      "pubDate": "Fri, 13 Feb 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/shoesmickeymarkey.jpg?quality=75&amp;strip=all"
     }
   ]
 }
