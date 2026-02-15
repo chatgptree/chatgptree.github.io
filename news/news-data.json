@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T11:29:53.033Z",
+  "lastUpdated": "2026-02-15T13:11:26.880Z",
   "articles": [
     {
       "title": "California Pays Farms to Make Biogas from Hog Waste in North Carolina, Where Locals Say It’s Fueling Pollution",
@@ -128,24 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/7dc0587be0af3621d6b0890080a38965ca1c1981/0_1049_3515_2810/master/3515.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4105be26139b38f971252fa6d10ad3a0"
     },
     {
-      "title": "Sigenergy expands into commercial energy storage with CEC approval for new Commercial &#038; Industrial inverter range",
-      "description": "Sigenergy has officially expanded into commercial energy storage, with its Commercial &#38; Industrial inverter range now CEC-listed and available to ...",
-      "link": "https://econews.com.au/sigenergy-expands-into-commercial-energy-storage-with-cec-approval-for-new-commercial-industrial-inverter-range/",
-      "pubDate": "Sat, 14 Feb 2026 06:05:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/image-17.png"
-    },
-    {
-      "title": "New roadmap for grid stability in Australia’s shift to renewables",
-      "description": "UNSW Sydney As Australia moves to a renewable electricity supply, the foundations of power system security are being challenged and transformed. Coal-...",
-      "link": "https://econews.com.au/new-roadmap-for-grid-stability-in-australias-shift-to-renewables/",
-      "pubDate": "Sat, 14 Feb 2026 06:05:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
-    },
-    {
       "title": "Elon Musk’s xAI faces second lawsuit over toxic pollutants from datacenter",
       "description": "&lt;p&gt;NAACP alleges artificial intelligence firm is violating Clean Air Act and polluting Black communities in Mississippi&lt;/p&gt;&lt;p&gt;&lt;a ...",
       "link": "https://www.theguardian.com/technology/2026/feb/13/elon-musk-xai-pollution-naacp",
@@ -180,6 +162,24 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
+      "description": "&lt;p&gt;Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacenters&lt;/p&gt;&lt;p&gt;&lt;a href=\"https...",
+      "link": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi",
+      "pubDate": "Fri, 13 Feb 2026 18:00:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a6b3c96ced1c49e27b5605c81f24520a5dd15c07/568_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=490584b02d12876e1ca71636c47c4519"
+    },
+    {
+      "title": "Enforcement of laws against polluters nearly non-existent in US, analysis finds",
+      "description": "&lt;p&gt;EPA’s records show one environmental consent decree filed in last year – 26 were filed in year one of first Trump term&lt;/p&gt;&lt;p&gt;Enfo...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/13/environmental-laws-enforcement-polluters",
+      "pubDate": "Fri, 13 Feb 2026 13:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e964e95a1b13f430db313175d30ce160d0a2936a/106_0_4501_3600/master/4501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b385ae4db6222473aa645a629c9893"
     }
   ]
 }
