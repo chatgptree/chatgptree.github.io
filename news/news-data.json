@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-02-16T07:16:28.724Z",
+  "lastUpdated": "2026-02-16T08:59:51.294Z",
   "articles": [
+    {
+      "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+      "description": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab....",
+      "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Feb 2026 08:05:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Rural drivers to face steepest bills under UK’s mileage-based electric vehicle tax",
       "description": "&lt;p&gt;Analysis reveals big regional disparities as critics say Labour’s proposed levy could slow uptake of EVs&lt;/p&gt;&lt;p&gt;Drivers in the sou...",
       "link": "https://www.theguardian.com/environment/2026/feb/16/rural-drivers-uk-mileage-electric-vehicle-tax-labour",
-      "pubDate": "Mon, 16 Feb 2026 06:00:44 GMT",
+      "pubDate": "Mon, 16 Feb 2026 07:13:08 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/23123722960dc6dc2e0ef19f825ef353167b50a0/911_918_2980_2384/master/2980.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97ae9440db22822e7e3e90d693d00375"
@@ -45,6 +54,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
+    },
+    {
+      "title": "Trump has big plans for Venezuela's oil but are they feasible?",
+      "description": "The US president wants American energy firms to start extracting the crude but they are reluctant....",
+      "link": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Feb 2026 00:29:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "The Guardian view on Donald Trump and the climate crisis: the US is in reverse while China ploughs ahead | Editorial",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/Offshore-wind-Trump.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Trump’s repeal of landmark Obama-era climate rule: four key takeaways",
-      "description": "&lt;p&gt;Environmental groups say ‘cynical and devastating’ reversal of endangerment finding has grave implications&lt;/p&gt;&lt;p&gt;The Trump admini...",
-      "link": "https://www.theguardian.com/environment/2026/feb/14/trump-obama-climate-rule-takeaways",
-      "pubDate": "Sat, 14 Feb 2026 11:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ae8cd5b67992588840d23fe330cff67bfe852466/612_0_6115_4892/master/6115.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34def2b1a83a06e9a597297fdea2fb1e"
-    },
-    {
-      "title": "Nose for trouble: Italian town seeks ‘odour evaluators’ to sniff out bad smells",
-      "description": "&lt;p&gt;Mayor of Brendola in Vicenza says he has received complaints from residents who live near industrial zones&lt;/p&gt;&lt;p&gt;An Italian town ...",
-      "link": "https://www.theguardian.com/world/2026/feb/14/italian-town-brendola-odour-evaluators-sniff-out-bad-smells",
-      "pubDate": "Sat, 14 Feb 2026 10:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/42a5f5e0b99c1841d3fb778ecd536692bfd4b2f6/292_27_3683_2947/master/3683.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebc229401584c2001fa6196f7c2ad08e"
     }
   ]
 }
