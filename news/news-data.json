@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-17T11:44:50.881Z",
+  "lastUpdated": "2026-02-17T13:22:45.900Z",
   "articles": [
+    {
+      "title": "France issues red flood alerts after ‘exceptional’ rainfall",
+      "description": "&lt;p&gt;Aftermath of Storm Nils causes chaos across country with flooding under way or expected on Garonne, Maine and Loire rivers &lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/world/2026/feb/17/red-flood-alerts-storm-nils-exceptional-rainfall",
+      "pubDate": "Tue, 17 Feb 2026 12:23:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ce5f2ad87b5f7057f8007148d9d5398f6cf4252f/689_0_2746_2197/master/2746.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08f354617cebfde03c74ddd27f95aac5"
+    },
+    {
+      "title": "‘It’s betrayal’: Shetland’s scallop fishers brace for arrival of UK’s largest salmon farm",
+      "description": "&lt;p&gt;Huge project by Norwegian-owned Scottish Sea Farms gets go-ahead amid concerns over the environmental cost of fish farming and threat to trad...",
+      "link": "https://www.theguardian.com/environment/2026/feb/17/scotland-shetland-fishing-salmon-fish-farms-environment-ssf",
+      "pubDate": "Tue, 17 Feb 2026 12:00:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/840a718024e905b43d3228bc5da8c3f2e38a8303/199_108_3603_2884/master/3603.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d31443cbf53b2c0c32420a89f41e5567"
+    },
     {
       "title": "Retired EV Batteries Scored a New Gig: Bolstering Texas’ Grid",
       "description": "In the midday hours, prices plummet. An excess of energy produced across Texas, largely due to the state’s solar and wind fleet, signals it’s a good t...",
@@ -128,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Trump lashes out at California governor’s green energy deal with UK",
-      "description": "&lt;p&gt;President says it is inappropriate for UK to be dealing with Gavin Newsom after Ed Miliband meets governor in London&lt;/p&gt;&lt;p&gt;Donald...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/16/gavin-newsom-a-loser-says-trump-california-green-energy-deal-uk",
-      "pubDate": "Mon, 16 Feb 2026 19:23:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1cba8f02ff9827fd835ea5d70784c5a1924eb8fb/245_0_3231_2585/master/3231.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed96f9f76256be443b8a9e60204eb0dc"
-    },
-    {
       "title": "Ancient bone may prove legendary war elephant crossing of Alps",
       "description": "It would be the first hard evidence that elephants were used in battle by General Hannibal....",
       "link": "https://www.bbc.com/news/articles/cdr2xl1e41eo?at_medium=RSS&amp;at_campaign=rss",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/16022026/new-jersey-governor-utility-bills-clean-energy/",
       "pubDate": "Mon, 16 Feb 2026 09:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-      "description": "The US president wants American energy firms to start extracting the crude but they are reluctant....",
-      "link": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Feb 2026 09:50:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
