@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-18T07:12:01.024Z",
+  "lastUpdated": "2026-02-18T08:56:49.616Z",
   "articles": [
+    {
+      "title": "Plaid promises Welsh communities share of renewable energy profits",
+      "description": "Plaid Cymru says renewable energy projects would have to hand over stakes of up to 25% to local communities....",
+      "link": "https://www.bbc.com/news/articles/ckg180x2dq7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Feb 2026 07:14:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'It's overwhelming': Plastic from 1960s Canada washes up on Orkney beach",
+      "description": "One litter picker says he has seen a huge increase in the amount of plastic washing up on Sanday this year....",
+      "link": "https://www.bbc.com/news/articles/c2k8g4p44l0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Feb 2026 06:24:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Get the picture? High-tech, low-cost lens focuses on global consumer markets",
       "description": "The days of dropping a thermal imaging camera and replacing an expensive lens are coming to an end with a new repairable lens developed by Flinders Un...",
@@ -62,7 +80,7 @@
       "pubDate": "Wed, 18 Feb 2026 00:01:53 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/7d25725ee7c183a3b77a00938c9c54452d9d0968/681_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7fd9801c436d3a78999e7604d9e738a9"
+      "image": "https://i.guim.co.uk/img/media/7c19d249b4e0d59663a86f5648a0630b8f60fb23/1571_0_5169_4133/master/5169.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f7b965b53709feddd9fd82fc2cd2f8a"
     },
     {
       "title": "Texas Alleges ‘Habitual Non-Compliance’ of Wastewater Rules at Dow Chemical Complex",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What&#8217;s geologic hydrogen? What to know about the clean energy source buried under Michigan.",
-      "description": "Research shows the state may be a hotspot for the resource, prompting a scramble to understand its potential....",
-      "link": "https://grist.org/science/hydrogen-michigan-clean-energy/",
-      "pubDate": "Tue, 17 Feb 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/earths-hydrogen-factories2.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Gold and Silver Defy the Rulebook as Structural Forces Drive Historic Rally",
-      "description": "ABC Refinery Global Head of Institutional Markets Nicholas Frappell Chapter One Advisors Gold and silver prices have surged to extraordinary highs in ...",
-      "link": "https://econews.com.au/gold-and-silver-defy-the-rulebook-as-structural-forces-drive-historic-rally/",
-      "pubDate": "Tue, 17 Feb 2026 05:00:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
