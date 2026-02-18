@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-18T11:49:47.841Z",
+  "lastUpdated": "2026-02-18T13:24:55.395Z",
   "articles": [
+    {
+      "title": "Plaid promises Welsh communities share of renewable energy profits",
+      "description": "Plaid Cymru says renewable energy projects would have to hand over stakes of up to 25% to local communities....",
+      "link": "https://www.bbc.com/news/articles/ckg180x2dq7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Feb 2026 12:20:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
+      "description": "&lt;p&gt;Lawsuit from health and environmental justice groups challenges the EPA’s rollback of the ‘endangerment finding’&lt;/p&gt;&lt;p&gt;More than ...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/18/trump-epa-environment-climate-lawsuit",
+      "pubDate": "Wed, 18 Feb 2026 12:10:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1d5b800b120687459899a17fe4435e3d1c5c73d9/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6ec200d03ffff335dbcdaeda5dd48aa"
+    },
+    {
+      "title": "Second wild beaver spotted living at Norfolk nature reserve",
+      "description": "&lt;p&gt;Exclusive: Pensthorpe was believed to be home to just one individual but pair have been filmed grooming each other&lt;/p&gt;&lt;p&gt;No one k...",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/18/two-wild-beavers-norfolk-pensthorpe-nature-reserve",
+      "pubDate": "Wed, 18 Feb 2026 12:05:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4043388e130cd8bc3691b34538613d9eb5d730f0/203_0_2493_1994/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7200fea4805881f4f656c105af32fc82"
+    },
     {
       "title": "New England Lawmakers Weigh Plug-in Solar as Europe’s Model Spreads",
       "description": "The solar panels that hang from balconies across Europe may soon be coming to New England, helping lower energy costs and ease grid demand. This could...",
@@ -36,15 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1133d306feb9cff42fd8bf216d559a65670a9c7e/0_0_2040_1633/master/2040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43dede14ffd83327b5f3a577185dce83"
-    },
-    {
-      "title": "Plaid promises Welsh communities share of renewable energy profits",
-      "description": "Plaid Cymru says renewable energy projects would have to hand over stakes of up to 25% to local communities....",
-      "link": "https://www.bbc.com/news/articles/ckg180x2dq7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Feb 2026 07:14:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "'It's overwhelming': Plastic from 1960s Canada washes up on Orkney beach",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gotta watch ‘em all? Pokémon-style app for birdwatching launches",
-      "description": "&lt;p&gt;Users of Birdex get points for each bird they see and can compete with friends, with 200,000 sightings logged so far&lt;/p&gt;&lt;p&gt;A new ...",
-      "link": "https://www.theguardian.com/environment/2026/feb/17/birdex-birdwatching-app-pokemon",
-      "pubDate": "Tue, 17 Feb 2026 16:42:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d20cd574f40e240cfbcfcc41b03ea756dfc9a6f0/165_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28d0d3fd3a40de4f43fbd6ce35368a0f"
-    },
-    {
-      "title": "‘It’s betrayal’: Shetland’s scallop fishers brace for arrival of UK’s largest salmon farm",
-      "description": "&lt;p&gt;Huge project by Norwegian-owned Scottish Sea Farms gets go-ahead amid concerns over the environmental cost of fish farming and threat to trad...",
-      "link": "https://www.theguardian.com/environment/2026/feb/17/scotland-shetland-fishing-salmon-fish-farms-environment-ssf",
-      "pubDate": "Tue, 17 Feb 2026 12:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/840a718024e905b43d3228bc5da8c3f2e38a8303/199_108_3603_2884/master/3603.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d31443cbf53b2c0c32420a89f41e5567"
     }
   ]
 }
