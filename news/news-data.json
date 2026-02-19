@@ -1,10 +1,19 @@
 {
-  "lastUpdated": "2026-02-19T21:40:44.527Z",
+  "lastUpdated": "2026-02-19T22:40:41.036Z",
   "articles": [
+    {
+      "title": "More than 90 deaths this season: Are we seeing more avalanches?",
+      "description": "Recent deadly incidents in California and Europe are putting avalanches - and how to avoid them - in the spotlight....",
+      "link": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Feb 2026 21:57:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "And how can future civilisations remember where we put it?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8tyl?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 19 Feb 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Genesis showcases algae breakthrough at Climate Investor Forum",
-      "description": "Agri-climate innovator Genesis has taken centre stage at Australia’s largest climate investment conference, presenting its scalable algae-based techno...",
-      "link": "https://econews.com.au/genesis-showcases-algae-breakthrough-at-climate-investor-forum/",
-      "pubDate": "Thu, 19 Feb 2026 06:05:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
