@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-19T02:52:34.921Z",
+  "lastUpdated": "2026-02-19T05:00:15.775Z",
   "articles": [
+    {
+      "title": "‘It’s a catastrophe’: Wellington rages as millions of litres of raw sewage pour into ocean",
+      "description": "&lt;p&gt;Abandoned beaches, public health warning signs and seagulls eating human waste are now features of the popular coastline in New Zealand&lt;/p...",
+      "link": "https://www.theguardian.com/world/2026/feb/19/wellington-raw-sewage-leak-spill-water-new-zealand",
+      "pubDate": "Thu, 19 Feb 2026 03:42:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4f6119bc48bca08ec3c34bdb14882bbb4457ef10/513_75_3510_2808/master/3510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c81075f402ae77da13c106626a7a0c29"
+    },
     {
       "title": "Trump news at a glance: president’s ‘board of peace’ set to meet, minus some key US allies",
       "description": "&lt;p&gt;Some European leaders have criticised the organisation’s murky funding and political mandate – key US politics stories from Wednesday 18 Febr...",
@@ -11,7 +20,7 @@
       "image": "https://i.guim.co.uk/img/media/1abc055148674273b4d12ae56d0f550307bf1ed2/641_177_6022_4818/master/6022.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d6db0fbec45a077da009c1428343bff"
     },
     {
-      "title": "Environmental protest group says FBI is investigating it for terrorism",
+      "title": "Environmental protest group Extinction Rebellion says FBI is investigating it for terrorism",
       "description": "&lt;p&gt;Extinction Rebellion says some members have been visited by agents claiming to be FBI amid Trump’s threats toward liberal groups&lt;/p&gt;&lt...",
       "link": "https://www.theguardian.com/environment/2026/feb/18/extinction-rebellion-fbi-trump-environment",
       "pubDate": "Wed, 18 Feb 2026 23:58:50 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Beach-Clean-Up.jpg"
-    },
-    {
-      "title": "The Magnum Ice Cream Company partners with Seabin to monitor and reduce ice cream packaging waste in Sydney Harbour",
-      "description": "The Magnum Ice Cream Company (TMICC), owner of Streets ice cream in Australia, has announced a new partnership with Seabin to help prevent and reduce ...",
-      "link": "https://econews.com.au/the-magnum-ice-cream-company-partners-with-seabin-to-monitor-and-reduce-ice-cream-packaging-waste-in-sydney-harbour/",
-      "pubDate": "Wed, 18 Feb 2026 02:00:31 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
