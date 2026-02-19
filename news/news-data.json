@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T10:59:08.192Z",
+  "lastUpdated": "2026-02-19T11:49:17.969Z",
   "articles": [
     {
       "title": "MPs in call to halt Drax’s £2m-a-day subsidy over sustainability doubts",
@@ -45,6 +45,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/Trump-coal-order.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "BBC plans David Attenborough celebration for 100th birthday",
+      "description": "The corporation will look back on the veteran wildlife broadcaster's career for his birthday in May....",
+      "link": "https://www.bbc.com/news/articles/c1l7m7j6lzjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Feb 2026 09:20:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Two months after being arrested, this Indigenous climate leader remains imprisoned in Russia",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e1350175486cae265a85d33fe89e1596cbc5ac83/333_0_3333_2669/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0854381c382d0d6e45882ece1c5063e"
-    },
-    {
-      "title": "The sambusa underground: how Minneapolis’s Somalis feed community and resistance",
-      "description": "&lt;p&gt;A fried snack sustained protesters, and the aid continues amid fear and promises that ICE will leave the city&lt;/p&gt;&lt;p&gt;The images co...",
-      "link": "https://www.theguardian.com/environment/2026/feb/18/sambusa-food-minneapolis-somalis-ice",
-      "pubDate": "Wed, 18 Feb 2026 19:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c7b31d6f606a06899ccc5ab7fe1a12605e37a67d/0_67_1422_1136/master/1422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=371335f83995817f1b1dd2bbcb363ba5"
     }
   ]
 }
