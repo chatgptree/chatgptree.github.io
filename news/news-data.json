@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-18T23:38:02.441Z",
+  "lastUpdated": "2026-02-19T02:52:34.921Z",
   "articles": [
+    {
+      "title": "Trump news at a glance: president’s ‘board of peace’ set to meet, minus some key US allies",
+      "description": "&lt;p&gt;Some European leaders have criticised the organisation’s murky funding and political mandate – key US politics stories from Wednesday 18 Febr...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/18/trump-administration-news-at-a-glance-today",
+      "pubDate": "Thu, 19 Feb 2026 02:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1abc055148674273b4d12ae56d0f550307bf1ed2/641_177_6022_4818/master/6022.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d6db0fbec45a077da009c1428343bff"
+    },
+    {
+      "title": "Environmental protest group says FBI is investigating it for terrorism",
+      "description": "&lt;p&gt;Extinction Rebellion says some members have been visited by agents claiming to be FBI amid Trump’s threats toward liberal groups&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2026/feb/18/extinction-rebellion-fbi-trump-environment",
+      "pubDate": "Wed, 18 Feb 2026 23:58:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e8cdaa2b6218401d8b91b880f65f2e1e0e46b779/493_0_4913_3933/master/4913.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd940f829bd0914c3f738b1d07e0be4a"
+    },
     {
       "title": "Virginia House Passes Data Center Tax Exemption, With Conditions",
       "description": "RICHMOND, Va.—The Virginia House of Delegates on Tuesday passed legislation continuing billions of dollars in state tax exemptions for all qualifying ...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Indigenous plant could have handy health benefits",
-      "description": "Samiddhi Gunathilake and Dr Mahsa Majzoobi with a beaker of saltbush powder. RMIT University New research suggests an Australian desert plant could he...",
-      "link": "https://econews.com.au/indigenous-plant-could-have-handy-health-benefits/",
-      "pubDate": "Wed, 18 Feb 2026 02:00:28 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/04/RMIT-logo.png"
-    },
-    {
-      "title": "Border Wall Closes in on Big Bend",
-      "description": "REDFORD, Texas—Plans for a border wall through the Big Bend region of West Texas are raising alarms among residents and elected officials. U.S. Custom...",
-      "link": "https://insideclimatenews.org/news/17022026/big-bend-texas-border-wall/",
-      "pubDate": "Wed, 18 Feb 2026 00:40:26 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
