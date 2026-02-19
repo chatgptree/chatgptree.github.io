@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-19T08:56:32.076Z",
+  "lastUpdated": "2026-02-19T09:59:14.942Z",
   "articles": [
+    {
+      "title": "The cowboy who got rich selling veggie burgers",
+      "description": "To see the future of food, look no further than Sam Cobb, the cattle rancher making soy-based Boca Burgers....",
+      "link": "https://grist.org/food-and-agriculture/the-cowboy-who-got-rich-selling-veggie-burgers/",
+      "pubDate": "Thu, 19 Feb 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/Hobbs.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The nation&#8217;s largest public utility is going back to coal — with almost no input from the public",
+      "description": "The Tennessee Valley Authority once prided itself on political independence. Data center demand and political pressure have it changing course from cl...",
+      "link": "https://grist.org/energy/the-nations-largest-public-utility-is-going-back-to-coal-with-almost-no-input-from-the-public/",
+      "pubDate": "Thu, 19 Feb 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/Trump-coal-order.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Two months after being arrested, this Indigenous climate leader remains imprisoned in Russia",
+      "description": "The U.N. and dozens of Indigenous organizations are demanding Daria Egereva's release, but a Moscow court just extended her detention until at least M...",
+      "link": "https://grist.org/indigenous/two-months-after-being-arrested-this-indigenous-climate-leader-remains-imprisoned-in-russia/",
+      "pubDate": "Thu, 19 Feb 2026 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Genesis showcases algae breakthrough at Climate Investor Forum",
       "description": "Agri-climate innovator Genesis has taken centre stage at Australia’s largest climate investment conference, presenting its scalable algae-based techno...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b78eb53d55ba91e7ff3bd5df8dc266bccaa24f86/633_0_6305_5047/master/6305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f46211f8ac7e922cce075c566708dae6"
-    },
-    {
-      "title": "Plaid promises Welsh communities share of renewable energy profits",
-      "description": "Plaid Cymru says renewable energy projects would have to hand over stakes of up to 25% to local communities....",
-      "link": "https://www.bbc.com/news/articles/ckg180x2dq7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Feb 2026 14:54:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Unprovoked shark attacks up sharply in 2025, with 12 human deaths worldwide",
-      "description": "&lt;p&gt;Report records 65 unprovoked attacks – but annual drowning deaths in US alone exceed 4,000&lt;/p&gt;&lt;p&gt;The number of people killed or b...",
-      "link": "https://www.theguardian.com/environment/2026/feb/18/unprovoked-shark-attack-increase",
-      "pubDate": "Wed, 18 Feb 2026 14:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab48b2ffa2f04efa8b50bb136a4032e7b1c05964/411_0_2353_1884/master/2353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dbf9635a452a3516d8e92571860dbc4"
-    },
-    {
-      "title": "Second wild beaver spotted living at Norfolk nature reserve",
-      "description": "&lt;p&gt;Exclusive: Pensthorpe was believed to be home to just one individual but pair have been filmed grooming each other&lt;/p&gt;&lt;p&gt;No one k...",
-      "link": "https://www.theguardian.com/uk-news/2026/feb/18/two-wild-beavers-norfolk-pensthorpe-nature-reserve",
-      "pubDate": "Wed, 18 Feb 2026 12:05:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4043388e130cd8bc3691b34538613d9eb5d730f0/203_0_2493_1994/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7200fea4805881f4f656c105af32fc82"
     }
   ]
 }
