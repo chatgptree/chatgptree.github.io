@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-19T15:58:00.725Z",
+  "lastUpdated": "2026-02-19T17:06:19.189Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The science of barbecue recorded at Abergavenny Food Festival 2025....",
+      "link": "https://www.bbc.co.uk/sounds/play/m002s6by?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Feb 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "SpaceX rocket fireball linked to plume of polluting lithium",
+      "description": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused....",
+      "link": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Feb 2026 16:00:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "SpaceX rocket fireball linked to plume of polluting lithium",
+      "description": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused....",
+      "link": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Feb 2026 16:00:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Climate-driven snow drought set stage for deadly California avalanche, experts say",
       "description": "&lt;p&gt;Eight skiers were found dead, six were rescued and one is still missing after avalanche in Sierra Nevada mountains &lt;/p&gt;&lt;p&gt;The man...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/02/RMIT-logo-1.png"
-    },
-    {
-      "title": "Saputo Dairy Australia biogas to energy project goes live",
-      "description": "Saputo Dairy Australia (SDA) is pleased to announce a key milestone in its environmental sustainability efforts with the go-live of its purpose-built ...",
-      "link": "https://econews.com.au/saputo-dairy-australia-biogas-to-energy-project-goes-live/",
-      "pubDate": "Thu, 19 Feb 2026 05:04:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Image_Gerard-Lourey-Ross-Milne-Grant-Hutcheson-1024x683.jpg"
-    },
-    {
-      "title": "‘It’s a catastrophe’: Wellington rages as millions of litres of raw sewage pour into ocean",
-      "description": "&lt;p&gt;Abandoned beaches, public health warning signs and seagulls eating human waste are now features of the popular coastline in New Zealand&lt;/p...",
-      "link": "https://www.theguardian.com/world/2026/feb/19/wellington-raw-sewage-leak-spill-water-new-zealand",
-      "pubDate": "Thu, 19 Feb 2026 03:42:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4f6119bc48bca08ec3c34bdb14882bbb4457ef10/513_75_3510_2808/master/3510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c81075f402ae77da13c106626a7a0c29"
-    },
-    {
-      "title": "Trump news at a glance: president’s ‘board of peace’ set to meet, minus some key US allies",
-      "description": "&lt;p&gt;Some European leaders have criticised the organisation’s murky funding and political mandate – key US politics stories from Wednesday 18 Febr...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/18/trump-administration-news-at-a-glance-today",
-      "pubDate": "Thu, 19 Feb 2026 02:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1abc055148674273b4d12ae56d0f550307bf1ed2/641_177_6022_4818/master/6022.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d6db0fbec45a077da009c1428343bff"
     }
   ]
 }
