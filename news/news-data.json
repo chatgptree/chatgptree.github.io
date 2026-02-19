@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T14:58:29.946Z",
+  "lastUpdated": "2026-02-19T15:58:00.725Z",
   "articles": [
     {
       "title": "Climate-driven snow drought set stage for deadly California avalanche, experts say",
@@ -18,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0100254ff3bee8d09d4a7f565203bef81f3f4d0c/0_1398_3458_2766/master/3458.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63c4c90815ce42a4b5f50ef338b86fc0"
+    },
+    {
+      "title": "A Perplexing Ohio Bill Would Ban Wind, Solar … and Coal?",
+      "description": "An idea for restricting renewable energy has traveled from Utah to Louisiana and is now in New Hampshire, Arizona and Ohio. The proposed legislation i...",
+      "link": "https://insideclimatenews.org/news/19022026/inside-clean-energy-ohio-wind-solar-coal-ban/",
+      "pubDate": "Thu, 19 Feb 2026 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘There has to be glitter’: can the Rio carnival give up its love of beach-polluting microplastics?",
@@ -92,6 +101,33 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Genesis showcases algae breakthrough at Climate Investor Forum",
+      "description": "Agri-climate innovator Genesis has taken centre stage at Australia’s largest climate investment conference, presenting its scalable algae-based techno...",
+      "link": "https://econews.com.au/genesis-showcases-algae-breakthrough-at-climate-investor-forum/",
+      "pubDate": "Thu, 19 Feb 2026 06:05:10 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Arup appoints Peter Brunt as Victorian Water Business Leader",
+      "description": "Peter Brunt Global built environment consultancy Arup has appointed Peter Brunt as the new Victorian Water Business Leader, strengthening the firm’s w...",
+      "link": "https://econews.com.au/arup-appoints-peter-brunt-as-victorian-water-business-leader/",
+      "pubDate": "Thu, 19 Feb 2026 06:05:10 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "White sharks vs. killer whales: white sharks not always fearful of killer whales",
+      "description": "While killer whales (Orcinus orca) can trigger immediate departure of white sharks (Carcharodon carcharias), extended absences from their aggregation ...",
+      "link": "https://econews.com.au/white-sharks-vs-killer-whales-white-sharks-not-always-fearful-of-killer-whales/",
+      "pubDate": "Thu, 19 Feb 2026 06:05:01 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Flinders-Uni-logo.png"
+    },
+    {
       "title": "'Smiling' fossil discovered on Holy Island",
       "description": "The unusual looking fossil is estimated to be a few hundred million years old dating to the Carboniferous period....",
       "link": "https://www.bbc.com/news/articles/c7v0ev05mdjo?at_medium=RSS&amp;at_campaign=rss",
@@ -99,6 +135,33 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Poor community engagement is putting Australia’s renewable energy rollout at risk",
+      "description": "Matthew Gordon Australia’s clean energy rollout is accelerating, with billions being committed to solar, wind and storage projects in rural and region...",
+      "link": "https://econews.com.au/poor-community-engagement-is-putting-australias-renewable-energy-rollout-at-risk/",
+      "pubDate": "Thu, 19 Feb 2026 05:04:59 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Australia’s largest Antarctic art exhibition opens at RMIT Gallery and Design Hub Gallery",
+      "description": "Keith Jack ‘Mt Erebus Ross Is.’, 1914-1917 RMIT University Creative Antarctica: Australian Artists and Writers in the Far South, a major new exhibitio...",
+      "link": "https://econews.com.au/australias-largest-antarctic-art-exhibition-opens-at-rmit-gallery-and-design-hub-gallery/",
+      "pubDate": "Thu, 19 Feb 2026 05:04:58 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/02/RMIT-logo-1.png"
+    },
+    {
+      "title": "Saputo Dairy Australia biogas to energy project goes live",
+      "description": "Saputo Dairy Australia (SDA) is pleased to announce a key milestone in its environmental sustainability efforts with the go-live of its purpose-built ...",
+      "link": "https://econews.com.au/saputo-dairy-australia-biogas-to-energy-project-goes-live/",
+      "pubDate": "Thu, 19 Feb 2026 05:04:55 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Image_Gerard-Lourey-Ross-Milne-Grant-Hutcheson-1024x683.jpg"
     },
     {
       "title": "‘It’s a catastrophe’: Wellington rages as millions of litres of raw sewage pour into ocean",
@@ -117,69 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1abc055148674273b4d12ae56d0f550307bf1ed2/641_177_6022_4818/master/6022.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d6db0fbec45a077da009c1428343bff"
-    },
-    {
-      "title": "Environmental protest group Extinction Rebellion says FBI is investigating it for terrorism",
-      "description": "&lt;p&gt;Extinction Rebellion says some members have been visited by agents claiming to be FBI amid Trump’s threats toward liberal groups&lt;/p&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2026/feb/18/extinction-rebellion-fbi-trump-environment",
-      "pubDate": "Wed, 18 Feb 2026 23:58:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e8cdaa2b6218401d8b91b880f65f2e1e0e46b779/493_0_4913_3933/master/4913.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd940f829bd0914c3f738b1d07e0be4a"
-    },
-    {
-      "title": "Virginia House Passes Data Center Tax Exemption, With Conditions",
-      "description": "RICHMOND, Va.—The Virginia House of Delegates on Tuesday passed legislation continuing billions of dollars in state tax exemptions for all qualifying ...",
-      "link": "https://insideclimatenews.org/news/18022026/virginia-data-center-tax-exemption/",
-      "pubDate": "Wed, 18 Feb 2026 23:09:46 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Healthcare Professionals, Scientists and Children Sue the EPA for Backtracking on Greenhouse Gas Regulation",
-      "description": "Two lawsuits filed Wednesday in the D.C. Circuit Court of Appeals mark the beginning of a rocky legal road for the Environmental Protection Agency fol...",
-      "link": "https://insideclimatenews.org/news/18022026/epa-sued-for-backtracking-endangerment-finding/",
-      "pubDate": "Wed, 18 Feb 2026 22:43:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mazda, Nissan, Hyundai and Subaru face fines after first six months of Australia’s new emissions standards",
-      "description": "&lt;p&gt;Almost 70% of companies, including BYD and Toyota, beat their initial target for the average emissions efficiency of the new cars they sold&l...",
-      "link": "https://www.theguardian.com/environment/2026/feb/18/carmakers-face-possible-heavy-fines-in-australia-for-failing-to-meet-climate-targets",
-      "pubDate": "Wed, 18 Feb 2026 21:45:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e1350175486cae265a85d33fe89e1596cbc5ac83/333_0_3333_2669/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0854381c382d0d6e45882ece1c5063e"
-    },
-    {
-      "title": "The sambusa underground: how Minneapolis’s Somalis feed community and resistance",
-      "description": "&lt;p&gt;A fried snack sustained protesters, and the aid continues amid fear and promises that ICE will leave the city&lt;/p&gt;&lt;p&gt;The images co...",
-      "link": "https://www.theguardian.com/environment/2026/feb/18/sambusa-food-minneapolis-somalis-ice",
-      "pubDate": "Wed, 18 Feb 2026 19:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c7b31d6f606a06899ccc5ab7fe1a12605e37a67d/0_67_1422_1136/master/1422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=371335f83995817f1b1dd2bbcb363ba5"
-    },
-    {
-      "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
-      "description": "&lt;p&gt;Lawsuit from health and environmental justice groups challenges the EPA’s rollback of the ‘endangerment finding’&lt;/p&gt;&lt;p&gt;More than ...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/18/trump-epa-environment-climate-lawsuit",
-      "pubDate": "Wed, 18 Feb 2026 17:27:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1d5b800b120687459899a17fe4435e3d1c5c73d9/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6ec200d03ffff335dbcdaeda5dd48aa"
-    },
-    {
-      "title": "Trump has done more than harm the government’s ability to fight global heating | Jamil Smith",
-      "description": "&lt;p&gt;By repealing the EPA’s determination that greenhouse gases threaten public health, the president is denying reality itself&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/18/trump-epa-climate-crisis-public-health",
-      "pubDate": "Wed, 18 Feb 2026 15:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b78eb53d55ba91e7ff3bd5df8dc266bccaa24f86/633_0_6305_5047/master/6305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f46211f8ac7e922cce075c566708dae6"
     }
   ]
 }
