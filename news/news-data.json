@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T06:11:09.238Z",
+  "lastUpdated": "2026-02-19T07:54:02.363Z",
   "articles": [
     {
       "title": "Genesis showcases algae breakthrough at Climate Investor Forum",
@@ -27,6 +27,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Flinders-Uni-logo.png"
+    },
+    {
+      "title": "'Smiling' fossil discovered on Holy Island",
+      "description": "The unusual looking fossil is estimated to be a few hundred million years old dating to the Carboniferous period....",
+      "link": "https://www.bbc.com/news/articles/c7v0ev05mdjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Feb 2026 05:07:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Poor community engagement is putting Australia’s renewable energy rollout at risk",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4043388e130cd8bc3691b34538613d9eb5d730f0/203_0_2493_1994/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7200fea4805881f4f656c105af32fc82"
-    },
-    {
-      "title": "New England Lawmakers Weigh Plug-in Solar as Europe’s Model Spreads",
-      "description": "The solar panels that hang from balconies across Europe may soon be coming to New England, helping lower energy costs and ease grid demand. This could...",
-      "link": "https://insideclimatenews.org/news/18022026/new-england-plug-in-solar-legislation/",
-      "pubDate": "Wed, 18 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
