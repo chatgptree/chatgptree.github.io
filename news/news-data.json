@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-19T09:59:14.942Z",
+  "lastUpdated": "2026-02-19T10:59:08.192Z",
   "articles": [
+    {
+      "title": "MPs in call to halt Drax’s £2m-a-day subsidy over sustainability doubts",
+      "description": "&lt;p&gt;Exclusive: Cross-party group ‘deeply concerned’ power plant may have misled ministers and regulators over source of wood pellets&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/business/2026/feb/19/calls-to-halt-drax-subsidy-sustainability-doubts-wood-pellets",
+      "pubDate": "Thu, 19 Feb 2026 10:10:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3461c9ae638c7d12d441e212b8ca294edd9a92a9/732_0_3709_2970/master/3709.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b7d718f70af4f2253d78e43c6f70cd5"
+    },
+    {
+      "title": "Expanded Arctic Drilling Faces a Wave of Lawsuits",
+      "description": "The wild swings between recent presidential administrations are especially dizzying on Alaska’s North Slope. The first Trump administration sought to ...",
+      "link": "https://insideclimatenews.org/news/19022026/trump-administration-alaska-oil-drilling-lawsuits/",
+      "pubDate": "Thu, 19 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Could a New Illinois Bill Be a Blueprint for Curbing Data Centers’ Climate Impacts?",
+      "description": "CHICAGO—A new Illinois bill seeks to rein in power- and water-hungry data centers’ impacts on residents and get the state back on track to meet its cl...",
+      "link": "https://insideclimatenews.org/news/19022026/illinois-data-center-impacts-bill/",
+      "pubDate": "Thu, 19 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The cowboy who got rich selling veggie burgers",
       "description": "To see the future of food, look no further than Sam Cobb, the cattle rancher making soy-based Boca Burgers....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c7b31d6f606a06899ccc5ab7fe1a12605e37a67d/0_67_1422_1136/master/1422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=371335f83995817f1b1dd2bbcb363ba5"
-    },
-    {
-      "title": "Plug-in hybrids use three times more fuel than manufacturers claim, analysis finds",
-      "description": "&lt;p&gt;While most hybrids are said to use one to two litres of fuel per 100km, a study claims they need six litres on average&lt;/p&gt;&lt;p&gt;Plug...",
-      "link": "https://www.theguardian.com/environment/2026/feb/18/plug-in-hybrids-use-three-times-more-fuel-than-manufacturers-claim-analysis-finds",
-      "pubDate": "Wed, 18 Feb 2026 18:41:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab844102d80ce4006f427d31fcada29625f85678/650_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e70f70d9c9b06af5d174d85df529092"
-    },
-    {
-      "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
-      "description": "&lt;p&gt;Lawsuit from health and environmental justice groups challenges the EPA’s rollback of the ‘endangerment finding’&lt;/p&gt;&lt;p&gt;More than ...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/18/trump-epa-environment-climate-lawsuit",
-      "pubDate": "Wed, 18 Feb 2026 17:27:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1d5b800b120687459899a17fe4435e3d1c5c73d9/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6ec200d03ffff335dbcdaeda5dd48aa"
-    },
-    {
-      "title": "Trump has done more than harm the government’s ability to fight global heating | Jamil Smith",
-      "description": "&lt;p&gt;By repealing the EPA’s determination that greenhouse gases threaten public health, the president is denying reality itself&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/feb/18/trump-epa-climate-crisis-public-health",
-      "pubDate": "Wed, 18 Feb 2026 15:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b78eb53d55ba91e7ff3bd5df8dc266bccaa24f86/633_0_6305_5047/master/6305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f46211f8ac7e922cce075c566708dae6"
     }
   ]
 }
