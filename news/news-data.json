@@ -1,11 +1,38 @@
 {
-  "lastUpdated": "2026-02-20T16:52:29.449Z",
+  "lastUpdated": "2026-02-20T17:46:05.285Z",
   "articles": [
+    {
+      "title": "Trump’s EPA to roll back rule limiting hazardous mercury from coal plants",
+      "description": "&lt;p&gt;Environmental groups warn that weakening air toxics and mercury standards will lead to higher health-related costs&lt;/p&gt;&lt;p&gt;The Trum...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/20/trump-epa-weaken-rule-mercury-air-toxics-coal",
+      "pubDate": "Fri, 20 Feb 2026 17:01:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ad8c66b6f3fadef01fdd88731a0f3e79dba9010d/475_0_4094_3274/master/4094.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=608ab0c694ba2931d3c868f9f3b9424a"
+    },
     {
       "title": "Nasa targets early March to send humans back around the Moon",
       "description": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission....",
       "link": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Feb 2026 16:32:49 GMT",
+      "pubDate": "Fri, 20 Feb 2026 17:00:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ask a Climate Therapist: How do I deal with friends and family who won&#8217;t stop polluting?",
+      "description": "Your climate values are conflicting with your closest relationships. Here's some advice on how to cope....",
+      "link": "https://grist.org/culture/ask-a-climate-therapist-how-to-deal-with-friends-and-family-who-keep-flying-polluting/",
+      "pubDate": "Fri, 20 Feb 2026 16:55:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/climate-therapist-logo.png"
+    },
+    {
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Feb 2026 16:54:33 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More than 90 deaths this season: Are we seeing more avalanches?",
-      "description": "Recent deadly incidents in California and Europe are putting avalanches - and how to avoid them - in the spotlight....",
-      "link": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Feb 2026 21:57:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "And how can future civilisations remember where we put it?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8tyl?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Feb 2026 21:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Avalanche risks remain high in California after deaths of skiers",
-      "description": "&lt;p&gt;Forecasters predict more snow in Sierra Nevada mountains as climate crisis increases threat of dangerous conditions&lt;/p&gt;&lt;p&gt;Avalanc...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/19/snow-drought-deadly-california-avalanche",
-      "pubDate": "Thu, 19 Feb 2026 20:39:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0d7d89146ecfc4e456abcfefd472bef0d0af6019/121_0_1206_965/master/1206.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37e3b6b19efc53e73226b362ff8c5cd9"
     }
   ]
 }
