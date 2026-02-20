@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-20T15:44:35.384Z",
+  "lastUpdated": "2026-02-20T16:52:29.449Z",
   "articles": [
+    {
+      "title": "Nasa targets early March to send humans back around the Moon",
+      "description": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission....",
+      "link": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Feb 2026 16:32:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "There are problems with a geoengineering techno-fix for the climate crisis | Mike Hulme",
       "description": "&lt;p&gt;Geoengineering does little to defuse most of the risks that really matter for people – and it runs the risk of making some harms worse&lt;/p&...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0d7d89146ecfc4e456abcfefd472bef0d0af6019/121_0_1206_965/master/1206.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37e3b6b19efc53e73226b362ff8c5cd9"
-    },
-    {
-      "title": "Trump order seeks to protect weedkiller at center of barrage of lawsuits",
-      "description": "&lt;p&gt;President’s move, which also seeks ‘immunity’ for makers, faces backlash from health advocates and Maha coalition&lt;/p&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/environment/2026/feb/19/trump-order-protect-weedkiller",
-      "pubDate": "Thu, 19 Feb 2026 20:32:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/943fd49535f7ff488892ed5ea79dedaf72b49aea/248_0_2504_2003/master/2504.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3a44564f3ad67ead11011a6ccb1aebb"
     }
   ]
 }
