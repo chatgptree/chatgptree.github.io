@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-21T13:06:09.577Z",
+  "lastUpdated": "2026-02-21T14:34:22.049Z",
   "articles": [
+    {
+      "title": "US farmers are rejecting multimillion-dollar datacenter bids for their land: ‘I’m not for sale’",
+      "description": "&lt;p&gt;Families are navigating the tough choice between unimaginable riches and the identity that comes with land&lt;/p&gt;&lt;p&gt;When two men kno...",
+      "link": "https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters",
+      "pubDate": "Sat, 21 Feb 2026 14:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/15e17f876989e2b3c1377e4cd5868f8103a523f6/550_0_4480_3583/master/4480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86c6c338194c75c0b27d935fc293ef3a"
+    },
+    {
+      "title": "&#8216;A different set of rules&#8217;: Thermal drone footage shows Musk&#8217;s AI power plant flouting clean air regulations",
+      "description": "Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship data centers....",
+      "link": "https://grist.org/accountability/a-different-set-of-rules-thermal-drone-footage-shows-musks-ai-power-plant-flouting-clean-air-regulations/",
+      "pubDate": "Sat, 21 Feb 2026 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/Southaven-Turbine-Cluster-3_standard-drone_SIMON.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "‘Reimagining matter’: Nobel laureate invents machine that harvests water from dry air",
       "description": "&lt;p&gt;Omar Yaghi’s invention uses ambient thermal energy and can generate up to 1,000 litres of clean water every day&lt;/p&gt;&lt;p&gt;A Nobel lau...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/884b7da79f284450228f3c459b13e6227c934206/86_0_2629_2102/master/2629.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c630b3a48e7fada5ea0f257b0ae647fb"
-    },
-    {
-      "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
-      "description": "The agency released a critical report that puts the Starliner incident at same mistake level assigned to the fatal Columbia and Challenger shuttle dis...",
-      "link": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Feb 2026 01:44:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Green hydrogen to command 88.6% share of low-carbon production by 2030, reveals GlobalData",
-      "description": "Low?carbon hydrogen production grew slowly for years and was largely flat until recently. However, the trend has changed in the past couple of years, ...",
-      "link": "https://econews.com.au/green-hydrogen-to-command-88-6-share-of-low-carbon-production-by-2030-reveals-globaldata/",
-      "pubDate": "Fri, 20 Feb 2026 00:05:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Global-Data-logo.jpg"
     }
   ]
 }
