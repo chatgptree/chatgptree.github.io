@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-21T09:38:33.013Z",
+  "lastUpdated": "2026-02-21T10:35:28.677Z",
   "articles": [
+    {
+      "title": "Virginia House Delays Action on Bill Banning Paraquat",
+      "description": "RICHMOND, Va.—A bill banning the pesticide paraquat died last week in the Virginia House of Delegates after the chamber’s Agriculture, Chesapeake and ...",
+      "link": "https://insideclimatenews.org/news/21022026/virginia-paraquat-ban-bill/",
+      "pubDate": "Sat, 21 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Health and Climate Consequences of EPA’s Endangerment Finding Repeal ‘Cannot Be Overstated’",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Pat Parenteau, an emeri...",
+      "link": "https://insideclimatenews.org/news/21022026/epa-endangerment-finding-repeal-health-climate-consequences/",
+      "pubDate": "Sat, 21 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Team USA is proving that world-class skiing doesn’t require PFAS wax",
       "description": "U.S. ski techs reflect on competing at the first Olympics banning waxes with \"forever chemicals.\"...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Global-Data-logo.jpg"
-    },
-    {
-      "title": "‘Incredibly resilient’ nylon device creates electricity under tonnes of pressure",
-      "description": "A tough and flexible invention generates electricity from compression and keeps working even after being run over by a car multiple times, opening the...",
-      "link": "https://econews.com.au/incredibly-resilient-nylon-device-creates-electricity-under-tonnes-of-pressure/",
-      "pubDate": "Fri, 20 Feb 2026 00:05:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/04/RMIT-logo.png"
-    },
-    {
-      "title": "National project a quantum leap in sustainable data centres",
-      "description": "La Trobe University La?Trobe University will lead a major national project aimed at optimising energy use and emissions of Australia’s data centres us...",
-      "link": "https://econews.com.au/national-project-a-quantum-leap-in-sustainable-data-centres/",
-      "pubDate": "Fri, 20 Feb 2026 00:04:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
