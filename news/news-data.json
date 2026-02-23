@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-23T15:55:46.599Z",
+  "lastUpdated": "2026-02-23T17:09:51.456Z",
   "articles": [
+    {
+      "title": "Sam Altman defends AI’s energy toll by saying it also takes a lot to ‘train a human’",
+      "description": "&lt;p&gt;OpenAI CEO also downplayed concerns about how much water datacenters require at AI summit in India&lt;/p&gt;&lt;p&gt;The OpenAI boss, &lt;a h...",
+      "link": "https://www.theguardian.com/technology/2026/feb/23/sam-altman-openai-energy-use-datacenters",
+      "pubDate": "Mon, 23 Feb 2026 16:38:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a6dd2dade2d427881b189df28163c146e8dfbcbe/576_0_6082_4863/master/6082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c0229e6c4fb0f09be7cd84206d68db9"
+    },
+    {
+      "title": "US supreme court takes up fossil fuel firms’ climate accountability case",
+      "description": "&lt;p&gt;Judgment in city of Boulder’s lawsuit against Suncor Energy USA and ExxonMobil could affect wave of climate litigation&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/23/supreme-court-suncor-exxonmobil-case",
+      "pubDate": "Mon, 23 Feb 2026 16:04:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/24dceba9530be437bd53c0590202fe741c0dc17c/0_0_3213_2570/master/3213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ece768b2720340b4fa8d1effa9ed223"
+    },
+    {
+      "title": "Yorkshire Water fined over £700,000 for repeated sewage releases",
+      "description": "&lt;p&gt;Company admits three pollution events that killed fish and insects in Pools Brook country park near Chesterfield&lt;/p&gt;&lt;p&gt;&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/environment/2026/feb/23/yorkshire-water-fined-repeated-sewage-releases-chesterfield",
+      "pubDate": "Mon, 23 Feb 2026 16:03:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9f7db6a59500b2e468028488c3eb6193cd053650/22_0_3124_2502/master/3124.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edd1dc469de4d01dcef30dba416995ff"
+    },
     {
       "title": "‘Tinderbox’ UK may be one shock away from food riots, experts say",
       "description": "&lt;p&gt;Weakened food security could tip into unrest after a cyber-attack, extreme weather or conflict, analysis finds&lt;/p&gt;&lt;p&gt;One shock co...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump approves federal emergency declaration for Potomac River sewage spill",
-      "description": "&lt;p&gt;Millions of gallons of raw sewage have been pouring into the water through a ruptured pipe since last month&lt;/p&gt;&lt;p&gt;&lt;a href=\"htt...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/21/trump-emergency-potomac-sewage-spill",
-      "pubDate": "Sat, 21 Feb 2026 17:51:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cb55f7e8fdbf4bb79468c08b355b11619d5b1973/746_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b62e3db3830df3a07cf5d6890050b83f"
-    },
-    {
-      "title": "US farmers are rejecting multimillion-dollar datacenter bids for their land: ‘I’m not for sale’",
-      "description": "&lt;p&gt;Families are navigating the tough choice between unimaginable riches and the identity that comes with land&lt;/p&gt;&lt;p&gt;When two men kno...",
-      "link": "https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters",
-      "pubDate": "Sat, 21 Feb 2026 14:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/15e17f876989e2b3c1377e4cd5868f8103a523f6/550_0_4480_3583/master/4480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86c6c338194c75c0b27d935fc293ef3a"
-    },
-    {
-      "title": "&#8216;A different set of rules&#8217;: Thermal drone footage shows Musk&#8217;s AI power plant flouting clean air regulations",
-      "description": "Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship data centers....",
-      "link": "https://grist.org/accountability/a-different-set-of-rules-thermal-drone-footage-shows-musks-ai-power-plant-flouting-clean-air-regulations/",
-      "pubDate": "Sat, 21 Feb 2026 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/Southaven-Turbine-Cluster-3_standard-drone_SIMON.jpg?quality=75&amp;strip=all"
     }
   ]
 }
