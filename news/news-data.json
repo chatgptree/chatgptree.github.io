@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T05:05:40.513Z",
+  "lastUpdated": "2026-02-23T07:17:09.053Z",
   "articles": [
     {
       "title": "Seabird conservation starts upstream, scientists say",
@@ -45,6 +45,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/bar_cups_beer-1024x406.jpg"
+    },
+    {
+      "title": "How an annual ‘wedding flight’ of 1,000 virgin queens is ensuring the revival of Europe’s dark bee",
+      "description": "&lt;p&gt;The Belgian ceremony attracts beekeepers from the Netherlands, France and Germany keen to boost dark bee numbers and stop the spread of the h...",
+      "link": "https://www.theguardian.com/environment/2026/feb/23/dark-bee-species-belgian-beekeepers-honeybees-aoe",
+      "pubDate": "Mon, 23 Feb 2026 05:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/829dafbfd42c6d9f91f95cb6c5f3000956108827/197_0_2757_2205/master/2757.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6074ae31a0ac0a7ce41269b0fbfbcb89"
     },
     {
       "title": "Scientists have found another alarming pattern in wildfires",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6bb253fc547be0096970572335af59387b75a961/455_0_4554_3643/master/4554.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1000023b900c1ec81ad9986802568e57"
-    },
-    {
-      "title": "EPA’s Clean School Bus ‘Revamp’ Means Less Support for EVs",
-      "description": "In the 2021 Bipartisan Infrastructure Law, Congress voted to invest $5 billion in accelerating a phase-out of diesel school buses across the country, ...",
-      "link": "https://insideclimatenews.org/news/20022026/epa-clean-school-bus-revamp/",
-      "pubDate": "Fri, 20 Feb 2026 22:59:11 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
