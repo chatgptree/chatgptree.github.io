@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-23T09:00:07.943Z",
+  "lastUpdated": "2026-02-23T10:07:41.832Z",
   "articles": [
+    {
+      "title": "What Happens If New York Buildings Use Less Gas?",
+      "description": "As temperatures dropped below freezing in New York City last month, boilers in the basements of city buildings insulated New Yorkers from the cold. Bu...",
+      "link": "https://insideclimatenews.org/news/23022026/new-york-city-natural-gas-reliance/",
+      "pubDate": "Mon, 23 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Did the USDA just forget about $400M in drought aid for farmers?",
+      "description": "More than a year later, not a dollar has been spent — and no one knows what happened to the money....",
+      "link": "https://grist.org/food-and-agriculture/did-the-usda-just-forget-about-400m-in-drought-aid-for-farmers/",
+      "pubDate": "Mon, 23 Feb 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/05/GettyImages-2207588050.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Electric buses are passing a brutal cold-weather test in Wisconsin",
+      "description": "Madison is proving that electric buses can run through frightfully cold winters, providing a blueprint for zero-emissions transit in other frigid loca...",
+      "link": "https://grist.org/transportation/electric-buses-are-passing-a-brutal-cold-weather-test-in-wisconsin/",
+      "pubDate": "Mon, 23 Feb 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/Madison-Wisconsin-transit-BRT-electric-buses-range-winter-pantograph-overhead-charging.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Seabird conservation starts upstream, scientists say",
       "description": "Conceptual model of river influences on seabird foraging, health and demography Monash University New research from Monash University, in collaboratio...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ad3a82608529b4008ed7e768667202f9e382092e/533_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ec031284c3aa51dc623952104988873"
-    },
-    {
-      "title": "Virginia House Delays Action on Bill Banning Paraquat",
-      "description": "RICHMOND, Va.—A bill banning the pesticide paraquat died last week in the Virginia House of Delegates after the chamber’s Agriculture, Chesapeake and ...",
-      "link": "https://insideclimatenews.org/news/21022026/virginia-paraquat-ban-bill/",
-      "pubDate": "Sat, 21 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Health and Climate Consequences of EPA’s Endangerment Finding Repeal ‘Cannot Be Overstated’",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Pat Parenteau, an emeri...",
-      "link": "https://insideclimatenews.org/news/21022026/epa-endangerment-finding-repeal-health-climate-consequences/",
-      "pubDate": "Sat, 21 Feb 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Team USA is proving that world-class skiing doesn’t require PFAS wax",
-      "description": "U.S. ski techs reflect on competing at the first Olympics banning waxes with \"forever chemicals.\"...",
-      "link": "https://grist.org/culture/team-usa-is-proving-that-world-class-skiing-doesnt-require-pfas-wax/",
-      "pubDate": "Sat, 21 Feb 2026 09:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/SkiWax-PhotoIllustration4.2.jpg?quality=75&#038;strip=all"
     }
   ]
 }
