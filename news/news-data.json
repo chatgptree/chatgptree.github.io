@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-02-24T10:04:35.538Z",
+  "lastUpdated": "2026-02-24T11:48:06.793Z",
   "articles": [
+    {
+      "title": "‘It’s more exciting than Tesco’: can traditional fishing lure Cornwall’s young people?",
+      "description": "&lt;p&gt;Taster days and training are offering teenagers an escape from a future of part-time, seasonal work – and giving a boost to a declining indus...",
+      "link": "https://www.theguardian.com/environment/2026/feb/24/its-more-exciting-than-tesco-can-traditional-fishing-lure-cornwalls-young-people",
+      "pubDate": "Tue, 24 Feb 2026 10:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/288af9ee9a2eb72e1cbf012c598fbbd6b60ca294/402_0_6263_5010/master/6263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29919a1394831b1975c2cb2d67ef8df8"
+    },
+    {
+      "title": "One in Five Fish Products Tied to Fraud",
+      "description": "From Los Angeles’ luxurious sushi restaurants to Latin America’s roadside ceviche stands, consumers are being lied to. The canned tuna sold on superma...",
+      "link": "https://insideclimatenews.org/news/24022026/seafood-industry-fraud-united-nations/",
+      "pubDate": "Tue, 24 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmental, Community Groups to Challenge Regulators’ Approval of Dominion’s Gas Plant",
+      "description": "RICHMOND, Va.—Three climate and justice nonprofits filed a notice before the Virginia Supreme Court on Tuesday that they would appeal a state regulato...",
+      "link": "https://insideclimatenews.org/news/24022026/southern-environmental-law-center-challenges-dominion-gas-plant-approval/",
+      "pubDate": "Tue, 24 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "This Tiny Tracker Monitors Monarch Migration",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Dan Fagin, a journ...",
+      "link": "https://insideclimatenews.org/news/24022026/tracking-monarch-butterfly-migration/",
+      "pubDate": "Tue, 24 Feb 2026 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "These data center developers asked Trump for an exemption from pollution rules",
       "description": "Though the companies weren't granted exemptions, their requests illustrate the data center industry's desperate quest for energy....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/31ab1ed29b312fcc3cd3e999140a537c92315300/0_0_11030_8826/master/11030.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd3e0f7ca203b24480199b56efffb68e"
-    },
-    {
-      "title": "Supreme Court to Decide Key Issue in Fate of State and City Suits Against Oil Companies Over Climate Change",
-      "description": "From Baltimore to Honolulu, cities have made their views clear: Oil companies whose pollution contributed to climate change should be financially resp...",
-      "link": "https://insideclimatenews.org/news/23022026/supreme-court-looks-at-state-city-oil-climate-lawsuits/",
-      "pubDate": "Mon, 23 Feb 2026 22:13:38 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Snowstorms Can Trigger More Dangerous Flooding in New Jersey",
-      "description": "New Jersey is among the states hit hardest by the blizzard that battered the Northeast Sunday and Monday, with two feet of snow or more and extremely ...",
-      "link": "https://insideclimatenews.org/news/23022026/new-jersey-snowstorms-flooding/",
-      "pubDate": "Mon, 23 Feb 2026 21:02:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Channel 4’s Dirty Business is a clarion call to nationalise the water industry",
-      "description": "&lt;p&gt;As the drama shows, private firms no longer able to pollute the coast of England of Wales just switched to rivers instead &lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/environment/2026/feb/23/channel-4-dirty-business-clarion-call-nationalise-water-industry",
-      "pubDate": "Mon, 23 Feb 2026 21:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c03fa324af47a9e584e52ec5f98618ef02f76186/314_0_3200_2560/master/3200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3b1854e6d70559c91eb73785a199897"
-    },
-    {
-      "title": "More than 90 deaths this season: Are we seeing more avalanches?",
-      "description": "Recent deadly incidents in California and Europe are putting avalanches - and how to avoid them - in the spotlight....",
-      "link": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Feb 2026 20:54:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
