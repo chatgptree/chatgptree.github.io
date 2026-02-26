@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-26T16:00:38.428Z",
+  "lastUpdated": "2026-02-26T17:57:56.832Z",
   "articles": [
+    {
+      "title": "Democrats call for freeze on gas exports as energy prices soar for US households",
+      "description": "&lt;p&gt;Families are ‘struggling with cost of heating their homes’, letter says as Trump repeatedly pledges to slash utility bills&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/26/democrats-gas-exports-energy-prices",
+      "pubDate": "Thu, 26 Feb 2026 17:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a19b023d67173d8d85d57727bf42651369ee0d69/412_0_5001_4001/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b89886c38abc4b273b02664a0a0a7043"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Molecular biologists find tiny self-replicating molecules which may be key to life origins...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty1?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Feb 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "US ‘bullying’ could scupper carbon levy on shipping, warn experts",
       "description": "&lt;p&gt;Panama joins smaller nations in dropping support for policy aimed at cutting maritime emissions&lt;/p&gt;&lt;p&gt;US “bullying” over a propos...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/La-Trobe-logo.png"
-    },
-    {
-      "title": "North Carolina Regulators Nix $1.2 Billion Federal Proposal to Dredge Wilmington Harbor",
-      "description": "The U.S. Army Corps of Engineers can’t dredge 28 miles of the Wilmington Harbor as planned, after North Carolina environmental regulators determined t...",
-      "link": "https://insideclimatenews.org/news/25022026/north-carolina-denies-army-corps-engineers-wilmington-dredging/",
-      "pubDate": "Thu, 26 Feb 2026 00:23:50 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Judge orders Greenpeace to pay $345m over Dakota Access pipeline protest",
-      "description": "&lt;p&gt;Group says case far from over after being found liable for defamation and other claims brought by energy firm&lt;/p&gt;&lt;p&gt;A North Dakot...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/25/greenpeace-dakota-access-pipeline-protest",
-      "pubDate": "Wed, 25 Feb 2026 23:55:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1da036d7e3a11b0413da14d2b3e35c9e0e43bedf/260_0_2574_2059/master/2574.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c09cd047ad97387c81795f5b36cc20ef"
     }
   ]
 }
