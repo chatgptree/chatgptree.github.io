@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-02-26T08:58:53.822Z",
+  "lastUpdated": "2026-02-26T10:02:09.442Z",
   "articles": [
+    {
+      "title": "Satellites Reveal New Climate Threat to Emperor Penguins",
+      "description": "Each year for millennia, emperor penguins have molted on coastal sea ice that remained stable until late summer—a haven during a span of several weeks...",
+      "link": "https://insideclimatenews.org/news/26022026/antarctic-ice-loss-threatens-emperor-penguins/",
+      "pubDate": "Thu, 26 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "States Sue to Block Trump’s ‘Anti-Science’ Vaccine Policy",
+      "description": "Scientists have long warned that a warming world is likely to hasten the spread of infectious diseases, making vaccination even more critical to safeg...",
+      "link": "https://insideclimatenews.org/news/26022026/states-sue-trump-vaccine-policy/",
+      "pubDate": "Thu, 26 Feb 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hurricane Helene Is Headed for Georgians’ Electric Bills",
+      "description": "Hurricane Helene may be long over, but its costs are poised to land on Georgians’ electricity bills. After the storm killed 37 people in Georgia and c...",
+      "link": "https://insideclimatenews.org/news/26022026/hurricane-helene-recovery-georgia-power-bills/",
+      "pubDate": "Thu, 26 Feb 2026 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Amid Affordability Crisis, New Jersey Hands $250 Million Tax Break to Data Center",
+      "description": "With New Jersey’s cost-of-living “crisis” at the center of Gov. Mikie Sherrill’s agenda, her administration has inherited a program that approved a $2...",
+      "link": "https://insideclimatenews.org/news/26022026/new-jersey-data-center-tax-break/",
+      "pubDate": "Thu, 26 Feb 2026 09:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ski resorts are increasingly reliant on snowmaking. But at what cost?",
+      "description": "As the climate changes, mountains and nordic facilities have begun relying more on energy and water-intensive machine-made snow....",
+      "link": "https://grist.org/energy/ski-resorts-are-increasingly-reliant-on-snowmaking-but-at-what-cost/",
+      "pubDate": "Thu, 26 Feb 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/SkiWax-PhotoIllustration4.2.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "‘The most important part is the vibe’: Bate Bay named Australia’s best beach",
       "description": "&lt;p&gt;Tourism Australia beach ambassador Brad Parker says the coastline south of Sydney airport ‘ticked pretty much every box’&lt;/p&gt;&lt;ul&gt;&...",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8478a65a6cdb172f056fbb2bc6d92705d1f597d2/694_397_4344_3474/master/4344.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44186b625a2f851abdae354daf44081e"
-    },
-    {
-      "title": "One in four councils to miss food waste collection deadline",
-      "description": "Local authorities blame the delays on a lack of funding and a shortage of bin lorries....",
-      "link": "https://www.bbc.com/news/articles/cpv8ye887e4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Feb 2026 15:52:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why food justice isn’t being served in America | Hanna Garth",
-      "description": "&lt;p&gt;Advocates often assume communities of color just don’t know any better when it comes to eating healthy&lt;/p&gt;&lt;p&gt;I met the man I’ll c...",
-      "link": "https://www.theguardian.com/environment/2026/feb/25/why-food-justice-isnt-being-served-in-america",
-      "pubDate": "Wed, 25 Feb 2026 14:52:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/79db59eb174683822cd848176deb907ed0f277fe/126_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7be6d9aecfa83d8de950f472fee3de48"
-    },
-    {
-      "title": "Trump touts ‘drill, baby, drill’ agenda – but no mention of climate crisis",
-      "description": "&lt;p&gt;President derided Biden’s ‘green new scam’ during State of the Union address, and hailed the rise in US oil production&lt;/p&gt;&lt;p&gt;Trum...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/25/state-of-the-union-climate-change-trump",
-      "pubDate": "Wed, 25 Feb 2026 11:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/46eed5ac00f8cf8d7709e48db9840bda52e6d01a/815_0_7209_5768/master/7209.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ac63e469dd41cb57efb3d5411150edb"
-    },
-    {
-      "title": "Why scientists fear Emperor penguins' annual moult may be killing them",
-      "description": "Each year the birds must stay on floating ice long enough to replace their weather-beaten feathers....",
-      "link": "https://www.bbc.com/news/articles/c204626888zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Feb 2026 10:01:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why scientists fear Emperor penguins' annual moult may be killing them",
-      "description": "Each year the birds must stay on floating ice long enough to replace their weather-beaten feathers....",
-      "link": "https://www.bbc.com/news/articles/c204626888zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Feb 2026 10:01:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
