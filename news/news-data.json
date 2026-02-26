@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-02-26T17:57:56.832Z",
+  "lastUpdated": "2026-02-26T19:05:02.813Z",
   "articles": [
     {
-      "title": "Democrats call for freeze on gas exports as energy prices soar for US households",
+      "title": "US Government Is Accelerating Coral Reef Collapse, Scientists Warn",
+      "description": "Ritidian Point, at the northern tip of Guam, is home to an ancient limestone forest with panoramic vistas of warm Pacific waters. Stand here in early ...",
+      "link": "https://insideclimatenews.org/news/26022026/us-government-accelerates-pacific-coral-reef-collapse/",
+      "pubDate": "Thu, 26 Feb 2026 18:36:41 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Democrats urge dropping plan to double gas exports as US energy prices soar",
       "description": "&lt;p&gt;Families are ‘struggling with cost of heating their homes’, letter says as Trump repeatedly pledges to slash utility bills&lt;/p&gt;&lt;p&gt;...",
       "link": "https://www.theguardian.com/us-news/2026/feb/26/democrats-gas-exports-energy-prices",
-      "pubDate": "Thu, 26 Feb 2026 17:00:17 GMT",
+      "pubDate": "Thu, 26 Feb 2026 18:10:23 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a19b023d67173d8d85d57727bf42651369ee0d69/412_0_5001_4001/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b89886c38abc4b273b02664a0a0a7043"
+    },
+    {
+      "title": "The beautiful Venetian plant with a secret climate superpower",
+      "description": "Not far from the crowds of Venice, scientists are finding that sea lavender locks away carbon, builds ecosystems, and could help coastal cities weathe...",
+      "link": "https://grist.org/solutions/the-beautiful-venetian-plant-with-a-secret-climate-superpower/",
+      "pubDate": "Thu, 26 Feb 2026 17:59:10 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/sea-lavender-climate-solution-venice-marsh.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Drax to stop burning controversial Canadian wood within next year",
+      "description": "&lt;p&gt;Yorkshire plant has been criticised for taking material from some of British Columbia’s most environmentally important forests&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2026/feb/26/drax-power-plant-to-stop-burning-controversial-canadian-wood-within-next-year",
+      "pubDate": "Thu, 26 Feb 2026 17:27:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0d68f26cd28bbbce72b1f9265aad1f6959e803bb/489_182_2584_2067/master/2584.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f10a4c9ea595bc859b343f698a5bfe0b"
     },
     {
       "title": "BBC Inside Science",
@@ -54,15 +81,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Calls to move England’s home insulation scheme into council workers’ hands",
-      "description": "&lt;p&gt;Thinktank proposes councils stop using private contractors in attempt to improve quality and spending&lt;/p&gt;&lt;p&gt;Councils should train...",
-      "link": "https://www.theguardian.com/environment/2026/feb/26/calls-to-move-england-home-insulation-scheme-into-council-workers-hands",
-      "pubDate": "Thu, 26 Feb 2026 12:00:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/02716a05aaebabad652cd89379870afe3de7ae9b/503_0_3938_3150/master/3938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ddb7a88381ea5815c7057b92fd049ef"
     },
     {
       "title": "Riding the wave: can surf tourism save Peru’s ancient reed-boat fishing culture?",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Cause for shell-ebration: UN-recognised shellfish reefs thriving in Gippsland Lakes",
-      "description": "TNC’s Andy Bossie among the flourishing shellfish reefs. The Nature Conservancy Key facts: Restored shellfish reefs in Gippsland Lakes show significan...",
-      "link": "https://econews.com.au/cause-for-shell-ebration-un-recognised-shellfish-reefs-thriving-in-gippsland-lakes/",
-      "pubDate": "Thu, 26 Feb 2026 02:01:17 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Research and innovation partnership boosting food productivity, expansion into India",
-      "description": "La Trobe University A world-first food productivity system partly funded by La Trobe Eagle Fund has reached a significant milestone with the launch of...",
-      "link": "https://econews.com.au/research-and-innovation-partnership-boosting-food-productivity-expansion-into-india/",
-      "pubDate": "Thu, 26 Feb 2026 02:01:15 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/La-Trobe-logo.png"
     }
   ]
 }
