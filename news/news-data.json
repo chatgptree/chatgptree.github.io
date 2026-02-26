@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-26T10:02:09.442Z",
+  "lastUpdated": "2026-02-26T11:45:50.949Z",
   "articles": [
+    {
+      "title": "Shakespeare’s Globe launches environmental playwright prize",
+      "description": "&lt;p&gt;Theatre says it will harness art ‘to inspire societal shifts towards restorative relationship with nature’&lt;/p&gt;&lt;p&gt;From “shall I co...",
+      "link": "https://www.theguardian.com/stage/2026/feb/26/shakespeares-globe-launches-environmental-playwright-prize",
+      "pubDate": "Thu, 26 Feb 2026 10:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2b1bd66379a0da565cff8366bb9956e043c00681/337_0_4501_3600/master/4501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=601b204de01400dd1b639dc08b5f2b8c"
+    },
     {
       "title": "Satellites Reveal New Climate Threat to Emperor Penguins",
       "description": "Each year for millennia, emperor penguins have molted on coastal sea ice that remained stable until late summer—a haven during a span of several weeks...",
@@ -48,7 +57,7 @@
     },
     {
       "title": "‘The most important part is the vibe’: Bate Bay named Australia’s best beach",
-      "description": "&lt;p&gt;Tourism Australia beach ambassador Brad Parker says the coastline south of Sydney airport ‘ticked pretty much every box’&lt;/p&gt;&lt;ul&gt;&...",
+      "description": "&lt;p&gt;Tourism Australia beach ambassador Brad Farmer says the coastline south of Sydney airport ‘ticked pretty much every box’&lt;/p&gt;&lt;ul&gt;&...",
       "link": "https://www.theguardian.com/australia-news/2026/feb/26/bate-bay-best-australian-beach-2026",
       "pubDate": "Thu, 26 Feb 2026 07:10:50 GMT",
       "sourceName": "theguardian.com",
@@ -162,15 +171,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "France’s Engie strikes deal to buy UK Power Networks for £10.5bn",
-      "description": "&lt;p&gt;French utility to acquire owner of electricity cables and power lines across London, south-east and east of England&lt;/p&gt;&lt;p&gt;A Frenc...",
-      "link": "https://www.theguardian.com/business/2026/feb/25/frances-engie-strikes-deal-to-buy-uk-power-networks-for-105bn",
-      "pubDate": "Wed, 25 Feb 2026 21:43:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cc7ef53c9cb0e928e03f95ff6647e7bcbebfc852/393_0_4681_3744/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=334f90ebe27a5779cc8325e583eb6f5a"
     },
     {
       "title": "Death Valley erupts in wildflowers in sign of developing superbloom",
