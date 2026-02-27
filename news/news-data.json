@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-27T15:45:55.400Z",
+  "lastUpdated": "2026-02-27T16:50:57.638Z",
   "articles": [
+    {
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Feb 2026 16:43:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How you can see six planets all at once",
+      "description": "The best view will be on Sunday evening at sunset....",
+      "link": "https://www.bbc.com/news/videos/c4gjkzn7p7no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Feb 2026 15:41:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Red Hill, Canberra: its walking tracks, scar trees and ochre earth underfoot will always transport me",
       "description": "&lt;p&gt;What is a favourite place if not one built upon our fondest memories?&lt;/p&gt;&lt;p&gt;Would I like to write about my favourite place?&lt;/p...",
@@ -56,6 +74,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Sewage spills threatening salmon survival, says MP",
+      "description": "Winchester's MP highlights sewage spills potentially affecting the endangered Atlantic salmon....",
+      "link": "https://www.bbc.com/news/articles/c9dn6q4n80eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Feb 2026 10:11:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Southern Right Whales Are Having Fewer Calves; Scientists Say a Warming Ocean Is to Blame",
       "description": "Southern right whales—once driven to near-extinction by industrial hunting in the 19th and 20th centuries—have long been regarded as a conservation su...",
       "link": "https://insideclimatenews.org/news/27022026/warming-ocean-southern-right-whales-fewer-calves/",
@@ -90,6 +117,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/072c049821206b3d23219cb6242da0105001d763/0_585_2187_1750/master/2187.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7089fd7eaaee284589be823b922ce2f7"
+    },
+    {
+      "title": "Six planets on show in celestial 'parade'",
+      "description": "Six planets - Mercury, Venus, Saturn, Jupiter, Uranus and Neptune - will all be visible in the night sky....",
+      "link": "https://www.bbc.com/news/articles/c4g3l0yzyxdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Feb 2026 06:54:50 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Six planets on show in celestial 'parade'",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Elusive phascogale adapting to life in feral-free refuge",
-      "description": "Red-tailed Phascogale Credit Image: Brad Leue/AWS Once extinct in the mallee woodland of south west NSW, the pint-sized, carnivorous Red-tailed Phasco...",
-      "link": "https://econews.com.au/elusive-phascogale-adapting-to-life-in-feral-free-refuge/",
-      "pubDate": "Fri, 27 Feb 2026 05:00:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
-    },
-    {
-      "title": "Judge sides with salmon against Trump administration in hydropower ruling",
-      "description": "&lt;p&gt;Federal judge in Oregon rejects bid to overturn Biden-era agreement to protect endangered fish populations&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/26/salmon-dams-trump-admnistration-oregon-washington",
-      "pubDate": "Thu, 26 Feb 2026 22:26:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9801ba052b01be56ec364bc9dd33b68ac68ab13d/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca96aff621cf228d9fdba615becdb51d"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Molecular biologists find tiny self-replicating molecules which may be key to life origins...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty1?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Feb 2026 21:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US Government Is Accelerating Coral Reef Collapse, Scientists Warn",
-      "description": "Ritidian Point, at the northern tip of Guam, is home to an ancient limestone forest with panoramic vistas of warm Pacific waters. Stand here in early ...",
-      "link": "https://insideclimatenews.org/news/26022026/us-government-accelerates-pacific-coral-reef-collapse/",
-      "pubDate": "Thu, 26 Feb 2026 18:36:41 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
