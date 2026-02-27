@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-27T09:53:44.825Z",
+  "lastUpdated": "2026-02-27T10:50:18.585Z",
   "articles": [
+    {
+      "title": "Southern Right Whales Are Having Fewer Calves; Scientists Say a Warming Ocean Is to Blame",
+      "description": "Southern right whales—once driven to near-extinction by industrial hunting in the 19th and 20th centuries—have long been regarded as a conservation su...",
+      "link": "https://insideclimatenews.org/news/27022026/warming-ocean-southern-right-whales-fewer-calves/",
+      "pubDate": "Fri, 27 Feb 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The culture war is coming for your electricity",
       "description": "Utah Republicans are calling for an energy \"divorce\" from blue states. A major utility just granted part of their wish....",
@@ -103,7 +112,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Molecular biologists find tiny self-replicating molecules which may be key to life origins...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty1?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Feb 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/090253134292b5af447d02b5a29ebb6c32fca64f/323_0_3240_2592/master/3240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e93f2910703ee205693e2f93e663e06"
-    },
-    {
-      "title": "First writing may be 40,000 years earlier than thought",
-      "description": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects....",
-      "link": "https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Feb 2026 12:02:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
