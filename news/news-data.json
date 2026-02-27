@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-27T11:38:50.079Z",
+  "lastUpdated": "2026-02-27T13:16:59.383Z",
   "articles": [
+    {
+      "title": "Most US coal plants could meet air pollution rules. Trump weakened them anyway",
+      "description": "&lt;p&gt;EPA found only 27 of 219 plants needed upgrades; 71 later got exemptions as Donald Trump scrapped mercury limits&lt;/p&gt;&lt;p&gt;Almost all...",
+      "link": "https://www.theguardian.com/us-news/2026/feb/27/trump-coal-plant-air-pollution-rules",
+      "pubDate": "Fri, 27 Feb 2026 12:30:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d7c0d45bbabf79ec88f42fb723d1d7f608750176/446_0_4149_3320/master/4149.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f0c603dc21dc061870ae47e34a91771"
+    },
+    {
+      "title": "Miliband says climate impact of data centres is uncertain",
+      "description": "The admission comes after MPs said they were concerned about emissions from a boom in data centres....",
+      "link": "https://www.bbc.com/news/articles/cx2drxgz7x8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Feb 2026 11:56:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Waitrose to suspend mackerel sales due to overfishing concerns",
+      "description": "The supermarket chain says it will stop sourcing fresh, chilled and frozen mackerel by 29 April....",
+      "link": "https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Feb 2026 11:24:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Southern Right Whales Are Having Fewer Calves; Scientists Say a Warming Ocean Is to Blame",
       "description": "Southern right whales—once driven to near-extinction by industrial hunting in the 19th and 20th centuries—have long been regarded as a conservation su...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0d68f26cd28bbbce72b1f9265aad1f6959e803bb/489_182_2584_2067/master/2584.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f10a4c9ea595bc859b343f698a5bfe0b"
-    },
-    {
-      "title": "US ‘bullying’ could scupper carbon levy on shipping, warn experts",
-      "description": "&lt;p&gt;Panama joins smaller nations in dropping support for policy aimed at cutting maritime emissions&lt;/p&gt;&lt;p&gt;US “bullying” over a propos...",
-      "link": "https://www.theguardian.com/environment/2026/feb/26/us-bullying-could-scupper-carbon-levy-shipping",
-      "pubDate": "Thu, 26 Feb 2026 14:46:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/026823cfd90c69dfe2617a4e66a84ec127af8978/284_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d6b28d48436eb1ecee9751d2add884c0"
-    },
-    {
-      "title": "‘A gift that falls from the sky’: why farmers are using Etna’s ash as fertiliser",
-      "description": "&lt;p&gt;Falling volcanic ash has for years been viewed as a nuisance. But a Sicilian project has discovered its agricultural potential and wants to s...",
-      "link": "https://www.theguardian.com/environment/2026/feb/26/volcanic-ash-farmers-using-etna-ash-fertiliser-agriculture-potential",
-      "pubDate": "Thu, 26 Feb 2026 14:00:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/49c744658878a3e117cb3197033fa6f2ab5be4db/1813_0_10240_8192/master/10240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96a3460cc47a1a029adf1c31ed40c97d"
-    },
-    {
-      "title": "Waitrose suspends sale of mackerel because of overfishing",
-      "description": "&lt;p&gt;Supermarket chain says it will point customers to herring and other species to protect threatened Atlantic stocks&lt;/p&gt;&lt;p&gt;Waitrose ...",
-      "link": "https://www.theguardian.com/environment/2026/feb/26/waitrose-suspends-sale-mackerel-overfishing",
-      "pubDate": "Thu, 26 Feb 2026 13:06:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/090253134292b5af447d02b5a29ebb6c32fca64f/323_0_3240_2592/master/3240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e93f2910703ee205693e2f93e663e06"
     }
   ]
 }
