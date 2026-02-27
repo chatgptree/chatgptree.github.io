@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-27T05:58:39.841Z",
+  "lastUpdated": "2026-02-27T07:07:33.547Z",
   "articles": [
+    {
+      "title": "Six planets on show in celestial 'parade'",
+      "description": "Six planets - Mercury, Venus, Saturn, Jupiter, Uranus and Neptune - will all be visible in the night sky....",
+      "link": "https://www.bbc.com/news/articles/c4g3l0yzyxdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Feb 2026 06:54:50 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Seals, shipwrecks and a screaming swallower: Underwater Photographer of the Year 2026 – in pictures",
+      "description": "&lt;p&gt;The annual competition draws thousands of entries from across the world and brings together images from below the water’s surface that show t...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/feb/27/underwater-photographer-of-the-year-2026-in-pictures",
+      "pubDate": "Fri, 27 Feb 2026 06:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bb8a96188cd6c7b425c7b2ce0d8228d159caa507/625_0_5102_4082/master/5102.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05c22664cc8210b2c625e56e863c8b46"
+    },
     {
       "title": "Climate Charity announces Innovation Award Winner",
       "description": " Winner of the CORENA Innovation Award Farahan Wazer, founder of CrowdVision.ai with CORENA chair Georgia Cooke. Citizens Own Renewable Energy Network...",
@@ -58,7 +76,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Molecular biologists find tiny self-replicating molecules which may be key to life origins...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty1?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Feb 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Feb 2026 11:51:40 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Satellites Reveal New Climate Threat to Emperor Penguins",
-      "description": "Each year for millennia, emperor penguins have molted on coastal sea ice that remained stable until late summer—a haven during a span of several weeks...",
-      "link": "https://insideclimatenews.org/news/26022026/antarctic-ice-loss-threatens-emperor-penguins/",
-      "pubDate": "Thu, 26 Feb 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "States Sue to Block Trump’s ‘Anti-Science’ Vaccine Policy",
-      "description": "Scientists have long warned that a warming world is likely to hasten the spread of infectious diseases, making vaccination even more critical to safeg...",
-      "link": "https://insideclimatenews.org/news/26022026/states-sue-trump-vaccine-policy/",
-      "pubDate": "Thu, 26 Feb 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
