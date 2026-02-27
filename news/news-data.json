@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-02-27T04:52:17.958Z",
+  "lastUpdated": "2026-02-27T05:58:39.841Z",
   "articles": [
+    {
+      "title": "Climate Charity announces Innovation Award Winner",
+      "description": " Winner of the CORENA Innovation Award Farahan Wazer, founder of CrowdVision.ai with CORENA chair Georgia Cooke. Citizens Own Renewable Energy Network...",
+      "link": "https://econews.com.au/climate-charity-announces-innovation-award-winner/",
+      "pubDate": "Fri, 27 Feb 2026 05:01:04 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://fonts.gstatic.com/s/e/notoemoji/17.0/1f517/32.png"
+    },
+    {
+      "title": "SMART DONATES OVER $40,000 TO STEWART HOUSE",
+      "description": "Jade Miller, Bianca Bates, Paul Somers &#38; Olga Cahill Australia’s leading salary packaging provider Smart has donated more than $40,000 to Northern...",
+      "link": "https://econews.com.au/smart-donates-over-40000-to-stewart-house/",
+      "pubDate": "Fri, 27 Feb 2026 05:01:03 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Smart-logo-1-1024x499.png"
+    },
+    {
+      "title": "Uranium Super-Cycle Emerging as Shaw and Partners Lifts Price Forecast to US$200/lb",
+      "description": "Andrew Hines, Head of Research at Shaw and Partners Shaw and Partners Financial Services Shaw and Partners has released a comprehensive new sector rep...",
+      "link": "https://econews.com.au/uranium-super-cycle-emerging-as-shaw-and-partners-lifts-price-forecast-to-us200-lb/",
+      "pubDate": "Fri, 27 Feb 2026 05:01:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "REMONDIS Australia expands medical waste services with acquisition of VetraHealth",
+      "description": "Shirley Affoo, Mike Arnold, Shaune Affoo REMONDIS AUSTRALIA REMONDIS Australia has continued expanding its presence in the medical, biosecurity and cl...",
+      "link": "https://econews.com.au/remondis-australia-expands-medical-waste-services-with-acquisition-of-vetrahealth/",
+      "pubDate": "Fri, 27 Feb 2026 05:01:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Elusive phascogale adapting to life in feral-free refuge",
+      "description": "Red-tailed Phascogale Credit Image: Brad Leue/AWS Once extinct in the mallee woodland of south west NSW, the pint-sized, carnivorous Red-tailed Phasco...",
+      "link": "https://econews.com.au/elusive-phascogale-adapting-to-life-in-feral-free-refuge/",
+      "pubDate": "Fri, 27 Feb 2026 05:00:59 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
+    },
     {
       "title": "Judge sides with salmon against Trump administration in hydropower ruling",
       "description": "&lt;p&gt;Federal judge in Oregon rejects bid to overturn Biden-era agreement to protect endangered fish populations&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
@@ -13,7 +58,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Molecular biologists find tiny self-replicating molecules which may be key to life origins...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty1?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Feb 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -135,51 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hurricane Helene Is Headed for Georgians’ Electric Bills",
-      "description": "Hurricane Helene may be long over, but its costs are poised to land on Georgians’ electricity bills. After the storm killed 37 people in Georgia and c...",
-      "link": "https://insideclimatenews.org/news/26022026/hurricane-helene-recovery-georgia-power-bills/",
-      "pubDate": "Thu, 26 Feb 2026 09:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Amid Affordability Crisis, New Jersey Hands $250 Million Tax Break to Data Center",
-      "description": "With New Jersey’s cost-of-living “crisis” at the center of Gov. Mikie Sherrill’s agenda, her administration has inherited a program that approved a $2...",
-      "link": "https://insideclimatenews.org/news/26022026/new-jersey-data-center-tax-break/",
-      "pubDate": "Thu, 26 Feb 2026 09:45:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ski resorts are increasingly reliant on snowmaking. But at what cost?",
-      "description": "As the climate changes, mountains and nordic facilities have begun relying more on energy and water-intensive machine-made snow....",
-      "link": "https://grist.org/energy/ski-resorts-are-increasingly-reliant-on-snowmaking-but-at-what-cost/",
-      "pubDate": "Thu, 26 Feb 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/SkiWax-PhotoIllustration4.2.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "HASKONING COMPLETES THIRD OUTER-ISLAND WORKBOAT HARBOUR IN TUVALU, IMPROVING ACCESSIBILITY AND RESILIENCE",
-      "description": "Nuitao Island (Tuvalu) completed harbour Climate-resilient maritime infrastructure improves safe access, connectivity and opportunity for Tuvalu Consu...",
-      "link": "https://econews.com.au/haskoning-completes-third-outer-island-workboat-harbour-in-tuvalu-improving-accessibility-and-resilience/",
-      "pubDate": "Thu, 26 Feb 2026 02:01:20 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/000214782-1024x576.jpg"
-    },
-    {
-      "title": "Shell shock! Peanut waste can be turned into high-quality futuristic graphene",
-      "description": "The UNSW team have produced small quantities of high-quality graphene via a new process that uses waste peanut shells. Image from Guan Yeoh/UNSW UNSW ...",
-      "link": "https://econews.com.au/shell-shock-peanut-waste-can-be-turned-into-high-quality-futuristic-graphene/",
-      "pubDate": "Thu, 26 Feb 2026 02:01:18 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
     }
   ]
 }
