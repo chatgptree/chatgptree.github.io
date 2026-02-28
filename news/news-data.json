@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-28T14:30:35.896Z",
+  "lastUpdated": "2026-02-28T15:31:41.797Z",
   "articles": [
+    {
+      "title": "New fungal research to support woodland creation",
+      "description": "The project's aim is to understand how underground fungal networks adapt to environments....",
+      "link": "https://www.bbc.com/news/articles/cx284ljnv31o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 28 Feb 2026 15:11:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Trump administration’s favorite nuclear startup has ties to Russia and Epstein",
       "description": "Nuclear experts aren’t sure the company could manage to make small reactors both cost-effective and scalable....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/14fb1c05328d7e671e50532b676ed803ec6b8124/0_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53dcae338ba1e8ea4f882b0b4e13d2e3"
-    },
-    {
-      "title": "Trump officials move to kill system that protects US from chemical disasters",
-      "description": "&lt;p&gt;EPA rolls back rules as chemical firms claim provisions in RMP protection system too expensive to implement&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/feb/27/trump-fire-chemical-safety-system-epa",
-      "pubDate": "Fri, 27 Feb 2026 14:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5c153610d7e43c3d65e99bb2401aeff0d9189abe/40_0_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23b810ba57b914da3d383b685a1d0590"
     }
   ]
 }
