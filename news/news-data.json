@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-01T15:32:22.551Z",
+  "lastUpdated": "2026-03-01T16:38:46.557Z",
   "articles": [
+    {
+      "title": "Datacentre developers face calls to disclose effect on UK’s net emissions",
+      "description": "&lt;p&gt;Campaign groups write to technology secretary amid concerns that sites could double overall electricity demand&lt;/p&gt;&lt;p&gt;Datacentre d...",
+      "link": "https://www.theguardian.com/technology/2026/mar/01/datacentre-developers-energy-greenhouse-gas-emissions",
+      "pubDate": "Sun, 01 Mar 2026 16:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3ca520ec064dff351f08653d3260f03280d11aaf/521_0_4365_3494/master/4365.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c16bb5111fa56111ccc89a92f352b991"
+    },
     {
       "title": "Balcony solar is taking state legislatures by storm",
       "description": "In more than half of U.S. states, Republican and Democratic lawmakers have introduced legislation that would boost adoption of DIY solar systems....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6d8b72c845c29ec99bad3c3cb358aba0e8b800ca/744_0_6633_5307/master/6633.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5bb6286bb41da3beae51b612bacae9f"
-    },
-    {
-      "title": "Former EPA Staff Detail Expanding Pollution Risks Under Trump",
-      "description": "In a new report that outlines a dozen high-risk pollutants given new life thanks to weakened, delayed or rescinded regulations, the Environmental Prot...",
-      "link": "https://insideclimatenews.org/news/27022026/trump-administration-environmental-protection-public-health-rollbacks/",
-      "pubDate": "Fri, 27 Feb 2026 23:28:17 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
