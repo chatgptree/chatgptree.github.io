@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-03-01T06:57:19.534Z",
+  "lastUpdated": "2026-03-01T07:38:55.647Z",
   "articles": [
+    {
+      "title": "How are flooding and storms affecting wildlife?",
+      "description": "Recent rain and flooding across Devon and Cornwall is impacting wildlife and their habitats....",
+      "link": "https://www.bbc.com/news/articles/czx1zq0xj00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Mar 2026 07:13:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "I went to rural Wales to bathe in starlight and the Milky Way blew me away",
       "description": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide.  ...",
       "link": "https://www.bbc.com/news/articles/cj32l7kmkmko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 28 Feb 2026 21:56:04 GMT",
+      "pubDate": "Sun, 01 Mar 2026 07:07:10 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Thousands of pollution incidents in England downgraded without site visit, data suggests",
+      "description": "&lt;p&gt;Exclusive: Whistleblower figures show large rise in ‘serious’ to ‘minor’ downgrades based on water company evidence&lt;/p&gt;&lt;p&gt;Environ...",
+      "link": "https://www.theguardian.com/environment/2026/mar/01/thousands-pollution-incidents-england-downgraded-without-site-visit-data-suggests",
+      "pubDate": "Sun, 01 Mar 2026 07:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/81be3ff5522a6e02f3ea5f7f7060ee1c181e73c6/656_76_2749_2199/master/2749.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ed4490205b40bc848bb1317bad302b8"
     },
     {
       "title": "A scorching summer has left Australian wildlife on the brink, but it doesn’t have to be this way | Euan Ritchie and Jess Harwood",
@@ -159,24 +177,6 @@
       "description": "Josh Dury, from Bristol, photographed the planetary parade in Worth Matravers....",
       "link": "https://www.bbc.com/news/articles/cd0347v1dxzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 27 Feb 2026 17:14:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How photographer captured six planets in 'parade'",
-      "description": "Josh Dury, from Bristol, photographed the planetary parade in Worth Matravers....",
-      "link": "https://www.bbc.com/news/articles/cd0347v1dxzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 27 Feb 2026 17:14:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 27 Feb 2026 16:43:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
