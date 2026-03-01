@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-01T10:34:11.723Z",
+  "lastUpdated": "2026-03-01T11:27:39.555Z",
   "articles": [
+    {
+      "title": "Helping Trees—and a City—Outrace Climate Change",
+      "description": "LOUISVILLE, Ky.—Nearly a foot of snow has melted. The deep freeze that sent temperatures across the region plummeting to below zero has warmed to a ba...",
+      "link": "https://insideclimatenews.org/news/01032026/assisted-migration-trees-climate-change/",
+      "pubDate": "Sun, 01 Mar 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Facing Its Third Data Center, an Iowa County Rolls Out Extensive Zoning Rules",
       "description": "PALO, Iowa—There are two restaurants in Palo, not counting the chicken wings and pizza sold at the only gas station in town. All three establishments,...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4a76f0e6ffe0543e68c079f965851601fdec2a31/460_0_4585_3669/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7ac1a1b414fef22c35e51de86d86616"
-    },
-    {
-      "title": "Nasa announces change to its Moon landing plans",
-      "description": "It is adding an extra mission to its Artemis programme before landing astronauts on the Moon....",
-      "link": "https://www.bbc.com/news/articles/c6270030neyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 27 Feb 2026 18:37:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
