@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-01T11:27:39.555Z",
+  "lastUpdated": "2026-03-01T13:05:55.351Z",
   "articles": [
+    {
+      "title": "Young trees planted to expand temperate rainforest",
+      "description": "The saplings have been planted at Dartmoor's Wistman's Wood National Nature Reserve....",
+      "link": "https://www.bbc.com/news/articles/cn4gwel9l7jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Mar 2026 11:58:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Helping Trees—and a City—Outrace Climate Change",
       "description": "LOUISVILLE, Ky.—Nearly a foot of snow has melted. The deep freeze that sent temperatures across the region plummeting to below zero has warmed to a ba...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Winter getting shorter in 80% of major US cities, new data shows",
-      "description": "&lt;p&gt;Researchers find that across 195 US cities, winters are on average nine days shorter than they were in 1970-1997&lt;/p&gt;&lt;p&gt;For the mi...",
-      "link": "https://www.theguardian.com/us-news/2026/feb/27/us-winters-getting-shorter",
-      "pubDate": "Fri, 27 Feb 2026 19:18:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4a76f0e6ffe0543e68c079f965851601fdec2a31/460_0_4585_3669/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7ac1a1b414fef22c35e51de86d86616"
     }
   ]
 }
