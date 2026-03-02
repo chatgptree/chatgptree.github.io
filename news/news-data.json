@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-02T05:59:03.522Z",
+  "lastUpdated": "2026-03-02T07:12:08.811Z",
   "articles": [
+    {
+      "title": "Wild spaces for butterflies to be created in Glasgow",
+      "description": "The Butterfly Conservation charity hopes to open 40 habitats for wildlife during the two-year project....",
+      "link": "https://www.bbc.com/news/articles/c5yrdd4nepjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Mar 2026 06:12:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Shark culls brought in after fatal attack cause division and anger in New Caledonia",
       "description": "&lt;p&gt;Authorities say capture of bull and tiger sharks necessary to protect lives as environmentalists launch urgent legal challenge&lt;/p&gt;&lt;p...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Trump administration’s favorite nuclear startup has ties to Russia and Epstein",
-      "description": "Nuclear experts aren’t sure the company could manage to make small reactors both cost-effective and scalable....",
-      "link": "https://grist.org/energy/the-trump-administrations-favorite-nuclear-startup-has-ties-to-russia-and-epstein/",
-      "pubDate": "Sat, 28 Feb 2026 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/GettyImages-2203457612-e1745452560312.jpg?quality=75&#038;strip=all"
     }
   ]
 }
