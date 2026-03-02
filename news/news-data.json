@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-02T08:55:56.698Z",
+  "lastUpdated": "2026-03-02T10:00:17.236Z",
   "articles": [
+    {
+      "title": "A regional network is racing to save the Midwest&#8217;s native seeds",
+      "description": "As climate change intensifies wildfires and other extreme weather events, demand for native seeds is surging....",
+      "link": "https://grist.org/solutions/a-regional-network-is-racing-to-save-the-midwests-native-seeds/",
+      "pubDate": "Mon, 02 Mar 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/SEEDBANK_2602240210-1-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Appalachia&#8217;s iconic salamander was slated for federal protection. It&#8217;s still in limbo.",
+      "description": "As climate change remakes the mountains, the fight to save the hellbender is becoming a fight for home.\n...",
+      "link": "https://grist.org/culture/appalachias-iconic-salamander-was-slated-for-federal-protection-its-still-in-limbo/",
+      "pubDate": "Mon, 02 Mar 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/native-brook-trout-net-e1761821995483.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "‘I love midges because I know what their hearts look like’: is the passion for taxonomy in danger of dying out?",
       "description": "&lt;p&gt;Insect taxonomist Art Borkent has described and named more than 300 species of midges but fears his field of science is dying out, despite mi...",
@@ -20,7 +38,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Shark culls brought in after fatal attack cause division and anger in New Caledonia",
+      "title": "Shark culls brought in after fatal attack causes division and anger in New Caledonia",
       "description": "&lt;p&gt;Authorities say capture of bull and tiger sharks necessary to protect lives as environmentalists launch urgent legal challenge&lt;/p&gt;&lt;p...",
       "link": "https://www.theguardian.com/world/2026/mar/02/new-caledonia-shark-attack-culling",
       "pubDate": "Mon, 02 Mar 2026 04:20:27 GMT",
@@ -159,24 +177,6 @@
       "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group....",
       "link": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 01 Mar 2026 09:25:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How are flooding and storms affecting wildlife?",
-      "description": "Recent rain and flooding across Devon and Cornwall is impacting wildlife and their habitats....",
-      "link": "https://www.bbc.com/news/articles/czx1zq0xj00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Mar 2026 07:13:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "I went to rural Wales to bathe in starlight and the Milky Way blew me away",
-      "description": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide.  ...",
-      "link": "https://www.bbc.com/news/articles/cj32l7kmkmko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Mar 2026 07:07:10 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
