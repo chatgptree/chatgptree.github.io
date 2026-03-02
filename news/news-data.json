@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-02T07:12:08.811Z",
+  "lastUpdated": "2026-03-02T08:55:56.698Z",
   "articles": [
+    {
+      "title": "‘I love midges because I know what their hearts look like’: is the passion for taxonomy in danger of dying out?",
+      "description": "&lt;p&gt;Insect taxonomist Art Borkent has described and named more than 300 species of midges but fears his field of science is dying out, despite mi...",
+      "link": "https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent",
+      "pubDate": "Mon, 02 Mar 2026 08:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0fbd816ec3a0ed8e0f6cc20f5b1d7afa22d42c46/2_375_1573_1257/master/1573.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b39e5d0652adf6812884c97a772b089"
+    },
     {
       "title": "Wild spaces for butterflies to be created in Glasgow",
       "description": "The Butterfly Conservation charity hopes to open 40 habitats for wildlife during the two-year project....",
@@ -146,6 +155,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
+      "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group....",
+      "link": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Mar 2026 09:25:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "How are flooding and storms affecting wildlife?",
       "description": "Recent rain and flooding across Devon and Cornwall is impacting wildlife and their habitats....",
       "link": "https://www.bbc.com/news/articles/czx1zq0xj00o?at_medium=RSS&amp;at_campaign=rss",
@@ -159,24 +177,6 @@
       "description": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide.  ...",
       "link": "https://www.bbc.com/news/articles/cj32l7kmkmko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 01 Mar 2026 07:07:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A scorching summer has left Australian wildlife on the brink, but it doesn’t have to be this way | Euan Ritchie and Jess Harwood",
-      "description": "&lt;p&gt;Unsettling predictions are now our catastrophic reality,  but a brighter future is still within reach if our political leaders change course&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/01/a-scorching-summer-has-left-australian-wildlife-on-the-brink-but-it-doesnt-have-to-be-this-way",
-      "pubDate": "Sat, 28 Feb 2026 19:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f2fb9c6b85471d9f0d5b81b79a7ae34e08eccf3e/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1cb017e23d14131d6a8d44c0e20ca4fe"
-    },
-    {
-      "title": "New fungal research to support woodland creation",
-      "description": "The project's aim is to understand how underground fungal networks adapt to environments....",
-      "link": "https://www.bbc.com/news/articles/cx284ljnv31o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 28 Feb 2026 15:11:29 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
