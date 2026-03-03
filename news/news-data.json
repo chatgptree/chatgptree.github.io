@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-03T11:40:00.071Z",
+  "lastUpdated": "2026-03-03T13:16:36.821Z",
   "articles": [
+    {
+      "title": "New Scottish Dark Sky Observatory plans get the green light",
+      "description": "The facility in Galloway will replace one which burned down in Ayrshire more than four years ago....",
+      "link": "https://www.bbc.com/news/articles/clyg9xg215no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Mar 2026 12:09:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Tech firms and AI farming tools ‘playing with the food system’, warns thinktank",
       "description": "&lt;p&gt;Google, Microsoft and Amazon among companies using algorithms and AI to influence what crops are grown and how, say critics&lt;/p&gt;&lt;p&gt...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/native-brook-trout-net-e1761821995483.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘I love midges because I know what their hearts look like’: is the passion for taxonomy in danger of dying out?",
-      "description": "&lt;p&gt;Insect taxonomist Art Borkent has described and named more than 300 species of midges but fears his field of science is dying out, despite mi...",
-      "link": "https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent",
-      "pubDate": "Mon, 02 Mar 2026 08:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0fbd816ec3a0ed8e0f6cc20f5b1d7afa22d42c46/2_375_1573_1257/master/1573.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b39e5d0652adf6812884c97a772b089"
     }
   ]
 }
