@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-03T09:54:28.363Z",
+  "lastUpdated": "2026-03-03T10:52:05.463Z",
   "articles": [
+    {
+      "title": "Tech firms and AI farming tools ‘playing with the food system’, warns thinktank",
+      "description": "&lt;p&gt;Google, Microsoft and Amazon among companies using algorithms and AI to influence what crops are grown and how, say critics&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/global-development/2026/mar/03/tech-firms-ai-farming-tools-food-system-security",
+      "pubDate": "Tue, 03 Mar 2026 10:31:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1c24538935facf3d43d8d933d4b787dd98b4f237/447_0_2793_2236/master/2793.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95618b8aed2cbce5643ed4d2a1b4b164"
+    },
+    {
+      "title": "Grassroots Resistance to Data Centers Rises in Pennsylvania",
+      "description": "Plans to build more than 50 data centers in Pennsylvania face opposition from a growing network of community groups, environmental activists and state...",
+      "link": "https://insideclimatenews.org/news/03032026/pennsylvania-data-center-resistance/",
+      "pubDate": "Tue, 03 Mar 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "After a lawsuit, USDA agrees to share climate risk data with farmers",
       "description": "Now, even if the webpages come down again, the data can remain public....",
@@ -110,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/63d87b2e07b28abb7cb3dd929887e1e88e1bec06/54_0_5018_4016/master/5018.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4837b6dde0030c9e71c376bb22ab46a2"
     },
     {
-      "title": "Australian wildlife in ‘harm’s way’, with volunteers left to ‘pick up the pieces’ amid climate crisis, fires and floods",
-      "description": "&lt;p&gt;Ken Henry leads push for federal government to do more to protect animals as biodiversity declines&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/mar/03/australian-wildlife-in-harms-way-with-volunteers-left-to-pick-up-the-pieces-amid-climate-crisis-fires-and-floods",
-      "pubDate": "Mon, 02 Mar 2026 14:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/55a90047fdb573076fe65496f0986d14e285b2a7/0_856_3024_2419/master/3024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=13a94b759dd8a2061b9ff59823747b92"
-    },
-    {
       "title": "Dow Asks Texas to Legalize Plastic Pollution From Its Seadrift Complex",
       "description": "Two weeks ago, when Texas sued a massive Dow petrochemical plant over water pollution, state environmental regulators were already considering a novel...",
       "link": "https://insideclimatenews.org/news/02032026/dow-requests-texas-plastic-pollution-permit/",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0fbd816ec3a0ed8e0f6cc20f5b1d7afa22d42c46/2_375_1573_1257/master/1573.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b39e5d0652adf6812884c97a772b089"
-    },
-    {
-      "title": "Wild spaces for butterflies to be created in Glasgow",
-      "description": "The Butterfly Conservation charity hopes to open 40 habitats for wildlife during the two-year project....",
-      "link": "https://www.bbc.com/news/articles/c5yrdd4nepjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 02 Mar 2026 06:12:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
