@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-03T21:40:59.155Z",
+  "lastUpdated": "2026-03-03T22:38:34.123Z",
   "articles": [
+    {
+      "title": "Syngenta says it will stop making pesticide linked to Parkinson’s disease",
+      "description": "&lt;p&gt;Company will halt production of controversial paraquat weed killer by end of June as it faces thousands of lawsuits&lt;/p&gt;&lt;p&gt;Syngent...",
+      "link": "https://www.theguardian.com/environment/2026/mar/03/syngesta-pesticide-parkinsons",
+      "pubDate": "Tue, 03 Mar 2026 22:02:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c712117c039e07612e2788bcf7d70b8c16e1f5dc/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=362fbd67d25a520c5561895a607e515c"
+    },
     {
       "title": "First Confirmed Cases of Bird Flu in California Elephant Seals Stoke Fear As Virus Surges Worldwide",
       "description": "Last week, a day that ecologists and virologists in California have feared for years finally arrived.&#160; Officials confirmed seven weaned northern ...",
@@ -92,6 +101,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Showdown over datacenter politics at heart of North Carolina primary",
+      "description": "&lt;p&gt;Democratic rematch in Durham-area district draws focus to fight over AI datacenters increasingly shaping US elections&lt;/p&gt;&lt;p&gt;A Nor...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
+      "pubDate": "Tue, 03 Mar 2026 12:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/47882c2d76a161a0233be85fe92a95966ed77cd7/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3909c1d936bd7c8aadbdc2b85190b5c7"
+    },
+    {
       "title": "Grassroots Resistance to Data Centers Rises in Pennsylvania",
       "description": "Plans to build more than 50 data centers in Pennsylvania face opposition from a growing network of community groups, environmental activists and state...",
       "link": "https://insideclimatenews.org/news/03032026/pennsylvania-data-center-resistance/",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/TERA-Award-2025-1024x683.jpg"
-    },
-    {
-      "title": "Environmental Groups Challenge Air Permit for Natural Gas Expansion at Atlanta Plant",
-      "description": "Atlanta has spent decades battling smog and air pollution. Now, state regulators have cleared the way for a major natural gas expansion at Georgia Pow...",
-      "link": "https://insideclimatenews.org/news/02032026/georgia-regulators-sued-over-plant-bowen-gas-turbines/",
-      "pubDate": "Tue, 03 Mar 2026 00:09:53 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "War in Iran Could Have ‘Historic’ Disruptions on Energy Markets",
-      "description": "The U.S. and Israeli war against Iran is disrupting energy markets and driving oil and gas prices higher in the United States and globally. While thos...",
-      "link": "https://insideclimatenews.org/news/02032026/iran-war-oil-energy-markets/",
-      "pubDate": "Mon, 02 Mar 2026 22:51:56 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
