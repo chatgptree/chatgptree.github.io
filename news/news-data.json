@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-03T08:54:14.610Z",
+  "lastUpdated": "2026-03-03T09:54:28.363Z",
   "articles": [
+    {
+      "title": "After a lawsuit, USDA agrees to share climate risk data with farmers",
+      "description": "Now, even if the webpages come down again, the data can remain public....",
+      "link": "https://grist.org/food-and-agriculture/after-a-lawsuit-usda-agrees-to-share-climate-risk-data-with-farmers/",
+      "pubDate": "Tue, 03 Mar 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/irrigation-drought.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "After a hurricane, extreme heat poses a serious threat to recovery workers",
+      "description": "The risk is even higher for crews that travel in from cooler climates....",
+      "link": "https://grist.org/extreme-weather/after-a-hurricane-extreme-heat-poses-a-serious-threat-to-recovery-workers/",
+      "pubDate": "Tue, 03 Mar 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/co-river.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Solahart named 2026 Canstar Most Satisfied Customers in the Solar Installers Category",
       "description": "Australia’s solar pioneers recognised as the nation’s most trusted solar installer in an increasingly crowded category. Solahart has been awarded the ...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "CLEAN UP AUSTRALIA DAY –  Australians join over 8,000 Clean Up events across the nation on Sunday 1st March",
-      "description": "Now in its 36th year, Clean Up Australia Day has once again had an incredible attendance with over 750,000 volunteers coming together to help keep the...",
-      "link": "https://econews.com.au/clean-up-australia-day-australians-join-over-8000-clean-up-events-across-the-nation-on-sunday-1st-march/",
-      "pubDate": "Mon, 02 Mar 2026 03:01:38 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Clean-Up-Australia-Day-logo-1024x348.png"
-    },
-    {
-      "title": "SWAP YOUR DESK FOR A DAY IN NATURE: CORPORATE VOLUNTEERING IN NSW NATIONAL PARKS AVAILABLE",
-      "description": "The NSW National Parks and Wildlife Service (NPWS) offers a Corporate Volunteering program for organisations and their employees, combining meaningful...",
-      "link": "https://econews.com.au/swap-your-desk-for-a-day-in-nature-corporate-volunteering-in-nsw-national-parks-available/",
-      "pubDate": "Mon, 02 Mar 2026 03:01:38 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-90-1024x449.jpg"
     }
   ]
 }
