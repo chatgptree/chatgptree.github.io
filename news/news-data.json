@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-04T09:52:34.582Z",
+  "lastUpdated": "2026-03-04T10:48:52.454Z",
   "articles": [
+    {
+      "title": "A Global Chemical Giant Racks Up Violations in Durham, N.C., Where Drinking Water for a Million Is Threatened",
+      "description": "DURHAM, N.C.—Brenntag Mid-South continues to amass serious environmental violations related to its chemical repackaging plant in East Durham, where st...",
+      "link": "https://insideclimatenews.org/news/04032026/durham-nc-brenntag-drinking-water-contaminants/",
+      "pubDate": "Wed, 04 Mar 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Few Details on Trump’s Plan for Self-Powered Data Centers",
+      "description": "RICHMOND, Va.— President Donald Trump is expected on Wednesday to sign his “Ratepayer Protection Pledge,” a deal he claims to have negotiated with maj...",
+      "link": "https://insideclimatenews.org/news/04032026/trump-data-center-rate-payer-protection-pledge/",
+      "pubDate": "Wed, 04 Mar 2026 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Arizona’s water is drying up. That’s not stopping the data center rush.",
       "description": "Though tech companies are secretive about their water usage, Arizona’s 150-plus data centers and chip factories use a tiny fraction of the state’s sup...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2cd3c76569c162380680ff7fce9eec69b3075bbe/2562_0_4897_3918/master/4897.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2181bc0a33dc822b56e0f1bbee611239"
-    },
-    {
-      "title": "The businesses that prioritise people and planet",
-      "description": "Firms with B-Corp status want more companies to prioritise people and the planet as much as profits....",
-      "link": "https://www.bbc.com/news/articles/c4g80433rdjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Mar 2026 17:16:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Enbridge paid police to protect one pipeline. Now it wants to do it again in Wisconsin.",
-      "description": "The Bad River Band is fighting to stop Line 5 and protect its watershed. Meanwhile, local sheriffs are already tallying the cost of riot gear....",
-      "link": "https://grist.org/indigenous/enbridge-paid-police-to-protect-one-pipeline-now-it-wants-to-do-it-again-in-wisconsin/",
-      "pubDate": "Tue, 03 Mar 2026 14:31:48 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/enbridge-line-3-wisconsin.jpg?quality=75&amp;strip=all"
     }
   ]
 }
