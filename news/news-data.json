@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-04T07:00:41.817Z",
+  "lastUpdated": "2026-03-04T08:51:56.761Z",
   "articles": [
+    {
+      "title": "In pictures: Worm Moon captured over Northern Ireland",
+      "description": "The first full Moon of the spring, a Worm Moon, was visible on Monday and Tuesday across Northern Ireland....",
+      "link": "https://www.bbc.com/news/articles/cvg11m3g5jvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Mar 2026 07:38:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Protect caterpillars as UK’s moth population plummets, urge charities",
       "description": "&lt;p&gt;Instead of removing plant-munching caterpillars, gardeners asked to take relaxed attitude to support the moths many of them grow into&lt;/p&g...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/58c5b7346272ae6f9aeb262fdabe3f39c862ceaf/105_0_834_667/master/834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca2d4159d37216a9c869ea83df6c549b"
-    },
-    {
-      "title": "New Scottish Dark Sky Observatory plans get the green light",
-      "description": "The facility in Galloway will replace one which burned down in Ayrshire more than four years ago....",
-      "link": "https://www.bbc.com/news/articles/clyg9xg215no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Mar 2026 12:09:51 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
