@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-05T15:57:02.884Z",
+  "lastUpdated": "2026-03-05T18:13:23.916Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Space warfare, space manufacturing and satellite data at Space Comm Expo...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty2?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Mar 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘It creates a sense of belonging’: Brazil bets on hiking trails for conservation",
       "description": "&lt;p&gt;The country’s network of footpaths is growing – with hopes they will develop local economies and better preserve the environment&lt;br&gt;&lt...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-77.png"
-    },
-    {
-      "title": "Australia Post sets new 2030 targets to reduce carbon emissions and enhance circularity",
-      "description": "Australia Post has launched its 2030 Sustainability Framework, setting new targets to reduce carbon emissions and keep resources in use across its fle...",
-      "link": "https://econews.com.au/australia-post-sets-new-2030-targets-to-reduce-carbon-emissions-and-enhance-circularity/",
-      "pubDate": "Thu, 05 Mar 2026 04:00:47 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2021/12/Australia-Post-Logo-1024x681.png"
     }
   ]
 }
