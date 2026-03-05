@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-04T23:37:52.366Z",
+  "lastUpdated": "2026-03-05T02:47:06.347Z",
   "articles": [
+    {
+      "title": "Big Tech Signs Trump Pledge to Pay Data-Center Power Costs. Fulfilling It Is the Hard Part.",
+      "description": "In an effort to quell blowback on data centers, President Donald Trump announced at a White House roundtable on Wednesday the “Ratepayer Protection Pl...",
+      "link": "https://insideclimatenews.org/news/04032026/trump-data-center-power-costs-pledge/",
+      "pubDate": "Thu, 05 Mar 2026 01:01:30 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Google’s Response to An Iowa County’s New Data Center Requirements? Annex The Land.",
+      "description": "Google is seeking to bypass data center zoning rules recently adopted by Linn County, Iowa, by annexing the land for its proposed campus into a city t...",
+      "link": "https://insideclimatenews.org/news/04032026/google-attempts-to-annex-iowa-county-land-for-data-center/",
+      "pubDate": "Thu, 05 Mar 2026 00:55:07 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Rachel Reeves should scrap the North Sea windfall tax now",
       "description": "&lt;p&gt;The UK should optimise North Sea oil and gas production while it transfers to renewables and nuclear developments&lt;/p&gt;&lt;p&gt;The chanc...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "POWERING THE FAMILY CLUB: HAWTHORN FC NAMES ANKER SOLIX AS PROUD OFFICIAL HOME BATTERY PARTNER",
-      "description": "Leading home battery provider joins forces with the Hawks to deliver energy independence and exclusive member benefits. Melbourne, Australia – The Haw...",
-      "link": "https://econews.com.au/powering-the-family-club-hawthorn-fc-names-anker-solix-as-proud-official-home-battery-partner/",
-      "pubDate": "Wed, 04 Mar 2026 03:00:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Young Northern Quolls bring hope on World Wildlife Day",
-      "description": "A Northern Quoll at Brooklyn Wildlife Sanctuary. Credit: Kate Borgo On World Wildlife Day (3 March 2026), conservationists are celebrating records of ...",
-      "link": "https://econews.com.au/young-northern-quolls-bring-hope-on-world-wildlife-day/",
-      "pubDate": "Wed, 04 Mar 2026 03:00:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
     }
   ]
 }
