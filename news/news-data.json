@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-05T09:55:06.648Z",
+  "lastUpdated": "2026-03-05T10:52:16.283Z",
   "articles": [
+    {
+      "title": "Wildlife park welcomes three new Humboldt penguins",
+      "description": "The South American species is part of a conservation programme at the wildlife park....",
+      "link": "https://www.bbc.com/news/articles/c1mjj132951o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Mar 2026 10:11:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A New Generation of Climate Scientists Warm Up to Solar Geoengineering",
+      "description": "Yashas Raj and Jake Chapman are hunkered down in a basement laboratory at the University of Cambridge’s Department of Engineering—tinkering with a han...",
+      "link": "https://insideclimatenews.org/news/05032026/young-climate-scientists-solar-geoengineering/",
+      "pubDate": "Thu, 05 Mar 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Prepping for a disaster? You’ll probably want to pack a little treat.",
       "description": "It’s not just sardines and dried beans. Self-identified preppers are also stashing luxuries like coffee and chocolate....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4823c09ce35e910ea801f8e91f0c59d1322c4ef9/1916_1012_3010_2408/master/3010.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df5c95b4da438ab9b9594fd4b6ead806"
-    },
-    {
-      "title": "Trump has launched an unprecedented assault on the environment. Where’s the pushback?",
-      "description": "&lt;p&gt;Climate deniers expected more resistance to the fossil fuel blitz. But Democrats, billionaires and activists have gone silent&lt;/p&gt;&lt;ul...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/04/trump-climate-change-democrats",
-      "pubDate": "Wed, 04 Mar 2026 16:56:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7703d77a0c02fe42101eb83ebaf3ad7b891516cd/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1af8fe013b904c11cc498fc3cfa74d55"
-    },
-    {
-      "title": "Analysis finds urban areas in England where no one lives within 15-minute walk of nature",
-      "description": "&lt;p&gt;Government says it is working to solve ‘postcode lottery’ of access to green or blue spaces&lt;/p&gt;&lt;p&gt;There are urban areas of Englan...",
-      "link": "https://www.theguardian.com/environment/2026/mar/04/analysis-finds-urban-areas-england-no-one-lives-within-15-minute-walk-of-nature",
-      "pubDate": "Wed, 04 Mar 2026 16:52:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b81ee230bc510db32a0f1e55664bc2ac31a0cce0/674_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5ed9067e35749368e0fc930add19bb8"
     }
   ]
 }
