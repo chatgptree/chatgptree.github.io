@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-05T08:55:13.632Z",
+  "lastUpdated": "2026-03-05T09:55:06.648Z",
   "articles": [
+    {
+      "title": "Prepping for a disaster? You’ll probably want to pack a little treat.",
+      "description": "It’s not just sardines and dried beans. Self-identified preppers are also stashing luxuries like coffee and chocolate....",
+      "link": "https://grist.org/culture/prepper-disaster-food-pantry-staples-advice-treat/",
+      "pubDate": "Thu, 05 Mar 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/chick-chicken-shortage-bird-flu-egg-prices.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "How electrifying a Bay Area rail system made trains faster, cleaner, and more frequent",
+      "description": "A $2.4 billion upgrade is shaving minutes off Caltrain trips through Silicon Valley, doubling weekend ridership, and reducing riders’ exposure to toxi...",
+      "link": "https://grist.org/transportation/how-electrifying-a-bay-area-rail-system-made-trains-faster-cleaner-and-more-frequent/",
+      "pubDate": "Thu, 05 Mar 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2024/09/Barcelona-MetroCHARGE-regenerative-braking-electricity-trains-stations-EVs.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "South East Water fined £22.5m for ‘repeated supply failures’ in Kent and Sussex",
       "description": "&lt;p&gt;Regulator says failures that hit nearly 300,000 customers made worse by utility’s failure to maintain efficient supply system&lt;/p&gt;&lt;ul...",
@@ -24,6 +42,15 @@
       "description": "The restrictions to parking have been made to help speed up bus journeys along the road....",
       "link": "https://www.bbc.com/news/articles/cde44z7nenwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Mar 2026 06:33:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildlife trust's centenary 'free weekend in nature'",
+      "description": "The Norfolk Wildlife Trust is opening its sites for free as part of its 100th birthday celebrations....",
+      "link": "https://www.bbc.com/news/articles/c4g22d9n5llo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Mar 2026 06:24:31 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b81ee230bc510db32a0f1e55664bc2ac31a0cce0/674_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5ed9067e35749368e0fc930add19bb8"
-    },
-    {
-      "title": "Judge Rejects Trump Administration’s Plan to End NYC Congestion Pricing",
-      "description": "A federal judge ruled Tuesday that the Trump administration’s efforts to shut down New York’s congestion pricing program are unlawful. U.S. District J...",
-      "link": "https://insideclimatenews.org/news/04032026/new-york-city-congestion-pricing-continues/",
-      "pubDate": "Wed, 04 Mar 2026 16:34:30 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Union tries to seize control of works council at Tesla’s German factory",
-      "description": "&lt;p&gt;Lawsuits and slander claims fly in IG Metall’s battle with Elon Musk over employment rights and conditions&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p...",
-      "link": "https://www.theguardian.com/business/2026/mar/04/union-tries-seize-control-works-council-tesla-german-factory",
-      "pubDate": "Wed, 04 Mar 2026 16:18:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f2274b7c6209ff60a98711ae7bb0b93b5b503de0/456_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a640efa76e75aa20e9eef13da92cac3"
-    },
-    {
-      "title": "Syngenta says it will stop making pesticide linked to Parkinson’s disease",
-      "description": "&lt;p&gt;Company will halt production of controversial paraquat weed killer by end of June as it faces thousands of lawsuits&lt;/p&gt;&lt;p&gt;Syngent...",
-      "link": "https://www.theguardian.com/environment/2026/mar/03/syngesta-pesticide-parkinsons",
-      "pubDate": "Wed, 04 Mar 2026 15:18:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c712117c039e07612e2788bcf7d70b8c16e1f5dc/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=362fbd67d25a520c5561895a607e515c"
     }
   ]
 }
