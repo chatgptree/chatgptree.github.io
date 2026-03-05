@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-05T13:19:12.949Z",
+  "lastUpdated": "2026-03-05T14:55:44.692Z",
   "articles": [
+    {
+      "title": "‘It creates a sense of belonging’: Brazil bets on hiking trails for conservation",
+      "description": "&lt;p&gt;The country’s network of footpaths is growing – with hopes they will develop local economies and better preserve the environment&lt;br&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2026/mar/05/brazil-hiking-trails-conservation",
+      "pubDate": "Thu, 05 Mar 2026 14:01:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9e44c743cdbe1658ee24ad6bc35bb89c2192c7b3/180_0_5702_4561/master/5702.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd23f25a9dea7fe3275b33a0c0e4b282"
+    },
+    {
+      "title": "Texas Seizes the Solar Crown From California, and Other Key Points From the Latest Electricity Data",
+      "description": "Texas, which already leads the country in electricity generation from natural gas, coal and wind, has passed California to become the leader in utilit...",
+      "link": "https://insideclimatenews.org/news/05032026/inside-clean-energy-texas-utility-scale-solar/",
+      "pubDate": "Thu, 05 Mar 2026 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Wildlife park welcomes three new Humboldt penguins",
       "description": "The South American species is part of a conservation programme at the wildlife park....",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Google’s Response to An Iowa County’s New Data Center Requirements? Annex The Land.",
-      "description": "Google is seeking to bypass data center zoning rules recently adopted by Linn County, Iowa, by annexing the land for its proposed campus into a city t...",
-      "link": "https://insideclimatenews.org/news/04032026/google-attempts-to-annex-iowa-county-land-for-data-center/",
-      "pubDate": "Thu, 05 Mar 2026 00:55:07 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rachel Reeves should scrap the North Sea windfall tax now",
-      "description": "&lt;p&gt;The UK should optimise North Sea oil and gas production while it transfers to renewables and nuclear developments&lt;/p&gt;&lt;p&gt;The chanc...",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/mar/04/reeves-should-scrap-the-north-sea-windfall-tax-now",
-      "pubDate": "Wed, 04 Mar 2026 18:33:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4823c09ce35e910ea801f8e91f0c59d1322c4ef9/1916_1012_3010_2408/master/3010.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df5c95b4da438ab9b9594fd4b6ead806"
     }
   ]
 }
