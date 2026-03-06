@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-06T13:15:05.785Z",
+  "lastUpdated": "2026-03-06T14:47:03.135Z",
   "articles": [
+    {
+      "title": "Humanity heating planet faster than ever before, study finds",
+      "description": "&lt;p&gt;Researchers identify sharp rise to about 0.35C every decade, after excluding natural fluctuations such as El Niño&lt;/p&gt;&lt;p&gt;Humanity ...",
+      "link": "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds",
+      "pubDate": "Fri, 06 Mar 2026 14:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d012932430f94a17d77aa3015a57ae86ba71a310/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2487c70954c5a7dba553b8421099b1de"
+    },
     {
       "title": "Sheep are disappearing from our hills - and our dinner plates",
       "description": "Have we have passed \"peak sheep\" in the UK?...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty2?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Mar 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Warming Triggers a Chain Reaction of Disturbance in European Forests",
-      "description": "Forest disturbance across Europe could more than double by the end of the century with continued global warming, fundamentally reshaping landscapes fr...",
-      "link": "https://insideclimatenews.org/news/05032026/global-warming-european-forest-wildfires/",
-      "pubDate": "Thu, 05 Mar 2026 19:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
