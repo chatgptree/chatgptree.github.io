@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-06T07:01:58.645Z",
+  "lastUpdated": "2026-03-06T08:50:42.265Z",
   "articles": [
+    {
+      "title": "Week in wildlife: a watchful egret, a sun-seeking swan and a procession of caterpillars",
+      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/mar/06...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/mar/06/week-in-wildlife-a-watchful-egret-a-sun-seeking-swan-and-a-procession-of-caterpillars",
+      "pubDate": "Fri, 06 Mar 2026 08:00:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/36cd7c719bd768c5938e1629b3f7643e30842292/510_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=272d993af3b5af8066a35cc4ec02de62"
+    },
     {
       "title": "Mass stranding of whales on Scottish beach caused by loyalty to their pod, report finds",
       "description": "&lt;p&gt;The 55 pilot whales, which had to be euthanised, had been following a female having a difficult birth, scientists believe&lt;/p&gt;&lt;p&gt;T...",
@@ -36,6 +45,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AKFLogo-2-1024x945.png"
+    },
+    {
+      "title": "Sheep are disappearing from the UK's hills - and its dinner plates",
+      "description": "Have we have passed \"peak sheep\" in the UK?...",
+      "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Mar 2026 04:22:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Nectr secures solar partnership with The Panthers Group at Pullman Penrith",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Prepping for a disaster? You’ll probably want to pack a little treat.",
-      "description": "It’s not just sardines and dried beans. Self-identified preppers are also stashing luxuries like coffee and chocolate....",
-      "link": "https://grist.org/culture/prepper-disaster-food-pantry-staples-advice-treat/",
-      "pubDate": "Thu, 05 Mar 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/chick-chicken-shortage-bird-flu-egg-prices.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "How electrifying a Bay Area rail system made trains faster, cleaner, and more frequent",
-      "description": "A $2.4 billion upgrade is shaving minutes off Caltrain trips through Silicon Valley, doubling weekend ridership, and reducing riders’ exposure to toxi...",
-      "link": "https://grist.org/transportation/how-electrifying-a-bay-area-rail-system-made-trains-faster-cleaner-and-more-frequent/",
-      "pubDate": "Thu, 05 Mar 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/09/Barcelona-MetroCHARGE-regenerative-braking-electricity-trains-stations-EVs.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
