@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-06T09:51:11.470Z",
+  "lastUpdated": "2026-03-06T10:48:15.569Z",
   "articles": [
+    {
+      "title": "3G pitch set to be approved despite pollution fears",
+      "description": "A charity is worried about microplastics but a council says the plans follow environmental guidance....",
+      "link": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Mar 2026 10:43:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Illinois Utility Announces New Round of Electric Vehicle Rebate Funding for Residents and Businesses",
+      "description": "After a year in which the Trump administration rolled back electric-vehicle rebates and funding programs, the largest electric utility in Illinois ann...",
+      "link": "https://insideclimatenews.org/news/06032026/illinois-comed-ev-rebate-funding/",
+      "pubDate": "Fri, 06 Mar 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "On the Farm, the Hidden Climate Cost of America’s Broken Health Care System",
+      "description": "Samantha Kemnah looked out the foggy window of her home in New Berlin, New York, at the 150-acre dairy farm she and her husband, Chris, bought last ye...",
+      "link": "https://insideclimatenews.org/news/06032026/american-farmers-climate-cost-health-care/",
+      "pubDate": "Fri, 06 Mar 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why thinning a forest could get you more drinking water",
       "description": "Scientists have shown how actively managing forests to prevent wildfires can also boost the snowpack, a critical source of hydration in the American w...",
@@ -130,7 +157,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Space warfare, space manufacturing and satellite data at Space Comm Expo...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty2?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Mar 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6651f7a8bdd5efce82ae8205b0d5c5dc515d7847/355_0_4182_3346/master/4182.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9297cc2bcf23f553d6921ea0dd836278"
-    },
-    {
-      "title": "The hidden potential of Trump’s critical minerals stockpile",
-      "description": "The administration’s rush to secure the components for the military could benefit renewable energy — someday....",
-      "link": "https://grist.org/climate-energy/the-hidden-potential-of-trumps-critical-minerals-stockpile/",
-      "pubDate": "Thu, 05 Mar 2026 18:35:47 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/12/DRC-Trump-Resized.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘It creates a sense of belonging’: Brazil bets on hiking trails for conservation",
-      "description": "&lt;p&gt;The country’s network of footpaths is growing – with hopes they will develop local economies and better preserve the environment&lt;br&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2026/mar/05/brazil-hiking-trails-conservation",
-      "pubDate": "Thu, 05 Mar 2026 14:01:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9e44c743cdbe1658ee24ad6bc35bb89c2192c7b3/180_0_5702_4561/master/5702.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd23f25a9dea7fe3275b33a0c0e4b282"
-    },
-    {
-      "title": "Texas Seizes the Solar Crown From California, and Other Key Points From the Latest Electricity Data",
-      "description": "Texas, which already leads the country in electricity generation from natural gas, coal and wind, has passed California to become the leader in utilit...",
-      "link": "https://insideclimatenews.org/news/05032026/inside-clean-energy-texas-utility-scale-solar/",
-      "pubDate": "Thu, 05 Mar 2026 14:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
