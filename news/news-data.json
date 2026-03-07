@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-03-07T09:37:11.017Z",
+  "lastUpdated": "2026-03-07T10:33:03.048Z",
   "articles": [
+    {
+      "title": "Tim Peake leaves scouts starry-eyed at hut opening",
+      "description": "Peake was the first Briton to set foot on the International Space Station....",
+      "link": "https://www.bbc.com/news/articles/c3v761v5qe3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Mar 2026 10:23:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Upstate New York Communities Eye Nuclear Power",
+      "description": "Schuyler County in New York is home to a bucolic state park, an automobile race track and one day—if Judy McKinney Cherry has her way—a nuclear power ...",
+      "link": "https://insideclimatenews.org/news/07032026/upstate-new-york-nuclear-plants/",
+      "pubDate": "Sat, 07 Mar 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Sound Science’ Bills Limiting State Environmental Regulations Set ‘Insurmountable Burden of Proof,’ Scientists Say",
+      "description": "A series of Republican state legislatures are advancing, or have already passed, laws severely limiting the ability of state agencies to set environme...",
+      "link": "https://insideclimatenews.org/news/07032026/alabama-sound-science-bill-limits-environmental-regulations/",
+      "pubDate": "Sat, 07 Mar 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why Beaches Are Swamped With Sargassum, the Stinky Seaweed Menace",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Aynsley O’Neill with Inside Climate News’ ...",
+      "link": "https://insideclimatenews.org/news/07032026/sargassum-toxic-seaweed/",
+      "pubDate": "Sat, 07 Mar 2026 09:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The climate change course for people with learning disabilities",
       "description": "A training course on climate change has been specially developed for people with learning disabilities...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/01f8032afcd4e143b6d0387720a30243db45b246/0_0_1264_1011/master/1264.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27f4c4445a3fb14a302bd3f06d0d1e9b"
-    },
-    {
-      "title": "Parkside extends compostable packaging range with new metallised filmic structures suitable for home compostability",
-      "description": "Parkside, the leading flexible packaging manufacturer, has announced three new materials have been added to its accredited compostable flexible packag...",
-      "link": "https://econews.com.au/parkside-extends-compostable-packaging-range-with-new-metallised-filmic-structures-suitable-for-home-compostability/",
-      "pubDate": "Fri, 06 Mar 2026 05:01:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-95-1024x367.jpg"
-    },
-    {
-      "title": "International Women’s Day: Celebrating the strength behind the Koala fight",
-      "description": "Deborah Tabart OAM Chair of the Australian Koala Foundation Australian Koala Foundation Key facts: Deborah Tabart OAM has dedicated nearly 40 years to...",
-      "link": "https://econews.com.au/international-womens-day-celebrating-the-strength-behind-the-koala-fight/",
-      "pubDate": "Fri, 06 Mar 2026 05:01:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AKFLogo-2-1024x945.png"
-    },
-    {
-      "title": "Nectr secures solar partnership with The Panthers Group at Pullman Penrith",
-      "description": "Nectr expands off-field partnership with the Panthers, delivering renewable energy solutions for the group’s commercial venues Australian energy speci...",
-      "link": "https://econews.com.au/nectr-secures-solar-partnership-with-the-panthers-group-at-pullman-penrith/",
-      "pubDate": "Fri, 06 Mar 2026 04:01:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "If food must list every ingredient, why shouldn’t clothing?",
-      "description": "RMIT University Confusing textile language can mislead consumers and obscure the real environmental impacts of what we wear and use in our homes. An R...",
-      "link": "https://econews.com.au/if-food-must-list-every-ingredient-why-shouldnt-clothing/",
-      "pubDate": "Fri, 06 Mar 2026 04:01:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
