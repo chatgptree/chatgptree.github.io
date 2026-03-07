@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-07T05:43:14.791Z",
+  "lastUpdated": "2026-03-07T06:54:05.989Z",
   "articles": [
+    {
+      "title": "The climate change course for people with learning disabilities",
+      "description": "A training course on climate change has been specially developed for people with learning disabilities...",
+      "link": "https://www.bbc.com/news/articles/c24dd4eze03o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Mar 2026 06:48:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK must stockpile food in readiness for climate shocks or war, expert warns",
+      "description": "&lt;p&gt;Prof Tim Lang says country produces far less food than it needs to feed population and is particularly vulnerable &lt;/p&gt;&lt;p&gt;The Brit...",
+      "link": "https://www.theguardian.com/global-development/2026/mar/07/uk-stockpile-food-climate-shocks-war",
+      "pubDate": "Sat, 07 Mar 2026 06:00:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fcadc3efd663473b791aa43251b07a9dc7866510/303_0_5599_4480/master/5599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8cb474734216ac2fd8262e0bacc059"
+    },
     {
       "title": "Documents Raise New Concerns Over Alligator Alcatraz’s Air and Climate Pollution",
       "description": "A state-commissioned environmental assessment on the Everglades migrant detention site known as Alligator Alcatraz, conducted after opponents sued, ra...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Twenty pregnant women evacuated from NT hospital as two states prepare for major flooding",
-      "description": "&lt;p&gt;BoM issues flood watch covering most of Queensland while NT authorities warn houses and roads could be inundated &lt;/p&gt;&lt;ul&gt;&lt;li&g...",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/06/far-north-queensland-severe-weather-tropical-low-flash-flood-warnings",
-      "pubDate": "Fri, 06 Mar 2026 03:44:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4dc0a1865f4053d3997038cfa6e9919adfeb8ae6/0_0_1187_949/master/1187.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2be4e7ac5d20db027de51981f0b8de7"
-    },
-    {
-      "title": "A Little-Used Maneuver Could Mean More Drilling and Mining in Southern Utah’s Redrock Country",
-      "description": "Lawmakers from Utah have commandeered an obscure law to unravel protections for the Grand Staircase-Escalante National Monument, potentially deliverin...",
-      "link": "https://insideclimatenews.org/news/05032026/utah-grand-staircase-escalante-national-monument-drilling-mining/",
-      "pubDate": "Thu, 05 Mar 2026 23:23:02 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
