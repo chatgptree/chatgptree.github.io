@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T13:06:10.068Z",
+  "lastUpdated": "2026-03-08T14:33:09.700Z",
   "articles": [
+    {
+      "title": "Sex and the sea snail: how a plucky marine lab brought a mollusk back from the brink",
+      "description": "&lt;p&gt;Once abundant in California, the white abalone had all but vanished. Now, thanks to an innovative breeding program, it’s staged a remarkable ...",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/mar/08/white-abalone-breeding-program-california",
+      "pubDate": "Sun, 08 Mar 2026 14:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e9e2800aa35c6f05fa3c2bb7041625ac104888a1/0_855_5464_4369/master/5464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c94c24af7581cd3d99974a811c83a181"
+    },
     {
       "title": "How Trump’s EPA rollbacks give US states new tools in climate suits",
       "description": "&lt;p&gt;Vermont and New York face high stakes to protect climate superfund laws as it faces attacks from Trump’s DoJ&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK must stockpile food in readiness for climate shocks or war, expert warns",
-      "description": "&lt;p&gt;Prof Tim Lang says country produces far less food than it needs to feed population and is particularly vulnerable &lt;/p&gt;&lt;p&gt;The Brit...",
-      "link": "https://www.theguardian.com/global-development/2026/mar/07/uk-stockpile-food-climate-shocks-war",
-      "pubDate": "Sat, 07 Mar 2026 06:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fcadc3efd663473b791aa43251b07a9dc7866510/303_0_5599_4480/master/5599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8cb474734216ac2fd8262e0bacc059"
     }
   ]
 }
