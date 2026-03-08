@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T07:37:14.510Z",
+  "lastUpdated": "2026-03-08T08:40:53.383Z",
   "articles": [
+    {
+      "title": "Campaigners push to better protect chalk streams",
+      "description": "Campaigners say the eco-system rarity does not have enough legal protection....",
+      "link": "https://www.bbc.com/news/articles/c93wex5zv6qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Mar 2026 07:56:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Ancient hedge laying used to boost biodiversity",
       "description": "Bristol Water is using ancient hedge laying techniques to improve biodiversity near Blagdon lake....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c296cd802c7d894283bf7be5cbbcf9d9b3c7e933/731_0_6378_5102/master/6378.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fab51dd9868cab193eb2f1e939d3fc1"
-    },
-    {
-      "title": "3G pitch set to be approved despite pollution fears",
-      "description": "A charity is worried about microplastics but a council says the plans follow environmental guidance....",
-      "link": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Mar 2026 10:43:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
