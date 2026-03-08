@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-03-08T08:40:53.383Z",
+  "lastUpdated": "2026-03-08T09:37:51.399Z",
   "articles": [
+    {
+      "title": "After a Decade of Missteps, a Texas City Careens Toward a Water-Shortage Catastrophe",
+      "description": "CORPUS CHRISTI, Texas—The imminent depletion of water supplies in Corpus Christi threatens to cut off the flow of jet fuel to Texas airports and other...",
+      "link": "https://insideclimatenews.org/news/08032026/after-a-decade-of-missteps-a-texas-city-careens-toward-a-water-shortage-catastrophe/",
+      "pubDate": "Sun, 08 Mar 2026 09:30:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BrewDog sold highland estate for knockdown price after abandoning reforestation plans",
+      "description": "&lt;p&gt;Self-styled ‘punk’ beer company bought land in 2020, pledging to plant Scotland’s ‘biggest ever forest’&lt;/p&gt;&lt;p&gt;The self-styled “pu...",
+      "link": "https://www.theguardian.com/business/2026/mar/08/brewdog-sold-highland-estate-knockdown-price-reforesting",
+      "pubDate": "Sun, 08 Mar 2026 09:00:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/96ba8cebd79430e137c7edfb0b82b3767005d96e/384_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b9f3ead7b116a211ff2b8ac8156fb6"
+    },
+    {
+      "title": "Is the FBI Investigating Environmental Activists?",
+      "description": "NEW YORK CITY—The group in the Brooklyn studio seemed harmless. There was a graduate student, a Yiddish teacher, a hairdresser. Fifteen people had gat...",
+      "link": "https://insideclimatenews.org/news/08032026/environmental-activists-fbi-visits/",
+      "pubDate": "Sun, 08 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Gobbled up by Agriculture",
+      "description": "Agriculture is the biggest driver of forest destruction around the world, especially in well-known places like the Amazon rainforest.&#160; But new re...",
+      "link": "https://insideclimatenews.org/news/08032026/icn-sunday-morning-agriculture-devours-lands/",
+      "pubDate": "Sun, 08 Mar 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Campaigners push to better protect chalk streams",
       "description": "Campaigners say the eco-system rarity does not have enough legal protection....",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "An Island Nation in the South Pacific Leads the Latest Push for Climate Justice at the UN",
-      "description": "Led by the South Pacific island nation of Vanuatu, a coalition of countries are introducing a resolution at the United Nations General Assembly that c...",
-      "link": "https://insideclimatenews.org/news/06032026/pacific-island-vanuatu-un-climate-justice/",
-      "pubDate": "Fri, 06 Mar 2026 22:19:52 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Humanity heating planet faster than ever before, study finds",
-      "description": "&lt;p&gt;Researchers identify sharp rise to about 0.35C every decade, after excluding natural fluctuations such as El Niño&lt;/p&gt;&lt;p&gt;Humanity ...",
-      "link": "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds",
-      "pubDate": "Fri, 06 Mar 2026 14:00:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d012932430f94a17d77aa3015a57ae86ba71a310/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2487c70954c5a7dba553b8421099b1de"
-    },
-    {
-      "title": "Sheep are disappearing from our hills - and our dinner plates",
-      "description": "Have we have passed \"peak sheep\" in the UK?...",
-      "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Mar 2026 11:57:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
-      "description": "&lt;p&gt;First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to nature&lt;/p&gt;&lt;p&gt;The place ...",
-      "link": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
-      "pubDate": "Fri, 06 Mar 2026 11:49:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c296cd802c7d894283bf7be5cbbcf9d9b3c7e933/731_0_6378_5102/master/6378.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fab51dd9868cab193eb2f1e939d3fc1"
     }
   ]
 }
