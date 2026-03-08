@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T17:30:43.547Z",
+  "lastUpdated": "2026-03-08T18:48:01.371Z",
   "articles": [
+    {
+      "title": "The Guardian view on EV charging: China took the right lessons from Britain’s past | Editorial",
+      "description": "&lt;p&gt;Megawatt fast EV charging reflects a coordinated grid strategy the UK once used. Privatisation and fragmentation now make that infrastructure...",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/08/the-guardian-view-on-ev-charging-china-took-the-right-lessons-from-britains-past",
+      "pubDate": "Sun, 08 Mar 2026 17:25:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3e2ad3b4fa83501b1ddce6d660b60a2b8e718d15/592_0_3463_2770/master/3463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2ea40c024859cfa813a9abd376e873b"
+    },
     {
       "title": "Sex and the sea snail: how a plucky marine lab brought a mollusk back from the brink",
       "description": "&lt;p&gt;Once abundant in California, the white abalone had all but vanished. Now, thanks to an innovative breeding program, it’s staged a remarkable ...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/07032026/sargassum-toxic-seaweed/",
       "pubDate": "Sat, 07 Mar 2026 09:50:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The climate change course for people with learning disabilities",
-      "description": "A training course on climate change has been specially developed for people with learning disabilities...",
-      "link": "https://www.bbc.com/news/articles/c24dd4eze03o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Mar 2026 06:48:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
