@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T06:56:00.698Z",
+  "lastUpdated": "2026-03-08T07:37:14.510Z",
   "articles": [
+    {
+      "title": "Ancient hedge laying used to boost biodiversity",
+      "description": "Bristol Water is using ancient hedge laying techniques to improve biodiversity near Blagdon lake....",
+      "link": "https://www.bbc.com/news/articles/cyv918n9v93o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Mar 2026 07:21:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Wildlife trust buys land to create new reserve",
       "description": "In its 100th year, the Norfolk Wildlife Trust spends £4.6m on 336 acres of farmland. ...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Mar 2026 10:43:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Illinois Utility Announces New Round of Electric Vehicle Rebate Funding for Residents and Businesses",
-      "description": "After a year in which the Trump administration rolled back electric-vehicle rebates and funding programs, the largest electric utility in Illinois ann...",
-      "link": "https://insideclimatenews.org/news/06032026/illinois-comed-ev-rebate-funding/",
-      "pubDate": "Fri, 06 Mar 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
