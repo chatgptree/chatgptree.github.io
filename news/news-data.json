@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-08T11:28:59.401Z",
+  "lastUpdated": "2026-03-08T13:06:10.068Z",
   "articles": [
+    {
+      "title": "How Trump’s EPA rollbacks give US states new tools in climate suits",
+      "description": "&lt;p&gt;Vermont and New York face high stakes to protect climate superfund laws as it faces attacks from Trump’s DoJ&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/08/trump-epa-rollbacks-vermont-new-york-climate-suits",
+      "pubDate": "Sun, 08 Mar 2026 13:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b63cd2a403ccfc6eb54414ea2b362d6d464af1b1/1385_2398_1814_1450/master/1814.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad295a40392678c1d5f37fbb074e3fa9"
+    },
+    {
+      "title": "The fight for the heart of the US Environmental Protection Agency",
+      "description": "One year after the Trump administration threw the EPA into chaos, former employees continue to push back—and to dream of an agency reborn....",
+      "link": "https://grist.org/politics/the-fight-for-the-heart-of-the-u-s-environmental-protection-agency/",
+      "pubDate": "Sun, 08 Mar 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/GettyImages-2260781308.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "After a Decade of Missteps, a Texas City Careens Toward a Water-Shortage Catastrophe",
       "description": "CORPUS CHRISTI, Texas—The imminent depletion of water supplies in Corpus Christi threatens to cut off the flow of jet fuel to Texas airports and other...",
@@ -11,7 +29,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "BrewDog sold Highland estate for knockdown price after abandoning reforestation plans",
+      "title": "BrewDog sold  Highland estate for knockdown price after abandoning its reforestation plans",
       "description": "&lt;p&gt;Self-styled ‘punk’ beer company bought land in 2020, pledging to plant Scotland’s ‘biggest ever forest’&lt;/p&gt;&lt;p&gt;The self-styled “pu...",
       "link": "https://www.theguardian.com/business/2026/mar/08/brewdog-sold-highland-estate-knockdown-price-reforesting",
       "pubDate": "Sun, 08 Mar 2026 09:00:15 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fcadc3efd663473b791aa43251b07a9dc7866510/303_0_5599_4480/master/5599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8cb474734216ac2fd8262e0bacc059"
-    },
-    {
-      "title": "Documents Raise New Concerns Over Alligator Alcatraz’s Air and Climate Pollution",
-      "description": "A state-commissioned environmental assessment on the Everglades migrant detention site known as Alligator Alcatraz, conducted after opponents sued, ra...",
-      "link": "https://insideclimatenews.org/news/06032026/florida-alligator-alcatraz-detention-site-pollution/",
-      "pubDate": "Fri, 06 Mar 2026 23:43:34 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EPA Hits 40-Year Lows in Staffing After Trump Targets Its Public Health Experts",
-      "description": "When President Donald Trump first sought to be the Republican standard-bearer in 2016, he promised to reduce the Environmental Protection Agency to “l...",
-      "link": "https://insideclimatenews.org/news/06032026/trump-epa-staffing-lows/",
-      "pubDate": "Fri, 06 Mar 2026 23:34:37 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
