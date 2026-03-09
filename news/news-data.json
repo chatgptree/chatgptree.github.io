@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-09T08:56:10.404Z",
+  "lastUpdated": "2026-03-09T10:02:13.878Z",
   "articles": [
+    {
+      "title": "North Carolina Created Complaint Systems for its Industrialized Farms. They Don’t Work Very Well.",
+      "description": "ROWLAND, N.C.—Brenda Schwab stopped her 16-year-old Ford pickup truck on Gaddy’s Mill Road and pointed to a chocolate-colored ridge about 30 feet long...",
+      "link": "https://insideclimatenews.org/news/09032026/north-carolina-cafo-complaint-systems/",
+      "pubDate": "Mon, 09 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The future of geothermal energy may depend on fossil fuel workers",
       "description": "The next generation of geothermal energy is drawing on decades of talent and technical expertise developed in the oil and gas industries....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/96ba8cebd79430e137c7edfb0b82b3767005d96e/384_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b9f3ead7b116a211ff2b8ac8156fb6"
-    },
-    {
-      "title": "Is the FBI Investigating Environmental Activists?",
-      "description": "NEW YORK CITY—The group in the Brooklyn studio seemed harmless. There was a graduate student, a Yiddish teacher, a hairdresser. Fifteen people had gat...",
-      "link": "https://insideclimatenews.org/news/08032026/environmental-activists-fbi-visits/",
-      "pubDate": "Sun, 08 Mar 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
