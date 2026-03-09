@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-09T15:00:15.771Z",
+  "lastUpdated": "2026-03-09T16:08:47.830Z",
   "articles": [
+    {
+      "title": "The Oil Price Shock Is Here. Its Arrival Provides a Familiar Warning",
+      "description": "Oil prices shot up on Monday as disruptions related to the war in Iran sent shockwaves through financial markets, underscoring the risks for countries...",
+      "link": "https://insideclimatenews.org/news/09032026/iran-conflict-gasoline-oil-price-shock-familiar-warning/",
+      "pubDate": "Mon, 09 Mar 2026 16:08:01 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "It's nearly moving day for these sand martins",
+      "description": "Testwood Lakes Nature Reserve in Hampshire is set to welcome its first residents later this month....",
+      "link": "https://www.bbc.com/news/videos/cly1w23g3r2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Mar 2026 15:59:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Yorkshire Water receives fresh funding despite sewage fines and pay row",
       "description": "&lt;p&gt;Private equity group EQT to take 42% stake as supplier faces scrutiny over environmental record and CEO’s pay&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&l...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e9e2800aa35c6f05fa3c2bb7041625ac104888a1/0_855_5464_4369/master/5464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c94c24af7581cd3d99974a811c83a181"
-    },
-    {
-      "title": "How Trump’s EPA rollbacks give US states new tools in climate suits",
-      "description": "&lt;p&gt;Vermont and New York face high stakes to protect climate superfund laws as it faces attacks from Trump’s DoJ&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
-      "link": "https://www.theguardian.com/us-news/2026/mar/08/trump-epa-rollbacks-vermont-new-york-climate-suits",
-      "pubDate": "Sun, 08 Mar 2026 13:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b63cd2a403ccfc6eb54414ea2b362d6d464af1b1/1385_2398_1814_1450/master/1814.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad295a40392678c1d5f37fbb074e3fa9"
-    },
-    {
-      "title": "The fight for the heart of the US Environmental Protection Agency",
-      "description": "One year after the Trump administration threw the EPA into chaos, former employees continue to push back—and to dream of an agency reborn....",
-      "link": "https://grist.org/politics/the-fight-for-the-heart-of-the-u-s-environmental-protection-agency/",
-      "pubDate": "Sun, 08 Mar 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/GettyImages-2260781308.jpg?quality=75&#038;strip=all"
     }
   ]
 }
