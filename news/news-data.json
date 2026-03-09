@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-09T11:38:51.849Z",
+  "lastUpdated": "2026-03-09T13:23:02.157Z",
   "articles": [
+    {
+      "title": "How Extreme Weather and Aging Infrastructure Led to Months of ‘Musty’ Water in One Ohio Village",
+      "description": "The Allegheny Front covers the environment in Pennsylvania and eastern Ohio. Sign up for their newsletter here. Listen to the radio version of the pie...",
+      "link": "https://insideclimatenews.org/news/09032026/ohio-village-water-contaminants-extreme-weather-aging-infrastructure/",
+      "pubDate": "Mon, 09 Mar 2026 12:03:50 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Large tortoiseshell butterfly confirmed no longer extinct in UK",
       "description": "&lt;p&gt;Early spring sightings show colourful insect is a resident species for first time in decades, says conservation charity&lt;/p&gt;&lt;p&gt;The...",
@@ -11,7 +20,7 @@
       "image": "https://i.guim.co.uk/img/media/1a3c60d09f5159be4fc02f5e6e6198469321ab35/1024_696_3207_2565/master/3207.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17fedc7c3fc137a1dbfd9a51dfde1377"
     },
     {
-      "title": "North Carolina Created Complaint Systems for its Industrialized Farms. They Don’t Work Very Well.",
+      "title": "North Carolina Created Complaint Systems for Its Industrialized Farms. They Don’t Work Very Well.",
       "description": "ROWLAND, N.C.—Brenda Schwab stopped her 16-year-old Ford pickup truck on Gaddy’s Mill Road and pointed to a chocolate-colored ridge about 30 feet long...",
       "link": "https://insideclimatenews.org/news/09032026/north-carolina-cafo-complaint-systems/",
       "pubDate": "Mon, 09 Mar 2026 09:00:00 +0000",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/02/GettyImages-2260781308.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "After a Decade of Missteps, a Texas City Careens Toward a Water-Shortage Catastrophe",
-      "description": "CORPUS CHRISTI, Texas—The imminent depletion of water supplies in Corpus Christi threatens to cut off the flow of jet fuel to Texas airports and other...",
-      "link": "https://insideclimatenews.org/news/08032026/after-a-decade-of-missteps-a-texas-city-careens-toward-a-water-shortage-catastrophe/",
-      "pubDate": "Sun, 08 Mar 2026 09:30:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
