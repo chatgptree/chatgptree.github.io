@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-10T14:59:00.269Z",
+  "lastUpdated": "2026-03-10T16:09:13.430Z",
   "articles": [
+    {
+      "title": "'Extinct' butterfly found across southern England",
+      "description": "There has been a flurry of early sightings of the large tortoiseshell butterfly, a charity says....",
+      "link": "https://www.bbc.com/news/articles/cdxz78q7894o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Mar 2026 15:27:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why the price of oil matters more than you might think",
+      "description": "A shock to oil supplies is rattling financial markets, driving up prices at the pump and raising fears of a bigger economic hit. ...",
+      "link": "https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Mar 2026 15:04:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘A sobering preview’: extreme heat now affects one in three people globally, study finds",
       "description": "&lt;p&gt;Rising temperatures making it hard even for young, healthy people to safely do normal physical tasks in many regions&lt;/p&gt;&lt;p&gt;Climat...",
@@ -146,15 +164,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Why the price of oil matters more than you might think",
-      "description": "A shock to oil supplies is rattling financial markets, driving up prices at the pump and raising fears of a bigger economic hit. ...",
-      "link": "https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Mar 2026 21:44:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "The Guardian view on the Iran crisis exposing Britain’s energy vulnerability: clean power offers protection | Editorial",
       "description": "&lt;p&gt;The war reveals Britain’s exposure to volatile fossil fuel prices. More North Sea drilling will not shield households, building domestic gree...",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/09/the-guardian-view-on-the-iran-crisis-exposing-britains-energy-vulnerability-clean-power-offers-protection",
@@ -168,15 +177,6 @@
       "description": "The sluggish Colorado River negotiations have entered a new phase: Long and fiery letter writing. Politicians, water negotiators and environmental gro...",
       "link": "https://insideclimatenews.org/news/09032026/states-blast-federal-playbook-of-potential-colorado-river-options/",
       "pubDate": "Mon, 09 Mar 2026 19:07:52 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Oil Price Shock Is Here. Its Arrival Provides a Familiar Warning.",
-      "description": "Oil prices shot up on Monday as disruptions related to the war in Iran sent shockwaves through financial markets, underscoring the risks for countries...",
-      "link": "https://insideclimatenews.org/news/09032026/iran-conflict-gasoline-oil-price-shock-familiar-warning/",
-      "pubDate": "Mon, 09 Mar 2026 16:08:01 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
