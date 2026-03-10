@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-10T22:37:21.619Z",
+  "lastUpdated": "2026-03-10T23:35:53.860Z",
   "articles": [
+    {
+      "title": "Trump’s EPA Claims Strong Enforcement. But the Data Tells a Different Story.",
+      "description": "For over a decade, Hino Motors Ltd. imported and sold more than 105,000 vehicles and engines with misleading or fabricated emissions data, until testi...",
+      "link": "https://insideclimatenews.org/news/10032026/trumps-epa-claims-strong-enforcement/",
+      "pubDate": "Tue, 10 Mar 2026 23:24:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A 1,300-pound Nasa spacecraft to re-enter Earth's atmosphere",
+      "description": "Much of the Van Allen Probe is expected to burn up in the atmosphere though Nasa says there is \"low\" risk of people being struck by surviving componen...",
+      "link": "https://www.bbc.com/news/articles/cd9gwdgg38vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Mar 2026 22:55:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Toxic pet flea treatment chemicals found at 'damaging' levels in rivers",
+      "description": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK....",
+      "link": "https://www.bbc.com/news/articles/cze0j2dgkx4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Mar 2026 22:48:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Musk’s xAI wins permit for datacenter’s makeshift power plant despite backlash",
       "description": "&lt;p&gt;Billionaire’s artificial intelligence company gets approval to run 41 methane gas turbines at its ‘Colossus 2’ in Mississippi&lt;/p&gt;&lt;p&...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/NSW-Logo-supported-by.png"
-    },
-    {
-      "title": "Thermal drones boost detection of entangled seals",
-      "description": "Cape Fur Seal entanglement trail  Photo by Claire Taylor, Two Oceans Aquarium Monash University Key points: Colour and thermal-infrared technology in ...",
-      "link": "https://econews.com.au/thermal-drones-boost-detection-of-entangled-seals/",
-      "pubDate": "Tue, 10 Mar 2026 03:00:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "Sydney researchers build ultra-compact AI chip operating at speed of light",
-      "description": "Australian researchers have built an ultra-compact artificial intelligence (AI) chip that is able to make calculations using the power of light, at th...",
-      "link": "https://econews.com.au/sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light/",
-      "pubDate": "Tue, 10 Mar 2026 03:00:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "NSW Health upgrades hospital EV charging to meet 2030 fleet mandate",
-      "description": "NSW Health upgrades hospital EV charging to meet 2030 fleet mandate Schneider Electric and Master eMobility EcoXpert Aeron Group partner to deliver EV...",
-      "link": "https://econews.com.au/nsw-health-upgrades-hospital-ev-charging-to-meet-2030-fleet-mandate/",
-      "pubDate": "Tue, 10 Mar 2026 03:00:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
     }
   ]
 }
