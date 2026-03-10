@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-10T07:02:44.489Z",
+  "lastUpdated": "2026-03-10T08:55:39.125Z",
   "articles": [
+    {
+      "title": "The feds pulled $1.5B from tribal clean energy. Tribes are finding another way.",
+      "description": "With federal funding gone, tribes are turning to philanthropy, alternative lenders, and their own institutions....",
+      "link": "https://grist.org/indigenous/the-feds-pulled-1-5b-from-tribal-clean-energy-tribes-are-finding-another-way/",
+      "pubDate": "Tue, 10 Mar 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ocean speed limits protect endangered right whales. Trump wants to weaken them.",
+      "description": "NOAA wants to replace a longstanding rule with technology scientists say is unproven....",
+      "link": "https://grist.org/oceans/ocean-speed-limits-protect-endangered-right-whales-trump-wants-to-weaken-them/",
+      "pubDate": "Tue, 10 Mar 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/ISA-from-Getty-2.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "University joins UK's £17bn space sector",
       "description": "The Southampton Space Institute will use expertise and facilities for education and jobs creation....",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/09032026/north-carolina-cafo-complaint-systems/",
       "pubDate": "Mon, 09 Mar 2026 09:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The future of geothermal energy may depend on fossil fuel workers",
-      "description": "The next generation of geothermal energy is drawing on decades of talent and technical expertise developed in the oil and gas industries....",
-      "link": "https://grist.org/energy/the-future-of-geothermal-energy-may-depend-on-fossil-fuel-workers/",
-      "pubDate": "Mon, 09 Mar 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/geothermal-clean-energy-europe-electricity.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The US barely bothers to track geoengineering. What could go wrong?",
-      "description": "Whether it's cloud seeding or covering the Arctic in tiny glass beads, there’s little standing in the way of weather modification....",
-      "link": "https://grist.org/regulation/geoengineering-noaa-cloud-seeding-gao-oversight/",
-      "pubDate": "Mon, 09 Mar 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
