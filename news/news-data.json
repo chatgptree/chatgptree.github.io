@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-10T20:42:59.941Z",
+  "lastUpdated": "2026-03-10T21:36:31.764Z",
   "articles": [
+    {
+      "title": "Musk’s xAI wins permit for data center’s makeshift power plant despite backlash",
+      "description": "&lt;p&gt;Billionaire’s artificial intelligence company gets approval to run 41 methane gas turbines at its ‘Colossus 2’ in Mississippi&lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
+      "pubDate": "Tue, 10 Mar 2026 21:15:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/57052094ac7484fa57870e1f2bbd88fa4d7f750a/606_208_4875_3899/master/4875.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8520f03a37894e4089c9263e5e5bbccf"
+    },
+    {
+      "title": "Following Months of Drought, Floods in Kenya Kill More Than 40 People",
+      "description": "After months of intense drought conditions, Kenya was inundated by rain late last week, triggering severe flooding that killed more than 40 people. In...",
+      "link": "https://insideclimatenews.org/news/10032026/todays-climate-kenya-floods-climate-whiplash/",
+      "pubDate": "Tue, 10 Mar 2026 20:50:56 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
       "description": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "Adam Bandt to DJ at Lime Green Festival",
-      "description": "Adam Bandt at the decks Photo Credit: Kristoffer Paulsen Australian Conservation Foundation Australian Conservation Foundation CEO Adam Bandt will do ...",
-      "link": "https://econews.com.au/adam-bandt-to-dj-at-lime-green-festival/",
-      "pubDate": "Tue, 10 Mar 2026 03:00:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-79-585x1024.png"
-    },
-    {
-      "title": "A Warmer Climate Means Bigger Hail",
-      "description": "Regions that are often pummeled by severe storms—like the Midwestern United States under last weekend’s powerful thunderstorms and deadly tornadoes—co...",
-      "link": "https://insideclimatenews.org/news/09032026/warming-intensifies-hail-thunderstorms/",
-      "pubDate": "Tue, 10 Mar 2026 00:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
