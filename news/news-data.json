@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-10T17:53:13.637Z",
+  "lastUpdated": "2026-03-10T19:01:11.083Z",
   "articles": [
+    {
+      "title": "As gas prices soar, Trump is ignoring the lessons of the last oil crisis",
+      "description": "Fuel economy rules have reduced U.S. dependence on oil. Trump ripped them up — and then sent gas prices through the roof....",
+      "link": "https://grist.org/regulation/trump-iran-war-gas-prices/",
+      "pubDate": "Tue, 10 Mar 2026 18:51:04 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
       "description": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on the Iran crisis exposing Britain’s energy vulnerability: clean power offers protection | Editorial",
-      "description": "&lt;p&gt;The war reveals Britain’s exposure to volatile fossil fuel prices. More North Sea drilling will not shield households, building domestic gree...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/09/the-guardian-view-on-the-iran-crisis-exposing-britains-energy-vulnerability-clean-power-offers-protection",
-      "pubDate": "Mon, 09 Mar 2026 19:11:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f61528713bcbcad72fa9742a09aa61aac725a56a/598_258_3777_3022/master/3777.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea87722e0ea167a24a3a71ffd528e88a"
     }
   ]
 }
