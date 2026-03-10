@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-10T08:55:39.125Z",
+  "lastUpdated": "2026-03-10T09:55:05.692Z",
   "articles": [
+    {
+      "title": "The Latest Tactic for Silencing Ecuador’s Environmental Defenders: Shuttering Their Bank Accounts",
+      "description": "It was a sweltering January afternoon in the Amazonian town of Puyo when Andrés Tapia realized his daughter’s public school fees were due. Like many E...",
+      "link": "https://insideclimatenews.org/news/10032026/ecuador-freezes-environmental-defenders-bank-accounts/",
+      "pubDate": "Tue, 10 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Amid Cuts to the U.S. Fish and Wildlife Service, Species Like the Florida Panther Languish",
+      "description": "The honey-colored Florida panther inhabits the southwest corner of the state, mostly occupying a remote swath of cypress swamps, sawgrass prairies and...",
+      "link": "https://insideclimatenews.org/news/10032026/florida-panther-usfws-cuts/",
+      "pubDate": "Tue, 10 Mar 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The feds pulled $1.5B from tribal clean energy. Tribes are finding another way.",
       "description": "With federal funding gone, tribes are turning to philanthropy, alternative lenders, and their own institutions....",
@@ -110,6 +128,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Why the price of oil matters more than you might think",
+      "description": "A shock to oil supplies is rattling financial markets, driving up prices at the pump and raising fears of a bigger economic hit. ...",
+      "link": "https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Mar 2026 21:44:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "The Guardian view on the Iran crisis exposing Britain’s energy vulnerability: clean power offers protection | Editorial",
       "description": "&lt;p&gt;The war reveals Britain’s exposure to volatile fossil fuel prices. More North Sea drilling will not shield households, building domestic gree...",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/09/the-guardian-view-on-the-iran-crisis-exposing-britains-energy-vulnerability-clean-power-offers-protection",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6085f383fdc4d54482198722ee61a8e746753657/269_0_3075_2460/master/3075.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cde0dbd8380d1ee06f4702c2f5bffaa8"
-    },
-    {
-      "title": "How Extreme Weather and Aging Infrastructure Led to Months of ‘Musty’ Water in One Ohio Village",
-      "description": "The Allegheny Front covers the environment in Pennsylvania and eastern Ohio. Sign up for their newsletter here. Listen to the radio version of the pie...",
-      "link": "https://insideclimatenews.org/news/09032026/ohio-village-water-contaminants-extreme-weather-aging-infrastructure/",
-      "pubDate": "Mon, 09 Mar 2026 12:03:50 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Large tortoiseshell butterfly confirmed no longer extinct in UK",
-      "description": "&lt;p&gt;Early spring sightings show colourful insect is a resident species for first time in decades, says conservation charity&lt;/p&gt;&lt;p&gt;The...",
-      "link": "https://www.theguardian.com/environment/2026/mar/09/large-tortoiseshell-butterfly-no-longer-extinct-uk",
-      "pubDate": "Mon, 09 Mar 2026 11:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1a3c60d09f5159be4fc02f5e6e6198469321ab35/1024_696_3207_2565/master/3207.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17fedc7c3fc137a1dbfd9a51dfde1377"
-    },
-    {
-      "title": "North Carolina Created Complaint Systems for Its Industrialized Farms. They Don’t Work Very Well.",
-      "description": "ROWLAND, N.C.—Brenda Schwab stopped her 16-year-old Ford pickup truck on Gaddy’s Mill Road and pointed to a chocolate-colored ridge about 30 feet long...",
-      "link": "https://insideclimatenews.org/news/09032026/north-carolina-cafo-complaint-systems/",
-      "pubDate": "Mon, 09 Mar 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
