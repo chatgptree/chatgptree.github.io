@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-11T20:41:33.708Z",
+  "lastUpdated": "2026-03-11T21:40:59.604Z",
   "articles": [
+    {
+      "title": "There’s Something in the Air in South Portland, Maine",
+      "description": "SOUTH PORTLAND—It’s one of Maine’s most desirable locations—home to a vibrant and diverse community, nearby beaches, and close proximity to Portland’s...",
+      "link": "https://insideclimatenews.org/news/11032026/south-portland-maine-petroleum-storage-tanks-emissions/",
+      "pubDate": "Wed, 11 Mar 2026 21:34:20 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The war in Iran could plunge the world into hunger",
       "description": "Farmers from Iowa to India depend on fossil fuel-based fertilizers. Much of their supply is stuck in the Persian Gulf....",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Jenny-Merkley-Executive-Director-Business-Industry-Decarbonisation-NSW-DCCEEW-683x1024.jpg"
-    },
-    {
-      "title": "Secret of hedgehog hearing discovered at far beyond human range",
-      "description": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear...",
-      "link": "https://www.bbc.com/news/articles/c8d52n0dnzro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Mar 2026 00:24:19 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
