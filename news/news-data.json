@@ -1,21 +1,48 @@
 {
-  "lastUpdated": "2026-03-12T20:45:38.632Z",
+  "lastUpdated": "2026-03-12T21:41:24.706Z",
   "articles": [
     {
-      "title": "Warming Waters Threaten Seafood Supply",
-      "description": "In the world’s waters, fish are making a quiet, biological retreat. The once simple rules of the ocean—grow larger than potential predators—are being ...",
-      "link": "https://insideclimatenews.org/news/12032026/warming-waters-threaten-seafood-supply/",
-      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
+      "title": "Artemis II: Nasa targets early April for Moon mission",
+      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch. \n...",
+      "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Mar 2026 21:21:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Artemis II: Nasa targets early April for Moon mission",
+      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch. \n...",
+      "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Mar 2026 21:21:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Artemis II: Nasa targets early April for Moon mission",
+      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch. \n...",
+      "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Mar 2026 21:21:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
       "title": "BBC Inside Science",
       "description": "New research on what three very hot years can tell us about climate change....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Mar 2026 17:00:00 GMT",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Mar 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Warming Waters Threaten Seafood Supply",
+      "description": "In the world’s waters, fish are making a quiet, biological retreat. The once simple rules of the ocean—grow larger than potential predators—are being ...",
+      "link": "https://insideclimatenews.org/news/12032026/warming-waters-threaten-seafood-supply/",
+      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7d307fc3eaa7ee61969ebb5e7bcb1e83bdbe9814/558_0_4428_3543/master/4428.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ffd520d403bfb07f84a89c57547098f"
-    },
-    {
-      "title": "Epson NZ grows Trees that Count initiative",
-      "description": "Havelock Hills Planting Programme  Epson NZ has expanded its support for Trees That Count &#124; Te Rahi o T?ne, the environmental not-for-profit dedi...",
-      "link": "https://econews.com.au/epson-nz-grows-trees-that-count-initiative/",
-      "pubDate": "Thu, 12 Mar 2026 03:00:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-97-461x1024.jpg"
-    },
-    {
-      "title": "New AEMC rules will reduce the impact of data centres on Australia’s grid",
-      "description": "New draft rules for grid connection, published by the Australian Energy Market Commission (AEMC) today, will reduce the impact of data centres and oth...",
-      "link": "https://econews.com.au/new-aemc-rules-will-reduce-the-impact-of-data-centres-on-australias-grid/",
-      "pubDate": "Thu, 12 Mar 2026 02:00:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-81.png"
-    },
-    {
-      "title": "Perfectly Matched",
-      "description": "With her signature wit and warmth, author and former Australian of the Year finalist Rachel Jayne Cassidy has released two books in the last twelve mo...",
-      "link": "https://econews.com.au/perfectly-matched/",
-      "pubDate": "Thu, 12 Mar 2026 02:00:47 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Perfectly-Matched-2.jpg"
     }
   ]
 }
