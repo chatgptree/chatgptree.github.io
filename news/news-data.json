@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-12T17:54:38.811Z",
+  "lastUpdated": "2026-03-12T19:04:36.720Z",
   "articles": [
+    {
+      "title": "Warming Waters Threaten Seafood Supply",
+      "description": "In the world’s waters, fish are making a quiet, biological retreat. The once simple rules of the ocean—grow larger than potential predators—are being ...",
+      "link": "https://insideclimatenews.org/news/12032026/warming-waters-threaten-seafood-supply/",
+      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "New research on what three very hot years can tell us about climate change....",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Perfectly-Matched-2.jpg"
-    },
-    {
-      "title": "Why Namibia's green energy dream could be a red flag for penguins",
-      "description": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility....",
-      "link": "https://www.bbc.com/news/articles/czj1lkvpzxyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Mar 2026 00:04:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
