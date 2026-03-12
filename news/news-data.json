@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-12T08:55:14.355Z",
+  "lastUpdated": "2026-03-12T09:54:32.869Z",
   "articles": [
+    {
+      "title": "London, San Francisco and Beijing achieve ‘remarkable reductions’ in air pollution",
+      "description": "&lt;p&gt;Cycle lanes, electric cars and other interventions have helped 19 global cities slash levels of pollutants by more than 20% &lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution",
+      "pubDate": "Thu, 12 Mar 2026 09:00:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3c3b8764c904abca71fc64fb1bfc044e0dcebfe8/0_0_4244_3394/master/4244.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ce340a672f51a339586b58290177dd9"
+    },
+    {
+      "title": "California Water Board Will Soon Release a New Rule to Limit Water Pollution From Dairies in the State",
+      "description": "California dairies are out of balance. Everyone from environmentalists to regulators to the industry agrees that the nitrogen from milk cow manure is ...",
+      "link": "https://insideclimatenews.org/news/12032026/california-water-board-dairy-waste-pollution-rule/",
+      "pubDate": "Thu, 12 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "In rural West Texas, renewable energy brings a windfall for seniors",
       "description": "How officials in Crockett County are using wind investments to help older residents age in place....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/021a7f55848393c4f8f083f0411060acaaee68b4/150_0_2451_1961/master/2451.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26aa507dffe1dc06b4ae85785a90fbc2"
-    },
-    {
-      "title": "How Toronto's snow mountains hide a toxic secret – video",
-      "description": "&lt;p&gt;The Guardian reporter Leyland Cecco visits an almost 100ft-tall snow mountain, one of six created in Toronto to store all the snow cleared fr...",
-      "link": "https://www.theguardian.com/world/video/2026/mar/11/how-toronto-snow-mountains-hide-a-toxic-secret-video",
-      "pubDate": "Wed, 11 Mar 2026 11:57:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/82688cfe7d8a7357495536575bbda8e7dd9794f2/322_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73b21791660458699d6beeda774d7449"
-    },
-    {
-      "title": "Peak interest: Toronto’s snow mountains that refuse to melt are a toxic hazard",
-      "description": "&lt;p&gt;Reaching up to 100ft, these massive piles contain tonnes of salt that keep roads clear – but pose environmental risks&lt;/p&gt;&lt;p&gt;Most ...",
-      "link": "https://www.theguardian.com/world/2026/mar/11/toronto-snow-salt-environment-health",
-      "pubDate": "Wed, 11 Mar 2026 11:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/799403fa238d14e10a2a7c44fc1a525fbc5ca27d/584_0_6720_5376/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c688678d31947832f9d56b87cce5c60"
     }
   ]
 }
