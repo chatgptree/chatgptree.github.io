@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-12T05:58:18.486Z",
+  "lastUpdated": "2026-03-12T07:09:02.865Z",
   "articles": [
+    {
+      "title": "Greedy beaver caught twice in monitoring trap",
+      "description": "Rangers in Northumberland say the beavers are doing well after they were caught and checked over....",
+      "link": "https://www.bbc.com/news/articles/cvgvj84ggv7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Mar 2026 06:11:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BLOOMS THE CHEMIST PORT COOGEE JOINS THE B CORP COMMUNITY",
       "description": "As part of B Corp Month, we are proud to announce that Blooms The Chemist Port Coogee has become a B Corp Certified company, joining nearly 750 Austra...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fd7df395d53462497ea664f7e36025bcb2704356/1932_1799_8448_6757/master/8448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=572df27cd1bddd3a65e9b6881b973297"
-    },
-    {
-      "title": "One Year After Green Bank’s Demise, Court Mulls Future of Grant-Based Climate Policy",
-      "description": "One year ago today, Environmental Protection Agency Administrator Lee Zeldin announced he was terminating the Greenhouse Gas Reduction Fund, one of th...",
-      "link": "https://insideclimatenews.org/news/11032026/epa-greenhouse-gas-reduction-fund-court-case/",
-      "pubDate": "Wed, 11 Mar 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
