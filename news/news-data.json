@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-03-11T23:34:50.742Z",
+  "lastUpdated": "2026-03-12T02:48:42.652Z",
   "articles": [
     {
-      "title": "Queensland floods: police believe bodies found are those of missing backpackpackers",
-      "description": "&lt;p&gt;Two international tourists who were travelling to flood-ravaged North Burnett region from Brisbane thought to be first flood-related deaths&l...",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/12/police-believe-bodies-of-missing-backpackpackers-found-in-queensland-floods",
-      "pubDate": "Wed, 11 Mar 2026 23:27:24 GMT",
-      "sourceName": "theguardian.com",
+      "title": "New AEMC rules will reduce the impact of data centres on Australia’s grid",
+      "description": "New draft rules for grid connection, published by the Australian Energy Market Commission (AEMC) today, will reduce the impact of data centres and oth...",
+      "link": "https://econews.com.au/new-aemc-rules-will-reduce-the-impact-of-data-centres-on-australias-grid/",
+      "pubDate": "Thu, 12 Mar 2026 02:00:51 +0000",
+      "sourceName": "econews.com.au",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/8395a1e6670b4ef6bb45c478470807fe0db3ce71/304_0_1440_1152/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41e7d63762a3ac002443a923cf0a6fb7"
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-81.png"
+    },
+    {
+      "title": "Perfectly Matched",
+      "description": "With her signature wit and warmth, author and former Australian of the Year finalist Rachel Jayne Cassidy has released two books in the last twelve mo...",
+      "link": "https://econews.com.au/perfectly-matched/",
+      "pubDate": "Thu, 12 Mar 2026 02:00:47 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Perfectly-Matched-2.jpg"
+    },
+    {
+      "title": "Why Namibia's green energy dream could be a red flag for penguins",
+      "description": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility....",
+      "link": "https://www.bbc.com/news/articles/czj1lkvpzxyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Mar 2026 00:04:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "The Iran War Is Making the Case for Renewable Energy, Experts Argue",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/67b8464ec9717dc3441e1c0ba45f33a45e9dc088/584_0_2916_2333/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e49c1653561f7451840739316d61e9da"
-    },
-    {
-      "title": "Indigenous rangers find rarely seen animals in first camera survey of Truwana",
-      "description": "A blonde echidna and a white-footed dunnart photographed on Truwana/Cape Barren Island © Truwana Rangers WWF-Australia The first camera survey ever co...",
-      "link": "https://econews.com.au/indigenous-rangers-find-rarely-seen-animals-in-first-camera-survey-of-truwana/",
-      "pubDate": "Wed, 11 Mar 2026 03:01:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "On the road to cheaper, safer commutes with CDU’s new research hub",
-      "description": "CDU Senior Lecturer of Engineering Dr Ali Rajabipour will lead the University’s new Centre for Asphalt and Road Technologies (CART). Charles Darwin Un...",
-      "link": "https://econews.com.au/on-the-road-to-cheaper-safer-commutes-with-cdus-new-research-hub/",
-      "pubDate": "Wed, 11 Mar 2026 03:01:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
     }
   ]
 }
