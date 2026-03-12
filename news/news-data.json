@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-12T10:51:28.768Z",
+  "lastUpdated": "2026-03-12T11:37:17.465Z",
   "articles": [
+    {
+      "title": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere",
+      "description": "Much of the Van Allen Probe was expected to burn up in the atmosphere, though Nasa said there was a \"low\" risk of people being struck by surviving com...",
+      "link": "https://www.bbc.com/news/articles/cd9gwdgg38vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Mar 2026 11:23:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "London, San Francisco and Beijing achieve ‘remarkable reductions’ in air pollution",
       "description": "&lt;p&gt;Cycle lanes, electric cars and other interventions have helped 19 global cities slash levels of pollutants by more than 20% &lt;/p&gt;&lt;p&g...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Australian governments subsidising fossil fuel use by more than $30,000 a minute, analysis finds",
-      "description": "&lt;p&gt;Australia Institute data finds state and federal subsidies for coal, gas and oil products increased 10% in past year, growing at a faster pac...",
-      "link": "https://www.theguardian.com/environment/2026/mar/11/australian-governments-subsidising-fossil-fuel-use-by-more-than-30000-a-minute-analysis-finds",
-      "pubDate": "Wed, 11 Mar 2026 14:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/021a7f55848393c4f8f083f0411060acaaee68b4/150_0_2451_1961/master/2451.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26aa507dffe1dc06b4ae85785a90fbc2"
     }
   ]
 }
