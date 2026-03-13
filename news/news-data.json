@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-13T09:51:23.508Z",
+  "lastUpdated": "2026-03-13T10:49:04.031Z",
   "articles": [
+    {
+      "title": "Miliband unveils plans to speed up nuclear power generation for UK",
+      "description": "&lt;p&gt;Ministers face accusations of carrying out ‘irresponsible deregulation’ as they push through ‘clean energy’ proposals&lt;/p&gt;&lt;p&gt;Ed Mi...",
+      "link": "https://www.theguardian.com/environment/2026/mar/13/nuclear-power-generation-uk-deregulation-plans-ed-miliband",
+      "pubDate": "Fri, 13 Mar 2026 09:46:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b50960fe75ba50fcc7d18e6beb82e8c061fcacbc/142_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=581471592886183b59cac5a7e0a26939"
+    },
     {
       "title": "China’s Clean Energy Push Has Made It Less Vulnerable to Energy Shocks, Including the Iran War",
       "description": "When Gary Dirks arrived in China in 1995, the country’s government was looking to source more of its energy at home. Dirks was the incoming country he...",
@@ -166,18 +175,9 @@
     {
       "title": "BBC Inside Science",
       "description": "New research on what three very hot years can tell us about climate change....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty3?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 12 Mar 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Warming Waters Threaten Seafood Supply",
-      "description": "In the world’s waters, fish are making a quiet, biological retreat. The once simple rules of the ocean—grow larger than potential predators—are being ...",
-      "link": "https://insideclimatenews.org/news/12032026/warming-waters-threaten-seafood-supply/",
-      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
