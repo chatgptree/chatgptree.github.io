@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-13T13:18:14.281Z",
+  "lastUpdated": "2026-03-13T14:52:42.930Z",
   "articles": [
     {
-      "title": "Miliband unveils plans to speed up nuclear power generation for UK",
-      "description": "&lt;p&gt;Ministers face accusations of carrying out ‘irresponsible deregulation’ as they push through ‘clean energy’ proposals&lt;/p&gt;&lt;p&gt;Ed Mi...",
+      "title": "3G pitch given approval despite pollution fears",
+      "description": "A charity is worried about microplastics but a council says the plans follow environmental guidance....",
+      "link": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Mar 2026 13:46:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Miliband reveals plans that could mean nuclear power plants built near homes",
+      "description": "&lt;p&gt;Changes to regulation to speed up development could also make it easier to build on sensitive nature sites&lt;/p&gt;&lt;p&gt;Ed Miliband has ...",
       "link": "https://www.theguardian.com/environment/2026/mar/13/nuclear-power-generation-uk-deregulation-plans-ed-miliband",
       "pubDate": "Fri, 13 Mar 2026 13:03:10 GMT",
       "sourceName": "theguardian.com",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/12032026/trump-brownsville-texas-oil-refinery/",
       "pubDate": "Thu, 12 Mar 2026 22:26:47 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis II: Nasa targets early April for Moon mission",
-      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch. \n...",
-      "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Mar 2026 21:21:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
