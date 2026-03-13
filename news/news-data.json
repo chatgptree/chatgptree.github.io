@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-13T22:36:03.955Z",
+  "lastUpdated": "2026-03-13T23:38:49.573Z",
   "articles": [
+    {
+      "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
+      "description": "Storm Claudia devastated residents in Monmouth, with many still living with the damage....",
+      "link": "https://www.bbc.com/news/articles/c5ykkvn6pqgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Mar 2026 22:58:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Summer in March? Unusual Heat Wave Descends on Already Parched Western U.S.",
       "description": "An early-season heat wave is descending across the Western United States, likely to bring record-shattering temperatures to much of the region.&#160; ...",
@@ -155,31 +164,22 @@
       "image": "https://i.guim.co.uk/img/media/f0f1aec6393732c1fbd14d8cacf0229803e033bd/186_26_1743_1394/master/1743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fab158ee141904955e100d5ae41724ad"
     },
     {
-      "title": "Global renewable energy installed capacity to double to 8.4TW by 2031, forecasts GlobalData",
-      "description": "Global renewable energy installed capacity is set to expand at a rapid pace over the next five years, driven by the high scalability of solar PV deplo...",
-      "link": "https://econews.com.au/global-renewable-energy-installed-capacity-to-double-to-8-4tw-by-2031-forecasts-globaldata/",
-      "pubDate": "Fri, 13 Mar 2026 04:00:51 +0000",
-      "sourceName": "econews.com.au",
+      "title": "Virginia Democrats Fail to Reach Compromise on Data Center Tax Exemption",
+      "description": "RICHMOND, Va.—Virginia lawmakers under Democratic control failed to produce a budget on schedule Thursday because of heightened debates over a tax exe...",
+      "link": "https://insideclimatenews.org/news/12032026/virginia-democrats-fail-to-reach-compromise-on-data-center-tax-exemption/",
+      "pubDate": "Fri, 13 Mar 2026 02:16:46 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-84-1024x576.png"
+      "image": "../images/header2.jpg"
     },
     {
-      "title": "1KOMMA5° introduces energy optimisation platform Heartbeat AI in Australia, accelerating battery payback for homeowners by up to $1,500 annually",
-      "description": "Heartbeat AI optimises home solar and battery systems, automatically trading energy on the wholesale electricity market on behalf of households, makin...",
-      "link": "https://econews.com.au/1komma5-introduces-energy-optimisation-platform-heartbeat-ai-in-australia-accelerating-battery-payback-for-homeowners-by-up-to-1500-annually/",
-      "pubDate": "Fri, 13 Mar 2026 04:00:50 +0000",
-      "sourceName": "econews.com.au",
+      "title": "Alabama Poised to Drastically Overhaul Utility Regulation. Will It Lower Electric Bills?",
+      "description": "MONTGOMERY, Ala.—High electricity costs have been the talk of the session in the Alabama Legislature, and the state seems poised to totally revamp its...",
+      "link": "https://insideclimatenews.org/news/12032026/alabama-public-service-commission-utility-regulation-electric-bills/",
+      "pubDate": "Fri, 13 Mar 2026 00:37:17 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/1komma5grad_logo-1024x558.jpeg"
-    },
-    {
-      "title": "Australia mapped into global sharks and rays database",
-      "description": "The juvenile Largetooth Sawfish is found in northern Australia. Picture Credit: Peter Kyne Charles Darwin University A global database documenting the...",
-      "link": "https://econews.com.au/australia-mapped-into-global-sharks-and-rays-database/",
-      "pubDate": "Fri, 13 Mar 2026 04:00:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
+      "image": "../images/header2.jpg"
     }
   ]
 }
