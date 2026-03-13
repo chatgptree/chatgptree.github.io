@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-03-13T11:37:59.440Z",
+  "lastUpdated": "2026-03-13T13:18:14.281Z",
   "articles": [
     {
       "title": "Miliband unveils plans to speed up nuclear power generation for UK",
       "description": "&lt;p&gt;Ministers face accusations of carrying out ‘irresponsible deregulation’ as they push through ‘clean energy’ proposals&lt;/p&gt;&lt;p&gt;Ed Mi...",
       "link": "https://www.theguardian.com/environment/2026/mar/13/nuclear-power-generation-uk-deregulation-plans-ed-miliband",
-      "pubDate": "Fri, 13 Mar 2026 09:46:32 GMT",
+      "pubDate": "Fri, 13 Mar 2026 13:03:10 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b50960fe75ba50fcc7d18e6beb82e8c061fcacbc/142_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=581471592886183b59cac5a7e0a26939"
+    },
+    {
+      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Mar 2026 12:42:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Who are the key figures in the sewage crisis, and where are they now?",
+      "description": "&lt;p&gt;With anger stoked by Channel 4’s drama Dirty Business, we look at what has happened to some of the main players&lt;/p&gt;&lt;p&gt;Water compa...",
+      "link": "https://www.theguardian.com/environment/2026/mar/13/who-are-the-key-figures-in-the-sewage-crisis-and-where-are-they-now",
+      "pubDate": "Fri, 13 Mar 2026 12:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/06fca14e31a5ae54fe383bac1686cf8d78b59b63/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8ff8de3ec37c8ace7c13dc44dcf02ec"
+    },
+    {
+      "title": "Trump policies set to increase rates of lung disease and death, study finds",
+      "description": "&lt;p&gt;Experts warn of ‘attack on Americans’ lungs’ from cuts to health programs, environmental rollbacks and other plans&lt;/p&gt;&lt;p&gt;&lt;a hr...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/13/trump-policies-lung-disease-death",
+      "pubDate": "Fri, 13 Mar 2026 12:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/96006b0c0469c51c03127d2e4cd14049671c4c41/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ee208609cdf3974c129f4ab300f9093"
     },
     {
       "title": "China’s Clean Energy Push Has Made It Less Vulnerable to Energy Shocks, Including the Iran War",
@@ -150,33 +177,6 @@
       "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch. \n...",
       "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 12 Mar 2026 21:21:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis II: Nasa targets early April for Moon mission",
-      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch. \n...",
-      "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Mar 2026 21:21:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis II: Nasa targets early April for Moon mission",
-      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch. \n...",
-      "link": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Mar 2026 21:21:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "New research on what three very hot years can tell us about climate change....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty3?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Mar 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
