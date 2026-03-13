@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-13T20:46:36.271Z",
+  "lastUpdated": "2026-03-13T21:41:25.948Z",
   "articles": [
+    {
+      "title": "EPA chief met with Bayer CEO over supreme court fight, agency records show",
+      "description": "&lt;p&gt;Top US regulators met with Bill Anderson to discuss ‘supreme court action’ over glyphosate weed killer&lt;/p&gt;&lt;p&gt;Top US regulators me...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/12/epa-chief-bayer-ceo-supreme-court",
+      "pubDate": "Fri, 13 Mar 2026 21:24:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bd37aa155d431fdf01ce8808593d0782305ae64e/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50831cdf415efd49ff6938fa6c366c59"
+    },
+    {
+      "title": "Trump EPA moves to repeal regulation of cancer-linked chemical ethylene oxide",
+      "description": "The repeal loosens standards for roughly 90 sterilization facilities that emit the toxic chemical in neighborhoods across the country....",
+      "link": "https://grist.org/regulation/trump-epa-ethylene-oxide/",
+      "pubDate": "Fri, 13 Mar 2026 20:49:38 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Austrian glaciers disintegrating due to climate change, say scientists",
       "description": "Scientists say nearly all of the significant glaciers in the Austrian Alps have shrunk....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/image002-9.jpg"
-    },
-    {
-      "title": "James Dyson Award 2026: Calling the next generation of problem-solvers",
-      "description": "  The James Dyson Award, a global design engineering competition that has supported more than 400 inventions, opens for submissions today for 2026. Th...",
-      "link": "https://econews.com.au/james-dyson-award-2026-calling-the-next-generation-of-problem-solvers/",
-      "pubDate": "Fri, 13 Mar 2026 03:00:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/JDA-logo-blue.png"
-    },
-    {
-      "title": "Virginia Democrats Fail to Reach Compromise on Data Center Tax Exemption",
-      "description": "RICHMOND, Va.—Virginia lawmakers under Democratic control failed to produce a budget on schedule Thursday because of heightened debates over a tax exe...",
-      "link": "https://insideclimatenews.org/news/12032026/virginia-democrats-fail-to-reach-compromise-on-data-center-tax-exemption/",
-      "pubDate": "Fri, 13 Mar 2026 02:16:46 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
