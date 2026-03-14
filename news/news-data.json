@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-14T07:00:25.029Z",
+  "lastUpdated": "2026-03-14T08:48:05.340Z",
   "articles": [
+    {
+      "title": "The Fight Over Logging on U.S. Public Lands Isn’t Done Yet",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Timothy Ingalsbee,...",
+      "link": "https://insideclimatenews.org/news/14032026/the-fight-over-logging-on-u-s-public-lands-isnt-done-yet/",
+      "pubDate": "Sat, 14 Mar 2026 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How reintroducing beavers is changing our landscape",
+      "description": "Four pairs of beavers were released into the Par and Fowey river catchment in February....",
+      "link": "https://www.bbc.com/news/articles/cn5ggx7xkpyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Mar 2026 07:23:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
+      "description": "Storm Claudia devastated residents in Monmouth, with many still living with the damage....",
+      "link": "https://www.bbc.com/news/articles/c5ykkvn6pqgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Mar 2026 07:19:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Drinking from a fetid pond’: superbug-creating genes found in UK’s largest lake",
       "description": "&lt;p&gt;Exclusive: Lough Neagh, which supplies drinking water for 40% of NI, contains genes resistant to last-resort antibiotics&lt;/p&gt;&lt;p&gt;Ge...",
@@ -16,15 +43,6 @@
       "link": "https://insideclimatenews.org/news/13032026/pennsylvania-radioactivity-landfill-runoff-study/",
       "pubDate": "Sat, 14 Mar 2026 00:30:04 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
-      "description": "Storm Claudia devastated residents in Monmouth, with many still living with the damage....",
-      "link": "https://www.bbc.com/news/articles/c5ykkvn6pqgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Mar 2026 22:58:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d91838c07def596f8bb95d565934b25a68e3a428/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29532bd56f04307ba5db0a5ddb8ba8b3"
-    },
-    {
-      "title": "Nearly three-quarters of England’s woods inaccessible to public, study finds",
-      "description": "&lt;p&gt;Exclusive: Campaigners call for government to introduce right-to-roam bill that allows people to walk around their local woodlands&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/environment/2026/mar/13/nearly-three-quarters-of-englands-woods-inaccessible-to-public-study-finds",
-      "pubDate": "Fri, 13 Mar 2026 05:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f8abfa078012466297b9ced14a281f619414d984/283_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2bdcdbc17d47cd4e1fc496db10a1393"
-    },
-    {
-      "title": "Mining’s toxic timebomb: dams full of poisonous waste are dotted around the world. What happens when they burst?",
-      "description": "&lt;p&gt;While tailings dams are meant to last for ever, extreme weather events are making many unstable – with devastating consequences for nature an...",
-      "link": "https://www.theguardian.com/environment/2026/mar/13/minings-toxic-timebomb-dams-full-of-poisonous-waste-are-dotted-around-the-world-what-happens-when-they-burst-aoe",
-      "pubDate": "Fri, 13 Mar 2026 05:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f0f1aec6393732c1fbd14d8cacf0229803e033bd/186_26_1743_1394/master/1743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fab158ee141904955e100d5ae41724ad"
     }
   ]
 }
