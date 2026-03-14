@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-03-14T08:48:05.340Z",
+  "lastUpdated": "2026-03-14T09:41:55.128Z",
   "articles": [
+    {
+      "title": "Former dairy farm could become peat research centre",
+      "description": "Honeygar Farm is one of the few areas in the UK that still holds deep lowland peatland....",
+      "link": "https://www.bbc.com/news/articles/ce94lz729deo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Mar 2026 09:28:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Habitat Loss Is Eroding Tribal Sovereignty",
+      "description": "Spanning seven U.S. states and one Canadian province, the Columbia River Basin was once the largest salmon-producing river system in the world. Yet, w...",
+      "link": "https://insideclimatenews.org/news/14032026/pacific-northwest-salmon-habitat-loss-tribes/",
+      "pubDate": "Sat, 14 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Latest Front in the Battle Over Climate Lawsuits: Bills Wiping Out Liability",
+      "description": "Republican lawmakers in multiple states and Congress are advancing proposals to shield polluters from climate accountability and prevent any type of l...",
+      "link": "https://insideclimatenews.org/news/14032026/republican-legislation-shielding-polluters-from-climate-lawsuits/",
+      "pubDate": "Sat, 14 Mar 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A New Era of Data Center Development Is Like a Second Industrial Revolution",
+      "description": "For its first three decades, the data center industry was not used to the limelight, quietly building server closets in office basements and later the...",
+      "link": "https://insideclimatenews.org/news/14032026/data-center-development-energy/",
+      "pubDate": "Sat, 14 Mar 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Fight Over Logging on U.S. Public Lands Isn’t Done Yet",
       "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Timothy Ingalsbee,...",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘We Live in One Ocean’: Native Hawaiian Activist Calls for Inclusion in Deep-Sea Mining Decisions",
-      "description": "This week, delegates from around the world gathered at the International Seabed Authority’s headquarters in Kingston, Jamaica, to continue ongoing neg...",
-      "link": "https://insideclimatenews.org/news/13032026/native-hawaiian-activist-deep-sea-mining-regulations/",
-      "pubDate": "Fri, 13 Mar 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the humble hornwort could supercharge agriculture",
-      "description": "Scientists studying the plant have discovered a new way to boost the efficiency of rubisco — the enzyme that powers life on Earth — and hope to transf...",
-      "link": "https://grist.org/food-and-agriculture/how-the-humble-hornwort-could-supercharge-agriculture/",
-      "pubDate": "Fri, 13 Mar 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/Steinberg-Hart_Santa-Clara-Agrihood_Kyle-Jeffers-15_website.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Week in wildlife: a wet macaque, four little pigs and a stowaway fox",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/mar/13...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/mar/13/week-in-wildlife-a-wet-macaque-four-little-pigs-and-a-stowaway-fox",
-      "pubDate": "Fri, 13 Mar 2026 07:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4c4ce074fd22a77570d9a3ee70f018e0503ca8c8/1716_983_1795_1437/master/1795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8469396b9b2294f2b6f4c8398d95522d"
-    },
-    {
-      "title": "UK energy prices are soaring – and propagandists want to sell you a false reason why | George Monbiot",
-      "description": "&lt;p&gt;The war on Iran has put fossil-fuel prices centre stage, but don’t believe those who tout ‘maximising the North Sea’ as our salvation&lt;/p&g...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/13/uk-energy-prices-soaring-war-iran-fossil-fuel-north-sea",
-      "pubDate": "Fri, 13 Mar 2026 06:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d91838c07def596f8bb95d565934b25a68e3a428/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29532bd56f04307ba5db0a5ddb8ba8b3"
     }
   ]
 }
