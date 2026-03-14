@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-13T23:38:49.573Z",
+  "lastUpdated": "2026-03-14T02:44:51.664Z",
   "articles": [
+    {
+      "title": "Pennsylvania Publishes Long-Awaited Study on Radioactivity in Landfill Runoff",
+      "description": "A decade ago, Pennsylvania’s Department of Environmental Protection published a study on radioactivity in the oil and gas industry, motivated by fears...",
+      "link": "https://insideclimatenews.org/news/13032026/pennsylvania-radioactivity-landfill-runoff-study/",
+      "pubDate": "Sat, 14 Mar 2026 00:30:04 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
       "description": "Storm Claudia devastated residents in Monmouth, with many still living with the damage....",
@@ -164,22 +173,13 @@
       "image": "https://i.guim.co.uk/img/media/f0f1aec6393732c1fbd14d8cacf0229803e033bd/186_26_1743_1394/master/1743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fab158ee141904955e100d5ae41724ad"
     },
     {
-      "title": "Virginia Democrats Fail to Reach Compromise on Data Center Tax Exemption",
-      "description": "RICHMOND, Va.—Virginia lawmakers under Democratic control failed to produce a budget on schedule Thursday because of heightened debates over a tax exe...",
-      "link": "https://insideclimatenews.org/news/12032026/virginia-democrats-fail-to-reach-compromise-on-data-center-tax-exemption/",
-      "pubDate": "Fri, 13 Mar 2026 02:16:46 +0000",
-      "sourceName": "insideclimatenews.org",
+      "title": "Global renewable energy installed capacity to double to 8.4TW by 2031, forecasts GlobalData",
+      "description": "Global renewable energy installed capacity is set to expand at a rapid pace over the next five years, driven by the high scalability of solar PV deplo...",
+      "link": "https://econews.com.au/global-renewable-energy-installed-capacity-to-double-to-8-4tw-by-2031-forecasts-globaldata/",
+      "pubDate": "Fri, 13 Mar 2026 04:00:51 +0000",
+      "sourceName": "econews.com.au",
       "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Alabama Poised to Drastically Overhaul Utility Regulation. Will It Lower Electric Bills?",
-      "description": "MONTGOMERY, Ala.—High electricity costs have been the talk of the session in the Alabama Legislature, and the state seems poised to totally revamp its...",
-      "link": "https://insideclimatenews.org/news/12032026/alabama-public-service-commission-utility-regulation-electric-bills/",
-      "pubDate": "Fri, 13 Mar 2026 00:37:17 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-84-1024x576.png"
     }
   ]
 }
