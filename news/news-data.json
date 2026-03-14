@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-14T13:10:14.622Z",
+  "lastUpdated": "2026-03-14T14:37:48.102Z",
   "articles": [
+    {
+      "title": "Germany misses climate targets as emissions barely fall in 2025",
+      "description": "&lt;p&gt;Greenhouse gases dropped just 0.1% last year as environment minister criticises lack of improvement&lt;/p&gt;&lt;p&gt;Greenhouse gas emission...",
+      "link": "https://www.theguardian.com/world/2026/mar/14/germany-misses-climate-targets-as-emissions-barely-fall-in-2025",
+      "pubDate": "Sat, 14 Mar 2026 13:04:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d0b4477f5c18181777cdb9e7dbf3d81887678c2f/498_0_3510_2808/master/3510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e8e93778db7ed07535ad438abb1647c"
+    },
     {
       "title": "Mining rush for critical minerals threatens Amazon land reform settlements",
       "description": "A survey of mining records found dozens of requests for copper, manganese, and nickel targeting land reform settlements in northern Brazil’s Carajás r...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b50960fe75ba50fcc7d18e6beb82e8c061fcacbc/142_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=581471592886183b59cac5a7e0a26939"
-    },
-    {
-      "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-      "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Mar 2026 12:42:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
