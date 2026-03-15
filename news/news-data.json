@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-15T07:09:39.064Z",
+  "lastUpdated": "2026-03-15T08:49:42.474Z",
   "articles": [
+    {
+      "title": "Funding for green community initiatives",
+      "description": "Staffordshire Moorlands District Council says projects can receive up to £5.000....",
+      "link": "https://www.bbc.com/news/articles/cx2gvw1z2gwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Mar 2026 07:32:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The astronaut who took one giant leap for Manx-kind",
+      "description": "Retired astronaut Nicole Stott says being in space \"does make you look at Earth differently\"....",
+      "link": "https://www.bbc.com/news/articles/cpqw0w0819yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Mar 2026 07:30:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "APCO and SPSA partner to accelerate Australia’s soft plastics stewardship pathway",
       "description": "New partnership gives brands and retailers a clear, practical route into soft plastics stewardship as collection and recycling pathways expand. The Au...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bd37aa155d431fdf01ce8808593d0782305ae64e/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50831cdf415efd49ff6938fa6c366c59"
-    },
-    {
-      "title": "Trump EPA moves to repeal regulation of cancer-linked chemical ethylene oxide",
-      "description": "The repeal loosens standards for roughly 90 sterilization facilities that emit the toxic chemical in neighborhoods across the country....",
-      "link": "https://grist.org/regulation/trump-epa-ethylene-oxide/",
-      "pubDate": "Fri, 13 Mar 2026 20:49:38 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/04/4-14-25-Cardinal-Health-Warehouse-Photos-IPA-956.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Austrian glaciers disintegrating due to climate change, say scientists",
-      "description": "Scientists say nearly all of the significant glaciers in the Austrian Alps have shrunk....",
-      "link": "https://www.bbc.com/news/articles/cd038pgrr1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Mar 2026 19:09:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
