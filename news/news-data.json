@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-14T23:38:22.502Z",
+  "lastUpdated": "2026-03-15T03:24:07.872Z",
   "articles": [
+    {
+      "title": "Officials could gain police-style powers to tackle fly-tippers",
+      "description": "The move would allow officers to search premises without a warrant, seize assets and arrest those suspected of criminality....",
+      "link": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Mar 2026 03:09:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Germany misses climate targets as emissions barely fall in 2025",
       "description": "&lt;p&gt;Greenhouse gases dropped just 0.1% last year as environment minister criticises lack of improvement&lt;/p&gt;&lt;p&gt;Greenhouse gas emission...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Miliband reveals plans that could mean nuclear power plants built near homes",
-      "description": "&lt;p&gt;Changes to regulation to speed up development could also make it easier to build on sensitive nature sites&lt;/p&gt;&lt;p&gt;Ed Miliband has ...",
-      "link": "https://www.theguardian.com/environment/2026/mar/13/nuclear-power-generation-uk-deregulation-plans-ed-miliband",
-      "pubDate": "Fri, 13 Mar 2026 13:03:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b50960fe75ba50fcc7d18e6beb82e8c061fcacbc/142_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=581471592886183b59cac5a7e0a26939"
     }
   ]
 }
