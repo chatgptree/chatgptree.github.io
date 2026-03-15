@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-15T09:43:34.458Z",
+  "lastUpdated": "2026-03-15T10:39:27.978Z",
   "articles": [
+    {
+      "title": "Can scientists really resurrect the dodo? Inside the company that says they can",
+      "description": "&lt;p&gt;Colossal Biosciences’ CEO says its work follows a ‘moral obligation’ while critics say it’s ‘tech bro’ hype that could undermine conservation...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/15/colossal-biosciences-resurrects-dire-wolf",
+      "pubDate": "Sun, 15 Mar 2026 10:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a811f90514c327f2ba32c397fae02f6dc68cd262/268_0_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c84c6dd75348734edd1b53ab55c8ea3b"
+    },
     {
       "title": "Nation’s First Critical Minerals Mine Nears Approval in Biodiversity Hotspot",
       "description": "PATAGONIA,&#160; Ariz.—The U.S. Forest Service on March 5 announced it plans to soon approve the nation’s first critical minerals mine, South32’s Herm...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Drinking from a fetid pond’: superbug-creating genes found in UK’s largest lake",
-      "description": "&lt;p&gt;Exclusive: Lough Neagh, which supplies drinking water for 40% of NI, contains genes resistant to last-resort antibiotics&lt;/p&gt;&lt;p&gt;Ge...",
-      "link": "https://www.theguardian.com/environment/2026/mar/14/lough-neagh-northern-ireland-genes-antibiotic-resistance-superbugs",
-      "pubDate": "Sat, 14 Mar 2026 05:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/790d3464f0381091f3ca14219ddaea5a756e200b/177_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9396b28e9aa750896a1e12cc5add0a01"
     }
   ]
 }
