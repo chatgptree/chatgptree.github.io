@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-16T15:10:45.390Z",
+  "lastUpdated": "2026-03-16T17:12:53.215Z",
   "articles": [
+    {
+      "title": "Realtime pollution alerts needed on Windermere, campaigners say after boy nearly dies",
+      "description": "&lt;p&gt;Exclusive: Claire Earley’s son Rex spent six weeks in hospital after contracting E coli from contaminated lake&lt;/p&gt;&lt;p&gt;Realtime pol...",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/16/realtime-pollution-alerts-windermere-campaigners-say-boy-nearly-dies",
+      "pubDate": "Mon, 16 Mar 2026 16:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0e58c2558cb5004227179c20c2f559d256a1bda6/1492_1236_5657_4524/master/5657.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffa366931cae73ee4bd285a5a2e8da18"
+    },
     {
       "title": "Replacing 1m petrol cars with EVs could cut Australia’s reliance on foreign fuel by 1bn litres a year",
       "description": "&lt;p&gt;Electric vehicles reduce exposure to global oil price shocks and shift energy consumption to electricity largely produced domestically, exper...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Can scientists really resurrect the dodo? Inside the company that says it can",
-      "description": "&lt;p&gt;Colossal Biosciences’ CEO says its work follows a ‘moral obligation’ while critics say it’s ‘tech bro’ hype that could undermine conservation...",
-      "link": "https://www.theguardian.com/us-news/2026/mar/15/colossal-biosciences-resurrects-dire-wolf",
-      "pubDate": "Sun, 15 Mar 2026 10:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a811f90514c327f2ba32c397fae02f6dc68cd262/268_0_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c84c6dd75348734edd1b53ab55c8ea3b"
     }
   ]
 }
