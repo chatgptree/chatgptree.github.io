@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-17T09:03:28.179Z",
+  "lastUpdated": "2026-03-17T10:59:06.368Z",
   "articles": [
+    {
+      "title": "After Trump’s Interior Secretary Transferred Thousands of Staff to His Office, Chaos Followed, Former Workers Say",
+      "description": "One year into President Donald Trump’s second term, the Department of the Interior is in turmoil, hobbling many of the agencies overseeing the country...",
+      "link": "https://insideclimatenews.org/news/17032026/trump-interior-department-staffing-cuts/",
+      "pubDate": "Tue, 17 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Water Shortage May Hit Corpus Christi Within Weeks",
       "description": "EDNA, Texas—Water shortages could hit Corpus Christi within weeks when contract terms mandate a 10 percent reduction in the city’s draw from its large...",
@@ -45,6 +54,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/GettyImages-2222873045.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Quantum computing and AI to get £2.5bn to stop UK tech 'drifting abroad', Reeves vows",
+      "description": "The chancellor tells the BBC she wants the \"pattern to end\" while also pledging closer ties with the EU....",
+      "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Mar 2026 07:19:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "A total hoot! Beautiful birds – in pictures",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9c33a45506d712ff7712cd755dcf578523ed73dd/0_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28513b461d9253b7e2e0d26507960d83"
-    },
-    {
-      "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
-      "description": "&lt;p&gt;Food production in many African countries depends heavily on fertiliser imported from the Gulf through the strait of Hormuz&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
-      "pubDate": "Mon, 16 Mar 2026 12:03:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fa81fc42379948c4b6690e30bb32125e47610f69/288_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40ce575df3662562f10597012a8045cb"
-    },
-    {
-      "title": "‘We cannot replace USAID, but we can do big things’: conservation plots a future without American money",
-      "description": "&lt;p&gt;The Trump administration’s cuts to biodiversity funding have imperiled species, habitats and the people who defend both. Now the world is see...",
-      "link": "https://www.theguardian.com/environment/2026/mar/16/conservation-trump-cuts-natural-world-usaid-funding-biodiversity-aoe",
-      "pubDate": "Mon, 16 Mar 2026 12:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67d6c98a6f3993696f9f5b2f90ba0ed3f0d5f9ec/252_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d60e1ca591bf73a0b7042e4d3826a86b"
     }
   ]
 }
