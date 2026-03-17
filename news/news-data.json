@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "2026-03-17T13:43:00.044Z",
+  "lastUpdated": "2026-03-17T15:05:42.389Z",
   "articles": [
     {
+      "title": "Quantum computing and AI to get £2.5bn to stop UK tech 'drifting abroad', Reeves vows",
+      "description": "The chancellor tells the BBC she wants the \"pattern to end\" while also pledging closer ties with the EU....",
+      "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Mar 2026 14:45:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Australia’s environment minister wants to ban fishers and drillers from more ocean – and avoid a culture war",
+      "description": "&lt;p&gt;Conservationists hope Murray Watt’s review of national marine parks will ‘right the wrongs’ of previous downgrade of protection&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/environment/2026/mar/17/australia-environment-murray-watt-ocean-protection-fishers-drillers",
+      "pubDate": "Tue, 17 Mar 2026 14:00:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/56e83d005ef92a3e07f7cb1c3a52364b43044aaa/81_0_2880_2304/master/2880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1649adfcbf8c893fe5d890f658cd6d29"
+    },
+    {
+      "title": "Surfing’s big break: how climate crisis insurance may save El Salvador’s waves",
+      "description": "&lt;p&gt;Fearing that extreme weather threatened its epic breaks, Oriente Salvaje is piloting the first surf insurance policy to protect livelihoods a...",
+      "link": "https://www.theguardian.com/environment/2026/mar/17/surfing-breaks-climate-crisis-insurance-el-salvador-waves",
+      "pubDate": "Tue, 17 Mar 2026 14:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1f780f4e0567bfdbc71f97c262bd2c4080b9e703/325_117_4238_3391/master/4238.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbceacb9cd4dac192ffc6071d94f6d92"
+    },
+    {
       "title": "How Pakistan’s people-led solar boom is easing impact of Middle East energy crisis",
-      "description": "&lt;p&gt;Falling costs and government incentives made solar an attractive option for many, which has reduced need for gas&lt;/p&gt;&lt;p&gt;After pric...",
+      "description": "&lt;p&gt;Falling costs and government incentives make solar an attractive option for many, reducing need for gas&lt;/p&gt;&lt;p&gt;After prices of liq...",
       "link": "https://www.theguardian.com/environment/2026/mar/17/pakistan-people-led-solar-boom-middle-east-energy-crisis",
       "pubDate": "Tue, 17 Mar 2026 13:00:47 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3650261713d235ac171f3868de047d19689b553a/553_0_3862_3091/master/3862.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b74bc324d5b1529936eb75f419c86994"
-    },
-    {
-      "title": "Quantum computing and AI to get £2.5bn to stop UK tech 'drifting abroad', Reeves vows",
-      "description": "The chancellor tells the BBC she wants the \"pattern to end\" while also pledging closer ties with the EU....",
-      "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Mar 2026 12:50:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "What are El Niño and La Niña, and how do they change the weather?",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6dec7ec31f135d8d2cec610c65e229cbe80c5540/585_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=684a4d2fde7e46527382838aecacd06e"
-    },
-    {
-      "title": "Iran War Shows That Doubling Down on Fossil Fuels Is ‘Delusional,’ UN Climate Chief Says",
-      "description": "The Iran war’s disruption to the global energy market should be a wake-up call for countries that continue to rely on fossil fuels, said United Nation...",
-      "link": "https://insideclimatenews.org/news/16032026/un-climate-chief-iran-war-fossil-fuel-dependency/",
-      "pubDate": "Mon, 16 Mar 2026 21:51:49 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on SUVs: London’s mayor is right to push back on supersize cars | Editorial",
-      "description": "&lt;p&gt;Huge vehicles are popular with drivers, but their wider impacts on road safety and the environment must be tackled&lt;/p&gt;&lt;p&gt;No one w...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/16/guardian-view-suvs-london-mayor-supersize-car-environment",
-      "pubDate": "Mon, 16 Mar 2026 18:40:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/775d36102c5a904118c1b3e2b533d5a6a231b07e/644_0_6440_5152/master/6440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a025e3926e6b56ca9bdb5ffb0a9a8f5a"
     }
   ]
 }
