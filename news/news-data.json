@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-17T19:14:07.307Z",
+  "lastUpdated": "2026-03-17T20:50:49.926Z",
   "articles": [
+    {
+      "title": "Moment suspected meteor is spotted from Ohio and Pennsylvania",
+      "description": "The fireball, which Nasa confirmed to have fallen near Cleveland, broke the sound barrier and caused a kaboom as it landed....",
+      "link": "https://www.bbc.com/news/videos/cewzw221wn5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Mar 2026 20:46:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Democrats urge windfall tax as big oil set to make billions from Iran war",
+      "description": "&lt;p&gt;Progressive and green groups join call for tax on major fossil-fuel companies to help offset rising living costs&lt;/p&gt;&lt;p&gt;With big o...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/17/democrats-windfall-tax-fossil-fuel-companies-iran-war",
+      "pubDate": "Tue, 17 Mar 2026 20:24:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/77a6af395f9e4ff56d41fa10439ffc10257c2269/424_0_2704_2165/master/2704.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5cbea1ff27434220424afaeaa53f4fa"
+    },
+    {
+      "title": "Oil flows again through controversial California pipeline after Trump order",
+      "description": "&lt;p&gt;Pipeline, closed since 2015 after huge oil spill, reopens after president cites need to boost US supply amid war on Iran&lt;/p&gt;&lt;p&gt;Oi...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/17/oil-california-pipeline-iran",
+      "pubDate": "Tue, 17 Mar 2026 19:27:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5681f16790991775d48fab40bdf6ca2b10e5872a/348_0_4695_3759/master/4695.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=42939a77088e33ad14a4220991ba187b"
+    },
     {
       "title": "Mayors to gain more spending power under Reeves tax plans",
       "description": "The chancellor sets out the government's plan for economic growth, which also includes closer ties to the EU....",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "B Lab opens new B Corp standards to businesses worldwide",
-      "description": "At a time when corporate sustainability claims face growing scrutiny from regulators, investors and consumers, B Lab has officially opened its new sta...",
-      "link": "https://econews.com.au/b-lab-opens-new-b-corp-standards-to-businesses-worldwide/",
-      "pubDate": "Tue, 17 Mar 2026 03:00:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Fusion Signage achieves SOC 2 Type II attestation and launches Trust Centre",
-      "description": "In a major achievement Fusion Signage, often referred to as Australia’s user-friendliest digital signage software, has officially achieved SOC 2 Type ...",
-      "link": "https://econews.com.au/fusion-signage-achieves-soc-2-type-ii-attestation-and-launches-trust-centre/",
-      "pubDate": "Tue, 17 Mar 2026 03:00:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/image002-10.jpg"
-    },
-    {
-      "title": "Reduced physical activity due to global heating will lead to rise in health issues, study says",
-      "description": "&lt;p&gt;Researchers project that reduced activity could contribute to half a million additional premature deaths annually by 2050&lt;/p&gt;&lt;p&gt;R...",
-      "link": "https://www.theguardian.com/environment/2026/mar/16/reduced-physical-activity-due-to-global-heating-rise-health-issues-study",
-      "pubDate": "Mon, 16 Mar 2026 23:30:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6dec7ec31f135d8d2cec610c65e229cbe80c5540/585_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=684a4d2fde7e46527382838aecacd06e"
     }
   ]
 }
