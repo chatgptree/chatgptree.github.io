@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-18T20:49:44.728Z",
+  "lastUpdated": "2026-03-18T21:43:44.840Z",
   "articles": [
+    {
+      "title": "House Democrats Want Clean Energy Tax Credits Back",
+      "description": "U.S. House Democrats proposed legislation on Wednesday to restore clean energy tax credits revoked by Republicans last year through the One Big Beauti...",
+      "link": "https://insideclimatenews.org/news/18032026/house-democrats-propose-clean-energy-tax-credits-legislation/",
+      "pubDate": "Wed, 18 Mar 2026 21:26:48 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Higgs boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts",
       "description": "Britain is preparing to cancel its contribution to one of the Large Hadron Collider's next major upgrades....",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Logo_2023_RGB_Blue-1024x395.png"
-    },
-    {
-      "title": "CH4 Global wins global AgTech award for the third straight year",
-      "description": "CH4 Global founder and CEO Dr Steve Meller CH4 Global has been selected as one of the THRIVE Top50 AgTech companies of 2026, an international award re...",
-      "link": "https://econews.com.au/ch4-global-wins-global-agtech-award-for-the-third-straight-year/",
-      "pubDate": "Wed, 18 Mar 2026 02:00:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/CH4Global-logo.png"
     }
   ]
 }
