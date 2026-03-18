@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-03-18T07:13:36.624Z",
+  "lastUpdated": "2026-03-18T09:00:10.712Z",
   "articles": [
+    {
+      "title": "Is your state becoming uninsurable? We have the latest data.",
+      "description": "Home insurance is buckling under climate risk and construction trends. Find out how your state fares....",
+      "link": "https://grist.org/economics/is-your-state-becoming-uninsurable-we-have-the-latest-data/",
+      "pubDate": "Wed, 18 Mar 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/insurify-rates-map-stacked-light.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Big Oil has moved on from &#8216;greenwashing.&#8217; Here&#8217;s the new playbook.",
+      "description": "Over a few years, oil giants went from trumpeting climate pledges to saying fossil fuels are here to stay....",
+      "link": "https://grist.org/language/oil-companies-greenwashing-exxon-bp-shell-research/",
+      "pubDate": "Wed, 18 Mar 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/sign-drought.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Scientists race to decode data from Europe&#8217;s vanishing glaciers",
+      "description": "Glacier ice contains valuable information about the climates of the past. Researchers are scrambling to study it before it's too late....",
+      "link": "https://grist.org/science/scientists-race-to-decode-climate-data-from-europes-vanishing-glaciers/",
+      "pubDate": "Wed, 18 Mar 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/Weisseespitze.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Butterflies crossing oceans, moths navigating by the stars: unravelling the mysteries of insect migrations",
+      "description": "&lt;p&gt;Trillions of insects embark, largely unnoticed, on epic journeys every year across mountain ranges, deserts and seas, and it is only now, as ...",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/mar/18/butterflies-crossing-oceans-moths-navigating-stars-insect-migrations-aoe",
+      "pubDate": "Wed, 18 Mar 2026 08:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/73197113adb96913b54616f0dec4a4fbd526fac9/0_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=754adba417430bc62f550a6df4c0f46f"
+    },
+    {
+      "title": "The Supreme Court takes up a Guam munitions case with high stakes for CHamoru lands",
+      "description": "The ruling won't just dictate the fate of a CHamoru beach. It could set a major precedent for Indigenous rights and federal power across U.S. territor...",
+      "link": "https://grist.org/indigenous/the-supreme-court-takes-up-a-guam-munitions-case-with-high-stakes-for-chamoru-lands/",
+      "pubDate": "Wed, 18 Mar 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Government to lift paywall from large parts of the Land Registry",
       "description": "&lt;p&gt;Exclusive: finding out who owns land will become simpler under plans to make the best use of green spaces and hit net zero targets&lt;/p&gt;&...",
@@ -83,7 +128,7 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
-      "title": "Higgs Boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts",
+      "title": "Higgs boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts",
       "description": "Britain is preparing to cancel its contribution to one of the Large Hadron Collider's next major upgrades....",
       "link": "https://www.bbc.com/news/articles/czr0zmzzp84o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Mar 2026 01:57:13 GMT",
@@ -92,7 +137,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Higgs Boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts",
+      "title": "Higgs boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts",
       "description": "Britain is preparing to cancel its contribution to one of the Large Hadron Collider's next major upgrades....",
       "link": "https://www.bbc.com/news/articles/czr0zmzzp84o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Mar 2026 01:57:13 GMT",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e6f93453a9a79f38f6a7eb715e3ece11861701a1/496_0_6700_5363/master/6700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd2aeb8fd3b2eafe4768317ba68ed8ec"
-    },
-    {
-      "title": "Oil flows again through controversial California pipeline after Trump order",
-      "description": "&lt;p&gt;Pipeline, closed since 2015 after huge oil spill, reopens after president cites need to boost US supply amid war on Iran&lt;/p&gt;&lt;p&gt;Oi...",
-      "link": "https://www.theguardian.com/us-news/2026/mar/17/oil-california-pipeline-iran",
-      "pubDate": "Tue, 17 Mar 2026 19:27:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5681f16790991775d48fab40bdf6ca2b10e5872a/348_0_4695_3759/master/4695.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=42939a77088e33ad14a4220991ba187b"
-    },
-    {
-      "title": "Mayors to gain more spending power under Reeves tax plans",
-      "description": "The chancellor sets out the government's plan for economic growth, which also includes closer ties to the EU....",
-      "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Mar 2026 18:26:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Australia’s environment minister wants to ban fishers and drillers from more ocean – and avoid a culture war",
-      "description": "&lt;p&gt;Conservationists hope Murray Watt’s review of national marine parks will ‘right the wrongs’ of previous downgrade of protection&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/mar/17/australia-environment-murray-watt-ocean-protection-fishers-drillers",
-      "pubDate": "Tue, 17 Mar 2026 14:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/56e83d005ef92a3e07f7cb1c3a52364b43044aaa/81_0_2880_2304/master/2880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1649adfcbf8c893fe5d890f658cd6d29"
-    },
-    {
-      "title": "Surfing’s big break: how climate crisis insurance may save El Salvador’s waves",
-      "description": "&lt;p&gt;Fearing that extreme weather threatened its epic breaks, Oriente Salvaje is piloting the first surf insurance policy to protect livelihoods a...",
-      "link": "https://www.theguardian.com/environment/2026/mar/17/surfing-breaks-climate-crisis-insurance-el-salvador-waves",
-      "pubDate": "Tue, 17 Mar 2026 14:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1f780f4e0567bfdbc71f97c262bd2c4080b9e703/325_117_4238_3391/master/4238.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbceacb9cd4dac192ffc6071d94f6d92"
-    },
-    {
-      "title": "How Pakistan’s people-led solar boom is easing impact of Middle East energy crisis",
-      "description": "&lt;p&gt;Falling costs and government incentives make solar an attractive option for many, reducing need for gas&lt;/p&gt;&lt;p&gt;After prices of liq...",
-      "link": "https://www.theguardian.com/environment/2026/mar/17/pakistan-people-led-solar-boom-middle-east-energy-crisis",
-      "pubDate": "Tue, 17 Mar 2026 13:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3650261713d235ac171f3868de047d19689b553a/553_0_3862_3091/master/3862.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b74bc324d5b1529936eb75f419c86994"
     }
   ]
 }
