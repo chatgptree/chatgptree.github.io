@@ -1,8 +1,17 @@
 {
-  "lastUpdated": "2026-03-18T15:14:05.618Z",
+  "lastUpdated": "2026-03-18T17:12:24.096Z",
   "articles": [
     {
-      "title": "England should give over 7% of land to nature and renewables to meet environmental targets, data shows",
+      "title": "Fly tippers face clearing up own rubbish as punishment",
+      "description": "Fly tippers could face up to 20 hours of community service removing rubbish they have illegally dumped....",
+      "link": "https://www.bbc.com/news/articles/c9dn770n1deo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Mar 2026 16:25:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "England must destine 7% of land to nature and renewables to hit green targets, data shows",
       "description": "&lt;p&gt;Government’s first published land use framework maps how land is used and how it can be adapted to meet changing needs&lt;/p&gt;&lt;p&gt;Abou...",
       "link": "https://www.theguardian.com/environment/2026/mar/18/england-land-use-framework-nature-renewables-environmental-targets",
       "pubDate": "Wed, 18 Mar 2026 14:41:18 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Salvos-Stores.png"
-    },
-    {
-      "title": "Fuel price hikes spark 15% surge in EV quote requests: NRMA Insurance finds",
-      "description": "Rising petrol prices are accelerating interest in electric vehicles (EVs), with new data from NRMA Insurance showing a sharp increase in drivers seeki...",
-      "link": "https://econews.com.au/fuel-price-hikes-spark-15-surge-in-ev-quote-requests-nrma-insurance-finds/",
-      "pubDate": "Wed, 18 Mar 2026 02:00:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/iag-logo.png"
     }
   ]
 }
