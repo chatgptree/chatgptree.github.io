@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-19T20:49:53.194Z",
+  "lastUpdated": "2026-03-19T21:44:07.416Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The UK government announces a £2billion investment in quantum computing....",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Mar 2026 21:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "South Texas Officials Didn’t Know Tesla Was Discharging Lithium Refinery Wastewater Into Local Ditch",
       "description": "The Texas Commission on Environmental Quality on Friday approved an investigation report on Tesla’s battery-grade lithium compounds manufacturing faci...",
@@ -45,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ab4e6bfb4ec550dc758e0b838db31f6ea0180ade/113_11_1197_958/master/1197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d9f47d237ad64f6e1c3690c7f06516"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "The UK government announces a £2billion investment in quantum computing....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Mar 2026 17:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Historic March heatwave pushes south-west US toward triple digits",
