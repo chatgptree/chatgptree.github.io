@@ -1,10 +1,28 @@
 {
-  "lastUpdated": "2026-03-19T21:44:07.416Z",
+  "lastUpdated": "2026-03-19T22:37:39.242Z",
   "articles": [
+    {
+      "title": "Senator Launches Investigation Into Methane Pollution in the Permian Basin",
+      "description": "U.S. Sen. Sheldon Whitehouse (D-RI) launched an investigation into the discrepancy between reported and observed methane pollution from the Permian Ba...",
+      "link": "https://insideclimatenews.org/news/19032026/senator-whitehouse-permian-basin-methane-pollution-investigation/",
+      "pubDate": "Thu, 19 Mar 2026 22:01:32 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump Administration Auctions Contested Arctic Lands for Oil Drilling",
+      "description": "Oil companies won the right to drill on more than 1.3 million acres across the Alaskan Arctic on Wednesday, including areas that local Alaska Native l...",
+      "link": "https://insideclimatenews.org/news/19032026/trump-administration-arctic-oil-drilling-auction/",
+      "pubDate": "Thu, 19 Mar 2026 21:50:58 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "The UK government announces a £2billion investment in quantum computing....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty4?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 19 Mar 2026 21:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -47,13 +65,13 @@
       "image": "https://i.guim.co.uk/img/media/a2ef2f08b978bd0fb5ed785df73dfa1caee98f40/863_0_5160_4128/master/5160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff7225014bfa5d17c8ab61b33662cba0"
     },
     {
-      "title": "Tropical Cyclone Narelle to make landfall in far north Qld on Friday as category 5 storm, bringing 315km/h wind gusts",
+      "title": "‘Damage will be widespread’: Narelle brings 250km/h wind gusts, with tourists evacuated and schools closed",
       "description": "&lt;p&gt;Massive storm tracking a path to Queensland coast, which intensified offshore Thursday morning to category 5, fuelled by warm waters in Coral...",
       "link": "https://www.theguardian.com/australia-news/2026/mar/19/tropical-cyclone-narelle-qld-storm-tracker-path-tracking-map-bom",
       "pubDate": "Thu, 19 Mar 2026 17:50:47 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab4e6bfb4ec550dc758e0b838db31f6ea0180ade/113_11_1197_958/master/1197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d9f47d237ad64f6e1c3690c7f06516"
+      "image": "https://i.guim.co.uk/img/media/4990acfbe98432276b969302455dfd4900498413/110_20_1320_1056/master/1320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=775a293615270aaeea24eb5dbf9c4c7e"
     },
     {
       "title": "Historic March heatwave pushes south-west US toward triple digits",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why $4 gasoline is the tipping point for EVs",
-      "description": "As fuel costs climb, the long-term math shifts toward EVs — but consumer hesitation and infrastructure gaps could slow the transition....",
-      "link": "https://grist.org/energy/why-4-gasoline-is-the-tipping-point-for-evs/",
-      "pubDate": "Thu, 19 Mar 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/Gas-prices-rising.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "UK to cut climate aid to developing countries by 14% to £2bn a year in ‘refocus’",
-      "description": "&lt;p&gt;Move will put national security and lives overseas at risk, critics say, as overall UK aid budget is slashed to 0.3% of gross national income...",
-      "link": "https://www.theguardian.com/environment/2026/mar/19/uk-cut-climate-aid-budget-developing-countries-refocus",
-      "pubDate": "Thu, 19 Mar 2026 07:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/71320ff0b8a265cb6efa750ef1ebf81197359984/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=369306acbcd0f58c8f568a483786370c"
     }
   ]
 }
