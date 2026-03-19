@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-03-19T07:09:02.758Z",
+  "lastUpdated": "2026-03-19T08:54:57.578Z",
   "articles": [
+    {
+      "title": "The AI boom has plunged a small Pennsylvania town into chaos",
+      "description": "Data centers will swallow 14 percent of Archbald, evict a trailer park, and border many residential properties. Who's to blame is a matter of fierce d...",
+      "link": "https://grist.org/energy/the-ai-boom-has-plunged-a-small-pennsylvania-town-into-chaos/",
+      "pubDate": "Thu, 19 Mar 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/Candace2.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The Great Lakes are ideal for wind energy. So where is it?",
+      "description": "Bureaucratic hurdles and high costs have prevented the offshore wind industry from developing the Great Lakes’ abundant wind resources....",
+      "link": "https://grist.org/energy/the-great-lakes-are-ideal-for-wind-energy-so-where-is-it/",
+      "pubDate": "Thu, 19 Mar 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why $4 gasoline is the tipping point for EVs",
+      "description": "As fuel costs climb, the long-term math shifts toward EVs — but consumer hesitation and infrastructure gaps could slow the transition....",
+      "link": "https://grist.org/energy/why-4-gasoline-is-the-tipping-point-for-evs/",
+      "pubDate": "Thu, 19 Mar 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/Gas-prices-rising.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Tropical Cyclone Narelle to make landfall in far north Qld on Friday as category 5 storm, bringing 315km/h wind gusts",
+      "description": "&lt;p&gt;Massive storm tracking a path to Queensland coast, which intensified offshore Thursday morning to category 5, fuelled by warm waters in Coral...",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/19/tropical-cyclone-narelle-qld-storm-tracker-path-tracking-map-bom",
+      "pubDate": "Thu, 19 Mar 2026 07:10:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a5813c473ee1158164e89f06be05422c36ac1c74/159_0_1441_1152/master/1441.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cf6a1bbaef6fac5db7aecb91674aa4e"
+    },
+    {
+      "title": "UK to cut climate aid to developing countries by 14% to £2bn a year in ‘refocus’",
+      "description": "&lt;p&gt;Move will put national security and lives overseas at risk, critics say, as overall UK aid budget is slashed to 0.3% of gross national income...",
+      "link": "https://www.theguardian.com/environment/2026/mar/19/uk-cut-climate-aid-budget-developing-countries-refocus",
+      "pubDate": "Thu, 19 Mar 2026 07:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/71320ff0b8a265cb6efa750ef1ebf81197359984/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=369306acbcd0f58c8f568a483786370c"
+    },
     {
       "title": "Power prices expected to fall by up to 10% from July, bringing ‘welcome relief’ to Australia’s east coast",
       "description": "&lt;p&gt;Increased wind and solar generation, along with falling electricity contract prices, are expected to deliver lower energy bills&lt;/p&gt;&lt;...",
@@ -133,51 +178,6 @@
       "link": "https://www.bbc.com/news/articles/czr0zmzzp84o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Mar 2026 19:40:16 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Damaged Russian tanker carrying natural gas floats into Libyan waters",
-      "description": "&lt;p&gt;Fears of ecological disaster as vessel continues to drift after being struck by suspected drone attack&lt;/p&gt;&lt;p&gt;A severely damaged R...",
-      "link": "https://www.theguardian.com/environment/2026/mar/18/damaged-russian-tanker-carrying-natural-gas-floats-into-libyan-waters",
-      "pubDate": "Wed, 18 Mar 2026 18:51:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c5baa38ee97ea29e3340893bf1544a2bb26693e2/277_0_2607_2085/master/2607.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b08410f7a524622debc9fa5f06bb5d5"
-    },
-    {
-      "title": "Fly tippers face clearing up own rubbish as punishment",
-      "description": "Fly tippers could face up to 20 hours of community service removing rubbish they have illegally dumped....",
-      "link": "https://www.bbc.com/news/articles/c9dn770n1deo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Mar 2026 17:13:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "England must destine 7% of land to nature and renewables to hit green targets, data shows",
-      "description": "&lt;p&gt;Government’s first published land use framework maps how land is used and how it can be adapted to meet changing needs&lt;/p&gt;&lt;p&gt;Abou...",
-      "link": "https://www.theguardian.com/environment/2026/mar/18/england-land-use-framework-nature-renewables-environmental-targets",
-      "pubDate": "Wed, 18 Mar 2026 14:41:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7032c8f102ad47c628e15e3cd6b61d5fe5e1077a/252_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1fefcddc9142cab351596471ff6b1d5e"
-    },
-    {
-      "title": "A New Wine Label Promotes Workers’ Rights",
-      "description": "When Cary Quintana learned about a new initiative to promote fair treatment and safe conditions for vineyard workers, the Northern California winemake...",
-      "link": "https://insideclimatenews.org/news/18032026/california-wine-label-promotes-workers-rights/",
-      "pubDate": "Wed, 18 Mar 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Fight Over New Jersey’s Tough Environmental Justice Law Is Now in the Courts",
-      "description": "When New Jersey’s landmark environmental justice law was enacted in September 2020, there was plenty to celebrate for activists who had fought so hard...",
-      "link": "https://insideclimatenews.org/news/18032026/new-jersey-environmental-justice-law-legal-challenges/",
-      "pubDate": "Wed, 18 Mar 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
