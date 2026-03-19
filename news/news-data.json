@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-03-19T13:25:17.639Z",
+  "lastUpdated": "2026-03-19T14:57:24.950Z",
   "articles": [
+    {
+      "title": "Tropical Cyclone Narelle to make landfall in far north Qld on Friday as category 5 storm, bringing 315km/h wind gusts",
+      "description": "&lt;p&gt;Massive storm tracking a path to Queensland coast, which intensified offshore Thursday morning to category 5, fuelled by warm waters in Coral...",
+      "link": "https://www.theguardian.com/australia-news/2026/mar/19/tropical-cyclone-narelle-qld-storm-tracker-path-tracking-map-bom",
+      "pubDate": "Thu, 19 Mar 2026 14:37:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ab4e6bfb4ec550dc758e0b838db31f6ea0180ade/113_11_1197_958/master/1197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d9f47d237ad64f6e1c3690c7f06516"
+    },
     {
       "title": "King opens world's longest coastal path around England",
       "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.  ...",
       "link": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Mar 2026 13:16:08 GMT",
+      "pubDate": "Thu, 19 Mar 2026 14:34:11 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,7 +23,16 @@
       "title": "King opens world's longest coastal path around England",
       "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.  ...",
       "link": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Mar 2026 13:16:08 GMT",
+      "pubDate": "Thu, 19 Mar 2026 14:34:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Updated plan aims to boost NI's resilience to climate change",
+      "description": "The third climate change adaptation plan for Northern Ireland should have been in place since 2024....",
+      "link": "https://www.bbc.com/news/articles/cgqgq11409lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Mar 2026 14:02:15 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -36,15 +54,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tropical Cyclone Narelle to make landfall in far north Qld on Friday as category 5 storm, bringing 315km/h wind gusts",
-      "description": "&lt;p&gt;Massive storm tracking a path to Queensland coast, which intensified offshore Thursday morning to category 5, fuelled by warm waters in Coral...",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/19/tropical-cyclone-narelle-qld-storm-tracker-path-tracking-map-bom",
-      "pubDate": "Thu, 19 Mar 2026 10:40:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a924882ede0591bc6d0a909fa2a97fdfd048527f/86_0_1216_972/master/1216.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5cceeb9ee99e680401e8922a9d6ce87"
     },
     {
       "title": "In N.C., Stokes County Approves a Data Center Rezoning, Triggering a Citizens’ Lawsuit",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Epson projectors and printers win the iF DESIGN AWARD 2026",
-      "description": "Each year since 1954, iF International Forum Design GmbH, headquartered in Germany, organises the iF DESIGN AWARD, now recognised internationally as o...",
-      "link": "https://econews.com.au/epson-projectors-and-printers-win-the-if-design-award-2026/",
-      "pubDate": "Thu, 19 Mar 2026 01:00:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/image002-11-1024x682.jpg"
     }
   ]
 }
