@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-19T19:10:02.283Z",
+  "lastUpdated": "2026-03-19T20:49:53.194Z",
   "articles": [
+    {
+      "title": "South Texas Officials Didn’t Know Tesla Was Discharging Lithium Refinery Wastewater Into Local Ditch",
+      "description": "The Texas Commission on Environmental Quality on Friday approved an investigation report on Tesla’s battery-grade lithium compounds manufacturing faci...",
+      "link": "https://insideclimatenews.org/news/19032026/tesla-lithium-refinery-wastewater-discharge/",
+      "pubDate": "Thu, 19 Mar 2026 20:11:09 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US states sue Trump EPA over decision to repeal bedrock climate finding",
+      "description": "&lt;p&gt;Lawsuit says rescission of endangerment finding – which ruled greenhouse gases threaten public health – was illegal&lt;/p&gt;&lt;ul&gt;&lt;li...",
+      "link": "https://www.theguardian.com/environment/2026/mar/19/us-states-trump-climate-crisis-endangerment-finding",
+      "pubDate": "Thu, 19 Mar 2026 19:54:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6ab1a02680ade757d710ca7df2f6a53665285f23/155_0_4714_3772/master/4714.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52da3fb2da774eea4146c916e86f0bcc"
+    },
     {
       "title": "US states sue Trump over his move to scrap greenhouse gases ruling",
       "description": "The lawsuit seeks to overturn the Trump administration's reversal last month of the 2009 ruling that underpins all US policies aimed at lowering emiss...",
@@ -31,7 +49,7 @@
     {
       "title": "BBC Inside Science",
       "description": "The UK government announces a £2billion investment in quantum computing....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty4?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 19 Mar 2026 17:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/71320ff0b8a265cb6efa750ef1ebf81197359984/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=369306acbcd0f58c8f568a483786370c"
-    },
-    {
-      "title": "We need to be honest about Iran – and how our rampant greed for oil is causing mayhem | George Monbiot",
-      "description": "&lt;p&gt;Oil has empowered capitalism, and some of the world’s most exploitative regimes. Move away from it and we can solve some of the key issues we...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/19/iran-greed-oil-capitalism-regimes",
-      "pubDate": "Thu, 19 Mar 2026 06:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ef0b643b051ac9346cc917e2f6d30df3ef7f97b2/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e115cfe1c7447c656eab814160ced210"
-    },
-    {
-      "title": "Analytik Jena Celebrates 40 Years of Biometra – A Success Story in Molecular Biology",
-      "description": "The Team – Biometra Analytik Jena, together with its subsidiary Biometra, is celebrating four decades of technological excellence in molecular biology...",
-      "link": "https://econews.com.au/analytik-jena-celebrates-40-years-of-biometra-a-success-story-in-molecular-biology/",
-      "pubDate": "Thu, 19 Mar 2026 05:00:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
