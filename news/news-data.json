@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-20T08:53:24.946Z",
+  "lastUpdated": "2026-03-20T09:53:34.955Z",
   "articles": [
+    {
+      "title": "Georgia Hasn’t Had a Consumer Advocate for Electric Ratepayers for 18 Years",
+      "description": "Eighteen years after Georgia eliminated its consumer utility advocate, the fight to bring the office back recently resurfaced at a Senate hearing. “I’...",
+      "link": "https://insideclimatenews.org/news/20032026/georgia-electric-ratepayers-consumer-advocates/",
+      "pubDate": "Fri, 20 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "On Thin Ice",
       "description": "The growing allure — and danger — of glacier tourism....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d044370aa5f7d5540da5e165a0f45eee4a17d427/186_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=304e5f55f5199bc026b9f3a562ce0e85"
-    },
-    {
-      "title": "Senator Launches Investigation Into Methane Pollution in the Permian Basin",
-      "description": "U.S. Sen. Sheldon Whitehouse (D-RI) launched an investigation into the discrepancy between reported and observed methane pollution from the Permian Ba...",
-      "link": "https://insideclimatenews.org/news/19032026/senator-whitehouse-permian-basin-methane-pollution-investigation/",
-      "pubDate": "Thu, 19 Mar 2026 22:01:32 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
