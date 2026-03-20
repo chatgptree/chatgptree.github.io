@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-20T17:41:47.469Z",
+  "lastUpdated": "2026-03-20T19:01:17.252Z",
   "articles": [
+    {
+      "title": "Arizona desert town breaks record for hottest March temperature in US history",
+      "description": "&lt;p&gt;Martinez Lake, about 145 miles west of Phoenix, reached 110F (43.3C) on Thursday amid scorching south-west heat&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/20/arizona-march-temperature-record",
+      "pubDate": "Fri, 20 Mar 2026 18:22:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/34be92cc31e10dc1d99824e34b1c3185a2005740/2704_1268_5388_4309/master/5388.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c76d94d7a5590f7eab0a92cfd9d9f68"
+    },
+    {
+      "title": "A New Study Links a Record-Breaking Tropical Disease Outbreak in Peru to Climate-Driven Extreme Weather",
+      "description": "Every year, mosquitoes in mostly tropical and subtropical countries cause millions of cases of dengue fever, a virus that induces potentially lethal f...",
+      "link": "https://insideclimatenews.org/news/20032026/peru-dengue-fever-record-outbreak-climate-driven-weather/",
+      "pubDate": "Fri, 20 Mar 2026 18:18:22 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
+      "description": "&lt;p&gt;The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides&lt;/p&gt;&lt;p&gt;The popul...",
+      "link": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
+      "pubDate": "Fri, 20 Mar 2026 17:41:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8647fb4ee2b9532f993ea03d8f26ea39f06ac3bd/328_0_3280_2624/master/3280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28a19e7a831b1992b58d8b2d0d0c038e"
+    },
     {
       "title": "Eid moon spotters pass skills to next generation",
       "description": "Families and astronomers gathered in Shipley on Thursday to try and spot a slither the new moon....",
@@ -146,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/cf17857ed4bb2e275d97df4743c892ac2d1af93b/630_0_6492_5194/master/6492.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca868bf55b4d6a547ddd04a051a49966"
     },
     {
-      "title": "Work from home and slow down on the road: world’s energy watchdog advises emergency measures as oil prices rise",
-      "description": "&lt;p&gt;IEA makes 10 recommendations to help households and businesses prepare for a drawn-out disruption to energy markets&lt;/p&gt;&lt;p&gt;The wor...",
-      "link": "https://www.theguardian.com/business/2026/mar/20/oil-price-energy-watchdog-iea-emergency-measures-work-from-home-slow-down-on-the-road",
-      "pubDate": "Fri, 20 Mar 2026 06:20:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c7a91be42a5676cd69a8516f17fc2db3a7b0a330/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15775532d313bd78cd9602dda4bcb584"
-    },
-    {
       "title": "Melbourne businesses strengthen sustainability commitments and water efficiency goals with WaterSmart",
       "description": "Melbourne Zoo’s 110-year-old Ficus Macrophylla tree at Carousel Park. Greater Western Water Greater Western Water is encouraging businesses with high ...",
       "link": "https://econews.com.au/melbourne-businesses-strengthen-sustainability-commitments-and-water-efficiency-goals-with-watersmart/",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-87.png"
-    },
-    {
-      "title": "EDP recognised by Ethisphere as one of the World’s Most Ethical Companies",
-      "description": "In the year it celebrates its 50th anniversary, EDP is one of the 138 companies recognised by Ethisphere and the only Portuguese company included in t...",
-      "link": "https://econews.com.au/edp-recognised-by-ethisphere-as-one-of-the-worlds-most-ethical-companies/",
-      "pubDate": "Fri, 20 Mar 2026 05:01:18 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Swift action delivers major win for endangered Little Terns at Blacksmiths Beach",
-      "description": "Little Tern nestling rescue Community Environment Network Lucas Grenadier @NSW DCCEEW Six newly hatched Little Terns are helping boost the population ...",
-      "link": "https://econews.com.au/swift-action-delivers-major-win-for-endangered-little-terns-at-blacksmiths-beach/",
-      "pubDate": "Fri, 20 Mar 2026 05:01:17 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
     }
   ]
 }
