@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-23T17:02:34.602Z",
+  "lastUpdated": "2026-03-23T19:05:55.956Z",
   "articles": [
+    {
+      "title": "US to pay almost $1bn to French energy company to kill wind project plan",
+      "description": "&lt;p&gt;Trump administration announces deal with TotalEnergies to redirect investment in wind to oil and gas instead&lt;/p&gt;&lt;p&gt;As a fuel cris...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/23/trump-administration-wind-project-plan",
+      "pubDate": "Mon, 23 Mar 2026 18:25:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/25ebf72a8d04c602d921d50bf8cee09b666d59cf/120_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01118804b24da401ce94fcae64e47386"
+    },
     {
       "title": "Report Shows Earth’s Climate is Out of Balance, as Indicators Hit New Extremes",
       "description": "The world is in a state of climate emergency, the head of the United Nations declared Sunday, following the release of the latest State of the Global ...",
@@ -11,15 +20,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Europe’s ‘staggering’ clean power gains undermined by failure to phase out fuel-burning machines",
-      "description": "&lt;p&gt;The EU’s reluctance to replace petrol cars and gas boilers keep it hooked on foreign fuels, say industry groups&lt;/p&gt;&lt;p&gt;Europe has ...",
-      "link": "https://www.theguardian.com/environment/2026/mar/23/europe-clean-energy-gains-failure-phase-out-fuel-burning",
-      "pubDate": "Mon, 23 Mar 2026 15:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6ac00051bfdf4310708aeabf94ff9b03d35e27dd/274_0_2918_2334/master/2918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f8866ebac210ef329f2729b9a67739c"
-    },
-    {
       "title": "Shooting restricted for six British wild birds to halt population decline",
       "description": "&lt;p&gt;Woodcocks and pochard, pintail and goldeneye ducks among threatened species protected by proposals&lt;/p&gt;&lt;p&gt;Hunters will be banned f...",
       "link": "https://www.theguardian.com/environment/2026/mar/23/shooting-restricted-six-british-wild-birds-halt-population-decline",
@@ -27,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2d0491dec8da7227902870149f2ee6aa3625368d/164_0_6002_4803/master/6002.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff1cf108c5fc4bb1c5c6ae9a377c9b40"
+    },
+    {
+      "title": "Europe’s ‘staggering’ clean power gains undermined by failure to phase out fuel-burning machines",
+      "description": "&lt;p&gt;The EU’s reluctance to replace petrol cars and gas boilers keep it hooked on foreign fuels, say industry groups&lt;/p&gt;&lt;p&gt;Europe has ...",
+      "link": "https://www.theguardian.com/environment/2026/mar/23/europe-clean-energy-gains-failure-phase-out-fuel-burning",
+      "pubDate": "Mon, 23 Mar 2026 15:00:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6ac00051bfdf4310708aeabf94ff9b03d35e27dd/274_0_2918_2334/master/2918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f8866ebac210ef329f2729b9a67739c"
     },
     {
       "title": "Hawaii assesses damage left by worst flooding in more than 20 years",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2023/10/eec-logo.png"
-    },
-    {
-      "title": "AI’s growth is colliding with a physical reality: heat",
-      "description": "By Farokh Ghadially, Vice President IT and Data Centres, Schneider Electric Artificial intelligence is often framed as a software breakthrough. In pra...",
-      "link": "https://econews.com.au/ais-growth-is-colliding-with-a-physical-reality-heat/",
-      "pubDate": "Mon, 23 Mar 2026 03:00:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
     }
   ]
 }
