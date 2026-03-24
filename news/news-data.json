@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-24T07:15:14.097Z",
+  "lastUpdated": "2026-03-24T09:01:41.921Z",
   "articles": [
+    {
+      "title": "USDA Says It Needs Roads to Fight Remote Wildfires, but a New Study Says Roads Bring More Fire to Forests",
+      "description": "When the Trump administration announced plans last year to rescind a rule limiting roadbuilding and timber harvests on millions of acres of national f...",
+      "link": "https://insideclimatenews.org/news/24032026/usda-roadless-rule-forest-wildfires/",
+      "pubDate": "Tue, 24 Mar 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A look behind the scenes of what could be Google’s biggest test of carbon capture",
+      "description": "Documents indicate that the tech company may be planning a massive natural gas powered data center project in Nebraska — but it could hinge on one pie...",
+      "link": "https://grist.org/accountability/google-data-center-carbon-capture-nebraska/",
+      "pubDate": "Tue, 24 Mar 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/TSMC-fab-Arizona.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Utah Republicans see storing nuclear waste as a &#8216;once in a lifetime opportunity&#8217;",
+      "description": "Some think a Trump administration plan is a chance to boost communities that hemorrhaged jobs after coal plants closed. ...",
+      "link": "https://grist.org/energy/salt-dome-utah-nuclear-waste-curio-energy/",
+      "pubDate": "Tue, 24 Mar 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/MJFORHKTABAKTO26JK7LX3V244.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
       "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/25ebf72a8d04c602d921d50bf8cee09b666d59cf/120_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01118804b24da401ce94fcae64e47386"
-    },
-    {
-      "title": "Report Shows Earth’s Climate is Out of Balance, as Indicators Hit New Extremes",
-      "description": "The world is in a state of climate emergency, the head of the United Nations declared Sunday, following the release of the latest State of the Global ...",
-      "link": "https://insideclimatenews.org/news/23032026/wmo-report-highlights-global-emergency/",
-      "pubDate": "Mon, 23 Mar 2026 16:28:30 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park",
-      "description": "&lt;p&gt;Sixty years after the discovery of a colony of Juan Fernández fur seals, previously thought to be extinct, a landmark agreement extends ‘no t...",
-      "link": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
-      "pubDate": "Mon, 23 Mar 2026 12:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff0ec890189281a4319fdffdd2a3abaa4cf4ed49/1419_0_7096_5677/master/7096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5431b316a39c54ca15f788ab4d24cac1"
-    },
-    {
-      "title": "Secrets of the karst: new species found in Cambodia’s limestone caves – in pictures",
-      "description": "&lt;p&gt;A survey has revealed the vast array of wildlife – some never seen before – living within the south-east Asian country’s karst ecosystems. Th...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/mar/23/cambodia-karst-new-species-limestone-caves-aoe",
-      "pubDate": "Mon, 23 Mar 2026 11:01:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f4467772b5cdea78866ffafa4303eb596208306c/803_0_4280_3425/master/4280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f44e556993740a2acd826d98953a537"
     }
   ]
 }
