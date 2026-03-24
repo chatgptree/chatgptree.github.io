@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-24T17:10:12.232Z",
+  "lastUpdated": "2026-03-24T19:15:47.386Z",
   "articles": [
+    {
+      "title": "Endangered butterfly count key to peat bog health",
+      "description": "Could counting endangered large heath butterflies be used as an indicator of peatland health?...",
+      "link": "https://www.bbc.com/news/articles/cqxlwvpnplgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Mar 2026 19:05:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Ministers confirm heat pump targets as climate plan unveiled",
+      "description": "The Scottish government says that it intends to wait until 2035 before ramping up the roll-out of the technology....",
+      "link": "https://www.bbc.com/news/articles/c8jky42l3gwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Mar 2026 17:30:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "US public health groups urge firing of EPA boss Zeldin, saying he ‘brazenly betrayed’ agency",
       "description": "&lt;p&gt;Advocates say Lee Zeldin’s EPA has rolled back protections and cut staff and funding, putting health at risk&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/MJFORHKTABAKTO26JK7LX3V244.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Community Groups Invited to Apply for Plico Future Fund Grants Supporting Sustainability and Community Resilience",
-      "description": "Community organisations across Western Australia, New South Wales and Victoria are being encouraged to apply for funding through the Plico Future Fund...",
-      "link": "https://econews.com.au/community-groups-invited-to-apply-for-plico-future-fund-grants-supporting-sustainability-and-community-resilience/",
-      "pubDate": "Tue, 24 Mar 2026 06:01:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/download-6.png"
-    },
-    {
-      "title": "The food commodities driving deforestation globally",
-      "description": "Researchers at Chalmers University of Technology, Sweden, have produced a comprehensive global survey of how different commodities are causing defores...",
-      "link": "https://econews.com.au/the-food-commodities-driving-deforestation-globally/",
-      "pubDate": "Tue, 24 Mar 2026 06:00:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Chalmers-logo.png"
     }
   ]
 }
