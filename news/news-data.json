@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-24T21:47:32.544Z",
+  "lastUpdated": "2026-03-24T22:40:51.794Z",
   "articles": [
+    {
+      "title": "As Storms Pummel Hawaii, the Western U.S. Continues to Bake Amid Record-Breaking Heat Wave",
+      "description": "Communities across the Western United States are in for another week of unusually high temperatures amid an ongoing and historic early-season heat wav...",
+      "link": "https://insideclimatenews.org/news/24032026/todays-climate-storms-hawaii-western-heat-wave/",
+      "pubDate": "Tue, 24 Mar 2026 21:53:38 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "White House’s ‘Drill Baby Drill’ Wartime Mandate Meets Volatile Market Reality",
       "description": "Energy Secretary Chris Wright, a long-time apostle of fossil fuel expansion, issued a blunt directive to the world’s largest oil and gas producers on ...",
@@ -80,7 +89,7 @@
       "pubDate": "Tue, 24 Mar 2026 14:00:40 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/b05b31be3ed2d3a676b1bda86229fa056f91196e/417_629_1890_1512/master/1890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a00922429f4a35d7ecd039ca37d5efb3"
+      "image": "https://i.guim.co.uk/img/media/b05b31be3ed2d3a676b1bda86229fa056f91196e/608_610_1890_1512/master/1890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46f798a725e3f5147434812033917185"
     },
     {
       "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A look behind the scenes of what could be Google’s biggest test of carbon capture",
-      "description": "Documents indicate that the tech company may be planning a massive natural gas powered data center project in Nebraska — but it could hinge on one pie...",
-      "link": "https://grist.org/accountability/google-data-center-carbon-capture-nebraska/",
-      "pubDate": "Tue, 24 Mar 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/TSMC-fab-Arizona.jpg?quality=75&#038;strip=all"
     }
   ]
 }
