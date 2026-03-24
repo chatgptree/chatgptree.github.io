@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-03-24T05:01:06.666Z",
+  "lastUpdated": "2026-03-24T07:15:14.097Z",
   "articles": [
+    {
+      "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
+      "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months....",
+      "link": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Mar 2026 06:31:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
+      "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months....",
+      "link": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Mar 2026 06:31:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Community Groups Invited to Apply for Plico Future Fund Grants Supporting Sustainability and Community Resilience",
+      "description": "Community organisations across Western Australia, New South Wales and Victoria are being encouraged to apply for funding through the Plico Future Fund...",
+      "link": "https://econews.com.au/community-groups-invited-to-apply-for-plico-future-fund-grants-supporting-sustainability-and-community-resilience/",
+      "pubDate": "Tue, 24 Mar 2026 06:01:01 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/download-6.png"
+    },
+    {
+      "title": "The food commodities driving deforestation globally",
+      "description": "Researchers at Chalmers University of Technology, Sweden, have produced a comprehensive global survey of how different commodities are causing defores...",
+      "link": "https://econews.com.au/the-food-commodities-driving-deforestation-globally/",
+      "pubDate": "Tue, 24 Mar 2026 06:00:53 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Chalmers-logo.png"
+    },
+    {
+      "title": "What are zettajoules – and what do they tell us about Earth’s energy imbalance?",
+      "description": "&lt;p&gt;When James Prescott Joule lent his name to a unit of energy, he could not have foreseen today’s alarming calculations&lt;/p&gt;&lt;p&gt;The p...",
+      "link": "https://www.theguardian.com/environment/2026/mar/24/what-are-zettajoules-earth-energy-imbalance",
+      "pubDate": "Tue, 24 Mar 2026 06:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d17308d6b407eba139e940540259d1641130492b/336_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a81a9af6dac95382184c466749b895f"
+    },
+    {
+      "title": "Eel fisher takes on authorities at Belfast court over pollution in UK’s largest lake",
+      "description": "&lt;p&gt;Declan Conlon will argue officials have failed to act despite clear evidence of the ecological collapse of Lough Neagh&lt;/p&gt;&lt;p&gt;An e...",
+      "link": "https://www.theguardian.com/environment/2026/mar/24/eel-fisher-authorities-belfast-court-pollution-lake-lough-neagh-declan-conlon",
+      "pubDate": "Tue, 24 Mar 2026 06:00:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/314694d8b0e458283de2f68c501867058a5e9d0e/470_0_4703_3762/master/4703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78b9dfdc22a812581e3b62c3fdd7b1b0"
+    },
     {
       "title": "Climate-Fueled Wildfires and Dust Storms Drove Up Air Pollution Around the World Last Year",
       "description": "A new report on global air pollution shows that the majority of the world’s population breathes unhealthy air, and climate change is making the proble...",
@@ -54,24 +108,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/97862652351201e469ef9197a182998d3cfa1eed/890_0_4551_3640/master/4551.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=382205ef5b8b00d581f2ca7433f43f58"
-    },
-    {
-      "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
-      "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months....",
-      "link": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 01:10:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
-      "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months....",
-      "link": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 01:10:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Ministers delay new rules for low-carbon housing in England",
@@ -128,24 +164,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Europe’s ‘staggering’ clean power gains undermined by failure to phase out fuel-burning machines",
-      "description": "&lt;p&gt;The EU’s reluctance to replace petrol cars and gas boilers keep it hooked on foreign fuels, say industry groups&lt;/p&gt;&lt;p&gt;Europe has ...",
-      "link": "https://www.theguardian.com/environment/2026/mar/23/europe-clean-energy-gains-failure-phase-out-fuel-burning",
-      "pubDate": "Mon, 23 Mar 2026 15:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6ac00051bfdf4310708aeabf94ff9b03d35e27dd/274_0_2918_2334/master/2918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f8866ebac210ef329f2729b9a67739c"
-    },
-    {
-      "title": "Shooting restricted for six British wild birds to halt population decline",
-      "description": "&lt;p&gt;Woodcocks and pochard, pintail and goldeneye ducks among threatened species protected by proposals&lt;/p&gt;&lt;p&gt;Hunters will be banned f...",
-      "link": "https://www.theguardian.com/environment/2026/mar/23/shooting-restricted-six-british-wild-birds-halt-population-decline",
-      "pubDate": "Mon, 23 Mar 2026 15:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2d0491dec8da7227902870149f2ee6aa3625368d/164_0_6002_4803/master/6002.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff1cf108c5fc4bb1c5c6ae9a377c9b40"
-    },
-    {
       "title": "‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park",
       "description": "&lt;p&gt;Sixty years after the discovery of a colony of Juan Fernández fur seals, previously thought to be extinct, a landmark agreement extends ‘no t...",
       "link": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f4467772b5cdea78866ffafa4303eb596208306c/803_0_4280_3425/master/4280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f44e556993740a2acd826d98953a537"
-    },
-    {
-      "title": "Border Communities Remain in the Dark About Federal Government’s Billion-Dollar Buoy Project",
-      "description": "Reporting supported by the Water Desk at the University of Colorado, Boulder. BROWNSVILLE, Texas—An experiment unfolding at the southernmost tip of th...",
-      "link": "https://insideclimatenews.org/news/23032026/texas-rio-grande-border-buoy-environmental-risks/",
-      "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Replacing Toxic Lead Pipes Could Drive Job Creation in Illinois, Report Finds",
-      "description": "This story is a partnership between Inside Climate News, Grist and WBEZ, a public radio station serving the Chicago metropolitan region. Illinois is i...",
-      "link": "https://insideclimatenews.org/news/23032026/replacing-toxic-lead-pipes-could-drive-job-creation-in-illinois-report-finds/",
-      "pubDate": "Mon, 23 Mar 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
