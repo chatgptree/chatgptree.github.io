@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-25T07:13:45.014Z",
+  "lastUpdated": "2026-03-25T09:00:45.973Z",
   "articles": [
+    {
+      "title": "The frantic, high-tech fight to stop climate-fueled dengue fever",
+      "description": "Scientists in Brazil and Peru may have found a way to beat mosquitoes at their own game. The U.S. may soon need to do the same....",
+      "link": "https://grist.org/health/the-fight-to-stop-climate-fueled-dengue-fever-mosquitoes/",
+      "pubDate": "Wed, 25 Mar 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/JAK02327.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Fiber optic cables reveal a serious problem at the heart of modern farming",
+      "description": "Tilling helps farmers control weeds and boost soil fertility. But that also degrades a field's ability to hold water and carbon....",
+      "link": "https://grist.org/drought/fiber-optic-cables-reveal-a-serious-problem-at-the-heart-of-modern-farming/",
+      "pubDate": "Wed, 25 Mar 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/PXL_20230317_115025201.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Trump’s $1B payoff to stop offshore wind is even stranger than it sounds",
+      "description": "The government is paying TotalEnergies to halt a wind farm it isn’t building, in exchange for fossil fuel investments it’s already making....",
+      "link": "https://grist.org/politics/trump-interior-offshore-wind-total/",
+      "pubDate": "Wed, 25 Mar 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Seriously wrong’: flood-hit Lincolnshire residents at odds with Reform MP over climate",
       "description": "&lt;p&gt;Constituents’ frustration with Richard Tice reflects growing problem for party and its leaders’ climate-sceptic stance&lt;/p&gt;&lt;p&gt;“The...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
-      "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months....",
-      "link": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 15:37:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ex-Tropical Cyclone Narelle: ‘vulnerable’ Katherine aged care residents evacuated to open-sided basketball court",
-      "description": "&lt;p&gt;Some residents moved amid threat of flooding are under public guardianship due to reduced mental capacity. NT public guardian says they ‘woul...",
-      "link": "https://www.theguardian.com/australia-news/2026/mar/25/ex-tropical-cyclone-narelle-katherine-evacuees-aged-care-homes-ntwnfb",
-      "pubDate": "Tue, 24 Mar 2026 14:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b05b31be3ed2d3a676b1bda86229fa056f91196e/608_610_1890_1512/master/1890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46f798a725e3f5147434812033917185"
-    },
-    {
-      "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
-      "description": "&lt;p&gt;Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park&lt;/p&gt;&lt;p&gt;A second...",
-      "link": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
-      "pubDate": "Tue, 24 Mar 2026 12:42:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c8a19f65ea0f091b472976a9e5613de830f4ea30/735_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cdea626a79a51b897a0577c8f1f5a2d4"
     }
   ]
 }
