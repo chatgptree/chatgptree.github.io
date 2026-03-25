@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-25T15:10:31.578Z",
+  "lastUpdated": "2026-03-25T17:13:14.455Z",
   "articles": [
+    {
+      "title": "US has caused $10tn worth of climate damage since 1990, research finds",
+      "description": "&lt;p&gt;US, top carbon emitter in history, has ‘a lot of responsibility’ for causing ‘substantial’ harm globally, scientist says&lt;/p&gt;&lt;p&gt;Th...",
+      "link": "https://www.theguardian.com/environment/2026/mar/25/us-climate-damage-research",
+      "pubDate": "Wed, 25 Mar 2026 16:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/415f22b8635c49a9a87fcf97d73e29869138efae/136_0_4679_3744/master/4679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86af133a9d90c7353b84690533ad46fb"
+    },
     {
       "title": "‘It’s like flowers on steroids’: what happened when scientists heated a Rocky Mountain wildlife meadow by 2C?",
       "description": "&lt;p&gt;A long-running experiment in Colorado provides an ‘alarming’ view of how rapidly unchecked global heating could transform fragile ecosystems&...",
@@ -84,7 +93,7 @@
     },
     {
       "title": "Like Putin, Trump is a megalomaniac. In Europe, we can shield ourselves, not look for rational motives | Robert Habeck",
-      "description": "&lt;p&gt;I had to deal with energy shock in Germany after Putin invaded Ukraine. The solution now is the same: buy ourselves out of the fossil fuels t...",
+      "description": "&lt;p&gt;I had to deal with the energy shock in Germany after Putin invaded Ukraine. The solution now is the same: buy ourselves out of the fossil fue...",
       "link": "https://www.theguardian.com/commentisfree/2026/mar/25/like-putin-trump-is-a-megalomaniac-in-europe-we-can-shield-ourselves-not-look-for-rational-motives",
       "pubDate": "Wed, 25 Mar 2026 05:00:01 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/33e0cc1713798223bd03ea371d0e5e1733cff46e/614_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5b72e119afeac0ba33984d5b87ed162"
-    },
-    {
-      "title": "Timelapse of Artemis II rollout to launch pad",
-      "description": "Nasa's giant Moon rocket has returned to its launch pad for a second time, ahead of a mission to send astronauts around the Moon....",
-      "link": "https://www.bbc.com/news/videos/c4g5wq4610do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 16:06:35 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
