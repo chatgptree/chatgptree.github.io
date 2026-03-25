@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-25T13:42:03.664Z",
+  "lastUpdated": "2026-03-25T15:10:31.578Z",
   "articles": [
+    {
+      "title": "‘It’s like flowers on steroids’: what happened when scientists heated a Rocky Mountain wildlife meadow by 2C?",
+      "description": "&lt;p&gt;A long-running experiment in Colorado provides an ‘alarming’ view of how rapidly unchecked global heating could transform fragile ecosystems&...",
+      "link": "https://www.theguardian.com/environment/2026/mar/25/flowers-heated-2c-meadow-climate-crisis-experiment-rocky-mountains-aoe",
+      "pubDate": "Wed, 25 Mar 2026 15:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/55719afbad23a02a2a01158402054727b27861f6/0_482_1440_1152/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97aafd11eb53ff62dac57ec1ebcc7355"
+    },
     {
       "title": "Lessons From Salt Lakes for Making a Home in a Changing World",
       "description": "When Mormon settlers descended upon the Salt Lake Valley in 1847, the land was an oasis.&#160; From the Wasatch Front, creeks and rivers flowed into t...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Green energy boss backs more North Sea oil and gas production from existing sites",
-      "description": "&lt;p&gt;GB Energy’s Jürgen Maier says production could bring economic benefits and give supply chains ‘time to transition’ to renewables&lt;/p&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2026/mar/24/green-energy-boss-backs-more-north-sea-oil-and-gas-production",
-      "pubDate": "Tue, 24 Mar 2026 15:54:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0173d21e2575179534e415d75b78de9cbcc3ea35/206_0_2719_2176/master/2719.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6d6d47f61b652294fde45e64e791e126"
     }
   ]
 }
