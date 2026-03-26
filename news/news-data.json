@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-26T15:15:38.235Z",
+  "lastUpdated": "2026-03-26T17:13:47.512Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "A nuclear-powered spacecraft promises deeper and more explorative space travel....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty5?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 17:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hair compost, sugar waxes and refillable shampoo: inside a California low-waste salon",
+      "description": "&lt;p&gt;Scisters Salon &amp;amp; Apothecary in the San Diego area is committed to sustainable beauty and going low-waste&lt;/p&gt;&lt;p&gt;The first ...",
+      "link": "https://www.theguardian.com/business/2026/mar/26/scisters-salon-california-low-waste-salon",
+      "pubDate": "Thu, 26 Mar 2026 15:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c992346dd12c011e1ccc7213a890408b39b9078e/0_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=787bc2115107def26026b92603423616"
+    },
     {
       "title": "Trail hunt ban moves closer as consultation begins",
       "description": "Animal welfare campaigners welcome a \"pivotal moment\" in the move towards a ban on trail hunting....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "‘WE THE WILD’ SCORES AT THE INTERNATIONAL MELBOURNE FLOWER &#038; GARDEN SHOW",
-      "description": " ‘We the Wild,’ a 310 sqm installation inspired by Victoria’s iconic southern coastline and designed by national planning, transport and landscape con...",
-      "link": "https://econews.com.au/we-the-wild-scores-at-the-international-melbourne-flower-garden-show/",
-      "pubDate": "Thu, 26 Mar 2026 02:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Ratio_WetheWild_6-683x1024.jpg"
-    },
-    {
-      "title": "Vital step in region’s Dark Sky Reserve journey",
-      "description": "Milky Way Credit: Dr Ken Wishaw The Sunshine Coast is a major step closer to protecting its starry future, with Sunshine Coast Council applying for in...",
-      "link": "https://econews.com.au/vital-step-in-regions-dark-sky-reserve-journey/",
-      "pubDate": "Thu, 26 Mar 2026 02:01:25 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/IMAGE-2-Milky-Way-over-river_Credit-Dr-Ken-Wishaw-1024x432.jpg"
     }
   ]
 }
