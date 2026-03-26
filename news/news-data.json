@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-03-25T23:44:07.271Z",
+  "lastUpdated": "2026-03-26T03:19:15.479Z",
   "articles": [
+    {
+      "title": "RELA unveils new tools to empower landowners in renewable energy planning.",
+      "description": "Assess 2.0, backed by ARENA, is a free, independent platform that helps landowners evaluate their land’s renewable energy potential and plan how energ...",
+      "link": "https://econews.com.au/rela-unveils-new-tools-to-empower-landowners-in-renewable-energy-planning/",
+      "pubDate": "Thu, 26 Mar 2026 03:00:53 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "‘WE THE WILD’ SCORES AT THE INTERNATIONAL MELBOURNE FLOWER &#038; GARDEN SHOW",
+      "description": " ‘We the Wild,’ a 310 sqm installation inspired by Victoria’s iconic southern coastline and designed by national planning, transport and landscape con...",
+      "link": "https://econews.com.au/we-the-wild-scores-at-the-international-melbourne-flower-garden-show/",
+      "pubDate": "Thu, 26 Mar 2026 02:01:48 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Ratio_WetheWild_6-683x1024.jpg"
+    },
+    {
+      "title": "Vital step in region’s Dark Sky Reserve journey",
+      "description": "Milky Way Credit: Dr Ken Wishaw The Sunshine Coast is a major step closer to protecting its starry future, with Sunshine Coast Council applying for in...",
+      "link": "https://econews.com.au/vital-step-in-regions-dark-sky-reserve-journey/",
+      "pubDate": "Thu, 26 Mar 2026 02:01:25 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/IMAGE-2-Milky-Way-over-river_Credit-Dr-Ken-Wishaw-1024x432.jpg"
+    },
+    {
+      "title": "As Prices Soar, EPA Greenlights Higher Ethanol Blends in Gasoline",
+      "description": "The Trump administration handed farmers and the ethanol industry a win on Wednesday by issuing a waiver that will allow the use of higher corn-based e...",
+      "link": "https://insideclimatenews.org/news/25032026/epa-approves-higher-ethanol-blends-in-gasoline/",
+      "pubDate": "Wed, 25 Mar 2026 23:52:51 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Iowa’s Cancer Crisis Linked to Pesticides, PFAS, Fertilizer and Radon, Report Says",
       "description": "Iowa is among a few states where cancer diagnoses are on the rise. A new analysis from the Harkin Institute for Public Policy &#38; Citizen Engagement...",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
-    },
-    {
-      "title": "As Storms Pummel Hawaii, the Western U.S. Continues to Bake Amid Record-Breaking Heat Wave",
-      "description": "Communities across the Western United States are in for another week of unusually high temperatures amid an ongoing and historic early-season heat wav...",
-      "link": "https://insideclimatenews.org/news/24032026/todays-climate-storms-hawaii-western-heat-wave/",
-      "pubDate": "Tue, 24 Mar 2026 21:53:38 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "White House’s ‘Drill Baby Drill’ Wartime Mandate Meets Volatile Market Reality",
-      "description": "Energy Secretary Chris Wright, a long-time apostle of fossil fuel expansion, issued a blunt directive to the world’s largest oil and gas producers on ...",
-      "link": "https://insideclimatenews.org/news/24032026/energy-secretary-chris-wright-ceraweek-oil-production/",
-      "pubDate": "Tue, 24 Mar 2026 19:25:46 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Endangered butterfly count key to peat bog health",
-      "description": "Could counting endangered large heath butterflies be used as an indicator of peatland health?...",
-      "link": "https://www.bbc.com/news/articles/cqxlwvpnplgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 19:05:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ministers confirm heat pump targets as climate plan unveiled",
-      "description": "The Scottish government says that it intends to wait until 2035 before ramping up the roll-out of the technology....",
-      "link": "https://www.bbc.com/news/articles/c8jky42l3gwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Mar 2026 17:30:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
