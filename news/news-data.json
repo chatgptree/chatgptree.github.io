@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-26T09:08:19.538Z",
+  "lastUpdated": "2026-03-26T11:02:54.854Z",
   "articles": [
+    {
+      "title": "When is Nasa's Moon mission launch and what will Artemis do?",
+      "description": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 11:01:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "England sewage spills nearly halved in 2025 due mostly to drier weather",
+      "description": "Water companies said the country was also seeing the effect of greater infrastructure investment....",
+      "link": "https://www.bbc.com/news/articles/cwyjp2d3x12o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 10:13:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "England sewage spills nearly halved in 2025 due mostly to drier weather",
+      "description": "Water companies said the country was also seeing the effect of greater infrastructure investment....",
+      "link": "https://www.bbc.com/news/articles/cwyjp2d3x12o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 10:13:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Avian Flu Has Killed Thousands of Birds in the U.S. Pennsylvania Is at the Epicenter.",
       "description": "When two bald eagles built a nest in Philadelphia in 2007, it was the first time one had been recorded in the area in 200 years.&#160; Today, eagles c...",
@@ -47,7 +74,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Two women, different continents, same problem -  how climate change is affecting their farms",
+      "title": "Two women, two different continents - but they've the same problem with their farms",
       "description": "Two farmers from Northern Ireland and Rwanda share their experiences and build a friendship....",
       "link": "https://www.bbc.com/news/articles/cpd5n2g406do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Mar 2026 06:07:23 GMT",
@@ -110,7 +137,7 @@
       "image": "https://i.guim.co.uk/img/media/415f22b8635c49a9a87fcf97d73e29869138efae/136_0_4679_3744/master/4679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86af133a9d90c7353b84690533ad46fb"
     },
     {
-      "title": "‘It’s like flowers on steroids’: what happened when scientists heated a Rocky Mountain wildlife meadow by 2C?",
+      "title": "Rise of the shrubs: what happened when scientists heated a Rocky Mountain wildlife meadow by 2C?",
       "description": "&lt;p&gt;A long-running experiment in Colorado provides an ‘alarming’ view of how rapidly unchecked global heating could transform fragile ecosystems&...",
       "link": "https://www.theguardian.com/environment/2026/mar/25/flowers-heated-2c-meadow-climate-crisis-experiment-rocky-mountains-aoe",
       "pubDate": "Wed, 25 Mar 2026 15:00:11 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Seriously wrong’: flood-hit Lincolnshire residents at odds with Reform MP over climate",
-      "description": "&lt;p&gt;Constituents’ frustration with Richard Tice reflects growing problem for party and its leaders’ climate-sceptic stance&lt;/p&gt;&lt;p&gt;“The...",
-      "link": "https://www.theguardian.com/environment/2026/mar/25/boston-lincolnshire-flooding-reform-uk-richard-tice-climate",
-      "pubDate": "Wed, 25 Mar 2026 07:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6b303f318d30647ad8cd7fb4e2ffbeb65d578adf/2146_0_6377_5101/master/6377.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca6348691b328f0fe43f4164e5c048a3"
-    },
-    {
-      "title": "We’re letting big corporations gamble with our lives. Act now, or the food could run out | George Monbiot",
-      "description": "&lt;p&gt;The fragility of the global food system fills me with dread – and the war with Iran has exposed just how close to collapse it is  &lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/25/big-corporations-global-food-system-war-iran",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4c539d0be6a40175f2fa88eacd6232a3ba7d66e9/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f3e25183ff85a8eaf9539a8fa8a52a8e"
-    },
-    {
-      "title": "$20 million crap’s given: Who Gives a Crap proves that profit-for-purpose can scale",
-      "description": "Who Gives A Crap surpasses $20m AUD in total contributions to global water, sanitation and hygiene (WASH) efforts. Through its profit-for-purpose busi...",
-      "link": "https://econews.com.au/20-million-craps-given-who-gives-a-crap-proves-that-profit-for-purpose-can-scale/",
-      "pubDate": "Wed, 25 Mar 2026 06:01:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2023/12/who-gives-a-crap-logo.png"
     }
   ]
 }
