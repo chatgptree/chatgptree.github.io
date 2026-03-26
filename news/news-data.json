@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-26T05:44:58.079Z",
+  "lastUpdated": "2026-03-26T07:22:06.957Z",
   "articles": [
+    {
+      "title": "Two women, different continents, same problem -  how climate change is affecting their farms",
+      "description": "Two farmers from Northern Ireland and Rwanda share their experiences and build a friendship....",
+      "link": "https://www.bbc.com/news/articles/cpd5n2g406do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 06:07:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "RELA unveils new tools to empower landowners in renewable energy planning.",
       "description": "Assess 2.0, backed by ARENA, is a free, independent platform that helps landowners evaluate their land’s renewable energy potential and plan how energ...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
-    },
-    {
-      "title": "Schneider Electric deepens building security offering through new Gallagher Security partnership",
-      "description": "Scott Johnstone, National Sales Manager – Australia, Gallagher Security Schneider Electric has formed a strategic partnership with Gallagher Security ...",
-      "link": "https://econews.com.au/schneider-electric-deepens-building-security-offering-through-new-gallagher-security-partnership/",
-      "pubDate": "Wed, 25 Mar 2026 02:00:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
     }
   ]
 }
