@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-03-26T17:13:47.512Z",
+  "lastUpdated": "2026-03-26T19:19:22.436Z",
   "articles": [
+    {
+      "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?...",
+      "link": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 18:35:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists Discover a New Branch of Life in the Deep Sea",
+      "description": "Beneath the neon lights of a laser-scanning microscope, newly classified species glow in vivid greens and oranges—a far cry from the pitch-black abyss...",
+      "link": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/",
+      "pubDate": "Thu, 26 Mar 2026 18:06:48 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Owner blocks 'Rainham volcano' fix, council says",
+      "description": "Repeated fires at Arnolds Field in Launders Lane, Rainham, have plagued residents for years....",
+      "link": "https://www.bbc.com/news/articles/cy41mnxxmnlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Mar 2026 18:03:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Inside a Rare Sperm Whale Birth Reshaping How Scientists Understand Animal Cooperation",
+      "description": "Two landmark studies of a rare sperm whale birth observation in the Caribbean are reshaping scientists’ understanding of cooperation in the animal kin...",
+      "link": "https://insideclimatenews.org/news/26032026/sperm-whale-birth-event-study-animal-cooperation/",
+      "pubDate": "Thu, 26 Mar 2026 18:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "A nuclear-powered spacecraft promises deeper and more explorative space travel....",
@@ -11,7 +47,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Hair compost, sugar waxes and refillable shampoo: inside a California low-waste salon",
+      "title": "Two salon owners wanted to go zero-waste. Could they do it and keep their business afloat?",
       "description": "&lt;p&gt;Scisters Salon &amp;amp; Apothecary in the San Diego area is committed to sustainable beauty and going low-waste&lt;/p&gt;&lt;p&gt;The first ...",
       "link": "https://www.theguardian.com/business/2026/mar/26/scisters-salon-california-low-waste-salon",
       "pubDate": "Thu, 26 Mar 2026 15:00:39 GMT",
@@ -144,42 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/AP26070516536942.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "In Texas, Corpus Christi&#8217;s water crisis may be a glimpse into the future",
-      "description": "A 5-year drought, a failed desalination plant, and poor planning may force the city to choose between residents and the oil and gas industry....",
-      "link": "https://grist.org/drought/corpus-christi-water-crisis-texas-drought/",
-      "pubDate": "Thu, 26 Mar 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Modern agriculture is collapsing under climate change. Indigenous farming has answers.",
-      "description": "A new global review reveals a critical “gap between advocacy and evidence” when it comes to scaling traditional agriculture to fight climate change....",
-      "link": "https://grist.org/indigenous/modern-agriculture-is-collapsing-under-climate-change-indigenous-farming-has-answers/",
-      "pubDate": "Thu, 26 Mar 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Two women, two different continents - but they've the same problem with their farms",
-      "description": "Two farmers from Northern Ireland and Rwanda share their experiences and build a friendship....",
-      "link": "https://www.bbc.com/news/articles/cpd5n2g406do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Mar 2026 06:07:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "RELA unveils new tools to empower landowners in renewable energy planning.",
-      "description": "Assess 2.0, backed by ARENA, is a free, independent platform that helps landowners evaluate their land’s renewable energy potential and plan how energ...",
-      "link": "https://econews.com.au/rela-unveils-new-tools-to-empower-landowners-in-renewable-energy-planning/",
-      "pubDate": "Thu, 26 Mar 2026 03:00:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
