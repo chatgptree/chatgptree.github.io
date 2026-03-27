@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-27T13:24:35.794Z",
+  "lastUpdated": "2026-03-27T14:59:21.694Z",
   "articles": [
+    {
+      "title": "Rare tongue-shaped fungus discovered in nature reserve in West Sussex",
+      "description": "&lt;p&gt;&lt;em&gt;Microglossum cyanobasis&lt;/em&gt; – or blue-based earthtongue – is only the second such specimen ever to be found in Europe&lt;/p&...",
+      "link": "https://www.theguardian.com/uk-news/2026/mar/27/rare-fungus-microglossum-cyanobasis-blue-based-earthtongue-nature-reserve-west-sussex",
+      "pubDate": "Fri, 27 Mar 2026 14:41:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/154cb20f50baa41729b1d7617a822c6ab7b9ee70/0_303_1179_943/master/1179.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22f894598ce35a06c0c92bef24ff1df2"
+    },
+    {
+      "title": "Wily coyote? urban canines take more risks compared with rural ones – study",
+      "description": "&lt;p&gt;Researchers believe behavioral gap, which may hold true across species, is probably product of less fear of harassment in cities &lt;/p&gt;&l...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/27/urban-rural-coyote-study",
+      "pubDate": "Fri, 27 Mar 2026 14:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/773886f83a6a9f6c32a96a247ddf54a1b9de63ca/557_0_5543_4437/master/5543.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28c0e20498ec8634f3123d1ead199ecd"
+    },
     {
       "title": "The first colour photo of Earth from the Moon",
       "description": "Witness History tells the story of the Apollo 8 mission in 1968....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "A nuclear-powered spacecraft promises deeper and more explorative space travel....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ty5?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Mar 2026 21:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?...",
-      "link": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Mar 2026 18:35:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
