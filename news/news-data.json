@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-27T11:49:58.683Z",
+  "lastUpdated": "2026-03-27T13:24:35.794Z",
   "articles": [
+    {
+      "title": "The first colour photo of Earth from the Moon",
+      "description": "Witness History tells the story of the Apollo 8 mission in 1968....",
+      "link": "https://www.bbc.com/news/videos/cj941pvge34o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Mar 2026 12:38:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Is foraging really feasible to feed myself?",
       "description": "&lt;p&gt;This labor-intensive way of eating isn’t for everyone – and I’m not sure it’s for me. It requires planning and flexibility&lt;/p&gt;&lt;p&gt;...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Mar 2026 18:35:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists Discover a New Branch of Life in the Deep Sea",
-      "description": "Beneath the neon lights of a laser-scanning microscope, newly classified species glow in vivid greens and oranges—a far cry from the pitch-black abyss...",
-      "link": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/",
-      "pubDate": "Thu, 26 Mar 2026 18:06:48 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
