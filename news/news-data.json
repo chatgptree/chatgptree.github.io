@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-28T07:09:11.526Z",
+  "lastUpdated": "2026-03-28T08:51:49.843Z",
   "articles": [
+    {
+      "title": "Exclusion zone set up to protect endangered birds",
+      "description": "An area for nesting birds on the Isle of Man has been cordoned off to protect endangered species....",
+      "link": "https://www.bbc.com/news/articles/cwykd8dlv9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 28 Mar 2026 07:13:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cambridge offers botany course that inspired Darwin after rare archive uncovered",
       "description": "&lt;p&gt;University’s botanic garden will use study materials created by John Stevens Henslow, the naturalist’s mentor, 200 years ago&lt;/p&gt;&lt;p&g...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/unnamed-2026-03-27T114705.454.jpg"
-    },
-    {
-      "title": "Australia’s Youth Agenda: A little less conversation, a little more climate action",
-      "description": "Climate change could deal a $165,000 blow to the lifetime incomes of young Australians unless three urgent outcomes are delivered to realise a new, gr...",
-      "link": "https://econews.com.au/australias-youth-agenda-a-little-less-conversation-a-little-more-climate-action/",
-      "pubDate": "Fri, 27 Mar 2026 01:01:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/image002-10.png"
     }
   ]
 }
