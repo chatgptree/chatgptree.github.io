@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-28T14:40:35.936Z",
+  "lastUpdated": "2026-03-28T15:38:39.151Z",
   "articles": [
+    {
+      "title": "Call out to volunteers to take part in bug survey",
+      "description": "Buglife says Kent, Surrey and Sussex forms one of the UK's richest regions for insect variety....",
+      "link": "https://www.bbc.com/news/articles/cj37epve5l6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 28 Mar 2026 15:05:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator",
       "description": "Staffers from DOGE are revamping rules in ways to ease regulations and provide financial breaks for industry....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8bd1213e4375d1c78dc16f895a5b2d08a8909a42/547_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0dc7fea00a0364acf82764883ab6a0c"
-    },
-    {
-      "title": "Released beavers settle after year of ups and downs",
-      "description": "The BBC speaks to conservationists a year after beavers were released at a nature reserve in Dorset. ...",
-      "link": "https://www.bbc.com/news/articles/cx2v6xn35gwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 27 Mar 2026 06:20:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
