@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-28T21:37:48.602Z",
+  "lastUpdated": "2026-03-28T22:38:17.740Z",
   "articles": [
+    {
+      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+      "description": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night....",
+      "link": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 28 Mar 2026 22:02:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "We’ve been coming to this waterhole for 30 years. Like the creek we’ve been rearranged – ravaged by time but still shining | Jessie Cole",
       "description": "&lt;p&gt;When we strip off, it is all there on our bodies: scars mixed in with the ordinary wear and tear. It’s bolstering – this evidence of life liv...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/nsf-climate-interactive-v2-static-light.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "California’s fossil fuel phaseout has left it vulnerable to the Iran oil shock",
-      "description": "The Trump administration and major refiners are using the war to justify restarting oil production and weakening climate rules....",
-      "link": "https://grist.org/energy/trump-iran-california-oil-sable/",
-      "pubDate": "Fri, 27 Mar 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/GettyImages-2227009104.jpg?quality=75&#038;strip=all"
     }
   ]
 }
