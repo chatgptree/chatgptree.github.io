@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-29T11:36:42.823Z",
+  "lastUpdated": "2026-03-29T13:14:14.753Z",
   "articles": [
+    {
+      "title": "‘We’re harvesting the sun’: A huge solar project grows in California",
+      "description": "A sweeping plan to build 21 gigawatts of solar plus batteries on 136,000 acres could be a lifeline for Central Valley farmers facing devastating water...",
+      "link": "https://grist.org/energy/were-harvesting-the-sun-a-huge-solar-project-grows-in-california/",
+      "pubDate": "Sun, 29 Mar 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/rowcropsca.webp?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Toxic Pfas residue identified on 37% of California produce, new analysis finds",
+      "description": "&lt;p&gt;Peaches, strawberries and grapes were almost always found to be contaminated with ‘forever chemicals’ in the analysis&lt;/p&gt;&lt;ul&gt;&lt;...",
+      "link": "https://www.theguardian.com/environment/2026/mar/29/pfas-residue-california-produce-analysis",
+      "pubDate": "Sun, 29 Mar 2026 12:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/62e9592f6637b821c919e9edc1d7050be0777fd7/244_0_2511_2010/master/2511.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb36db336e29bbcaa1e4726a3a859a9a"
+    },
     {
       "title": "Toxic Ocean Crisis in Papua New Guinea Sparks Mass Marine Die-Off and Public Health Emergency",
       "description": "It started in December, when dead fish began washing ashore New Ireland—a mountainous island in Papua New Guinea’s New Ireland Province, flanked by th...",
@@ -159,24 +177,6 @@
       "description": "Witness History tells the story of the Apollo 8 mission in 1968....",
       "link": "https://www.bbc.com/news/videos/cj941pvge34o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 27 Mar 2026 12:38:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Is foraging really feasible to feed myself?",
-      "description": "&lt;p&gt;This labor-intensive way of eating isn’t for everyone – and I’m not sure it’s for me. It requires planning and flexibility&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/food/2026/mar/27/foraging-feasibility-food-environment",
-      "pubDate": "Fri, 27 Mar 2026 11:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4a659bf41427b14939f296d93c64946cd564b3ef/663_0_6627_5304/master/6627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d971708dfe69bc34c9aa8eaf1cd229cf"
-    },
-    {
-      "title": "How Cornwall is helping Nasa's deep space mission",
-      "description": "Nasa is on track to launch its Artemis II mission in April which will be tracked by Goonhilly Earth Station, near Helston....",
-      "link": "https://www.bbc.com/news/articles/c625395elemo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 27 Mar 2026 09:45:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
