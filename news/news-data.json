@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-29T05:47:11.503Z",
+  "lastUpdated": "2026-03-29T07:15:54.450Z",
   "articles": [
+    {
+      "title": "Forget birdwatching, I’m into moth-watching: they’re fascinating and misunderstood insects | Helen Pilcher",
+      "description": "&lt;p&gt;According to new research, distinguishing between the UK’s 2,500 species could halt cognitive decline – so my brain could not be happier, or ...",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline",
+      "pubDate": "Sun, 29 Mar 2026 07:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1037f829056b1151f79fa8cc24a08c2a38aa302b/333_0_4264_3413/master/4264.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=101defe9e9ccb10d039087be29d0e709"
+    },
+    {
+      "title": "Nigel Farage’s farming adviser calls for wheat prices to double",
+      "description": "&lt;p&gt;Exclusive: critics warn Reform UK use of trade policy would increase food costs amid cost-of-living crisis&lt;/p&gt;&lt;p&gt;Nigel Farage’s f...",
+      "link": "https://www.theguardian.com/environment/2026/mar/29/nigel-farage-farming-adviser-calls-for-hike-in-wheat-prices-reform-uk",
+      "pubDate": "Sun, 29 Mar 2026 07:00:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7966ed9d9f285f0dceda0427efc92468ecb71564/472_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5bc086f9c9b9c000932cc5df715bb990"
+    },
     {
       "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
       "description": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night....",
@@ -110,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/cc4ebed860e2222c0a18c1f8dc04ba66bc283892/213_0_1402_1121/master/1402.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4efaa8d4e6f0e02d1679641f73e7c05e"
     },
     {
-      "title": "Striking it licky: rare tongue-shaped fungus found for first time in UK",
-      "description": "&lt;p&gt;Blue-based earthtongue specimen discovered in West Sussex nature reserve is only second recorded in Europe&lt;/p&gt;&lt;p&gt;The discovery of...",
-      "link": "https://www.theguardian.com/uk-news/2026/mar/27/rare-fungus-microglossum-cyanobasis-blue-based-earthtongue-nature-reserve-west-sussex",
-      "pubDate": "Fri, 27 Mar 2026 14:41:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/154cb20f50baa41729b1d7617a822c6ab7b9ee70/0_303_1179_943/master/1179.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22f894598ce35a06c0c92bef24ff1df2"
-    },
-    {
       "title": "Wily coyote? Urban canines take more risks compared with rural ones, study finds",
       "description": "&lt;p&gt;Researchers believe behavioral gap, which may hold true across species, is probably product of less fear of harassment in cities &lt;/p&gt;&l...",
       "link": "https://www.theguardian.com/us-news/2026/mar/27/urban-rural-coyote-study",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "To keep climate science alive, researchers are speaking in code",
-      "description": "Words considered \"woke\" are vanishing from National Science Foundation proposals. We tracked the changes....",
-      "link": "https://grist.org/language/climate-federal-research-grants-national-science-foundation/",
-      "pubDate": "Fri, 27 Mar 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/nsf-climate-interactive-v2-static-light.png?quality=75&amp;strip=all"
     }
   ]
 }
