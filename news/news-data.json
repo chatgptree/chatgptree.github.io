@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-30T06:03:26.639Z",
+  "lastUpdated": "2026-03-30T08:25:06.890Z",
   "articles": [
+    {
+      "title": "Sarah Lee captures the wonders of spring – in pictures",
+      "description": "&lt;p&gt;As the clocks go forward and the UK enters British summer time, the Guardian photographer Sarah Lee has been trying to distract herself from ...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/mar/30/sarah-lee-captures-wonders-of-spring-in-pictures",
+      "pubDate": "Mon, 30 Mar 2026 06:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0c9fa43c9724ae90f0fbaa07cdc608adb49088e2/1256_0_6160_4928/master/6160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bed0c2907ac8e14de054f009fb9ce39a"
+    },
     {
       "title": "Monday briefing: ​Has the single-use vape ban made any difference to our health or our environment?",
       "description": "&lt;p&gt;In today’s newsletter: Nearly a year after ​disposable vapes​ were outlawed, new figures suggest the policy has delivered only modest gains w...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Forget birdwatching, I’m into moth-watching: they’re fascinating and misunderstood insects | Helen Pilcher",
-      "description": "&lt;p&gt;According to new research, distinguishing between the UK’s 2,500 species could halt cognitive decline – so my brain could not be happier, or ...",
-      "link": "https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline",
-      "pubDate": "Sun, 29 Mar 2026 07:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1037f829056b1151f79fa8cc24a08c2a38aa302b/333_0_4264_3413/master/4264.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=101defe9e9ccb10d039087be29d0e709"
     }
   ]
 }
