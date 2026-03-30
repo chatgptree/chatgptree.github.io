@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-30T10:24:12.829Z",
+  "lastUpdated": "2026-03-30T11:59:38.171Z",
   "articles": [
+    {
+      "title": "Trump to revoke protections for endangered species in Gulf of Mexico",
+      "description": "&lt;p&gt;President is convening so-called ‘God squad’ to override provisions of Endangered Species Act for ‘national security’&lt;/p&gt;&lt;p&gt;Donal...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/30/trump-protections-endangered-species-gulf-of-mexico",
+      "pubDate": "Mon, 30 Mar 2026 11:00:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2900b8fd5b225bcb37f5757535a690f2c3c8eaaf/408_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e7b78e1dc36942092ad1fb3676cd9eb"
+    },
     {
       "title": "Concerns over £166k cost of rehoming bats",
       "description": "Concerns have been raised over the cost of two bat houses being built next to the M5....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A costly plan will keep a steel plant in JD Vance’s hometown running. Locals are aghast: ‘It’s horrible’",
-      "description": "&lt;p&gt;Fossil-fuel burning at Ohio facility could burn longer, leaving Middletown residents to face environmental risks&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
-      "link": "https://www.theguardian.com/us-news/2026/mar/29/jd-vance-middletown-cleveland-coal-investment",
-      "pubDate": "Sun, 29 Mar 2026 13:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b7f5785234fef252999cbd0b40ee15ed4c5492e2/1293_1061_3469_2775/master/3469.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b94d9e929bedf2dcfd0fb586337ab417"
     }
   ]
 }
