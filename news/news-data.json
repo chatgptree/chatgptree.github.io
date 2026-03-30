@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-30T11:59:38.171Z",
+  "lastUpdated": "2026-03-30T13:58:57.871Z",
   "articles": [
+    {
+      "title": "Demand for hydropower surges as Trump clamps down on clean energy",
+      "description": "&lt;p&gt;Home to one of the largest deposits of freshwater on the planet, the Great Lakes region will soon host next-generation tidal-powered generato...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/30/hydropower-great-lakes-clean-energy",
+      "pubDate": "Mon, 30 Mar 2026 13:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/98e844ae0da0a704b27eb622a292711b1de40b39/196_0_1920_1536/master/1920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39be10fdd16bc3e2ddf675d1c2ed9abd"
+    },
+    {
+      "title": "I discovered the elusive chestnut mining bee in New York after a gap of 119 years",
+      "description": "&lt;p&gt;For decades, there was no record of &lt;em&gt;Andrena rehni&lt;/em&gt; exisiting in the US. In 2018 it was found in Maryland and five years l...",
+      "link": "https://www.theguardian.com/environment/2026/mar/30/i-discovered-chestnut-mining-bee-new-york-molly-jacobson-aoe",
+      "pubDate": "Mon, 30 Mar 2026 13:00:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7529040683c2c618694b55f8483b9620bdb3a46d/0_185_1821_1456/master/1821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97fcbd202c2eefe938c64104c54758da"
+    },
     {
       "title": "Trump to revoke protections for endangered species in Gulf of Mexico",
       "description": "&lt;p&gt;President is convening so-called ‘God squad’ to override provisions of Endangered Species Act for ‘national security’&lt;/p&gt;&lt;p&gt;Donal...",
@@ -155,28 +173,10 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "LA county sheriff’s deputy dies after medical emergency during relay race",
-      "description": "&lt;p&gt;Levi Vargas, 30, was competing in Baker to Vegas race through Mojave desert as US south-west faces extreme heat&lt;/p&gt;&lt;p&gt;&lt;a href=...",
-      "link": "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race",
-      "pubDate": "Sun, 29 Mar 2026 23:08:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5622c58d29d9c7d29556c1eb4887456d54a64ec8/297_0_4552_3642/master/4552.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=341ce9089cc5295909443d3db72971ca"
-    },
-    {
-      "title": "'We have the ultimate trust in each other,' Artemis II commander says",
-      "description": "Nasa's Artemis II crew have been taking questions from quarantine ahead of their Moon mission....",
-      "link": "https://www.bbc.com/news/videos/czx94lwq12eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 29 Mar 2026 17:33:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bid for £1m to enhance 'treasured' landscape",
-      "description": "A series of improvements to the North Wessex Downs are on the cards if the funding bid succeeds....",
-      "link": "https://www.bbc.com/news/articles/c5y92nxlj2vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 29 Mar 2026 14:09:35 GMT",
+      "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+      "description": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond. ...",
+      "link": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 29 Mar 2026 23:50:21 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
