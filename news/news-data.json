@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-31T11:03:28.039Z",
+  "lastUpdated": "2026-03-31T13:53:48.034Z",
   "articles": [
+    {
+      "title": "Deepwater discoveries: scientists find more than 110 new fish and invertebrate species in the Coral Sea",
+      "description": "&lt;p&gt;Brittlestars, sea anemones and a catshark among new-to-science species collected during expedition off the Queensland coast&lt;/p&gt;&lt;ul&g...",
+      "link": "https://www.theguardian.com/environment/2026/apr/01/queensland-great-barrier-reef-coral-sea-110-new-fish-species-discovered",
+      "pubDate": "Tue, 31 Mar 2026 13:01:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/12f79a107d2e43886efbb08f4635252c9706d634/1893_30_5044_4035/master/5044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1044139f314a1b80c90b6c86f37cf8d9"
+    },
+    {
+      "title": "Nasa Apollo missions: Stories of the last Moon men",
+      "description": "Of the 24 Nasa astronauts who travelled to the Moon in the Apollo missions of the 1960s and 1970s, just five remain....",
+      "link": "https://www.bbc.com/news/articles/c4g9yde95yyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 31 Mar 2026 12:51:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s Iran war and energy policies outline ‘dangerous volatility’ of fossil fuel push",
+      "description": "&lt;p&gt;Critics say president is locking into 20th century energy systems even as his ‘bet’ on oil and gas ‘isn’t going so well’&lt;/p&gt;&lt;p&gt;By...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/31/trump-iran-war-fossil-fuel-policy-environment",
+      "pubDate": "Tue, 31 Mar 2026 12:00:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e25ce77469d62995fc1b777428d8dca40c014bf4/0_0_3726_2981/master/3726.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99cc5bc629b7d93c69c6397b4e46fe6e"
+    },
     {
       "title": "‘Something out of the ordinary’: why are Japan’s oysters dying en masse?",
       "description": "&lt;p&gt;A death rate of up to 90%, attributed to warming seas, is threatening the trade in Hiroshima prefecture, which produces most of the country’s...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fcc19701919c2b9249f6fcd5a92560fd336fbc9a/797_0_3262_2609/master/3262.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=184dc4b7c43edcd016170a3ffa74ed41"
-    },
-    {
-      "title": "The personal items the Artemis II crew are taking to the Moon",
-      "description": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices....",
-      "link": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 31 Mar 2026 03:46:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The personal items the Artemis II crew are taking to the Moon",
-      "description": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices....",
-      "link": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 31 Mar 2026 03:46:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Vanuatu Indigenous leaders raise concerns over plans to build resort for cruise tourists",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;Environmental impact assessments are ‘incomplete’, say leaders, and private beach club could harm fra...",
-      "link": "https://www.theguardian.com/world/2026/mar/31/vanuatu-indigenous-leaders-lelepa-cruise-resort",
-      "pubDate": "Tue, 31 Mar 2026 00:40:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e657d9fbea063d4b3306c84eaf63aae14e9aa81b/0_371_1383_1106/master/1383.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22a8a6683485891cd5bed82dbc232a27"
     }
   ]
 }
