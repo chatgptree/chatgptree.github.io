@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-31T09:11:53.366Z",
+  "lastUpdated": "2026-03-31T11:03:28.039Z",
   "articles": [
+    {
+      "title": "‘Something out of the ordinary’: why are Japan’s oysters dying en masse?",
+      "description": "&lt;p&gt;A death rate of up to 90%, attributed to warming seas, is threatening the trade in Hiroshima prefecture, which produces most of the country’s...",
+      "link": "https://www.theguardian.com/environment/2026/mar/31/japan-oysters-dying-death-rate-warming-seas-hiroshima",
+      "pubDate": "Tue, 31 Mar 2026 10:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9d22c7ca7cff9d2bd5922752dcab261117ad2441/147_0_4688_3750/master/4688.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=434892971fbc1ad8b7b1c4973077f7bb"
+    },
+    {
+      "title": "Trump sees 'America First' opportunity in Nasa mission to Moon",
+      "description": "A competitive edge with China and a possible lunar gold rush are twin goals behind Artemis II, experts tell the BBC....",
+      "link": "https://www.bbc.com/news/articles/cyv1q59py4go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 31 Mar 2026 09:56:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Looking to Jesus and Buddha, a Kentucky Passionist Priest Finds Hope Amid an Enveloping Global Environmental Crisis",
       "description": "LOUISVILLE, Ky.—Father Joe Mitchell, a Passionist priest, returned home here in 2004 to create a nonprofit center that focuses on what he saw as two m...",
@@ -39,7 +57,7 @@
     },
     {
       "title": "Oceans are absorbing the Earth&#8217;s excess energy. That&#8217;s bad news for food systems.",
-      "description": "As the planet traps more energy than it relea ses, the pathways for global food production are being upended....",
+      "description": "As the planet traps more energy than it releases, the pathways for global food production are being upended....",
       "link": "https://grist.org/food-and-agriculture/oceans-are-absorbing-the-earths-excess-energy-thats-bad-news-for-food-systems/",
       "pubDate": "Tue, 31 Mar 2026 08:30:00 +0000",
       "sourceName": "grist.org",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e657d9fbea063d4b3306c84eaf63aae14e9aa81b/0_371_1383_1106/master/1383.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22a8a6683485891cd5bed82dbc232a27"
-    },
-    {
-      "title": "FEMA Skips National Hurricane Conference Amid DHS Shutdown",
-      "description": "ORLANDO, Fla.—A major conference to help communities prepare for hurricane season kicked off Monday without the agency that coordinates federal disast...",
-      "link": "https://insideclimatenews.org/news/30032026/fema-skips-national-hurricane-conference/",
-      "pubDate": "Mon, 30 Mar 2026 22:41:58 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Behind the scenes: Astronaut training for Nasa’s moon mission",
-      "description": "Training for the Artemis II flight took place at the Johnson Space Center in Texas, and began soon after the crew was named in 2023....",
-      "link": "https://www.bbc.com/news/videos/c4gx7rq55jjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 30 Mar 2026 22:07:41 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
