@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-31T19:13:31.817Z",
+  "lastUpdated": "2026-03-31T20:52:13.000Z",
   "articles": [
+    {
+      "title": "The Trump Administration’s New Biofuels Targets Threaten Carbon-Rich Rainforests",
+      "description": "President Donald Trump stood on the Truman Balcony at the White House during the “Great American Agriculture Celebration&#8221; last week and announce...",
+      "link": "https://insideclimatenews.org/news/31032026/trump-biofuels-targets-threaten-rainforests/",
+      "pubDate": "Tue, 31 Mar 2026 19:17:34 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'God squad' waives animal protections to expand oil drilling",
       "description": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/climate-research-language-words.gif?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The West’s unprecedented winter could fuel a summer of disaster",
-      "description": "Record-low snowpack and an early heat wave could mean a higher risk of drought and fire in coming months....",
-      "link": "https://grist.org/climate/the-wests-unprecedented-winter-could-fuel-a-summer-of-disaster/",
-      "pubDate": "Tue, 31 Mar 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
