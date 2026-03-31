@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-03-31T13:53:48.034Z",
+  "lastUpdated": "2026-03-31T15:12:09.473Z",
   "articles": [
+    {
+      "title": "UK’s smallest bird of prey among 200 species at risk of extinction, study finds",
+      "description": "&lt;p&gt;Merlin could disappear in worst-case scenario, with British isles facing ecological ‘point of no return’&lt;/p&gt;&lt;p&gt;The merlin, Britai...",
+      "link": "https://www.theguardian.com/environment/2026/mar/31/uk-smallest-bird-prey-among-species-risk-extinction-study-finds",
+      "pubDate": "Tue, 31 Mar 2026 15:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/60813746e54de4f24247cadd6a89ef352a3ead09/0_874_4370_3496/master/4370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b1509e7bf44247af3dbac9244541b3f"
+    },
+    {
+      "title": "Demand for hydropower surges as Trump clamps down on clean energy",
+      "description": "&lt;p&gt;Home to one of the world’s largest deposits of freshwater, the Great Lakes region will soon host next-generation generators – just as prices ...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/30/hydropower-great-lakes-clean-energy",
+      "pubDate": "Tue, 31 Mar 2026 14:38:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e22ffe8ca0500d60815e3db19cc19d4433a717a5/299_0_1401_1122/master/1401.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e966900143447b609dd9d4e918a52520"
+    },
+    {
+      "title": "Could weather conditions stop Artemis II Moon launch?",
+      "description": "Nasa hopes to launch the first crewed mission around the Moon in more than 50 years, but weather may decide if the astronauts take off this week. ...",
+      "link": "https://www.bbc.com/news/videos/cly63g37p59o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 31 Mar 2026 13:56:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Deepwater discoveries: scientists find more than 110 new fish and invertebrate species in the Coral Sea",
       "description": "&lt;p&gt;Brittlestars, sea anemones and a catshark among new-to-science species collected during expedition off the Queensland coast&lt;/p&gt;&lt;ul&g...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/return-and-earn-logo.png"
-    },
-    {
-      "title": "Circular economies should work for communities, not against them",
-      "description": "Charles Darwin University The circular economy concept is often thought of as a model to eliminate waste and pollution – but when applied thoughtfully...",
-      "link": "https://econews.com.au/circular-economies-should-work-for-communities-not-against-them/",
-      "pubDate": "Tue, 31 Mar 2026 04:01:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Global Tensions and Energy Bills: Prices Are Easing – But Volatility Isn’t Off the Table",
-      "description": "By Sophie Ryan, Comparison Expert at iSelect Australians could finally feel some much-needed cost-of-living relief in their electricity bills, with be...",
-      "link": "https://econews.com.au/global-tensions-and-energy-bills-prices-are-easing-but-volatility-isnt-off-the-table/",
-      "pubDate": "Tue, 31 Mar 2026 04:01:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/08/iSelect-Logo-New-Orange-Color-2-2-1024x630.jpg"
-    },
-    {
-      "title": "Rubbish and recycling in England: what’s changing and why it matters",
-      "description": "&lt;p&gt;Nationwide reforms aim to standardise collections and expand food waste recycling to tackle stagnating rates&lt;/p&gt;&lt;p&gt;Recycling rule...",
-      "link": "https://www.theguardian.com/environment/2026/mar/31/rubbish-recycling-england-changes-reforms",
-      "pubDate": "Tue, 31 Mar 2026 04:00:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fcc19701919c2b9249f6fcd5a92560fd336fbc9a/797_0_3262_2609/master/3262.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=184dc4b7c43edcd016170a3ffa74ed41"
     }
   ]
 }
