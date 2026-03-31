@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-31T15:12:09.473Z",
+  "lastUpdated": "2026-03-31T17:08:58.163Z",
   "articles": [
+    {
+      "title": "What are the new bin rules in England?",
+      "description": "New rules requiring weekly food waste collections for all homes in England have come into force....",
+      "link": "https://www.bbc.com/news/videos/c5y7xw5llvdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 31 Mar 2026 16:19:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico",
+      "description": "&lt;p&gt;Critics say exemption for fossil fuels exploits White House’s ‘self-made gas crisis’, and could doom the rare Rice’s whale&lt;/p&gt;&lt;ul&gt...",
+      "link": "https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species",
+      "pubDate": "Tue, 31 Mar 2026 15:26:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7df5ac002b8790e161dc69f61eec051199c3f9c6/578_440_1109_888/master/1109.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03e014ed845f303830c302d12e367c6a"
+    },
     {
       "title": "UK’s smallest bird of prey among 200 species at risk of extinction, study finds",
       "description": "&lt;p&gt;Merlin could disappear in worst-case scenario, with British isles facing ecological ‘point of no return’&lt;/p&gt;&lt;p&gt;The merlin, Britai...",
@@ -120,7 +138,7 @@
     },
     {
       "title": "The West’s unprecedented winter could fuel a summer of disaster",
-      "description": "Record-low snowpack and an early heatwave could mean a higher risk of drought and fire in coming months....",
+      "description": "Record-low snowpack and an early heat wave could mean a higher risk of drought and fire in coming months....",
       "link": "https://grist.org/climate/the-wests-unprecedented-winter-could-fuel-a-summer-of-disaster/",
       "pubDate": "Tue, 31 Mar 2026 08:15:00 +0000",
       "sourceName": "grist.org",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/68f935a45fd07c7e433b539a214639aa6532d69a/388_0_3537_2832/master/3537.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ef05da6554c80d4d68aef40ba2f416c"
-    },
-    {
-      "title": "Ministers move towards national battery stewardship as fire risks",
-      "description": "Australia’s Environment Ministers have signalled a shift towards nationally harmonised battery stewardship, prioritising exploration of a mandatory ap...",
-      "link": "https://econews.com.au/ministers-move-towards-national-battery-stewardship-as-fire-risks/",
-      "pubDate": "Tue, 31 Mar 2026 04:01:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Return and Earn is even more convenient in Parramatta",
-      "description": "Return and Earn Parramatta?residents have even more locations to recycle their eligible bottles,?cans?and cartons with the opening of a new Return and...",
-      "link": "https://econews.com.au/return-and-earn-is-even-more-convenient-in-parramatta/",
-      "pubDate": "Tue, 31 Mar 2026 04:01:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/return-and-earn-logo.png"
     }
   ]
 }
