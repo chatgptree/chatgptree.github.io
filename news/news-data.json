@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-31T21:50:06.220Z",
+  "lastUpdated": "2026-03-31T22:42:47.737Z",
   "articles": [
+    {
+      "title": "Water-Use Restrictions Follow Snow Drought and Heat Wave in the Western U.S.",
+      "description": "Officials were already sounding the alarm bells in early March across the Western United States after a winter with historically low snowpacks, which ...",
+      "link": "https://insideclimatenews.org/news/31032026/todays-climate-water-use-restrictions-snow-drought-western-us/",
+      "pubDate": "Tue, 31 Mar 2026 22:33:48 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Trump Administration’s New Biofuels Targets Threaten Carbon-Rich Rainforests",
       "description": "President Donald Trump stood on the Truman Balcony at the White House during the “Great American Agriculture Celebration&#8221; last week and announce...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/IMG_5631.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Oceans are absorbing the Earth&#8217;s excess energy. That&#8217;s bad news for food systems.",
-      "description": "As the planet traps more energy than it releases, the pathways for global food production are being upended....",
-      "link": "https://grist.org/food-and-agriculture/oceans-are-absorbing-the-earths-excess-energy-thats-bad-news-for-food-systems/",
-      "pubDate": "Tue, 31 Mar 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/climate-research-language-words.gif?quality=75&#038;strip=all"
     }
   ]
 }
