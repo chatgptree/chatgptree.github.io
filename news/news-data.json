@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-01T13:57:16.012Z",
+  "lastUpdated": "2026-04-01T15:18:25.469Z",
   "articles": [
+    {
+      "title": "Project to bring rare butterfly back to Yorkshire",
+      "description": "The UK's largest native butterfly has not been seen in the region for more than a century....",
+      "link": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 15:07:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Fossil-fuel imperialism’: Trump’s hankering for Iranian oil runs deep",
+      "description": "&lt;p&gt;Experts say the US believes it is entitled to resources it desires – a perspective president has supported for decades&lt;/p&gt;&lt;p&gt;Dona...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism",
+      "pubDate": "Wed, 01 Apr 2026 14:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f97e21611fa628b3d1c7092767dcd56af40a5bf2/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99f858093f7100a6739f3bbe27be908b"
+    },
     {
       "title": "After Chemical Industry Lobbying, EPA Considers Dropping Clean Air Protections for Plastic Waste Recycling",
       "description": "When former top Environmental Protection Agency official Judith Enck noticed a cavalcade of chemical and plastics industry lobbyists visiting the agen...",
@@ -54,6 +72,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/401acc09942d351f6de54c44f310b50c9113d231/0_0_1166_932/master/1166.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=76cda168f0fdd6a1462eaaa060376a75"
+    },
+    {
+      "title": "Weather looks favourable for Artemis launch despite cloud",
+      "description": "Artemis II is close to launch - Simon King explains the critical importance of the weather to its success....",
+      "link": "https://www.bbc.com/weather/articles/cj6w4p106klo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 09:22:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Pennsylvania Lawmakers Are Talking the Talk on Data Center Regulations. But Will They Walk?",
@@ -119,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Project to bring rare butterfly back to Yorkshire",
-      "description": "The UK's largest native butterfly has not been seen in the region for more than a century....",
-      "link": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 05:13:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war",
       "description": "&lt;p&gt;South Korea will delay the shutdown of coal-fired plants, while the Philippines also plans to boost the output of its coal-burning plants&lt;...",
       "link": "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal",
@@ -159,24 +177,6 @@
       "description": "The City of Boroondara has unveiled a new initiative, BooST (Boroondara’s Sustainable Transition), giving residents access to free expert advice and g...",
       "link": "https://econews.com.au/financial-boost-for-homeowners-in-boroondara/",
       "pubDate": "Wed, 01 Apr 2026 04:01:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Flight Centre Travel Group launches global giving initiative  powered by The Intrepid Foundation",
-      "description": "Flight Centre Travel Group has partnered with The Intrepid Foundation, the not-for-profit arm of Intrepid Travel, to launch a global giving program, F...",
-      "link": "https://econews.com.au/flight-centre-travel-group-launches-global-giving-initiative-powered-by-the-intrepid-foundation/",
-      "pubDate": "Wed, 01 Apr 2026 04:01:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/FCTG-Gives-low-res.png"
-    },
-    {
-      "title": "Origin reaches major milestone on journey to make EVs more accessible and affordable for Australians",
-      "description": "Origin has officially surpassed 2,000 electric vehicles (EVs) under management, cementing its position as Australia’s largest dedicated EV subscriptio...",
-      "link": "https://econews.com.au/origin-reaches-major-milestone-on-journey-to-make-evs-more-accessible-and-affordable-for-australians/",
-      "pubDate": "Wed, 01 Apr 2026 04:01:04 +0000",
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
