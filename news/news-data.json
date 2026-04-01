@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-01T21:51:52.453Z",
+  "lastUpdated": "2026-04-01T22:49:45.209Z",
   "articles": [
+    {
+      "title": "Elon Musk's SpaceX moves to become a publicly-traded company",
+      "description": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire....",
+      "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 22:35:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Global Climate Panel Faces Strife, Potential Funding Crunch",
       "description": "At a time when cascading climate shocks are unfolding faster than scientists can track them, the UN’s scientific body that assesses global warming ris...",
@@ -16,6 +25,15 @@
       "link": "https://insideclimatenews.org/news/01042026/wyoming-dry-winter-fire-forecast/",
       "pubDate": "Wed, 01 Apr 2026 21:11:14 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Suited up and ready to go: Watch the Artemis crew's journey to launch",
+      "description": "From spacesuit fitting to final communications checks in the rocket, the crew prepared for liftoff to begin their 10-day mission....",
+      "link": "https://www.bbc.com/news/videos/cx2vqz4wx9ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 19:54:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2024/03/florida-heat-merged216x9-final.gif?quality=75&#038;strip=all"
-    },
-    {
-      "title": "'It's phenomenal!': Excitement in Florida ahead of Artemis launch",
-      "description": "BBC’s Leyla Khodabakhshi speaks to locals and visitors in Florida ahead of the Artemis II mission blast off....",
-      "link": "https://www.bbc.com/news/videos/c3w3d9lqg2xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 06:37:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Energy crisis: why ‘keep calm but cut down’ may be a better message for Labour",
-      "description": "&lt;p&gt;Government keen to avoid panic as oil price surges, but perhaps households need advice on reducing consumption&lt;/p&gt;&lt;p&gt;Labour minis...",
-      "link": "https://www.theguardian.com/politics/2026/apr/01/energy-crisis-keep-calm-but-cut-down-better-message-labour",
-      "pubDate": "Wed, 01 Apr 2026 06:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/42624130a93053c72a80e2e4b1c013f4ab799fdd/949_0_5945_4756/master/5945.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7772cb679898d69d0af4ac1523cc83a9"
     }
   ]
 }
