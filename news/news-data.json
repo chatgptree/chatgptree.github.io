@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-04-01T22:49:45.209Z",
+  "lastUpdated": "2026-04-01T23:44:26.903Z",
   "articles": [
     {
-      "title": "Elon Musk's SpaceX moves to become a publicly-traded company",
-      "description": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire....",
-      "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 22:35:23 GMT",
+      "title": "'Spectacular!' - BBC journalist's emotional reaction to Artemis II launch",
+      "description": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida....",
+      "link": "https://www.bbc.com/news/videos/c8r4e7jpkz6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 23:36:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'Spectacular!' - BBC journalist's emotional reaction to Artemis II launch",
+      "description": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida....",
+      "link": "https://www.bbc.com/news/videos/c8r4e7jpkz6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 23:36:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Watch the moment Artemis II blasts into space on historic mission",
+      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally takes off from the Kennedy Space Center in Florida....",
+      "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 23:00:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Everything you need to know about Nasa's Artemis II mission",
+      "description": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 22:50:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "World's oldest known tortoise, Jonathan, dies aged 193",
+      "description": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\"....",
+      "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 22:20:11 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -92,15 +128,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "UK engineer says Moon is 'stepping stone' to Mars",
-      "description": "Keith Wright from Dorset, worked on Apollo 11 - the first mission to land astronauts on the Moon....",
-      "link": "https://www.bbc.com/news/articles/cdxkv454n7zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 13:00:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "‘On a whole other level’: rapid snow melt-off in American west stuns scientists",
       "description": "&lt;p&gt;Experts say brutal March heat has left critical snowpack at record-low levels – and key basins in uncharted territory&lt;/p&gt;&lt;p&gt;Snow ...",
       "link": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When is Nasa's Moon mission launch and what will Artemis do?",
-      "description": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 08:59:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pocket gardens: The tiny urban oases with surprisingly big benefits",
-      "description": "Little bits of greenery are popping up in cities, making summers more bearable for urbanites....",
-      "link": "https://grist.org/cities/pocket-gardens-the-tiny-urban-oases-with-surprisingly-big-benefits/",
-      "pubDate": "Wed, 01 Apr 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2201116581.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "As climate change threatens student athlete safety, states try to adapt",
-      "description": "But some school districts can’t afford to comply with requirements for special equipment or alternate practice schedules.  ...",
-      "link": "https://grist.org/extreme-heat/as-climate-change-threatens-student-athlete-safety-states-try-to-adapt/",
-      "pubDate": "Wed, 01 Apr 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/03/florida-heat-merged216x9-final.gif?quality=75&#038;strip=all"
     }
   ]
 }
