@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-01T11:56:29.008Z",
+  "lastUpdated": "2026-04-01T13:57:16.012Z",
   "articles": [
+    {
+      "title": "After Chemical Industry Lobbying, EPA Considers Dropping Clean Air Protections for Plastic Waste Recycling",
+      "description": "When former top Environmental Protection Agency official Judith Enck noticed a cavalcade of chemical and plastics industry lobbyists visiting the agen...",
+      "link": "https://insideclimatenews.org/news/01042026/after-chemical-industry-lobbying-epa-considers-dropping-clean-air-protections-for-plastic-waste-recycling/",
+      "pubDate": "Wed, 01 Apr 2026 13:45:26 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK engineer says Moon is 'stepping stone' to Mars",
+      "description": "Keith Wright from Dorset, worked on Apollo 11 - the first mission to land astronauts on the Moon....",
+      "link": "https://www.bbc.com/news/articles/cdxkv454n7zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 13:00:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘On a whole other level’: rapid snow melt-off in American west stuns scientists",
+      "description": "&lt;p&gt;Experts say brutal March heat has left critical snowpack at record-low levels – and key basins in uncharted territory&lt;/p&gt;&lt;p&gt;Snow ...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
+      "pubDate": "Wed, 01 Apr 2026 13:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/28808bd73985f481232ab6e4aa611317a666bc81/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f56a942e6e37210d6e24816d3e82b370"
+    },
+    {
+      "title": "‘Guano is far more than just droppings’: scientists uncover the secrets of bat poo in Gorongosa park",
+      "description": "&lt;p&gt;The more than 100 bat species living in the Mozambican reserve’s labyrinth of caves play a key role in maintaining a fragile ecosysytem that ...",
+      "link": "https://www.theguardian.com/environment/2026/apr/01/mozambique-wildlife-conservation-gorongosa-bats-guano-dna-wildlife-pests-aoe",
+      "pubDate": "Wed, 01 Apr 2026 12:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/554fae9a44c9c2b3c4843d2657bfc034ee0b8c2e/440_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21773df0dc67f103ade05eb2773efb61"
+    },
     {
       "title": "This is what a fossil-fuel shock looks like. The UK must adapt its energy system – and quickly | Chaitanya Kumar",
       "description": "&lt;p&gt;The Iran war will hit food prices, fuel costs and interest rates. But with a few smart moves, we could could turn this crisis to our advantag...",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "LIV Golf Launches LIV For Good, Committing to Impact Five Million Youth Through Initiatives tied to the Game, Community, and Planet",
-      "description": "Southern Guards GC’s Charl Schwartzel and Dean Burmester participate with attendees of the Southern Guards GC Youth Clinic ahead of LIV Golf South Afr...",
-      "link": "https://econews.com.au/liv-golf-launches-liv-for-good-committing-to-impact-five-million-youth-through-initiatives-tied-to-the-game-community-and-planet/",
-      "pubDate": "Wed, 01 Apr 2026 04:01:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-95-1024x682.png"
-    },
-    {
-      "title": "SolaX X3-Pro-G2 Delivers 100% Renewable Operations for Australian Distillery",
-      "description": "Precisely specified 20kW commercial installation cuts Brunswick Aces’ energy bills by nearly 80% and highlights solar’s growing role in small business...",
-      "link": "https://econews.com.au/solax-x3-pro-g2-delivers-100-renewable-operations-for-australian-distillery/",
-      "pubDate": "Wed, 01 Apr 2026 04:01:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
-      "description": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission....",
-      "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 00:00:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'It's going to be a great show': Crowds gather for countdown to Nasa’s Artemis launch",
-      "description": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission....",
-      "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 00:00:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
