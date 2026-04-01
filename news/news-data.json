@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-01T20:55:30.275Z",
+  "lastUpdated": "2026-04-01T21:51:52.453Z",
   "articles": [
+    {
+      "title": "Global Climate Panel Faces Strife, Potential Funding Crunch",
+      "description": "At a time when cascading climate shocks are unfolding faster than scientists can track them, the UN’s scientific body that assesses global warming ris...",
+      "link": "https://insideclimatenews.org/news/01042026/ipcc-global-climate-panel-potential-problems/",
+      "pubDate": "Wed, 01 Apr 2026 21:26:09 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Warm, Dry Winter Has Left Firefighters in Wyoming Nervous",
+      "description": "On the heels of one of the warmest and driest winters on record, parts of Wyoming show “significant fire potential” this spring and summer, according ...",
+      "link": "https://insideclimatenews.org/news/01042026/wyoming-dry-winter-fire-forecast/",
+      "pubDate": "Wed, 01 Apr 2026 21:11:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Suited up and ready to go: Watch the Artemis crew's journey to launch",
       "description": "From spacesuit fitting to final communications checks in the rocket, the crew prepared for liftoff to begin their 10-day mission....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/42624130a93053c72a80e2e4b1c013f4ab799fdd/949_0_5945_4756/master/5945.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7772cb679898d69d0af4ac1523cc83a9"
-    },
-    {
-      "title": "Zoo welcomes 'vulnerable' giant anteater pup",
-      "description": "The  anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says....",
-      "link": "https://www.bbc.com/news/articles/cz780wx5eveo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 05:26:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war",
-      "description": "&lt;p&gt;South Korea will delay the shutdown of coal-fired plants, while the Philippines also plans to boost the output of its coal-burning plants&lt;...",
-      "link": "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal",
-      "pubDate": "Wed, 01 Apr 2026 05:05:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7dfcffa0f7dc694d16fecaa7fd807999c7b082c1/666_0_4066_3253/master/4066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9abc202c6df0890cb1f34ade1d390a3a"
     }
   ]
 }
