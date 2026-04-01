@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-01T19:15:19.993Z",
+  "lastUpdated": "2026-04-01T20:55:30.275Z",
   "articles": [
+    {
+      "title": "Suited up and ready to go: Watch the Artemis crew's journey to launch",
+      "description": "From spacesuit fitting to final communications checks in the rocket, the crew prepared for liftoff to begin their 10-day mission....",
+      "link": "https://www.bbc.com/news/videos/cx2vqz4wx9ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 01 Apr 2026 19:54:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump’s ‘God Squad’ blocks endangered species protections in the Gulf of Mexico",
       "description": "Citing the Iran war, the administration let oil companies take actions that are likely to threaten an endangered whale....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7dfcffa0f7dc694d16fecaa7fd807999c7b082c1/666_0_4066_3253/master/4066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9abc202c6df0890cb1f34ade1d390a3a"
-    },
-    {
-      "title": "Museum gets grant for Bradford astronomer project",
-      "description": "The project at Bolling Hall Museum will focus on Bradford-born astronomer Abraham Sharp....",
-      "link": "https://www.bbc.com/news/articles/c17vr0w020go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 05:03:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
