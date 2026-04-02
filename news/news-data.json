@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-04-02T07:25:25.754Z",
+  "lastUpdated": "2026-04-02T09:10:25.549Z",
   "articles": [
+    {
+      "title": "Why Doesn’t Texas, the Leader of Onshore Wind Energy, Have Any Offshore?",
+      "description": "Texas state officials have led a successful and concerted effort to prevent offshore wind developments in the Gulf. Over the last few years, key leade...",
+      "link": "https://insideclimatenews.org/news/02042026/texas-offshore-wind-energy-battles/",
+      "pubDate": "Thu, 02 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Georgia’s New Public Service Commissioner Says She Will Put Affordability and Transparency First",
+      "description": "The Georgia Public Service Commission has approved six rate increases in three years and signed off on a sweeping expansion of fossil fuel infrastruct...",
+      "link": "https://insideclimatenews.org/news/02042026/georgia-public-service-commissioner-alicia-johnson-affordability/",
+      "pubDate": "Thu, 02 Apr 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'Oh my goodness, that is spectacular':  See BBC science editor react to launch",
+      "description": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon....",
+      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 08:40:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'Spectacular!': BBC science editor reacts to Artemis II launch",
+      "description": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon....",
+      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 08:40:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Solar was poised to help Puerto Ricans survive blackouts — until Trump axed nearly $1B in funding",
+      "description": "The money is being redirected to the Puerto Rico Electric Power Authority, a government-owned utility with a checkered past....",
+      "link": "https://grist.org/energy/puerto-rico-solar-funding-prepa-fossil-fuel-trump/",
+      "pubDate": "Thu, 02 Apr 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/puerto-rico-feat-img-compressed.gif?quality=75&#038;strip=all"
+    },
+    {
+      "title": "These maps show exactly where the West might burn this summer",
+      "description": "Amid drought and heat waves, April’s national wildfire forecast shows that nearly the entire Western U.S. will face an above-normal risk of wildfires ...",
+      "link": "https://grist.org/extreme-weather/these-maps-show-exactly-where-the-west-might-burn-this-summer/",
+      "pubDate": "Thu, 02 Apr 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "World's oldest known tortoise still alive, as reports of death revealed as hoax",
+      "description": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax....",
+      "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 08:03:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Thames Water ‘close to deal that would spare it new Ofwat fines until 2030’",
+      "description": "&lt;p&gt;Offer reportedly put forward by creditors hoping to save struggling firm from being renationalised temporarily&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "link": "https://www.theguardian.com/business/2026/apr/02/thames-water-close-to-deal-that-would-spare-it-ofwat-fines-until-2030",
+      "pubDate": "Thu, 02 Apr 2026 07:57:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/26d722cebd7dc83026f513b33866e8a40b43c808/354_72_2466_1973/master/2466.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7507537e8f8402054d58d14b020751c"
+    },
     {
       "title": "UK looks to relax planning rules for factory farms after industry lobbying",
       "description": "&lt;p&gt;Exclusive: documents chronicle years-long campaign to make it easier to build intensive livestock units&lt;/p&gt;&lt;p&gt;Ministers are rewri...",
@@ -74,16 +146,7 @@
       "image": "https://i.guim.co.uk/img/media/4bf527d02b4f9b82c6ae9a8238781a2e6600d752/277_0_4945_3957/master/4945.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86c3793a4bb41352af89d082d15d0324"
     },
     {
-      "title": "World's oldest known tortoise, Jonathan, still alive despite reports of death",
-      "description": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax....",
-      "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 03:45:16 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cheers and euphoria as dream of space travel reignites",
+      "title": "Dream of space travel reignites with journey to circle the Moon",
       "description": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh....",
       "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
@@ -102,7 +165,7 @@
     },
     {
       "title": "Everything you need to know about Nasa's Artemis II mission",
-      "description": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before....",
+      "description": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before....",
       "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 02 Apr 2026 00:16:43 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -114,69 +177,6 @@
       "description": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida....",
       "link": "https://www.bbc.com/news/videos/c8r4e7jpkz6o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 01 Apr 2026 23:36:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch the moment Artemis II blasts into space",
-      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit....",
-      "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 23:00:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch the moment Artemis II blasts off on historic mission",
-      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit....",
-      "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 23:00:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch the moment Artemis II blasts into space on historic mission",
-      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit....",
-      "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 23:00:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Global Climate Panel Faces Strife, Potential Funding Crunch",
-      "description": "At a time when cascading climate shocks are unfolding faster than scientists can track them, the UN’s scientific body that assesses global warming ris...",
-      "link": "https://insideclimatenews.org/news/01042026/ipcc-global-climate-panel-potential-problems/",
-      "pubDate": "Wed, 01 Apr 2026 21:26:09 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Warm, Dry Winter Has Left Firefighters in Wyoming Nervous",
-      "description": "On the heels of one of the warmest and driest winters on record, parts of Wyoming show “significant fire potential” this spring and summer, according ...",
-      "link": "https://insideclimatenews.org/news/01042026/wyoming-dry-winter-fire-forecast/",
-      "pubDate": "Wed, 01 Apr 2026 21:11:14 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s ‘God Squad’ blocks endangered species protections in the Gulf of Mexico",
-      "description": "Citing the Iran war, the administration let oil companies take actions that are likely to threaten an endangered whale....",
-      "link": "https://grist.org/energy/trump-god-squad-endangered-species-oil-whale-gulf/",
-      "pubDate": "Wed, 01 Apr 2026 17:29:20 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/CATALO2.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Project to bring rare butterfly back to Yorkshire",
-      "description": "The UK's largest native butterfly has not been seen in the region for more than a century....",
-      "link": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 15:07:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
