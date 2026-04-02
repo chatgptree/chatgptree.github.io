@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-02T15:06:56.968Z",
+  "lastUpdated": "2026-04-02T17:04:24.014Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Why men have nipples and how gravity slingshots work; your science questions answered....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977d?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists excited to receive first Artemis signal",
+      "description": "The station in Cornwall is helping to track Artemis II in its crewed mission to the Moon....",
+      "link": "https://www.bbc.com/news/articles/cy01w9jx974o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 15:31:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a lush Miami park was designed to keep flooding at bay – in pictures",
+      "description": "&lt;p&gt;As the climate crisis intensifies the storms lashing south Florida, it is imperative to design spaces that soak up the water. The 19.4-acre B...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/apr/02/photos-miami-bayshore-park-flooding-climate-crisis",
+      "pubDate": "Thu, 02 Apr 2026 15:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/81f2cca71023eb49910a27901681bd980210959a/805_465_3052_2443/master/3052.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3ba46ac2c283c1c7d4ae0d49ea08129"
+    },
     {
       "title": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
       "description": "After a spectacular launch the astronauts are preparing for a high-stakes engine burn out of Earth's orbit. ...",
@@ -92,19 +119,10 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Scientists excited to receive first Artemis signal",
-      "description": "The station in Cornwall is helping to track Artemis II in its crewed mission to the Moon....",
-      "link": "https://www.bbc.com/news/articles/cy01w9jx974o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 11:50:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Everything you need to know about Nasa's Artemis II mission",
-      "description": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 10:08:34 GMT",
+      "title": "Artemis II is in orbit - what happens next?",
+      "description": "What are the mission's four astronauts doing and when will they go to the Moon?...",
+      "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 12:20:34 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Oh my goodness, oh my goodness':  Watch BBC science editor react to launch",
-      "description": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon....",
-      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 08:40:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Solar was poised to help Puerto Ricans survive blackouts — until Trump axed nearly $1B in funding",
-      "description": "The money is being redirected to the Puerto Rico Electric Power Authority, a government-owned utility with a checkered past....",
-      "link": "https://grist.org/energy/puerto-rico-solar-funding-prepa-fossil-fuel-trump/",
-      "pubDate": "Thu, 02 Apr 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/08/puerto-rico-feat-img-compressed.gif?quality=75&#038;strip=all"
     }
   ]
 }
