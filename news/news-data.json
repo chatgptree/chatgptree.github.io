@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-04-02T09:10:25.549Z",
+  "lastUpdated": "2026-04-02T11:01:09.593Z",
   "articles": [
+    {
+      "title": "Everything you need to know about Nasa's Artemis II mission",
+      "description": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 10:08:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why thousands of New Yorkers swap gas for induction stoves in clean energy push: ‘It makes sense’",
+      "description": "&lt;p&gt;US states from California to Georgia are promoting induction stoves for climate, health and cost benefits&lt;/p&gt;&lt;p&gt;Marcos Ramos hasn...",
+      "link": "https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy",
+      "pubDate": "Thu, 02 Apr 2026 10:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7f6442b43368a54aab02856f7c6ffe57062ce3b5/333_0_3333_2668/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad38010ac997712d21330947d89705b4"
+    },
+    {
+      "title": "Thames Water ‘close to deal that would spare it new Ofwat fines until 2030’",
+      "description": "&lt;p&gt;Offer reportedly put forward by creditors hoping to save struggling firm from being renationalised temporarily&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "link": "https://www.theguardian.com/business/2026/apr/02/thames-water-close-to-deal-that-would-spare-it-ofwat-fines-until-2030",
+      "pubDate": "Thu, 02 Apr 2026 09:58:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/26d722cebd7dc83026f513b33866e8a40b43c808/354_72_2466_1973/master/2466.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7507537e8f8402054d58d14b020751c"
+    },
+    {
+      "title": "Nasa Apollo missions: Stories of the last Moon men",
+      "description": "Of the 24 Nasa astronauts who travelled to the Moon in the Apollo missions of the 1960s and 1970s, just five remain....",
+      "link": "https://www.bbc.com/news/articles/c4g9yde95yyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 09:55:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a chance meeting shaped Canadian Jeremy Hansen's mission to the Moon",
+      "description": "Inspired by a picture of Neil Armstrong, the Ontario-born astronaut has dreamed of space since he was a child....",
+      "link": "https://www.bbc.com/news/articles/cy81n289739o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 09:28:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "World’s oldest tortoise caught in viral crypto death scam",
+      "description": "&lt;p&gt;Fake X account posing as his vet sparked global false reports of Jonathan’s death while soliciting crypto donations&lt;/p&gt;&lt;p&gt;At 194 ...",
+      "link": "https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam",
+      "pubDate": "Thu, 02 Apr 2026 09:19:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a590c6b3c91bc2397437ce751aff59a79d0c9e44/106_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=106728275cd02d3dee34140258694336"
+    },
     {
       "title": "Why Doesn’t Texas, the Leader of Onshore Wind Energy, Have Any Offshore?",
       "description": "Texas state officials have led a successful and concerted effort to prevent offshore wind developments in the Gulf. Over the last few years, key leade...",
@@ -16,15 +70,6 @@
       "link": "https://insideclimatenews.org/news/02042026/georgia-public-service-commissioner-alicia-johnson-affordability/",
       "pubDate": "Thu, 02 Apr 2026 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Oh my goodness, that is spectacular':  See BBC science editor react to launch",
-      "description": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon....",
-      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 08:40:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -65,15 +110,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Thames Water ‘close to deal that would spare it new Ofwat fines until 2030’",
-      "description": "&lt;p&gt;Offer reportedly put forward by creditors hoping to save struggling firm from being renationalised temporarily&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
-      "link": "https://www.theguardian.com/business/2026/apr/02/thames-water-close-to-deal-that-would-spare-it-ofwat-fines-until-2030",
-      "pubDate": "Thu, 02 Apr 2026 07:57:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/26d722cebd7dc83026f513b33866e8a40b43c808/354_72_2466_1973/master/2466.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7507537e8f8402054d58d14b020751c"
-    },
-    {
       "title": "UK looks to relax planning rules for factory farms after industry lobbying",
       "description": "&lt;p&gt;Exclusive: documents chronicle years-long campaign to make it easier to build intensive livestock units&lt;/p&gt;&lt;p&gt;Ministers are rewri...",
       "link": "https://www.theguardian.com/environment/2026/apr/02/uk-looks-to-relax-planning-rules-for-factory-farms-after-industry-lobbying",
@@ -81,15 +117,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2e8877373ab40031a4f600910073e5b854369bdc/1285_0_6459_5165/master/6459.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dc4632f587baf3460f5bcd58e63055c"
-    },
-    {
-      "title": "World’s oldest tortoise caught in viral crypto death scam",
-      "description": "&lt;p&gt;Fake X account posing as his vet sparked global false reports of Jonathan’s death while soliciting crypto donations&lt;/p&gt;&lt;p&gt;At 194 ...",
-      "link": "https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam",
-      "pubDate": "Thu, 02 Apr 2026 06:38:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a590c6b3c91bc2397437ce751aff59a79d0c9e44/106_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=106728275cd02d3dee34140258694336"
     },
     {
       "title": "Passengers watch Artemis II blast off from commercial plane",
@@ -150,33 +177,6 @@
       "description": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh....",
       "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
-      "description": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh....",
-      "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Everything you need to know about Nasa's Artemis II mission",
-      "description": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 00:16:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Spectacular!' - BBC journalist's emotional reaction to Artemis II launch",
-      "description": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida....",
-      "link": "https://www.bbc.com/news/videos/c8r4e7jpkz6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 23:36:55 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
