@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-04-02T11:01:09.593Z",
+  "lastUpdated": "2026-04-02T13:46:27.926Z",
   "articles": [
+    {
+      "title": "Water and wildlife return to farmland ponds",
+      "description": "Two restored ponds on the Hertfordshire-Essex border see recovery, including breeding newts....",
+      "link": "https://www.bbc.com/news/articles/ckge5r66npxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 13:36:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Swinney softens stance on North Sea drilling as oil prices soar",
+      "description": "The first minister said energy security should be a primary concern when making decisions on oil and gas projects....",
+      "link": "https://www.bbc.com/news/articles/c937kqxyy5wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 13:01:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Which State Leads in Battery Energy Storage? It Depends on How You Measure.",
+      "description": "On a recent evening, batteries were the broad shoulders propping up California’s electricity grid. The state got 43 percent of its power from batterie...",
+      "link": "https://insideclimatenews.org/news/02042026/inside-clean-energy-us-battery-storage/",
+      "pubDate": "Thu, 02 Apr 2026 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "First live view of Artemis II crew since arriving in space",
+      "description": "Nasa astronauts conducted a number of different tests on board the Orion spacecraft - including practising manoeuvring the capsule....",
+      "link": "https://www.bbc.com/news/videos/cwy3rp5ekrxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 12:31:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Artemis II is in orbit - what happens next?",
+      "description": "What are the mission's four astronauts doing and when will they go to the Moon?...",
+      "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 12:20:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Artemis II is in orbit - what happens next?",
+      "description": "What are the mission's four astronauts doing and when will they go to the Moon?...",
+      "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 12:20:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists excited to receive first Artemis signal",
+      "description": "The station in Cornwall is helping to track Artemis II in its crewed mission to the Moon....",
+      "link": "https://www.bbc.com/news/articles/cy01w9jx974o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 11:50:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Everything you need to know about Nasa's Artemis II mission",
+      "description": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 10:08:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Everything you need to know about Nasa's Artemis II mission",
       "description": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before....",
@@ -38,15 +110,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How a chance meeting shaped Canadian Jeremy Hansen's mission to the Moon",
-      "description": "Inspired by a picture of Neil Armstrong, the Ontario-born astronaut has dreamed of space since he was a child....",
-      "link": "https://www.bbc.com/news/articles/cy81n289739o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 09:28:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "World’s oldest tortoise caught in viral crypto death scam",
       "description": "&lt;p&gt;Fake X account posing as his vet sparked global false reports of Jonathan’s death while soliciting crypto donations&lt;/p&gt;&lt;p&gt;At 194 ...",
       "link": "https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam",
@@ -74,7 +137,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "'Spectacular!': BBC science editor reacts to Artemis II launch",
+      "title": "'Oh my goodness, oh my goodness':  Watch BBC science editor react to launch",
       "description": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon....",
       "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 02 Apr 2026 08:40:55 GMT",
@@ -117,69 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2e8877373ab40031a4f600910073e5b854369bdc/1285_0_6459_5165/master/6459.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dc4632f587baf3460f5bcd58e63055c"
-    },
-    {
-      "title": "Passengers watch Artemis II blast off from commercial plane",
-      "description": "People on a commercial flight were treated to a rare view of the launch of Nasa's first crewed mission to the Moon in half a century....",
-      "link": "https://www.bbc.com/news/videos/c1mkz9pe49eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 05:28:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "$1.2m partnership for robots to fix roads",
-      "description": "Ali Rajabipour is the Director of CDU’s Centre for Asphalt and Road Technologies. Charles Darwin University An AI-powered robotic system will soon det...",
-      "link": "https://econews.com.au/1-2m-partnership-for-robots-to-fix-roads/",
-      "pubDate": "Thu, 02 Apr 2026 05:01:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Charles-Darwin-Uni-logo.png"
-    },
-    {
-      "title": "RUNNATION FILM FESTIVAL RETURNS WITH 30+ SCREENINGS ACROSS AUSTRALIA AND NEW ZEALAND IN 2026",
-      "description": "Real stories. Running connections. A film night to inspire. RunNation Film Festival returns for its 12th year in 2026, touring more than 30 locations ...",
-      "link": "https://econews.com.au/runnation-film-festival-returns-with-30-screenings-across-australia-and-new-zealand-in-2026/",
-      "pubDate": "Thu, 02 Apr 2026 05:01:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "NRMA Insurance reports record jump in EV quote requests as fuel prices surge",
-      "description": "New NRMA Insurance data shows quotes for electric vehicles (EVs) jumped 42% in March 2026, and by 81% year on year, as more Australian’s consider EVs ...",
-      "link": "https://econews.com.au/nrma-insurance-reports-record-jump-in-ev-quote-requests-as-fuel-prices-surge/",
-      "pubDate": "Thu, 02 Apr 2026 05:01:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/619519-1--1024x682.webp"
-    },
-    {
-      "title": "Grants plant seed for environmental glow-ups",
-      "description": "Organisations with ideas to improve the environment and inspire sustainable behaviour across Lake Macquarie are encouraged to apply for a Community En...",
-      "link": "https://econews.com.au/grants-plant-seed-for-environmental-glow-ups/",
-      "pubDate": "Thu, 02 Apr 2026 05:00:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
-    },
-    {
-      "title": "Not if, but when: how Spain’s coastal towns are preparing for tsunamis",
-      "description": "&lt;p&gt;In the holiday hotspots of the Costa del Sol, the risks are rarely mentioned. But in neighbouring Cádiz, the country’s first tsunami-ready to...",
-      "link": "https://www.theguardian.com/environment/2026/apr/02/how-spain-coastal-towns-preparing-for-tsunamis",
-      "pubDate": "Thu, 02 Apr 2026 04:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4bf527d02b4f9b82c6ae9a8238781a2e6600d752/277_0_4945_3957/master/4945.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86c3793a4bb41352af89d082d15d0324"
-    },
-    {
-      "title": "Dream of space travel reignites with journey to circle the Moon",
-      "description": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh....",
-      "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
