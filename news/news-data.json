@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-01T23:44:26.903Z",
+  "lastUpdated": "2026-04-02T03:17:29.034Z",
   "articles": [
+    {
+      "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
+      "description": "There was giddy euphoria at the Kennedy Space Center after the successful and spectacular launch, writes the BBC's Pallab Ghosh....",
+      "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Everything you need to know about Nasa's Artemis II mission",
+      "description": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before....",
+      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Apr 2026 00:16:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'Spectacular!' - BBC journalist's emotional reaction to Artemis II launch",
       "description": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida....",
@@ -21,18 +39,9 @@
     },
     {
       "title": "Watch the moment Artemis II blasts into space on historic mission",
-      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally takes off from the Kennedy Space Center in Florida....",
+      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit....",
       "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 01 Apr 2026 23:00:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Everything you need to know about Nasa's Artemis II mission",
-      "description": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 22:50:23 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -90,15 +99,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/CATALO2.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Students eye high-tech plan for Nasa launch watch party",
-      "description": "The PhD students will have the edge when it comes to tracking the Artemis mission to the Moon....",
-      "link": "https://www.bbc.com/news/articles/cy51e1x3plvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 17:04:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Project to bring rare butterfly back to Yorkshire",
@@ -164,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/401acc09942d351f6de54c44f310b50c9113d231/0_0_1166_932/master/1166.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=76cda168f0fdd6a1462eaaa060376a75"
     },
     {
-      "title": "Weather looks favourable for Artemis launch despite cloud",
-      "description": "Artemis II is close to launch - Simon King explains the critical importance of the weather to its success....",
-      "link": "https://www.bbc.com/weather/articles/cj6w4p106klo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Apr 2026 09:22:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Pennsylvania Lawmakers Are Talking the Talk on Data Center Regulations. But Will They Walk?",
       "description": "Ask Gemini, Google’s AI chatbot, whether Pennsylvania politicians are doing anything about the swelling public concern over data center development in...",
       "link": "https://insideclimatenews.org/news/01042026/pennsylvania-data-center-regulations/",
@@ -180,6 +171,15 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Pocket gardens: The tiny urban oases with surprisingly big benefits",
+      "description": "Little bits of greenery are popping up in cities, making summers more bearable for urbanites....",
+      "link": "https://grist.org/cities/pocket-gardens-the-tiny-urban-oases-with-surprisingly-big-benefits/",
+      "pubDate": "Wed, 01 Apr 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/11/GettyImages-2201116581.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
