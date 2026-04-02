@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-02T05:45:11.269Z",
+  "lastUpdated": "2026-04-02T07:25:25.754Z",
   "articles": [
+    {
+      "title": "UK looks to relax planning rules for factory farms after industry lobbying",
+      "description": "&lt;p&gt;Exclusive: documents chronicle years-long campaign to make it easier to build intensive livestock units&lt;/p&gt;&lt;p&gt;Ministers are rewri...",
+      "link": "https://www.theguardian.com/environment/2026/apr/02/uk-looks-to-relax-planning-rules-for-factory-farms-after-industry-lobbying",
+      "pubDate": "Thu, 02 Apr 2026 07:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2e8877373ab40031a4f600910073e5b854369bdc/1285_0_6459_5165/master/6459.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dc4632f587baf3460f5bcd58e63055c"
+    },
+    {
+      "title": "World’s oldest tortoise caught in viral crypto death scam",
+      "description": "&lt;p&gt;Fake X account posing as his vet sparked global false reports of Jonathan’s death while soliciting crypto donations&lt;/p&gt;&lt;p&gt;At 194 ...",
+      "link": "https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam",
+      "pubDate": "Thu, 02 Apr 2026 06:38:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a590c6b3c91bc2397437ce751aff59a79d0c9e44/106_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=106728275cd02d3dee34140258694336"
+    },
     {
       "title": "Passengers watch Artemis II blast off from commercial plane",
       "description": "People on a commercial flight were treated to a rare view of the launch of Nasa's first crewed mission to the Moon in half a century....",
@@ -65,7 +83,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "'We go for all humanity' - emotional moment as Artemis II launches",
+      "title": "Cheers and euphoria as dream of space travel reignites",
       "description": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh....",
       "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 02 Apr 2026 03:09:08 GMT",
@@ -110,7 +128,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Watch the moment Artemis II blasts into space on historic mission",
+      "title": "Watch the moment Artemis II blasts off on historic mission",
       "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit....",
       "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 01 Apr 2026 23:00:39 GMT",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 01 Apr 2026 15:07:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Fossil-fuel imperialism’: Trump’s hankering for Iranian oil runs deep",
-      "description": "&lt;p&gt;Experts say the US believes it is entitled to resources it desires – a perspective president has supported for decades&lt;/p&gt;&lt;p&gt;Dona...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism",
-      "pubDate": "Wed, 01 Apr 2026 14:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f97e21611fa628b3d1c7092767dcd56af40a5bf2/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99f858093f7100a6739f3bbe27be908b"
-    },
-    {
-      "title": "After Chemical Industry Lobbying, EPA Considers Dropping Clean Air Protections for Plastic Waste Recycling",
-      "description": "When former top Environmental Protection Agency official Judith Enck noticed a cavalcade of chemical and plastics industry lobbyists visiting the agen...",
-      "link": "https://insideclimatenews.org/news/01042026/after-chemical-industry-lobbying-epa-considers-dropping-clean-air-protections-for-plastic-waste-recycling/",
-      "pubDate": "Wed, 01 Apr 2026 13:45:26 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
