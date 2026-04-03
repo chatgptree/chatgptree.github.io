@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-03T03:19:22.525Z",
+  "lastUpdated": "2026-04-03T05:45:21.289Z",
   "articles": [
+    {
+      "title": "Artemis II blasts ever closer to the far side of the Moon",
+      "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972....",
+      "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 03 Apr 2026 03:35:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Forest Service Shake-Up Comes As Risky Wildfire Season Looms",
       "description": "In announcing one of the largest reorganizations in the 120-year history of the U.S. Forest Service, the Trump administration declared that there woul...",
@@ -151,15 +160,6 @@
       "link": "https://insideclimatenews.org/news/02042026/inside-clean-energy-us-battery-storage/",
       "pubDate": "Thu, 02 Apr 2026 13:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "First live view of Artemis II crew since arriving in space",
-      "description": "Nasa astronauts conducted a number of different tests on board the Orion spacecraft - including practising manoeuvring the capsule....",
-      "link": "https://www.bbc.com/news/videos/cwy3rp5ekrxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Apr 2026 12:31:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
