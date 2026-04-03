@@ -1,12 +1,30 @@
 {
-  "lastUpdated": "2026-04-03T20:47:56.326Z",
+  "lastUpdated": "2026-04-03T21:42:32.710Z",
   "articles": [
+    {
+      "title": "Virginia Republicans Want Tax Relief to Ease Gas Costs. There’s Also Electric Vehicles.",
+      "description": "Republican state lawmakers want a temporary pause on Virginia’s 32 cent per gallon gas tax to help offset rising prices at the pump resulting from Pre...",
+      "link": "https://insideclimatenews.org/news/03042026/virginia-gas-costs-tax-relief-electric-vehicles/",
+      "pubDate": "Fri, 03 Apr 2026 21:34:13 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "EPA Flags Microplastics as ‘Priority’ Water Contaminants, but the Move Doesn’t Guarantee Regulation",
       "description": "Citing the Trump administration’s promise to “Make America Healthy Again,” the U.S. Environmental Protection Agency placed microplastics and pharmaceu...",
       "link": "https://insideclimatenews.org/news/03042026/epa-microplastics-water-contaminant-candidate-list/",
       "pubDate": "Fri, 03 Apr 2026 19:41:23 +0000",
       "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon....",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 03 Apr 2026 18:25:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ac8c8346594865937531f06b3e1e3f8c4316c75b/110_0_2965_2372/master/2965.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22028a9958255d0eec3bc4270979461f"
-    },
-    {
-      "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
-      "description": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far....",
-      "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 03 Apr 2026 07:07:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Jersey scraps phase-out of petrol and diesel cars",
-      "description": "Environment Minister Steve Luce says the plan did not have public backing....",
-      "link": "https://www.bbc.com/news/articles/cn9qyv20gz5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 03 Apr 2026 06:35:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
