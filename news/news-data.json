@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-04T14:41:14.892Z",
+  "lastUpdated": "2026-04-04T15:40:00.500Z",
   "articles": [
+    {
+      "title": "Braiding knowledge: how Indigenous expertise and western science are converging",
+      "description": "&lt;p&gt;Researchers are weaving Native practices with western methods to revive ecosystems and reclaim food sovereignty&lt;/p&gt;&lt;p&gt;“I’m a glor...",
+      "link": "https://www.theguardian.com/environment/2026/apr/04/indigenous-knowledge-western-science-climate-ecosystems",
+      "pubDate": "Sat, 04 Apr 2026 15:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/154e9cdeed0480d905b67c66164b01afa6cad16d/126_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1bf2c4e10465ceeab1e9379186f38e80"
+    },
     {
       "title": "Forest Service overhaul sows confusion and concern",
       "description": "In the Trump administration’s reorganization of the struggling agency, there are painful echoes of BLM’s past moves....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Of course we shouldn’t drill for more oil in the North Sea – we cancelled further exploitation for a reason | Bill McGuire",
-      "description": "&lt;p&gt;We are at a critical point in the climate emergency and already struggling to meet emissions reduction targets. The UK government must hold i...",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/03/drill-oil-north-sea-further-exploitation-climate-emergency",
-      "pubDate": "Fri, 03 Apr 2026 09:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/23f27856b79f39b2a59822bf767363f139dbe4f9/606_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=347aafa0ede54f3114f6414a8f98f4ba"
     }
   ]
 }
