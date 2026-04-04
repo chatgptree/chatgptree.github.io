@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-03T23:42:23.193Z",
+  "lastUpdated": "2026-04-04T02:51:53.095Z",
   "articles": [
+    {
+      "title": "Sydney councils fear new datacentres could cause blackouts, block housing and affect locals’ health",
+      "description": "&lt;p&gt;Datacentres ‘directly competing’ with possible residential builds near public transport, one council tells NSW inquiry, amid growing concerns...",
+      "link": "https://www.theguardian.com/environment/2026/apr/04/sydney-councils-fear-new-datacentres-could-cause-blackouts-block-housing-and-affect-locals-health",
+      "pubDate": "Sat, 04 Apr 2026 02:26:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/952465ea09c286c2f060d72225e02dca8694c35b/842_0_5588_4471/master/5588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=794fd0b62a92bebcf8ccb0cf1875a286"
+    },
     {
       "title": "Artemis II crew take 'spectacular' image of Earth",
       "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Week in wildlife: a meep-meep roadrunner, a new frog species and Orkney voles",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/apr/03...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/apr/03/week-in-wildlife-roadrunner-new-frog-species-orkney-voles",
-      "pubDate": "Fri, 03 Apr 2026 07:20:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ac8c8346594865937531f06b3e1e3f8c4316c75b/110_0_2965_2372/master/2965.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22028a9958255d0eec3bc4270979461f"
     }
   ]
 }
