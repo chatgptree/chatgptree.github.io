@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-05T22:40:35.587Z",
+  "lastUpdated": "2026-04-05T23:42:48.308Z",
   "articles": [
+    {
+      "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+      "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked....",
+      "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 05 Apr 2026 23:02:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+      "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked....",
+      "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 05 Apr 2026 23:02:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Thousands in Texas protest against border wall through national park: ‘big love for Big Bend’",
       "description": "&lt;p&gt;Rally met with bipartisan support after US border patrol revealed plans for steel wall across parts of beloved parks&lt;/p&gt;&lt;p&gt;&lt;em...",
@@ -63,6 +81,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/2026EarlierSpring_national_en_title_lg.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "How Trump’s Iran war could make the world more reliant on coal",
+      "description": "&lt;p&gt;The energy crisis sparked by the war is making some countries consider ramping up their use of dirty fuels&lt;/p&gt;&lt;p&gt;Not two months i...",
+      "link": "https://www.theguardian.com/business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
+      "pubDate": "Sun, 05 Apr 2026 11:00:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ea969e36fc856b714ce84540aaac3614e227dc75/519_291_3140_2512/master/3140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=315d0d3d0a6b7d24bb09bbfc932c1504"
     },
     {
       "title": "Rice’s whales existed before humans. Now Trump could make them extinct",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/videos/cvgev9w1874o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 04 Apr 2026 09:36:18 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
-      "description": "&lt;p&gt;Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%&lt;/p&gt;&lt;p&gt;Opening major n...",
-      "link": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
-      "pubDate": "Sat, 04 Apr 2026 09:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ee76721a4511007e28193dad1bec1a4ca40024bd/269_0_3327_2662/master/3327.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca81021c85d6f9a8a6bec15bb8a22024"
-    },
-    {
-      "title": "Warming Waters in the Gulf of Maine May Affect the Future of Lobsters",
-      "description": "Curt Brown spent his childhood harvesting lobsters along the coast of Maine. As an adult, he went on to earn a Master of Science from the University o...",
-      "link": "https://insideclimatenews.org/news/04042026/maine-lobsters-warming-waters/",
-      "pubDate": "Sat, 04 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why Trump’s ‘God Squad’ Is Not Like the God Squads Before It",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Pat Parenteau, an emeri...",
-      "link": "https://insideclimatenews.org/news/04042026/trump-god-squad-endangered-species-oil/",
-      "pubDate": "Sat, 04 Apr 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
