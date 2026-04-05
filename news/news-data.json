@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-04-04T23:39:22.936Z",
+  "lastUpdated": "2026-04-05T03:30:00.889Z",
   "articles": [
     {
       "title": "'Something we have never seen before': Artemis II crew describe far side of Moon",
-      "description": "Astronauts on Artemis II have entered the third day of their mission around the far side of the Moon and back again....",
+      "description": "Astronauts on the Artemis II mission are on the third day of their journey around the far side of the Moon....",
       "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 04 Apr 2026 22:45:08 GMT",
+      "pubDate": "Sun, 05 Apr 2026 00:04:03 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Bilby boom: breeding trial to reintroduce species to Mallee Cliffs national park shows signs of success",
+      "description": "&lt;p&gt;Fifty ‘founder’ bilbies were released in fenced breeding area in 2019 with the aim of establishing first wild population there in a century&l...",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/05/bilby-breeding-trial-nsw-australia-easter-",
+      "pubDate": "Sat, 04 Apr 2026 20:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6fd69153f57bd31f81975c3eaf2cce7d0678ac96/212_0_2065_1652/master/2065.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=316dbc3fad1c983e215cc835f4b386d8"
     },
     {
       "title": "Braiding knowledge: how Indigenous expertise and western science are converging",
@@ -168,15 +177,6 @@
       "description": "Merthyr South Wales Ltd sparked anger after submitting a new - and cheaper - restoration plan....",
       "link": "https://www.bbc.com/news/articles/cdxd52e7yr9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 03 Apr 2026 12:29:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis II leaves Earth orbit on track for far side of the Moon",
-      "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972....",
-      "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 03 Apr 2026 11:12:28 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
