@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-06T10:16:54.579Z",
+  "lastUpdated": "2026-04-06T11:53:57.526Z",
   "articles": [
+    {
+      "title": "Young gray whale dies after swimming up river in Washington state",
+      "description": "Hunger is a likely reason the whale, dubbed Willapa Willy, travelled inland, experts say....",
+      "link": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 06 Apr 2026 11:25:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘A surrender to special interests’: alarm as Utah shields fossil-fuel companies",
+      "description": "&lt;p&gt;New legislation comes amid push from big oil, as critics warn polluters’ profits prioritized over Americans’ health&lt;/p&gt;&lt;p&gt;Utah ha...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/06/utah-fossil-fuels-legal-shield",
+      "pubDate": "Mon, 06 Apr 2026 11:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d8cfa6157556efb50498631a804138f433f155df/8_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d437e7c08bf18f12057adf7d054e8eb"
+    },
+    {
+      "title": "Severe Tropical Cyclone Maila could hit far north Queensland three weeks after Narelle tore through",
+      "description": "&lt;p&gt;While path and strength of storm remain uncertain, BoM warns Cape York could again take direct hit if cyclone makes landfall&lt;/p&gt;&lt;ul&...",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/06/severe-tropical-cyclone-maila-far-north-queensland",
+      "pubDate": "Mon, 06 Apr 2026 10:25:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f5c6ca45587544acd3b211ee3ee3ff59110d1b64/698_224_1802_1442/master/1802.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ec99241cdfde3f539b1db3b1a943740"
+    },
     {
       "title": "‘I just legged it’: teenage shark bite victim recalls lucky escape while surfing in South Australia",
       "description": "&lt;p&gt;Oliver Tokic-Bensley, 16, says he had been in the water mere minutes when a shark bit his foot&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our ...",
@@ -63,15 +90,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/GettyImages-2266436023.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Severe Tropical Cyclone Maila on track to hit far north Queensland three weeks after Narelle tore through",
-      "description": "&lt;p&gt;While path and strength of storm remain uncertain, BoM warns Cape York could again take direct hit if cyclone makes landfall&lt;/p&gt;&lt;ul&...",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/06/severe-tropical-cyclone-maila-far-north-queensland",
-      "pubDate": "Mon, 06 Apr 2026 08:14:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f5c6ca45587544acd3b211ee3ee3ff59110d1b64/698_224_1802_1442/master/1802.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ec99241cdfde3f539b1db3b1a943740"
     },
     {
       "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/2026EarlierSpring_national_en_title_lg.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "How Trump’s Iran war could make the world more reliant on coal",
-      "description": "&lt;p&gt;The energy crisis sparked by the war is making some countries consider ramping up their use of dirty fuels&lt;/p&gt;&lt;p&gt;Not two months i...",
-      "link": "https://www.theguardian.com/business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
-      "pubDate": "Sun, 05 Apr 2026 11:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ea969e36fc856b714ce84540aaac3614e227dc75/519_291_3140_2512/master/3140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=315d0d3d0a6b7d24bb09bbfc932c1504"
-    },
-    {
-      "title": "Rice’s whales existed before humans. Now Trump could make them extinct",
-      "description": "&lt;p&gt;The US has invoked national security to remove protections for the endangered cetacean, of which only about 50 are left&lt;/p&gt;&lt;p&gt;Sin...",
-      "link": "https://www.theguardian.com/environment/2026/apr/05/rice-whales-extinction-trump-gulf-mexico",
-      "pubDate": "Sun, 05 Apr 2026 11:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7a5d436bc2da6909746712b87e8e986840e55b12/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88bbbff94123e93f3e8ee09e65e7e42c"
     }
   ]
 }
