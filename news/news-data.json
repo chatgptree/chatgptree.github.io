@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-07T21:52:49.010Z",
+  "lastUpdated": "2026-04-07T22:49:58.031Z",
   "articles": [
+    {
+      "title": "Sea-level rise is a health crisis and we must hold polluters accountable | Christiana Figueres",
+      "description": "&lt;p&gt;Those facing the earliest and harshest consequences are, overwhelmingly, those who did the least to create them&lt;/p&gt;&lt;p&gt;There are m...",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/07/sea-level-rise-health-crisis-christiana-figueres",
+      "pubDate": "Tue, 07 Apr 2026 22:30:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8586f34aa28485966ed40459b682ec88fdaaf434/634_0_6628_5303/master/6628.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d6873d5045ee6d99ab2134453c5e31e3"
+    },
+    {
+      "title": "US Senators Investigate $370 Million IRS Payout to Cheniere Energy",
+      "description": "Seven Democratic U.S. senators have launched a probe into a $370 million “alternative fuel” payout to Cheniere Energy, made earlier this year by the I...",
+      "link": "https://insideclimatenews.org/news/07042026/senators-investigate-cheniere-energy-irs-payout/",
+      "pubDate": "Tue, 07 Apr 2026 22:11:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Alabama’s Governor Signed a Landmark Utility Regulation Bill Into Law. Many Say It’s a Win For Alabama Power.",
+      "description": "BIRMINGHAM, Ala.—Alabama Power customers aren’t giving up yet. On Monday, around two dozen of them marched from Birmingham’s Kelly Ingram Park to the ...",
+      "link": "https://insideclimatenews.org/news/07042026/alabama-power-utility-regulation-bill/",
+      "pubDate": "Tue, 07 Apr 2026 21:59:20 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Has Artemis II shown we can land on the Moon again?",
       "description": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/03/climate-research-language-words.gif?quality=75&#038;strip=all"
-    },
-    {
-      "title": "How EVs could solve a problem with America&#8217;s rickety grid",
-      "description": "With \"vehicle-to-grid\" technology, EVs turn into a vast network of backup power. That could help stabilize the system and accelerate the adoption of r...",
-      "link": "https://grist.org/transportation/how-evs-could-solve-a-problem-with-americas-rickety-grid/",
-      "pubDate": "Tue, 07 Apr 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-      "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years....",
-      "link": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Apr 2026 06:33:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-      "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years....",
-      "link": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Apr 2026 06:33:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
