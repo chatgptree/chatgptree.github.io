@@ -1,39 +1,48 @@
 {
-  "lastUpdated": "2026-04-07T13:50:52.778Z",
+  "lastUpdated": "2026-04-07T15:19:08.863Z",
   "articles": [
+    {
+      "title": "Oil slick from bombed Iranian ship threatens protected wetland",
+      "description": "&lt;p&gt;Shahid Bagheri leaking fuel towards Hara mangrove forest, home to migrating birds and endangered turtles&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/environment/2026/apr/07/oil-slick-shahid-bagheri-iran-ship-hara-wetland",
+      "pubDate": "Tue, 07 Apr 2026 15:02:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2c623e4631896259bfe5155274a95781f6675a5c/146_0_998_798/master/998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=190d95b0ed58ddcb3e37c6d7133299ea"
+    },
+    {
+      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+      "description": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed....",
+      "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 07 Apr 2026 14:53:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+      "description": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed....",
+      "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 07 Apr 2026 14:53:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BP shareholders advised to vote against chair over climate resolution exclusion",
+      "description": "&lt;p&gt;Glass Lewis says blocking of proposal to share company’s longer-term strategy at AGM raises transparency issues  &lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/business/2026/apr/07/bp-shareholders-advised-to-vote-against-chair-over-climate-resolution-exclusion",
+      "pubDate": "Tue, 07 Apr 2026 14:35:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c7d30b064f6d482dafe5abaf75f9de42e0b85976/336_0_2939_2352/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25fb53381aca0b148293c9d46bfa04e1"
+    },
     {
       "title": "The Hidden Culprit Behind Rising Gas Utility Bills",
       "description": "From the cold snap this winter to the U.S.’s war with Iran, rising energy bills are making headlines. But there’s a larger story behind spikes in gas-...",
       "link": "https://insideclimatenews.org/news/07042026/the-hidden-culprit-behind-rising-gas-utility-bills/",
       "pubDate": "Tue, 07 Apr 2026 13:46:16 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-      "description": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed....",
-      "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Apr 2026 13:30:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-      "description": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed....",
-      "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Apr 2026 13:30:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-      "description": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed....",
-      "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Apr 2026 13:30:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -84,7 +93,7 @@
     },
     {
       "title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
-      "description": "&lt;p&gt;Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulate&lt;/p&gt;&lt;p...",
+      "description": "&lt;p&gt;Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulate&lt;/p&gt;&lt;u...",
       "link": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
       "pubDate": "Tue, 07 Apr 2026 10:00:45 GMT",
       "sourceName": "theguardian.com",
@@ -146,6 +155,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
+      "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years....",
+      "link": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 07 Apr 2026 06:33:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "WORLD-LEADING PALAEONTOLOGIST DR DEAN LOMAX TO MAKE FIRST EVER AUSTRALIAN VISIT FOR QUEENSLAND DINOSAUR WEEK 2026",
       "description": "One of the world’s LEADING palaeontologists Dr Dean Lomax  Dinosaur Experiences Australia Queensland Dinosaur Week is proud to announce that internati...",
       "link": "https://econews.com.au/world-leading-palaeontologist-dr-dean-lomax-to-make-first-ever-australian-visit-for-queensland-dinosaur-week-2026/",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Beavers return to county for first time in 400 years",
-      "description": "The \"ecosystem engineers\" are released on the Southill Estate after two years of careful planning....",
-      "link": "https://www.bbc.com/news/articles/cx2dy2r8y08o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Apr 2026 04:21:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "CCEP strengthens producer responsibility and expands national RVM rollout with new Return and Earn machine at Northmead",
-      "description": "Coca-Cola Europacific Partners (CCEP) Australia has strengthened its longstanding leadership in Australia’s circular economy with the installation of ...",
-      "link": "https://econews.com.au/ccep-strengthens-producer-responsibility-and-expands-national-rvm-rollout-with-new-return-and-earn-machine-at-northmead/",
-      "pubDate": "Tue, 07 Apr 2026 02:00:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
