@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-07T07:44:22.352Z",
+  "lastUpdated": "2026-04-07T09:14:51.774Z",
   "articles": [
+    {
+      "title": "Corpus Christi Water Crisis Spurs Stampede on South Texas Aquifers",
+      "description": "JIM WELLS COUNTY, Texas—Dwindling levels in this region’s main reservoirs have triggered a rush on local aquifers as cities, towns, chemical plants an...",
+      "link": "https://insideclimatenews.org/news/07042026/corpus-christi-water-crisis-south-texas-aquifers/",
+      "pubDate": "Tue, 07 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What are UV levels and how can you protect yourself?",
+      "description": "How dangerous is UV radiation and how can you protect yourself when levels are high?...",
+      "link": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 07 Apr 2026 08:49:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why this NASA climate scientist wants you to stay angry",
+      "description": "Kate Marvel reflects on her fiery resignation: “I don’t think we rebuild science without getting mad.”...",
+      "link": "https://grist.org/science/kate-marvel-nasa-departure-human-nature-book/",
+      "pubDate": "Tue, 07 Apr 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/climate-research-language-words.gif?quality=75&#038;strip=all"
+    },
+    {
+      "title": "How EVs could solve a problem with America&#8217;s rickety grid",
+      "description": "With \"vehicle-to-grid\" technology, EVs turn into a vast network of backup power. That could help stabilize the system and accelerate the adoption of r...",
+      "link": "https://grist.org/transportation/how-evs-could-solve-a-problem-with-americas-rickety-grid/",
+      "pubDate": "Tue, 07 Apr 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Moon fly-by sees astronauts regain contact with Earth and head for home",
       "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years....",
@@ -142,42 +178,6 @@
       "link": "https://www.bbc.com/news/videos/c7vq1y048p5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 06 Apr 2026 20:45:17 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What's on the far side of the Moon?",
-      "description": "Artemis II's looping path has carried the crew around the far side of the Moon....",
-      "link": "https://www.bbc.com/news/videos/c7vq1y048p5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 06 Apr 2026 20:45:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Emotional crew names Moon crater after commander's late wife",
-      "description": "Artemis II Commander Reid Wiseman's wife died from cancer in 2020 at age 46....",
-      "link": "https://www.bbc.com/news/videos/c5ylvz3rzyxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 06 Apr 2026 20:25:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Emotional crew names Moon crater after commander's late wife",
-      "description": "Artemis II Commander Reid Wiseman's wife died from cancer in 2020 at age 46....",
-      "link": "https://www.bbc.com/news/videos/c5ylvz3rzyxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 06 Apr 2026 20:25:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Forests Start to Fail, One Leaf at a Time",
-      "description": "In spring and summer, the canopies of oak and beech forest gather into layers of green. Leaves flicker, shaping the flow of light and air. The effect ...",
-      "link": "https://insideclimatenews.org/news/06042026/europe-forests-heat-emissions-study/",
-      "pubDate": "Mon, 06 Apr 2026 19:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
