@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-08T22:52:32.338Z",
+  "lastUpdated": "2026-04-08T23:48:50.868Z",
   "articles": [
+    {
+      "title": "California Bill Aims to Keep Toxic PFAS off Its Crops",
+      "description": "California Assemblymember Nick Schultz is leading an effort to phase out the use of pesticides containing toxic “forever chemicals” to safeguard the n...",
+      "link": "https://insideclimatenews.org/news/08042026/california-bill-could-ban-pfas-pesticides/",
+      "pubDate": "Wed, 08 Apr 2026 23:36:42 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
       "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough....",
@@ -45,6 +54,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ddca4358e41dc707360c67121d1a673b53e4d7c5/372_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf518b6210af7ea2e8947903422b79dd"
+    },
+    {
+      "title": "‘Non-survivable’: heatwaves are already breaching human limits, with worse to come, study finds",
+      "description": "&lt;p&gt;Analysis of six extreme heatwaves found when temperature and humidity were accounted for, all were potentially deadly for older people&lt;/p&...",
+      "link": "https://www.theguardian.com/environment/2026/apr/08/extreme-weather-heatwaves-breaching-human-survival-limits-study-finds",
+      "pubDate": "Wed, 08 Apr 2026 15:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d6f4dc864bc716bf4510284e1e418077fcea06b0/215_0_2153_1723/master/2153.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37b2605fcec1ec941a6236c7c54c23f5"
     },
     {
       "title": "How do you convince Americans to eat fish? Disguise it as meat, of course | Arwa Mahdawi",
@@ -159,24 +177,6 @@
       "description": "The United States’ war on Iran could fundamentally alter how countries consume and generate energy and hamper international progress in combating clim...",
       "link": "https://insideclimatenews.org/news/07042026/global-energy-supply-strait-of-hormuz/",
       "pubDate": "Tue, 07 Apr 2026 23:12:08 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sea-level rise is a health crisis and we must hold polluters accountable | Christiana Figueres",
-      "description": "&lt;p&gt;Those facing the earliest and harshest consequences are, overwhelmingly, those who did the least to create them&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/07/sea-level-rise-health-crisis-christiana-figueres",
-      "pubDate": "Tue, 07 Apr 2026 22:30:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8586f34aa28485966ed40459b682ec88fdaaf434/634_0_6628_5303/master/6628.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d6873d5045ee6d99ab2134453c5e31e3"
-    },
-    {
-      "title": "US Senators Investigate $370 Million IRS Payout to Cheniere Energy",
-      "description": "Seven Democratic U.S. senators have launched a probe into a $370 million “alternative fuel” payout to Cheniere Energy, made earlier this year by the I...",
-      "link": "https://insideclimatenews.org/news/07042026/senators-investigate-cheniere-energy-irs-payout/",
-      "pubDate": "Tue, 07 Apr 2026 22:11:14 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
