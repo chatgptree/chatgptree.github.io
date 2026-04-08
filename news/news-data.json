@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-08T07:47:59.234Z",
+  "lastUpdated": "2026-04-08T09:14:12.905Z",
   "articles": [
+    {
+      "title": "Under Trump, the Department of Agriculture Has Ditched Conservation and Climate Efforts",
+      "description": "Amanda Koehler has spent the past decade working to help young and first-time farmers gain access to land—the single biggest obstacle for people who a...",
+      "link": "https://insideclimatenews.org/news/08042026/trump-usda-staff-cuts/",
+      "pubDate": "Wed, 08 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What to expect when you’re expecting the end of the world",
+      "description": "Jem Bendell predicted that society would collapse because of climate change. Then he tried to get on with his life....",
+      "link": "https://grist.org/culture/jem-bendell-society-collapse-deep-adaptation-doom/",
+      "pubDate": "Wed, 08 Apr 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/generic-portrait-photo-2022.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "There’s hope for the offshore wind industry — yes, really",
+      "description": "Trump’s court losses give the beleaguered industry a chance to get back on stable footing....",
+      "link": "https://grist.org/energy/offshore-wind-court-interior-permitting-reform-congress/",
+      "pubDate": "Wed, 08 Apr 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "College on mission to launch students into space",
       "description": "Students are learning all about the opportunities available within the region's space industry....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c7d30b064f6d482dafe5abaf75f9de42e0b85976/336_0_2939_2352/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25fb53381aca0b148293c9d46bfa04e1"
-    },
-    {
-      "title": "The Hidden Culprit Behind Rising Gas Utility Bills",
-      "description": "From the cold snap this winter to the U.S.’s war with Iran, rising energy bills are making headlines. But there’s a larger story behind spikes in gas-...",
-      "link": "https://insideclimatenews.org/news/07042026/the-hidden-culprit-behind-rising-gas-utility-bills/",
-      "pubDate": "Tue, 07 Apr 2026 13:46:16 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists develop gene-edited wheat that can make toasted bread less carcinogenic",
-      "description": "&lt;p&gt;Bread and biscuits made from Crispr-edited wheat showed substantially reduced acrylamide levels&lt;/p&gt;&lt;p&gt;Scientists have developed g...",
-      "link": "https://www.theguardian.com/science/2026/apr/07/crispr-gene-edited-wheat-toasted-bread-less-carcinogenic-acrylamide",
-      "pubDate": "Tue, 07 Apr 2026 12:40:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f943feb222f27ad5339c83179f7f0bc935c4c1f6/0_2217_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8916da95c31ea50f4d9f36a1bbccd047"
-    },
-    {
-      "title": "Everything you need to know about Nasa's Artemis II mission",
-      "description": "The Artemis II mission has taken its four astronauts further into space than anyone has been before....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Apr 2026 12:04:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
