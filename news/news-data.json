@@ -1,11 +1,38 @@
 {
-  "lastUpdated": "2026-04-09T14:02:51.695Z",
+  "lastUpdated": "2026-04-09T16:22:11.929Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "What have we learnt from Artemis II?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977f?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Apr 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Pioneering wildlife cameraman Doug Allan dies after falling ill in Nepal",
       "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough....",
       "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Apr 2026 13:58:21 GMT",
+      "pubDate": "Thu, 09 Apr 2026 14:52:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US had hottest March on record as nation faced ‘unprecedented’ heat",
+      "description": "&lt;p&gt;The continental US registered its most abnormally hot month in 132 years of records, according to Noaa data &lt;/p&gt;&lt;p&gt;March’s persis...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/09/hottest-march-on-record",
+      "pubDate": "Thu, 09 Apr 2026 14:49:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1b5323c350e08c3e4959f6537543d63492135386/447_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=048c1f483af4957a7d5332218582aeb6"
+    },
+    {
+      "title": "Canada's Mark Carney 'so proud' of astronauts in call to Artemis II",
+      "description": "Jeremy Hansen received a call from the prime minister as Canada's first astronaut to travel into deep space as part of the Artemis II mission....",
+      "link": "https://www.bbc.com/news/videos/cwykpw99ed2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Apr 2026 14:31:57 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -75,7 +102,7 @@
     },
     {
       "title": "Mass drowning of chicks puts emperor penguins at risk of extinction",
-      "description": "&lt;p&gt;Record low levels of Antarctic sea ice is having grim consequences for penguins yet to grow waterproof feathers&lt;/p&gt;&lt;p&gt;The mass dr...",
+      "description": "&lt;p&gt;Record low levels of Antarctic sea ice are having grim consequences for penguins yet to grow waterproof feathers&lt;/p&gt;&lt;p&gt;The mass d...",
       "link": "https://www.theguardian.com/environment/2026/apr/09/mass-drowning-of-chicks-puts-emperor-penguins-at-risk-of-extinction",
       "pubDate": "Thu, 09 Apr 2026 09:00:28 GMT",
       "sourceName": "theguardian.com",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
-    },
-    {
-      "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "description": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\"....",
-      "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Apr 2026 05:57:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "description": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\"....",
-      "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Apr 2026 05:57:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nature reserve helping restore crane population",
-      "description": "The site is home to three breeding pairs and has welcomed 26 chicks since 2007....",
-      "link": "https://www.bbc.com/news/articles/ckgr45pdz35o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Apr 2026 05:19:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
