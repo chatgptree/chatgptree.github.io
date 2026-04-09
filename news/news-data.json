@@ -1,21 +1,48 @@
 {
-  "lastUpdated": "2026-04-08T23:48:50.868Z",
+  "lastUpdated": "2026-04-09T03:19:14.729Z",
   "articles": [
+    {
+      "title": "Armstrong Fluid Technology Appoints Danilo Elez as Chief Executive Officer",
+      "description": "Seasoned global executive to lead Armstrong’s next phase of growth, innovation, and system-level performance Armstrong Fluid Technology, a global lead...",
+      "link": "https://econews.com.au/armstrong-fluid-technology-appoints-danilo-elez-as-chief-executive-officer/",
+      "pubDate": "Thu, 09 Apr 2026 01:01:46 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "From Fossils to Flooring: How Mineral-Led Design is Eliminating Microplastics in Australian Homes",
+      "description": "For most Australians, stepping out of the shower is a simple daily ritual. However, it often involves a quiet compromise: the traditional fabric bath ...",
+      "link": "https://econews.com.au/from-fossils-to-flooring-how-mineral-led-design-is-eliminating-microplastics-in-australian-homes/",
+      "pubDate": "Thu, 09 Apr 2026 01:01:45 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-09T104139.559-1024x1024.jpg"
+    },
+    {
+      "title": "New hydrogen fuel cell design could unlock key clean energy technology",
+      "description": "Dr Quentin Meyer says hydrogen fuel cells have long been touted as a way to decarbonise various difficult-to-abate industries, including freight and a...",
+      "link": "https://econews.com.au/new-hydrogen-fuel-cell-design-could-unlock-key-clean-energy-technology/",
+      "pubDate": "Thu, 09 Apr 2026 01:01:30 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
+    },
+    {
+      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+      "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough....",
+      "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Apr 2026 01:01:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "California Bill Aims to Keep Toxic PFAS off Its Crops",
       "description": "California Assemblymember Nick Schultz is leading an effort to phase out the use of pesticides containing toxic “forever chemicals” to safeguard the n...",
       "link": "https://insideclimatenews.org/news/08042026/california-bill-could-ban-pfas-pesticides/",
       "pubDate": "Wed, 08 Apr 2026 23:36:42 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-      "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough....",
-      "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 08 Apr 2026 22:08:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-08T124844.737.jpg"
-    },
-    {
-      "title": "New hydrogen fuel cell design could unlock clean energy technology for freight, transport, and aviation",
-      "description": "UNSW researchers have redesigned hydrogen fuel cells to solve a critical flaw, bringing clean energy for aviation, heavy transport and beyond closer t...",
-      "link": "https://econews.com.au/new-hydrogen-fuel-cell-design-could-unlock-clean-energy-technology-for-freight-transport-and-aviation/",
-      "pubDate": "Wed, 08 Apr 2026 03:00:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "The Dormancy Gap: Why Infrastructure Alone is Not Enough for Clean-Tech Recovery in Australia",
-      "description": "By Kesewa Opoku Agyemang   Australia has invested significantly in clean technology and recycling infrastructure. Collection points for batteries and ...",
-      "link": "https://econews.com.au/the-dormancy-gap-why-infrastructure-alone-is-not-enough-for-clean-tech-recovery-in-australia/",
-      "pubDate": "Wed, 08 Apr 2026 01:00:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/Image_2_Public_Collection_Point-1024x768.jpg"
-    },
-    {
-      "title": "The Global Energy Supply in a Decade ‘Is Not a World We’re Going to Recognize’",
-      "description": "The United States’ war on Iran could fundamentally alter how countries consume and generate energy and hamper international progress in combating clim...",
-      "link": "https://insideclimatenews.org/news/07042026/global-energy-supply-strait-of-hormuz/",
-      "pubDate": "Tue, 07 Apr 2026 23:12:08 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
