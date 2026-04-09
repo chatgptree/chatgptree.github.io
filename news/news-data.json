@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-09T09:19:37.445Z",
+  "lastUpdated": "2026-04-09T11:07:58.407Z",
   "articles": [
+    {
+      "title": "‘A dream come true’: Brazil’s blue-and-yellow macaws return to Rio after 200 years",
+      "description": "&lt;p&gt;An ambitious ‘refaunation’ project is bringing the much-loved birds and other lost species back to the city’s national park&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2026/apr/09/a-dream-come-true-brazils-blue-and-yellow-macaws-return-to-rio-after-200-years",
+      "pubDate": "Thu, 09 Apr 2026 11:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/62e030331cb5ea1d960e16a06e44cffec25bea79/1285_695_2581_2064/master/2581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80fcf3c2d257b7c37b26b8ddf355cdf4"
+    },
+    {
+      "title": "Surrey scientists lead new space weather mission",
+      "description": "Scientists are helping launch a spacecraft that will record the northern lights for 45 hours at a time....",
+      "link": "https://www.bbc.com/news/articles/cz90100ljvvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Apr 2026 10:01:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Bitten by snakes 200 times – on purpose: US man’s quest to help deliver new antivenom",
+      "description": "&lt;p&gt;Tim Friede put his ‘ass on the line’ to help stop snakebite deaths – whose numbers appear to be rising amid the climate crisis&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2026/apr/09/intentional-snakebites-antivenom",
+      "pubDate": "Thu, 09 Apr 2026 10:00:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8aba4a407a831807a96afc7f2afc6bb14acde3df/256_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cc7e31becdf4ef37c0bd20524f7ba194"
+    },
     {
       "title": "Mass drowning of chicks puts emperor penguins at risk of extinction",
       "description": "&lt;p&gt;Record low levels of Antarctic sea ice is having grim consequences for penguins yet to grow waterproof feathers&lt;/p&gt;&lt;p&gt;The mass dr...",
@@ -38,7 +65,7 @@
       "image": "https://grist.org/wp-content/uploads/2026/04/GettyImages-1235716024_data-center-construction.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "Campaigners demand action to break UK’s ‘addiction’ to herbicides",
+      "title": "Campaigners demand action to break UK’s ‘addiction’ to controversial herbicide",
       "description": "&lt;p&gt;Use of glyphosate has risen 10-fold in 30 years, raising fears for public health&lt;/p&gt;&lt;p&gt;It was Scottish farmers in the 1980s who p...",
       "link": "https://www.theguardian.com/environment/2026/apr/09/campaigners-demand-action-break-uk-addiction-to-glyphosate-herbicide",
       "pubDate": "Thu, 09 Apr 2026 08:00:27 GMT",
@@ -119,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Space mission to image Earth's protective bubble",
-      "description": "Scientists from the Mullard Space Science Laboratory in Dorking are helping launch the spacecraft....",
-      "link": "https://www.bbc.com/news/articles/cz90100ljvvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Apr 2026 05:05:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Abandoned Battle of Britain control tower to become a home for holidaymakers … and six species of bat",
       "description": "&lt;p&gt;Council backs £700,000 plan to save historic landmark at former RAF base in the New Forest&lt;/p&gt;&lt;p&gt;A unique RAF watch office that h...",
       "link": "https://www.theguardian.com/uk-news/2026/apr/09/battle-of-britain-raf-control-new-forest-holiday-home-bats",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "From Fossils to Flooring: How Mineral-Led Design is Eliminating Microplastics in Australian Homes",
-      "description": "For most Australians, stepping out of the shower is a simple daily ritual. However, it often involves a quiet compromise: the traditional fabric bath ...",
-      "link": "https://econews.com.au/from-fossils-to-flooring-how-mineral-led-design-is-eliminating-microplastics-in-australian-homes/",
-      "pubDate": "Thu, 09 Apr 2026 01:01:45 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-09T104139.559-1024x1024.jpg"
-    },
-    {
-      "title": "New hydrogen fuel cell design could unlock key clean energy technology",
-      "description": "Dr Quentin Meyer says hydrogen fuel cells have long been touted as a way to decarbonise various difficult-to-abate industries, including freight and a...",
-      "link": "https://econews.com.au/new-hydrogen-fuel-cell-design-could-unlock-key-clean-energy-technology/",
-      "pubDate": "Thu, 09 Apr 2026 01:01:30 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
     }
   ]
 }
