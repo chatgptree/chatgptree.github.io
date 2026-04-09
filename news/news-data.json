@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-09T21:51:55.342Z",
+  "lastUpdated": "2026-04-09T22:53:02.792Z",
   "articles": [
+    {
+      "title": "Is the Keystone XL Pipeline Back?",
+      "description": "No project better embodies the nation’s wild swings in climate and energy policy than the Keystone XL pipeline. Proposed in 2008 to carry Canadian oil...",
+      "link": "https://insideclimatenews.org/news/09042026/canada-us-oil-pipeline-proposal/",
+      "pubDate": "Thu, 09 Apr 2026 22:34:52 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Meeting Climate Targets Requires Humanity to Reorient Its Relationship With Nature, New Study Says",
+      "description": "Governments cannot reach their climate goals without rethinking humanity’s relationship to the Earth.&#160; That is the overarching takeaway from a ne...",
+      "link": "https://insideclimatenews.org/news/09042026/yellowstone-to-yukon-conservation-climate-targets/",
+      "pubDate": "Thu, 09 Apr 2026 22:26:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC tours Orion spacecraft model ahead of Artemis II return",
       "description": "The Orion spacecraft is scheduled to bring the Artemis II crew back to Earth on 10 April....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1e1a70eac7b0cd541a2b2f0a14a34d24238662e3/840_0_4310_3449/master/4310.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=075854a56ef4796ab0bd1c6e22b90a05"
-    },
-    {
-      "title": "Bills to Protect Ratepayers From Data Centers Fail in Georgia Legislature",
-      "description": "When the final gavel fell on Georgia’s legislative session, Big Tech and Georgia Power had little reason to be disappointed. For years, tech companies...",
-      "link": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
-      "pubDate": "Thu, 09 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Nebraska, wildfires are turning cattle ranching into a tricky business",
-      "description": "Nearly a million acres in the state have burned this year. One expert calls it ‘a new kind of wildfire era.’...",
-      "link": "https://grist.org/extreme-weather/in-nebraska-wildfires-are-turning-cattle-ranching-into-a-tricky-business/",
-      "pubDate": "Thu, 09 Apr 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/FFP.03.26.14.fire_map_1.1-2.jpg?quality=75&amp;strip=all"
     }
   ]
 }
