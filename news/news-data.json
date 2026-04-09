@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-09T16:22:11.929Z",
+  "lastUpdated": "2026-04-09T18:03:02.335Z",
   "articles": [
+    {
+      "title": "Watch: How the US Navy will help recover the Artemis II crew",
+      "description": "The Orion spacecraft is expected to splash down off the coast of San Diego on 10 April. ...",
+      "link": "https://www.bbc.com/news/videos/cj609y6nnxzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Apr 2026 17:22:14 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Iran Energy Shock Tests Limits of Trump’s Vision of US Energy Dominance",
+      "description": "In President Donald Trump’s telling, the United States has fuel enough to hover above the chaos that his attack on Iran has triggered in global energy...",
+      "link": "https://insideclimatenews.org/news/09042026/iran-energy-shock-tests-us-dominance/",
+      "pubDate": "Thu, 09 Apr 2026 16:31:53 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "What have we learnt from Artemis II?...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ed Miliband hold firm! North sea oil and gas drilling won’t help anyone other than Nigel Farage | Zoe Williams",
-      "description": "&lt;p&gt;It’s worrying to watch Labour entertain Reform’s fantasies about fossil fuels. Only renewables will bring lower bills and higher energy secur...",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/09/ed-miliband-north-sea-oil-drilling-nigel-farage-labour-reform-fossil-fuels-renewables",
-      "pubDate": "Thu, 09 Apr 2026 07:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/98a4db8a220ab57a750d335669ed851acc47fe3e/377_0_4988_3991/master/4988.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af82f987a251d01ab9e80209f02f21a2"
-    },
-    {
-      "title": "Using ‘art as evidence’: Climate change research on display at CDU",
-      "description": "Artist Andrew Doyle’s ‘Bright to White’, included in the Climate Impacts on Country exhibition. Charles Darwin University A Charles Darwin University ...",
-      "link": "https://econews.com.au/using-art-as-evidence-climate-change-research-on-display-at-cdu/",
-      "pubDate": "Thu, 09 Apr 2026 06:01:23 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
     }
   ]
 }
