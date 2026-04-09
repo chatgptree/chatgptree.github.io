@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-09T20:04:23.445Z",
+  "lastUpdated": "2026-04-09T21:51:55.342Z",
   "articles": [
+    {
+      "title": "BBC tours Orion spacecraft model ahead of Artemis II return",
+      "description": "The Orion spacecraft is scheduled to bring the Artemis II crew back to Earth on 10 April....",
+      "link": "https://www.bbc.com/news/videos/cwydvv00r0wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Apr 2026 21:25:50 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US agency proposes rolling back rules for safe disposal of toxic coal ash",
+      "description": "&lt;p&gt;Advocates warn changes could increase risks of pollutants contaminating water and exposure to toxic waste&lt;/p&gt;&lt;p&gt;The Environmental...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/09/epa-toxic-coal-ash-rollback-trump",
+      "pubDate": "Thu, 09 Apr 2026 20:28:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/061f454861369cf71e58612dc5699835b0561e97/333_0_3361_2688/master/3361.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b62603970490b559cdd87afb0b623c60"
+    },
     {
       "title": "BBC Inside Science",
       "description": "What have we learnt from Artemis II?...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/FFP.03.26.14.fire_map_1.1-2.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Georgia’s forestry industry is in crisis. One solution could be in your medicine cabinet.",
-      "description": "As paper mills close, the state legislature is offering the industry a lifeline....",
-      "link": "https://grist.org/economics/georgias-forestry-industry-is-in-crisis-one-solution-could-be-in-your-medicine-cabinet/",
-      "pubDate": "Thu, 09 Apr 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/GettyImages-1235716024_data-center-construction.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Everything you need to know about Nasa's Artemis II mission",
-      "description": "The Artemis II mission has taken its four astronauts further into space than anyone has been before....",
-      "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Apr 2026 07:07:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
