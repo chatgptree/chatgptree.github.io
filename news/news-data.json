@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-10T21:49:42.734Z",
+  "lastUpdated": "2026-04-10T22:48:44.657Z",
   "articles": [
+    {
+      "title": "After a Slow Start on Climate, Zohran Mamdani Faces Scrutiny Over Parks Budget and Environmental Promises",
+      "description": "During his New York City mayoral campaign, Zohran Mamdani courted votes from environmentalists. He promised to expand green spaces in public schools a...",
+      "link": "https://insideclimatenews.org/news/10042026/new-york-mayor-zohran-mamdani-park-budgets-environmental-promises/",
+      "pubDate": "Fri, 10 Apr 2026 22:28:32 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Minneapolis Activists Launch Hunger Strike to Protest Polluting Trash Incinerator",
       "description": "Minneapolis activists are escalating a decades-long fight by going on a hunger strike to demand that local officials shut down a polluting trash incin...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EDP signs long-term contract with major technology company for new 28MWp solar project in Japan",
-      "description": "A rendering of EDP Renewables APAC’s 28MWp Motoyoshi Solar Farm when completed, with over 42,000 solar panels highlighted in blue. With more than 16 G...",
-      "link": "https://econews.com.au/edp-signs-long-term-contract-with-major-technology-company-for-new-28mwp-solar-project-in-japan/",
-      "pubDate": "Fri, 10 Apr 2026 03:01:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-100.png"
     }
   ]
 }
