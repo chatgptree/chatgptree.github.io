@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-10T20:50:04.116Z",
+  "lastUpdated": "2026-04-10T21:49:42.734Z",
   "articles": [
+    {
+      "title": "Minneapolis Activists Launch Hunger Strike to Protest Polluting Trash Incinerator",
+      "description": "Minneapolis activists are escalating a decades-long fight by going on a hunger strike to demand that local officials shut down a polluting trash incin...",
+      "link": "https://insideclimatenews.org/news/10042026/minneapolis-hunger-strike-protesting-trash-incinerator-pollution/",
+      "pubDate": "Fri, 10 Apr 2026 20:58:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "What Is the Economic Impact of Data Centers? It’s a Secret.",
       "description": "Tax breaks for data centers in North Carolina keep as much as $57 million each year from state and local government coffers, state figures show, an am...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-100.png"
-    },
-    {
-      "title": "Norway to Deploy World’s Largest Fleet of ‘Flying’ Electric Ferries Along Its Coastline",
-      "description": "Candela P-12, already in production, will soon hit the Norwegian fjords, providing zero-emission, silent transport for tourists and commuters alike. S...",
-      "link": "https://econews.com.au/norway-to-deploy-worlds-largest-fleet-of-flying-electric-ferries-along-its-coastline/",
-      "pubDate": "Fri, 10 Apr 2026 03:01:01 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
