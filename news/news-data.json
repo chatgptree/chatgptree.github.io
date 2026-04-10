@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-10T16:02:04.871Z",
+  "lastUpdated": "2026-04-10T17:53:07.802Z",
   "articles": [
+    {
+      "title": "What Is the Economic Impact of Data Centers? It’s a Secret.",
+      "description": "Tax breaks for data centers in North Carolina keep as much as $57 million each year into from state and local government coffers, state figures show, ...",
+      "link": "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/",
+      "pubDate": "Fri, 10 Apr 2026 17:28:19 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What it's like when your dad's an astronaut",
+      "description": "Artemis II Mission Specialist Jeremy Hansen's daughter said she loves her dad 'to the moon and back'....",
+      "link": "https://www.bbc.com/news/videos/crk1rm2gdnyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 10 Apr 2026 17:14:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Britain’s Most Iconic Fish Nears Breaking Point",
+      "description": "The days of Britain’s fish and chip shops might be numbered. Consumers in the U.K. are being warned to “completely avoid” all home-caught cod by the M...",
+      "link": "https://insideclimatenews.org/news/10042026/uk-cod-shortages-warming-overfishing/",
+      "pubDate": "Fri, 10 Apr 2026 16:45:02 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Anger as swifts’ nesting holes in Derbyshire rail viaduct ‘blocked up’",
       "description": "&lt;p&gt;Campaigners say birds could die trying to access ancestral nests that were sealed during rail refurbishment&lt;/p&gt;&lt;p&gt;Some swifts ret...",
@@ -56,7 +83,7 @@
       "image": "https://grist.org/wp-content/uploads/2026/04/XR-climate-debt-protest.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "‘An abomination’: the Lancashire town kicking up at stink from reopened landfill",
+      "title": "‘An abomination’: the Lancashire town kicking up a stink over reopened landfill",
       "description": "&lt;p&gt;Residents of Fleetwood say continuous foul smell from Transwaste site is causing illness and making life hell&lt;/p&gt;&lt;p&gt;In the week t...",
       "link": "https://www.theguardian.com/uk-news/2026/apr/10/lancashire-fleetwood-stench-landfill-transwaste",
       "pubDate": "Fri, 10 Apr 2026 08:31:10 GMT",
@@ -137,15 +164,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How the Artemis crew will splash down on Earth",
-      "description": "The Artemis crew will return to Earth on 10 April after a 10-day mission that took them around the Moon....",
-      "link": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 10 Apr 2026 04:27:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "EDP signs long-term contract with major technology company for new 28MWp solar project in Japan",
       "description": "A rendering of EDP Renewables APAC’s 28MWp Motoyoshi Solar Farm when completed, with over 42,000 solar panels highlighted in blue. With more than 16 G...",
       "link": "https://econews.com.au/edp-signs-long-term-contract-with-major-technology-company-for-new-28mwp-solar-project-in-japan/",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Lava bursts forth as Hawaii’s Kilauea volcano erupts",
-      "description": "&lt;p&gt;Hawaii Volcanoes national park closed due to eruption of one of world’s most active volcanoes, located on Big Island&lt;/p&gt;&lt;p&gt;Amber ...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/09/hawaii-kilauea-volcano-eruption",
-      "pubDate": "Fri, 10 Apr 2026 02:11:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/57e78abf45f79e90993bbbebe0b42102f625a7b4/126_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f2bf5404c30464c965249c8fc4da21a"
-    },
-    {
-      "title": "Want to help garden birds? Don't feed them in warmer months, says RSPB",
-      "description": "The UK's largest bird charity has issued new guidance advising people to stop using feeders to help wildlife thrive. ...",
-      "link": "https://www.bbc.com/news/articles/c2lwvz1pl1no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 10 Apr 2026 00:59:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
