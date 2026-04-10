@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-10T03:32:57.564Z",
+  "lastUpdated": "2026-04-10T06:03:40.650Z",
   "articles": [
+    {
+      "title": "UK band linked to Artemis II's toilet trouble",
+      "description": "The Oxford band joke a vial they lost in 2024 in the space capsule caused the toilet malfunctions....",
+      "link": "https://www.bbc.com/news/articles/c9d49qywv6qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 10 Apr 2026 05:13:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Upgrade Your Home Smarter: Why Heat Pump Hot Water Systems Are Gaining Popularity in Victoria",
+      "description": "A smarter way to think about home improvement When most homeowners plan an update, they typically consider making noticeable modifications. Lighting, ...",
+      "link": "https://econews.com.au/upgrade-your-home-smarter-why-heat-pump-hot-water-systems-are-gaining-popularity-in-victoria/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:48 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/logo-png.png"
+    },
+    {
+      "title": "Take down bird feeders this summer to cut spread of avian disease, says RSPB",
+      "description": "&lt;p&gt;Charity advises replacing seed and nut feeders, where birds gather, with small amounts of mealworms, fat balls or suet&lt;/p&gt;&lt;p&gt;Gard...",
+      "link": "https://www.theguardian.com/environment/2026/apr/10/rspb-bird-feeders-nuts-seeds-summer-parasitic-avian-disease",
+      "pubDate": "Fri, 10 Apr 2026 05:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fd1da1bd123b2a3bc6d620b19a3ebb60e06332f0/544_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1e7b553e030a7b3d500a0d22cef7c71"
+    },
+    {
+      "title": "How the Artemis crew will splash down on Earth",
+      "description": "The Artemis crew will return to Earth on 10 April after a 10-day mission that took them around the Moon....",
+      "link": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 10 Apr 2026 04:27:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "EDP signs long-term contract with major technology company for new 28MWp solar project in Japan",
       "description": "A rendering of EDP Renewables APAC’s 28MWp Motoyoshi Solar Farm when completed, with over 42,000 solar panels highlighted in blue. With more than 16 G...",
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What are El Niño and La Niña, and how do they change the weather?",
-      "description": "Global temperatures and rain patterns are affected by a climate phenomenon known as El Niño/La Niña....",
-      "link": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Apr 2026 13:42:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Unpacking Trump’s Use of Emergency Powers to Prop Up Coal",
-      "description": "At one time, the U.S. electricity grid ran mostly on coal. But coal-fired power plants have steadily been decommissioned. Power producers found the pl...",
-      "link": "https://insideclimatenews.org/news/09042026/inside-clean-energy-trump-coal-plants/",
-      "pubDate": "Thu, 09 Apr 2026 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Argentina approves Milei’s glacier mining bill amid environmental protests",
-      "description": "&lt;p&gt;Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the Andes&lt;/p&gt;&lt;p&gt;Argentina...",
-      "link": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
-      "pubDate": "Thu, 09 Apr 2026 11:55:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c612caa8869573e9dfc99fe6470531e0fe0731e6/740_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b12a060e1c403b5a25949b60a95bf111"
-    },
-    {
-      "title": "‘A dream come true’: Brazil’s blue-and-yellow macaws return to Rio after 200 years",
-      "description": "&lt;p&gt;An ambitious ‘refaunation’ project is bringing the much-loved birds and other lost species back to the city’s national park&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2026/apr/09/a-dream-come-true-brazils-blue-and-yellow-macaws-return-to-rio-after-200-years",
-      "pubDate": "Thu, 09 Apr 2026 11:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/62e030331cb5ea1d960e16a06e44cffec25bea79/1285_695_2581_2064/master/2581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80fcf3c2d257b7c37b26b8ddf355cdf4"
     }
   ]
 }
