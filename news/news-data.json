@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-10T11:54:22.768Z",
+  "lastUpdated": "2026-04-10T13:41:16.632Z",
   "articles": [
+    {
+      "title": "Spacecraft aims to prevent Moon flyby blackouts",
+      "description": "Engineers are building Lunar Pathfinder - a spacecraft to cut Moon mission communications blackouts....",
+      "link": "https://www.bbc.com/news/articles/cp3l40vr9wyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 10 Apr 2026 13:16:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Illegal’ forest service overhaul risks causing ‘chaos’ across US public lands, union claims",
       "description": "&lt;p&gt;The restructuring will close all regional offices, which manages 193m acres of land, roughly the size of Texas&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c2lwvz1pl1no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 10 Apr 2026 00:59:31 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Is the Keystone XL Pipeline Back?",
-      "description": "No project better embodies the nation’s wild swings in climate and energy policy than the Keystone XL pipeline. Proposed in 2008 to carry Canadian oil...",
-      "link": "https://insideclimatenews.org/news/09042026/canada-us-oil-pipeline-proposal/",
-      "pubDate": "Thu, 09 Apr 2026 22:34:52 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
