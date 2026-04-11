@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-11T11:38:15.372Z",
+  "lastUpdated": "2026-04-11T13:16:38.260Z",
   "articles": [
+    {
+      "title": "Oil companies accused of massive accounting fraud in New Mexico",
+      "description": "A lawsuit claims ExxonMobil and others underreported debts by $194 million, calling it “a playbook” for how companies dump old wells and expenses on s...",
+      "link": "https://grist.org/energy/oil-companies-accused-of-massive-accounting-fraud-in-new-mexico/",
+      "pubDate": "Sat, 11 Apr 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/oil-wastewater-leak.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Nasa Apollo missions: Stories of the last Moon men",
+      "description": "Of the 24 Nasa astronauts who travelled to the Moon in the Apollo missions of the 1960s and 1970s, just five remain....",
+      "link": "https://www.bbc.com/news/articles/c4g9yde95yyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 11 Apr 2026 12:02:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "World's first safari park celebrates 60 years",
       "description": "Staff at Longleat Safari Park share their memories of working there....",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/10042026/minneapolis-hunger-strike-protesting-trash-incinerator-pollution/",
       "pubDate": "Fri, 10 Apr 2026 20:58:14 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What Is the Economic Impact of Data Centers? It’s a Secret.",
-      "description": "Tax breaks for data centers in North Carolina keep as much as $57 million each year from state and local government coffers, state figures show, an am...",
-      "link": "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/",
-      "pubDate": "Fri, 10 Apr 2026 17:28:19 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What it's like when your dad's an astronaut",
-      "description": "Artemis II Mission Specialist Jeremy Hansen's daughter said she loves her dad 'to the moon and back'....",
-      "link": "https://www.bbc.com/news/videos/crk1rm2gdnyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 10 Apr 2026 17:14:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
