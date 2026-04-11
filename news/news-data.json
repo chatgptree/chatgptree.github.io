@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-11T07:12:33.093Z",
+  "lastUpdated": "2026-04-11T08:56:00.203Z",
   "articles": [
+    {
+      "title": "Artemis crew home safely after completing historic mission to the Moon",
+      "description": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans....",
+      "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 11 Apr 2026 07:53:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cathay continues to advance its sustainability priorities through strategic investments and collaborative actions",
       "description": "Cathay’s Sustainability Report 2025 outlines continued progress across its priority areas Cathay is pleased to release its Sustainability Report 2025,...",
@@ -153,15 +162,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9a7b31e1a75cab87cf795e5043928599e4b0faa1/384_123_3941_3153/master/3941.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5d4631fe7fd85de3cd9171749ac5200"
-    },
-    {
-      "title": "Spacecraft aims to prevent Moon flyby blackouts",
-      "description": "Engineers are building Lunar Pathfinder - a spacecraft to cut Moon mission communications blackouts....",
-      "link": "https://www.bbc.com/news/articles/cp3l40vr9wyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 10 Apr 2026 13:16:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "‘Illegal’ forest service overhaul risks causing ‘chaos’ across US public lands, union claims",
