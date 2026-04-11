@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T10:46:10.012Z",
+  "lastUpdated": "2026-04-11T11:38:15.372Z",
   "articles": [
     {
       "title": "World's first safari park celebrates 60 years",
@@ -18,6 +18,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7f9152d8993db4708430503b17a0cec0918cf3f7/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55ee1cdce664e8c6ab8ef28615e67312"
+    },
+    {
+      "title": "Gas Industry Front Group Targets Democrats in Pennsylvania",
+      "description": "PHILADELPHIA—Sitting on a dais at the private Fitler Club for what was billed as a discussion about “the Path to a Clean Energy Future,” former Philad...",
+      "link": "https://insideclimatenews.org/news/11042026/pennsylvania-natural-gas-group-targets-democrats/",
+      "pubDate": "Sat, 11 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Who Loses in the Trump Administration’s $1 Billion ‘Deal’ to Abandon Offshore Wind?",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/videos/crk1rm2gdnyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 10 Apr 2026 17:14:23 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Britain’s Most Iconic Fish Nears Breaking Point",
-      "description": "The days of Britain’s fish and chip shops might be numbered. Consumers in the U.K. are being warned to “completely avoid” all home-caught cod by the M...",
-      "link": "https://insideclimatenews.org/news/10042026/uk-cod-shortages-warming-overfishing/",
-      "pubDate": "Fri, 10 Apr 2026 16:45:02 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
