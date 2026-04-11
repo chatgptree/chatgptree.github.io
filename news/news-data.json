@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-11T08:56:00.203Z",
+  "lastUpdated": "2026-04-11T09:52:42.617Z",
   "articles": [
+    {
+      "title": "Who Loses in the Trump Administration’s $1 Billion ‘Deal’ to Abandon Offshore Wind?",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Katharine Kollins, the ...",
+      "link": "https://insideclimatenews.org/news/11042026/interior-department-billion-dollar-deal-to-abandon-offshore-wind/",
+      "pubDate": "Sat, 11 Apr 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Artemis crew home safely after completing historic mission to the Moon",
       "description": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9000722cf797092b2ea8c57ac852e9280c6864d2/414_0_4101_3280/master/4101.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=804fec36820cc3d5f94550bf243154b9"
-    },
-    {
-      "title": "Utility Accountability Bills Divide Maryland’s Democratic Leadership",
-      "description": "In its most recent energy affordability legislation, the Maryland Senate has reversed key utility accountability proposals passed by the state House a...",
-      "link": "https://insideclimatenews.org/news/10042026/maryland-senate-utility-accountability-bills/",
-      "pubDate": "Fri, 10 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
