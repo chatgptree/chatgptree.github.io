@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T05:02:41.174Z",
+  "lastUpdated": "2026-04-11T07:12:33.093Z",
   "articles": [
     {
       "title": "Cathay continues to advance its sustainability priorities through strategic investments and collaborative actions",
@@ -9,6 +9,15 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "The war over Omagh’s gold: the £21bn mine plan tearing a community apart",
+      "description": "&lt;p&gt;On Monday, a public inquiry will reopen, nine years after the plan was proposed  and a toxic local battle began&lt;/p&gt;&lt;p&gt;When Fidelm...",
+      "link": "https://www.theguardian.com/uk-news/2026/apr/11/omagh-northern-ireland-gold-mine-21bn-inquiry",
+      "pubDate": "Sat, 11 Apr 2026 05:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/07a7580b212f2436df1b0854c2d62c38d5b1a17d/421_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87619b94f8bc57e6250d4983e46151c1"
     },
     {
       "title": "An environmental disaster in Moldova has Russia’s fingerprints all over it | Paula Erizanu",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the Trump administration’s climate math doesn’t add up",
-      "description": "There's an old argument that protecting the environment hurts the economy. It's wrong for a lot of reasons....",
-      "link": "https://grist.org/economics/trump-administration-climate-economy-government-budget/",
-      "pubDate": "Fri, 10 Apr 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/XR-climate-debt-protest.jpg?quality=75&amp;strip=all"
     }
   ]
 }
