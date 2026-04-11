@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-11T09:52:42.617Z",
+  "lastUpdated": "2026-04-11T10:46:10.012Z",
   "articles": [
+    {
+      "title": "World's first safari park celebrates 60 years",
+      "description": "Staff at Longleat Safari Park share their memories of working there....",
+      "link": "https://www.bbc.com/news/articles/cn4vjxmn018o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 11 Apr 2026 10:06:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Madeline Horwath on spring picnics – cartoon",
+      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/apr/11/madeline-horwath-on-spring-picnics-cartoon\"&gt;Continue reading...&lt;/a&gt;...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/11/madeline-horwath-on-spring-picnics-cartoon",
+      "pubDate": "Sat, 11 Apr 2026 10:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7f9152d8993db4708430503b17a0cec0918cf3f7/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55ee1cdce664e8c6ab8ef28615e67312"
+    },
     {
       "title": "Who Loses in the Trump Administration’s $1 Billion ‘Deal’ to Abandon Offshore Wind?",
       "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Katharine Kollins, the ...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Anger as swifts’ nesting holes in Derbyshire rail viaduct ‘blocked up’",
-      "description": "&lt;p&gt;Campaigners say birds could die trying to access ancestral nests that were sealed during rail refurbishment&lt;/p&gt;&lt;p&gt;Some swifts ret...",
-      "link": "https://www.theguardian.com/environment/2026/apr/10/anger-as-swifts-nesting-holes-in-derbyshire-rail-viaduct-blocked-up",
-      "pubDate": "Fri, 10 Apr 2026 14:26:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9a7b31e1a75cab87cf795e5043928599e4b0faa1/384_123_3941_3153/master/3941.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5d4631fe7fd85de3cd9171749ac5200"
-    },
-    {
-      "title": "‘Illegal’ forest service overhaul risks causing ‘chaos’ across US public lands, union claims",
-      "description": "&lt;p&gt;The restructuring will close all regional offices, which manages 193m acres of land, roughly the size of Texas&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/10/us-forest-service-restructure-union",
-      "pubDate": "Fri, 10 Apr 2026 10:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9000722cf797092b2ea8c57ac852e9280c6864d2/414_0_4101_3280/master/4101.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=804fec36820cc3d5f94550bf243154b9"
     }
   ]
 }
