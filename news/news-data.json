@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-12T11:40:21.670Z",
+  "lastUpdated": "2026-04-12T13:19:23.449Z",
   "articles": [
+    {
+      "title": "A messy garden is a glorious garden. We need to stop tidying, titivating and paving them over | Emma Beddington",
+      "description": "&lt;p&gt;I’ve just watched another of my neighbours rip up everything green and growing around their home. It’s enough to make David Attenborough weep...",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/12/a-messy-garden-is-a-glorious-garden-stop-paving-over",
+      "pubDate": "Sun, 12 Apr 2026 13:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3c84b606cf9b0483ab1ffe9fd90db38319fe2666/1744_483_3966_3172/master/3966.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acfe031ddc2e34f2e2f62fb45f590c8b"
+    },
+    {
+      "title": "Texas is giving data centers more than $1 billion in tax breaks each year",
+      "description": "The tax break is one of the state’s costliest incentive programs and soon to be the most expensive of its kind in the nation....",
+      "link": "https://grist.org/accountability/texas-is-giving-data-centers-more-than-1-billion-in-tax-breaks-each-year/",
+      "pubDate": "Sun, 12 Apr 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-11.37.41-AM.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Trying the physical tests Artemis crew face back on Earth",
+      "description": "The BBC's Science editor tries the health checks Nasa carries out on its astronauts....",
+      "link": "https://www.bbc.com/news/videos/c0q93z588j1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 12 Apr 2026 12:53:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Reverse-gentrify the country’: how Black and Indigenous intentional communities are reclaiming land",
       "description": "&lt;p&gt;From California to Alabama, people of color are building communal spaces rooted in care and tradition&lt;/p&gt;&lt;p&gt;Zappa Montag steps ou...",
@@ -83,6 +110,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+      "description": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made. ...",
+      "link": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 11 Apr 2026 23:17:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Golden eagles could be reintroduced to England after more than 150 years",
       "description": "&lt;p&gt;Study identified eight areas that can sustain a population and government has given £1m for recovery programme&lt;/p&gt;&lt;p&gt;“The world i...",
       "link": "https://www.theguardian.com/environment/2026/apr/12/golden-eagles-reintroduced-england-150-years",
@@ -144,42 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Who Loses in the Trump Administration’s $1 Billion ‘Deal’ to Abandon Offshore Wind?",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Katharine Kollins, the ...",
-      "link": "https://insideclimatenews.org/news/11042026/interior-department-billion-dollar-deal-to-abandon-offshore-wind/",
-      "pubDate": "Sat, 11 Apr 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis crew home safely after completing historic mission to the Moon",
-      "description": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans....",
-      "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 11 Apr 2026 07:53:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cathay continues to advance its sustainability priorities through strategic investments and collaborative actions",
-      "description": "Cathay’s Sustainability Report 2025 outlines continued progress across its priority areas Cathay is pleased to release its Sustainability Report 2025,...",
-      "link": "https://econews.com.au/cathay-continues-to-advance-its-sustainability-priorities-through-strategic-investments-and-collaborative-actions/",
-      "pubDate": "Sat, 11 Apr 2026 05:01:35 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "The war over Omagh’s gold: the £21bn mine plan tearing a community apart",
-      "description": "&lt;p&gt;On Monday, a public inquiry will reopen, nine years after the plan was proposed  and a toxic local battle began&lt;/p&gt;&lt;p&gt;When Fidelm...",
-      "link": "https://www.theguardian.com/uk-news/2026/apr/11/omagh-northern-ireland-gold-mine-21bn-inquiry",
-      "pubDate": "Sat, 11 Apr 2026 05:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/07a7580b212f2436df1b0854c2d62c38d5b1a17d/421_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87619b94f8bc57e6250d4983e46151c1"
     }
   ]
 }
