@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-12T17:43:09.929Z",
+  "lastUpdated": "2026-04-12T19:02:04.438Z",
   "articles": [
+    {
+      "title": "'It's a special thing to be on Planet Earth': Nasa's Artemis crew welcomed home",
+      "description": "The four astronauts who flew in Nasa's Artemis II mission around the moon have been welcomed home....",
+      "link": "https://www.bbc.com/news/videos/c1mkj5xp85xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 12 Apr 2026 17:50:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A messy garden is a glorious garden. We need to stop tidying, titivating and paving them over | Emma Beddington",
       "description": "&lt;p&gt;I’ve just watched another of my neighbours rip up everything green and growing around their home. It’s enough to make David Attenborough weep...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7f9152d8993db4708430503b17a0cec0918cf3f7/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55ee1cdce664e8c6ab8ef28615e67312"
-    },
-    {
-      "title": "Gas Industry Front Group Targets Democrats in Pennsylvania",
-      "description": "PHILADELPHIA—Sitting on a dais at the private Fitler Club for what was billed as a discussion about “the Path to a Clean Energy Future,” former Philad...",
-      "link": "https://insideclimatenews.org/news/11042026/pennsylvania-natural-gas-group-targets-democrats/",
-      "pubDate": "Sat, 11 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
