@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-13T18:09:52.336Z",
+  "lastUpdated": "2026-04-13T20:10:11.639Z",
   "articles": [
+    {
+      "title": "Artemis II inspires student rocket builders",
+      "description": "Cambridge University students want to be the first in Europe to send a rocket to the edge of space....",
+      "link": "https://www.bbc.com/news/articles/cjd89p05l8vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Apr 2026 18:18:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Colombia to cull up to 80 hippos descended from Pablo Escobar zoo",
+      "description": "&lt;p&gt;Dozens of feral pachyderms linked to drug kingpin to be killed because of threat to native species and villagers&lt;/p&gt;&lt;p&gt;&lt;a href...",
+      "link": "https://www.theguardian.com/world/2026/apr/13/colombia-hippo-hunt-pablo-escobar",
+      "pubDate": "Mon, 13 Apr 2026 18:01:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2ef833ef72bf8ac1b209c6188ffe86707117f9e8/211_0_2103_1683/master/2103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=696b718a75ac2040ebea2d163c2b3dbf"
+    },
     {
       "title": "Footage captures meteor crossing the sky",
       "description": "Experts say the meteor, seen in the early hours of Monday, likely burned up over the North Sea....",
@@ -65,15 +83,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Troubled Lake Erie is being transformed into a vast water research facility",
-      "description": "&lt;p&gt;For long a dumping ground for pollutants, the Great Lake is being seeded with sensor buoys to make it the world’s largest digitally connected...",
-      "link": "https://www.theguardian.com/environment/2026/apr/13/lake-erie-water-research",
-      "pubDate": "Mon, 13 Apr 2026 11:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f0d8a06ac12369cfde3d86e5930390be72a891d2/169_0_4462_3571/master/4462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07f1ffc6d686f695f0ebd3d2c543c1c5"
-    },
-    {
       "title": "Are we heading for ‘super El Niño’ – and what could we expect?",
       "description": "&lt;p&gt;Experts say climate pattern could supercharge extreme weather events and push temperatures to record highs&lt;/p&gt;&lt;p&gt;There is a high ...",
       "link": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
@@ -81,6 +90,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f8533a7b52b135e69bbfb9ba08fead584f6b8574/640_0_3669_2936/master/3669.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d0415abed248c136c89d8fd0fb1df21"
+    },
+    {
+      "title": "Troubled Lake Erie is being transformed into a vast water research facility",
+      "description": "&lt;p&gt;For long a dumping ground for pollutants, the Great Lake is being seeded with sensor buoys to make it the world’s largest digitally connected...",
+      "link": "https://www.theguardian.com/environment/2026/apr/13/lake-erie-water-research",
+      "pubDate": "Mon, 13 Apr 2026 11:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f0d8a06ac12369cfde3d86e5930390be72a891d2/169_0_4462_3571/master/4462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07f1ffc6d686f695f0ebd3d2c543c1c5"
     },
     {
       "title": "Oil Tycoon Funds Far-Right Candidate Challenging Texas Oilfield Regulator",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/Instant-Products-Group_Logo_72-DPI.png"
-    },
-    {
-      "title": "'It's a special thing to be on Planet Earth': Nasa's Artemis crew welcomed home",
-      "description": "The four astronauts who flew in Nasa's Artemis II mission around the moon have been welcomed home....",
-      "link": "https://www.bbc.com/news/videos/c1mkj5xp85xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 12 Apr 2026 17:50:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A messy garden is a glorious garden. We need to stop tidying, titivating and paving them over | Emma Beddington",
-      "description": "&lt;p&gt;I’ve just watched another of my neighbours rip up everything green and growing around their home. It’s enough to make David Attenborough weep...",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/12/a-messy-garden-is-a-glorious-garden-stop-paving-over",
-      "pubDate": "Sun, 12 Apr 2026 13:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3c84b606cf9b0483ab1ffe9fd90db38319fe2666/1744_483_3966_3172/master/3966.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acfe031ddc2e34f2e2f62fb45f590c8b"
     }
   ]
 }
