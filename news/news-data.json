@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-13T11:23:15.479Z",
+  "lastUpdated": "2026-04-13T14:01:22.392Z",
   "articles": [
+    {
+      "title": "Surrey's blue tit bucks national trend in bird study",
+      "description": "The blue tit is the most common bird spotted in Surrey, while the house sparrow is across the UK....",
+      "link": "https://www.bbc.com/news/articles/c1j7ke8pjlxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Apr 2026 13:58:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Suspected meteorite caught on camera",
+      "description": "Lex Adair noticed a bright light had crossed the night sky at about 00:30 BST....",
+      "link": "https://www.bbc.com/news/articles/cn08eke7r45o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Apr 2026 13:50:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Meteor lights up night sky over Kent",
+      "description": "Watch footage of a bright green fireball captured over Herne Bay in the early hours of Monday morning....",
+      "link": "https://www.bbc.com/news/videos/cgrlzl0xw1wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Apr 2026 12:37:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Footage captures meteor flying across the sky",
+      "description": "Footage appears to capture a meteor from various angles across East Yorkshire and Lincolnshire....",
+      "link": "https://www.bbc.com/news/videos/clyxzz0egjdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Apr 2026 11:45:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Are we heading for ‘super El Nino’ – and what could we expect?",
       "description": "&lt;p&gt;Experts say climate pattern could supercharge extreme weather events and push temperatures to record highs&lt;/p&gt;&lt;p&gt;There is a high ...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2f719d04f595ab7c0874680b421c25af3dca7b18/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12df896c22d0c2b0a114a52baacd5b8c"
-    },
-    {
-      "title": "A Hunger Strike Ends, but an ‘Unreasonable’ Woman’s Battle Against Corporate Polluters Marches On",
-      "description": "The Resistance, Part 1: With an army of lawyers, an activist legend squares off against polluting industries along the Texas coast she calls home.&#16...",
-      "link": "https://insideclimatenews.org/news/12042026/diane-wilson-dow-chemical-texas-hunger-strike/",
-      "pubDate": "Sun, 12 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cancer Rates Are Higher Near Large Livestock Feeding Operations in 3 States, a New Study Finds",
-      "description": "People in three states living near large livestock feeding operations experience higher rates of cancer, a new analysis found. The study, published in...",
-      "link": "https://insideclimatenews.org/news/12042026/cancer-rates-higher-near-livestock-operations-study-finds/",
-      "pubDate": "Sun, 12 Apr 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Extraordinary Sensory Worlds of Animals",
-      "description": "Watch as Ed Yong, Pulitzer-winning science journalist and author of An Immense World, speaks with ICN executive editor Vernon Loeb about the extraordi...",
-      "link": "https://insideclimatenews.org/news/12042026/inside-climate-talks-ed-yong/",
-      "pubDate": "Sun, 12 Apr 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The doomsday seed collectors fighting to save Wales' native species",
-      "description": "Should the apocalypse arrive, Wales as we know it may depend on these two conservationists....",
-      "link": "https://www.bbc.com/news/articles/c2d1k0nrwe9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 12 Apr 2026 06:48:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
