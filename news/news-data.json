@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-13T14:01:22.392Z",
+  "lastUpdated": "2026-04-13T16:19:31.135Z",
   "articles": [
+    {
+      "title": "Footage captures meteor crossing the sky",
+      "description": "Experts say the meteor, seen in the early hours of Monday, likely burned up over the North Sea....",
+      "link": "https://www.bbc.com/news/articles/c98mqmj35nzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 13 Apr 2026 15:59:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Spring flowers bloom in England after mix of hot and cold weather creates ideal conditions",
+      "description": "&lt;p&gt;Colourful tulips, hyacinths, wisteria and daffodils appear across country as gardeners prepare for shows&lt;/p&gt;&lt;p&gt;Colourful tulips, ...",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/13/spring-flowers-bloom-england-heatwave-cold-snap-create-ideal-conditions",
+      "pubDate": "Mon, 13 Apr 2026 14:47:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/66050b8fff13d68ae87b93f62f709a0115a9065e/193_0_3249_2600/master/3249.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fe13e81596558975210f1f96d49c67b"
+    },
+    {
+      "title": "Bosses of Santos, Woodside, Chevron and Shell asked to give evidence to Greens-led gas tax inquiry",
+      "description": "&lt;p&gt;Labor is under pressure to impose a new 25% export tax amid soaring prices from the global fuel shock&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;G...",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/13/gas-tax-inquiry-greens-labor-santos-woodside-chevron-shell",
+      "pubDate": "Mon, 13 Apr 2026 14:01:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/31da7e3d062648365cee72cc0cd22994d590a18e/593_0_5040_4032/master/5040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=366cb90e06ea9ad9bf5c38a149e24f90"
+    },
     {
       "title": "Surrey's blue tit bucks national trend in bird study",
       "description": "The blue tit is the most common bird spotted in Surrey, while the house sparrow is across the UK....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3c84b606cf9b0483ab1ffe9fd90db38319fe2666/1744_483_3966_3172/master/3966.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acfe031ddc2e34f2e2f62fb45f590c8b"
-    },
-    {
-      "title": "Texas is giving data centers more than $1 billion in tax breaks each year",
-      "description": "The tax break is one of the state’s costliest incentive programs and soon to be the most expensive of its kind in the nation....",
-      "link": "https://grist.org/accountability/texas-is-giving-data-centers-more-than-1-billion-in-tax-breaks-each-year/",
-      "pubDate": "Sun, 12 Apr 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-11.37.41-AM.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Trying the physical tests Artemis crew face back on Earth",
-      "description": "The BBC's Science editor tries the health checks Nasa carries out on its astronauts....",
-      "link": "https://www.bbc.com/news/videos/c0q93z588j1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 12 Apr 2026 12:53:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Reverse-gentrify the country’: how Black and Indigenous intentional communities are reclaiming land",
-      "description": "&lt;p&gt;From California to Alabama, people of color are building communal spaces rooted in care and tradition&lt;/p&gt;&lt;p&gt;Zappa Montag steps ou...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/12/black-indigenous-ecovillage-community-reclaim-land",
-      "pubDate": "Sun, 12 Apr 2026 11:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2f719d04f595ab7c0874680b421c25af3dca7b18/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12df896c22d0c2b0a114a52baacd5b8c"
     }
   ]
 }
