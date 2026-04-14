@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-14T21:58:26.820Z",
+  "lastUpdated": "2026-04-14T22:57:36.828Z",
   "articles": [
+    {
+      "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+      "description": "&lt;p&gt;Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis area&lt;/p&gt;&lt;p&gt;A n...",
+      "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+      "pubDate": "Tue, 14 Apr 2026 22:19:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cf50ef8428c2cce2dfc2bbe5eb18dd937a95ebcf/1045_0_4493_3597/master/4493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d0eafcbbc0f366b81d8ba0678dfd6b"
+    },
+    {
+      "title": "Interstellar A&E: The Scottish doctor of space medicine",
+      "description": "Dr Christina Mackaill has been teaching emergency departments about how to treat astronauts after returning to Earth....",
+      "link": "https://www.bbc.com/news/articles/c2k34qjnxw2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Apr 2026 22:05:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "New footage shows joy at Orion capsule hatch being opened",
       "description": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a happy reunion with the four astronauts....",
@@ -18,15 +36,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
-      "description": "&lt;p&gt;Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis area&lt;/p&gt;&lt;p&gt;A n...",
-      "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
-      "pubDate": "Tue, 14 Apr 2026 20:54:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cf50ef8428c2cce2dfc2bbe5eb18dd937a95ebcf/1045_0_4493_3597/master/4493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d0eafcbbc0f366b81d8ba0678dfd6b"
     },
     {
       "title": "‘Heat Batteries’ Leave Some City Blocks Scorched",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The spike in diesel prices is quietly costing you billions",
-      "description": "\"You're probably feeling it in ways you don't realize.”...",
-      "link": "https://grist.org/business/the-spike-in-diesel-fuel-prices-is-quietly-costing-you-billions/",
-      "pubDate": "Tue, 14 Apr 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/gasoline-prices-4-Iran-war-EVs-electric-vehicles.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
