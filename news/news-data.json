@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-14T14:54:29.209Z",
+  "lastUpdated": "2026-04-14T16:16:50.100Z",
   "articles": [
+    {
+      "title": "New footage shows moment Orion capsule hatch is opened at sea",
+      "description": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a joyful reunion with the four astronauts....",
+      "link": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Apr 2026 16:12:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Politicians and media can’t imagine a fossil-fuel free world - and it’s holding Australians back from huge EV savings | Adam Morton",
+      "description": "&lt;p&gt;Australia is well behind other countries in embracing clean cars – it’s past time we kicked into gear on going electric&lt;/p&gt;&lt;ul&gt;&l...",
+      "link": "https://www.theguardian.com/environment/2026/apr/15/australia-fossil-fuels-politics-electric-vehicle-savings-clean-energy",
+      "pubDate": "Tue, 14 Apr 2026 15:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/244d962b1e689539cc03d65a4a10721750068a5d/246_0_2461_1970/master/2461.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff0968901a72e06d7271904b076937cb"
+    },
     {
       "title": "Watch: Moment meteor soars across Suffolk sky",
       "description": "Denise Hubert captured the outer space phenomenon on doorbell camera in Kesgrave....",
@@ -39,7 +57,7 @@
     },
     {
       "title": "‘Nothing but tree skeletons’: record-breaking wildfires devastate US cattle country",
-      "description": "&lt;p&gt;Rising temperatures and extreme drought are driving more destructive spring fires across the American Great Plains. This year, forces aligned...",
+      "description": "&lt;p&gt;Rising temperatures and extreme drought are driving more destructive spring fires across the Great Plains. This year, forces aligned to creat...",
       "link": "https://www.theguardian.com/world/2026/apr/14/wildfire-cattle-ranchers-american-great-plains",
       "pubDate": "Tue, 14 Apr 2026 11:00:55 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/image001-23-1024x645.jpg"
-    },
-    {
-      "title": "This simple metal tube helps scientists predict drought before it happens",
-      "description": "On a snowy February morning, Toby Rodgers strapped on a pair of snowshoes and trudged across a snowy field in Washington’s Cascade mountains. Rodgers,...",
-      "link": "https://grist.org/science/snow-drought-science-church-sampler-data/",
-      "pubDate": "Tue, 14 Apr 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/western-snowpack-drought-summer-water.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘Suddenly, boom, it’s completely warm’: summers are getting longer – especially in Sydney, study finds",
-      "description": "&lt;p&gt;Researchers examined trends in 10 global cities, with Sydney’s summer growing at two-and-a-half times the average&lt;/p&gt;&lt;p&gt;Scientist...",
-      "link": "https://www.theguardian.com/environment/2026/apr/14/summers-are-longer-more-intense-temperatures",
-      "pubDate": "Tue, 14 Apr 2026 07:11:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f176190fbf3c1a176ec6cf36da8eca3f3723d5af/548_0_5480_4384/master/5480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50cc37ef20220a1fb6808a396ee00fc0"
     }
   ]
 }
