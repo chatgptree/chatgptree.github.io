@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-04-15T03:31:54.889Z",
+  "lastUpdated": "2026-04-15T06:05:37.787Z",
   "articles": [
+    {
+      "title": "Pet adoption rates hit lowest on record, new PetRescue data reveals",
+      "description": "As Australia’s most trusted pet adoption platform marks one million adoptions, it warns housing insecurity and cost of living pressures are pushing th...",
+      "link": "https://econews.com.au/pet-adoption-rates-hit-lowest-on-record-new-petrescue-data-reveals/",
+      "pubDate": "Wed, 15 Apr 2026 06:01:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-15T153639.680.png"
+    },
+    {
+      "title": "Computational “time machine” shows solar and wind on track for 2°C target but not for 1.5°C",
+      "description": "Image Credit: Chalmers University of Technology Wind and solar power have grown faster than almost anyone predicted but projecting their future expans...",
+      "link": "https://econews.com.au/computational-time-machine-shows-solar-and-wind-on-track-for-2c-target-but-not-for-1-5c/",
+      "pubDate": "Wed, 15 Apr 2026 06:01:01 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/07/Chalmers-logo.png"
+    },
+    {
+      "title": "Research calls for Indigenous agency in academic publishing",
+      "description": "Uncle Bob Muir – Photo: Lior Cohen New research is calling for a fundamental shift in how Australian universities and scientists publish research that...",
+      "link": "https://econews.com.au/research-calls-for-indigenous-agency-in-academic-publishing/",
+      "pubDate": "Wed, 15 Apr 2026 06:01:01 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Flinders-Uni-logo.png"
+    },
+    {
+      "title": "HESTA announces CEO appointment",
+      "description": "Incoming HESTA CEO Robbie Campo HESTA The HESTA Board today announced the appointment of Robbie Campo as CEO of the $100 billion profit-to-members ind...",
+      "link": "https://econews.com.au/hesta-announces-ceo-appointment/",
+      "pubDate": "Wed, 15 Apr 2026 06:00:57 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/download-8.png"
+    },
+    {
+      "title": "Interstellar A&E: The Scottish doctor of space medicine",
+      "description": "Dr Christina Mackaill has been teaching emergency departments about how to treat astronauts after returning to Earth....",
+      "link": "https://www.bbc.com/news/articles/c2k34qjnxw2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Apr 2026 05:12:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK butterflies declining after 50 years of data",
+      "description": "Volunteers led by Dorset-based Butterfly Conservation have gathered more than 44m records....",
+      "link": "https://www.bbc.com/news/articles/cddq51v7nygo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Apr 2026 05:04:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Butterfly numbers are dropping but here are five species you may see more of",
       "description": "A warming climate has helped some to flourish, researchers say, but the outlook is troubling....",
@@ -17,7 +71,7 @@
       "pubDate": "Tue, 14 Apr 2026 23:01:51 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/dd98acf3de7569830879eaf784f43df75fbc5437/0_0_1386_1108/master/1386.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0eba3409e9176aefef36d7f29daec745"
+      "image": "https://i.guim.co.uk/img/media/dd98acf3de7569830879eaf784f43df75fbc5437/0_25_1353_1083/master/1353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2ed6e7f4e8e8287210c579d47eb496a"
     },
     {
       "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
@@ -27,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cf50ef8428c2cce2dfc2bbe5eb18dd937a95ebcf/1045_0_4493_3597/master/4493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d0eafcbbc0f366b81d8ba0678dfd6b"
-    },
-    {
-      "title": "Interstellar A&E: The Scottish doctor of space medicine",
-      "description": "Dr Christina Mackaill has been teaching emergency departments about how to treat astronauts after returning to Earth....",
-      "link": "https://www.bbc.com/news/articles/c2k34qjnxw2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Apr 2026 22:05:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "New footage shows joy at Orion capsule hatch being opened",
@@ -135,51 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/10/work-injury.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "America’s hiking culture is built on ego",
-      "description": "&lt;p&gt;From peak-bagging to thru-hiking, Americans have turned traversing land into personal milestones. This wilderness ranger and Indigenous write...",
-      "link": "https://www.theguardian.com/environment/2026/apr/14/americas-hiking-culture-is-built-on-ego",
-      "pubDate": "Tue, 14 Apr 2026 12:00:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/91ea1de43def9c74605e95b29f1aa033cf7b2193/252_0_2333_1867/master/2333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e5c34e2d4c72535780bc9285dcda81d"
-    },
-    {
-      "title": "‘Nothing but tree skeletons’: record-breaking wildfires devastate US cattle country",
-      "description": "&lt;p&gt;Rising temperatures and extreme drought are driving more destructive spring fires across the Great Plains. This year, forces aligned to creat...",
-      "link": "https://www.theguardian.com/world/2026/apr/14/wildfire-cattle-ranchers-american-great-plains",
-      "pubDate": "Tue, 14 Apr 2026 11:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/812354a2f980085f92455c06647f8e76060d7854/81_0_2438_1950/master/2438.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=deaad2a6cf4a5fd9f5b540d13487aed2"
-    },
-    {
-      "title": "Chemical Threats Nearby? Trump’s EPA Doesn’t Want You to Know.",
-      "description": "Raschelle Grandison had just walked out her front door to grab something from her car on a chilly March morning in 2019 when she stopped dead in her t...",
-      "link": "https://insideclimatenews.org/news/14042026/trump-epa-chemical-safety-rollback/",
-      "pubDate": "Tue, 14 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Norway Reopens Annual Whale Hunt Despite Pressure to End Commercial Whaling",
-      "description": "Norway reopened its annual whale hunting season earlier this month, continuing a practice most countries abandoned decades ago.&#160; By the mid-20th ...",
-      "link": "https://insideclimatenews.org/news/14042026/norway-reopens-commercial-whaling-despite-demand-decline/",
-      "pubDate": "Tue, 14 Apr 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Room to Roam",
-      "description": "The second installment in our special Earth Day series Animals roam the Earth to mate, to hunt, to spread seeds and to participate in myriad processes...",
-      "link": "https://insideclimatenews.org/news/14042026/room-to-roam/",
-      "pubDate": "Tue, 14 Apr 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
