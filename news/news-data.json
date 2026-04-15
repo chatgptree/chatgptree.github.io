@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-15T21:57:56.221Z",
+  "lastUpdated": "2026-04-15T22:53:29.967Z",
   "articles": [
+    {
+      "title": "Move over wind farms: why some argue cutting costs is the best way to cut carbon",
+      "description": "From heat pumps to offshore wind, the UK’s net zero push is facing growing scrutiny. Are rising costs undermining climate goals?...",
+      "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Apr 2026 22:19:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Gray whales, once rare in San Francisco Bay, dying there at alarming rates",
+      "description": "&lt;p&gt;Researchers find increase in whale deaths in the Bay, largely because of collisions with vessels on busy shipping route&lt;/p&gt;&lt;p&gt;Gra...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/15/gray-whales-san-francisco-bay",
+      "pubDate": "Wed, 15 Apr 2026 21:45:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/47f99920e93e5c99d1d3969c725be08883f88359/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aa0f901e1a2192a1f4df8f4cd549570"
+    },
     {
       "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
       "description": "&lt;p&gt;Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis area&lt;/p&gt;&lt;p&gt;A n...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/05/Illinois-Lake-Michigan-Asian-carp-barricade.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Many companies want clean energy. Georgia Power will soon let them build it.",
-      "description": "Supporters hope the move will serve as a model for other places balancing surging energy demand and climate goals....",
-      "link": "https://grist.org/georgia-psc/many-companies-want-clean-energy-georgia-power-will-soon-let-them-build-it/",
-      "pubDate": "Wed, 15 Apr 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/smoggy-Capitol-building-reflection.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Pet adoption rates hit lowest on record, new PetRescue data reveals",
-      "description": "As Australia’s most trusted pet adoption platform marks one million adoptions, it warns housing insecurity and cost of living pressures are pushing th...",
-      "link": "https://econews.com.au/pet-adoption-rates-hit-lowest-on-record-new-petrescue-data-reveals/",
-      "pubDate": "Wed, 15 Apr 2026 06:01:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-15T153639.680.png"
     }
   ]
 }
