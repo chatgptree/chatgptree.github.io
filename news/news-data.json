@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-15T10:22:49.894Z",
+  "lastUpdated": "2026-04-15T12:00:41.356Z",
   "articles": [
+    {
+      "title": "$30m an hour: big oil reaping huge war windfall from consumers, analysis finds",
+      "description": "&lt;p&gt;Exclusive: Climate action blockers including Saudi Arabia, Russia and major fossil fuel firms set to make extra $234bn by end of 2026&lt;/p&g...",
+      "link": "https://www.theguardian.com/environment/2026/apr/15/big-oil-huge-war-windfall-consumers",
+      "pubDate": "Wed, 15 Apr 2026 11:02:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3858b3c33263b61740a71cc3e9449b8563b78845/193_122_3510_2808/master/3510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7aeaa224abcc537dc948ba3eb9de52ac"
+    },
+    {
+      "title": "‘They want to keep denying us our rights’: workers in Vermont’s $5.4bn dairy industry fight for basic labor protections",
+      "description": "&lt;p&gt;Migrant labor fuels much of Vermont’s dairy industry, but workers are exempt from minimum wage rules, overtime protections and the right to u...",
+      "link": "https://www.theguardian.com/environment/2026/apr/15/vermont-dairy-industry-migrant-labor-workers-rights",
+      "pubDate": "Wed, 15 Apr 2026 11:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fd04cb4ba8266a66d15b92dc67411a76fbc903ab/250_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=565307170e9e4810d77fdc995b9830fc"
+    },
     {
       "title": "Sperm whales’ communication closely parallels human language, study finds",
       "description": "&lt;p&gt;Analysis shows whales’ coda vocalizations are ‘highly complex’ and remarkably similar to our own&lt;/p&gt;&lt;p&gt;We may appear to have litt...",
@@ -9,6 +27,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f27594083ae2fe430610c8c1be16c9e872536dee/0_0_5399_4320/master/5399.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=438352d439a5e6cd6bea6068014e366a"
+    },
+    {
+      "title": "Iowa Moves to Shield Farmers, Ethanol Plants, From Lawsuits Over Emissions",
+      "description": "DES MOINES, Iowa—Aaron Lehman has many concerns about the fate of Iowa’s farmers. Climate lawsuits aren’t one. But state legislators don’t see eye-to-...",
+      "link": "https://insideclimatenews.org/news/15042026/iowa-farm-emissions-bill-could-benefit-ethanol-plants/",
+      "pubDate": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Dam Useless: Barriers Prevent a Migratory Fish from Reproducing",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cf50ef8428c2cce2dfc2bbe5eb18dd937a95ebcf/1045_0_4493_3597/master/4493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d0eafcbbc0f366b81d8ba0678dfd6b"
-    },
-    {
-      "title": "New footage shows joy at Orion capsule hatch being opened",
-      "description": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a happy reunion with the four astronauts....",
-      "link": "https://www.bbc.com/news/videos/cyv11je1emeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Apr 2026 21:36:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Global Finance and Energy Leaders Warn of Potentially Dire Impacts From Iran War",
-      "description": "As the Iran war nears its seventh week, two of the world’s leading finance and energy institutions are forecasting a bleak future for the global econo...",
-      "link": "https://insideclimatenews.org/news/14042026/iran-war-energy-impacts/",
-      "pubDate": "Tue, 14 Apr 2026 21:27:48 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Heat Batteries’ Leave Some City Blocks Scorched",
-      "description": "It’s about to get hotter in our nation’s cities. Just how hot it gets depends not only on the weather, but also on infrastructure, working conditions ...",
-      "link": "https://insideclimatenews.org/news/14042026/heat-batteries-leave-some-city-blocks-scorched/",
-      "pubDate": "Tue, 14 Apr 2026 20:12:15 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
