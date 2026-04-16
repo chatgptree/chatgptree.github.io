@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-16T20:58:41.523Z",
+  "lastUpdated": "2026-04-16T21:55:06.489Z",
   "articles": [
+    {
+      "title": "Artemis II crew: 'We left as friends - we came back as best friends'",
+      "description": "The four crew members gave their first press conference since they splashed down nearly a week ago, and emphasised hope and unity....",
+      "link": "https://www.bbc.com/news/articles/ce8jpz9rx2yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Apr 2026 21:49:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Minnesota&#8217;s Boundary Waters Just Lost Protection From Mining",
       "description": "WASHINGTON—Despite hours of impassioned arguments from Sen. Tina Smith, the U.S. Senate ended a Biden-era moratorium on mining in the Boundary Waters ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e63acde2997eb2605b372316ea4b9a40ee0e623b/750_788_3438_2751/master/3438.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64c83ebd47235ecbbcd69a3d621e55ac"
-    },
-    {
-      "title": "Charity fundraises to bring back wildlife",
-      "description": "The trust is aiming to raise £40K to create wildlife-rich public spaces....",
-      "link": "https://www.bbc.com/news/articles/cx244w72v18o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Apr 2026 05:13:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
