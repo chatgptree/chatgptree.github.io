@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-04-16T19:26:44.341Z",
+  "lastUpdated": "2026-04-16T20:58:41.523Z",
   "articles": [
     {
-      "title": "Great White Sharks Are Overheating",
-      "description": "The evolutionary edge that fueled great white shark dominance for millions of years could soon become its greatest downfall. The ocean’s most iconic p...",
-      "link": "https://insideclimatenews.org/news/16042026/great-white-sharks-ocean-warming/",
-      "pubDate": "Thu, 16 Apr 2026 18:00:00 +0000",
+      "title": "Minnesota&#8217;s Boundary Waters Just Lost Protection From Mining",
+      "description": "WASHINGTON—Despite hours of impassioned arguments from Sen. Tina Smith, the U.S. Senate ended a Biden-era moratorium on mining in the Boundary Waters ...",
+      "link": "https://insideclimatenews.org/news/16042026/minnesotas-boundary-waters-just-lost-protection-from-mining/",
+      "pubDate": "Thu, 16 Apr 2026 20:39:04 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Artemis II crew describes Moon mission and splashdown moment",
+      "description": "The crew held its first press conference since splashing down from their historic 10-day trip....",
+      "link": "https://www.bbc.com/news/videos/clyxpn98w55o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Apr 2026 20:32:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmental Groups Take Trump Administration’s ‘God Squad’ to Court",
+      "description": "Environmental groups are suing the Trump administration over its decision to exempt oil and gas drilling in the Gulf of Mexico from complying with the...",
+      "link": "https://insideclimatenews.org/news/16042026/environmental-groups-sue-trump-god-squad/",
+      "pubDate": "Thu, 16 Apr 2026 20:24:10 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,8 +32,17 @@
       "title": "BBC Inside Science",
       "description": "What was learnt from the Chernobyl disaster and how has it shaped UK energy production?...",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct977g?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Apr 2026 16:00:00 GMT",
+      "pubDate": "Thu, 16 Apr 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Great White Sharks Are Overheating",
+      "description": "The evolutionary edge that fueled great white shark dominance for millions of years could soon become its greatest downfall. The ocean’s most iconic p...",
+      "link": "https://insideclimatenews.org/news/16042026/great-white-sharks-ocean-warming/",
+      "pubDate": "Thu, 16 Apr 2026 18:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Latest Safeguard Mechanism data shows Australia’s centrepiece climate policy is primarily a clearinghouse for low-integrity offsets",
-      "description": "The Australian Government’s Clean Energy Regulator (CER) has today published data on the operation of the Safeguard Mechanism over 2024-2025, which sh...",
-      "link": "https://econews.com.au/latest-safeguard-mechanism-data-shows-australias-centrepiece-climate-policy-is-primarily-a-clearinghouse-for-low-integrity-offsets/",
-      "pubDate": "Thu, 16 Apr 2026 05:00:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/download-9.png"
-    },
-    {
-      "title": "Epson Earns AAA in MSCI ESG Ratings for the Third Consecutive Year",
-      "description": "Epson facility at Yennora, NSW Epson has been awarded a AAA rating, the highest rating in the MSCI ESG Ratings, for the third consecutive year in 2026...",
-      "link": "https://econews.com.au/epson-earns-aaa-in-msci-esg-ratings-for-the-third-consecutive-year/",
-      "pubDate": "Thu, 16 Apr 2026 05:00:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Logo_2023_RGB_Blue-1024x395.png"
-    },
-    {
-      "title": "Tenterfield husband &#038; wife conservationists welcome visitors to their wildlife sanctuary",
-      "description": "For Steve and Bianca Haslam, maintaining a 400-acre fenced wildlife sanctuary is — quite literally — a labour of love. This nature-loving pair are two...",
-      "link": "https://econews.com.au/tenterfield-husband-wife-conservationists-welcome-visitors-to-their-wildlife-sanctuary/",
-      "pubDate": "Thu, 16 Apr 2026 05:00:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
