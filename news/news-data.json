@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-16T12:03:48.055Z",
+  "lastUpdated": "2026-04-16T15:02:34.795Z",
   "articles": [
+    {
+      "title": "Saving gorillas by helping humans",
+      "description": "In South West Uganda, mountain gorillas are being saved by helping humans....",
+      "link": "https://www.bbc.com/news/videos/cx2r19vx08go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Apr 2026 14:52:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Puerto Rico’s rainforest center reborn: in pictures",
+      "description": "&lt;p&gt;After two devastating hurricanes, El Yunque national forest has built a new visitors center that hosts a vibrant arts festival&lt;/p&gt; &lt;...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/apr/16/puerto-rico-el-yunque-rainforest-in-pictures",
+      "pubDate": "Thu, 16 Apr 2026 13:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/da122f37e8fa8f2834ce101dbf4baedc279134ca/688_124_1954_1564/master/1954.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b9e95d018b395d83daeb3eac53eece8"
+    },
+    {
+      "title": "Rising Gas Prices Make the Market Ripe for Electric Vehicles, but US Automakers Can’t Seize the Moment",
+      "description": "Over the weekend, on a family trip in central Kentucky, I paid more than $4 per gallon for gasoline for the first time during our current price spike....",
+      "link": "https://insideclimatenews.org/news/16042026/inside-clean-energy-gas-prices-evs/",
+      "pubDate": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "MSC’s ‘blue tick’ scheme creates illusion of ethically sourced fish, study claims",
       "description": "&lt;p&gt;Sustainability certification by Marine Stewardship Council may be obscuring labour abuses in seafood supply chains, say researchers&lt;/p&gt;...",
@@ -27,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6c19a3bf263fa64590434155bee84cf3a75d8738/0_61_4848_3878/master/4848.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a92a9649af32681e2bb84a868cf8725d"
-    },
-    {
-      "title": "Minister considers banning over-the-counter flea treatments for pets",
-      "description": "Ministers are considering restricting spot-on treatments and collars to prescriptions from vets and medical professionals....",
-      "link": "https://www.bbc.com/news/articles/clyxpnz45yzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Apr 2026 10:32:19 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "The Cherokee Rose, Georgia’s State Flower, Actually Has Nothing to Do With the Cherokee People—or the State",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/67be326f60f54bc22338fe2a65547ae6b406410b/416_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ef9a6b60252a7b2230e7108a46656c1"
-    },
-    {
-      "title": "Why cheap power could matter more than clean power in the push for net zero",
-      "description": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny...",
-      "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Apr 2026 23:20:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why cheap power could matter more than clean power in the push for net zero",
-      "description": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny...",
-      "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Apr 2026 23:20:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
