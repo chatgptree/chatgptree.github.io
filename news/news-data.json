@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-16T15:02:34.795Z",
+  "lastUpdated": "2026-04-16T17:23:58.196Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "What was learnt from the Chernobyl disaster and how has it shaped UK energy production?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977g?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Apr 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rare butterflies spotted after 430 trees planted",
+      "description": "Rare white-letter hairstreak butterflies have been spotted after volunteers planted elm trees....",
+      "link": "https://www.bbc.com/news/articles/cwyx2gwed6zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Apr 2026 15:24:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Saving gorillas by helping humans",
       "description": "In South West Uganda, mountain gorillas are being saved by helping humans....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "World Vision Australia secures rare Green Climate Fund accreditation",
-      "description": "World Vision Australia has been accredited by the Green Climate Fund (GCF), becoming one of a select group of global humanitarian NGOs to earn the sta...",
-      "link": "https://econews.com.au/world-vision-australia-secures-rare-green-climate-fund-accreditation/",
-      "pubDate": "Thu, 16 Apr 2026 04:00:47 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/WorldVision-Logo-2R-Primary-1024x346.jpg"
-    },
-    {
-      "title": "How South Korea plans to use the Iran crisis to spur a renewables revolution",
-      "description": "&lt;p&gt;Energy crisis unfolding in Middle East has added political urgency, and more funding, to transform South Korea’s solar industry&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/world/2026/apr/16/south-korea-solar-power-renewables-revolution",
-      "pubDate": "Thu, 16 Apr 2026 03:09:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67be326f60f54bc22338fe2a65547ae6b406410b/416_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ef9a6b60252a7b2230e7108a46656c1"
     }
   ]
 }
