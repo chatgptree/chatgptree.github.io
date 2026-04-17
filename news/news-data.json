@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-17T15:04:02.633Z",
+  "lastUpdated": "2026-04-17T17:01:23.902Z",
   "articles": [
+    {
+      "title": "Supreme court sides with oil and gas firms in Louisiana coastal damage fight",
+      "description": "&lt;p&gt;8-0 ruling gives companies new day in federal court after firms including Chevron ordered to pay millions for cleanup&lt;/p&gt;&lt;p&gt;The s...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/17/supreme-court-oil-and-gas-louisiana",
+      "pubDate": "Fri, 17 Apr 2026 16:40:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/13f4393edf38f1c92ebf41b72cac4cb22f65c08a/333_0_3333_2668/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d278b9f20f4667925763ad38dd4e6371"
+    },
+    {
+      "title": "Scientists dig broad-shelled turtles stuck under mud in dried up wetlands – video",
+      "description": "&lt;p&gt;Footage supplied by the office of the Greens legislative council member Cate Faehrmann shows scientists digging to reach broad-shelled turtle...",
+      "link": "https://www.theguardian.com/environment/video/2026/apr/18/scientists-dig-broad-shelled-turtles-stuck-under-mud-in-dried-up-wetlands-video",
+      "pubDate": "Fri, 17 Apr 2026 15:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9242502015ed0f19dd8e41da8dce9e6331dba713/0_800_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7de97272034c615c894e8be759d56c89"
+    },
+    {
+      "title": "US Senate votes to repeal Biden-era ban on mining near Minnesota wilderness area",
+      "description": "&lt;p&gt;Measure passed 50-49 to overturn a 20-year ban on mining near renowned Boundary Waters Canoe Area Wilderness&lt;/p&gt;&lt;p&gt;The US Senate ...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/17/senate-overturn-biden-era-mining-ban-minnesota",
+      "pubDate": "Fri, 17 Apr 2026 14:56:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/18d18641e1450895266651ce45a512cae4d68593/479_0_4801_3840/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c556d38d5309b33fbf0a34a29092f20b"
+    },
     {
       "title": "Average new UK electric car price is now lower than petrol vehicles",
       "description": "&lt;p&gt;Autotrader says average EV cost is £785 cheaper, in an important milestone in the move away from fossil fuels&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&l...",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/ce8jpz9rx2yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 16 Apr 2026 21:49:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Minnesota&#8217;s Boundary Waters Just Lost Protection From Mining",
-      "description": "WASHINGTON—Despite hours of impassioned arguments from Sen. Tina Smith, the U.S. Senate ended a Biden-era moratorium on mining in the Boundary Waters ...",
-      "link": "https://insideclimatenews.org/news/16042026/minnesotas-boundary-waters-just-lost-protection-from-mining/",
-      "pubDate": "Thu, 16 Apr 2026 20:39:04 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Artemis II crew describes Moon mission and splashdown moment",
-      "description": "The crew held its first press conference since splashing down from their historic 10-day trip....",
-      "link": "https://www.bbc.com/news/videos/clyxpn98w55o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Apr 2026 20:32:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Environmental Groups Take Trump Administration’s ‘God Squad’ to Court",
-      "description": "Environmental groups are suing the Trump administration over its decision to exempt oil and gas drilling in the Gulf of Mexico from complying with the...",
-      "link": "https://insideclimatenews.org/news/16042026/environmental-groups-sue-trump-god-squad/",
-      "pubDate": "Thu, 16 Apr 2026 20:24:10 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
