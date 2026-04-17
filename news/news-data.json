@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-17T08:49:06.796Z",
+  "lastUpdated": "2026-04-17T10:19:34.508Z",
   "articles": [
+    {
+      "title": "Pollution Persists in the Florida Everglades Despite 40-Year Restoration Effort, Report Says",
+      "description": "Florida’s fragile Everglades are not on track to meet a new water quality standard set to take effect next month, even after nearly 40 years of costly...",
+      "link": "https://insideclimatenews.org/news/17042026/florida-everglades-water-quality/",
+      "pubDate": "Fri, 17 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "To Battle Climate Change, a Baltimore Church Turns to Nature",
+      "description": "BALTIMORE—Every drop of rain rushing over pavement is a dilemma, picking up pollution and sweeping it into streams. And in this low-lying city on the ...",
+      "link": "https://insideclimatenews.org/news/17042026/baltimore-church-uses-green-space-to-combat-flooding/",
+      "pubDate": "Fri, 17 Apr 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Deep-diving robots help crack the mystery of Antarctica’s vanishing sea ice",
       "description": "A decade ago, southern sea ice suddenly and dramatically declined. Scientists say the culprit was a 'very violent release' of deep, pent-up heat....",
@@ -139,7 +157,7 @@
     {
       "title": "BBC Inside Science",
       "description": "What was learnt from the Chernobyl disaster and how has it shaped UK energy production?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977g?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 16 Apr 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Saving gorillas by helping humans",
-      "description": "In South West Uganda, mountain gorillas are being saved by helping humans....",
-      "link": "https://www.bbc.com/news/videos/cx2r19vx08go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Apr 2026 14:52:41 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Puerto Rico’s rainforest center reborn: in pictures",
-      "description": "&lt;p&gt;After two devastating hurricanes, El Yunque national forest has built a new visitors center that hosts a vibrant arts festival&lt;/p&gt; &lt;...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/apr/16/puerto-rico-el-yunque-rainforest-in-pictures",
-      "pubDate": "Thu, 16 Apr 2026 13:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/da122f37e8fa8f2834ce101dbf4baedc279134ca/688_124_1954_1564/master/1954.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b9e95d018b395d83daeb3eac53eece8"
     }
   ]
 }
