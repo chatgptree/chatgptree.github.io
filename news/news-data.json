@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-19T11:42:35.586Z",
+  "lastUpdated": "2026-04-19T13:20:03.253Z",
   "articles": [
+    {
+      "title": "‘How much have we missed?’: book tunes in to overlooked world of female birdsong",
+      "description": "&lt;p&gt;Authors set out to correct under-representation of female sounds – and found some surprising revelations&lt;/p&gt;&lt;p&gt;When we hear the b...",
+      "link": "https://www.theguardian.com/environment/2026/apr/19/hidden-world-of-female-birdsong-book",
+      "pubDate": "Sun, 19 Apr 2026 13:00:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/904423e9633da9a4fbd80c2cd040fc7638b19b0f/385_0_3848_3078/master/3848.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3ef3e547e0e02e34a903161700f563"
+    },
+    {
+      "title": "Maine presses pause on large data centers. Will other states follow its lead?",
+      "description": "The moratorium is the first of its type to pass a legislative chamber, but about a dozen other states have pending proposals....",
+      "link": "https://grist.org/energy/maine-presses-pause-on-large-data-centers-will-other-states-follow-its-lead/",
+      "pubDate": "Sun, 19 Apr 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/datacenterbans.png?quality=75&amp;strip=all"
+    },
     {
       "title": "Low-Producing Oil Wells in Texas Cause Headaches for Landowners",
       "description": "Reporting for this story was supported by a grant from the Fund for Investigative Journalism. TOM GREEN COUNTY, Texas—Some Texas oil wells gush hundre...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9189f5140b67b65f73653b3a524e2b4cf1b6b2f3/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed4e9184d3d7485d309366c81e62a5ea"
-    },
-    {
-      "title": "A Protracted US–Iran War Could Strain Climate Finance From Wealthy Countries to Developing Nations",
-      "description": "WASHINGTON, D.C.—The ongoing war in Iran is casting a long shadow over the climate finance commitments countries agreed to in 2024, experts warned, as...",
-      "link": "https://insideclimatenews.org/news/17042026/iran-war-could-strain-climate-finance/",
-      "pubDate": "Fri, 17 Apr 2026 23:12:32 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Judge Dismisses Trump Administration’s Bid to Block Hawaii Climate Lawsuit",
-      "description": "In a setback to the Trump administration’s extraordinary legal campaign against state climate action, a federal judge threw out the Justice Department...",
-      "link": "https://insideclimatenews.org/news/17042026/judge-dismisses-trump-bid-to-block-hawaii-climate-lawsuit/",
-      "pubDate": "Fri, 17 Apr 2026 21:00:46 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
