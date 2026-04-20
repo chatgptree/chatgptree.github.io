@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T09:12:27.504Z",
+  "lastUpdated": "2026-04-20T11:25:12.008Z",
   "articles": [
     {
       "title": "'Devastating' fire hits protected nesting site",
@@ -9,6 +9,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Burning wood for power worse for climate than gas equivalent, report finds",
+      "description": "&lt;p&gt;Research casts doubt on plans by UK government to offer subsidies for carbon capture attached to the power source&lt;/p&gt;&lt;p&gt;Burning w...",
+      "link": "https://www.theguardian.com/environment/2026/apr/20/burning-wood-power-worse-climate-than-gas-new-report",
+      "pubDate": "Mon, 20 Apr 2026 09:00:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f3ee7632dc2d14416f0e9b8086bbf69b0a77a358/640_0_6378_5105/master/6378.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bde1642944687f735a5f8386a3a33e4e"
     },
     {
       "title": "As a Plastic Waste Plant Violates Pollution Rules, Its Owner Makes the Case for a Second Location",
@@ -83,7 +92,7 @@
       "image": "https://i.guim.co.uk/img/media/9de1924506687e5b8967ae4f10a607f83715d023/0_0_1004_803/master/1004.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=123f3efb14ed5d411e0b0f4e69880d6c"
     },
     {
-      "title": "Fears for 1,000 toads after reservoir drained by water company",
+      "title": "Fears for 1,000 breeding toads after reservoir drained by water company",
       "description": "Volunteers who helped more than 1,500 toads cross a busy road to a breeding ground fear they have died. ...",
       "link": "https://www.bbc.com/news/articles/c8ejjd86p73o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 20 Apr 2026 05:17:38 GMT",
@@ -92,7 +101,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Fears for 1,000 toads after reservoir drained by water company",
+      "title": "Fears for 1,000 breeding toads after reservoir drained by water company",
       "description": "Volunteers who helped more than 1,500 toads cross a busy road to a breeding ground fear they have died. ...",
       "link": "https://www.bbc.com/news/articles/c8ejjd86p73o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 20 Apr 2026 05:17:38 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3d9576f2e61893d98d25ee5ae95fd33fd652ff52/193_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=257406e1d197ec4f91cac394f8e685a9"
-    },
-    {
-      "title": "‘How much have we missed?’: book tunes in to overlooked world of female birdsong",
-      "description": "&lt;p&gt;Authors set out to correct under-representation of female sounds – and found some surprising revelations&lt;/p&gt;&lt;p&gt;When we hear the b...",
-      "link": "https://www.theguardian.com/environment/2026/apr/19/hidden-world-of-female-birdsong-book",
-      "pubDate": "Sun, 19 Apr 2026 13:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/904423e9633da9a4fbd80c2cd040fc7638b19b0f/385_0_3848_3078/master/3848.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3ef3e547e0e02e34a903161700f563"
     }
   ]
 }
