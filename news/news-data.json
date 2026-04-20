@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-04-20T11:25:12.008Z",
+  "lastUpdated": "2026-04-20T14:04:10.660Z",
   "articles": [
     {
-      "title": "'Devastating' fire hits protected nesting site",
-      "description": "Conservationists say the fire on Sunday evening has destroyed three acres used by nesting birds....",
+      "title": "Fire at protected nesting site treated as arson",
+      "description": "Conservationists say the blaze on Sunday evening has destroyed three acres used by nesting birds....",
       "link": "https://www.bbc.com/news/articles/c5yv362d52po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 20 Apr 2026 09:09:41 GMT",
+      "pubDate": "Mon, 20 Apr 2026 14:03:35 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nigerian wins global prize for trying to save bats in a country that shuns them",
+      "description": "Many Nigerians associate bats with witchcraft but that did not deter ecologist Iroro Tanshi....",
+      "link": "https://www.bbc.com/news/articles/c0krm128mgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Apr 2026 13:10:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Electric car sales soar 51% in mainland Europe as Iran war drives up fuel prices",
+      "description": "&lt;p&gt;Data shows 224,000 new EVs were registered in March, with Norway leading way in terms of switching&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;...",
+      "link": "https://www.theguardian.com/environment/2026/apr/20/electric-car-ev-sales-mainland-europe-petrol-prices-iran-war",
+      "pubDate": "Mon, 20 Apr 2026 11:25:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5ce2d244d36ecafccafc0c7ddc5e2f75c1f566ea/1465_0_5264_4212/master/5264.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e65aeb79fa9652bedaaf59d36ef4a8e"
     },
     {
       "title": "Burning wood for power worse for climate than gas equivalent, report finds",
@@ -146,15 +164,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-20T132729.405.jpg"
     },
     {
-      "title": "Ed Miliband to double down on net zero with measures to combat Iran energy shock",
-      "description": "&lt;p&gt;As fossil fuel prices soar ‘the era of clean energy security must come of age’, energy secretary will say&lt;/p&gt;&lt;p&gt;Ed Miliband will ...",
-      "link": "https://www.theguardian.com/business/2026/apr/20/ed-miliband-to-double-down-on-net-zero-with-measures-to-combat-iran-energy-shock",
-      "pubDate": "Mon, 20 Apr 2026 04:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ca008af00fa03faaec3c4b97df620c54c6d95240/776_0_3713_2970/master/3713.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6435557bdaa80d95d273e7e9b70bc941"
-    },
-    {
       "title": "The Guardian view on Japan’s cherry blossom: when spring slips out of time | Editorial",
       "description": "&lt;p&gt;A 1,200-year dataset shows the ‘peak bloom’ is arriving earlier. Global heating is unsettling nature’s rhythms – and their cultural meaning&l...",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/19/the-guardian-view-on-japans-cherry-blossom-when-spring-slips-out-of-time",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Maui residents are rebuilding Lahaina for locals, not tourists: ‘In Hawaii, we take care of one another’",
-      "description": "&lt;p&gt;After deadly 2023 fires, recent storms and ICE raids, Lahaina residents are  determined to rebuild the town for their community&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/19/lahaina-maui-rebuild-locals-tourists",
-      "pubDate": "Sun, 19 Apr 2026 14:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3d9576f2e61893d98d25ee5ae95fd33fd652ff52/193_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=257406e1d197ec4f91cac394f8e685a9"
     }
   ]
 }
