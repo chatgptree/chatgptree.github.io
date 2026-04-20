@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-20T18:03:20.921Z",
+  "lastUpdated": "2026-04-20T20:03:30.833Z",
   "articles": [
+    {
+      "title": "Blue Origin rocket grounded after satellite 'mishap'",
+      "description": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch....",
+      "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Apr 2026 19:56:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate groups sue US government over approval of new BP project in Gulf of Mexico",
+      "description": "&lt;p&gt;Advocates expressed alarm as new project drills deeper into ocean bed, pointing to company’s failures at Deepwater Horizon spill&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico",
+      "pubDate": "Mon, 20 Apr 2026 19:22:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dd7a628243112c6e32d63184f49952a5bfdbf284/499_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b985ff5373f706b688f97aeb715c770d"
+    },
     {
       "title": "Rights of Nature Defender Wins Goldman Prize for Protecting Colombia’s Magdalena River From Fracking",
       "description": "As a child growing up along the banks of Colombia’s Magdalena River, Yuvelis Morales Blanco learned to read the water. “Dark spots on the river meant ...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-20T133838.578.png"
-    },
-    {
-      "title": "1000+ coral reefs ‘discovered’ in northern Australia",
-      "description": "Australian Institute of Marine Science’s Dr Eric Lawrey with some of the newly charted coral reefs. Photo: Luke Lythgoe. Australian Institute of Marin...",
-      "link": "https://econews.com.au/1000-coral-reefs-discovered-in-northern-australia/",
-      "pubDate": "Mon, 20 Apr 2026 04:00:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-20T133320.768.png"
-    },
-    {
-      "title": "Vaccine sparks baby boom in one of Queensland’s most diseased koala populations",
-      "description": "Cassidy with her third joey Casiope © Currumbin Wildlife Hospital WWF-Australia 500 koalas vaccinated in 5 years, 75% drop in hospital admissions for ...",
-      "link": "https://econews.com.au/vaccine-sparks-baby-boom-in-one-of-queenslands-most-diseased-koala-populations/",
-      "pubDate": "Mon, 20 Apr 2026 04:00:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-20T132729.405.jpg"
     }
   ]
 }
