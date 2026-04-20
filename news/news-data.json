@@ -1,17 +1,98 @@
 {
-  "lastUpdated": "2026-04-20T06:23:18.912Z",
+  "lastUpdated": "2026-04-20T09:12:27.504Z",
   "articles": [
     {
-      "title": "How did a scientist fleeing the Red Army end up in Armagh?",
-      "description": "A university student has helped chronicle the life and exile of renowned astronomer and astrophysicist Ernst Öpik....",
-      "link": "https://www.bbc.com/news/articles/clyrp840vk0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 20 Apr 2026 05:21:11 GMT",
+      "title": "'Devastating' fire hits protected nesting site",
+      "description": "Conservationists say the fire on Sunday evening has destroyed three acres used by nesting birds....",
+      "link": "https://www.bbc.com/news/articles/c5yv362d52po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Apr 2026 09:09:41 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Fears for more than 1,000 toads after reservoir drained by water company",
+      "title": "As a Plastic Waste Plant Violates Pollution Rules, Its Owner Makes the Case for a Second Location",
+      "description": "Belching smoke from a new plastic waste processing plant in central Ohio has stirred opposition to an even larger “chemical recycling” factory planned...",
+      "link": "https://insideclimatenews.org/news/20042026/plastic-waste-plant-violating-pollution-rules-expands/",
+      "pubDate": "Mon, 20 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Trump administration wants to take an ax to the East&#8217;s last great forests",
+      "description": "The fight over the roadless rule has long focused on the West, but its repeal could fragment some of the last pristine forests in the eastern United S...",
+      "link": "https://grist.org/regulation/the-trump-administration-wants-to-take-an-ax-to-the-easts-last-great-forests/",
+      "pubDate": "Mon, 20 Apr 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2022/03/Tongass-1333.png?quality=75&#038;strip=all"
+    },
+    {
+      "title": "War, climate change, and AI: What&#8217;s at stake at this year&#8217;s UN Indigenous forum",
+      "description": "Delegates are arriving in New York this week for the world’s largest gathering of Indigenous peoples. Amid other challenges, the U.S. has made it incr...",
+      "link": "https://grist.org/indigenous/war-climate-change-and-ai-whats-at-stake-at-this-years-un-indigenous-forum/",
+      "pubDate": "Mon, 20 Apr 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/250423_UNPFII174.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The state of solar: Despite partisan rhetoric, the industry is still booming",
+      "description": "Solar power is cheap, fast, and in demand as data centers consume more and more electricity....",
+      "link": "https://grist.org/energy/solar-power-industry-trump-data-centers/",
+      "pubDate": "Mon, 20 Apr 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/GettyImages-2261788462_Revolution-Wind-construction.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Fuel eating microbes, chemicals and fire: the race to discover new ways to contain Arctic oil spills",
+      "description": "&lt;p&gt;As the rising number of vessels in the icy waters increases the risk of environmental disaster, scientists are scrambling to find potential s...",
+      "link": "https://www.theguardian.com/environment/2026/apr/20/microbes-chemicals-fire-race-discover-new-contain-arctic-oil-spills",
+      "pubDate": "Mon, 20 Apr 2026 08:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3849215296b4043bd11319f582a6a29d788b595e/40_0_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d5efdb932bf167e5825ff4794657252"
+    },
+    {
+      "title": "The world desperately needs to decarbonize shipping. Can nations find a consensus?",
+      "description": "The shipping industry is responsible for 3 percent of global climate emissions. The Trump administration and the Iran war are complicating efforts to ...",
+      "link": "https://grist.org/politics/the-world-desperately-needs-to-decarbonize-shipping-can-nations-find-a-consensus-imo/",
+      "pubDate": "Mon, 20 Apr 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Woman who won legal case over greenhouse emissions awarded top environmental prize",
+      "description": "&lt;p&gt;Sarah Finch is among six recipients of the Goldman Environmental prize, awarded to honour grassroots activists around the world &lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2026/apr/20/woman-who-won-legal-case-over-greenhouse-emissions-awarded-top-environmental-prize",
+      "pubDate": "Mon, 20 Apr 2026 07:30:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f440c53bbb5d537f5cc36bdcb1df5b48e488e364/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb8d63c06f08b9b4741176058c9df2ca"
+    },
+    {
+      "title": "Won’t somebody save these hundreds of turtles condemned to death? | First Dog on the Moon",
+      "description": "&lt;p&gt;There is a whole dam full of water right there but the turtles can’t have it&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.th...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/20/wont-somebody-save-these-hundreds-of-turtles-condemned-to-death",
+      "pubDate": "Mon, 20 Apr 2026 06:47:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9de1924506687e5b8967ae4f10a607f83715d023/0_0_1004_803/master/1004.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=123f3efb14ed5d411e0b0f4e69880d6c"
+    },
+    {
+      "title": "Fears for 1,000 toads after reservoir drained by water company",
+      "description": "Volunteers who helped more than 1,500 toads cross a busy road to a breeding ground fear they have died. ...",
+      "link": "https://www.bbc.com/news/articles/c8ejjd86p73o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Apr 2026 05:17:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Fears for 1,000 toads after reservoir drained by water company",
       "description": "Volunteers who helped more than 1,500 toads cross a busy road to a breeding ground fear they have died. ...",
       "link": "https://www.bbc.com/news/articles/c8ejjd86p73o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 20 Apr 2026 05:17:38 GMT",
@@ -99,87 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/904423e9633da9a4fbd80c2cd040fc7638b19b0f/385_0_3848_3078/master/3848.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a3ef3e547e0e02e34a903161700f563"
-    },
-    {
-      "title": "Maine presses pause on large data centers. Will other states follow its lead?",
-      "description": "The moratorium is the first of its type to pass a legislative chamber, but about a dozen other states have pending proposals....",
-      "link": "https://grist.org/energy/maine-presses-pause-on-large-data-centers-will-other-states-follow-its-lead/",
-      "pubDate": "Sun, 19 Apr 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/datacenterbans.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Low-Producing Oil Wells in Texas Cause Headaches for Landowners",
-      "description": "Reporting for this story was supported by a grant from the Fund for Investigative Journalism. TOM GREEN COUNTY, Texas—Some Texas oil wells gush hundre...",
-      "link": "https://insideclimatenews.org/news/19042026/texas-inactive-oil-wells-headaches-for-landowners/",
-      "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "America’s Dirty Secret",
-      "description": "The fourth installment in our special Earth Day series What happens to waste when you flush the toilet? Most Americans depend on basic sanitation infr...",
-      "link": "https://insideclimatenews.org/news/19042026/inside-climate-talks-catherine-coleman-flowers/",
-      "pubDate": "Sun, 19 Apr 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'It would break my heart' - wind farm plans leave people divided",
-      "description": "People have contacted BBC Your Voice about plans for onshore wind farms across Wales....",
-      "link": "https://www.bbc.com/news/articles/cx2663lxw00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Apr 2026 06:44:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the battle for Bempton's birds was won",
-      "description": "Campaigners fought to stop day-trippers shooting thousands of birds at a time on Yorkshire's coast....",
-      "link": "https://www.bbc.com/news/articles/c1j77014l77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Apr 2026 06:21:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "I adored Pokémon as a child. Now I collect critters of a different kind in a hobby I’m uniquely suited to – birdwatching  | Jayce Carrano",
-      "description": "&lt;p&gt;Every player has experienced that fierce loyalty to one pocket monster or another. The same is true here&lt;/p&gt;&lt;p&gt;The Pokémon franch...",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/19/birdwatching-hobby-pokemon-generation",
-      "pubDate": "Sat, 18 Apr 2026 20:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/919d0d875a9ca795e1e7c12e8fcb74b8f2a80134/3_0_6015_4811/master/6015.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed52093e21fc16b7c326c52745547e80"
-    },
-    {
-      "title": "‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch",
-      "description": "&lt;p&gt;Rising sea levels and ecological damage caused by heavy use of flood defence system force city authorities to consider next move&lt;/p&gt;&lt...",
-      "link": "https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level",
-      "pubDate": "Sat, 18 Apr 2026 13:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7d5182a6567da1006bb063fc6aff46432f505665/305_0_2954_2363/master/2954.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec7f2f36ba1eeca5b654b5ba6bec8dc0"
-    },
-    {
-      "title": "A more troubling picture of sea level rise is coming into view",
-      "description": "Scientists have uncovered a “blind spot” in the research on rising seas, revealing that tens of millions of people thought safe from coastal flooding ...",
-      "link": "https://grist.org/oceans/a-more-troubling-picture-of-sea-level-rise-is-coming-into-view/",
-      "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/GettyImages-2267118780.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "A prickle of hedgehogs and an armada of newts: wildlife settles in at London’s new Queen Elizabeth garden",
-      "description": "&lt;p&gt;A former horticultural nursery in Regent’s Park has been transformed into a diverse mix of habitats, with a wide range of species already spo...",
-      "link": "https://www.theguardian.com/environment/2026/apr/18/a-prickle-of-hedgehogs-and-an-armada-of-newts-wildlife-settles-in-at-londons-new-queen-elizabeth-garden",
-      "pubDate": "Sat, 18 Apr 2026 10:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/99174ec34abf14b7be97bccf394a5956403b020c/908_0_6157_4928/master/6157.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=47deaf1c736c1e61b309a5bc424de1d7"
     }
   ]
 }
