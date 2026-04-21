@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-21T20:09:44.255Z",
+  "lastUpdated": "2026-04-21T21:52:53.621Z",
   "articles": [
+    {
+      "title": "One of UK's rarest flies returns to Cairngorms thanks to jam jar incubators",
+      "description": "Conservationists say a captive breeding programme has now released 30,000 pine hoverflies into the wild....",
+      "link": "https://www.bbc.com/news/articles/c248jqzvqp1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 21 Apr 2026 21:46:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "This Growing Climate Threat Could Be Increasing Your Blood Pressure",
+      "description": "Anyone who has ever been told to lower their sodium intake knows they have to cut back on the usual salty suspects, from potato chips to deli meats. B...",
+      "link": "https://insideclimatenews.org/news/21042026/todays-climate-salt-freshwater-health-risks/",
+      "pubDate": "Tue, 21 Apr 2026 21:46:29 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Transco Pipeline Project Faces Legal Challenge",
       "description": "Five environmental groups are petitioning a federal appeals court to invalidate a water quality permit issued by the U.S. Army Corps of Engineers for ...",
@@ -152,7 +170,7 @@
       "pubDate": "Tue, 21 Apr 2026 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2026/04/DSCF1516.jpg?quality=75&amp;strip=all"
     },
     {
       "title": "‘They come right past the house’: learning to live with rhinos as numbers soar in Nepal",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7c67af73a84a85c6f1cb093b8bc54e3e23efc44a/528_0_6627_5304/master/6627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d83404f3734ba7dac9de07045b1d8df"
-    },
-    {
-      "title": "We asked climate leaders what&#8217;s keeping them inspired. Here&#8217;s what they said.",
-      "description": "\"There are going to be times that are very, very hard, and we are in one of them. And we have to keep going with passion, dogged determination, and be...",
-      "link": "https://grist.org/solutions/earth-day-climate-leaders-share-what-keeps-them-inspired/",
-      "pubDate": "Tue, 21 Apr 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/Gaurab-Basu.png?quality=75&amp;strip=all&amp;w=750"
-    },
-    {
-      "title": "Our Power, Our Planet: Research shows hybrid working can cut carbon emissions by up to 90%",
-      "description": "This World Earth Day, IWG puts a spotlight on how reduced commuting and more localised working can support the environment Study by International Work...",
-      "link": "https://econews.com.au/our-power-our-planet-research-shows-hybrid-working-can-cut-carbon-emissions-by-up-to-90/",
-      "pubDate": "Tue, 21 Apr 2026 07:01:19 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
