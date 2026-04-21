@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-21T12:04:25.711Z",
+  "lastUpdated": "2026-04-21T14:50:57.868Z",
   "articles": [
+    {
+      "title": "How to spot the peak of the Lyrid meteor shower",
+      "description": "A meteor shower first recorded almost 3,000 years ago is lighting up UK skies this week. Here is how best to watch it....",
+      "link": "https://www.bbc.com/news/videos/c1eq56q05z1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 21 Apr 2026 12:55:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Electricity bills targeted in planned shakeup to energy pricing",
       "description": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Labour’s great green energy plan could be a legacy as vital as the NHS | Polly Toynbee",
-      "description": "&lt;p&gt;Ed Miliband has a rare chance to do for the climate what Nye Bevan did for health: create something future generations will be proud of&lt;/p...",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/21/labours-green-energy-plan-legacy-nhs-ed-miliband",
-      "pubDate": "Tue, 21 Apr 2026 05:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2260fc18bdcbb2e23c34b2ce6ea15ffe33b41dc6/937_0_4684_3747/master/4684.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=833ec8c46fa7ae0f13150f1543825944"
     }
   ]
 }
