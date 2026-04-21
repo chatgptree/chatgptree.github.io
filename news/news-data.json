@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-21T16:16:59.592Z",
+  "lastUpdated": "2026-04-21T18:05:15.081Z",
   "articles": [
+    {
+      "title": "Miliband’s ‘break the link’ plan is not a magic formula for lowering energy bills",
+      "description": "&lt;p&gt;The government plan to de-link gas and electricity prices will have a modest effect – more promising are plans on EVs and heat pumps&lt;/p&gt...",
+      "link": "https://www.theguardian.com/money/nils-pratley-on-finance/2026/apr/21/milibands-break-the-link-plan-is-not-a-magic-formula-for-lowering-energy-bills",
+      "pubDate": "Tue, 21 Apr 2026 17:45:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a242f226cb127b009fa98bdeb19c266123bb0d35/2122_0_4294_3438/master/4294.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=132da8c76d1d985c019ea3587a5ec9a4"
+    },
+    {
+      "title": "Areas getting 'beaver ready' for possible release",
+      "description": "Beavers were brought back to the Forest of Dean eight years ago, centuries after their UK extinction....",
+      "link": "https://www.bbc.com/news/articles/c5yxmpl4y8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 21 Apr 2026 17:08:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How to spot the peak of the Lyrid meteor shower",
       "description": "A meteor shower first recorded almost 3,000 years ago is lighting up UK skies this week. Here is how best to watch it....",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Cattle breed whose ancestors lived with Celts added to priority at-risk list",
-      "description": "&lt;p&gt;UK’s Rare Breeds Survival Trust says calf numbers of white park cattle last year were less than two-thirds of 2022 level&lt;/p&gt;&lt;p&gt;An...",
-      "link": "https://www.theguardian.com/environment/2026/apr/21/white-park-cattle-priority-at-risk-list-rare-breeds-survival-trust",
-      "pubDate": "Tue, 21 Apr 2026 06:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/864f2cafc92b046e485ceb0e4aab8c7d6be372bc/123_0_3421_2736/master/3421.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc4926cdc073330ccb53e7cd9d4ad5d0"
-    },
-    {
-      "title": "Can a nature corridor increase London's biodiversity?",
-      "description": "The nature corridor would stretch from the Lee Valley Regional Park to the Thames via Tower Hamlets....",
-      "link": "https://www.bbc.com/news/articles/cy81ewwnwwqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 21 Apr 2026 05:03:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
