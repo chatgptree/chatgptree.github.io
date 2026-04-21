@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-21T10:25:09.637Z",
+  "lastUpdated": "2026-04-21T12:04:25.711Z",
   "articles": [
     {
       "title": "Electricity bills targeted in planned shakeup to energy pricing",
       "description": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks....",
       "link": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 21 Apr 2026 09:27:10 GMT",
+      "pubDate": "Tue, 21 Apr 2026 11:53:27 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,16 +14,34 @@
       "title": "Electricity bills targeted in planned shakeup to energy pricing",
       "description": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks....",
       "link": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 21 Apr 2026 09:27:10 GMT",
+      "pubDate": "Tue, 21 Apr 2026 11:53:27 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
+      "title": "Group behind Galloway National Park campaign disbanded",
+      "description": "A group established to put forward the argument for a national park in Galloway has been dissolved....",
+      "link": "https://www.bbc.com/news/articles/cgqkd9xjq9po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 21 Apr 2026 11:39:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildlife and humans thriving in Unesco-protected sites",
+      "description": "&lt;p&gt;While wildlife populations crash globally, research finds designated areas enable recovery of threatened species &lt;/p&gt;&lt;p&gt;Wildlife ...",
+      "link": "https://www.theguardian.com/world/2026/apr/21/wildlife-humans-thriving-unesco-protected-sites",
+      "pubDate": "Tue, 21 Apr 2026 11:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a7f8ff157c167653a6855240d575451ff18ab8e5/103_0_3060_2448/master/3060.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=835f5c45fa3b33a6c0347657c83c4389"
+    },
+    {
       "title": "Sam Neill says New Zealand goldmine supporters have threatened him with violence",
-      "description": "&lt;p&gt;Actor says his opposition to South Island development near his farm has led to personal abuse&lt;/p&gt;&lt;p&gt;The actor &lt;a href=\"https:/...",
+      "description": "&lt;p&gt;Actor, who has publicly objected to plans to fast-track project near his farm, says he has received personal abuse&lt;/p&gt;&lt;p&gt;The acto...",
       "link": "https://www.theguardian.com/world/2026/apr/21/supporters-of-new-zealand-goldmine-threaten-sam-neill-with-violence",
-      "pubDate": "Tue, 21 Apr 2026 09:25:40 GMT",
+      "pubDate": "Tue, 21 Apr 2026 10:39:35 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2f886f83becbc068aae6c298ea53e72231cd9c71/520_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88f09017707bae0eab995f227561d3c5"
@@ -155,15 +173,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "England wildlife watchdog ‘has stopped designating special sites for protection’",
-      "description": "&lt;p&gt;Exclusive: Report finds Natural England has created no new SSSIs, which protect areas from development, since 2023&lt;/p&gt;&lt;p&gt;The gove...",
-      "link": "https://www.theguardian.com/environment/2026/apr/21/england-wildlife-watchdog-has-stopped-designating-special-sites-for-protection",
-      "pubDate": "Tue, 21 Apr 2026 05:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4db182eab053ef22023332eef442caf09d185239/156_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c93b54b8c11a9d059c521a8e8672a8f9"
-    },
-    {
       "title": "Labour’s great green energy plan could be a legacy as vital as the NHS | Polly Toynbee",
       "description": "&lt;p&gt;Ed Miliband has a rare chance to do for the climate what Nye Bevan did for health: create something future generations will be proud of&lt;/p...",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/21/labours-green-energy-plan-legacy-nhs-ed-miliband",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2260fc18bdcbb2e23c34b2ce6ea15ffe33b41dc6/937_0_4684_3747/master/4684.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=833ec8c46fa7ae0f13150f1543825944"
-    },
-    {
-      "title": "Corpus Christi Projects Emergency Water Restrictions in September for Large Industrial Users and 500,000 Customers",
-      "description": "Without a shift in weather patterns, the City of Corpus Christi expects to enact emergency restrictions on water use in September, according to draft ...",
-      "link": "https://insideclimatenews.org/news/20042026/corpus-christi-projects-september-emergency-water-restrictions/",
-      "pubDate": "Mon, 20 Apr 2026 23:36:36 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
