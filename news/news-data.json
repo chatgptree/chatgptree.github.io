@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-22T14:53:21.240Z",
+  "lastUpdated": "2026-04-22T16:15:52.697Z",
   "articles": [
+    {
+      "title": "Anthony Fauci makes acting debut in Oedipus the King play reading in DC",
+      "description": "&lt;p&gt;Fauci was joined by actor Jesse Eisenberg and top Senate Democrat Chuck Schumer in reading for DC Climate Week&lt;/p&gt;&lt;p&gt;When &lt;a h...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king",
+      "pubDate": "Wed, 22 Apr 2026 15:28:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a8d46e3feebf8162cc19f9faa76add4b9b8e0770/673_0_4001_3200/master/4001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33ce94665b4f8beb48da3bc3ee03706c"
+    },
+    {
+      "title": "King awarded Blue Peter Green badge for environmental work",
+      "description": "Charles received the badge at Dumfries House in East Ayrshire for his personal work in promoting nature and sustainability....",
+      "link": "https://www.bbc.com/news/articles/cpwjlwdv2xgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 22 Apr 2026 15:21:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
+      "description": "&lt;p&gt;NSW and Queensland governments ‘severely underdelivered’ on promised infrastructure to improve water flows, independent review finds&lt;/p&gt...",
+      "link": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
+      "pubDate": "Wed, 22 Apr 2026 15:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f64a6f6308765d9ce942ce3895bcbe2bf9d24440/0_0_3751_3000/master/3751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79d80d7b30676a5c6a81963b799fdc28"
+    },
+    {
+      "title": "How Ireland’s war-driven fuel blockades revealed the true cost of Europe’s oil addiction",
+      "description": "&lt;p&gt;Donald Trump’s conflict with Iran could speed the EU’s green revolution – if panicking governments can hold their nerve on clean energy&lt;/p...",
+      "link": "https://www.theguardian.com/world/2026/apr/22/how-irelands-war-driven-fuel-blockades-revealed-the-true-cost-of-europes-oil-addiction",
+      "pubDate": "Wed, 22 Apr 2026 14:47:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4c2877d48ba63e8b02ea94634cf1213d8831af67/171_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb6da04139ed9c72325908bf87ea980d"
+    },
     {
       "title": "Feds Fine Durham-Based Energy Efficiency Company $722 Million",
       "description": "This story was published in partnership with The Assembly. The Federal Energy Regulatory Commission has fined Durham, N.C.-based American Efficient $7...",
@@ -20,15 +56,6 @@
       "image": "https://i.guim.co.uk/img/media/f5ac547b885933029fb7c735567c971d4950a7f9/250_591_2748_2199/master/2748.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9155f70725de169bcc7eccd4def7a83"
     },
     {
-      "title": "Nearly half of US children are breathing dangerous levels of air pollution, report warns",
-      "description": "&lt;p&gt;American Lung Association report comes amid Trump EPA’s expansive rollback of environmental protections &lt;/p&gt;&lt;p&gt;Nearly half of chi...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/22/air-pollution-report-dangerous-levels-children",
-      "pubDate": "Wed, 22 Apr 2026 10:00:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d05b6da39e8b01ea0756d7df5c8bc493420b194e/1371_1562_2672_2137/master/2672.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e1c4b3ed2b226b1a82c3062af722a20"
-    },
-    {
       "title": "‘Petro-masculinity’ is destroying the planet. Can eco-masculinity help save it? | Andrew Boyd",
       "description": "&lt;p&gt;It’s crucial to understanding how gender is affecting our ability to rally behind a shared ecological vision&lt;/p&gt;&lt;p&gt;Feminist influ...",
       "link": "https://www.theguardian.com/commentisfree/2026/apr/22/masculinity-gender-climate-crisis",
@@ -36,6 +63,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b69d8e98ac67950882497b7ec0a05616eea60720/98_0_3287_2632/master/3287.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c94e7c7fd99f116b54bf1b174b735487"
+    },
+    {
+      "title": "Nearly half of US children are breathing dangerous levels of air pollution, report warns",
+      "description": "&lt;p&gt;American Lung Association report comes amid Trump EPA’s expansive rollback of environmental protections &lt;/p&gt;&lt;p&gt;Nearly half of chi...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/22/air-pollution-report-dangerous-levels-children",
+      "pubDate": "Wed, 22 Apr 2026 10:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d05b6da39e8b01ea0756d7df5c8bc493420b194e/1371_1562_2672_2137/master/2672.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e1c4b3ed2b226b1a82c3062af722a20"
     },
     {
       "title": "Fury in Cornwall over herbicide plan to tackle weeds",
@@ -47,15 +83,6 @@
       "image": "https://i.guim.co.uk/img/media/0ab3a869c1f462fe70b0c5c665a9aab253648cf2/0_571_3632_2905/master/3632.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cd015c04dc15c0b6a28e0ad9e4a141b"
     },
     {
-      "title": "Gibraltar’s monkeys eat mud ‘to avoid upset stomachs from tourist junk food’",
-      "description": "&lt;p&gt;Macaques have learned to eat soil to avert gut irritation caused by salty and sugary snacks, researchers believe&lt;/p&gt;&lt;p&gt;Troops of ...",
-      "link": "https://www.theguardian.com/world/2026/apr/22/gibraltar-monkeys-eat-mud-avoid-upset-stomachs-tourists-junk-food",
-      "pubDate": "Wed, 22 Apr 2026 09:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2606e4f2ac92e6b104155d534017544cd0e6979c/434_90_2125_1700/master/2125.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38352b1616690daf51e47d3424741efa"
-    },
-    {
       "title": "At Water Week 2026, Local Leaders See a Glimmer of Hope",
       "description": "Municipal water system leaders and nonprofits gathered in Washington, D.C., to lobby Congress as part of Water Week 2026 focused on two priorities: se...",
       "link": "https://insideclimatenews.org/news/22042026/water-week-2026-hopeful-outlook/",
@@ -63,15 +90,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gas companies spending millions on Australian advertising blitz to fight export tax, inquiry told",
-      "description": "&lt;p&gt;Shell Australia says campaign needed to ‘counterbalance’ claims by levy advocates – but Ed Husic urges industry ‘do not spend millions defend...",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/22/energy-giants-spending-millions-of-dollars-on-advertising-blitz-to-fight-gas-export-tax-inquiry-told",
-      "pubDate": "Wed, 22 Apr 2026 08:48:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bd48cd73df53a6b3a0de0023b768554e0693bf7a/83_0_4167_3335/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=264043917cd300c3c6b0840056384339"
     },
     {
       "title": "A deadly bacteria is creeping up the Atlantic Coast. How worried should you be?",
@@ -108,6 +126,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/3C2A8107.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Tech visionaries gather as Indonesia’s digital and creative economy booms",
+      "description": "Tech leaders, advocates and entrepreneurs are convening in Sydney this week to create new opportunities in Indonesia’s digital and creative industries...",
+      "link": "https://econews.com.au/tech-visionaries-gather-as-indonesias-digital-and-creative-economy-booms/",
+      "pubDate": "Wed, 22 Apr 2026 07:00:54 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/Macquarie_University-1024x405.png"
     },
     {
       "title": "Channel Seven’s Spotlight digging for dirt on clean energy ignores fundamental facts and basic journalistic standards | Temperature Check",
@@ -150,33 +177,6 @@
       "description": "Belfast woman Deby has set herself the target of enabling 100 women to walk on the Moon....",
       "link": "https://www.bbc.com/news/articles/cvg0ynj902jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 22 Apr 2026 05:06:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Almost Half of America’s Kids Are Breathing Toxic Air",
-      "description": "Nearly half the nation’s children live in places with dangerous levels of air pollution, according to a report released Wednesday by the American Lung...",
-      "link": "https://insideclimatenews.org/news/22042026/american-lung-association-toxic-air-annual-report/",
-      "pubDate": "Wed, 22 Apr 2026 04:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Florida Electricity Shutoffs Rank Among Nation’s Highest",
-      "description": "Florida households had their electricity shut off some 2.1 million times in 2024 because of an inability to pay, a number that was among the highest o...",
-      "link": "https://insideclimatenews.org/news/21042026/florida-electricity-customer-shutoffs/",
-      "pubDate": "Wed, 22 Apr 2026 00:09:20 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "One of UK's rarest flies returns to Cairngorms thanks to jam jars",
-      "description": "Conservationists say a captive breeding programme has now released 30,000 pine hoverflies into the wild....",
-      "link": "https://www.bbc.com/news/articles/c248jqzvqp1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 21 Apr 2026 21:46:48 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
