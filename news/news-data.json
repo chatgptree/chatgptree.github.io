@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-21T23:45:11.813Z",
+  "lastUpdated": "2026-04-22T03:33:48.364Z",
   "articles": [
+    {
+      "title": "Florida Electricity Shutoffs Rank Among Nation’s Highest",
+      "description": "Florida households had their electricity shut off some 2.1 million times in 2024 because of an inability to pay, a number that was among the highest o...",
+      "link": "https://insideclimatenews.org/news/21042026/florida-electricity-customer-shutoffs/",
+      "pubDate": "Wed, 22 Apr 2026 00:09:20 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "One of UK's rarest flies returns to Cairngorms thanks to jam jars",
       "description": "Conservationists say a captive breeding programme has now released 30,000 pine hoverflies into the wild....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/DSCF1516.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "‘They come right past the house’: learning to live with rhinos as numbers soar in Nepal",
-      "description": "&lt;p&gt;The country is seeing an increase in human-wildlife conflict as the number of megafauna, including rhinos and tigers, grows. But there are ef...",
-      "link": "https://www.theguardian.com/environment/2026/apr/21/rhinos-on-the-high-street-human-wildlife-conflict-nepal-aoe",
-      "pubDate": "Tue, 21 Apr 2026 08:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7c67af73a84a85c6f1cb093b8bc54e3e23efc44a/528_0_6627_5304/master/6627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d83404f3734ba7dac9de07045b1d8df"
     }
   ]
 }
