@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-22T21:57:04.094Z",
+  "lastUpdated": "2026-04-22T22:57:44.136Z",
   "articles": [
+    {
+      "title": "What’s driving the catastrophic wildfires in Georgia",
+      "description": "Drought conditions have been worsening for months in the Southeast. Now tens of thousands of acres are burning, displacing people and destroying dozen...",
+      "link": "https://grist.org/extreme-weather/whats-driving-the-catastrophic-wildfires-in-georgia/",
+      "pubDate": "Wed, 22 Apr 2026 22:55:50 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Major Livestock and Animal Agriculture Companies Are Making Climate Promises They Aren’t Keeping",
       "description": "Five years ago, the world’s largest meat company took out a full-page ad in The New York Times, making a bold claim: “Bacon, chicken wings, and steak ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f3403bf5c224380c13c603a184630e60bc714b45/653_0_3608_2887/master/3608.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba9fe4cd6a601c77e0b427d76c8903a"
-    },
-    {
-      "title": "Charity offers to boost river conservation funds",
-      "description": "The Severn Rivers Trust will match donations made to an appeal to protect the River Teme....",
-      "link": "https://www.bbc.com/news/articles/cqj8k4e15l1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 22 Apr 2026 05:15:26 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
