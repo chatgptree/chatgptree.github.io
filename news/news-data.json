@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-22T16:15:52.697Z",
+  "lastUpdated": "2026-04-22T18:06:19.387Z",
   "articles": [
+    {
+      "title": "King awarded Blue Peter Green badge for environmental work",
+      "description": "Charles received the badge at Dumfries House in East Ayrshire for his personal work in promoting nature and sustainability....",
+      "link": "https://www.bbc.com/news/articles/cpwjlwdv2xgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 22 Apr 2026 17:35:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US supreme court sides with Michigan in its fight to shut down ageing pipeline",
+      "description": "&lt;p&gt;The case is part of a messy legal dispute about a section of the Line 5 energy pipeline beneath a Great Lakes channel&lt;/p&gt;&lt;p&gt;The s...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/22/us-supreme-court-michigan-energy-pipeline-ruling",
+      "pubDate": "Wed, 22 Apr 2026 17:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7f5e6a13711647a0f5d607f20c4da451c93a0a4a/300_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e5f8f34b119ef291eaf36c84249753d"
+    },
+    {
+      "title": "Federal judge blocks Trump administration restrictions on wind and solar projects",
+      "description": "&lt;p&gt;The injunction pauses policy giving senior Trump official direct sign-off on federal clean energy projects&lt;/p&gt;&lt;p&gt;A federal judge ...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/22/trump-wind-solar-clean-energy-order",
+      "pubDate": "Wed, 22 Apr 2026 16:15:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2ad9f0a33a0d4b4be88f0a7d2b0722e7383726da/1622_831_1878_1503/master/1878.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34313e8f43bb7d8b696e2d91ca147cee"
+    },
     {
       "title": "Anthony Fauci makes acting debut in Oedipus the King play reading in DC",
       "description": "&lt;p&gt;Fauci was joined by actor Jesse Eisenberg and top Senate Democrat Chuck Schumer in reading for DC Climate Week&lt;/p&gt;&lt;p&gt;When &lt;a h...",
@@ -8,16 +35,7 @@
       "pubDate": "Wed, 22 Apr 2026 15:28:10 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/a8d46e3feebf8162cc19f9faa76add4b9b8e0770/673_0_4001_3200/master/4001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33ce94665b4f8beb48da3bc3ee03706c"
-    },
-    {
-      "title": "King awarded Blue Peter Green badge for environmental work",
-      "description": "Charles received the badge at Dumfries House in East Ayrshire for his personal work in promoting nature and sustainability....",
-      "link": "https://www.bbc.com/news/articles/cpwjlwdv2xgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 22 Apr 2026 15:21:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://i.guim.co.uk/img/media/a66aff2fde88b41b19fc345523cb35e80f6d6685/0_844_2275_1818/master/2275.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85fc96a336faf9df73408a78d904371a"
     },
     {
       "title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
@@ -159,24 +177,6 @@
       "description": "The tiny diamond-backed spider was thought to be extinct before it was rediscovered in 2017....",
       "link": "https://www.bbc.com/news/articles/ce84eg4v3ymo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 22 Apr 2026 05:14:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Woman who unlocked the secrets of the stars honoured",
-      "description": "Cecilia Payne-Gaposchkin is described as \"a scientist of exceptional brilliance and determination\"....",
-      "link": "https://www.bbc.com/news/articles/c75k04zplwwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 22 Apr 2026 05:11:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The mission to get 100 women to walk on the Moon - without leaving Earth",
-      "description": "Belfast woman Deby has set herself the target of enabling 100 women to walk on the Moon....",
-      "link": "https://www.bbc.com/news/articles/cvg0ynj902jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 22 Apr 2026 05:06:09 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
