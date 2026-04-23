@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-23T15:19:19.677Z",
+  "lastUpdated": "2026-04-23T17:40:14.303Z",
   "articles": [
+    {
+      "title": "Corpus Christi Plans to Declare a ‘Water Emergency.’ What Does That Mean?",
+      "description": "This story was published in partnership with the Texas Newsroom, the state’s network of public radio stations.&#160; No modern American city has ever ...",
+      "link": "https://insideclimatenews.org/news/23042026/corpus-christi-water-emergency-explainer/",
+      "pubDate": "Thu, 23 Apr 2026 17:13:34 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "An Oilfield Leak Springs Under a Permian Basin Baptist Church",
+      "description": "Salty water is gurgling up from underground in the middle of the small Permian Basin town of Grandfalls, Texas. The liquid began pooling in the parkin...",
+      "link": "https://insideclimatenews.org/news/23042026/west-texas-permian-basin-oilfield-leak/",
+      "pubDate": "Thu, 23 Apr 2026 17:08:54 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Creating and manufacturing a novel vaccine capable of combatting bird flu....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977h?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Apr 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BP board suffers triple climate rebellion from shareholders",
       "description": "&lt;p&gt;More than 50% of voters at first AGM under new leadership oppose plans to scrap climate reporting&lt;/p&gt;&lt;p&gt;BP’s board has suffered a...",
@@ -92,8 +119,8 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Indigenous land defenders are being killed, AI is scraping their knowledge",
-      "description": "At the UN, leaders confronted compounding crises of territorial violence and digital extractivism. ...",
+      "title": "Indigenous land defenders are being killed, and AI is scraping their knowledge",
+      "description": "At the U.N., leaders confronted compounding crises of territorial violence and digital extractivism. ...",
       "link": "https://grist.org/indigenous/indigenous-land-defenders-are-being-killed-ai-is-scraping-their-knowledge/",
       "pubDate": "Thu, 23 Apr 2026 08:00:00 +0000",
       "sourceName": "grist.org",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/image003-6.png"
-    },
-    {
-      "title": "Ecosia hits milestone of 250 million trees plan",
-      "description": "Tanzania Ecosia is the world’s largest planter of native trees with a portfolio of 1,600 native species – 144 being on the endangered or vulnerable li...",
-      "link": "https://econews.com.au/ecosia-hits-milestone-of-250-million-trees-plan/",
-      "pubDate": "Thu, 23 Apr 2026 02:01:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-23T114536.210.jpg"
-    },
-    {
-      "title": "Australian Climate Charity Corena Hits $1 Million Donation Milestone – And Doubles It Through Revolving Fund",
-      "description": "Climate action financing charity Corena has achieved two extraordinary funding milestones in April 2026: more than $1 million in total donations from ...",
-      "link": "https://econews.com.au/australian-climate-charity-corena-hits-1-million-donation-milestone-and-doubles-it-through-revolving-fund/",
-      "pubDate": "Thu, 23 Apr 2026 02:00:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Bees pass the maths test: study confirms insects aren’t just winging it",
-      "description": "Image credit: Dr Scarlett Howard Monash University We’ve done the numbers and the verdict is in: honeybees do have the ability to process numerical in...",
-      "link": "https://econews.com.au/bees-pass-the-maths-test-study-confirms-insects-arent-just-winging-it/",
-      "pubDate": "Thu, 23 Apr 2026 02:00:58 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
     }
   ]
 }
