@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-23T21:01:00.994Z",
+  "lastUpdated": "2026-04-23T22:56:04.771Z",
   "articles": [
+    {
+      "title": "A Bill to Gut Endangered Species Protections Faced a Major Setback This Week",
+      "description": "The Trump administration and congressional Republicans have spent the last year trying to defang the Endangered Species Act, the country’s bedrock con...",
+      "link": "https://insideclimatenews.org/news/23042026/endangered-species-act-amendments-faces-setback/",
+      "pubDate": "Thu, 23 Apr 2026 22:25:33 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "Creating and manufacturing a novel vaccine capable of combatting bird flu....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/80cdae9a86a2f723814ace1ef4d9ac33860b0a07/190_0_1535_1228/master/1535.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c85a88a12c237341fd4964f80514068"
-    },
-    {
-      "title": "Groundbreaking First Nations’ Solar Microgrid Project secures catalytic ARENA Funding –  Project to launch mid-2026",
-      "description": "The Borroloola community’s Ngardara Solar Microgrid project in the Northern Territory has achieved a major milestone with the awarding of $8.347M in f...",
-      "link": "https://econews.com.au/groundbreaking-first-nations-solar-microgrid-project-secures-catalytic-arena-funding-project-to-launch-mid-2026/",
-      "pubDate": "Thu, 23 Apr 2026 03:00:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-23T120033.070.png"
     }
   ]
 }
