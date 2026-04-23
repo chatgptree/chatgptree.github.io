@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-23T17:40:14.303Z",
+  "lastUpdated": "2026-04-23T19:24:50.903Z",
   "articles": [
+    {
+      "title": "Meet the 19-metre octopus that prowled the ancient seas",
+      "description": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence....",
+      "link": "https://www.bbc.com/news/articles/cyv1rgm16r2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Apr 2026 18:04:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Kraken-like’ giant octopuses 100m years ago crunched bones of prey",
+      "description": "&lt;p&gt;Study of fossilised beaks shows patterns of wear and suggests some ancient species were up to 19 metres long&lt;/p&gt;&lt;p&gt;Giant “kraken-...",
+      "link": "https://www.theguardian.com/science/2026/apr/23/kraken-like-giant-octopuses-crunched-cretaceous-bones",
+      "pubDate": "Thu, 23 Apr 2026 18:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9211f4d6bd2e9ecffc3e13f9946a17ce44b8c966/31_0_6250_5000/master/6250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22747d7d410be261bdf6275ea444352b"
+    },
     {
       "title": "Corpus Christi Plans to Declare a ‘Water Emergency.’ What Does That Mean?",
       "description": "This story was published in partnership with the Texas Newsroom, the state’s network of public radio stations.&#160; No modern American city has ever ...",
@@ -101,15 +119,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
-      "description": "&lt;p&gt;NSW and Queensland governments ‘severely underdelivered’ on promised infrastructure to improve water flows, independent review finds&lt;/p&gt...",
-      "link": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
-      "pubDate": "Thu, 23 Apr 2026 08:12:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f64a6f6308765d9ce942ce3895bcbe2bf9d24440/0_0_3751_3000/master/3751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79d80d7b30676a5c6a81963b799fdc28"
-    },
-    {
       "title": "The &#8216;age of electricity&#8217; is here. No one knows what comes next.",
       "description": "As the war in Iran upends global fuel markets, two new reports confirm that 2025 was a banner year for renewable energy....",
       "link": "https://grist.org/energy/renewable-energy-2025-reports-ember-iea/",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/unnamed-2026-04-23T120033.070.png"
-    },
-    {
-      "title": "CATL Unveils Six Major Innovations: Multi-Chemistry Systems to Redefine New Energy Mobility Experience",
-      "description": "Wu Kai, Chief Scientist of CATL CATL today hosted its Super Technology Day in Beijing, unveiling third-generation Shenxing Superfast Charging Battery,...",
-      "link": "https://econews.com.au/catl-unveils-six-major-innovations-multi-chemistry-systems-to-redefine-new-energy-mobility-experience/",
-      "pubDate": "Thu, 23 Apr 2026 02:01:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/image003-6.png"
     }
   ]
 }
