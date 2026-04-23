@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-23T19:24:50.903Z",
+  "lastUpdated": "2026-04-23T21:01:00.994Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Creating and manufacturing a novel vaccine capable of combatting bird flu....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977h?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Apr 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Meet the 19-metre octopus that prowled the ancient seas",
       "description": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence....",
@@ -34,15 +43,6 @@
       "link": "https://insideclimatenews.org/news/23042026/west-texas-permian-basin-oilfield-leak/",
       "pubDate": "Thu, 23 Apr 2026 17:08:54 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Creating and manufacturing a novel vaccine capable of combatting bird flu....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977h?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Apr 2026 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
