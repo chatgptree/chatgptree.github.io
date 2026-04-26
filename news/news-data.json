@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-26T03:48:37.399Z",
+  "lastUpdated": "2026-04-26T06:15:27.320Z",
   "articles": [
+    {
+      "title": "Wildlife arriving at newly created wetland",
+      "description": "Birds are starting to notice the potential new feeding ground as the Fenland project is completed. ...",
+      "link": "https://www.bbc.com/news/articles/clyxd6n190zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 26 Apr 2026 05:42:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A 17th Century 'supercomputer' once owned by Indian royalty heads for auction",
       "description": "The astrolabe - or astronomical computer - is possibly the largest in existence and has never been exhibited before. \n...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "AI is a double-edged sword for Indigenous land protection, UN experts warn",
-      "description": "While AI helps monitor deforestation and illegal mining, data centers powering the technology are claiming water, energy, and minerals from Indigenous...",
-      "link": "https://grist.org/indigenous/ai-is-a-double-edged-sword-for-indigenous-land-protection-un-experts-warn/",
-      "pubDate": "Fri, 24 Apr 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/3C2A8150.jpg?quality=75&amp;strip=all"
     }
   ]
 }
