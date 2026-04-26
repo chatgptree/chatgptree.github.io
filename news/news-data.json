@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-26T08:19:37.377Z",
+  "lastUpdated": "2026-04-26T10:00:30.802Z",
   "articles": [
+    {
+      "title": "Sewage Is Threatening Coral Reefs Around the World, Even in Marine Protected Areas",
+      "description": "Marine protected areas are designed to conserve coral reefs and other ocean ecosystems by restricting human activity within their boundaries. But most...",
+      "link": "https://insideclimatenews.org/news/26042026/sewage-threatens-coral-reefs-marine-protected-areas/",
+      "pubDate": "Sun, 26 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "UK departments at odds over energy demands of AI datacentres",
       "description": "&lt;p&gt;Discrepancy in forecasts raises questions over government planning for net zero&lt;/p&gt;&lt;p&gt;One vision of the UK’s future involves a de...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/24042026/gop-leaders-claim-national-academies-conflicts-of-interest/",
       "pubDate": "Fri, 24 Apr 2026 19:20:34 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Plogging the Brighton Marathon",
-      "description": "Plogging the Brighton Marathon...",
-      "link": "https://www.bbc.com/news/videos/cd7jq7423j0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 24 Apr 2026 14:24:51 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
