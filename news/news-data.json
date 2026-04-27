@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-27T06:36:25.460Z",
+  "lastUpdated": "2026-04-27T09:26:08.017Z",
   "articles": [
+    {
+      "title": "Trump’s Environmental Cuts Further Marginalize Vulnerable Communities",
+      "description": "Since returning to the White House for his second term, President Donald Trump and his administration have drastically cut environmental programs and ...",
+      "link": "https://insideclimatenews.org/news/27042026/trump-environmental-cuts-marginalize-florida-vulnerable-communities/",
+      "pubDate": "Mon, 27 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nearly One-Fifth of Americans Are Consuming Water With High Levels of Nitrates",
+      "description": "Close to 20 percent of Americans are exposed to water polluted with high levels of potentially cancer-causing nitrates, known to come mostly from agri...",
+      "link": "https://insideclimatenews.org/news/27042026/agricultural-nitrate-water-pollution/",
+      "pubDate": "Mon, 27 Apr 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The world is getting too hot to feed itself",
+      "description": "A new UN report maps how extreme heat is tearing through every layer of the global food system — and mostly overlooks the people at the heart of it....",
+      "link": "https://grist.org/food-and-agriculture/the-world-is-getting-too-hot-to-feed-itself/",
+      "pubDate": "Mon, 27 Apr 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/AP26070516536942.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "The huge, untapped potential of planting rooftop gardens in cities",
+      "description": "To adapt to a rapidly warming world, metropolises are looking to green roofs, which boost biodiversity and reduce temperatures and flooding....",
+      "link": "https://grist.org/cities/the-huge-untapped-potential-of-planting-rooftop-gardens-in-cities/",
+      "pubDate": "Mon, 27 Apr 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Vertical-Bifacial-Panels-on-an-Oslo-office-building_Credit-OverEasySolar.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Michigan wins key legal battle over Line 5 pipeline",
+      "description": "A unanimous Supreme Court ruling clears the way for state court proceedings in the decades-long dispute over the pipeline crossing between Lakes Michi...",
+      "link": "https://grist.org/climate-energy/michigan-wins-key-legal-battle-over-line-5-pipeline/",
+      "pubDate": "Mon, 27 Apr 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Kiwa Initiative announces four new projects – including three regional projects led by WaterAid Australia, ActionAid Australia, and cChange – reinforcing Paci?c leadership in Nature-based Solutions for climate resilience",
       "description": "The Kiwa Initiative community including representatives from the Fijian Ministry of Environment and Climate Change, some donors – France/AFD,the Europ...",
@@ -20,7 +65,7 @@
       "image": "https://i.guim.co.uk/img/media/a30f3bec76e951df37f3d9991be35bea00a99a09/785_0_5488_4390/master/5488.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=929d0125fe92927433ca5534d8e2dbc1"
     },
     {
-      "title": "How do you restore the wild spaces of a corner of England?",
+      "title": "How do you restore the wild spaces in a corner of England?",
       "description": "Plans to improve nature have been unveiled, aiming to restore habitats and protect wildlife. \n\n...",
       "link": "https://www.bbc.com/news/articles/c747pjxv1gvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 27 Apr 2026 05:17:28 GMT",
@@ -132,51 +177,6 @@
       "description": "The Scottish Fire and rescue Service (SFRS) said an 'extreme' wildfire warning for Western Scotland would remain until midnight....",
       "link": "https://www.bbc.com/news/articles/cly7yvr8g97o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 26 Apr 2026 12:52:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Your snaps of changing skies from meteors to rays",
-      "description": "BBC Weather Watchers capture the ever-changing April conditions....",
-      "link": "https://www.bbc.com/news/articles/c248e595dzgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 26 Apr 2026 12:10:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sewage Is Threatening Coral Reefs Around the World, Even in Marine Protected Areas",
-      "description": "Marine protected areas are designed to conserve coral reefs and other ocean ecosystems by restricting human activity within their boundaries. But most...",
-      "link": "https://insideclimatenews.org/news/26042026/sewage-threatens-coral-reefs-marine-protected-areas/",
-      "pubDate": "Sun, 26 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK departments at odds over energy demands of AI datacentres",
-      "description": "&lt;p&gt;Discrepancy in forecasts raises questions over government planning for net zero&lt;/p&gt;&lt;p&gt;One vision of the UK’s future involves a de...",
-      "link": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
-      "pubDate": "Sun, 26 Apr 2026 07:00:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/de480a6a5dd62313de113f77399f46e9208b8c16/2791_939_5367_4294/master/5367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a17fa9d0efeffea79d001d06f77754a0"
-    },
-    {
-      "title": "'We're living in a shed because of river pollution'",
-      "description": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution....",
-      "link": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 26 Apr 2026 06:20:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'We're living in a shed because of river pollution'",
-      "description": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution....",
-      "link": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 26 Apr 2026 06:20:08 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
