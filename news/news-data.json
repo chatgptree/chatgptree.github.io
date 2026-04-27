@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-27T20:13:56.739Z",
+  "lastUpdated": "2026-04-27T22:00:37.949Z",
   "articles": [
+    {
+      "title": "Duke Energy Received Tax Breaks on Its Three N.C. Data Centers",
+      "description": "Duke Energy has received tax breaks for three data centers that it owns, state Commerce Department records show, while the utility is proposing an 18 ...",
+      "link": "https://insideclimatenews.org/news/27042026/duke-energy-data-center-tax-breaks/",
+      "pubDate": "Mon, 27 Apr 2026 21:39:43 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "He’s the only lead tester in this contaminated neighborhood. He graduates next month.",
+      "description": "The lack of inexpensive and comprehensive toxics testing has created a fragile public safety net in polluted towns across the country....",
+      "link": "https://grist.org/equity/hes-the-only-lead-tester-in-this-contaminated-neighborhood-he-graduates-next-month/",
+      "pubDate": "Mon, 27 Apr 2026 21:29:22 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/home-visit-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "US supreme court weighs blocking lawsuits against Roundup makers alleging weedkiller causes cancer",
+      "description": "&lt;p&gt;Case centers on glyphosate, pesticide used in Roundup and other products that has been linked to cancer in some studies&lt;/p&gt;&lt;p&gt;Mem...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/27/supreme-court-pesticides-case",
+      "pubDate": "Mon, 27 Apr 2026 21:08:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1caea3a11bdbed9e8c9062cab3ab94a4beac4176/182_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d21622f6e7da1d369a41ae5aa3c0d9a"
+    },
+    {
+      "title": "Thousands of People Say Roundup Caused Their Cancer. The Supreme Court May Quash Their Lawsuits.",
+      "description": "John Durnell just wanted to make things around his St. Louis neighborhood look a little nicer. So, on occasion, he’d spray a bit of Roundup in the obv...",
+      "link": "https://insideclimatenews.org/news/27042026/roundup-supreme-court-glyphosate-cancer-case/",
+      "pubDate": "Mon, 27 Apr 2026 20:43:29 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Nearly two decades after landmark Indigenous rights declaration, countries still aren&#8217;t complying",
       "description": "At the U.N., global leaders say governments must stop talking and start implementing protections they adopted....",
@@ -18,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f0dbc2b0ac49359c096283cbb4e347a91248ea52/0_533_1536_1228/master/1536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90d8269f788663d648a78badf0add064"
-    },
-    {
-      "title": "US supreme court to hear case that could weaken consumers’ ability to sue for failure to warn of product risks",
-      "description": "&lt;p&gt;Case centers on glyphosate, pesticide used in Roundup and other products that has been linked to cancer in some studies&lt;/p&gt;&lt;p&gt;The...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/27/supreme-court-pesticides-case",
-      "pubDate": "Mon, 27 Apr 2026 11:30:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1caea3a11bdbed9e8c9062cab3ab94a4beac4176/182_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d21622f6e7da1d369a41ae5aa3c0d9a"
     },
     {
       "title": "Clean energy switch must not be excuse to plunder Indigenous lands, say leaders",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK's biggest ever environmental pollution claim reaches High Court",
-      "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye...",
-      "link": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 26 Apr 2026 23:01:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK's biggest ever environmental pollution claim reaches High Court",
-      "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye...",
-      "link": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 26 Apr 2026 23:01:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
-      "description": "&lt;p&gt;Widely dispersed wind farms and solar panels are harder to target than fossil fuel power stations, Michael Shanks says&lt;/p&gt;&lt;p&gt;Rene...",
-      "link": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
-      "pubDate": "Sun, 26 Apr 2026 23:01:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ec84aa3de6a6a973af498257a475d74497620129/744_82_2364_1892/master/2364.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=83793eac05f16f4897a0fa76d12785d9"
     }
   ]
 }
