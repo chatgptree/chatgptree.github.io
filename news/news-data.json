@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T22:00:37.949Z",
+  "lastUpdated": "2026-04-27T23:58:52.559Z",
   "articles": [
     {
       "title": "Duke Energy Received Tax Breaks on Its Three N.C. Data Centers",
@@ -9,15 +9,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "He’s the only lead tester in this contaminated neighborhood. He graduates next month.",
-      "description": "The lack of inexpensive and comprehensive toxics testing has created a fragile public safety net in polluted towns across the country....",
-      "link": "https://grist.org/equity/hes-the-only-lead-tester-in-this-contaminated-neighborhood-he-graduates-next-month/",
-      "pubDate": "Mon, 27 Apr 2026 21:29:22 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/home-visit-1.jpg?quality=75&amp;strip=all"
     },
     {
       "title": "US supreme court weighs blocking lawsuits against Roundup makers alleging weedkiller causes cancer",
@@ -177,6 +168,15 @@
       "description": "Tuna populations around the Pacific Islands could move away as ocean temperatures increase....",
       "link": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 26 Apr 2026 23:16:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK's biggest ever environmental pollution claim reaches High Court",
+      "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye...",
+      "link": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 26 Apr 2026 23:01:47 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
