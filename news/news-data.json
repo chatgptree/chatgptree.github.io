@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-27T09:26:08.017Z",
+  "lastUpdated": "2026-04-27T11:52:23.517Z",
   "articles": [
+    {
+      "title": "Clean energy switch must not be excuse to plunder Indigenous lands, say leaders",
+      "description": "&lt;p&gt;Global conference told benefits should not come at expense of well-protected environments&lt;/p&gt;&lt;p&gt;The energy transition must not be...",
+      "link": "https://www.theguardian.com/world/2026/apr/27/clean-energy-switch-must-not-be-excuse-to-plunder-indigenous-lands-say-leaders",
+      "pubDate": "Mon, 27 Apr 2026 11:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0509f5975804edaf2ca68e51ef409dc6b8fa082a/0_0_4535_3628/master/4535.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4b192d855f9d5ccaadc5729f7fb55cb"
+    },
     {
       "title": "Trump’s Environmental Cuts Further Marginalize Vulnerable Communities",
       "description": "Since returning to the White House for his second term, President Donald Trump and his administration have drastically cut environmental programs and ...",
@@ -110,6 +119,15 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Global-Data-logo.jpg"
     },
     {
+      "title": "How climate change threatens the economic backbone of the Pacific",
+      "description": "Tuna populations around the Pacific Islands could move away as ocean temperatures increase....",
+      "link": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 26 Apr 2026 23:16:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "UK's biggest ever environmental pollution claim reaches High Court",
       "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye...",
       "link": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/jenniferauchter.webp?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Series of wildfires across Scotland during 'extreme' alert",
-      "description": "The Scottish Fire and rescue Service (SFRS) said an 'extreme' wildfire warning for Western Scotland would remain until midnight....",
-      "link": "https://www.bbc.com/news/articles/cly7yvr8g97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 26 Apr 2026 12:52:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Series of wildfires across Scotland during 'extreme' alert",
-      "description": "The Scottish Fire and rescue Service (SFRS) said an 'extreme' wildfire warning for Western Scotland would remain until midnight....",
-      "link": "https://www.bbc.com/news/articles/cly7yvr8g97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 26 Apr 2026 12:52:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
