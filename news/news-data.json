@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-28T18:45:45.323Z",
+  "lastUpdated": "2026-04-28T20:22:49.006Z",
   "articles": [
+    {
+      "title": "'Pioneering' study to boost bee numbers at Wakehurst",
+      "description": "The study is part of Wakehurst's Nature Unlocked programme, which aims to improve biodiversity....",
+      "link": "https://www.bbc.com/news/articles/cewpl0vv721o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Apr 2026 18:59:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Stranded whale Timmy swims on to barge in German rescue attempt",
       "description": "&lt;p&gt;Rescuers hope to move young male humpback from Baltic to North Sea after being stranded for a month near Lübeck&lt;/p&gt;&lt;p&gt;Rescuers tr...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f0dbc2b0ac49359c096283cbb4e347a91248ea52/0_533_1536_1228/master/1536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90d8269f788663d648a78badf0add064"
-    },
-    {
-      "title": "Trump’s Environmental Cuts Further Marginalize Vulnerable Communities",
-      "description": "Since returning to the White House for his second term, President Donald Trump and his administration have drastically cut environmental programs and ...",
-      "link": "https://insideclimatenews.org/news/27042026/trump-environmental-cuts-marginalize-florida-vulnerable-communities/",
-      "pubDate": "Mon, 27 Apr 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
