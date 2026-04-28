@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-28T09:29:44.142Z",
+  "lastUpdated": "2026-04-28T11:53:01.685Z",
   "articles": [
+    {
+      "title": "Middle East crisis could cost world $1tn while oil firms make ‘obscene’ profit, analysis finds",
+      "description": "&lt;p&gt;Climate group calls for urgent windfall tax on excess fossil fuel profits, as delegates tell Colombia conference their nations are suffering&...",
+      "link": "https://www.theguardian.com/environment/2026/apr/28/middle-east-crisis-oil-firms-profit-colombia-conference",
+      "pubDate": "Tue, 28 Apr 2026 11:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4eb6c89b11328ab2cbf3da550f801d38d541068f/569_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a57aa4f550bb4d86fb22ca2c0afedaa6"
+    },
+    {
+      "title": "Musk v Altman: Why the tech billionaires and former friends are now facing off in court",
+      "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom....",
+      "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Apr 2026 10:10:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "A new haven for wildlife: London’s Queen Elizabeth II garden opens to the public – in pictures",
       "description": "&lt;p&gt;A new two-acre garden in memory of Queen Elizabeth II has opened to the public, providing a refuge for the city’s flora and fauna in Regent’s...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nearly One-Fifth of Americans Are Consuming Water With High Levels of Nitrates",
-      "description": "Close to 20 percent of Americans are exposed to water polluted with high levels of potentially cancer-causing nitrates, known to come mostly from agri...",
-      "link": "https://insideclimatenews.org/news/27042026/agricultural-nitrate-water-pollution/",
-      "pubDate": "Mon, 27 Apr 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The world is getting too hot to feed itself",
-      "description": "A new U.N. report maps how extreme heat is tearing through every layer of the global food system — and mostly overlooks the people at the heart of it....",
-      "link": "https://grist.org/food-and-agriculture/the-world-is-getting-too-hot-to-feed-itself/",
-      "pubDate": "Mon, 27 Apr 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/AP26070516536942.jpg?quality=75&#038;strip=all"
     }
   ]
 }
