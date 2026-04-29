@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-28T22:06:04.829Z",
+  "lastUpdated": "2026-04-29T00:00:56.449Z",
   "articles": [
+    {
+      "title": "£20m mystery gift buys London Zoo new hospital where you can watch vets work",
+      "description": "Visitors will be able to watch live veterinary procedures inside a state-of-the-art new animal hospital....",
+      "link": "https://www.bbc.com/news/articles/cpqpj7wy4x4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Apr 2026 23:20:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump Takes a ‘Wrecking Ball’ to Independent Scientific Advisory Board",
       "description": "Since the start of his second term last year, President Donald Trump has sought to weaken the federal foundations underpinning American science, slash...",
@@ -27,6 +36,15 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump administration blocks US wind energy projects in switch to oil and gas",
+      "description": "&lt;p&gt;US representatives Jared Huffman and Jamie Raskin earlier this month called agreements outrageous and unlawful&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/28/trump-administration-wind-projects",
+      "pubDate": "Tue, 28 Apr 2026 21:37:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0a88599b7c34a9309c89a88ab24612a1d1253735/489_0_3131_2504/master/3131.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0505c15544ec2dc478d952ad2601ccf8"
     },
     {
       "title": "'Pioneering' study to boost bee numbers at Wakehurst",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Duke Energy Received Tax Breaks on Its Three N.C. Data Centers",
-      "description": "Duke Energy has received tax breaks for three data centers that it owns, state Commerce Department records show, while the utility is proposing an 18 ...",
-      "link": "https://insideclimatenews.org/news/27042026/duke-energy-data-center-tax-breaks/",
-      "pubDate": "Mon, 27 Apr 2026 21:39:43 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US supreme court weighs blocking lawsuits against Roundup makers alleging weedkiller causes cancer",
-      "description": "&lt;p&gt;Case centers on glyphosate, pesticide used in Roundup and other products that has been linked to cancer in some studies&lt;/p&gt;&lt;p&gt;Mem...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/27/supreme-court-pesticides-case",
-      "pubDate": "Mon, 27 Apr 2026 21:08:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1caea3a11bdbed9e8c9062cab3ab94a4beac4176/182_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d21622f6e7da1d369a41ae5aa3c0d9a"
     }
   ]
 }
