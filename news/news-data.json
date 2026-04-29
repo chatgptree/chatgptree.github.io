@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-04-29T07:28:26.992Z",
+  "lastUpdated": "2026-04-29T10:13:43.815Z",
   "articles": [
+    {
+      "title": "Critical minerals are ‘oil of 21st century’ as demand fuels poverty and pollution in poorer countries",
+      "description": "&lt;p&gt;Rush for lithium, cobalt and nickel is ravaging livelihoods, water and health of world’s most vulnerable, UN study says &lt;/p&gt;&lt;p&gt;Cr...",
+      "link": "https://www.theguardian.com/global-development/2026/apr/29/critical-minerals-are-oil-of-21st-century-as-demand-fuels-poverty-and-pollution-in-poorer-countries",
+      "pubDate": "Wed, 29 Apr 2026 10:00:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/91ace38e9efc1220996b7df66f2f542858a9a52a/0_0_3747_2998/master/3747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec1bde1f8e7485dfbffbae998a87d6f1"
+    },
+    {
+      "title": "‘Suicidal’ model of capitalism leading to war and fascism, climate summit told",
+      "description": "&lt;p&gt;Colombia president Gustavo Petro tells 57-country talks on a green energy transition that fossil fuel interests could destroy humanity&lt;/p&...",
+      "link": "https://www.theguardian.com/environment/2026/apr/29/capitalism-colombia-climate-summit-gustavo-petro",
+      "pubDate": "Wed, 29 Apr 2026 10:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c7cd18595ca7dc62b2117415d8d3b69f17843abf/518_312_3594_2875/master/3594.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9fb0503fac8a388337942d9d60b062f"
+    },
+    {
+      "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
+      "description": "The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild....",
+      "link": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Apr 2026 09:37:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California Will Soon Have More Than 300 Data Centers. Where Will They Get Their Water?",
+      "description": "IMPERIAL, Calif.—The new data center proposed for a quiet city about 115 miles east of San Diego came across people’s radars in different ways. For pa...",
+      "link": "https://insideclimatenews.org/news/29042026/california-data-center-boom-water-issues/",
+      "pubDate": "Wed, 29 Apr 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "NOAA Defends Cuts to Research and Climate Monitoring at Budget Hearing",
+      "description": "A key Republican joined Democrats in pushing back against the Trump administration’s proposal to slash the National Oceanic and Atmospheric Administra...",
+      "link": "https://insideclimatenews.org/news/29042026/noaa-defends-trump-cuts/",
+      "pubDate": "Wed, 29 Apr 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Virginia Legislature Bucks Governor’s Amendments to Dominion-Backed Bill",
+      "description": "RICHMOND, Va.—A bill backed by Virginia’s largest and most powerful electric utility is on Gov. Abigail Spanberger’s desk for final action after the l...",
+      "link": "https://insideclimatenews.org/news/29042026/virginia-legislature-bucks-governors-amendments-to-dominion-backed-bills/",
+      "pubDate": "Wed, 29 Apr 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "One night a year, humans command this march of frogs and salamanders",
+      "description": "The first warm, wet spring night sends frogs and salamanders from the forest, bearing fresh evidence of threats from warming winters, drying pools, an...",
+      "link": "https://grist.org/culture/one-night-a-year-humans-command-this-march-of-frogs-and-salamanders/",
+      "pubDate": "Wed, 29 Apr 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/salamander-inline.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Indigenous peoples bear the brunt of climate change — and get almost none of the money to fight it",
+      "description": "Billion-dollar climate funds have structural barriers that keep Indigenous peoples from accessing them. Advocates say that's not a bug, it's a feature...",
+      "link": "https://grist.org/indigenous/indigenous-peoples-bear-the-brunt-of-climate-change-and-get-almost-none-of-the-money-to-fight-it/",
+      "pubDate": "Wed, 29 Apr 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Illinois is feuding with itself over endangered species protections",
+      "description": "The state Department of Transportation has sidestepped endangered species protections in 11 cases, according to public records....",
+      "link": "https://grist.org/accountability/illinois-is-feuding-with-itself-over-endangered-species-protections/",
+      "pubDate": "Wed, 29 Apr 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Gulf-of-Mexico-oil-rig.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance",
       "description": "&lt;p&gt;The bizarre vertical flight pattern has long puzzled experts but new research reveals why it may play a crucial role in the insect’s survival...",
@@ -56,15 +137,6 @@
       "image": "https://i.guim.co.uk/img/media/1255ecb854673b15bea0df6d0a85baa7dd7e2ee9/109_1198_3169_2535/master/3169.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f2ac2d3c24e3fb02356bd6ae614ba49"
     },
     {
-      "title": "Urban areas host 80% of England’s homes at high risk of flooding, study finds",
-      "description": "&lt;p&gt;Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costs&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study",
-      "pubDate": "Wed, 29 Apr 2026 05:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/308fa7db39beb4ece2c8e134f5f2f5c3c1594be2/219_0_3381_2704/master/3381.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caa708e177bfecec46fd69e480d670e0"
-    },
-    {
       "title": "Canon Oceania opens 2026 Grants Program, marking 20 years of impact",
       "description": "(Pictured: Top left –  Image credit©?Camera Story, Sheraya Walagie, Sherayna Bangmorra and Dana Carlton, Mowanjum Aboriginal Art and Culture Centre, a...",
       "link": "https://econews.com.au/canon-oceania-opens-2026-grants-program-marking-20-years-of-impact/",
@@ -108,78 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/image002-13.png"
-    },
-    {
-      "title": "£20m mystery gift buys London Zoo new hospital where you can watch vets work",
-      "description": "Visitors will be able to watch live veterinary procedures inside a state-of-the-art new animal hospital....",
-      "link": "https://www.bbc.com/news/articles/cpqpj7wy4x4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Apr 2026 23:20:26 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump Takes a ‘Wrecking Ball’ to Independent Scientific Advisory Board",
-      "description": "Since the start of his second term last year, President Donald Trump has sought to weaken the federal foundations underpinning American science, slash...",
-      "link": "https://insideclimatenews.org/news/28042026/trump-fires-national-science-board/",
-      "pubDate": "Tue, 28 Apr 2026 22:03:04 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Drought Turns Southeastern US Into ‘Tinderbox’ as Wildfires Rage",
-      "description": "Drought and fire are a dangerous duo. The Southeastern United States is witnessing this firsthand as several major blazes burn tens of thousands of ac...",
-      "link": "https://insideclimatenews.org/news/28042026/todays-climate-drought-wildfire-southeast-us/",
-      "pubDate": "Tue, 28 Apr 2026 21:45:50 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump administration blocks US wind energy projects in switch to oil and gas",
-      "description": "&lt;p&gt;US representatives Jared Huffman and Jamie Raskin earlier this month called agreements outrageous and unlawful&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/28/trump-administration-wind-projects",
-      "pubDate": "Tue, 28 Apr 2026 21:37:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0a88599b7c34a9309c89a88ab24612a1d1253735/489_0_3131_2504/master/3131.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0505c15544ec2dc478d952ad2601ccf8"
-    },
-    {
-      "title": "'Pioneering' study to boost bee numbers at Wakehurst",
-      "description": "The study is part of Wakehurst's Nature Unlocked programme, which aims to improve biodiversity....",
-      "link": "https://www.bbc.com/news/articles/cewpl0vv721o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Apr 2026 18:59:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Stranded whale Timmy swims on to barge in German rescue attempt",
-      "description": "&lt;p&gt;Rescuers hope to move young male humpback from Baltic to North Sea after being stranded for a month near Lübeck&lt;/p&gt;&lt;p&gt;Rescuers tr...",
-      "link": "https://www.theguardian.com/world/2026/apr/28/timmy-whale-barge-rescue-attempt-germany",
-      "pubDate": "Tue, 28 Apr 2026 17:09:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6be3b9367c66ce8a8444d03cd11e81ca6712cef5/2739_2032_3815_3052/master/3815.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f917ea4b5e7ec11998acad0e2753e474"
-    },
-    {
-      "title": "Trump’s attempt to crush clean energy progress not going to plan, experts say",
-      "description": "&lt;p&gt;US generated more power from renewables including solar and wind than gas last month in a first&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://www.the...",
-      "link": "https://www.theguardian.com/us-news/2026/apr/28/trump-clean-energy-progress",
-      "pubDate": "Tue, 28 Apr 2026 12:30:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9a49e2ad88189b2c6c6fcb234933a715c30a4a91/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=254aa9525e3b4546e08224f5b1965822"
-    },
-    {
-      "title": "A new haven for wildlife: London’s Queen Elizabeth II garden opens to the public – in pictures",
-      "description": "&lt;p&gt;A new two-acre garden in memory of Queen Elizabeth II has opened to the public, providing a refuge for the city’s flora and fauna in Regent’s...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/apr/28/new-haven-wildlife-london-queen-elizabeth-ii-garden-opens-public-aoe",
-      "pubDate": "Tue, 28 Apr 2026 09:00:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e1cec066e23b77e780b71feccffec31b6d6a4d46/629_0_6157_4928/master/6157.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfd8a19406a068dd8b92b31dbef1e851"
     }
   ]
 }
