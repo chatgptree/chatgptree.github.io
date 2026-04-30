@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-30T14:18:45.781Z",
+  "lastUpdated": "2026-04-30T16:26:11.494Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "A weekly programme looking at the science that's changing our world....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977j?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Apr 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Democrats say EPA head’s budget cut proposal ‘reads like climate change deniers’ manifesto’",
+      "description": "&lt;p&gt;Lee Zeldin claims before Senate that Trump administration plan will make Environmental Protection Agency ‘more efficient’&lt;/p&gt;&lt;p&gt;S...",
+      "link": "https://www.theguardian.com/environment/2026/apr/30/epa-budget-cut-proposal",
+      "pubDate": "Thu, 30 Apr 2026 15:20:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/69089b764338b41cb9c6402a16c9bd3f9532e823/1496_93_3973_3177/master/3973.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca4fa91356652f7b540b349a5d52aa59"
+    },
+    {
+      "title": "Australians will pay more if Albanese fast-tracks fossil fuel projects, former oil and gas leaders warn",
+      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Government should back projects that prioritise renewables to protect consumers from ongoing price sh...",
+      "link": "https://www.theguardian.com/environment/2026/may/01/australians-will-pay-more-if-albanese-fast-tracks-fossil-fuel-projects-former-oil-and-gas-leaders-warn",
+      "pubDate": "Thu, 30 Apr 2026 15:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/04fc4a1c777b0ac9d5c9e0577871c151a76fa5ae/351_0_6222_4976/master/6222.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a225075b61b9d6c1cf606ba6fc104ae1"
+    },
     {
       "title": "A 17th Century 'supercomputer' once owned by Indian royalty sells for record in auction",
       "description": "The astrolabe - or astronomical computer - is possibly the largest in existence and had never been exhibited before. \n...",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c5yekykrx25o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 30 Apr 2026 05:04:10 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Crack and crime to confident and qualified: is the future about to change for Rhyl’s youth?",
-      "description": "&lt;p&gt;The Welsh seaside resort has already seen a fall in offending and drug use, now a £20m investment and a fresh approach to building job skills...",
-      "link": "https://www.theguardian.com/environment/2026/apr/30/seascapes-rhyl-wales-poverty-youth-jobs-drugs-training-barod",
-      "pubDate": "Thu, 30 Apr 2026 05:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/18cf0fe94f7768bd80a10c0bac77391d3b2cb59a/151_0_6250_5000/master/6250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ef20acdade7bc32f08841982c55d591"
-    },
-    {
-      "title": "Are we being told the truth about a gas profits tax? | Fiona Katauskas",
-      "description": "&lt;p&gt;Or is it the gaslight on the hill?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;See more of &lt;a href=\"https://www.theguardian.com/profile/fiona-ka...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/30/are-we-being-told-the-truth-about-gas-exports",
-      "pubDate": "Thu, 30 Apr 2026 01:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c51d39fc28b6bdaf54cc552461d10aa5cb0d10c7/0_0_1181_945/master/1181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=05177178a546dd185a846f134e4bf507"
-    },
-    {
-      "title": "Tribe and Environmentalists to Sue Feds Over Arizona Mine’s  Impacts to Threatened Owls",
-      "description": "This story is co-published with Arizona Luminaria, a nonprofit newsroom dedicated to community-centered reporting. When the Bureau of Land Management ...",
-      "link": "https://insideclimatenews.org/news/29042026/arizona-mine-impacts-threatened-owls/",
-      "pubDate": "Wed, 29 Apr 2026 16:18:30 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
