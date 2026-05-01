@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-01T15:04:27.782Z",
+  "lastUpdated": "2026-05-01T17:06:38.161Z",
   "articles": [
+    {
+      "title": "Octopus Energy boss: some people would accept blackouts if bills cut",
+      "description": "&lt;p&gt;Greg Jackson argues against costly investments in UK’s power grid that are adding to household bills&lt;/p&gt;&lt;p&gt;The boss of the UK’s b...",
+      "link": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
+      "pubDate": "Fri, 01 May 2026 16:02:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/73613d2270c68e3f1066f93ec0ba5cb619dc7a2e/1267_50_2959_2367/master/2959.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dde7a2c19b97ca9a2eea4bbf2225e82d"
+    },
+    {
+      "title": "Eggs of elusive bird rescued by firefighters during wildfire",
+      "description": "During a wildfire in Brookeborough, County Fermanagh on Thursday, a curlew nest directly in the fire's path was found....",
+      "link": "https://www.bbc.com/news/articles/c2k20ggnqldo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 01 May 2026 15:50:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Is this actually what Anne Boleyn looked like?",
       "description": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be....",
@@ -11,16 +29,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Octopus Energy boss: some people would accept occasional blackouts if bills cut",
-      "description": "&lt;p&gt;Greg Jackson argues against costly investments in UK’s power grid that are adding to household bills&lt;/p&gt;&lt;p&gt;The boss of the UK’s b...",
-      "link": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
-      "pubDate": "Fri, 01 May 2026 14:42:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/73613d2270c68e3f1066f93ec0ba5cb619dc7a2e/1267_50_2959_2367/master/2959.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dde7a2c19b97ca9a2eea4bbf2225e82d"
-    },
-    {
-      "title": "Could key climate talks mark ground zero in global push to ditch fossil fuels?",
+      "title": "Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?",
       "description": "&lt;p&gt;Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy future&lt;/p&gt;&lt;p&gt;Looking...",
       "link": "https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels",
       "pubDate": "Fri, 01 May 2026 14:19:29 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/79d9bbad6722072efb5e9ecd72e2d74a73fc55e1/324_0_2305_1844/master/2305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3828c94bed5e2e991ceb1c494d012acd"
-    },
-    {
-      "title": "Western Lawmakers Move To Weaken Clean Air Act and Shield Fossil Fuel Companies From Climate Lawsuits",
-      "description": "Members of Congress from Texas and Wyoming introduced bills recently that would grant fossil fuel companies sweeping legal immunity and shield energy ...",
-      "link": "https://insideclimatenews.org/news/30042026/wyoming-texas-lawmakers-weaken-clean-air-act/",
-      "pubDate": "Thu, 30 Apr 2026 20:27:24 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
