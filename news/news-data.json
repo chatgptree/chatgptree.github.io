@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-01T13:46:33.790Z",
+  "lastUpdated": "2026-05-01T15:04:27.782Z",
   "articles": [
+    {
+      "title": "Is this actually what Anne Boleyn looked like?",
+      "description": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be....",
+      "link": "https://www.bbc.com/news/videos/c3d2e581k7do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 01 May 2026 14:44:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Octopus Energy boss: some people would accept occasional blackouts if bills cut",
+      "description": "&lt;p&gt;Greg Jackson argues against costly investments in UK’s power grid that are adding to household bills&lt;/p&gt;&lt;p&gt;The boss of the UK’s b...",
+      "link": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
+      "pubDate": "Fri, 01 May 2026 14:42:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/73613d2270c68e3f1066f93ec0ba5cb619dc7a2e/1267_50_2959_2367/master/2959.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dde7a2c19b97ca9a2eea4bbf2225e82d"
+    },
+    {
+      "title": "Could key climate talks mark ground zero in global push to ditch fossil fuels?",
+      "description": "&lt;p&gt;Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy future&lt;/p&gt;&lt;p&gt;Looking...",
+      "link": "https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels",
+      "pubDate": "Fri, 01 May 2026 14:19:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/edaef7dac589c2fba32182d2d5323f859893603d/336_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce622c44c935643cb666167e0bb65972"
+    },
     {
       "title": "As Energy, War and Climate Collide, a Conference in Colombia Charts a Path Beyond Fossil Fuels",
       "description": "While some major fossil fuel producers keep pushing for expanded oil and gas use, which is linked to warfare, economic shocks and ecological damage, m...",
@@ -128,6 +155,15 @@
       "image": "https://i.guim.co.uk/img/media/364b47437ee9027fa7b4d6e7df5ec6b572425d26/479_0_4786_3829/master/4786.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18341765115920c74e9db393b70dfbed"
     },
     {
+      "title": "Fema employees who criticized Trump cuts reinstated after months on leave",
+      "description": "&lt;p&gt;Workers wrote ‘Katrina declaration’, warning that funding cuts made US dangerously unprepared for natural disasters&lt;/p&gt;&lt;p&gt;Fourtee...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/30/fema-letter-katrina-declaration",
+      "pubDate": "Fri, 01 May 2026 01:01:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6ec48aed1141f4ff66ee3cc8d341367f0e11f89b/996_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f6ae0611ef510e03e044be0c77e2b9e"
+    },
+    {
       "title": "‘Don’t fall!’: foil boarders describe hair-raising shark chase caught on video off California coast",
       "description": "&lt;p&gt;Foil boarders were pursued by shark – likely a great white – off Santa Barbara before it lost interest and swam away&lt;/p&gt;&lt;ul&gt;&lt;l...",
       "link": "https://www.theguardian.com/us-news/2026/apr/30/foil-boarders-shark-chase-california",
@@ -137,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/79d9bbad6722072efb5e9ecd72e2d74a73fc55e1/324_0_2305_1844/master/2305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3828c94bed5e2e991ceb1c494d012acd"
     },
     {
-      "title": "Gen Z leads birdwatching boom as more Britons reach for the binoculars",
-      "description": "&lt;p&gt;Birdwatching no longer niche, old-fashioned pastime, says RSPB as research shows 47% increase in hobby since 2018&lt;/p&gt;&lt;p&gt;Birdwatch...",
-      "link": "https://www.theguardian.com/environment/2026/may/01/birdwatching-boom-britain-nature-gen-z-rspb-environment",
-      "pubDate": "Thu, 30 Apr 2026 23:01:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/68d967514d7b4d6a974dc6f4552e6eb1fa0bee91/1196_401_3060_2448/master/3060.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f48c658a9974238971a331f2a9df0aea"
-    },
-    {
       "title": "Western Lawmakers Move To Weaken Clean Air Act and Shield Fossil Fuel Companies From Climate Lawsuits",
       "description": "Members of Congress from Texas and Wyoming introduced bills recently that would grant fossil fuel companies sweeping legal immunity and shield energy ...",
       "link": "https://insideclimatenews.org/news/30042026/wyoming-texas-lawmakers-weaken-clean-air-act/",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "We explore the mechanisms causing Europe's warming twice as fast as the global average....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977j?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Apr 2026 20:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Democrats say EPA head’s budget cut proposal ‘reads like climate change deniers’ manifesto’",
-      "description": "&lt;p&gt;Lee Zeldin claims before Senate that Trump administration plan will make Environmental Protection Agency ‘more efficient’&lt;/p&gt;&lt;p&gt;S...",
-      "link": "https://www.theguardian.com/environment/2026/apr/30/epa-budget-cut-proposal",
-      "pubDate": "Thu, 30 Apr 2026 15:20:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/69089b764338b41cb9c6402a16c9bd3f9532e823/1496_93_3973_3177/master/3973.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca4fa91356652f7b540b349a5d52aa59"
-    },
-    {
-      "title": "Australians will pay more if Albanese prioritises fossil fuel projects, former oil and gas leaders warn",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Government should accelerate clean energy to protect consumers from ongoing price shocks, they say&lt...",
-      "link": "https://www.theguardian.com/environment/2026/may/01/australians-will-pay-more-if-albanese-fast-tracks-fossil-fuel-projects-former-oil-and-gas-leaders-warn",
-      "pubDate": "Thu, 30 Apr 2026 15:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/04fc4a1c777b0ac9d5c9e0577871c151a76fa5ae/351_0_6222_4976/master/6222.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a225075b61b9d6c1cf606ba6fc104ae1"
     }
   ]
 }
