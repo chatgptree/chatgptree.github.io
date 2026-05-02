@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-02T14:56:59.218Z",
+  "lastUpdated": "2026-05-02T15:56:09.044Z",
   "articles": [
+    {
+      "title": "Two buses, three hours and 13 miles: how Americans in ‘transit deserts’ get groceries without cars",
+      "description": "&lt;p&gt;As Covid-era funding dries up and bus services are cut, a food insecurity crisis is brewing from Tennessee to Rhode Island&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/environment/2026/may/03/bus-public-transport-cuts-groceries-snap",
+      "pubDate": "Sat, 02 May 2026 15:00:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/266b7e545722e44f3b4b24d4a1f5a104f8cabd6f/354_0_3493_2794/master/3493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e62badb39b4efb031cdd3377b60c950f"
+    },
     {
       "title": "‘They don’t belong in our environment’: US vineyards battle spotted lanternflies as invasive insects spread",
       "description": "&lt;p&gt;From Virginia to New York, the bugs drain vines, cut yields and leave growers resorting to one simple fix: squash them&lt;/p&gt;&lt;p&gt;Arou...",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/01052026/florida-opens-criminal-probe-into-sloth-world/",
       "pubDate": "Fri, 01 May 2026 19:34:47 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Eggs of elusive bird rescued by firefighters during wildfire",
-      "description": "During a wildfire in Brookeborough, County Fermanagh on Thursday, a curlew nest directly in the fire's path was found....",
-      "link": "https://www.bbc.com/news/articles/c2k20ggnqldo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 01 May 2026 15:50:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
