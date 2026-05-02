@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-02T06:16:48.355Z",
+  "lastUpdated": "2026-05-02T08:25:27.934Z",
   "articles": [
+    {
+      "title": "Thousands of trees creating habitat 'powerhouses'",
+      "description": "Friends of the Lake District say the hedgerows will create new habitats and boost biodiversity....",
+      "link": "https://www.bbc.com/news/articles/cdxprr5p18wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 02 May 2026 07:26:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Red squirrels 'close to extinction' in England",
+      "description": "A petition set up by campaign group Save Our Reds, has attracted more than 75,000 signatures....",
+      "link": "https://www.bbc.com/news/articles/cjwpd9d399wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 02 May 2026 06:25:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How ospreys were 'tricked' into breeding in Dorset",
+      "description": "Reintroducing ospreys to Dorset involved convincing birds they had been born there....",
+      "link": "https://www.bbc.com/news/articles/c15d52y4dnwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 02 May 2026 06:21:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Momentum building for Scottish-style land access rights in England, says film",
       "description": "&lt;p&gt;Documentary makers seek to start ‘informed conversation’ in country where public is allowed on just 8% of land&lt;/p&gt;&lt;p&gt;Anger and mo...",
@@ -110,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "'Disgusting' clinical waste dumped on Sheppey beaches",
-      "description": "\"Hundreds\" of clinical waste vials are among thousands of tonnes of illegally dumped waste....",
-      "link": "https://www.bbc.com/news/articles/c5yekykrx25o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 01 May 2026 08:57:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Two months in, the Iran war has changed the global energy system forever",
       "description": "The conflict may be the beginning of the end of fossil fuel dominance. Here’s which energy sources stand to win and lose....",
       "link": "https://grist.org/energy/iran-war-oil-gas-coal-solar-nuclear/",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/72d0461391e81be1a358b75b08c3ff466162fa4a/494_0_4820_3856/master/4820.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf245916c41517979df0afa46f5e9b7a"
-    },
-    {
-      "title": "With food pressures mounting, Food Ladder greenhouse helps Sydney school harvest above the city streets",
-      "description": "As farmers across Australia face rising uncertainty around whether they will be able to plant or harvest crops this year – driven by rising fuel and f...",
-      "link": "https://econews.com.au/with-food-pressures-mounting-food-ladder-greenhouse-helps-sydney-school-harvest-above-the-city-streets/",
-      "pubDate": "Fri, 01 May 2026 06:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Report: ChatGPT enters Australia’s top 10 most visited websites, user prompts reach 21B a year",
-      "description": "BestBrokers.com As concerns about the potential slowing down of business for ChatGPT have been sinking the stocks of companies working with OpenAI, th...",
-      "link": "https://econews.com.au/report-chatgpt-enters-australias-top-10-most-visited-websites-user-prompts-reach-21b-a-year/",
-      "pubDate": "Fri, 01 May 2026 06:01:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
