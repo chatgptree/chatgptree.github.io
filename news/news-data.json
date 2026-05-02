@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-02T11:52:52.130Z",
+  "lastUpdated": "2026-05-02T13:39:18.088Z",
   "articles": [
+    {
+      "title": "‘They don’t belong in our environment’: US vineyards battle spotted lanternflies as invasive insects spread",
+      "description": "&lt;p&gt;From Virginia to New York, the bugs drain vines, cut yields and leave growers resorting to one simple fix: squash them&lt;/p&gt;&lt;p&gt;Arou...",
+      "link": "https://www.theguardian.com/us-news/2026/may/02/invasive-lantern-flies-us-vineyards",
+      "pubDate": "Sat, 02 May 2026 13:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/39e354d3a251e386d48c15584bd7c52077903f89/310_0_3580_2865/master/3580.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39e50f3d91fca16710d68eb0035fac6b"
+    },
+    {
+      "title": "The ramifications of record-shattering heat on the West’s ecosystems",
+      "description": "\"It was the worst possible way to end the winter that was already worse than normal.\"...",
+      "link": "https://grist.org/extreme-heat/the-ramifications-of-record-shattering-heat-on-the-wests-ecosystems/",
+      "pubDate": "Sat, 02 May 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-11.10.44-AM.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "‘Living in survival mode’: Houston’s embattled immigrant community faces health, climate and petrochemical crises",
+      "description": "&lt;p&gt;Amid immigration raids, chemical spills, massive floods and costly healthcare, less-affluent residents of one of the most diverse US cities s...",
+      "link": "https://www.theguardian.com/us-news/2026/may/02/houston-texas-immigrants-ice-health-extreme-weather",
+      "pubDate": "Sat, 02 May 2026 12:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/74e123f4aa928d203cd49b64d216f136a9d3f6a5/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2be1e79b48873389a0f3a697eaec19a2"
+    },
+    {
+      "title": "Rescuers release humpback whale that was stranded off German coast",
+      "description": "&lt;p&gt;Calf was transported by water-filled barge in operation deemed ‘inadvisable’ because of low chance of survival&lt;/p&gt;&lt;p&gt;Rescuers hav...",
+      "link": "https://www.theguardian.com/environment/2026/may/02/humpback-whale-rescue-release-stranded-germany-baltic-coast",
+      "pubDate": "Sat, 02 May 2026 11:38:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3c4c6658fb290f2ccd3dde8285ebe98449f0a8e4/172_0_465_372/master/465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a43b40b305c8bcda96dfa354cb5b3caf"
+    },
     {
       "title": "To give young people wings: The Lost Words duo reunite for book of birds",
       "description": "&lt;p&gt;Jackie Morris and Robert Macfarlane give the Guardian exclusive extracts as they aim to open eyes to the wonder of Britain’s declining and en...",
@@ -11,7 +47,7 @@
       "image": "https://i.guim.co.uk/img/media/fe14e2f20fbd73e6003dc2c45339358c914fd336/141_2148_5131_4103/master/5131.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4cf118a8994c3aed79d5661c2d87af8"
     },
     {
-      "title": "Sewage having 'alarming' impact on underwater forests along UK coast",
+      "title": "Sewage and pollution having 'alarming' impact on underwater forests along UK coast",
       "description": "Scientists found seagrass meadows affected by sewage had far fewer small invertebrates, like crabs....",
       "link": "https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 02 May 2026 10:46:54 GMT",
@@ -137,15 +173,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Octopus Energy boss: some people would accept blackouts if bills cut",
-      "description": "&lt;p&gt;Greg Jackson argues against costly investments in UK’s power grid that are adding to household bills&lt;/p&gt;&lt;p&gt;The boss of the UK’s b...",
-      "link": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
-      "pubDate": "Fri, 01 May 2026 16:02:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/73613d2270c68e3f1066f93ec0ba5cb619dc7a2e/1267_50_2959_2367/master/2959.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dde7a2c19b97ca9a2eea4bbf2225e82d"
-    },
-    {
       "title": "Eggs of elusive bird rescued by firefighters during wildfire",
       "description": "During a wildfire in Brookeborough, County Fermanagh on Thursday, a curlew nest directly in the fire's path was found....",
       "link": "https://www.bbc.com/news/articles/c2k20ggnqldo?at_medium=RSS&amp;at_campaign=rss",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Is this actually what Anne Boleyn looked like?",
-      "description": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be....",
-      "link": "https://www.bbc.com/news/videos/c3d2e581k7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 01 May 2026 14:44:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Energy, War and Climate Collide, a Conference in Colombia Charts a Path Beyond Fossil Fuels",
-      "description": "While some major fossil fuel producers keep pushing for expanded oil and gas use, which is linked to warfare, economic shocks and ecological damage, m...",
-      "link": "https://insideclimatenews.org/news/01052026/colombia-climate-summit-charts-path-beyond-fossil-fuels/",
-      "pubDate": "Fri, 01 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Two months in, the Iran war has changed the global energy system forever",
-      "description": "The conflict may be the beginning of the end of fossil fuel dominance. Here’s which energy sources stand to win and lose....",
-      "link": "https://grist.org/energy/iran-war-oil-gas-coal-solar-nuclear/",
-      "pubDate": "Fri, 01 May 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/GettyImages-2270935200-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
