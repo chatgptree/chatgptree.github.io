@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-03T11:54:31.368Z",
+  "lastUpdated": "2026-05-03T13:40:57.974Z",
   "articles": [
+    {
+      "title": "California will soon have more than 300 data centers. Where will they get their water?",
+      "description": "A proposed data center in the Imperial Valley would need 750,000 gallons of water a day. Satisfying the thirst of 24 more facilities expected to open ...",
+      "link": "https://grist.org/drought/california-will-soon-have-more-than-300-data-centers-where-will-they-get-their-water/",
+      "pubDate": "Sun, 03 May 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/imperialvalleydatacenter.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Reform UK council backs release of beavers amid party row over rewilding",
       "description": "&lt;p&gt;Councillors in Leicestershire support move in efforts to reduce flooding as Reform faces divisions on nature policy&lt;/p&gt;&lt;p&gt;A Refor...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 02 May 2026 10:46:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California Drivers Are Paying a More Than $6-a-Gallon Price for the War in Iran",
-      "description": "LOS ANGELES—At a Chevron station where the gas pump had a $6.49 cash price, Veronica Cervantes listed the concessions she’s made to afford the skyrock...",
-      "link": "https://insideclimatenews.org/news/02052026/california-gas-prices-iran-war/",
-      "pubDate": "Sat, 02 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
