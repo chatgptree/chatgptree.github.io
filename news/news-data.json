@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-05-03T04:01:55.317Z",
+  "lastUpdated": "2026-05-03T07:21:41.561Z",
   "articles": [
+    {
+      "title": "Stopping to admire wisteria and taking pride in your laundry? Join me in the land of grownups | Polly Hudson",
+      "description": "&lt;p&gt;I’ve recently noticed several signs of adulthood in my behaviour. At first I was horrified, but I have come to accept, even enjoy, the natura...",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/03/stopping-to-admire-wisteria-and-taking-pride-in-your-laundry-join-me-in-the-land-of-grownups",
+      "pubDate": "Sun, 03 May 2026 06:48:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dc4791f5c7ef473e6305e75756938297cb7d1c47/729_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=47e35f2373d3eb496df7b6e5367dd9ca"
+    },
+    {
+      "title": "No ban on over-the-counter pet flea treatments in Jersey",
+      "description": "It comes as the UK looks to restrict the products to vet visits....",
+      "link": "https://www.bbc.com/news/articles/cjdp50xn5kro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 03 May 2026 06:15:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'Mournes could take centuries to recover from wildfires'",
       "description": "One conservation expert says repeated fires in The Mournes are like \"death by a thousand cuts\". ...",
       "link": "https://www.bbc.com/news/articles/cevpy8r2e22o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 02 May 2026 23:01:57 GMT",
+      "pubDate": "Sun, 03 May 2026 05:23:06 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Art of Markets – FRAMEWORK",
+      "description": "Purchase your Copy One of the most counterintuitive insights that emerges from decades of institutional market experience is this: most opportunities ...",
+      "link": "https://econews.com.au/the-art-of-markets-framework/",
+      "pubDate": "Sun, 03 May 2026 04:02:33 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/FRAMEWORK-Back-Cover--683x1024.jpeg"
     },
     {
       "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
@@ -137,15 +164,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How ospreys were 'tricked' into breeding in Dorset",
-      "description": "Reintroducing ospreys to Dorset involved convincing birds they had been born there....",
-      "link": "https://www.bbc.com/news/articles/c15d52y4dnwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 02 May 2026 06:21:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Momentum building for Scottish-style land access rights in England, says film",
       "description": "&lt;p&gt;Documentary makers seek to start ‘informed conversation’ in country where public is allowed on just 8% of land&lt;/p&gt;&lt;p&gt;Anger and mo...",
       "link": "https://www.theguardian.com/environment/2026/may/02/momentum-building-for-scottish-style-land-access-rights-in-england-says-film",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/21a8051d436b804806e1165ab555e55aea1f2f15/363_83_815_652/master/815.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9be46632dfbc1076dc1ed64caa229445"
-    },
-    {
-      "title": "With Fertilizer Pollution on the Rise, Iowa Will Invest $100 Million in Water Treatment",
-      "description": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov. Kim Reynolds announced a “comprehensive legislative package” that will boo...",
-      "link": "https://insideclimatenews.org/news/01052026/iowa-water-treatment-from-fertilizer-pollution/",
-      "pubDate": "Fri, 01 May 2026 23:04:11 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Is this the real face of Anne Boleyn?",
-      "description": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced. ...",
-      "link": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 01 May 2026 23:01:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
