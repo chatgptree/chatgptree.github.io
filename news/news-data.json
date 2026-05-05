@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-05T06:24:30.600Z",
+  "lastUpdated": "2026-05-05T09:12:31.390Z",
   "articles": [
+    {
+      "title": "California’s Battery Array Is as Powerful as 12 Nuclear Power Plants. Here’s What’s on the Horizon.",
+      "description": "SAN FRANCISCO—As families settled into their evening routines in late March, cooking dinner on electric stoves and flipping on their TV for the newest...",
+      "link": "https://insideclimatenews.org/news/05052026/california-battery-power/",
+      "pubDate": "Tue, 05 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As PJM Reopens Interconnection Queue, Experts Warn Damage to Maryland’s Clean Energy Plans Is Already Done",
+      "description": "For the first time in four years, regional grid operator PJM Interconnection is adding new generation projects to its interconnection queue.&#160; PJM...",
+      "link": "https://insideclimatenews.org/news/05052026/as-pjm-reopens-interconnection-queue-experts-warn-damage-to-marylands-clean-energy-plans-is-already-done/",
+      "pubDate": "Tue, 05 May 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cities are rehearsing for deadly heat. Will it help when disaster comes?",
+      "description": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency s...",
+      "link": "https://grist.org/cities/cities-are-rehearsing-for-deadly-heat-will-it-help-when-disaster-comes/",
+      "pubDate": "Tue, 05 May 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Paris-heat-simulation-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "American homes need heat pumps, not space heaters",
+      "description": "The ultraefficient appliances don't just have to supplant gas furnaces, but space heaters as well....",
+      "link": "https://grist.org/buildings/american-homes-need-heat-pumps-not-space-heaters/",
+      "pubDate": "Tue, 05 May 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘The whale was not treated with the respect it deserved’: recriminations after carcass towed to Wollongong tip",
       "description": "&lt;p&gt;Tugboat tows carcass of ‘leviathan proportions’ 20km from Era beach to Bellambi boat ramp, attracting sharks, says councillor demanding inqui...",
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Point of no return’: New Orleans relocation must start now due to sea level, study finds",
-      "description": "&lt;p&gt;Louisiana’s cultural hotspot could be surrounded by Gulf of Mexico before end of this century, authors say&lt;/p&gt;&lt;p&gt;The process of r...",
-      "link": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
-      "pubDate": "Mon, 04 May 2026 09:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8b57e9379868c36a7d4ef87c011431873c0099ad/283_0_1751_1400/master/1751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b1863185ee6c0add5fd0603c6e57349"
-    },
-    {
-      "title": "War Harms the Environment. Can a Peace Treaty Repair the Damage?",
-      "description": "On a sweltering July day, 30 Kurdistan Workers’ Party fighters stripped the rifles from their backs and tossed them into a blazing fire. The symbolic ...",
-      "link": "https://insideclimatenews.org/news/04052026/kurdish-fighters-turkey-peace-talks-environmental-impact/",
-      "pubDate": "Mon, 04 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flooding in Chicago Is Getting Worse. Here’s Why.",
-      "description": "In a little-noticed memo early last year, Illinois scientists made a dire prediction. “Bulletin 76,” a communication from University of Illinois resea...",
-      "link": "https://insideclimatenews.org/news/04052026/chicago-flooding-climate-change/",
-      "pubDate": "Mon, 04 May 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hurricane Helene shattered lives — and the systems that keep people sober",
-      "description": "Recovery from substance use disorder requires community. What happens when a disaster tears that apart?...",
-      "link": "https://grist.org/health/hurricane-helene-shattered-lives-and-the-systems-that-keep-people-sober/",
-      "pubDate": "Mon, 04 May 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/Addiction-34.jpg?quality=75&amp;strip=all"
     }
   ]
 }
