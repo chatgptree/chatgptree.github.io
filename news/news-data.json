@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-06T06:38:33.692Z",
+  "lastUpdated": "2026-05-06T09:32:00.484Z",
   "articles": [
+    {
+      "title": "Colorado Warns of Severe Fire Risk in Southwestern States. It May be Difficult to Share Resources.",
+      "description": "BROOMFIELD, Colo.—Colorado’s top wildfire officials said they expect a significantly increased risk of wildfire this summer—and while they’ll partner ...",
+      "link": "https://insideclimatenews.org/news/06052026/colorado-severe-fire-risk-resources/",
+      "pubDate": "Wed, 06 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Keystone Light’: These Wyoming oil tycoons are reviving the controversial pipeline",
+      "description": "The Trump administration is rushing to approve a 650-mile pipeline to bring oil from Canada’s tar sands into the U.S....",
+      "link": "https://grist.org/energy/bridger-pipeline-keystone-true-companies-trump/",
+      "pubDate": "Wed, 06 May 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/GettyImages-466919882.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Democrats used to back energy-saving plans. Now they&#8217;re wavering.",
+      "description": "Why are politicians from both parties targeting measures that have saved Americans trillions of dollars? ...",
+      "link": "https://grist.org/politics/democrats-energy-saving-efficiency-maryland-rhode-island/",
+      "pubDate": "Wed, 06 May 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/04/shower-head.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "The uncertain future of the UN&#8217;s leading voice on Indigenous rights",
+      "description": "The U.N. Permanent Forum on Indigenous Issues is facing questions about its effectiveness amidst a broader U.N. budget crisis....",
+      "link": "https://grist.org/article/the-uncertain-future-of-the-uns-leading-voice-on-indigenous-rights/",
+      "pubDate": "Wed, 06 May 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/unfpii-2026-finance.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "'Fire weather' contributing to longer wildfire seasons, say scientists",
       "description": "Figures show that spring drought events are happening more often while there has been a sharp rise in \"fire weather\"....",
@@ -30,7 +66,7 @@
     },
     {
       "title": "Gibraltar dumping all of its raw sewage into Mediterranean",
-      "description": "&lt;p&gt;Wastewater from nearly 40,000 people and businesses pumped straight into sea as island still has no treatment plant&lt;/p&gt;&lt;p&gt;Raw sew...",
+      "description": "&lt;p&gt;Wastewater from nearly 40,000 people and businesses pumped straight into sea as territory still has no treatment plant&lt;/p&gt;&lt;p&gt;Raw ...",
       "link": "https://www.theguardian.com/world/2026/may/06/uk-territory-gibraltar-dumps-raw-sewage-mediterranean",
       "pubDate": "Wed, 06 May 2026 05:00:03 GMT",
       "sourceName": "theguardian.com",
@@ -144,42 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/04/Paris-heat-simulation-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "American homes need heat pumps, not space heaters",
-      "description": "The ultraefficient appliances don't just have to supplant gas furnaces, but space heaters as well....",
-      "link": "https://grist.org/buildings/american-homes-need-heat-pumps-not-space-heaters/",
-      "pubDate": "Tue, 05 May 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Companies pay out to charity after slurry incidents",
-      "description": "The three companies has paid out a total of £33,500 after the Environment Agency's investigations....",
-      "link": "https://www.bbc.com/news/articles/ce8p9ykpgzno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 05 May 2026 05:14:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildlife park welcomes three male Asiatic lions",
-      "description": "There are about 500 to 600 Asiatic lions left in the wild which only live in Gir Forest, India....",
-      "link": "https://www.bbc.com/news/articles/cjdp5j9x137o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 05 May 2026 05:04:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fugro’s O-Cell® technology supports construction of Fanga’uta Lagoon Bridge in Tonga",
-      "description": "Fugro has supported McConnell Dowell’s construction of the new Fanga?uta Lagoon Bridge in Tonga by performing Osterberg Cell® (O-Cell®) pile testing t...",
-      "link": "https://econews.com.au/fugros-o-cell-technology-supports-construction-of-fangauta-lagoon-bridge-in-tonga/",
-      "pubDate": "Tue, 05 May 2026 04:02:16 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-05T134637.833-1024x460.png"
     }
   ]
 }
