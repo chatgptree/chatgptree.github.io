@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-06T14:35:21.895Z",
+  "lastUpdated": "2026-05-06T16:49:16.851Z",
   "articles": [
+    {
+      "title": "Teens react to iconic David Attenborough moments",
+      "description": "To mark Attenborough's 100th birthday BBC Bitesize invited teens to react to some of his encounters....",
+      "link": "https://www.bbc.com/news/videos/cn9pvge9g80o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 06 May 2026 16:40:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Norwegian government attacked over decision to reopen North Sea gasfields",
+      "description": "&lt;p&gt;Approval for exploration in 70 new areas prompts fierce backlash from fossil fuel opponents  &lt;/p&gt;&lt;p&gt;The Norwegian government has ...",
+      "link": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
+      "pubDate": "Wed, 06 May 2026 15:25:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ca15b506fb0f651acc25514d7019a1e302832c6e/377_0_3975_3180/master/3975.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64e4f69a93a685ad03de687f8a910657"
+    },
+    {
+      "title": "Fears for 'hundreds' of young fish after pollution incident",
+      "description": "'Hundreds' of salmon may have died at Tievenny Burn in County Tyrone, anglers say....",
+      "link": "https://www.bbc.com/news/articles/c0k2g40rvkro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 06 May 2026 14:52:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Rural North Carolina fights back against PFAS contamination",
       "description": "A North Carolina nonprofit is taking on “forever chemicals” in rural communities....",
@@ -9,15 +36,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/05/Sheri-White-Williamson-12-1536x1024-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Fears for young fish after pollution incident",
-      "description": "'Hundreds' of salmon may have died at Tievenny Burn in County Tyrone, anglers say....",
-      "link": "https://www.bbc.com/news/articles/c0k2g40rvkro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 06 May 2026 12:39:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Massive Alaska megatsunami was second largest ever recorded",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Unsupermarket-logo-1_edited_edited.avif"
-    },
-    {
-      "title": "BSC establishes national Battery Advisory Panel as stewardship enters critical next phase",
-      "description": "Australia’s battery stewardship system is entering a more complex and regulated phase, with the Battery Stewardship Council (BSC) establishing a new B...",
-      "link": "https://econews.com.au/bsc-establishes-national-battery-advisory-panel-as-stewardship-enters-critical-next-phase/",
-      "pubDate": "Wed, 06 May 2026 03:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Built and Wesfarmers form Built Living Joint Venture to provide national affordable  housing solutions",
-      "description": "Built Group (Built) today has agreed to enter a 50:50 joint venture with Wesfarmers to establish Built Living, a new Australian offsite manufacturing ...",
-      "link": "https://econews.com.au/built-and-wesfarmers-form-built-living-joint-venture-to-provide-national-affordable-housing-solutions/",
-      "pubDate": "Wed, 06 May 2026 03:02:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/download-10.png"
     }
   ]
 }
