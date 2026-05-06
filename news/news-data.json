@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-06T09:32:00.484Z",
+  "lastUpdated": "2026-05-06T11:56:17.409Z",
   "articles": [
+    {
+      "title": "A reason to vote Labour tomorrow: we are the only party taking the climate crisis seriously | Katie White",
+      "description": "&lt;p&gt;Climate action is something the vast majority of Britons agree on. But even the Greens are blocking the vital infrastructure we need to elect...",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/06/vote-labour-climate-crisis-climate-action-infrastructure-electrify-britain",
+      "pubDate": "Wed, 06 May 2026 10:21:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dbbc7210910489dabc1ce02b87293b91e33cf157/842_382_3858_3087/master/3858.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1cd3c5756989b7d195818559d47b84e0"
+    },
+    {
+      "title": "How car-loving American cities fell so far behind their global peers on public transit",
+      "description": "&lt;p&gt;With most major European cities well-served by trains and buses, bringing US transit up to par would cost $4.6tn&lt;/p&gt;&lt;p&gt;The only t...",
+      "link": "https://www.theguardian.com/environment/2026/may/06/american-cities-cars-public-transportation",
+      "pubDate": "Wed, 06 May 2026 10:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5772444d3099b5408ea212d384190fe53cc5a781/1_0_4998_4000/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b8ffce03e6ce7841a427d4f0a1bd14b"
+    },
+    {
+      "title": "From V2 rocket-scarred London to Ukraine: how nature thrives in bomb craters",
+      "description": "&lt;p&gt;In the UK capital, Bomb Crater Pond is full of wildlife, while scientists studying land obliterated by recent Russian blasts 1,500 miles away...",
+      "link": "https://www.theguardian.com/environment/2026/may/06/london-to-ukraine-how-nature-is-thriving-in-bomb-craters",
+      "pubDate": "Wed, 06 May 2026 10:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/adc556e1ff9d4ae84366ab64e3084b0b8ce969f1/627_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c88515c39748d17852d4641b5cda3430"
+    },
     {
       "title": "Colorado Warns of Severe Fire Risk in Southwestern States. It May be Difficult to Share Resources.",
       "description": "BROOMFIELD, Colo.—Colorado’s top wildfire officials said they expect a significantly increased risk of wildfire this summer—and while they’ll partner ...",
@@ -38,7 +65,7 @@
       "image": "https://grist.org/wp-content/uploads/2026/04/unfpii-2026-finance.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "'Fire weather' contributing to longer wildfire seasons, say scientists",
+      "title": "Why is NI facing a growing threat from wildfires?",
       "description": "Figures show that spring drought events are happening more often while there has been a sharp rise in \"fire weather\"....",
       "link": "https://www.bbc.com/news/articles/c0729z88z37o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 06 May 2026 05:18:27 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c2b5f9254df8efcf93c281a6b8f9230e15a0421b/1271_331_4611_3688/master/4611.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd8e657dfedbd364613b51c7b27e8577"
-    },
-    {
-      "title": "California’s Battery Array Is as Powerful as 12 Nuclear Power Plants. Here’s What’s on the Horizon.",
-      "description": "SAN FRANCISCO—As families settled into their evening routines in late March, cooking dinner on electric stoves and flipping on their TV for the newest...",
-      "link": "https://insideclimatenews.org/news/05052026/california-battery-power/",
-      "pubDate": "Tue, 05 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As PJM Reopens Interconnection Queue, Experts Warn Damage to Maryland’s Clean Energy Plans Is Already Done",
-      "description": "For the first time in four years, regional grid operator PJM Interconnection is adding new generation projects to its interconnection queue.&#160; PJM...",
-      "link": "https://insideclimatenews.org/news/05052026/as-pjm-reopens-interconnection-queue-experts-warn-damage-to-marylands-clean-energy-plans-is-already-done/",
-      "pubDate": "Tue, 05 May 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cities are rehearsing for deadly heat. Will it help when disaster comes?",
-      "description": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency s...",
-      "link": "https://grist.org/cities/cities-are-rehearsing-for-deadly-heat-will-it-help-when-disaster-comes/",
-      "pubDate": "Tue, 05 May 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/Paris-heat-simulation-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
