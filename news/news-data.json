@@ -1,9 +1,54 @@
 {
-  "lastUpdated": "2026-05-07T06:45:27.895Z",
+  "lastUpdated": "2026-05-07T09:41:25.918Z",
   "articles": [
     {
+      "title": "A New Enbridge Pipeline Spurs Opposition in Central North Carolina",
+      "description": "SILER CITY, N.C.—John Alderman opened the letter, sent by certified mail from an attorney in New Orleans.&#160; This is trouble, Alderman thought. It ...",
+      "link": "https://insideclimatenews.org/news/07052026/duke-energy-north-carolina-enbridge-pipeline-opposition/",
+      "pubDate": "Thu, 07 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Faster Slaughterhouse Line Speeds Are Increasingly a Climate Problem",
+      "description": "Jill Mauer spent more than 30 years as a government inspector, watching over meat plants as workers slaughtered and processed animals into market-read...",
+      "link": "https://insideclimatenews.org/news/07052026/meat-processing-line-speeds-climate-problem/",
+      "pubDate": "Thu, 07 May 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Close calls at Michigan&#8217;s dams are a climate warning to America",
+      "description": "Record flooding pushed Michigan's dams to the brink of disaster. The near miss reflects the national problem of infrastructure that is not suited to t...",
+      "link": "https://grist.org/extreme-weather/close-calls-at-michigans-dams-are-a-climate-warning-to-america/",
+      "pubDate": "Thu, 07 May 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/image.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Police search for thieves who allegedly stole $150,000 worth of beehives from rural NSW property",
+      "description": "&lt;p&gt;Local beekeeper Mitch McLennan says hive thefts have become ‘quite commonplace’ due to rise of parasitic varroa mites&lt;/p&gt;&lt;ul&gt;&lt;...",
+      "link": "https://www.theguardian.com/australia-news/2026/may/07/police-search-for-thieves-who-stole-150000-worth-of-beehives-from-rural-nsw-property-ntwnfb",
+      "pubDate": "Thu, 07 May 2026 07:17:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ad538451ad766d59955726f8560a7abf3af708be/242_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f54bfbbc47366203e09c6420e57187d8"
+    },
+    {
+      "title": "Gas companies will be forced to set aside local supply under major Labor shakeup",
+      "description": "&lt;p&gt;Albanese government announces east coast gas reservation policy, which will require producers to set aside 20% of export volumes&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/australia-news/2026/may/07/gas-companies-forced-to-set-aside-local-supply-under-major-labor-shakeup",
+      "pubDate": "Thu, 07 May 2026 06:31:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bd17b97c005b5f001da83a88871d8cab8957ff17/522_0_5198_4161/master/5198.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da9823259bc07ba82b23d80c8a6fcc2b"
+    },
+    {
       "title": "Climate campaigners attack Shell over ‘windfall’ profits from Iran war",
-      "description": "&lt;p&gt;Firm benefits from conflict to rake in $6.9bn as higher energy prices turbocharge profits&lt;/p&gt;&lt;p&gt;Shell has reported better than ex...",
+      "description": "&lt;p&gt;Firm benefits from conflict to rake in $6.9bn as higher energy prices turbocharge profits&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"h...",
       "link": "https://www.theguardian.com/business/2026/may/07/climate-campaigners-attack-shell-over-windfall-profits-from-iran-war",
       "pubDate": "Thu, 07 May 2026 06:14:20 GMT",
       "sourceName": "theguardian.com",
@@ -92,24 +137,6 @@
       "image": "https://i.guim.co.uk/img/media/2979879e13c1ec38fcfe749355fb396a43f78867/730_0_3732_2987/master/3732.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dcaff7442e5f4c80f4c438f4b76a5cf"
     },
     {
-      "title": "Gas companies will be forced to set aside local supply under major Labor shakeup",
-      "description": "&lt;p&gt;Albanese government announces east coast gas reservation policy, which will require producers to set aside 20% of export volumes&lt;/p&gt;&lt...",
-      "link": "https://www.theguardian.com/australia-news/2026/may/07/gas-companies-forced-to-set-aside-local-supply-under-major-labor-shakeup",
-      "pubDate": "Thu, 07 May 2026 03:11:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bd17b97c005b5f001da83a88871d8cab8957ff17/522_0_5198_4161/master/5198.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da9823259bc07ba82b23d80c8a6fcc2b"
-    },
-    {
-      "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
-      "description": "&lt;p&gt;Powerful property and farming firm Grosvenor Group says knock-on effect of Iran war could arrive next year&lt;/p&gt;&lt;p&gt;Fertiliser short...",
-      "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-      "pubDate": "Wed, 06 May 2026 21:30:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/092d4ed5c9128efab0181ae7fcc8c25a3b2d2429/152_0_2293_1834/master/2293.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=011387fef8393b57486df515ee6fd46b"
-    },
-    {
       "title": "Teens react to iconic David Attenborough moments",
       "description": "To mark Attenborough's 100th birthday BBC Bitesize invited teens to react to some of his encounters....",
       "link": "https://www.bbc.com/news/videos/cn9pvge9g80o?at_medium=RSS&amp;at_campaign=rss",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Massive Alaska megatsunami was second largest ever recorded",
-      "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves....",
-      "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 06 May 2026 12:00:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Alaska’s 2025 mega tsunami highlights risk to cruise lines as glaciers retreat",
-      "description": "&lt;p&gt;Researchers say 481-metre wave in fjord was triggered by rockslide linked to climate crisis&lt;/p&gt;&lt;p&gt;A mega tsunami in &lt;a href=\"h...",
-      "link": "https://www.theguardian.com/us-news/2026/may/06/alaska-mega-tsunami-climate-change-glacier",
-      "pubDate": "Wed, 06 May 2026 12:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/084de7bfc33345255e43f5a758a5e20ef9afccc0/610_0_6141_4912/master/6141.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dddf342d1e95e6920f7b67b7294369f1"
-    },
-    {
-      "title": "A reason to vote Labour tomorrow: we are the only party taking the climate crisis seriously | Katie White",
-      "description": "&lt;p&gt;Climate action is something the vast majority of Britons agree on. But even the Greens are blocking the vital infrastructure we need to elect...",
-      "link": "https://www.theguardian.com/commentisfree/2026/may/06/vote-labour-climate-crisis-climate-action-infrastructure-electrify-britain",
-      "pubDate": "Wed, 06 May 2026 10:21:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dbbc7210910489dabc1ce02b87293b91e33cf157/842_382_3858_3087/master/3858.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1cd3c5756989b7d195818559d47b84e0"
     }
   ]
 }
