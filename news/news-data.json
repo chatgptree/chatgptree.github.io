@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-07T14:38:43.181Z",
+  "lastUpdated": "2026-05-07T16:58:45.946Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "We explore whether Pluto should regain its title as the solar system’s ninth planet...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977k?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 07 May 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate campaigners attack Shell over ‘windfall’ profits from Iran war",
+      "description": "&lt;p&gt;Firm benefits from conflict to rake in $6.9bn as higher energy prices turbocharge profits&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"h...",
+      "link": "https://www.theguardian.com/business/2026/may/07/climate-campaigners-attack-shell-over-windfall-profits-from-iran-war",
+      "pubDate": "Thu, 07 May 2026 15:40:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c9aeabe71b3e70f8bcfe587e7b1d314ef9203801/340_0_3345_2677/master/3345.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0e8522091f062561fbb84fec02310a3"
+    },
     {
       "title": "The objects that escaped from the museum: magical spectacle Return to the Forest – in pictures",
       "description": "&lt;p&gt;A trip to a museum becomes an unexpected adventure in a new immersive family show by Theatre-Rites and Factory International&lt;/p&gt; &lt;a ...",
@@ -9,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/94a1ef11e7d8aeb6a65ec3198c6b13887b900be2/290_0_3949_3162/master/3949.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e09dd70c2e0f99b0edb0b2c55710430"
-    },
-    {
-      "title": "Climate campaigners attack Shell over ‘windfall’ profits from Iran war",
-      "description": "&lt;p&gt;Firm benefits from conflict to rake in $6.9bn as higher energy prices turbocharge profits&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"h...",
-      "link": "https://www.theguardian.com/business/2026/may/07/climate-campaigners-attack-shell-over-windfall-profits-from-iran-war",
-      "pubDate": "Thu, 07 May 2026 12:09:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c9aeabe71b3e70f8bcfe587e7b1d314ef9203801/340_0_3345_2677/master/3345.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0e8522091f062561fbb84fec02310a3"
     },
     {
       "title": "Diesel prices squeeze US farmers ‘barely getting by’ amid tariffs and drought",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/image002-16-1024x323.jpg"
-    },
-    {
-      "title": "Teens react to iconic David Attenborough moments",
-      "description": "To mark Attenborough's 100th birthday BBC Bitesize invited teens to react to some of his encounters....",
-      "link": "https://www.bbc.com/news/videos/cn9pvge9g80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 06 May 2026 16:40:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
