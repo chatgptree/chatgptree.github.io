@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-08T10:44:34.885Z",
+  "lastUpdated": "2026-05-08T12:14:31.575Z",
   "articles": [
+    {
+      "title": "Meet the Americans who choose to live without a car in the US: ‘It takes some doing’",
+      "description": "&lt;p&gt;Guardian readers in the US share how they get around their cities without driving in such a car-dominated country &lt;/p&gt;&lt;p&gt;We asked...",
+      "link": "https://www.theguardian.com/environment/2026/may/08/americans-without-cars-driving-dominated-country",
+      "pubDate": "Fri, 08 May 2026 12:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/204265796d6134886937dcb41e6d6f83a32bacd4/839_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dcf624ba9aa936b130588bc7b897edb"
+    },
+    {
+      "title": "‘Everything went black. Then fire poured down’: one man’s terror onboard a ship hit in the Iran war",
+      "description": "&lt;p&gt;In an exclusive interview, a seafarer describes the strike on the MKD Vyom in the Gulf of Oman that killed his friend and crewmate, Dixit Sol...",
+      "link": "https://www.theguardian.com/environment/2026/may/08/everything-went-black-then-fire-poured-down-one-mans-terror-onboard-a-ship-hit-in-the-iran-war",
+      "pubDate": "Fri, 08 May 2026 11:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/adef39aae47764ae5454360db09f23820e05a66d/154_0_1535_1228/master/1535.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8b8f83f82178405965c4ffca97d6dc3"
+    },
     {
       "title": "David Attenborough's 'secret superpower' celebrated on 100th birthday",
       "description": "BBC producers talk about working with Sir David Attenborough on his 100th birthday....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1008788659b7ebe3578cf826b057e7043f56c622/2077_68_1159_927/master/1159.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e7a5ee6716fea0d2a5e66f16df89209"
-    },
-    {
-      "title": "How sunburn inspired a new way to store energy",
-      "description": "Molecules that can capture heat could be a useful technology to decarbonise heating. ...",
-      "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 07 May 2026 23:03:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "We explore whether Pluto should regain its title as the solar system’s ninth planet...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977k?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 07 May 2026 20:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
