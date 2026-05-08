@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-07T22:09:40.781Z",
+  "lastUpdated": "2026-05-08T00:00:44.912Z",
   "articles": [
+    {
+      "title": "How sunburn inspired a new way to store energy",
+      "description": "Molecules that can capture heat could be a useful technology to decarbonise heating. ...",
+      "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 07 May 2026 23:03:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "We explore whether Pluto should regain its title as the solar system’s ninth planet...",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Tetra Pak to showcase how innovation drives growth and scalable outcomes at foodpro 2026",
-      "description": " Tetra Pak Control Room Tetra Pak Oceania will demonstrate how innovation moves beyond ideas and into real, scalable manufacturing outcomes – helping ...",
-      "link": "https://econews.com.au/tetra-pak-to-showcase-how-innovation-drives-growth-and-scalable-outcomes-at-foodpro-2026/",
-      "pubDate": "Thu, 07 May 2026 05:01:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/tetra-pak-logo-1.png"
     }
   ]
 }
