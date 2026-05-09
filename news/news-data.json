@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-09T04:28:58.445Z",
+  "lastUpdated": "2026-05-09T07:14:28.018Z",
   "articles": [
+    {
+      "title": "Why Gen Z birdwatchers are flocking to reserves",
+      "description": "Bempton Cliffs, one of the UK's largest sanctuaries, has seen a notable rise in younger twitchers....",
+      "link": "https://www.bbc.com/news/articles/cdjpdm9v7gno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 09 May 2026 06:19:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Sir David Attenborough built 'Green Hollywood'",
+      "description": "The city is responsible for 80% of the world's natural history TV shows....",
+      "link": "https://www.bbc.com/news/articles/cg4pkqv1lewo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 09 May 2026 06:13:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "David Pocock applauds $387m in extra funding for CSIRO after tens of thousands sign petition",
       "description": "&lt;p&gt;Analysis commissioned by independent senator found national science agency’s funding is at its lowest since 1978&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
@@ -43,15 +61,6 @@
       "link": "https://insideclimatenews.org/news/08052026/colorado-drought-threatens-rural-drinking-water/",
       "pubDate": "Fri, 08 May 2026 17:42:46 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "From primates to climate - ten of David Attenborough's best documentaries",
-      "description": "From hanging out with primates to early climate warnings, here's a selection of his trailblazing programmes. ...",
-      "link": "https://www.bbc.com/news/articles/cevevg98125o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 08 May 2026 14:38:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8131a42a15eb21e8dedaacb33e622b2b488a8cd1/307_0_3065_2452/master/3065.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e6b394bb4e97b61f72f3e3e3ca7ed03"
-    },
-    {
-      "title": "Volvo Penta and Aus Ships have announced a landmark collaboration to develop Australia’s first 100% electric passenger ferry, marking a significant step.",
-      "description": "Volvo Penta and Aus Ships collaborate on Australia’s first fully electric passenger ferry. In a significant step forward for sustainable marine transp...",
-      "link": "https://econews.com.au/volvo-penta-and-aus-ships-have-announced-a-landmark-collaboration-to-develop-australias-first-100-electric-passenger-ferry-marking-a-significant-step/",
-      "pubDate": "Fri, 08 May 2026 06:02:31 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Aus-Ships-ELECTRIC-Ferry-Ghosted-1024x581.jpg"
     }
   ]
 }
