@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-09T22:55:58.747Z",
+  "lastUpdated": "2026-05-09T23:57:02.843Z",
   "articles": [
+    {
+      "title": "How tiny 'backpacks' and sniffer dogs could save hedgehogs from extinction",
+      "description": "The project uses GPS 'backpacks' to track the hedgehogs as they become an increasingly rare sight....",
+      "link": "https://www.bbc.com/news/articles/c775rz4ey66o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 09 May 2026 23:06:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Sean Duffy faces backlash for new family reality show: ‘unfocused and out of touch’",
       "description": "&lt;p&gt;US transportation secretary announces The Great American Road Trip amid transportation crises and rising fuel prices&lt;/p&gt;&lt;p&gt;Sean D...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Meet the Americans who choose to live without a car in the US: ‘It takes some doing’",
-      "description": "&lt;p&gt;Guardian readers in the US share how they get around their cities without driving in such a car-dominated country &lt;/p&gt;&lt;p&gt;We asked...",
-      "link": "https://www.theguardian.com/environment/2026/may/08/americans-without-cars-driving-dominated-country",
-      "pubDate": "Fri, 08 May 2026 12:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/204265796d6134886937dcb41e6d6f83a32bacd4/839_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dcf624ba9aa936b130588bc7b897edb"
     }
   ]
 }
