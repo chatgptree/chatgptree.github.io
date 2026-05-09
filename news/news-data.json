@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-09T11:03:36.477Z",
+  "lastUpdated": "2026-05-09T13:43:58.319Z",
   "articles": [
+    {
+      "title": "In coal country, black lung surges as federal protections stall",
+      "description": "While the Trump administration is directing hundreds of millions of dollars to coal projects, miners in Appalachia are suffering from a resurgence of ...",
+      "link": "https://grist.org/health/in-coal-country-black-lung-surges-as-federal-protections-stall/",
+      "pubDate": "Sat, 09 May 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/coalie-featimg.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "‘Closing the chapter’ on Fema: Trump panel seeks to weaken disaster response amid climate crisis",
+      "description": "&lt;p&gt;Council’s plan will leave Federal Emergency Management Agency ill-equipped to respond to extreme weather events, experts say&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/us-news/2026/may/09/trump-council-fema-disaster-preparedness",
+      "pubDate": "Sat, 09 May 2026 12:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bd176232075c66f9baf39bb43109a0c497ffe9a1/508_0_4630_3702/master/4630.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e46ff03491a53bdc6f150ee62f4034b"
+    },
     {
       "title": "Nature recovery zones inspired by Attenborough",
       "description": "Gloucestershire Wildlife Trust says the campaign, focusing on nature recovery, is its biggest yet....",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
-      "description": "&lt;p&gt;Promises to cut emissions and use more fuel-efficient planes fail to stop rise, with Ryanair’s carbon footprint 50% up on 2019&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
-      "pubDate": "Fri, 08 May 2026 10:30:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/75a05f8a307067fa9a7bf8f025c1d60bea4f8d7a/496_0_1506_1205/master/1506.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca56530b50e85af180eced32cd4e427c"
-    },
-    {
-      "title": "‘The worst time for wheat’: US farmers face losses to extreme heat and drought",
-      "description": "&lt;p&gt;Temperature swings have left crops across the Plains in terrible conditions, with some farmers opting not to harvest&lt;/p&gt;&lt;p&gt;Merril...",
-      "link": "https://www.theguardian.com/environment/2026/may/08/wheat-farmers-face-loss-crops-heat-drought",
-      "pubDate": "Fri, 08 May 2026 10:00:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b0b988050ccd01dbf70748149828d9bc60f4e545/666_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8eb400b1f409e39ea7d36c7c98b821fb"
     }
   ]
 }
