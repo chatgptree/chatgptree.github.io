@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-08T22:04:54.787Z",
+  "lastUpdated": "2026-05-09T00:02:34.635Z",
   "articles": [
+    {
+      "title": "Trump administration relaxing hunting restrictions in US parks and refuges",
+      "description": "&lt;p&gt;After January order from US department of the interior, managers across 55 sites have lifted prohibitions&lt;/p&gt;&lt;p&gt;Donald &lt;a href...",
+      "link": "https://www.theguardian.com/us-news/2026/may/08/trump-administration-hunting-national-parks",
+      "pubDate": "Fri, 08 May 2026 23:09:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/492b6d3741cb16a7adbdf11b226b33b555a01b6f/335_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e7c372dbf205358acbef9bb553ce75e"
+    },
+    {
+      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+      "description": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena....",
+      "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 08 May 2026 22:04:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "King Charles features in surprise birthday tribute to David Attenborough",
       "description": "&lt;p&gt;Whimsical film shows relay of animals carrying centennial card from Balmoral Castle to naturalist in London&lt;/p&gt;&lt;p&gt;King Charles ha...",
@@ -20,7 +38,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "From primates to climates - ten of Attenborough's best documentaries",
+      "title": "From primates to climate - ten of David Attenborough's best documentaries",
       "description": "From hanging out with primates to early climate warnings, here's a selection of his trailblazing programmes. ...",
       "link": "https://www.bbc.com/news/articles/cevevg98125o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 08 May 2026 14:38:10 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://econews.com.au/wp-content/uploads/2026/05/Energy-Minister-Chris-Bowen-addresses-Smart-Energy-Conference-Sydney-6-May-2026-683x1024-200x300.jpg"
-    },
-    {
-      "title": "Rare white-tailed eagles draw crowds of watchers",
-      "description": "Photographers travel across the country to catch a glimpse of the birds in Christchurch....",
-      "link": "https://www.bbc.com/news/articles/cwy2g5xpwgpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 08 May 2026 04:57:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Celebrating David Attenborough's 100th birthday in the South",
-      "description": "As Sir David Attenborough turns 100 years old, here is how he helped nature in Hampshire and Dorset....",
-      "link": "https://www.bbc.com/news/articles/cgjp5zqxv36o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 08 May 2026 04:56:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
