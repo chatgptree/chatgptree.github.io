@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-09T15:00:37.673Z",
+  "lastUpdated": "2026-05-09T17:03:19.860Z",
   "articles": [
+    {
+      "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
+      "description": "&lt;p&gt;Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar error&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+      "pubDate": "Sat, 09 May 2026 16:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/21cd8c4dd6b45f172b3127a755cd58f87745944b/908_7_1739_1392/master/1739.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c9d8d6c1a184ae46296416015b4b046"
+    },
     {
       "title": "In coal country, black lung surges as federal protections stall",
       "description": "While the Trump administration is directing hundreds of millions of dollars to coal projects, miners in Appalachia are suffering from a resurgence of ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/adef39aae47764ae5454360db09f23820e05a66d/154_0_1535_1228/master/1535.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8b8f83f82178405965c4ffca97d6dc3"
-    },
-    {
-      "title": "David Attenborough's 'secret superpower' celebrated on 100th birthday",
-      "description": "BBC producers talk about working with Sir David Attenborough on his 100th birthday....",
-      "link": "https://www.bbc.com/news/articles/c232kl5g13jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 08 May 2026 10:40:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
