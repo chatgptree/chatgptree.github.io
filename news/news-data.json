@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-09T07:14:28.018Z",
+  "lastUpdated": "2026-05-09T09:39:56.566Z",
   "articles": [
+    {
+      "title": "New Jersey Leads the Nation in Superfund Sites as EPA Funding Cuts and Staff Reductions Threaten Cleanups",
+      "description": "New Jersey is home to nearly 9 percent of the nation’s Superfund sites—more than any other state. They range from chemical plants with toxic byproduct...",
+      "link": "https://insideclimatenews.org/news/09052026/epa-cuts-threaten-new-jersey-superfund-sites-cleanup/",
+      "pubDate": "Sat, 09 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Smog, Lies and Pineapples: How LA Cleaned up Its Air and What’s Left to Do",
+      "description": "As a child growing up in Southern California, Ann Carlson remembers mountains obscured by haze and yellowish brown air that stung her eyes and made he...",
+      "link": "https://insideclimatenews.org/news/09052026/los-angeles-smog-history/",
+      "pubDate": "Sat, 09 May 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Inside the Indigenous Fight to Save Alaska’s Bristol Bay",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with Alannah Hurley, ...",
+      "link": "https://insideclimatenews.org/news/09052026/alaska-tribes-fight-to-save-bristol-bay-from-mining/",
+      "pubDate": "Sat, 09 May 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How sunburn inspired a new way to store energy",
+      "description": "Molecules that can capture heat could be a useful technology to decarbonise heating. ...",
+      "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 09 May 2026 08:28:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why Gen Z birdwatchers are flocking to reserves",
       "description": "Bempton Cliffs, one of the UK's largest sanctuaries, has seen a notable rise in younger twitchers....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d0af48edaa5f0059ada28c38fa4425d3680bf65e/734_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c612838caecb1b53b3f6d3271e63cb5"
-    },
-    {
-      "title": "How Climate Change Makes Your Allergies Worse",
-      "description": "It’s not in your head. Climate change is contributing to longer and more severe pollen seasons across the Northern Hemisphere. Dr. Neelima Tummala, an...",
-      "link": "https://insideclimatenews.org/news/08052026/pollen-allergies-climate-change/",
-      "pubDate": "Fri, 08 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The solution to urban heat is much, much simpler than you think",
-      "description": "No shade, but cities aren’t planting enough trees....",
-      "link": "https://grist.org/cities/the-solution-to-urban-heat-is-much-much-simpler-than-you-think/",
-      "pubDate": "Fri, 08 May 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/pocket-garden.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Trump is trying to kill a carbon tax on global shipping. He may not succeed.",
-      "description": "The U.S. has threatened countries that support the tax with visa restrictions, tariffs, and port fees. But a slim majority of U.N. nations are still b...",
-      "link": "https://grist.org/international/carbon-tax-shipping-international-maritime-organization-net-zero/",
-      "pubDate": "Fri, 08 May 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Week in wildlife: a chonky sea lion, amorous toads and an adorable gosling",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/may/08...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/may/08/week-in-wildlife-a-chonky-sea-lion-amorous-toads-and-an-adorable-gosling",
-      "pubDate": "Fri, 08 May 2026 07:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8131a42a15eb21e8dedaacb33e622b2b488a8cd1/307_0_3065_2452/master/3065.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e6b394bb4e97b61f72f3e3e3ca7ed03"
     }
   ]
 }
