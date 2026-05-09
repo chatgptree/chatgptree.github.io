@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-09T09:39:56.566Z",
+  "lastUpdated": "2026-05-09T11:03:36.477Z",
   "articles": [
+    {
+      "title": "Nature recovery zones inspired by Attenborough",
+      "description": "Gloucestershire Wildlife Trust says the campaign, focusing on nature recovery, is its biggest yet....",
+      "link": "https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 09 May 2026 10:27:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "New Jersey Leads the Nation in Superfund Sites as EPA Funding Cuts and Staff Reductions Threaten Cleanups",
       "description": "New Jersey is home to nearly 9 percent of the nation’s Superfund sites—more than any other state. They range from chemical plants with toxic byproduct...",
@@ -75,7 +84,7 @@
     },
     {
       "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-      "description": "The US has published transcripts, video clips and audio recordings about unidentified flying objects, also called unidentified anomalous phenomena....",
+      "description": "The US has published transcripts, video clips and audio recordings about unidentified flying objects....",
       "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 08 May 2026 22:04:55 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b0b988050ccd01dbf70748149828d9bc60f4e545/666_0_3334_2667/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8eb400b1f409e39ea7d36c7c98b821fb"
-    },
-    {
-      "title": "Inequality causing 100,000 extra deaths a year from heat and cold in Europe",
-      "description": "&lt;p&gt;Findings come after third-hottest April on record globally and amid fears of more brutal European summer weather&lt;/p&gt;&lt;p&gt;Economic i...",
-      "link": "https://www.theguardian.com/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
-      "pubDate": "Fri, 08 May 2026 09:29:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d0af48edaa5f0059ada28c38fa4425d3680bf65e/734_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c612838caecb1b53b3f6d3271e63cb5"
     }
   ]
 }
