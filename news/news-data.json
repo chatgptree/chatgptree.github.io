@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-10T11:05:31.027Z",
+  "lastUpdated": "2026-05-10T13:47:00.134Z",
   "articles": [
+    {
+      "title": "This summer, the American water crisis becomes real",
+      "description": "Concerns over water access are poised to consume summer in the U.S., as crises in Corpus Christi and across the Colorado River threaten to boil over....",
+      "link": "https://grist.org/drought/this-summer-the-american-water-crisis-becomes-real/",
+      "pubDate": "Sun, 10 May 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/western-snowpack-drought-summer-water.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "A deadly bacteria is creeping up the US east coast. How worried should we be?",
+      "description": "&lt;p&gt;Warming ocean waters are priming beaches and raw shellfish for Vibrio even as scientists are trying to stay one step ahead&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/environment/2026/may/10/vibrio-bacteria-east-coast-climate-change",
+      "pubDate": "Sun, 10 May 2026 12:30:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b297e0ffc51ecd2c2907b176beacceefd057750c/279_0_2019_1616/master/2019.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f24a54c0a3492485b8de97d1bf3ae5a6"
+    },
+    {
+      "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
+      "description": "&lt;p&gt;Vitória Régia imagines rightwing Bolsonaro plot succeeded with US help – and  highlights threats facing Indigenous peoples&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
+      "pubDate": "Sun, 10 May 2026 12:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b5132bd78ca48b4ff60b663feef93036d9c88015/591_0_1213_970/master/1213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d115e7064de6f4e539fa1af2f8ad4717"
+    },
     {
       "title": "Plugging Away at the Millions of Derelict Oil and Gas Wells in the US",
       "description": "OKMULGEE, Okla.—There are a few truisms in the oil and gas industry: It is crowded with prodigious egos, there is always a boom around the corner and ...",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How sunburn inspired a new way to store energy",
-      "description": "Molecules that can capture heat could be a useful technology to decarbonise heating. ...",
-      "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 09 May 2026 08:28:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "David Pocock applauds $387m in extra funding for CSIRO after tens of thousands sign petition",
-      "description": "&lt;p&gt;Analysis commissioned by independent senator found national science agency’s funding is at its lowest since 1978&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
-      "link": "https://www.theguardian.com/australia-news/2026/may/09/david-pocock-applauds-3874m-in-extra-funding-for-csiro-after-tens-of-thousands-sign-petition",
-      "pubDate": "Sat, 09 May 2026 02:31:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/be3200f1f5efdde225108d66dbe6d0359505c73a/329_513_3584_2868/master/3584.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54a758e12c9c8babd108ed8786aa8d0c"
-    },
-    {
-      "title": "Trump administration relaxing hunting restrictions in US parks and refuges",
-      "description": "&lt;p&gt;After January order from US department of the interior, managers across 55 sites have lifted prohibitions&lt;/p&gt;&lt;p&gt;Donald &lt;a href...",
-      "link": "https://www.theguardian.com/us-news/2026/may/08/trump-administration-hunting-national-parks",
-      "pubDate": "Fri, 08 May 2026 23:09:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/492b6d3741cb16a7adbdf11b226b33b555a01b6f/335_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e7c372dbf205358acbef9bb553ce75e"
     }
   ]
 }
