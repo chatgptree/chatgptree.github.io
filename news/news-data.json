@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-05-11T05:02:29.610Z",
+  "lastUpdated": "2026-05-11T09:56:32.628Z",
   "articles": [
+    {
+      "title": "Wild Blueberry Farms Across Maine Suffer as Climate Change Upends Growing Seasons",
+      "description": "Last summer, the wild blueberry fields at Crystal Spring Farm turned red too soon.&#160; Severe drought had gripped most of the state of Maine. At his...",
+      "link": "https://insideclimatenews.org/news/11052026/maine-wild-blueberry-farms-climate-change/",
+      "pubDate": "Mon, 11 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Orleans wants to fix its Mardi Gras mess. So why is the trash pile still growing?",
+      "description": "This year's Carnival resulted in 1.4 tons of beads, beer cans, and other trash along the city’s parade routes — the highest total on record....",
+      "link": "https://grist.org/cities/mardi-gras-trash-record-new-orleans-carnival-beads/",
+      "pubDate": "Mon, 11 May 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/nola-mardi-gras-attendance-trash-light.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Weekly Update – Global Fertiliser Markets – w/e 08.05.2026: Global urea markets cool as affordability pressure builds across",
+      "description": "Global fertiliser markets softened this week as affordability constraints, geopolitical uncertainty, and diverging regional supply conditions continue...",
+      "link": "https://econews.com.au/weekly-update-global-fertiliser-markets-w-e-08-05-2026-global-urea-markets-cool-as-affordability-pressure-builds-across/",
+      "pubDate": "Mon, 11 May 2026 07:01:49 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-11T163118.172.png"
+    },
+    {
+      "title": "Surplus food gets a second life as Australia looks for ways to cut landfill waste",
+      "description": "Leading Australian pet brand is revolutionising repurposed food and turning it into pup-approved goodness that’s also good for the planet Australia wa...",
+      "link": "https://econews.com.au/surplus-food-gets-a-second-life-as-australia-looks-for-ways-to-cut-landfill-waste/",
+      "pubDate": "Mon, 11 May 2026 07:01:48 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Storm-Bikkies-769x1024.jpg"
+    },
+    {
+      "title": "Strong field lines up for Gold Coast waste-to-energy project",
+      "description": "Gold Coast Mayor and ARRC Chair Tom Tate A who’s who of local and international residual waste-to-energy proponents have flagged their preliminary int...",
+      "link": "https://econews.com.au/strong-field-lines-up-for-gold-coast-waste-to-energy-project/",
+      "pubDate": "Mon, 11 May 2026 07:01:47 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Britain and Ireland’s wildflowers – in pictures",
+      "description": "&lt;p&gt;The Eden Project’s National Wildflower Centre is opening entries for its &lt;a href=\"https://www.edenproject.com/wildflower-photo\"&gt;Wildflo...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/11/britain-ireland-wildflowers-photographer-of-the-year-competition-in-pictures",
+      "pubDate": "Mon, 11 May 2026 07:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fd6d4e09823506b2e915cd734bb781e8a3e545bc/0_1313_4864_3887/master/4864.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f393dd4309f15585716a277cdf1b0ef1"
+    },
     {
       "title": "Canopy Accelerator Cooperative is on a winning streak!",
       "description": "Canopy Accelerator Cooperative is on a winning streak! We’re thrilled to share that Canopy Accelerator Cooperative took home the Runner-up prize at th...",
@@ -124,60 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c775rz4ey66o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 09 May 2026 23:06:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sean Duffy faces backlash for new family reality show: ‘unfocused and out of touch’",
-      "description": "&lt;p&gt;US transportation secretary announces The Great American Road Trip amid transportation crises and rising fuel prices&lt;/p&gt;&lt;p&gt;Sean D...",
-      "link": "https://www.theguardian.com/us-news/2026/may/09/sean-duffy-great-american-road-trip-reality-show",
-      "pubDate": "Sat, 09 May 2026 20:25:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9f2f52fe0e8df469eff8805e4f52a87c707acbae/210_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ef6bc6c7f3126a3ce75dc6c0f0d2e6a"
-    },
-    {
-      "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
-      "description": "&lt;p&gt;Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar error&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
-      "pubDate": "Sat, 09 May 2026 16:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/21cd8c4dd6b45f172b3127a755cd58f87745944b/908_7_1739_1392/master/1739.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c9d8d6c1a184ae46296416015b4b046"
-    },
-    {
-      "title": "In coal country, black lung surges as federal protections stall",
-      "description": "While the Trump administration is directing hundreds of millions of dollars to coal projects, miners in Appalachia are suffering from a resurgence of ...",
-      "link": "https://grist.org/health/in-coal-country-black-lung-surges-as-federal-protections-stall/",
-      "pubDate": "Sat, 09 May 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/coalie-featimg.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "‘Closing the chapter’ on Fema: Trump panel seeks to weaken disaster response amid climate crisis",
-      "description": "&lt;p&gt;Council’s plan will leave Federal Emergency Management Agency ill-equipped to respond to extreme weather events, experts say&lt;/p&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/us-news/2026/may/09/trump-council-fema-disaster-preparedness",
-      "pubDate": "Sat, 09 May 2026 12:00:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bd176232075c66f9baf39bb43109a0c497ffe9a1/508_0_4630_3702/master/4630.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e46ff03491a53bdc6f150ee62f4034b"
-    },
-    {
-      "title": "Nature recovery zones inspired by Attenborough",
-      "description": "Gloucestershire Wildlife Trust says the campaign, focusing on nature recovery, is its biggest yet....",
-      "link": "https://www.bbc.com/news/articles/c62eje88wy3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 09 May 2026 10:27:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New Jersey Leads the Nation in Superfund Sites as EPA Funding Cuts and Staff Reductions Threaten Cleanups",
-      "description": "New Jersey is home to nearly 9 percent of the nation’s Superfund sites—more than any other state. They range from chemical plants with toxic byproduct...",
-      "link": "https://insideclimatenews.org/news/09052026/epa-cuts-threaten-new-jersey-superfund-sites-cleanup/",
-      "pubDate": "Sat, 09 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
