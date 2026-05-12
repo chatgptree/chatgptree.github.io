@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-12T20:44:39.221Z",
+  "lastUpdated": "2026-05-12T22:18:18.512Z",
   "articles": [
+    {
+      "title": "An Unusual Heat Wave Strains the World’s Most Populous Country",
+      "description": "Every one of the world’s 50 hottest cities was located inside India at the end of April—a global weather-tracking anomaly, according to a major air-qu...",
+      "link": "https://insideclimatenews.org/news/12052026/todays-climate-india-heat-wave-health-financial-risks/",
+      "pubDate": "Tue, 12 May 2026 21:42:40 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Report: Nevada&#8217;s lithium boom comes at the expense of Indigenous rights",
+      "description": "As demand for critical minerals surges, Indigenous leaders and Amnesty International say mining projects are advancing without tribal consent....",
+      "link": "https://grist.org/indigenous/report-nevadas-lithium-boom-comes-at-the-expense-of-indigenous-rights/",
+      "pubDate": "Tue, 12 May 2026 20:55:29 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "As El Niño Approaches, Scientists Predict Fierce Heatwaves, Wildfires and Floods",
       "description": "Scientists said this week that a developing El Niño is likely to amplify heatwaves, droughts and floods this year, but warned that the long-term warmi...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Some Climate Shocks Can Increase the Likelihood of War",
-      "description": "New research reinforces scientific evidence that climate extremes can raise the risk of armed conflict, especially when drought conditions pass critic...",
-      "link": "https://insideclimatenews.org/news/11052026/climate-change-role-in-war/",
-      "pubDate": "Mon, 11 May 2026 19:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Supermarket foods claiming to be ‘natural’ or ‘sustainable’ mostly just using marketing terms, researchers find",
-      "description": "&lt;p&gt;Survey of 27,000 Australian supermarket items found some products boasting environmental benefits had significantly higher emissions than unl...",
-      "link": "https://www.theguardian.com/environment/2026/may/11/supermarket-foods-claiming-to-be-natural-or-sustainable-mostly-just-using-marketing-terms-researchers-find",
-      "pubDate": "Mon, 11 May 2026 15:08:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9000dec617b84f735342c542a655dc35d7a63855/0_145_4155_3326/master/4155.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8dae0717801365e1cac8ddfa1aac3e2"
     }
   ]
 }
