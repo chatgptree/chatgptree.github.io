@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-13T13:22:28.118Z",
+  "lastUpdated": "2026-05-13T16:26:58.598Z",
   "articles": [
+    {
+      "title": "New Paper Shows Surges of Concentrated Precipitation Can Lead to Dryer Landscapes",
+      "description": "Scientists have uncovered a new driver of aridification, potentially reshaping how drought across the globe is understood. A new study published Wedne...",
+      "link": "https://insideclimatenews.org/news/13052026/concentrated-precipitation-causing-dryer-landscapes/",
+      "pubDate": "Wed, 13 May 2026 16:07:26 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New revelations show WA is putting Australia’s climate targets at risk. Will Anthony Albanese do anything about it? | Clear Air",
+      "description": "&lt;p&gt;Premier Roger Cook has the prime minister’s implicit support but he’s making it harder for federal Labor to meet its much-vaunted climate tar...",
+      "link": "https://www.theguardian.com/environment/2026/may/14/wa-western-australia-climate-targets-at-risk",
+      "pubDate": "Wed, 13 May 2026 15:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a30d25f486525ebee6f28648c75bf91489dba2e7/358_22_3105_2485/master/3105.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c51880707a969e9d9f5ffbabf20d314"
+    },
     {
       "title": "Nissan ponders building cars for Chinese rivals at Sunderland plant",
       "description": "&lt;p&gt;CEO admits talks with Chery as other European carmakers discuss plans with Chinese firms to share factory space&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
@@ -47,7 +65,7 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Financial-Pop-Ups3-683x1024.jpg"
     },
     {
-      "title": "20 Years After ‘An Inconvenient Truth,’ Al Gore Grapples With the (Big) Wrinkle of Artificial Intelligence",
+      "title": "20 Years After ‘An Inconvenient Truth,’ Al Gore Grapples With the (Big) Wrinkle of AI",
       "description": "NASHVILLE, Tenn.—Former Vice President Al Gore is knocking on wood. Seated in front of portraits of Johnny Cash and Prince inside The Pinnacle, a Nash...",
       "link": "https://insideclimatenews.org/news/13052026/al-gore-discusses-artificial-intelligence-data-centers/",
       "pubDate": "Wed, 13 May 2026 09:00:00 +0000",
@@ -56,7 +74,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "After a Century Powering Its Growth with Dams, Seattle Settles With Tribes That Lost Their River",
+      "title": "After a Century Powering Its Growth With Dams, Seattle Settles With Tribes That Lost Their River",
       "description": "NEWHALEM, Wash.—More than a century ago, Seattle City Light broke ground for a massive hydroelectric project here in a remote gorge of the North Casca...",
       "link": "https://insideclimatenews.org/news/13052026/seattle-tribes-skagit-river-dam-settlement/",
       "pubDate": "Wed, 13 May 2026 08:55:00 +0000",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump’s rollback of toxic gas rules limits EPA’s authority to protect public health, analysis says",
-      "description": "&lt;p&gt;Ethylene oxide (EtO) is about 60 times more carcinogenic than believed in 2006, research finds&lt;/p&gt;&lt;p&gt;A new &lt;a href=\"https://ww...",
-      "link": "https://www.theguardian.com/us-news/2026/may/12/trump-rollback-eto-pollution-epa",
-      "pubDate": "Wed, 13 May 2026 02:04:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b8b64494685d3e214c351bca28f6ea0744886de4/760_0_6600_5282/master/6600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5bce610e30dbaf4a40cfc7ff67d82576"
-    },
-    {
-      "title": "Jim Chalmers’ budget doesn’t fix everything – but it’s an overdue first payment to future generations | Ken Henry",
-      "description": "&lt;p&gt;The treasurer has shown economic reforms should not be left to the too-hard basket, and instead be pursued with a sense of urgency&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/may/13/australia-budget-2026-jim-chalmers-economic-reforms-tax-changes-future-generations",
-      "pubDate": "Wed, 13 May 2026 01:57:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e566c42ee2e9e3c28912ed56d8192a2e3db560be/2654_323_5471_4377/master/5471.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b30b4dda029f708fb2087222fb99ea03"
     }
   ]
 }
