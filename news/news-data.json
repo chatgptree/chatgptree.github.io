@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-13T10:37:33.121Z",
+  "lastUpdated": "2026-05-13T13:22:28.118Z",
   "articles": [
+    {
+      "title": "Nissan ponders building cars for Chinese rivals at Sunderland plant",
+      "description": "&lt;p&gt;CEO admits talks with Chery as other European carmakers discuss plans with Chinese firms to share factory space&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/business/2026/may/13/nissan-ponders-building-cars-for-chinese-rivals-at-sunderland-plant-chery",
+      "pubDate": "Wed, 13 May 2026 11:54:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a27e1979ab8d7d341567ac204ad8430d96ba07eb/688_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53bd13818ac4b69ad203f762411f7099"
+    },
+    {
+      "title": "‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan",
+      "description": "&lt;p&gt;Facility would require more power than entire state uses and suck up vast amount of water in drought-stricken area&lt;/p&gt;&lt;p&gt;A plan t...",
+      "link": "https://www.theguardian.com/us-news/2026/may/13/utah-approves-datacenter-backlash",
+      "pubDate": "Wed, 13 May 2026 11:30:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/79c8662e52b56a119045586e7ce809422f785fb9/0_0_5001_4002/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba56f58c6908be4dd186aa8d6431264c"
+    },
+    {
+      "title": "'Alarming-looking' caterpillar webs in park 'harmless'",
+      "description": "Butterfly Conservation says while the effect of the webs \"can look alarming\", they protect against predators....",
+      "link": "https://www.bbc.com/news/articles/c5yx7ljr7yzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 13 May 2026 11:16:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Launch of ECOsmart sustainability certification Greengage Solutions in Australia",
       "description": "Greengage Solutions CEO Andrew Perolls (5th from left) with the team from Discover the World (including CEO Ian Murray (4th from left) at a recent mee...",
@@ -40,7 +67,7 @@
     {
       "title": "Wall Street is betting big on clean energy tech",
       "description": "Fervo Energy's IPO could raise $1.8 billion in one of the largest renewable energy public offerings ever, signaling growing investor confidence in cle...",
-      "link": "https://grist.org/energy/wall-street-is-betting-big-on-clean-energy-tech/",
+      "link": "https://grist.org/economics/wall-street-is-betting-big-on-clean-energy-tech/",
       "pubDate": "Wed, 13 May 2026 08:45:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e566c42ee2e9e3c28912ed56d8192a2e3db560be/2654_323_5471_4377/master/5471.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b30b4dda029f708fb2087222fb99ea03"
-    },
-    {
-      "title": "Labour must fulfil promise to introduce clean air act, charities urge",
-      "description": "&lt;p&gt;Party held out prospect of act while in opposition but plan did not make it into election manifesto&lt;/p&gt;&lt;p&gt;Ministers should bring ...",
-      "link": "https://www.theguardian.com/environment/2026/may/13/labour-must-fulfil-promise-to-introduce-clean-air-act-charities-urge",
-      "pubDate": "Tue, 12 May 2026 23:02:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9842b09cdc5bee85f2faf612a76190bd7543b35e/366_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a0f322eff8734ff690e48183b922df5"
-    },
-    {
-      "title": "Don’t reach for the bug spray: scientists find insects may feel pain after crickets nurse sore antennae",
-      "description": "&lt;p&gt;The behavioural cue of ‘flexible self-protection’ is a way to establish whether an animal feels pain, scientists say&lt;/p&gt;&lt;ul&gt;&lt;l...",
-      "link": "https://www.theguardian.com/science/2026/may/13/insects-feel-pain-research",
-      "pubDate": "Tue, 12 May 2026 23:01:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7007be2d10ba6579ce7f45074f0b9823142d6a2c/272_332_4062_3251/master/4062.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbe79a9772b8ea7bd03d48eb9fde7094"
-    },
-    {
-      "title": "An Unusual Heat Wave Strains the World’s Most Populous Country",
-      "description": "Every one of the world’s 50 hottest cities was located inside India at the end of April—a global weather-tracking anomaly, according to a major air-qu...",
-      "link": "https://insideclimatenews.org/news/12052026/todays-climate-india-heat-wave-health-financial-risks/",
-      "pubDate": "Tue, 12 May 2026 21:42:40 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
