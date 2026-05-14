@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-14T10:27:52.212Z",
+  "lastUpdated": "2026-05-14T12:58:12.815Z",
   "articles": [
+    {
+      "title": "Salmon farm faces new cruelty claims as Trump seeks to supersize fish farming",
+      "description": "&lt;p&gt;New undercover video appears to show cruel treatment of salmon at Cooke hatchery amid push for ‘chickenification’ of fish&lt;/p&gt;&lt;p&gt;T...",
+      "link": "https://www.theguardian.com/environment/2026/may/14/seafood-company-abuse-claims-fish-farming",
+      "pubDate": "Thu, 14 May 2026 12:30:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1161b4bfcb95360c51f4b07484ba1c98814b4525/0_0_1280_1024/master/1280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7073d0b3f4a6eb06d2ed6d7b0846fc15"
+    },
+    {
+      "title": "How a kindergarten teacher became the accidental guardian of 200 king penguins",
+      "description": "&lt;p&gt;When the birds started nesting on her land at Useless Bay, Chile, Cecilia Durán Gafo decided she would protect them from people and predators...",
+      "link": "https://www.theguardian.com/environment/2026/may/14/continental-king-penguin-colony-useless-bay-chile",
+      "pubDate": "Thu, 14 May 2026 11:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/11944a782bbf173cd574e1402f50f13b3a8129c7/966_0_4831_3865/master/4831.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1623120902fb876e65e302722b1eedbc"
+    },
+    {
+      "title": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
+      "description": "&lt;p&gt;Environmentalists hail decline but warn weakened laws could reverse gains&lt;/p&gt;&lt;p&gt;Brazil’s Atlantic forest, the country’s most thre...",
+      "link": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record",
+      "pubDate": "Thu, 14 May 2026 10:29:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0ef39889425fc1d20713fc0691061cd09d9cf944/315_0_3560_2848/master/3560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a96b1252fb058f95c0904426866c31"
+    },
     {
       "title": "As tick bites surge, conspiracy theories follow",
       "description": "Where scientists see climate change at work, others see the designs of a global cabal....",
@@ -146,15 +173,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Typical English roast dinner potentially ‘drenched’ in 102 pesticides, says report",
-      "description": "&lt;p&gt;Greenpeace finds cocktail of pesticides including seven banned in EU may have been used on seven categories of vegetables and soft fruit&lt;/...",
-      "link": "https://www.theguardian.com/environment/2026/may/14/typical-english-roast-dinner-potentially-drenched-in-102-pesticides-says-report",
-      "pubDate": "Wed, 13 May 2026 23:01:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0d03d90bf19b6bda46f3e0de52de911dce95b589/126_0_3780_3024/master/3780.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1150239fbf5c32941abe196ff8eeb64"
-    },
-    {
       "title": "Florida Temporarily Bans Sloth Imports After Dozens Die at Orlando Business",
       "description": "Florida has temporarily halted importation of sloths following the deaths of dozens of the wild-born mammals at a now-shuttered Orlando business, a mo...",
       "link": "https://insideclimatenews.org/news/13052026/florida-temporarily-bans-sloth-imports/",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Canada's Mark Carney speaks with Artemis II crew on Earth",
-      "description": "The prime minister met Canadian astronaut Jeremy Hansen and other crew members in Ottawa.\n...",
-      "link": "https://www.bbc.com/news/videos/c4g7z2j2mr6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 13 May 2026 17:02:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Roots of resilience: the experts working to bolster apples against the climate crisis",
-      "description": "&lt;p&gt;Scientists are focusing on improving apples’ resilience after stressors like wild temperature swings and drought&lt;/p&gt;&lt;p&gt;Terence Ro...",
-      "link": "https://www.theguardian.com/environment/2026/may/13/apples-orchards-climate-crisis-scientists",
-      "pubDate": "Wed, 13 May 2026 17:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b29ccfeae9d9398846b821559e536b0e5c25bfce/0_39_4480_3584/master/4480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c97110b055dd7b3177abf5bab0f3b15b"
     }
   ]
 }
