@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-14T07:49:02.344Z",
+  "lastUpdated": "2026-05-14T10:27:52.212Z",
   "articles": [
+    {
+      "title": "As tick bites surge, conspiracy theories follow",
+      "description": "Where scientists see climate change at work, others see the designs of a global cabal....",
+      "link": "https://grist.org/health/as-tick-bites-surge-conspiracy-theories-follow/",
+      "pubDate": "Thu, 14 May 2026 10:10:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2018/08/tick_collecting.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "First crypto, now data centers: How tech is reshaping this North Carolina community",
+      "description": "Cryptocurrency mines are being repurposed to power the AI boom, sparking a regional backlash....",
+      "link": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/",
+      "pubDate": "Thu, 14 May 2026 10:05:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/GettyImages-1235716024_data-center-construction.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "The Brazilian government keeps giving out mining licenses in the Amazon – in spite of evidence of gold ‘laundering’",
+      "description": "An InfoAmazonia investigation found patterns of illegal gold laundering in the Tapajós River basin in Pará state, where Indigenous communities like th...",
+      "link": "https://grist.org/accountability/the-brazilian-government-keeps-giving-out-mining-licenses-in-the-amazon-in-spite-of-evidence-of-gold-laundering/",
+      "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/20260226_Poxo_Muybu_baixares_61-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "New York Plastics Law Advances Amid Debate Over ‘Chemical Recycling’",
+      "description": "Legislation that would reduce plastic waste in New York is advancing in the state Legislature amid a contentious debate over chemical recycling. If it...",
+      "link": "https://insideclimatenews.org/news/14052026/new-york-plastics-bill-advances/",
+      "pubDate": "Thu, 14 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Amazon Deforestation at Eight-Year Low, Report Shows",
+      "description": "The number of deforested kilometers in the Brazilian Amazon between August 2025 and March 2026 fell by 36 percent compared to the previous year, accor...",
+      "link": "https://insideclimatenews.org/news/14052026/amazon-deforestation-drops-while-wildfires-increase/",
+      "pubDate": "Thu, 14 May 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "City's historic Assembly Rooms to be repaired",
       "description": "York Conservation Trust says the Grade I-listed building needs work to its roof and portico....",
@@ -12,7 +57,7 @@
     },
     {
       "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
-      "description": "&lt;p&gt;If resolution is passed governments will have legal responsibility to cut greenhouse gas emissions&lt;/p&gt;&lt;p&gt;The UN’s willingness to ...",
+      "description": "&lt;p&gt;If resolution is passed, governments will recognise&lt;strong&gt; &lt;/strong&gt;their legal responsibility to cut greenhouse gas emissions&l...",
       "link": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
       "pubDate": "Thu, 14 May 2026 07:00:20 GMT",
       "sourceName": "theguardian.com",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b29ccfeae9d9398846b821559e536b0e5c25bfce/0_39_4480_3584/master/4480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c97110b055dd7b3177abf5bab0f3b15b"
-    },
-    {
-      "title": "New Paper Shows Surges of Concentrated Precipitation Can Lead to Dryer Landscapes",
-      "description": "Scientists have uncovered a new driver of aridification, potentially reshaping how drought across the globe is understood. A new study published Wedne...",
-      "link": "https://insideclimatenews.org/news/13052026/concentrated-precipitation-causing-dryer-landscapes/",
-      "pubDate": "Wed, 13 May 2026 16:07:26 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New revelations show WA is putting Australia’s climate targets at risk. Will Anthony Albanese do anything about it? | Clear Air",
-      "description": "&lt;p&gt;Premier Roger Cook has the prime minister’s implicit support but he’s making it harder for federal Labor to meet its much-vaunted climate tar...",
-      "link": "https://www.theguardian.com/environment/2026/may/14/wa-western-australia-climate-targets-at-risk",
-      "pubDate": "Wed, 13 May 2026 15:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a30d25f486525ebee6f28648c75bf91489dba2e7/358_22_3105_2485/master/3105.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c51880707a969e9d9f5ffbabf20d314"
-    },
-    {
-      "title": "‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan",
-      "description": "&lt;p&gt;Facility would require more power than entire state uses and suck up vast amount of water in drought-stricken area&lt;/p&gt;&lt;p&gt;A plan t...",
-      "link": "https://www.theguardian.com/us-news/2026/may/13/utah-approves-datacenter-backlash",
-      "pubDate": "Wed, 13 May 2026 11:30:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/79c8662e52b56a119045586e7ce809422f785fb9/0_0_5001_4002/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba56f58c6908be4dd186aa8d6431264c"
-    },
-    {
-      "title": "'Alarming-looking' caterpillar webs in park 'harmless'",
-      "description": "Butterfly Conservation says while the effect of the webs \"can look alarming\", they protect against predators....",
-      "link": "https://www.bbc.com/news/articles/c5yx7ljr7yzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 13 May 2026 11:16:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Launch of ECOsmart sustainability certification Greengage Solutions in Australia",
-      "description": "Greengage Solutions CEO Andrew Perolls (5th from left) with the team from Discover the World (including CEO Ian Murray (4th from left) at a recent mee...",
-      "link": "https://econews.com.au/launch-of-ecosmart-sustainability-certification-greengage-solutions-in-australia/",
-      "pubDate": "Wed, 13 May 2026 09:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
