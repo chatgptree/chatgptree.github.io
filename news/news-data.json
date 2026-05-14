@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-05-14T18:02:48.233Z",
+  "lastUpdated": "2026-05-14T20:39:36.724Z",
   "articles": [
     {
       "title": "BBC Inside Science",
       "description": "What do we know about the disease following its outbreak on a cruise ship this month?...",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct977l?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 14 May 2026 16:00:00 GMT",
+      "pubDate": "Thu, 14 May 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Watchdog groups urge Senate to investigate Samuel Alito over oil stock conflicts",
+      "description": "&lt;p&gt;Groups say supreme court justice, who owns oil stocks, may be violating ethics codes by participating in certain cases&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/us-news/2026/may/14/alito-stock-conflicts-senate-investigation",
+      "pubDate": "Thu, 14 May 2026 18:08:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d451cfc588ceb00bd2b0ddadcc0ac01ca82a3a0b/616_0_6164_4934/master/6164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c311b838f7a407b50702862006eaf23"
     },
     {
       "title": "Salmon farm faces new cruelty claims as Trump seeks to supersize fish farming",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-14T112011.201-1024x491.png"
-    },
-    {
-      "title": "Florida to Close Alligator Alcatraz, News Report Says",
-      "description": "Florida plans to shut down the Everglades migrant detention site known as Alligator Alcatraz as soon as early June, according to a news report. Offici...",
-      "link": "https://insideclimatenews.org/news/13052026/florida-everglades-migrant-detention-facility-to-close/",
-      "pubDate": "Wed, 13 May 2026 23:24:53 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
