@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-15T04:56:17.921Z",
+  "lastUpdated": "2026-05-15T08:09:01.627Z",
   "articles": [
+    {
+      "title": "Once dismissed as weeds, native plants are now flying off the shelves",
+      "description": "Gardeners across the country are flocking to climate-resilient native plants as concerns about extreme heat, flooding, and pollinators grow....",
+      "link": "https://grist.org/solutions/once-dismissed-as-weeds-native-plants-are-now-flying-off-the-shelves/",
+      "pubDate": "Fri, 15 May 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/KILBOURNPLANTSALE_2605070600-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Week in wildlife: super-rare bongos, ducks on parade and Marmalade the Thames seal",
+      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/may/15...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/15/week-in-wildlife-super-rare-bongos-ducks-on-parade-and-marmalade-the-thames-seal",
+      "pubDate": "Fri, 15 May 2026 07:41:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d81e46231c90d67f0e22b30568c66b4ee1916f98/804_0_6134_4910/master/6134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b9450d8cdf007ccca967529b87f0188"
+    },
+    {
+      "title": "UK Agritech Innovators Heading to New Zealand to Road-Test the Future of Farming",
+      "description": "Auckland, NZ – Six UK agritech innovators developing technologies spanning AI-enabled livestock systems, digital-twin carbon tracking, circular agricu...",
+      "link": "https://econews.com.au/uk-agritech-innovators-heading-to-new-zealand-to-road-test-the-future-of-farming/",
+      "pubDate": "Fri, 15 May 2026 07:01:52 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "EcoCeres and Bridge Data Centres Complete First HVO-Powered Backup Fuel Pilot for Data Centres in Asia Pacific",
+      "description": "EcoCeres, a global leader in the innovation and commercialization of renewable fuels and green molecules, and Bridge Data Centres (BDC), a Singapore-h...",
+      "link": "https://econews.com.au/ecoceres-and-bridge-data-centres-complete-first-hvo-powered-backup-fuel-pilot-for-data-centres-in-asia-pacific/",
+      "pubDate": "Fri, 15 May 2026 07:01:52 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-15T161600.360.png"
+    },
+    {
+      "title": "Keeping water meters cosy this winter",
+      "description": "As frosty mornings return, safeguarding your water meter can help protect your pipes, keep your water flowing and avoid unnecessary disruptions. Great...",
+      "link": "https://econews.com.au/keeping-water-meters-cosy-this-winter/",
+      "pubDate": "Fri, 15 May 2026 07:01:51 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-15T161058.919.png"
+    },
+    {
+      "title": "Construction begins on NSW’s first end-to-end green hydrogen hub",
+      "description": "Penny Sharpe Minister for Climate Change Minister for Energy Minister for the Environment Minister for Heritage Leader of the Government in the Legisl...",
+      "link": "https://econews.com.au/construction-begins-on-nsws-first-end-to-end-green-hydrogen-hub/",
+      "pubDate": "Fri, 15 May 2026 07:01:49 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
+    },
+    {
+      "title": "A woolly solution to NI's peatland problems?",
+      "description": "Could locally-sourced wool restore peatlands and reduce the carbon cost of conservation?...",
+      "link": "https://www.bbc.com/news/articles/cm2p7prl47jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 15 May 2026 05:40:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Britons to vote in inaugural contest to find nation’s favourite butterfly",
+      "description": "&lt;p&gt;Butterfly Conservation poll is open until 7 June with choice of 60 species from small tortoiseshells to purple emperors&lt;/p&gt;&lt;p&gt;Wil...",
+      "link": "https://www.theguardian.com/environment/2026/may/15/britain-vote-contest-find-nation-favourite-butterfly",
+      "pubDate": "Fri, 15 May 2026 05:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7e552e6e278e483231a3d9bcbe31d8416ccf6b08/17_40_1709_1367/master/1709.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15f656a0e4664eeef9b4abee93a79d7c"
+    },
     {
       "title": "'Don't swim' at 12 of 14 river bathing sites, as more locations announced",
       "description": "Too much bacteria linked to faeces found at almost all England's designated river bathing sites...",
@@ -85,7 +157,7 @@
     {
       "title": "BBC Inside Science",
       "description": "What do we know about the disease following its outbreak on a cruise ship this month?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977l?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 14 May 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -108,78 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/11944a782bbf173cd574e1402f50f13b3a8129c7/966_0_4831_3865/master/4831.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1623120902fb876e65e302722b1eedbc"
-    },
-    {
-      "title": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
-      "description": "&lt;p&gt;Environmentalists hail decline but warn weakened laws could reverse gains&lt;/p&gt;&lt;p&gt;Brazil’s Atlantic forest, the country’s most thre...",
-      "link": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record",
-      "pubDate": "Thu, 14 May 2026 10:29:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0ef39889425fc1d20713fc0691061cd09d9cf944/315_0_3560_2848/master/3560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a96b1252fb058f95c0904426866c31"
-    },
-    {
-      "title": "As tick bites surge, conspiracy theories follow",
-      "description": "Where scientists see climate change at work, others see the designs of a global cabal....",
-      "link": "https://grist.org/health/as-tick-bites-surge-conspiracy-theories-follow/",
-      "pubDate": "Thu, 14 May 2026 10:10:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2018/08/tick_collecting.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "First crypto, now data centers: How tech is reshaping this North Carolina community",
-      "description": "Cryptocurrency mines are being repurposed to power the AI boom, sparking a regional backlash....",
-      "link": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/",
-      "pubDate": "Thu, 14 May 2026 10:05:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/GettyImages-1235716024_data-center-construction.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The Brazilian government keeps giving out mining licenses in the Amazon – in spite of evidence of gold ‘laundering’",
-      "description": "An InfoAmazonia investigation found patterns of illegal gold laundering in the Tapajós River basin in Pará state, where Indigenous communities like th...",
-      "link": "https://grist.org/accountability/the-brazilian-government-keeps-giving-out-mining-licenses-in-the-amazon-in-spite-of-evidence-of-gold-laundering/",
-      "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/05/20260226_Poxo_Muybu_baixares_61-1.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "New York Plastics Law Advances Amid Debate Over ‘Chemical Recycling’",
-      "description": "Legislation that would reduce plastic waste in New York is advancing in the state Legislature amid a contentious debate over chemical recycling. If it...",
-      "link": "https://insideclimatenews.org/news/14052026/new-york-plastics-bill-advances/",
-      "pubDate": "Thu, 14 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Amazon Deforestation at Eight-Year Low, Report Shows",
-      "description": "The number of deforested kilometers in the Brazilian Amazon between August 2025 and March 2026 fell by 36 percent compared to the previous year, accor...",
-      "link": "https://insideclimatenews.org/news/14052026/amazon-deforestation-drops-while-wildfires-increase/",
-      "pubDate": "Thu, 14 May 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "City's historic Assembly Rooms to be repaired",
-      "description": "York Conservation Trust says the Grade I-listed building needs work to its roof and portico....",
-      "link": "https://www.bbc.com/news/articles/cdxp5z0k4gvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 14 May 2026 07:14:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
-      "description": "&lt;p&gt;If resolution is passed, governments will recognise&lt;strong&gt; &lt;/strong&gt;their legal responsibility to cut greenhouse gas emissions&l...",
-      "link": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
-      "pubDate": "Thu, 14 May 2026 07:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8224237cc1c696dca72ceba8b6f39e3b28a14852/384_0_3837_3070/master/3837.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a400566e7e45f747bf2ef3fb1e967cba"
     }
   ]
 }
