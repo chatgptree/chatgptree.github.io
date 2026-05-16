@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-16T08:53:26.319Z",
+  "lastUpdated": "2026-05-16T10:22:40.082Z",
   "articles": [
+    {
+      "title": "Florida tightens rules on capturing giant manta rays but stops short of full ban",
+      "description": "&lt;p&gt;Move follows upsetting viral video of ray being manhandled into unmarked boat in Florida waters last year&lt;/p&gt;&lt;p&gt;Wildlife official...",
+      "link": "https://www.theguardian.com/us-news/2026/may/16/florida-giant-manta-rays-capture-rules",
+      "pubDate": "Sat, 16 May 2026 10:00:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e7562ae64d4095c87453363eed77e22fde16eb1d/1039_0_4922_3938/master/4922.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=42c904c69b298cdc526740c12a1406ce"
+    },
+    {
+      "title": "World Health Organization Must Prioritize Workers, Experts Say",
+      "description": "Every year, hundreds of millions of people around the world suffer from workplace injuries or illnesses, and nearly 3 million die from job-related acc...",
+      "link": "https://insideclimatenews.org/news/16052026/world-health-organization-worker-safety/",
+      "pubDate": "Sat, 16 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "After Snowy Winter Delays Prevention, New Jersey Faces Rising Wildfire Risk",
+      "description": "The New Jersey Forest Fire Service this month announced an elevated risk for fire spread across Delaware and parts of New Jersey. Conditions aligned—h...",
+      "link": "https://insideclimatenews.org/news/16052026/new-jersey-wildfire-risk-after-snowy-winter-delays-prescribed-burns/",
+      "pubDate": "Sat, 16 May 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What the US Would Lose If It Eliminates the National Center for Atmospheric Research",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with former NASA chie...",
+      "link": "https://insideclimatenews.org/news/16052026/dismantling-the-national-center-for-atmospheric-research/",
+      "pubDate": "Sat, 16 May 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Rare plant makes comeback from brink of extinction",
       "description": "The Kentish milkwort has seen a seven-fold increase since conservation efforts in 2013. ...",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "EcoCeres and Bridge Data Centres Complete First HVO-Powered Backup Fuel Pilot for Data Centres in Asia Pacific",
-      "description": "EcoCeres, a global leader in the innovation and commercialization of renewable fuels and green molecules, and Bridge Data Centres (BDC), a Singapore-h...",
-      "link": "https://econews.com.au/ecoceres-and-bridge-data-centres-complete-first-hvo-powered-backup-fuel-pilot-for-data-centres-in-asia-pacific/",
-      "pubDate": "Fri, 15 May 2026 07:01:52 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-15T161600.360.png"
-    },
-    {
-      "title": "Keeping water meters cosy this winter",
-      "description": "As frosty mornings return, safeguarding your water meter can help protect your pipes, keep your water flowing and avoid unnecessary disruptions. Great...",
-      "link": "https://econews.com.au/keeping-water-meters-cosy-this-winter/",
-      "pubDate": "Fri, 15 May 2026 07:01:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-15T161058.919.png"
-    },
-    {
-      "title": "Construction begins on NSW’s first end-to-end green hydrogen hub",
-      "description": "Penny Sharpe Minister for Climate Change Minister for Energy Minister for the Environment Minister for Heritage Leader of the Government in the Legisl...",
-      "link": "https://econews.com.au/construction-begins-on-nsws-first-end-to-end-green-hydrogen-hub/",
-      "pubDate": "Fri, 15 May 2026 07:01:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
-    },
-    {
-      "title": "A woolly solution to NI's peatland problems?",
-      "description": "Could locally-sourced wool restore peatlands and reduce the carbon cost of conservation?...",
-      "link": "https://www.bbc.com/news/articles/cm2p7prl47jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 15 May 2026 05:40:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
