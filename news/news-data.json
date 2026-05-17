@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-17T21:03:08.424Z",
+  "lastUpdated": "2026-05-17T23:00:14.920Z",
   "articles": [
+    {
+      "title": "Minnesota deploys national guard to help fight wildfires in northern region",
+      "description": "&lt;p&gt;Tim Walz, the state’s governor, calls blazes ‘unpredictable and fast-moving’ as dry, windy weather fuels them&lt;/p&gt;&lt;p&gt;&lt;a href=\"h...",
+      "link": "https://www.theguardian.com/us-news/2026/may/17/minnesota-national-guard-wildfires",
+      "pubDate": "Sun, 17 May 2026 21:10:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a0df37993fc787fc2239a94671bd8da3e80d5e09/0_0_900_720/master/900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a567c2891b82a819efbb40815a3ff2a7"
+    },
     {
       "title": "German minister defends ‘perfectly human’ decision to allow attempt to rescue whale Timmy",
       "description": "&lt;p&gt;Humpback stranded on sandbank was unlikely to survive, experts had said, recommending it be left to die in peace&lt;/p&gt;&lt;p&gt;The German...",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c4g0w899j5yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 16 May 2026 06:18:48 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Virginia Governor Signs Dominion-Backed Bills. All Eyes on Regulators Now.",
-      "description": "RICHMOND, Va.—Gov. Abigail Spanberger on Thursday signed legislation that directs regulators to assign electricity costs to data centers and allows Do...",
-      "link": "https://insideclimatenews.org/news/15052026/virginia-governor-signs-dominion-bills/",
-      "pubDate": "Sat, 16 May 2026 00:01:31 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
