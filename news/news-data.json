@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-18T17:33:37.916Z",
+  "lastUpdated": "2026-05-18T19:55:40.525Z",
   "articles": [
+    {
+      "title": "Latin America Faces ‘Hydrological Whiplash’ as Climate Risks Mount",
+      "description": "If the 2025 climate year in Latin America and the Caribbean showed anything, it was that floodwaters can’t erase long-term drought, that temperatures ...",
+      "link": "https://insideclimatenews.org/news/18052026/latin-america-global-warming-climate-risks/",
+      "pubDate": "Mon, 18 May 2026 19:26:56 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Signs of ‘feeding’ ritual at dingo burial site shed new light on bond between First Nations people and canines",
       "description": "&lt;p&gt;Never documented archaeologically before, evidence points to First Nations people caring for and nursing the animal&lt;/p&gt;&lt;ul&gt;&lt;li...",
@@ -58,11 +67,11 @@
     {
       "title": "Gas prices are rising. So is public transit ridership.",
       "description": "Mass transit systems are seeing more riders as fuel prices rise, but experts say most Americans still have little choice but to drive....",
-      "link": "https://grist.org/solutions/gas-prices-are-rising-so-is-public-transit-ridership/",
+      "link": "https://grist.org/transportation/gas-prices-are-rising-so-is-public-transit-ridership/",
       "pubDate": "Mon, 18 May 2026 08:15:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2025/10/car-aerial-parking-lot.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "Blue Flags awarded but one beach misses out",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/356717d663c73160b1df7704cce1e067fd4fd270/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94c0e78010c2fcb55f97e744d97b9907"
-    },
-    {
-      "title": "Chevron wants a school district tax break for a data center power plant",
-      "description": "The move could save the oil company hundreds of millions in Texas, even as state lawmakers start looking at reining in incentives for data centers....",
-      "link": "https://grist.org/energy/chevron-wants-a-school-district-tax-break-for-a-data-center-power-plant/",
-      "pubDate": "Sun, 17 May 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/GoogleDataCenter.jpg?quality=75&#038;strip=all"
     }
   ]
 }
