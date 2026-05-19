@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-19T04:19:02.018Z",
+  "lastUpdated": "2026-05-19T08:34:06.662Z",
   "articles": [
+    {
+      "title": "Māori climate risk worsened by colonization, report finds",
+      "description": "A sweeping national climate assessment argues that exclusion from decision-making has amplified Indigenous vulnerability to floods, storms, and erosio...",
+      "link": "https://grist.org/global-indigenous-affairs-desk/maori-climate-risk-worsened-by-colonization-report-finds/",
+      "pubDate": "Tue, 19 May 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/unfpii-2026-finance.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "High levels of toxic ‘forever chemicals’ found off coast of southern England",
+      "description": "&lt;p&gt;Study of Channel finds levels of toxic Pfas in Solent at 13 times safe limits in some places, with much coming from treated sewage&lt;/p&gt;&...",
+      "link": "https://www.theguardian.com/environment/2026/may/19/toxic-pfa-forever-chemicals-channel-southern-england-solent",
+      "pubDate": "Tue, 19 May 2026 06:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/651da897183e80f87d43debe275697d10e5c9b3e/672_0_6142_4912/master/6142.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fe8f78f61bdbeb3829a51c3bf7df728"
+    },
+    {
+      "title": "Plan to track for signs of endangered water vole",
+      "description": "Water vole numbers nationally are in free fall, with more than 90 per cent lost since the 1970s....",
+      "link": "https://www.bbc.com/news/articles/cn8p1gy1q0xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 19 May 2026 05:38:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Europe's oldest science park could be redeveloped",
+      "description": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces....",
+      "link": "https://www.bbc.com/news/articles/c8d8rddp1vqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 19 May 2026 05:16:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why Australian Businesses Are Turning to Commercial Solar and Battery Storage in 2026",
       "description": "By Prabhjeet Singh, Positive Carbon Australian businesses are facing a new energy reality in 2026. Rising electricity prices, growing pressure to redu...",
@@ -52,15 +88,6 @@
       "link": "https://insideclimatenews.org/news/18052026/nextera-dominion-utility-mega-merger/",
       "pubDate": "Mon, 18 May 2026 23:07:40 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
-      "description": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\n...",
-      "link": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 18 May 2026 23:04:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/05/Kevin-OLeary-2274830964.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Gas prices are rising. So is public transit ridership.",
-      "description": "Mass transit systems are seeing more riders as fuel prices rise, but experts say most Americans still have little choice but to drive....",
-      "link": "https://grist.org/transportation/gas-prices-are-rising-so-is-public-transit-ridership/",
-      "pubDate": "Mon, 18 May 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/10/car-aerial-parking-lot.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Blue Flags awarded but one beach misses out",
-      "description": "Keep Britain Tidy awards six Blue Flags but Avon Beach misses out because of a slip-up....",
-      "link": "https://www.bbc.com/news/articles/c042qqqg11no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 18 May 2026 05:21:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Antarctic DNA offers vital clues to pinpointing rising sea levels",
-      "description": "Monash University Researchers say accurately predicting Antarctica’s impact on global sea levels is an urgent priority that can be achieved by analysi...",
-      "link": "https://econews.com.au/antarctic-dna-offers-vital-clues-to-pinpointing-rising-sea-levels/",
-      "pubDate": "Mon, 18 May 2026 05:01:40 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
     }
   ]
 }
