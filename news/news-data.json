@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-20T11:53:58.383Z",
+  "lastUpdated": "2026-05-20T15:49:06.210Z",
   "articles": [
+    {
+      "title": "Plastic food and drink packaging ‘world’s most common coastal litter’",
+      "description": "&lt;p&gt;Global study finds wrappers, bottles and lids on shorelines of 93% of countries analysed as UN talks to tackle issue stall&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/environment/2026/may/20/plastic-food-drink-packaging-worlds-most-common-coastal-litter",
+      "pubDate": "Wed, 20 May 2026 15:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e672e6bae7c5c642a81f3b94ea7727ce37d528c7/739_0_4181_3345/master/4181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=203f5feacf143a2366d08524f963e602"
+    },
+    {
+      "title": "PM promises action on chemicals 43k times standard",
+      "description": "The prime minister says he will look into forever chemical contamination near a former RAF base....",
+      "link": "https://www.bbc.com/news/articles/c232e81nej4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 20 May 2026 13:46:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Eva v Goliath: the 20-year-old climate activist taking on Trump and the fossil fuel industry",
+      "description": "&lt;p&gt;Young Americans are suing the president for violating rights with executive orders that fuel the climate crisis&lt;/p&gt;&lt;p&gt;Eva Lighthi...",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/20/eva-lighthiser-trump-climate",
+      "pubDate": "Wed, 20 May 2026 13:00:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f712cc8a9431fc7d596c8dab055125527ece22fc/2_0_7917_6336/master/7917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29bc8c59b8d5674a1b11790444acc5f1"
+    },
     {
       "title": "Blinded and broken, Sunny the owl becomes another casualty of Russia’s war",
       "description": "&lt;p&gt;Ukrainians lament appalling toll of fighting  on their country’s bird population&lt;/p&gt;&lt;p&gt;Russia sent kamikaze drones to attack the ...",
@@ -101,15 +128,6 @@
       "image": "https://grist.org/wp-content/uploads/2026/05/Syncrude-Fort-McKay.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Rainforests pushed to breaking point by new demands for resources, report says",
-      "description": "&lt;p&gt;Need for minerals, biofuels and pulp adding to pressures from ranching, monocrops, oil and logging, analysis finds&lt;/p&gt;&lt;p&gt;The grow...",
-      "link": "https://www.theguardian.com/environment/2026/may/20/rainforests-pushed-to-breaking-point-by-new-demands-for-resources-report-says",
-      "pubDate": "Wed, 20 May 2026 07:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/789211a6ead25cda05b8ce969e98a7d5ee4c2708/1535_0_4567_3656/master/4567.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0848c9b62f423e983a79e1ba7971c26e"
-    },
-    {
       "title": "'Disease-carrying mosquitoes and heat deaths if temperatures soar'",
       "description": "Wales' new government must do more to prepare the country for climate change, says an advisory body....",
       "link": "https://www.bbc.com/news/articles/cm2p09yrnq7o?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/Reflections-Holidays-logo.png"
-    },
-    {
-      "title": "Residents find chemicals 43k times water standard",
-      "description": "Residents near former RAF base say independent testing shows high levels of forever chemicals....",
-      "link": "https://www.bbc.com/news/articles/c232e81nej4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 20 May 2026 04:59:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fast-food waste driven by wrong orders: study",
-      "description": "Associate Professor Li Ping Thong RMIT University A review into food waste in Australia’s quick service restaurants has found order mistakes are the b...",
-      "link": "https://econews.com.au/fast-food-waste-driven-by-wrong-orders-study/",
-      "pubDate": "Wed, 20 May 2026 04:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/04/RMIT-logo-1.png"
     }
   ]
 }
