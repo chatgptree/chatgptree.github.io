@@ -1,14 +1,104 @@
 {
-  "lastUpdated": "2026-05-21T12:22:26.992Z",
+  "lastUpdated": "2026-05-21T16:20:54.925Z",
   "articles": [
     {
-      "title": "Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live",
-      "description": "&lt;p&gt;Republican senators have queried the timing and lack of detail in secret service bid to add money to the Department for Homeland security bil...",
+      "title": "Democrats release 2024 presidential campaign autopsy; Republicans could abandon $1bn proposal for Trump’s ballroom – live",
+      "description": "&lt;p&gt;DNC chair Ken Martin apologizes for delay in releasing report; Republican senators have queried timing and lack of detail on security bill ad...",
       "link": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
-      "pubDate": "Thu, 21 May 2026 11:41:48 GMT",
+      "pubDate": "Thu, 21 May 2026 16:05:39 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/eb5920fc07474e9b99f86eb1c3d9365723bdddb7/655_0_6525_5223/master/6525.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d127c714ca0a4553c08f02a9aaf1a6a"
+      "image": "https://i.guim.co.uk/img/media/c00caf7785d6f6b55e49ee87d209891f7b9a5b89/27_0_666_533/master/666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36794ad51e7c56dd982b14ba25026b65"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "El Niño is stirring in the Pacific Ocean and may well be one of the strongest yet....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977m?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 21 May 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How do hurricanes and typhoons form and is climate change making them stronger?",
+      "description": "These powerful tropical storms are generally becoming more intense as the world warms....",
+      "link": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 21 May 2026 15:28:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How do hurricanes and typhoons form and is climate change making them stronger?",
+      "description": "These powerful tropical storms are generally becoming more intense as the world warms....",
+      "link": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 21 May 2026 15:28:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "One Nation says it’s the only party in Australia to question climate science. It should ask itself why | Temperature Check",
+      "description": "&lt;p&gt;Climate change denial has become untenable yet Hanson’s party digs in – with conspiracy theories, cherrypicking and claims that are easy to r...",
+      "link": "https://www.theguardian.com/australia-news/2026/may/22/one-nation-pauline-hanson-australia-questions-climate-science-ntwnfb",
+      "pubDate": "Thu, 21 May 2026 15:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a51f9cc319984c07e4e229e2274b2f115e311713/350_0_4005_3205/master/4005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=925d6797602c0e0cfa0aaf445f631d42"
+    },
+    {
+      "title": "Trump’s EPA to roll back refrigerant rule for grocery stores in push it claims will lower prices",
+      "description": "&lt;p&gt;EPA is loosening Biden-era rule that requires US businesses to reduce greenhouse gases used in cooling equipment&lt;/p&gt;&lt;p&gt;The Trump ...",
+      "link": "https://www.theguardian.com/us-news/2026/may/21/trump-epa-refrigerant-rule-grocery-costs",
+      "pubDate": "Thu, 21 May 2026 14:34:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/658a9973602c721c4c90f72ff0a951074510d29e/659_235_3027_2421/master/3027.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79319e1ec9e3ae3d7fdb1a5ed0dfea17"
+    },
+    {
+      "title": "‘It’s put the joy levels up’: the flood-prone London school with a climate-adapted playground",
+      "description": "&lt;p&gt;When pupils could no longer play outside, St John’s school in Barnet decided to act, enlisting Trees for Cities to help rethink its outside s...",
+      "link": "https://www.theguardian.com/environment/2026/may/21/flood-prone-london-school-climate-adapted-playground",
+      "pubDate": "Thu, 21 May 2026 14:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/796d4ee2de7941615c12d2e1cb10acb904641464/0_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=654e453dd0ec708bc36f58860b1d7229"
+    },
+    {
+      "title": "China’s Shark Finning Could Lead to US Seafood Sanctions",
+      "description": "For migrant workers trapped onboard Chinese distant water fishing fleets, cutting the fins off sharks as they writhe violently on rusted decks in the ...",
+      "link": "https://insideclimatenews.org/news/21052026/china-shark-finning-potential-us-sanctions/",
+      "pubDate": "Thu, 21 May 2026 14:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Torrential rain and floods kill at least 25 people in southern and central China – video report",
+      "description": "&lt;p&gt;Tens of thousands of people have been forced to evacuate their homes, with heavy rain expected to continue across southern and central parts ...",
+      "link": "https://www.theguardian.com/world/video/2026/may/21/torrential-rain-floods-southern-central-china-video",
+      "pubDate": "Thu, 21 May 2026 13:50:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/88b7d3b1047aa782a32ec4ae313838b8767fbd34/1069_4_2518_2014/master/2518.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aeb75cfb9c297d3ea614da61490b9ca3"
+    },
+    {
+      "title": "NextEra Energy to Join the Offshore Wind Club, But Does It Matter?",
+      "description": "A utility megamerger announced this week would mean that the largest offshore wind project in the United States would be owned by the same company tha...",
+      "link": "https://insideclimatenews.org/news/21052026/inside-clean-energy-nextera-dominion-merger-offshore-wind/",
+      "pubDate": "Thu, 21 May 2026 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Record number of dams dismantled in Europe in effort to help wildlife thrive",
+      "description": "&lt;p&gt;Weirs, culverts and sluices among 602 barriers demolished in year in attempt to restore 15,500 miles of rivers by 2030&lt;/p&gt;&lt;p&gt;A fe...",
+      "link": "https://www.theguardian.com/environment/2026/may/21/record-number-of-dams-dismantled-in-europe-in-effort-to-help-wildlife-thrive",
+      "pubDate": "Thu, 21 May 2026 12:14:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8f780a901ab58dad479653164c23cb0ba40687a4/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=897e025d509edfa10352567ff59d170f"
     },
     {
       "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
@@ -18,15 +108,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d08f3e77d03b9527e3bff30a3a39a91f01a6966a/50_0_2303_1843/master/2303.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6292b14e856d1ac8779cbffc5ca05c4"
-    },
-    {
-      "title": "Pauline Hanson announces Norway-inspired gas policy as she decries 25% export tax as ‘economic vandalism’",
-      "description": "&lt;p&gt;One Nation proposal would abolish offshore gas profits tax and acquire 30% equity in new projects in a move the Coalition says is ‘borrowed f...",
-      "link": "https://www.theguardian.com/australia-news/2026/may/21/pauline-hanson-announces-norway-inspired-gas-policy-as-she-decries-25-export-tax-as-economic-vandalism",
-      "pubDate": "Thu, 21 May 2026 09:15:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a44a329e8f78ab0c8f5bc92cd2fdde1130fd478b/55_0_2953_2362/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d44406883fe1d8a425ece6f53d760be5"
     },
     {
       "title": "Duke University Plans a Data Center It Says Will Boost ‘Environmental Responsibility and Sustainability’",
@@ -58,7 +139,7 @@
     {
       "title": "Georgia’s PSC elections have become a referendum on energy prices",
       "description": "Democrats won big in last year’s election. This year, they’re aiming to win a majority on the commission....",
-      "link": "https://grist.org/energy/georgias-psc-elections-have-become-a-referendum-on-energy-prices/",
+      "link": "https://grist.org/georgia-psc/georgias-psc-elections-have-become-a-referendum-on-energy-prices/",
       "pubDate": "Thu, 21 May 2026 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -99,87 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "APAC to dominate global HVDC converter station market through 2031, forecasts GlobalData",
-      "description": "The global high voltage direct current (HVDC) converter station market is entering a phase of unprecedented growth, fueled by a powerful combination o...",
-      "link": "https://econews.com.au/apac-to-dominate-global-hvdc-converter-station-market-through-2031-forecasts-globaldata/",
-      "pubDate": "Thu, 21 May 2026 07:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Global-Data-logo.jpg"
-    },
-    {
-      "title": "Water campaigner cautious on using new bathing site",
-      "description": "River Action says water quality depends on discharges upstream and says check  before swimming....",
-      "link": "https://www.bbc.com/news/articles/cx210g8xv5ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 21 May 2026 05:02:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "England must harvest rainfall and take action on water usage, Lords warn",
-      "description": "&lt;p&gt;Without urgent intervention England faces water shortages of 5bn litres a day by 2055, peers tell government&lt;/p&gt;&lt;p&gt;Rainwater harv...",
-      "link": "https://www.theguardian.com/environment/2026/may/21/england-harvest-rainfall-water-usage-shortages-house-of-lords-report",
-      "pubDate": "Thu, 21 May 2026 05:01:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/df5055acc06c32765bb90dc4a72a9981a2ba0ae8/300_0_6720_5376/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63d23b20a0875425266788753455af8c"
-    },
-    {
-      "title": "Tentacles, pointy teeth and the T-rex of the sea: the Natural History Museum on beasts that once ruled the oceans",
-      "description": "&lt;p&gt;A new exhibition, Jurassic Oceans, showcases the fearsome creatures that lurked below the surface – and offers a stark warning about the impa...",
-      "link": "https://www.theguardian.com/environment/2026/may/21/natural-history-museum-jurassic-oceans-monsters-of-the-deep",
-      "pubDate": "Thu, 21 May 2026 05:01:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f08eb54a0535ecbbc1718171701390899c9d8b0f/0_361_5471_4377/master/5471.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e93a4fc8fcdac2dcd36c4c347c52671c"
-    },
-    {
-      "title": "U.N. General Assembly Embraces Court Opinion That Says Nations Have a Legal Obligation to Take Climate Action",
-      "description": "The United Nations General Assembly on Wednesday voted overwhelmingly in favor of a climate justice resolution championed by the small Pacific Island ...",
-      "link": "https://insideclimatenews.org/news/20052026/un-endorses-international-court-climate-opinion/",
-      "pubDate": "Thu, 21 May 2026 01:04:27 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Top Climate Scientists Accuse the Livestock Industry of Pushing Fuzzy Math to Downplay its Climate Warming Emissions",
-      "description": "A group of the world’s leading climate scientists are warning governments and the livestock industry against adopting an “accounting trick” that will ...",
-      "link": "https://insideclimatenews.org/news/20052026/global-warming-potential-star-livestock-emissions/",
-      "pubDate": "Wed, 20 May 2026 23:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Corpus Christi Postpones Water Emergency to December as ‘Super El Niño’ Offers an End to Drought",
-      "description": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations. CORPUS CHRISTI, Te...",
-      "link": "https://insideclimatenews.org/news/20052026/corpus-christi-postpones-water-emergency/",
-      "pubDate": "Wed, 20 May 2026 22:46:24 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Young Americans demand court halt Trump’s biggest rollbacks of pollution protections",
-      "description": "&lt;p&gt;Suit says administration is impinging on rights to life and liberty by worsening planet-warming and toxic pollution&lt;/p&gt;&lt;ul&gt;&lt;li...",
-      "link": "https://www.theguardian.com/us-news/2026/may/20/trump-administration-climate-pollution-lawsuit",
-      "pubDate": "Wed, 20 May 2026 20:04:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/95bc2258ac2ca6b318a5c62b762db860a3e502fe/1463_1035_3350_2680/master/3350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=977f2e5466c5510e14fb27fdd02adc0e"
-    },
-    {
-      "title": "San Francisco turns to AI to save whales from ship strikes as deaths soar",
-      "description": "&lt;p&gt;Climate change is pushing starving grey whales to San Francisco Bay, where ship strikes led to 40% of 21 deaths&lt;/p&gt;&lt;p&gt;Ferries, ca...",
-      "link": "https://www.theguardian.com/environment/2026/may/20/san-francisco-bay-ai-whales",
-      "pubDate": "Wed, 20 May 2026 18:43:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d98e7f552376ffff076448b69da87cf0077948c6/557_656_4182_3344/master/4182.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98333272e4cc9f0c406976b29888f16c"
     }
   ]
 }
