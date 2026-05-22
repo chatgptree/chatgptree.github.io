@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-22T21:20:17.499Z",
+  "lastUpdated": "2026-05-22T23:11:49.590Z",
   "articles": [
+    {
+      "title": "The Brazilian Supreme Court Makes Way for the ‘Grain Train’",
+      "description": "A nearly 600-mile railway that would cut through the heart of the Amazon rainforest got one step closer to reality Thursday when the Brazilian Supreme...",
+      "link": "https://insideclimatenews.org/news/22052026/brazil-supreme-court-greenlights-amazon-grain-train/",
+      "pubDate": "Fri, 22 May 2026 21:54:26 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Youth-Led Campaign Claims a Win For Climate Justice",
+      "description": "A climate justice seed planted by young Pacific Island students in 2019, as mass participation in climate demonstrations peaked in the millions, is st...",
+      "link": "https://insideclimatenews.org/news/22052026/un-reinforces-youth-led-climate-campaign/",
+      "pubDate": "Fri, 22 May 2026 21:22:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on Britain’s coming energy shock: mini-measures won’t suffice | Editorial",
       "description": "&lt;p&gt;Consumer giveaways may soften the blow from the the war on Iran. But Britain’s vulnerability demands deeper state intervention and a faster t...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/795fafeb943d5494383b8058c065c779787cdc19/385_0_2941_2353/master/2941.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=142d235152ac00e62777da8a1f3d99ed"
-    },
-    {
-      "title": "Tropical house with thousands of butterflies opens",
-      "description": "The new Sussex Butterfly Gardens will be home to thousands of butterflies for people to visit....",
-      "link": "https://www.bbc.com/news/articles/c4g50wpplqlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 22 May 2026 05:20:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rare species found in Scotland's declining rainforest",
-      "description": "A citizen science project is aiming to document species on the Cowal Peninsula   for the first time in 50 years....",
-      "link": "https://www.bbc.com/news/articles/ce8pe9k304jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 22 May 2026 05:01:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
