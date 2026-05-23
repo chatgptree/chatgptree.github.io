@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-05-22T23:11:49.590Z",
+  "lastUpdated": "2026-05-23T04:01:20.102Z",
   "articles": [
+    {
+      "title": "SpaceX launches massive Starship V3 rocket on test flight",
+      "description": "The launch of the largest and most powerful in history has happened, after a first attempted launch on Thursday was postponed....",
+      "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 23 May 2026 03:53:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
+      "description": "Elon Musk's SpaceX has successfully launched its Starship V3 rocket, which landed in a planned fiery explosion on Friday....",
+      "link": "https://www.bbc.com/news/videos/c1728ypp15no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 23 May 2026 03:03:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California: 40,000 people ordered to evacuate over chemical leak fears",
+      "description": "&lt;p&gt;Authorities in Orange county say tank holding methyl methacrylate ‘actively in crisis’ and urge residents to leave&lt;/p&gt;&lt;p&gt;Authorit...",
+      "link": "https://www.theguardian.com/us-news/2026/may/22/california-orange-county-chemical-tank",
+      "pubDate": "Sat, 23 May 2026 01:12:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c04e56794abe6c55ef54d366d91a7087e7be753f/27_0_3161_2530/master/3161.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c00134993416f0823226d1ba7007497d"
+    },
+    {
+      "title": "The space race to create gym equipment for future astronauts",
+      "description": "Scientists are attempting to build exercise equipment to be used on future space flights....",
+      "link": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 22 May 2026 23:42:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The space race to create gym equipment for future astronauts",
+      "description": "Scientists are attempting to build exercise equipment to be used on future space flights....",
+      "link": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 22 May 2026 23:42:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How to keep cool at your summer festivals",
+      "description": "As the summer festival season kicks off, temperatures are set to soar this bank holiday weekend....",
+      "link": "https://www.bbc.com/news/articles/clypzp9drq0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 22 May 2026 23:40:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How to keep cool at your summer festivals",
+      "description": "As the summer festival season kicks off, temperatures are set to soar this bank holiday weekend....",
+      "link": "https://www.bbc.com/news/articles/clypzp9drq0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 22 May 2026 23:40:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Federal Law Requires US Seafood Imports to Not Threaten Marine Mammals. A Lawsuit Is Pushing the Government to Finally Act.",
+      "description": "Environmental groups on Thursday sued the United States government to ensure internationally sourced seafood doesn’t threaten whales or dolphins that ...",
+      "link": "https://insideclimatenews.org/news/22052026/environmental-groups-sue-us-government-over-seafood-imports/",
+      "pubDate": "Fri, 22 May 2026 23:21:08 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Wildfire Grows Near Ex-Nuclear Site, California County Sets Up Radiation Air Monitors",
+      "description": "With a Southern California wildfire only growing in size, firefighters in Ventura County have increased response efforts near a former nuclear reactor...",
+      "link": "https://insideclimatenews.org/news/22052026/california-wildfire-grows-near-ex-nuclear-site/",
+      "pubDate": "Fri, 22 May 2026 23:13:05 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Brazilian Supreme Court Makes Way for the ‘Grain Train’",
       "description": "A nearly 600-mile railway that would cut through the heart of the Amazon rainforest got one step closer to reality Thursday when the Brazilian Supreme...",
@@ -99,87 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why hybrids — not EVs — are winning over US consumers",
-      "description": "High gas prices are driving EV growth in other parts of the world — but American drivers are favoring hybrids....",
-      "link": "https://grist.org/solutions/why-hybrids-not-evs-are-winning-over-u-s-consumers/",
-      "pubDate": "Fri, 22 May 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In a rare show of global unity, countries adopt landmark climate ruling",
-      "description": "Despite U.S. opposition, an overwhelming majority of nations agreed that failing to address climate change could be grounds to seek reparations....",
-      "link": "https://grist.org/international/in-a-rare-show-of-global-unity-countries-adopt-landmark-climate-ruling/",
-      "pubDate": "Fri, 22 May 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/05/GettyImages-2263375623.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "CARE welcomes UN General Assembly vote in favour of the ICJ’s landmark ruling on global climate responsibility",
-      "description": "Evidence of the recent Tropical Cyclone Judy and Tropical Cyclone Kevin can be observed along the coastline of Sulphur Bay on Tanna Island, where debr...",
-      "link": "https://econews.com.au/care-welcomes-un-general-assembly-vote-in-favour-of-the-icjs-landmark-ruling-on-global-climate-responsibility/",
-      "pubDate": "Fri, 22 May 2026 08:01:45 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/CARE_VERT_ORANGE_CMYK.jpg"
-    },
-    {
-      "title": "Surge in feral horse numbers expose growing damage inside Kosciuszko retention zones",
-      "description": "The Invasive Species Council says the latest feral horse population survey results show a huge, but not unexpected, population rebound in parts of Kos...",
-      "link": "https://econews.com.au/surge-in-feral-horse-numbers-expose-growing-damage-inside-kosciuszko-retention-zones/",
-      "pubDate": "Fri, 22 May 2026 08:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/IMG_8365-Feral-horse-damage-at-Little-Peppercorn-Creek-northern-Kosciuszko-NP-6-April-2026-note-hoofprint-nea-1024x683.jpg"
-    },
-    {
-      "title": "Platypus population expands to 20 in Royal National Park: latest survey",
-      "description": "Associate Professor Gilad Bino and Dr Tahneal Hawke from the UNSW Platypus Conservation Initiative surveying the platypus population in Royal National...",
-      "link": "https://econews.com.au/platypus-population-expands-to-20-in-royal-national-park-latest-survey/",
-      "pubDate": "Fri, 22 May 2026 08:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
-    },
-    {
-      "title": "Greenspace Brings Sustainable Food Production to Brisbane CBD with National Expansion of its Urban Farming Network",
-      "description": "Peter Fox, Greenspace and John Bristowe, Amora Hotel Brisbane  Greenspace, a leader in commercial urban agriculture is transforming how hotels and bus...",
-      "link": "https://econews.com.au/greenspace-brings-sustainable-food-production-to-brisbane-cbd-with-national-expansion-of-its-urban-farming-network/",
-      "pubDate": "Fri, 22 May 2026 08:01:39 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/dapl-restaurant_Amora-Hotel-819x1024.jpg"
-    },
-    {
-      "title": "Frank Green Founder Declares War on Global Plastic Wrap",
-      "description": "Benjamin Young The Australian entrepreneur who built frank green into a global re-usable powerhouse has launched a new venture to eliminate the millio...",
-      "link": "https://econews.com.au/frank-green-founder-declares-war-on-global-plastic-wrap/",
-      "pubDate": "Fri, 22 May 2026 07:01:46 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Ben-Young-No-Wrap-2-768x1024.jpg"
-    },
-    {
-      "title": "Carlo Petrini, Founder of Slow Food, Passes Away at 76",
-      "description": "Carlo Petrini Visionary leader behind the global movement for good, clean and fair food for all leaves an enduring legacy Yesterday, in the town of Br...",
-      "link": "https://econews.com.au/carlo-petrini-founder-of-slow-food-passes-away-at-76/",
-      "pubDate": "Fri, 22 May 2026 07:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Slow-Food-logo.png"
-    },
-    {
-      "title": "The week in wildlife: a lurking leopard, a lucky fox and a wily coyote",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/may/22...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/may/22/the-week-in-wildlife-a-lurking-leopard-a-lucky-fox-and-a-wily-coyote",
-      "pubDate": "Fri, 22 May 2026 07:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/795fafeb943d5494383b8058c065c779787cdc19/385_0_2941_2353/master/2941.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=142d235152ac00e62777da8a1f3d99ed"
     }
   ]
 }
