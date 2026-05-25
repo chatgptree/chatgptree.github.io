@@ -1,8 +1,17 @@
 {
-  "lastUpdated": "2026-05-25T14:14:16.281Z",
+  "lastUpdated": "2026-05-25T17:11:16.155Z",
   "articles": [
     {
-      "title": "Unacceptable bacteria levels at Jersey beaches",
+      "title": "Heatwave hell: are soaring temperatures the new normal? - The Latest",
+      "description": "&lt;p&gt;The UK is experiencing record-breaking temperatures in an unprecedented May heatwave, while large parts of Europe are also facing blistering ...",
+      "link": "https://www.theguardian.com/news/video/2026/may/25/heatwave-hell-are-soaring-temperatures-the-new-normal-the-latest",
+      "pubDate": "Mon, 25 May 2026 16:34:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0b281ce7439ec6c9c9eb7092ff207e87ac19e50a/0_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d5be8005be8921908b58fa2e7415ee8"
+    },
+    {
+      "title": "Unacceptable bacteria levels around Jersey seas",
       "description": "Infrastructure and Environment bosses say they believe significant rainfall has caused poor results....",
       "link": "https://www.bbc.com/news/articles/cj0pp45md0lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 25 May 2026 12:08:52 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ee8e15a50e6915c6017fba9f14b886e15f5dc8ba/833_0_4167_3335/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b385ca441674796bcf68eb540041cd2c"
-    },
-    {
-      "title": "Citizen scientists needed to protect wildlife",
-      "description": "Data for animals, such as foxes, will be welcomed by the Somerset Wildlife Trust....",
-      "link": "https://www.bbc.com/news/articles/c8jvkxppdmxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 24 May 2026 16:42:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
