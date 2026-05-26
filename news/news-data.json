@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-05-26T16:49:11.348Z",
+  "lastUpdated": "2026-05-26T19:23:44.981Z",
   "articles": [
     {
+      "title": "Why temperature records are being not only broken but smashed",
+      "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe....",
+      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 26 May 2026 17:57:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why temperature records are being not only broken but smashed",
+      "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe....",
+      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 26 May 2026 17:57:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Seven heat-related deaths in France as May records set in several countries",
+      "description": "&lt;p&gt;Extreme early summer event across western Europe also brings highest temperatures for month in UK and Ireland&lt;/p&gt;&lt;p&gt;Seven people ...",
+      "link": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
+      "pubDate": "Tue, 26 May 2026 17:29:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2db5f8fdbc4ec447d5f8f78481f1717db236957a/718_0_6195_4956/master/6195.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5da2babc5437e94598cd87742a4da8ff"
+    },
+    {
+      "title": "Ben Jennings on Britain’s heatwave – cartoon",
+      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/may/26/ben-jennings-on-britains-heatwave-cartoon\"&gt;Continue reading...&lt;/a&gt;...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/26/ben-jennings-on-britains-heatwave-cartoon",
+      "pubDate": "Tue, 26 May 2026 16:56:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/577734dab0f390e4ac0b5e9651d8babbe4d530ef/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=364474e0f42301571c656429154854fe"
+    },
+    {
       "title": "UK records highest ever May temperature for second day in a row",
-      "description": "&lt;p&gt;Temperature reaches 35C at Heathrow on Tuesday after 34.8C high at Kew Gardens in London on Monday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;...",
+      "description": "&lt;p&gt;Temperature reaches 35.1C at Heathrow on Tuesday after 34.8C high at Kew Gardens in London on Monday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&l...",
       "link": "https://www.theguardian.com/uk-news/2026/may/26/uk-records-highest-ever-may-temperature-for-second-day-in-a-row",
-      "pubDate": "Tue, 26 May 2026 14:41:47 GMT",
+      "pubDate": "Tue, 26 May 2026 16:52:35 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6c28d5ac4243a3f98aa4dba800710cf87583737d/1774_566_3614_2893/master/3614.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9595d5683bc2af09042af0f1d74dcdb"
@@ -20,7 +56,7 @@
       "image": "https://i.guim.co.uk/img/media/d0b724cfca3a4184efb86e077d8977c529a25669/852_0_6250_5000/master/6250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=254625a04609d3b086398702ab419abf"
     },
     {
-      "title": "Why Trump administration’s plan to attempt to destroy Pfas is ‘nonsenscial’",
+      "title": "Why Trump administration’s plan to attempt to destroy Pfas is ‘nonsensical’",
       "description": "&lt;p&gt;The EPA said it was cutting Biden-era regulations on Pfas in drinking water, but advocates say the move will harm public health and benefit i...",
       "link": "https://www.theguardian.com/us-news/2026/may/26/trump-administration-pfas-drinking-water-regulation",
       "pubDate": "Tue, 26 May 2026 12:00:50 GMT",
@@ -54,15 +90,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Seven deaths in France linked to record-high temperatures",
-      "description": "&lt;p&gt;Five of the deaths were by drowning while two people died competing in sporting events&lt;/p&gt;&lt;p&gt;Seven people have died in France in ...",
-      "link": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
-      "pubDate": "Tue, 26 May 2026 09:19:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2db5f8fdbc4ec447d5f8f78481f1717db236957a/718_0_6195_4956/master/6195.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5da2babc5437e94598cd87742a4da8ff"
     },
     {
       "title": "Revealed: huge climate cost of harmful emissions from US immigration flights",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Cellars-Hill-Wind-Farm_Ground-Shot-copy-1024x683.jpg"
-    },
-    {
-      "title": "Lower default power bills for NSW as renewable plan delivers",
-      "description": "Chris Minns Premier of New South Wales Penny Sharpe Minister for Climate Change, Minister for Energy Minister for the Environment, Minister for Herita...",
-      "link": "https://econews.com.au/lower-default-power-bills-for-nsw-as-renewable-plan-delivers/",
-      "pubDate": "Tue, 26 May 2026 04:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
-    },
-    {
-      "title": "Monash scientists create tiny on-chip circuit that could power next-generation quantum and AI technologies",
-      "description": "An artist’s illustration of a photonic valleytronic chip for information processing. Image credit: Chi Li Monash University Researchers from Monash Un...",
-      "link": "https://econews.com.au/monash-scientists-create-tiny-on-chip-circuit-that-could-power-next-generation-quantum-and-ai-technologies/",
-      "pubDate": "Tue, 26 May 2026 04:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "100% of Challenger Gold Concentrate Sold",
-      "description": "GDMs Challenger Mines Gold Concentrate is destined to the worlds leading trading markets GDM Secures International Offtake Agreement for Challenger Go...",
-      "link": "https://econews.com.au/100-of-challenger-gold-concentrate-sold/",
-      "pubDate": "Tue, 26 May 2026 04:01:41 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-14T112011.201-1024x491.png"
     }
   ]
 }
