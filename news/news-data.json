@@ -1,8 +1,98 @@
 {
-  "lastUpdated": "2026-05-27T04:41:41.706Z",
+  "lastUpdated": "2026-05-27T08:43:20.396Z",
   "articles": [
     {
-      "title": "How the plastic bottle cap became a parable for the value of EU regulation",
+      "title": "Nike&#8217;s recycled World Cup uniforms reveal the limits of ‘circular’ fashion",
+      "description": "Will chemical recycling revolutionize the fashion industry, or is it just “an excuse to keep producing plastic clothes”?...",
+      "link": "https://grist.org/culture/nikes-recycled-world-cup-uniforms-reveal-the-limits-of-circular-fashion/",
+      "pubDate": "Wed, 27 May 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/GettyImages-2219176293.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Blossoming among spoil heaps: how 1,000 years of lead mining gave birth to banks of pansies and pennycress",
+      "description": "&lt;p&gt;Calaminarian grassland is a rare habitat where plants thrive in soils contaminated by heavy metals. But should these toxic meadows be protect...",
+      "link": "https://www.theguardian.com/environment/2026/may/27/blossoming-spoil-heaps-plants-metallophytes-heavy-metal-aoe",
+      "pubDate": "Wed, 27 May 2026 08:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0b6d02c90f5fb5f29038e3f23c10ce078ca0e3a3/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f58982c1de62620e403701b19b7332e6"
+    },
+    {
+      "title": "Australia needs a national animal. No, not the kangaroo... the dingo! | First Dog on the Moon",
+      "description": "&lt;p&gt;Everyone loves dingoes and if they don’t they should&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/commentisf...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/27/australia-needs-a-national-animal-no-not-the-kangaroo-the-dingo",
+      "pubDate": "Wed, 27 May 2026 06:08:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/911da48e90edc597f52e503a8ab32885058b56b7/0_0_802_642/master/802.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c195e8aa1a571fd2bdaf8cfe3cb74938"
+    },
+    {
+      "title": "Wednesday briefing: ​Can the UK adapt in time to a new normal of extreme heat?",
+      "description": "&lt;p&gt;In today’s newsletter: As heatwaves intensify, ​B​ritain must confront the limits of a society built for cool​er weather, forcing policymaker...",
+      "link": "https://www.theguardian.com/world/2026/may/27/wednesday-briefing-can-the-uk-adapt-in-time-to-a-new-normal-of-extreme-heat",
+      "pubDate": "Wed, 27 May 2026 05:46:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/88be5ec72b01a012b88e94b274fc435bbfb1bcd8/308_0_3084_2469/master/3084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f81626f03005eb2ec604a9228b645185"
+    },
+    {
+      "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
+      "description": "An industry report suggests that the net-zero economy is already established and employs more than 105,000 people....",
+      "link": "https://www.bbc.com/news/articles/c7599zez4rxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 27 May 2026 05:16:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hunter Water Expands Collaboration with Itron to Advance Digital Metering Program",
+      "description": "Australian Water Utility Deploys Itron Technology to Improve Water Network Management Itron, Inc. (NASDAQ: ITRI), the intelligent infrastructure provi...",
+      "link": "https://econews.com.au/hunter-water-expands-collaboration-with-itron-to-advance-digital-metering-program/",
+      "pubDate": "Wed, 27 May 2026 05:02:09 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Itron-Logo-RGB-Rmark-1024x425.jpg"
+    },
+    {
+      "title": "MGA Thermal and Knode commence FEED study for Australia’s largest industrial thermal storage project",
+      "description": "$2.9 million ARENA-backed study marks first in active pipeline of industrial decarbonisation projects MGA Thermal has commenced a Front-End Engineerin...",
+      "link": "https://econews.com.au/mga-thermal-and-knode-commence-feed-study-for-australias-largest-industrial-thermal-storage-project/",
+      "pubDate": "Wed, 27 May 2026 05:02:09 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "FM Hail Map Now Available Worldwide",
+      "description": "FM’s Worldwide Hail Hazard Map now provides the most comprehensive assessment of hail risk across the globe  Leading commercial property insurer FM to...",
+      "link": "https://econews.com.au/fm-hail-map-now-available-worldwide/",
+      "pubDate": "Wed, 27 May 2026 05:02:08 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/FM_Logo_1-1024x512.jpeg"
+    },
+    {
+      "title": "Two million Return and Earn containers donated to Jeans for Genes",
+      "description": "Alessia, who was featured in the Jeans for Genes fundraising campaign, and Marjo celebrate raising over $210,000 with Return and Earn. Return and Earn...",
+      "link": "https://econews.com.au/two-million-return-and-earn-containers-donated-to-jeans-for-genes/",
+      "pubDate": "Wed, 27 May 2026 05:02:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/return-and-earn-logo.png"
+    },
+    {
+      "title": "Flooding is getting worse – preparedness is key",
+      "description": "Major rainfall is presenting a significant flood risk. The Gold Coast has experienced a record three days of rainfall, with rescue teams receiving ove...",
+      "link": "https://econews.com.au/flooding-is-getting-worse-preparedness-is-key/",
+      "pubDate": "Wed, 27 May 2026 05:02:00 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/FM_Logo_1-1024x512.jpeg"
+    },
+    {
+      "title": "How the plastic bottle cap became a parable for the value of EU regulation | Alberto Alemanno",
       "description": "&lt;p&gt;Supporters of deregulation want Europe to be more like the US. But that would serve only American interests&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p...",
       "link": "https://www.theguardian.com/commentisfree/2026/may/27/how-the-plastic-bottle-cap-became-a-parable-for-the-value-of-eu-regulation",
       "pubDate": "Wed, 27 May 2026 04:00:18 GMT",
@@ -12,7 +102,7 @@
     },
     {
       "title": "Riverside land purchased to save it from development",
-      "description": "Mid-Suffolk Council hopes to enhance wildlife in the area and improve public access....",
+      "description": "A council hopes to enhance wildlife in the area and improve public access....",
       "link": "https://www.bbc.com/news/articles/cn4ppp0dn0jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 27 May 2026 04:00:15 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -34,15 +124,6 @@
       "link": "https://insideclimatenews.org/news/26052026/todays-climate-early-heat-wave-western-europe/",
       "pubDate": "Tue, 26 May 2026 22:33:23 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
-      "description": "An industry report suggests that the net-zero economy is already established and employs more than 105,000 people....",
-      "link": "https://www.bbc.com/news/articles/c7599zez4rxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 26 May 2026 21:44:59 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -99,87 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why temperature records are being not only broken but smashed",
-      "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe....",
-      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 26 May 2026 17:57:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ben Jennings on Britain’s heatwave – cartoon",
-      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/may/26/ben-jennings-on-britains-heatwave-cartoon\"&gt;Continue reading...&lt;/a&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/may/26/ben-jennings-on-britains-heatwave-cartoon",
-      "pubDate": "Tue, 26 May 2026 16:56:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/577734dab0f390e4ac0b5e9651d8babbe4d530ef/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=364474e0f42301571c656429154854fe"
-    },
-    {
-      "title": "UK records highest ever May temperature for second day in a row",
-      "description": "&lt;p&gt;Temperature reaches 35.1C at Heathrow on Tuesday after 34.8C high at Kew Gardens in London on Monday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&l...",
-      "link": "https://www.theguardian.com/uk-news/2026/may/26/uk-records-highest-ever-may-temperature-for-second-day-in-a-row",
-      "pubDate": "Tue, 26 May 2026 16:52:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6c28d5ac4243a3f98aa4dba800710cf87583737d/1774_566_3614_2893/master/3614.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9595d5683bc2af09042af0f1d74dcdb"
-    },
-    {
-      "title": "Landlord inaction on energy upgrades stops renters saving $20bn on power bills in a decade",
-      "description": "&lt;p&gt;Property owners’ lack of motivation due to ‘split incentive’ is main reason rental properties are missing out on energy upgrades, research fi...",
-      "link": "https://www.theguardian.com/environment/2026/may/27/australia-home-energy-bill-savings-renters-landlords-rooftop-solar-insulation-appliances",
-      "pubDate": "Tue, 26 May 2026 14:01:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/02db8c7a5775580ea3506b3dc9262796f1622f66/25_0_3835_3069/master/3835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24b6ee47bf571ab6298045e6a11fe798"
-    },
-    {
-      "title": "Why Trump administration’s plan to attempt to destroy Pfas is ‘nonsensical’",
-      "description": "&lt;p&gt;The EPA said it was cutting Biden-era regulations on Pfas in drinking water, but advocates say the move will harm public health and benefit i...",
-      "link": "https://www.theguardian.com/us-news/2026/may/26/trump-administration-pfas-drinking-water-regulation",
-      "pubDate": "Tue, 26 May 2026 12:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/62213567fbc4d99e40fd58689b01e5a158690e3e/499_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63c4027897d631e0ab6aae75b97f45d8"
-    },
-    {
-      "title": "Huge rise in factory-style dairy farming of ‘battery cows’ in UK as costs rise",
-      "description": "&lt;p&gt;Investigation finds number of dairy farms where cows cannot go outside has more than doubled since 2015&lt;/p&gt;&lt;p&gt;There has been a hu...",
-      "link": "https://www.theguardian.com/environment/2026/may/26/uk-sees-huge-rise-in-battery-cow-dairy-farms-investigation-reveals",
-      "pubDate": "Tue, 26 May 2026 11:56:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7e8ed7b410ee549c7c2e9212b12e764418656eea/749_84_4087_3269/master/4087.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99026c053575783b69d0c4ae997f967a"
-    },
-    {
-      "title": "What are UV levels and how can you protect yourself?",
-      "description": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.  \n...",
-      "link": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 26 May 2026 10:17:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fly counters help to spot signs of river pollution",
-      "description": "Hundreds of volunteers survey Scotland's watercourses and report any issues of concern quickly....",
-      "link": "https://www.bbc.com/news/articles/czj21vv3z7eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 26 May 2026 09:54:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Revealed: huge climate cost of harmful emissions from US immigration flights",
-      "description": "&lt;p&gt;Trump campaign accelerating climate crisis as officials move migrants to detention jails and deport them from US&lt;/p&gt;&lt;p&gt;US immigra...",
-      "link": "https://www.theguardian.com/us-news/2026/may/26/us-immigration-flights-emissions",
-      "pubDate": "Tue, 26 May 2026 09:00:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/29ce961666a55ceb499630944678cd10900618c8/156_0_2072_1657/master/2072.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=180d9ac7b86300c38b70a44c31e99a19"
     }
   ]
 }
