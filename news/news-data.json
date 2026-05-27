@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-05-27T08:43:20.396Z",
+  "lastUpdated": "2026-05-27T12:28:07.693Z",
   "articles": [
+    {
+      "title": "Power to the people: how ‘balcony solar’ could help fight rising US utility costs",
+      "description": "&lt;p&gt;More Americans are using small solar panels in their back yards or balconies as a clean way to cut their electric bills&lt;/p&gt;&lt;p&gt;If ...",
+      "link": "https://www.theguardian.com/environment/2026/may/27/balcony-solar-panels-rising-utility-costs",
+      "pubDate": "Wed, 27 May 2026 11:30:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ab484d591e02ea285658424ae5ae49dc557ccbbd/362_0_2391_1913/master/2391.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27770431ca9d75fa769ff86ccd1feb9d"
+    },
+    {
+      "title": "'No timeline or cost' for illegal dump clean-up plan",
+      "description": "Politicians say little new information came out of a meeting about the Mobuoy site with Stormont's environment minister....",
+      "link": "https://www.bbc.com/news/articles/cp8prj928dyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 27 May 2026 11:08:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Community shocked after Aboriginal rock shelter bulldozed for NSW power lines",
+      "description": "&lt;p&gt;The heritage site was destroyed by contractors building transmission lines for the Central-West Orana renewable energy zone&lt;/p&gt;&lt;ul&g...",
+      "link": "https://www.theguardian.com/environment/2026/may/27/aboriginal-rock-shelter-destroyed-power-line-contractors-nsw-renewable-energy-zone-ntwnfb",
+      "pubDate": "Wed, 27 May 2026 10:17:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e88ee4c6380a3e76e221905029fdf0d38ffabd89/227_0_5120_4096/master/5120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e28e2a13c4b6e851c9478ad4d0b158ee"
+    },
+    {
+      "title": "Lord Howe Island got rid of its rats and mice – now cockroaches and bugs are bouncing back",
+      "description": "&lt;p&gt;Rodents arrived on the subtropical island more than a century ago, decimating its native flora and fauna – but its invertebrates are once aga...",
+      "link": "https://www.theguardian.com/australia-news/2026/may/27/lord-howe-island-got-rid-of-its-rats-and-mice-now-cockroaches-and-bugs-are-bouncing-back",
+      "pubDate": "Wed, 27 May 2026 09:35:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f99499e048b4d352e5341ebb98386998f6d7ea21/128_0_1920_1536/master/1920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e90953b8bc4135e993dbc93172b13463"
+    },
+    {
+      "title": "In Venezuela, Anxiety About Ramping Up Oil Production in the Heavily Polluted Lake Maracaibo Region",
+      "description": "There is a joke Mónica Godoy Molero likes to make with her family: if you swim in Venezuela’s Lake Maracaibo after an oil spill, you’ll sprout a third...",
+      "link": "https://insideclimatenews.org/news/27052026/venezuela-lake-maracaibo-oil-production-environmental-impacts/",
+      "pubDate": "Wed, 27 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Forecasters Predict Below-Average Hurricane Season, Advise Against Complacency",
+      "description": "Forecasters are calling for below-average activity this hurricane season, which begins Monday, June 1. The National Weather Service is predicting eigh...",
+      "link": "https://insideclimatenews.org/news/27052026/mild-hurricane-season-forecast-experts-still-urge-preparedness/",
+      "pubDate": "Wed, 27 May 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Nike&#8217;s recycled World Cup uniforms reveal the limits of ‘circular’ fashion",
       "description": "Will chemical recycling revolutionize the fashion industry, or is it just “an excuse to keep producing plastic clothes”?...",
@@ -45,51 +99,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hunter Water Expands Collaboration with Itron to Advance Digital Metering Program",
-      "description": "Australian Water Utility Deploys Itron Technology to Improve Water Network Management Itron, Inc. (NASDAQ: ITRI), the intelligent infrastructure provi...",
-      "link": "https://econews.com.au/hunter-water-expands-collaboration-with-itron-to-advance-digital-metering-program/",
-      "pubDate": "Wed, 27 May 2026 05:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/Itron-Logo-RGB-Rmark-1024x425.jpg"
-    },
-    {
-      "title": "MGA Thermal and Knode commence FEED study for Australia’s largest industrial thermal storage project",
-      "description": "$2.9 million ARENA-backed study marks first in active pipeline of industrial decarbonisation projects MGA Thermal has commenced a Front-End Engineerin...",
-      "link": "https://econews.com.au/mga-thermal-and-knode-commence-feed-study-for-australias-largest-industrial-thermal-storage-project/",
-      "pubDate": "Wed, 27 May 2026 05:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "FM Hail Map Now Available Worldwide",
-      "description": "FM’s Worldwide Hail Hazard Map now provides the most comprehensive assessment of hail risk across the globe  Leading commercial property insurer FM to...",
-      "link": "https://econews.com.au/fm-hail-map-now-available-worldwide/",
-      "pubDate": "Wed, 27 May 2026 05:02:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/FM_Logo_1-1024x512.jpeg"
-    },
-    {
-      "title": "Two million Return and Earn containers donated to Jeans for Genes",
-      "description": "Alessia, who was featured in the Jeans for Genes fundraising campaign, and Marjo celebrate raising over $210,000 with Return and Earn. Return and Earn...",
-      "link": "https://econews.com.au/two-million-return-and-earn-containers-donated-to-jeans-for-genes/",
-      "pubDate": "Wed, 27 May 2026 05:02:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/return-and-earn-logo.png"
-    },
-    {
-      "title": "Flooding is getting worse – preparedness is key",
-      "description": "Major rainfall is presenting a significant flood risk. The Gold Coast has experienced a record three days of rainfall, with rescue teams receiving ove...",
-      "link": "https://econews.com.au/flooding-is-getting-worse-preparedness-is-key/",
-      "pubDate": "Wed, 27 May 2026 05:02:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/FM_Logo_1-1024x512.jpeg"
     },
     {
       "title": "How the plastic bottle cap became a parable for the value of EU regulation | Alberto Alemanno",
@@ -168,15 +177,6 @@
       "description": "The plans include permanent human habitation on the Earth's only natural satellite by 2032....",
       "link": "https://www.bbc.com/news/videos/c1e22wz2nwxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 26 May 2026 20:02:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why temperature records are being not only broken but smashed",
-      "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe....",
-      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 26 May 2026 17:57:28 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
