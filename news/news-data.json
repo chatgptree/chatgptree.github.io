@@ -1,14 +1,68 @@
 {
-  "lastUpdated": "2026-05-28T05:15:11.296Z",
+  "lastUpdated": "2026-05-28T10:20:11.418Z",
   "articles": [
     {
+      "title": "Pennsylvania’s Governor Has a Plan to Make Data Centers Bring Their Own Energy. Now Comes the Hard Part.",
+      "description": "For months, Pennsylvania Gov. Josh Shapiro promised a plan to blunt fast-rising energy costs in the state by pushing power-hungry AI data centers to p...",
+      "link": "https://insideclimatenews.org/news/28052026/pennsylvania-gov-shapiro-ai-data-center-plan/",
+      "pubDate": "Thu, 28 May 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildfire smoke engulfed their cities. Did it make their babies sick?",
+      "description": "Years after wildfire scares, parents are left wondering if their children's chronic illnesses began with what was in the air before they were born....",
+      "link": "https://grist.org/health/wildfire-smoke-engulfed-their-cities-did-it-make-their-babies-sick/",
+      "pubDate": "Thu, 28 May 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/Wide-GettyImages-1193597707-copy-2.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The world&#8217;s largest data center was supposed to run on 100% natural gas. Utah&#8217;s Republican governor says &#8216;never.&#8217;",
+      "description": "Governor Spencer Cox says nuclear, geothermal, and solar power should help fuel the colossal Stratos Project. ...",
+      "link": "https://grist.org/accountability/data-center-natural-gas-utah-cox-box-elder-stratos/",
+      "pubDate": "Thu, 28 May 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/20260501-tn-1-tn-2435-e1779831299631_681bba.jpg?quality=75&amp;strip=all"
+    },
+    {
       "title": "National Trust appeal after beauty spot littering",
-      "description": "Litter was left all over the Cardingmill Valley after an \"exceptionally busy\" bank holiday weekend....",
+      "description": "Litter was left all over Carding Mill Valley after an \"exceptionally busy\" bank holiday weekend....",
       "link": "https://www.bbc.com/news/articles/c3e2ynqkddgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 28 May 2026 05:14:24 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Britain ‘sleepwalking into a food crisis’ without urgent action, experts say",
+      "description": "&lt;p&gt;Industry figures warn of national security risk and call for ministers to address impact of extreme weather, inflation and Iran war&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/environment/2026/may/28/britain-sleepwalking-into-a-food-crisis-without-urgent-action-experts-say",
+      "pubDate": "Thu, 28 May 2026 05:00:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a91f08a15f7eddf0f3b37994748d95cfc3a33f42/660_0_6595_5276/master/6595.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22e9566701f65dbb6901a6151598d3cc"
+    },
+    {
+      "title": "Cigarette butts for free food? How one group is asking people to rethink litter",
+      "description": "&lt;p&gt;The WasteBar food truck hopes the eye-catching deal will change people’s attitude to waste in the Netherlands&lt;/p&gt;&lt;p&gt;Using cigaret...",
+      "link": "https://www.theguardian.com/environment/2026/may/28/wastebar-cigarette-butts-waste-free-food-netherlands",
+      "pubDate": "Thu, 28 May 2026 05:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/def6a7847416c5ed7a1b702ae72f77b8b2a3ac1e/480_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec0fbce5ca112b49118bb4b3e8204ee3"
+    },
+    {
+      "title": "What is killing Sumatra’s elephants? The battle to save one of our rarest animals",
+      "description": "&lt;p&gt;Investigators are still searching for what caused the recent deaths of a mother and her calf, but conservationists say the animal’s shrinking...",
+      "link": "https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe",
+      "pubDate": "Thu, 28 May 2026 05:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6f7df96cb63301e5c1ae9b1792290863d5431112/283_0_1281_1025/master/1281.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df827ab602e10ee83359bd62bf58ad50"
     },
     {
       "title": "To reverse the ‘greenlash’, Europe’s Green parties should embrace Polanski’s boldness | Tarik Abou-Chadi",
@@ -124,60 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 27 May 2026 14:08:50 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why temperature records are being not only broken but smashed",
-      "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe....",
-      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 27 May 2026 14:08:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Lord Howe Island got rid of its rats and mice – now its ‘wonderful’ insect life is back",
-      "description": "&lt;p&gt;Invasive vermin decimated the island’s native flora and fauna – but its unique cockroaches and beetles are thriving once again &lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/australia-news/2026/may/27/lord-howe-island-got-rid-of-its-rats-and-mice-now-cockroaches-and-bugs-are-bouncing-back",
-      "pubDate": "Wed, 27 May 2026 13:26:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f99499e048b4d352e5341ebb98386998f6d7ea21/128_0_1920_1536/master/1920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e90953b8bc4135e993dbc93172b13463"
-    },
-    {
-      "title": "Power to the people: how ‘balcony solar’ could help fight rising US utility costs",
-      "description": "&lt;p&gt;More Americans are using small solar panels in their back yards or balconies as a clean way to cut their electric bills&lt;/p&gt;&lt;p&gt;If ...",
-      "link": "https://www.theguardian.com/environment/2026/may/27/balcony-solar-panels-rising-utility-costs",
-      "pubDate": "Wed, 27 May 2026 11:30:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab484d591e02ea285658424ae5ae49dc557ccbbd/362_0_2391_1913/master/2391.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27770431ca9d75fa769ff86ccd1feb9d"
-    },
-    {
-      "title": "'No timeline or cost' for clean-up plan of one of Europe's largest illegal dumps",
-      "description": "Politicians say little new information came out of a meeting about the Mobuoy site with Stormont's environment minister....",
-      "link": "https://www.bbc.com/news/articles/cp8prj928dyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 27 May 2026 11:08:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Gone forever’: political anger after NSW Aboriginal heritage site bulldozed for power lines",
-      "description": "&lt;p&gt;The rock shelter was destroyed by contractors building transmission lines for the Central-West Orana renewable energy zone&lt;/p&gt;&lt;ul&gt...",
-      "link": "https://www.theguardian.com/environment/2026/may/27/aboriginal-rock-shelter-destroyed-power-line-contractors-nsw-renewable-energy-zone-ntwnfb",
-      "pubDate": "Wed, 27 May 2026 10:17:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e88ee4c6380a3e76e221905029fdf0d38ffabd89/227_0_5120_4096/master/5120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e28e2a13c4b6e851c9478ad4d0b158ee"
-    },
-    {
-      "title": "In Venezuela, Anxiety About Ramping Up Oil Production in the Heavily Polluted Lake Maracaibo Region",
-      "description": "There is a joke Mónica Godoy Molero likes to make with her family: if you swim in Venezuela’s Lake Maracaibo after an oil spill, you’ll sprout a third...",
-      "link": "https://insideclimatenews.org/news/27052026/venezuela-lake-maracaibo-oil-production-environmental-impacts/",
-      "pubDate": "Wed, 27 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
