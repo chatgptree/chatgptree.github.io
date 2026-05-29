@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-28T23:24:08.120Z",
+  "lastUpdated": "2026-05-29T04:24:20.694Z",
   "articles": [
+    {
+      "title": "Moment Blue Origin rocket explodes during test in Florida",
+      "description": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night....",
+      "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 29 May 2026 03:02:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Blue Origin rocket explodes into huge ball of flame on Florida launch pad",
+      "description": "Amazon billionaire Jeff Bezos, who founded Blue Origin, said it was a \"very rough day\". ...",
+      "link": "https://www.bbc.com/news/articles/cvgzl5wd8xeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 29 May 2026 02:59:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Environmentalists Turn Out in Force to Oppose Trump Coal Ash Rollbacks",
+      "description": "At a virtual public comment hearing hosted by the U.S. Environmental Protection Agency on Thursday, a long line of environmental advocates voiced stro...",
+      "link": "https://insideclimatenews.org/news/28052026/environmentalists-oppose-trump-coal-ash-rollbacks/",
+      "pubDate": "Thu, 28 May 2026 23:44:32 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "description": "French students are taking their exams in baking schools, while red alerts are issued in Italy....",
+      "link": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 28 May 2026 23:36:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Global heating is making hajj ever more dangerous, report finds",
       "description": "&lt;p&gt;Rising heat in Saudi Arabia threatens millions of Muslim pilgrims – but cutting fossil fuels would keep it safer&lt;/p&gt;&lt;p&gt;Global hea...",
@@ -45,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/95b652b52df2e3fc31d752d1b5f831c682c963fc/972_0_5041_4033/master/5041.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e245a5c2cef5100a3da2885c1e5d96c"
-    },
-    {
-      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-      "description": "French students are taking their exams in baking schools, while red alerts are issued in Italy....",
-      "link": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 28 May 2026 17:07:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "‘They’re a private company, run for profit!’: fury in Kent at South East Water’s outages",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/05/Wide-GettyImages-1193597707-copy-2.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The world&#8217;s largest data center was supposed to run on 100% natural gas. Utah&#8217;s Republican governor says &#8216;never.&#8217;",
-      "description": "Governor Spencer Cox says nuclear, geothermal, and solar power should help fuel the colossal Stratos Project. ...",
-      "link": "https://grist.org/accountability/data-center-natural-gas-utah-cox-box-elder-stratos/",
-      "pubDate": "Thu, 28 May 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/05/20260501-tn-1-tn-2435-e1779831299631_681bba.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "National Trust appeal after beauty spot littering",
-      "description": "Litter was left all over Carding Mill Valley after an \"exceptionally busy\" bank holiday weekend....",
-      "link": "https://www.bbc.com/news/articles/c3e2ynqkddgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 28 May 2026 05:14:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What is killing Sumatra’s elephants? The battle to save one of our rarest animals",
-      "description": "&lt;p&gt;Investigators are still searching for what caused the recent deaths of a mother and her calf, but conservationists say the animal’s shrinking...",
-      "link": "https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe",
-      "pubDate": "Thu, 28 May 2026 05:00:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6f7df96cb63301e5c1ae9b1792290863d5431112/283_0_1281_1025/master/1281.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df827ab602e10ee83359bd62bf58ad50"
     }
   ]
 }
