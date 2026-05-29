@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-05-29T04:24:20.694Z",
+  "lastUpdated": "2026-05-29T08:47:54.266Z",
   "articles": [
+    {
+      "title": "Pacific Islanders slowly recover from the strongest storm of the year",
+      "description": "More than a month after Sinlaku hit the Western Pacific, the death toll stands at 17 and many families remain without stable housing or electricity....",
+      "link": "https://grist.org/indigenous/pacific-islanders-slowly-recover-from-the-strongest-storm-of-the-year/",
+      "pubDate": "Fri, 29 May 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/Sinlaku-4.jpeg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Ask a Climate Therapist: Is it still ‘catastrophizing’ if the threat is real?",
+      "description": "Licensed therapist Leslie Davenport breaks down some of the tools that can help manage anxiety in the face of mounting climate catastrophe....",
+      "link": "https://grist.org/culture/ask-a-climate-therapist-is-it-still-catastrophizing-if-the-threat-is-real/",
+      "pubDate": "Fri, 29 May 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/climate-therapist-logo.png"
+    },
+    {
+      "title": "Week in wildlife: a baby pangolin, a gorilla super-mum and Formula One geese",
+      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/may/29...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/may/29/week-in-wildlife-a-baby-pangolin-a-gorilla-super-mum-and-formula-one-geese",
+      "pubDate": "Fri, 29 May 2026 08:01:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c7def78f0a197b01f9b347e157d8caa8b00bec8c/356_130_2640_2112/master/2640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=681e5204ac01df5b6bc0eb56fcaee390"
+    },
+    {
+      "title": "For people with disabilities, these heatwaves aren’t about being uncomfortable – they’re about being safe | Frances Ryan",
+      "description": "&lt;p&gt;It’s inequality with a climate-crisis spin: some are more at risk, and they are rarely the people able to afford in-built AC &lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/29/people-disabilities-heatwaves-uncomfortable-safe-climate-crisis",
+      "pubDate": "Fri, 29 May 2026 07:00:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/db1b910acd75a0f8d66e2f950961ba808445b068/378_0_6829_5463/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adf3a0eca9c58618ee9e7a1341948e2b"
+    },
+    {
+      "title": "Record numbers of Dartford warblers at nature site",
+      "description": "A survey of heathland birds found a record 97 pairs of Dartford Warblers at RSPB Arne in Dorset....",
+      "link": "https://www.bbc.com/news/articles/clyp7qvyz6eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 29 May 2026 05:11:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Moment Blue Origin rocket explodes during test in Florida",
+      "description": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night....",
+      "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 29 May 2026 03:02:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Moment Blue Origin rocket explodes during test in Florida",
       "description": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night....",
@@ -49,7 +103,7 @@
     {
       "title": "BBC Inside Science",
       "description": "From Hay Festival 2026, a dive into a big year for our oceans....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977n?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 28 May 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -126,60 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Warnings issued over toxic caterpillars",
-      "description": "The oak processionary moth caterpillar can cause breathing difficulties and skin rashes....",
-      "link": "https://www.bbc.com/news/articles/cvgz50jdnn2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 28 May 2026 14:35:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Flavor is under siege in this country’: how food in America lost its taste",
-      "description": "&lt;p&gt;In the last century, industrialized farming has killed off delicious food – but a brigade of chefs, breeders and farmers are fighting to brin...",
-      "link": "https://www.theguardian.com/food/ng-interactive/2026/may/28/death-of-flavor-farming-crops",
-      "pubDate": "Thu, 28 May 2026 14:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/23996e57f8ceccc98f0f7ed9ac55fef2cc02d8c2/78_496_2207_1764/master/2207.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=142780ee3ee32f70080969a4e2896b3b"
-    },
-    {
-      "title": "How Utility Companies and States Shaped America’s Clean Energy Transition",
-      "description": "Not long ago, the rise of U.S. renewable energy was largely tied to state policies that required or encouraged utilities to meet benchmarks for obtain...",
-      "link": "https://insideclimatenews.org/news/28052026/inside-clean-energy-utilities-renewable-portfolio-standard/",
-      "pubDate": "Thu, 28 May 2026 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New dark skies policy could boost night-time economy, says council",
-      "description": "Highland Council says it already has some of the darkest skies in Europe for stargazers to enjoy....",
-      "link": "https://www.bbc.com/news/articles/ckgp57x2yxvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 28 May 2026 11:59:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pennsylvania’s Governor Has a Plan to Make Data Centers Bring Their Own Energy. Now Comes the Hard Part.",
-      "description": "For months, Pennsylvania Gov. Josh Shapiro promised a plan to blunt fast-rising energy costs in the state by pushing power-hungry AI data centers to p...",
-      "link": "https://insideclimatenews.org/news/28052026/pennsylvania-gov-shapiro-ai-data-center-plan/",
-      "pubDate": "Thu, 28 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfire smoke engulfed their cities. Did it make their babies sick?",
-      "description": "Years after wildfire scares, parents are left wondering if their children's chronic illnesses began with what was in the air before they were born....",
-      "link": "https://grist.org/health/wildfire-smoke-engulfed-their-cities-did-it-make-their-babies-sick/",
-      "pubDate": "Thu, 28 May 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/05/Wide-GettyImages-1193597707-copy-2.jpg?quality=75&amp;strip=all"
     }
   ]
 }
