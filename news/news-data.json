@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-30T12:08:30.633Z",
+  "lastUpdated": "2026-05-30T14:46:28.114Z",
   "articles": [
+    {
+      "title": "Project to bring wildlife closer to city people",
+      "description": "The events will include bat nights, fungi and birdsong events and a summer solstice celebration....",
+      "link": "https://www.bbc.com/news/articles/cm2pj0ge99po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 30 May 2026 13:49:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Animal welfare violations swarm Miami zoo owned by ex-drug kingpin in Tiger King",
+      "description": "&lt;p&gt;Endangered snow leopard had leg amputated and capybara died at Mario Tabraue’s controversial roadside facility&lt;/p&gt;&lt;p&gt;An endangere...",
+      "link": "https://www.theguardian.com/us-news/2026/may/30/miami-zoo-violations-mario-tabraue-tiger-king",
+      "pubDate": "Sat, 30 May 2026 13:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2b30c3448d8faaf0ef9d88924200688a0fda386b/285_0_1678_1344/master/1678.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fdfd5ee81534675ee43115c9c4735c5b"
+    },
+    {
+      "title": "A first among major nations, India is industrializing with solar",
+      "description": "India is increasingly turning to cheap solar to meet its booming energy needs. Its solar buildout could soon be a model for other emerging economies....",
+      "link": "https://grist.org/energy/a-first-among-major-nations-india-is-industrializing-with-solar/",
+      "pubDate": "Sat, 30 May 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/India-Solar_Yale-E360.webp?quality=75&amp;strip=all"
+    },
+    {
+      "title": "US garbage incinerators are failing to eliminate ‘forever chemical’ air pollution, experts warn",
+      "description": "&lt;p&gt;The virtually indestructible Pfas waste puts largely low-income neighborhoods at risk, public health advocates say&lt;/p&gt;&lt;p&gt;The nati...",
+      "link": "https://www.theguardian.com/us-news/2026/may/30/garbage-incinerators-pfas-forever-chemicals",
+      "pubDate": "Sat, 30 May 2026 12:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c8b79c9c1e6d4ca11948ce03b830b379c146a17e/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=130db2f62ae398a32961b19b57e7f508"
+    },
     {
       "title": "Ministers urge City of London to act over swimmers in Hampstead Heath wildlife ponds",
       "description": "&lt;p&gt;Exclusive: Local authority asked what steps it is taking after hordes of splashing revellers seen disturbing nesting birds&lt;/p&gt;&lt;p&gt;...",
@@ -142,42 +178,6 @@
       "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 29 May 2026 10:38:46 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ospreys hatch fourth and final egg of the season",
-      "description": "Webcams show the fourth chick emerging as the mother feeds the other three with fish....",
-      "link": "https://www.bbc.com/news/articles/c5y8r71z89ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 29 May 2026 09:51:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Clean-up of one of Europe's largest illegal dumps 'could begin in 2028'",
-      "description": "Environment Minister Andrew Muir says it could take up to five years to complete work on the Mobuoy site....",
-      "link": "https://www.bbc.com/news/articles/cn0pn21e1r2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 29 May 2026 09:26:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EPA Rollbacks Could Raise AC, Refrigeration Costs Despite Promise of Lower Prices",
-      "description": "President Donald Trump said new regulatory rollbacks on chemical refrigerants will reduce the prices consumers pay for groceries and will not impact t...",
-      "link": "https://insideclimatenews.org/news/29052026/epa-chemical-refrigerant-rollbacks-could-raise-costs/",
-      "pubDate": "Fri, 29 May 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Federal Wetlands’ Protections Falter, Washington State Scientists Turn to AI as a Conservation Tool",
-      "description": "As the United States limits what can be considered a wetland, and qualify for federal conservation measures, many Washington state residents are tryin...",
-      "link": "https://insideclimatenews.org/news/29052026/washington-wetland-intrinsic-potential-tool/",
-      "pubDate": "Fri, 29 May 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
