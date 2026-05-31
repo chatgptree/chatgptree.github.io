@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-31T11:44:04.705Z",
+  "lastUpdated": "2026-05-31T14:03:56.829Z",
   "articles": [
+    {
+      "title": "70-foot wastewater geyser reflects New Mexico’s latest oilfield challenge",
+      "description": "It’s a towering example of the contentious debate over what to do with the state’s ever-growing supply of oilfield waste....",
+      "link": "https://grist.org/energy/70-foot-wastewater-geyser-reflects-new-mexicos-latest-oilfield-challenge/",
+      "pubDate": "Sun, 31 May 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/Geyser-scaled-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Nest belonging to 'remarkable' endangered bird found",
+      "description": "A video of the curlew that has a nest and eggs was posted by the Sliabh Beagh Curlew Conservation Trust....",
+      "link": "https://www.bbc.com/news/articles/ckgpw7rzlz4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 31 May 2026 12:01:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why Wildfire Experts Are So Worried About This Year’s Fire Season",
       "description": "As bad as things got in Los Angeles in January 2025, when 31 people died and more than 16,000 buildings were destroyed by wildfires roaring into resid...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/612ec0dc5cded6408f77cfc80cf462cc7b5a152b/244_0_3820_3056/master/3820.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb6f3fce472ad4f254b13a3809b7ecc6"
-    },
-    {
-      "title": "Wildlife park opens hub featuring erupting volcano",
-      "description": "The new building has two areas filled with interactive features to aid learning....",
-      "link": "https://www.bbc.com/news/articles/cvgzz9ndydyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 30 May 2026 05:28:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scientists Outplant Experimental ‘Flonduran’ Corals in Florida’s Dry Tortugas National Park",
-      "description": "Nearly three dozen young lab-grown elkhorn corals were outplanted onto reefs in Florida’s Dry Tortugas National Park this spring, including a group of...",
-      "link": "https://insideclimatenews.org/news/29052026/researchers-cross-breed-threatened-corals-in-dry-tortugas-national-park/",
-      "pubDate": "Fri, 29 May 2026 22:41:56 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
