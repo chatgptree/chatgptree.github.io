@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-01T22:13:16.428Z",
+  "lastUpdated": "2026-06-02T00:20:29.382Z",
   "articles": [
+    {
+      "title": "UK’s growing green economy worth more than £100bn a year, research finds",
+      "description": "&lt;p&gt;Net zero industry accounts for more than a million jobs and benefits whole  country, according to CBI Economics&lt;/p&gt;&lt;p&gt;More than a...",
+      "link": "https://www.theguardian.com/environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero",
+      "pubDate": "Mon, 01 Jun 2026 23:01:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1800d58a8d5415e082bd1e1c5c33e3310d0e9ead/1617_0_2870_2296/master/2870.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791b7043be85bf03aaf44f3f590708d4"
+    },
+    {
+      "title": "'Mornings and nights no longer exist':  A day in the hottest place in India",
+      "description": "What a day in India's hottest district reveals about life on the frontline of extreme heat....",
+      "link": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 01 Jun 2026 22:31:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "DOE Restarts Home Efficiency Rebates, and Electrification Is the Biggest Loser",
+      "description": "Federal energy efficiency rebate programs will no longer cover a switch from fossil fuels to electricity for heating, according to long-awaited guidan...",
+      "link": "https://insideclimatenews.org/news/01062026/energy-department-restarts-home-efficiency-rebates/",
+      "pubDate": "Mon, 01 Jun 2026 22:31:26 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Logging Project Near Yellowstone Could Threaten Wildlife Habitat and Tourist-Dependent Businesses",
       "description": "A proposed federal logging project in the forests bordering Yellowstone National Park is drawing growing concern from local residents, business owners...",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Clean-Up-Australia-Day-logo-1024x348.png"
-    },
-    {
-      "title": "Australia’s Electric Trucks Sitting Idle as Fuel Crisis Bites: Industry Hands Government a 5-Point Rescue Plan",
-      "description": "Electric Vehicle Council With Australian diesel prices recently exceeding $3 per litre, the Electric Vehicle Council (EVC) today released a major new ...",
-      "link": "https://econews.com.au/australias-electric-trucks-sitting-idle-as-fuel-crisis-bites-industry-hands-government-a-5-point-rescue-plan/",
-      "pubDate": "Mon, 01 Jun 2026 02:02:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "The Guardian view on the Aberdeen South byelection: the politics of energy take centre stage | Editorial",
-      "description": "&lt;p&gt;While Westminster’s attention is focused on Andy Burnham and Makerfield, another pivotal byelection is taking place in Scotland’s north-east&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/may/31/the-guardian-view-on-the-aberdeen-south-byelection-the-politics-of-energy-take-centre-stage",
-      "pubDate": "Sun, 31 May 2026 16:30:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/65c0bb07de9733aeab9eb278b1773a47f295d8df/0_0_5373_4300/master/5373.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12594ebc913c95939eacbb17457757b7"
-    },
-    {
-      "title": "70-foot wastewater geyser reflects New Mexico’s latest oilfield challenge",
-      "description": "It’s a towering example of the contentious debate over what to do with the state’s ever-growing supply of oilfield waste....",
-      "link": "https://grist.org/energy/70-foot-wastewater-geyser-reflects-new-mexicos-latest-oilfield-challenge/",
-      "pubDate": "Sun, 31 May 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/05/Geyser-scaled-1.jpg?quality=75&amp;strip=all"
     }
   ]
 }
