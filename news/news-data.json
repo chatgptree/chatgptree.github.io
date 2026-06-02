@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-06-02T21:54:52.755Z",
+  "lastUpdated": "2026-06-02T23:54:41.064Z",
   "articles": [
     {
-      "title": "Heat Is a Growing Threat to Hajj—Even in Spring",
+      "title": "Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
+      "description": "&lt;p&gt;Bank of England says updated imagery will celebrate native wildlife while bolstering anti-counterfeit features&lt;/p&gt;&lt;p&gt;Puffins, dol...",
+      "link": "https://www.theguardian.com/business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist",
+      "pubDate": "Tue, 02 Jun 2026 23:01:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/30c01429d447ce27a814d9eeeb2a4df9278a763f/0_543_4200_3359/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3300118bde52dd2cf0dad24a47d1306a"
+    },
+    {
+      "title": "Dismay as Trump officials to dismantle key ocean monitoring system",
+      "description": "&lt;p&gt;Ocean Observatories Initiative, $368m network that has provided crucial climate data, latest victim of Trump cuts&lt;/p&gt;&lt;p&gt;The Trump...",
+      "link": "https://www.theguardian.com/environment/2026/jun/02/trump-administration-ocean-observatories-initiative",
+      "pubDate": "Tue, 02 Jun 2026 22:35:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/548532b0d813502995fb48af25527a063425864b/63_0_1890_1512/master/1890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=643c63f694d9da0ae11c10ff69eac99c"
+    },
+    {
+      "title": "Supreme Court’s Limitation on Wetlands Protection Will Make Flooding Worse",
+      "description": "The destruction of wetlands in the United States has increased the amount of flood insurance claims by $10 billion over the past 40 years, a phenomeno...",
+      "link": "https://insideclimatenews.org/news/02062026/wetlands-destruction-will-worsen-flooding/",
+      "pubDate": "Tue, 02 Jun 2026 22:15:26 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Heat Is a Growing Threat to the Hajj—Even in Spring",
       "description": "More than 1.7 million people participated last week in the annual Islamic pilgrimage to Mecca in Saudi Arabia—consistently one of the world’s largest ...",
       "link": "https://insideclimatenews.org/news/02062026/todays-climate-hajj-pilgrimage-extreme-heat/",
       "pubDate": "Tue, 02 Jun 2026 21:37:14 +0000",
@@ -38,22 +65,13 @@
       "image": "https://i.guim.co.uk/img/media/b5572916f743da616f8dbca42ea3a6948703f40c/404_183_3308_2648/master/3308.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=166b7f4cf7a9a32d387a79cad66d302c"
     },
     {
-      "title": "Santos could drill for new gas in Beetaloo basin within weeks as Murray Watt urged to ‘do his job’",
-      "description": "&lt;p&gt;Environment Centre of the Northern Territory warns it could be ‘gateway to full-scale fracking in the territory’&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
+      "title": "‘Gateway to full-scale fracking’: Santos could drill for new gas in Northern Territory within weeks",
+      "description": "&lt;p&gt;Finocchiaro government grants approval for up to 12 wells in Beetaloo basin&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.the...",
       "link": "https://www.theguardian.com/australia-news/2026/jun/03/santos-could-drill-for-new-gas-in-beetaloo-basin-within-weeks-as-murray-watt-urged-to-do-his-job",
       "pubDate": "Tue, 02 Jun 2026 15:00:27 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/2b7f59df56cd1edba303b0a38846d04dff3373f6/117_0_2475_1980/master/2475.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d32fdf734ac003c2742baa51f049a1bc"
-    },
-    {
-      "title": "Can you not? Plastic and metal ‘franken-can’ named Australia’s worst packaging at Unpackit awards",
-      "description": "&lt;p&gt;‘Completely unnecessary’ hybrid cans are not easily recycled or accepted by container refund schemes, and are already banned in WA&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/environment/2026/jun/03/plastic-metal-franken-can-worst-packaging-unpackit-awards-australia",
-      "pubDate": "Tue, 02 Jun 2026 15:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7bf55b8dd0b79e9dc27ef282d3f344b0fb8aba0e/462_69_2633_2107/master/2633.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dd90eaa61df408b4cbe521a12bf2a51"
     },
     {
       "title": "Next El Niño could be strongest in decades",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Powering Skills Organisation responds to Victorian energy apprentices announcement",
-      "description": "The Powering Skills Organisation (PSO) welcomes the Victorian Government announcement that the State Electricity Commission will offer 2,000 electrica...",
-      "link": "https://econews.com.au/powering-skills-organisation-responds-to-victorian-energy-apprentices-announcement/",
-      "pubDate": "Tue, 02 Jun 2026 02:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/PSO_Podcast_Stacked_Logo_3000px-1024x1024.png"
-    },
-    {
-      "title": "Supercharging investment in local low-carbon manufacturing and jobs",
-      "description": "The Hon. Penny Sharpe &#38; Australian Manufacturing Workers’ Union NSW/ACT State Secretary, Brad Pidgeon   Penny Sharpe Minister for Climate Change M...",
-      "link": "https://econews.com.au/supercharging-investment-in-local-low-carbon-manufacturing-and-jobs/",
-      "pubDate": "Tue, 02 Jun 2026 02:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/NSW-Logo-supported-by.png"
     }
   ]
 }
