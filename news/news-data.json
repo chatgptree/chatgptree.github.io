@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-06-02T05:55:58.655Z",
+  "lastUpdated": "2026-06-02T10:50:47.153Z",
   "articles": [
+    {
+      "title": "Alligator Alcatraz Emissions Threaten Human Health, Violate Clean Air Act, Lawsuit Claims",
+      "description": "A new federal lawsuit contends emissions at the Everglades migrant detention site known as Alligator Alcatraz, associated with more than 200 diesel-bu...",
+      "link": "https://insideclimatenews.org/news/02062026/alligator-alcatraz-diesel-emissions-lawsuit/",
+      "pubDate": "Tue, 02 Jun 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In New Jersey, Sherrill Agrees to Delay Protections Against Sea Level Rise",
+      "description": "After months of complaints from business and political leaders about new coastal management rules, New Jersey Gov. Mikie Sherrill is now facing bliste...",
+      "link": "https://insideclimatenews.org/news/02062026/new-jersey-delays-sea-level-rise-protections/",
+      "pubDate": "Tue, 02 Jun 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why is this Trump official dead set on saving a failing California dam?",
+      "description": "Brooke Rollins’s latest culture war crusade threatens a delicate compromise between Potter Valley farmers and nearby tribes....",
+      "link": "https://grist.org/politics/brooke-rollins-potter-valley-project-california-dams/",
+      "pubDate": "Tue, 02 Jun 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/PV-Drone-Kyle-Schwartz-3.2020-111.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "The hidden cost of owning an EV: Expensive insurance",
+      "description": "Electric vehicle insurance costs an average of 42 percent more than it does for other cars....",
+      "link": "https://grist.org/transportation/the-hidden-cost-of-owning-an-ev-expensive-insurance/",
+      "pubDate": "Tue, 02 Jun 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/03/gasoline-prices-4-Iran-war-EVs-electric-vehicles.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Paralympian could become first astronaut with disability to live and work in space",
+      "description": " John McFall takes one step closer to becoming first disabled astronaut....",
+      "link": "https://www.bbc.com/news/articles/cx21815x182o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 02 Jun 2026 08:16:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "It has the highest levels of toxic Pfas in drinking water in Scotland. But how did this remote island become awash with forever chemicals?",
+      "description": "&lt;p&gt;Scientists believe they may now have found the cause of Fair Isle’s pollution – and warn that it should be ringing alarm bells in other coast...",
+      "link": "https://www.theguardian.com/environment/2026/jun/02/toxic-pfas-drinking-water-scotland-how-fair-isle-island-forever-chemicals",
+      "pubDate": "Tue, 02 Jun 2026 08:00:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d30add0bb8db344876dd946dfe86dae5286fa7e0/1197_499_3910_3128/master/3910.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a08795b88999f790824279f552265440"
+    },
+    {
+      "title": "Prepare for imminent return of El Niño, UN warns",
+      "description": "&lt;p&gt;UN agency predicts phenomenon that supercharges weather extremes has 80% chance of forming before September&lt;/p&gt;&lt;p&gt;The world must ...",
+      "link": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns",
+      "pubDate": "Tue, 02 Jun 2026 07:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6eaaf822c0bf8ee811fe1bc0515a4aeb76fd0a80/194_0_1944_1555/master/1944.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=827e0d626453cbc2a1f932ce931925b2"
+    },
     {
       "title": "Kids collect five bags of litter left on riverbank",
       "description": "A farmer says he is having to remove litter from his fields on a daily basis....",
@@ -71,7 +134,7 @@
       "pubDate": "Mon, 01 Jun 2026 23:01:31 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/1800d58a8d5415e082bd1e1c5c33e3310d0e9ead/1617_0_2870_2296/master/2870.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791b7043be85bf03aaf44f3f590708d4"
+      "image": "https://i.guim.co.uk/img/media/af0db593067493273cf539c8f5ddcd477da5532d/350_142_3222_2578/master/3222.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae0cb7d08421132e26f35f153a9562a3"
     },
     {
       "title": "'Mornings and nights no longer exist' at 47C:  A day in the hottest place in India",
@@ -117,69 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6c09de50d56adbccf9a9ee07fde36591a187b346/429_200_3530_2824/master/3530.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99ceecda9ebbeec37e6e8fcba569066b"
-    },
-    {
-      "title": "Watch: Moment a meteor creates sonic boom over Massachusetts",
-      "description": "According to Nasa, the meteor released the equivalent to about 300 tons of TNT when it broke up....",
-      "link": "https://www.bbc.com/news/videos/c1m24g0n40ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 01 Jun 2026 14:56:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildlife Park welcomes mischievous bush dogs",
-      "description": "Four bush dogs are the newest mischievous residents at Lake District Wildlife Park....",
-      "link": "https://www.bbc.com/news/videos/c759pd9gqyko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 01 Jun 2026 14:33:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Hold your nerve and trust nature’: birds, bats and butterflies rebound at Somerset rewilding farm",
-      "description": "&lt;p&gt;Letting nature take over at a former dairy farm has resulted in a surge of species in just three years&lt;/p&gt;&lt;p&gt;Three years of rewil...",
-      "link": "https://www.theguardian.com/environment/2026/jun/01/nature-birds-bats-butterflies-rebound-heal-rewilding-somerset-farm",
-      "pubDate": "Mon, 01 Jun 2026 12:55:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6a3844423b17648181bb5b80366e883afddccc6d/162_0_4860_3888/master/4860.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8c39b837a10496c48cb17b662856a55"
-    },
-    {
-      "title": "Night sky events to watch out for this summer",
-      "description": "The Milky Way, the Summer triangle, eclipses and a meteor shower can all be seen over the next few months....",
-      "link": "https://www.bbc.com/news/videos/cdjpvd04x0po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 01 Jun 2026 10:44:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Big gains for little terns: how Lindisfarne reserve is helping a rare bird survive tourism",
-      "description": "&lt;p&gt;Seasonal wardens and netted fences are helping protect the rare ground-nesting birds that arrive each spring on the UK’s shores&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/jun/01/lindisfarne-holy-island-terns-plovers-protecting-shorebirds-aoe",
-      "pubDate": "Mon, 01 Jun 2026 09:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/02dec8433fbcc854548313953448e36bc560e7a5/711_0_4131_3307/master/4131.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b13687621357010f05dd0abe74087cc8"
-    },
-    {
-      "title": "Coral Reefs in French Polynesia Are Stuck Between Life and Death",
-      "description": "This story was supported by the Pulitzer Center. On the island of Moorea, in French Polynesia, deep green volcanic mountains slope from high peaks dow...",
-      "link": "https://insideclimatenews.org/news/01062026/french-polynesia-coral-reef-bleaching/",
-      "pubDate": "Mon, 01 Jun 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US host cities made transit improvements a World Cup goooooooal",
-      "description": "From Seattle to Atlanta, host cities used the tournament to speed up rail and bus upgrades years in the making — while trying to avoid the mistakes of...",
-      "link": "https://grist.org/cities/world-cup-host-cities-bet-on-transit-improvements-that-outlast-the-tournament/",
-      "pubDate": "Mon, 01 Jun 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/05/Seattle-Sound-Transit-Crosslake-Connection-World-Cup.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
