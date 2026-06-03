@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-03T17:06:13.963Z",
+  "lastUpdated": "2026-06-03T21:25:28.638Z",
   "articles": [
+    {
+      "title": "In first, California city overwhelmingly votes to permanently ban datacenters",
+      "description": "&lt;p&gt;While many US city councils have passed moratoriums, Monterey Park is first where residents have voted on a ban&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/us-news/2026/jun/03/california-monterey-park-datacenters-ban",
+      "pubDate": "Wed, 03 Jun 2026 19:40:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4e5749a81532c23398eb891576c96d6ae8079019/0_0_2498_1998/master/2498.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90247e48d1d71728d7c0b0a682a14f31"
+    },
+    {
+      "title": "Appeals Court Affirms Dismissal of Youth Climate Case Against Trump",
+      "description": "A federal appeals court has sided with the Trump administration and 19 Republican-led states in a constitutional challenge to several of President Don...",
+      "link": "https://insideclimatenews.org/news/03062026/appeals-court-dismisses-lighthiser-v-trump-youth-climate-case/",
+      "pubDate": "Wed, 03 Jun 2026 17:50:45 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Swifts 'displaced' after demolition - campaigners",
+      "description": "Campaigners say nesting swifts may have been affected after part of a building was demolished....",
+      "link": "https://www.bbc.com/news/articles/ce9pkd8203po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 03 Jun 2026 17:21:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Dismay as Trump officials to dismantle key ocean monitoring system",
       "description": "&lt;p&gt;Ocean Observatories Initiative, $368m network that has provided crucial climate data, latest victim of Trump cuts&lt;/p&gt;&lt;p&gt;The Trump...",
@@ -12,7 +39,7 @@
     },
     {
       "title": "Australia’s GDP figures are meaningless when the boom in datacentres means destroying jobs and the climate | Greg Jericho",
-      "description": "&lt;p&gt;In the March quarter Australia’s economy grew 0.3%. But the real issue is what drove that growth&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get ou...",
+      "description": "&lt;p&gt;In the March quarter Australia’s economy grew 0.3%. But the real issue is what drove that growth&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a ...",
       "link": "https://www.theguardian.com/business/grogonomics/2026/jun/04/australia-datacentres-destroying-jobs-climate-economy-gdp",
       "pubDate": "Wed, 03 Jun 2026 15:00:09 GMT",
       "sourceName": "theguardian.com",
@@ -74,10 +101,19 @@
       "image": "https://i.guim.co.uk/img/media/6240a6de2ac73f3513687ba5ab948105e4735d41/339_0_10178_8143/master/10178.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0edf533f583dcb8a0ad7dccf81a0a58"
     },
     {
+      "title": "An Iowa Town Spent $800,000 On a New Well. It Pumps Undrinkable Water.",
+      "description": "PRINCETON, Iowa—From the beginning, the new well was a headache. Late in 2022, an overly powerful pump caused eight months of costly water main breaks...",
+      "link": "https://insideclimatenews.org/news/03062026/princeton-iowa-contaminated-drinking-water/",
+      "pubDate": "Wed, 03 Jun 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "In Alabama Primary Elections, Incumbent Utility Regulators Feel the Squeeze of High Energy Prices",
       "description": "MONTGOMERY, Ala.—For some incumbents, politics have turned sour in sweet home Alabama. In the May 26 primary election for two seats on the Public Serv...",
       "link": "https://insideclimatenews.org/news/03062026/alabama-utility-regulators-primary-election/",
-      "pubDate": "Wed, 03 Jun 2026 09:00:00 +0000",
+      "pubDate": "Wed, 03 Jun 2026 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
@@ -86,15 +122,6 @@
       "title": "In the Wake of Georgia’s Blue Wave, Alabama Changed Its Utility Regulation Elections. This Black Democrat Is Suing.",
       "description": "MONTGOMERY, Ala—Sheila McNeil thought she knew the race ahead of her.&#160; Without a primary challenger, McNeil knew she was slated to be the Democra...",
       "link": "https://insideclimatenews.org/news/03062026/alabama-public-service-commission-restructuring-lawsuit/",
-      "pubDate": "Wed, 03 Jun 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "An Iowa Town Spent $800,000 On a New Well. It Pumps Undrinkable Water.",
-      "description": "PRINCETON, Iowa—From the beginning, the new well was a headache. Late in 2022, an overly powerful pump caused eight months of costly water main breaks...",
-      "link": "https://insideclimatenews.org/news/03062026/princeton-iowa-contaminated-drinking-water/",
       "pubDate": "Wed, 03 Jun 2026 08:50:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Don’t let nature fall silent: Wildlife Victoria issues public appeal",
-      "description": "Photo credit: Lydia Phelan for Wildlife Victoria Wildlife Victoria has issued a timely public appeal as calls to its Emergency Response Service surge,...",
-      "link": "https://econews.com.au/dont-let-nature-fall-silent-wildlife-victoria-issues-public-appeal/",
-      "pubDate": "Wed, 03 Jun 2026 02:01:55 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/WV-Logo-no-ph.jpg"
-    },
-    {
-      "title": "Plico and Alinta Energy partner to bring Plico Virtual Power Plant Rewards to NSW households",
-      "description": "Australia’s first national virtual power plant, 5,000 strong, demonstrates the value of VPPs Australian clean energy company Plico has partnered with ...",
-      "link": "https://econews.com.au/plico-and-alinta-energy-partner-to-bring-plico-virtual-power-plant-rewards-to-nsw-households/",
-      "pubDate": "Wed, 03 Jun 2026 02:01:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "Slow Food looks to the future, carrying Carlo Petrini’s legacy forward",
-      "description": "Carlo Petrini The global movement enters a new chapter, strengthening communities and projects that embody its founder’s vision Following three days o...",
-      "link": "https://econews.com.au/slow-food-looks-to-the-future-carrying-carlo-petrinis-legacy-forward/",
-      "pubDate": "Wed, 03 Jun 2026 02:01:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://fonts.gstatic.com/s/e/notoemoji/17.0/1f449/32.png"
     }
   ]
 }
