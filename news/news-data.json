@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-06-04T04:56:05.339Z",
+  "lastUpdated": "2026-06-04T08:55:51.571Z",
   "articles": [
+    {
+      "title": "Blood in the well: One town’s fight against the slaughterhouse polluting it",
+      "description": "Residents of a Pennsylvania town took on a beef processor after its waste polluted their wells. They won — but little may change....",
+      "link": "https://grist.org/accountability/blood-in-the-well-one-towns-fight-against-the-slaughterhouse-polluting-it/",
+      "pubDate": "Thu, 04 Jun 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/cleaning-up.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "No, rolling back these environmental rules won&#8217;t lower your grocery bill",
+      "description": "The Trump administration is dismantling two EPA rules, promising cheaper groceries for struggling families. Economists and former officials say it'll ...",
+      "link": "https://grist.org/economics/no-rolling-back-these-environmental-rules-wont-lower-your-grocery-bill/",
+      "pubDate": "Thu, 04 Jun 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/07/coffee-cherries.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Biden’s Clean Drinking Water Plan Is Being Rebranded as MAHA",
+      "description": "This story was originally published by Grist. Sign up for Grist's weekly newsletter here. The Trump administration is promoting multibillion-dollar fu...",
+      "link": "https://insideclimatenews.org/news/04062026/bidens-clean-drinking-water-plan-is-being-rebranded-as-maha/",
+      "pubDate": "Thu, 04 Jun 2026 08:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival",
+      "description": "&lt;p&gt;Global report provides an alternative to climate breakdown, political extremism and economic tensions&lt;/p&gt;&lt;p&gt;• &lt;a href=\"https:/...",
+      "link": "https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival",
+      "pubDate": "Thu, 04 Jun 2026 06:00:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6b7f47d372b028ba2f24a6a4cff93f1010dcb902/1_0_4998_4000/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad8bd92ee3e113f88105dc2c16f52c74"
+    },
+    {
+      "title": "AI-powered conservation project ends",
+      "description": "Space4Nature says it has restored more than 60 hectares of habitat at 22 sites across the county. ...",
+      "link": "https://www.bbc.com/news/articles/c1e2w496jdqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Jun 2026 05:18:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trust celebrates birth of rare lemur quadruplets",
+      "description": "The trust says the quadruplets are incredibly rare, occurring in fewer than 6% of births worldwide. ...",
+      "link": "https://www.bbc.com/news/articles/c5yr1xzn2vno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Jun 2026 05:15:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sanctuary's tiny wild cat to join breeding scheme",
+      "description": "Rusty-spotted cats are also getting new enclosures at The Big Cat Sanctuary in Smarden....",
+      "link": "https://www.bbc.com/news/articles/cj6plxkzx59o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Jun 2026 05:14:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Extra waste burning approved for incinerator",
+      "description": "Viridor can now increase waste at its Beddington energy recovery facility to 382,286 tonnes a year....",
+      "link": "https://www.bbc.com/news/articles/c86d8v0j80zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Jun 2026 05:04:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain",
       "description": "High fuel prices are strengthening the case for EV adoption in the world's third largest auto market. ...",
@@ -101,15 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/61b0236a885a6c67059bf1ae41bbb1f00c588576/383_12_6122_4898/master/6122.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e222f5579acdd437e22ad4037ff3d06"
     },
     {
-      "title": "Bathing warning issued after 'potential water pollution incident'",
-      "description": "The National Trust, which manages Portstewart Strand, has urged visitors to the beach to be vigilant....",
-      "link": "https://www.bbc.com/news/articles/c242ezpv64zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 03 Jun 2026 12:15:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Antibiotics use in livestock could rise by a third in next 15 years, UN report warns",
       "description": "&lt;p&gt;Governments urged to act to prevent potentially disastrous impacts on human resistance to medicines&lt;/p&gt;&lt;p&gt;The use of antibiotics ...",
       "link": "https://www.theguardian.com/environment/2026/jun/03/antibiotics-use-in-livestock-rise-un-fao",
@@ -117,69 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8e765bc66b54586d4af4b3a431ebeef19be9b856/62_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19bf0d3e34e4e7e29a6e2d2f22b36993"
-    },
-    {
-      "title": "Deprivation, resilience and a giant bunny: Polly Braden on capturing the ‘beauty and bleakness’ of young lives on the coast",
-      "description": "&lt;p&gt;In the Guardian’s &lt;a href=\"https://www.theguardian.com/environment/series/against-the-tide\"&gt;Against the tide series&lt;/a&gt;, the docu...",
-      "link": "https://www.theguardian.com/environment/2026/jun/03/polly-braden-photography-young-people-coastal-communities-england-wales-against-the-tide",
-      "pubDate": "Wed, 03 Jun 2026 10:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6240a6de2ac73f3513687ba5ab948105e4735d41/339_0_10178_8143/master/10178.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0edf533f583dcb8a0ad7dccf81a0a58"
-    },
-    {
-      "title": "An Iowa Town Spent $800,000 on a New Well. It Pumps Undrinkable Water.",
-      "description": "PRINCETON, Iowa—From the beginning, the new well was a headache. Late in 2022, an overly powerful pump caused eight months of costly water main breaks...",
-      "link": "https://insideclimatenews.org/news/03062026/princeton-iowa-contaminated-drinking-water/",
-      "pubDate": "Wed, 03 Jun 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Alabama Primary Elections, Incumbent Utility Regulators Feel the Squeeze of High Energy Prices",
-      "description": "MONTGOMERY, Ala.—For some incumbents, politics have turned sour in sweet home Alabama. In the May 26 primary election for two seats on the Public Serv...",
-      "link": "https://insideclimatenews.org/news/03062026/alabama-utility-regulators-primary-election/",
-      "pubDate": "Wed, 03 Jun 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In the Wake of Georgia’s Blue Wave, Alabama Changed Its Utility Regulation Elections. This Black Democrat Is Suing.",
-      "description": "MONTGOMERY, Ala—Sheila McNeil thought she knew the race ahead of her.&#160; Without a primary challenger, McNeil knew she was slated to be the Democra...",
-      "link": "https://insideclimatenews.org/news/03062026/alabama-public-service-commission-restructuring-lawsuit/",
-      "pubDate": "Wed, 03 Jun 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A New N.C. Ratepayer Bill Puts the Brakes on Data Centers, but Incentivizes Fossil Fuels",
-      "description": "RALEIGH, N.C.—The Ratepayer Protection Act, wending its way through the North Carolina legislature, conjoins two opposing ideas: rein in data centers ...",
-      "link": "https://insideclimatenews.org/news/03062026/north-carolina-ratepayer-protection-act-fuels-power-plants/",
-      "pubDate": "Wed, 03 Jun 2026 08:45:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New York backtracked on its climate goals. Here’s why.",
-      "description": "Lawmakers wanted to lead the energy transition, but Governor Kathy Hochul is worried about the cost of ditching natural gas....",
-      "link": "https://grist.org/politics/new-york-kathy-hochul-climate-law-clcpa-natural-gas-methane/",
-      "pubDate": "Wed, 03 Jun 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/Ravenswood-power-plant.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Nebraskans are taking a hard look at data centers",
-      "description": "Residents and officials are finding ways to slow down the development rush....",
-      "link": "https://grist.org/energy/nebraskans-are-taking-a-hard-look-at-data-centers/",
-      "pubDate": "Wed, 03 Jun 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/google-Lincoln-data-center-drone-03.jpg?quality=75&#038;strip=all"
     }
   ]
 }
