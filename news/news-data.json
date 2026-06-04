@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-04T19:27:29.902Z",
+  "lastUpdated": "2026-06-04T21:48:38.626Z",
   "articles": [
     {
+      "title": "Mule deer already using incomplete $20m wildlife bridge in California",
+      "description": "&lt;p&gt;Within the last few days, a camera trap caught images of three mule deer using structure for the first time&lt;/p&gt;&lt;p&gt;A trio of mule ...",
+      "link": "https://www.theguardian.com/us-news/2026/jun/04/california-wildlife-bridge-mule-deer",
+      "pubDate": "Thu, 04 Jun 2026 20:42:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b7b33364ff0b943d7af3f336edee5e94dcddde1f/310_0_646_517/master/646.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d81fb3b92a3721a24da62c646cf5cc8c"
+    },
+    {
+      "title": "Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal",
+      "description": "&lt;p&gt;US president announces plans for two new coal plants, in Alaska and West Virginia, using Defense Production Act&lt;/p&gt;&lt;p&gt;&lt;a href=...",
+      "link": "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act",
+      "pubDate": "Thu, 04 Jun 2026 20:22:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bc5f3a563dadb97783a6302536a996ed01cddb57/478_0_3704_2962/master/3704.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25f2b0de2871c9f735f4e1049a8a135d"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "What role will humans play in the future of scientific research?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977p?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 04 Jun 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Wildfire smoke has reversed US progress toward ozone air quality, study finds",
-      "description": "&lt;p&gt;Since 2015, destructive fires have undone years of effort to reduce ozone levels, underscoring a growing public health crisis&lt;/p&gt;&lt;p&...",
+      "description": "&lt;p&gt;Since 2015, fires have undone years of effort to reduce ozone levels, underscoring a growing public health crisis&lt;/p&gt;&lt;p&gt;The highl...",
       "link": "https://www.theguardian.com/us-news/2026/jun/04/wildfire-smoke-air-quality-ozone",
       "pubDate": "Thu, 04 Jun 2026 19:16:15 GMT",
       "sourceName": "theguardian.com",
@@ -38,15 +65,6 @@
       "image": "https://i.guim.co.uk/img/media/eef3312e8a8c284aea6938bb81da09e3de826e85/479_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9ee5e3334ec3664900c74d7e23621e8"
     },
     {
-      "title": "Trump to use wartime powers to dole out $700m to coal industry",
-      "description": "&lt;p&gt;US president accused of ‘putting polluters first’ by invoking Defense Production Act to prop up coal output&lt;/p&gt;&lt;p&gt;&lt;a href=\"htt...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act",
-      "pubDate": "Thu, 04 Jun 2026 17:28:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bc5f3a563dadb97783a6302536a996ed01cddb57/478_0_3704_2962/master/3704.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25f2b0de2871c9f735f4e1049a8a135d"
-    },
-    {
       "title": "Musk's SpaceX share sale: Four things you need to know",
       "description": "From next week individual investors can take a stake in Musk's rockets-to-AI company....",
       "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&amp;at_campaign=rss",
@@ -63,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e32a7d0f629358d0e1a0bfe443b347c32b8fbe85/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2dbab639934b03e6f8814e620dbcb91c"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "What role will humans play in the future of scientific research?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 04 Jun 2026 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "‘That’s a bad combination’: why Australia may be in for a slushy snow season",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/07/coffee-cherries.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Biden’s Clean Drinking Water Plan Is Being Rebranded as MAHA",
-      "description": "This story was originally published by Grist. Sign up for Grist's weekly newsletter here. The Trump administration is promoting multibillion-dollar fu...",
-      "link": "https://insideclimatenews.org/news/04062026/bidens-clean-drinking-water-plan-is-being-rebranded-as-maha/",
-      "pubDate": "Thu, 04 Jun 2026 08:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
