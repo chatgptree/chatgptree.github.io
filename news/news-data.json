@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-06-04T23:15:42.134Z",
+  "lastUpdated": "2026-06-05T04:40:04.726Z",
   "articles": [
+    {
+      "title": "Hail conditions on the move as winter crops face rising risk",
+      "description": "Photo: Péter Kövesi, Pexels UNSW Sydney Key facts: New research led by UNSW suggests as the climate warms, the conditions that produce hailstorms are ...",
+      "link": "https://econews.com.au/hail-conditions-on-the-move-as-winter-crops-face-rising-risk/",
+      "pubDate": "Fri, 05 Jun 2026 04:02:08 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
+    },
+    {
+      "title": "World Environment Day (5th June) &#124; Commentary from Iron Mountain’s Stuart Dahlenburg, VP &#038; GM, Asset Lifecycle Management APAC",
+      "description": "Stuart Dahlenburg, VP &#38; GM for ALM APAC, Iron Mountain “World Environment Day is a reminder that the shift towards an AI-ready world has real phys...",
+      "link": "https://econews.com.au/world-environment-day-5th-june-commentary-from-iron-mountains-stuart-dahlenburg-vp-gm-asset-lifecycle-management-apac/",
+      "pubDate": "Fri, 05 Jun 2026 04:02:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/Iron-Mountain-logo.png"
+    },
+    {
+      "title": "Australia looks better with a full bush",
+      "description": "Costa Georgiadis and Foundation for National Parks &#38; Wildlife are calling for action to restore the country’s ever-reducing wilderness Our native ...",
+      "link": "https://econews.com.au/australia-looks-better-with-a-full-bush/",
+      "pubDate": "Fri, 05 Jun 2026 04:02:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/Costa-Georgiadis_Bring-Back-the-Bush_FNPW-1024x683.jpg"
+    },
+    {
+      "title": "Green trade statecraft needed to unlock Australia’s $100b green iron opportunity",
+      "description": "A roll of hot metal in a steelmaking workshop. © Shutterstock / Smile-Sky Ztudio WWF-Australia A new report from WWF-Australia warns Australia could m...",
+      "link": "https://econews.com.au/green-trade-statecraft-needed-to-unlock-australias-100b-green-iron-opportunity/",
+      "pubDate": "Fri, 05 Jun 2026 04:02:06 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "World Environment Day: Construction waste holds the key to circularity",
+      "description": "We’re burying the solution World Environment Day this year carries the theme ‘Inspired by Nature. For Climate. For Our Future.’ It’s an invitation to ...",
+      "link": "https://econews.com.au/world-environment-day-construction-waste-holds-the-key-to-circularity/",
+      "pubDate": "Fri, 05 Jun 2026 04:02:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/Boral-Logo-Tagline-Final-Horizontal_RGB_Colour.jpg"
+    },
+    {
+      "title": "Scramble for biofuel as oil prices rise ‘could push world closer to food crisis’",
+      "description": "&lt;p&gt;Experts say increased use of crops for fuel is ‘dangerous game’ that could send food price inflation soaring&lt;/p&gt;&lt;p&gt;Demand for bio...",
+      "link": "https://www.theguardian.com/environment/2026/jun/05/biofuel-alternatives-oil-price-rises-world-food-crisis",
+      "pubDate": "Fri, 05 Jun 2026 04:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ab3f43f4c331b2c357ecf25c966aeec3658c519d/334_0_3640_2912/master/3640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f637337926fb7927b8b537717474b622"
+    },
+    {
+      "title": "New York State Gets One Step Closer to a Data Center Moratorium",
+      "description": "The New York Legislature passed a one-year moratorium Thursday night on data center permits, the latest sign of pushback amid a nationwide rush to bui...",
+      "link": "https://insideclimatenews.org/news/04062026/new-york-data-center-moratorium-bill/",
+      "pubDate": "Fri, 05 Jun 2026 00:59:30 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More than 100,000 cockroaches worth $200,000 seized from NSW breeder in record-breaking bust",
+      "description": "&lt;p&gt;The invertebrates were likely destined for the pet trade, including as reptile food&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https:/...",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/05/live-cockroaches-seized-nsw-breeder-australia",
+      "pubDate": "Fri, 05 Jun 2026 00:22:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/09f7de0b68ebd3c2c2c0356525ac6e9240e75bfb/75_489_1007_806/master/1007.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1797490acbecbc9fdb686be2168e50ef"
+    },
     {
       "title": "Mangrove forests are healing after decades of human destruction",
       "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate....",
@@ -58,7 +130,7 @@
     {
       "title": "BBC Inside Science",
       "description": "What role will humans play in the future of scientific research?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977p?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 04 Jun 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -92,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/87aef91de31bc80c84af144ca626e4691e7951a1/188_0_1673_1338/master/1673.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6a3ce140d3b73b0eccb49c7534635bc"
     },
     {
-      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
-      "description": "&lt;p&gt;Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US&lt;/p&gt;&lt;p&gt;&lt;a h...",
-      "link": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
-      "pubDate": "Thu, 04 Jun 2026 17:40:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eef3312e8a8c284aea6938bb81da09e3de826e85/479_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9ee5e3334ec3664900c74d7e23621e8"
-    },
-    {
       "title": "Musk's SpaceX share sale: Four things you need to know",
       "description": "From next week individual investors can take a stake in Musk's rockets-to-AI company....",
       "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&amp;at_campaign=rss",
@@ -117,69 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e32a7d0f629358d0e1a0bfe443b347c32b8fbe85/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2dbab639934b03e6f8814e620dbcb91c"
-    },
-    {
-      "title": "‘That’s a bad combination’: why Australia may be in for a slushy snow season",
-      "description": "&lt;p&gt;Snow arrives in time for the start of ski season, but climate change and El Niño mean it may not stick around for long, experts say&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/05/australia-ski-season-snow-climate-change-el-nino-impact",
-      "pubDate": "Thu, 04 Jun 2026 15:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/352b068a6da0a11758f0620808506208717fd310/963_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4665d85df8684009adb3d69064ec0a6"
-    },
-    {
-      "title": "Kushner-backed luxury resort plan sparks protests in Albania",
-      "description": "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment....",
-      "link": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 04 Jun 2026 14:33:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bathing warning lifted after pollution investigation",
-      "description": "Officials say the water at Portstewart Strand does not pose a risk to the public. ...",
-      "link": "https://www.bbc.com/news/articles/ckgprrmmzj9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 04 Jun 2026 13:23:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Energy Demand Rises, More States Turn to Virtual Power Plants",
-      "description": "An executive order in Massachusetts and a regulatory commission action in Minnesota are among the big moves this year that highlight the growing role ...",
-      "link": "https://insideclimatenews.org/news/04062026/inside-clean-energy-virtual-power-plants-role-in-transition-away-from-fossil-fuels/",
-      "pubDate": "Thu, 04 Jun 2026 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Alarm as once-eradicated flesh-eating parasite found in calf in Texas",
-      "description": "&lt;p&gt;USDA confirms first case of new world screwworm fly in cattle in six decades, posing threat to livestock industry&lt;/p&gt;&lt;p&gt;A flesh-e...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/04/new-world-screwworm-texas-cattle-industry",
-      "pubDate": "Thu, 04 Jun 2026 12:54:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cc54265e143c14d2aeb26f67d7e0bc7624c088a5/169_0_1685_1349/master/1685.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d546c96091e45de448687d64c2c5c95"
-    },
-    {
-      "title": "Trust celebrates birth of rare lemur quadruplets",
-      "description": "The trust says the quadruplets are incredibly rare, occurring in fewer than 6% of births worldwide. ...",
-      "link": "https://www.bbc.com/news/articles/c5yr1xzn2vno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 04 Jun 2026 11:11:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘To them a power line is a line of trees’: Costa Rica moves to protect howler monkeys from electrocution",
-      "description": "&lt;p&gt;Electric shock is one of the biggest causes of death among wildlife in the country but a court ruling is a first step to making power lines s...",
-      "link": "https://www.theguardian.com/environment/2026/jun/04/costa-rica-monkey-electrocution-power-line-court-ruling-animals-deforestation-aoe",
-      "pubDate": "Thu, 04 Jun 2026 10:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ea4f02a06b247ce08b273c8c8d0ab8cc49ba14aa/243_0_1500_1201/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=230ea1ee38f6edfaedf91a05c198c142"
     }
   ]
 }
