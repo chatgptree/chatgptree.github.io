@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-05T23:17:30.831Z",
+  "lastUpdated": "2026-06-06T04:13:13.882Z",
   "articles": [
+    {
+      "title": "Trump Funds Two New Coal Plants and Extends Another Dozen, Citing ‘Energy Dominance’",
+      "description": "Thursday’s flurry of coal news from energy officials included $425 million to extend the life of 12 coal plants in several states, such as $50 million...",
+      "link": "https://insideclimatenews.org/news/05062026/trump-energy-department-funds-coal-projects/",
+      "pubDate": "Sat, 06 Jun 2026 00:12:15 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Feds Will Soon Impose New Framework on Colorado River if States Can’t Agree How to Manage It",
       "description": "BOULDER, Colo.—The federal government will impose a 10-year operating framework for managing water use in the Colorado River Basin by the end of this ...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cd95aa5ea1ed4ae1d1b4815b5ceb1f35e71e3487/271_766_1854_1483/master/1854.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68f757d0e88817de807ab3565f62f8e1"
-    },
-    {
-      "title": "Henry Moore works to be unveiled at botanic garden",
-      "description": "The botanic garden says the pieces aim to encourage visitors to reflect on nature and humanity....",
-      "link": "https://www.bbc.com/news/articles/ce3pdd4qkdqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 05 Jun 2026 05:22:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
