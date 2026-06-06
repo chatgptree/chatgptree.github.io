@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-06T12:10:54.807Z",
+  "lastUpdated": "2026-06-06T14:48:54.404Z",
   "articles": [
+    {
+      "title": "Federal agency to open tens of thousands of acres of Colorado wilderness to oil drilling",
+      "description": "Wildlife habitat, endangered animals, and recreation could all be at risk in the state’s biggest public land sale in modern history....",
+      "link": "https://grist.org/energy/feds-to-open-tens-of-thousands-of-acres-of-colorado-wilderness-to-oil-drilling/",
+      "pubDate": "Sat, 06 Jun 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/california-governor-race-becerra-chevron-gas-prices-refineries-oil.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Grave in Norfolk of 119 sailors may be exhumed due to coastal erosion threat",
+      "description": "&lt;p&gt;Bodies were buried in Happisburgh after HMS Invincible sank in 1801 on way to join Nelson at Battle of Copenhagen&lt;/p&gt;&lt;p&gt;A mass gr...",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/06/norfolk-mass-grave-119-sailors-exhumed-coastal-erosion",
+      "pubDate": "Sat, 06 Jun 2026 12:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c5b00fbb7dc27daf53264a8e5fe4f21a09a2b503/665_0_6617_5297/master/6617.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffbdee21d1fc1f399547b08c8c924e08"
+    },
     {
       "title": "UK urged not to further weaken EV rules as CO2 impact revealed",
       "description": "&lt;p&gt;British vehicles will emit extra 17m tonnes of CO2 by 2030 due to loophole allowing sale of more PHEVs, data suggests&lt;/p&gt;&lt;p&gt;Campa...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Georgia Power Rates Dip, But the Savings Aren’t Likely to Last",
-      "description": "Georgia’s two largest utility proceedings of the year were settled last month between Georgia regulators and Georgia Power. Customers and utility advo...",
-      "link": "https://insideclimatenews.org/news/05062026/georgia-power-rates-dip-but-utility-could-profit/",
-      "pubDate": "Fri, 05 Jun 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Your local park is bringing in the green (and by that, we mean money)",
-      "description": "A new report finds that for every dollar invested in parks, cities reap $3 in economic benefits. Here's how....",
-      "link": "https://grist.org/cities/your-local-park-is-bringing-in-the-green-and-by-that-we-mean-money/",
-      "pubDate": "Fri, 05 Jun 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/pocket-garden.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
