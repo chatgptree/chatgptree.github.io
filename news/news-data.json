@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-07T11:55:37.004Z",
+  "lastUpdated": "2026-06-07T14:11:52.607Z",
   "articles": [
+    {
+      "title": "Trump uses wartime powers to dole out $700 million to ‘clean, beautiful’ coal",
+      "description": "The president announced plans for two new coal plants in Alaska and West Virginia, using the Defense Production Act....",
+      "link": "https://grist.org/energy/trump-uses-wartime-powers-to-dole-out-700-million-to-clean-beautiful-coal/",
+      "pubDate": "Sun, 07 Jun 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/coalie-featimg.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Residents' health fears over plan to burn more waste",
+      "description": "The Environment Agency has permitted for an extra 10% of waste to be burned at the Beddington incinerator....",
+      "link": "https://www.bbc.com/news/articles/c1eypqxd928o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 07 Jun 2026 12:07:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Mass Sloth Deaths in Florida Show Why the Wildlife Trade Is a Pandemic Risk",
       "description": "When pathologists cut open dead sloths from a planned Florida tourist attraction, they found a plethora of pathogens. Parasites, bacteria and viruses ...",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/05062026/sea-level-rise-impacts-mangrove-forests/",
       "pubDate": "Fri, 05 Jun 2026 20:27:06 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Iran War Jeopardizes Global Food Security",
-      "description": "The worldwide fallout from the U.S. war in Iran isn’t limited to gas prices. The largely blocked Strait of Hormuz has become “a critical failure point...",
-      "link": "https://insideclimatenews.org/news/05062026/iran-war-jeopardizes-global-food-security/",
-      "pubDate": "Fri, 05 Jun 2026 20:11:10 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "description": "The US president said on Friday he expects to meet the leaders of top AI companies next week....",
-      "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 05 Jun 2026 19:36:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
