@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-08T21:57:05.463Z",
+  "lastUpdated": "2026-06-08T23:18:55.391Z",
   "articles": [
+    {
+      "title": "Trump Administration Emergency Order to Keep Florida Coal Plant Running",
+      "description": "Under a Trump administration emergency order, a Florida coal-fired power plant will continue operating. The facility had been scheduled for retirement...",
+      "link": "https://insideclimatenews.org/news/08062026/trump-emergency-order-keeps-florida-coal-plant-open/",
+      "pubDate": "Mon, 08 Jun 2026 22:31:05 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Southern Lights timelapse filmed from space",
       "description": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir....",
@@ -12,7 +21,7 @@
     },
     {
       "title": "Watch: Southern Lights timelapse filmed from space",
-      "description": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir....",
+      "description": "This occurrence of aurora australis, or Southern Lights, was captured by Nasa astronaut Jessica Meir....",
       "link": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 08 Jun 2026 18:58:57 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -44,7 +53,7 @@
       "pubDate": "Mon, 08 Jun 2026 15:00:28 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/3b361147d8c044fb7df8048c37d10b1186d8240a/991_37_1831_1466/master/1831.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=583175e69f89be3143c547639af6359a"
+      "image": "https://i.guim.co.uk/img/media/64e7f925b5e1499e9dd908d4cd0b6887a140a43a/1158_16_4374_3499/master/4374.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14bf0116b6ddedfec374acc08766eb7d"
     },
     {
       "title": "Diver captures rare footage of great white shark in the Mediterranean Sea – video",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.com/news/articles/c1eypqxd928o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 07 Jun 2026 12:07:17 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mass Sloth Deaths in Florida Are a Warning About Wildlife Trade and Pandemic Risk, Scientists Say",
-      "description": "When pathologists cut open dead sloths from a planned Florida tourist attraction, they found a plethora of pathogens. Parasites, bacteria and viruses ...",
-      "link": "https://insideclimatenews.org/news/07062026/florida-sloth-deaths-highlight-wildlife-trade-disease-risk/",
-      "pubDate": "Sun, 07 Jun 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
