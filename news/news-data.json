@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-08T16:11:04.883Z",
+  "lastUpdated": "2026-06-08T19:27:42.534Z",
   "articles": [
+    {
+      "title": "Southern Lights timelapse filmed from space",
+      "description": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir....",
+      "link": "https://www.bbc.com/news/videos/czx5gkykp0yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 08 Jun 2026 19:18:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Watch: Southern Lights timelapse filmed from space",
+      "description": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir....",
+      "link": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 08 Jun 2026 18:58:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Guardian view on climate equality: a richer life and real public abundance, not just more stuff | Editorial",
+      "description": "&lt;p&gt;The Global Justice Report offers a hopeful bargain: tax extreme wealth and replace consumer excess with social and economic security for all&...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/08/the-guardian-view-on-climate-equality-a-richer-life-and-real-public-abundance-not-just-more-stuff",
+      "pubDate": "Mon, 08 Jun 2026 17:28:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9a6b40875fc30ba69b4d70a4ffb163cf6cbf1418/613_0_3200_2560/master/3200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ace322cf0f1daa2caba8b59437e0ba57"
+    },
+    {
+      "title": "‘Severe’ stress on oceans as rate of sea level rise doubles in 10 years, UN warns",
+      "description": "&lt;p&gt;Global effort needed to limit effects of pollution, industrial fishing and climate crisis, World Ocean Assessment says&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/environment/2026/jun/08/un-world-ocean-assessment-severe-stress-sea-level-rise-doubles-pollution-fishing-climate",
+      "pubDate": "Mon, 08 Jun 2026 16:45:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2c0f4762a1032e7153616b434a5373392893fe21/347_0_2806_2245/master/2806.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8e0acfd29ad7f74f1f176b8eb2331e5"
+    },
     {
       "title": "Diver captures rare footage of great white shark in the Mediterranean Sea – video",
       "description": "&lt;p&gt;Footage captured by a diver shows a rare sighting of a great white shark in the Mediterranean Sea, spotted between Tunisia and Sicily. &lt;/p...",
@@ -142,42 +178,6 @@
       "link": "https://insideclimatenews.org/news/07062026/iowa-farmers-talk-regulation-amid-water-crisis/",
       "pubDate": "Sun, 07 Jun 2026 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Terrible Combined With the Good",
-      "description": "The Ratepayer Protection Act, making its way through the North Carolina legislature, conjoins two opposing ideas. On one side, the bill would rein in ...",
-      "link": "https://insideclimatenews.org/news/07062026/icn-sunday-morning-north-carolina-ratepayer-bill/",
-      "pubDate": "Sun, 07 Jun 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ecologist calls for plastics ban in cemetery",
-      "description": "Alison Fure is asking the council to begin phasing out plastic decorative items, including flowers....",
-      "link": "https://www.bbc.com/news/articles/c3r25edye9do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 07 Jun 2026 07:17:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fisher with a mission: first woman to chair Grayling Society wants to protect ‘lady of the stream’",
-      "description": "&lt;p&gt;Marnie Lovejoy hopes to inspire other women to fish, protect England’s rivers and lift up the ‘beautiful’ grayling&lt;/p&gt;&lt;p&gt;&lt;/p&g...",
-      "link": "https://www.theguardian.com/environment/2026/jun/07/fisher-mission-first-woman-chair-grayling-society-protect-rivers",
-      "pubDate": "Sun, 07 Jun 2026 07:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2b394515acf4d89bc960e1560e43b2e96c9fcadc/466_1_3334_2669/master/3334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=addf1ec8bf5d7098472ea9bd8fd2a495"
-    },
-    {
-      "title": "Village solar system model shows planets and stars",
-      "description": "How a Kent village created a scale model of the solar system to help people understand space....",
-      "link": "https://www.bbc.com/news/articles/cjdpdlv3zp7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 07 Jun 2026 06:15:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
