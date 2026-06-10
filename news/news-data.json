@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-09T23:22:56.931Z",
+  "lastUpdated": "2026-06-10T04:37:53.033Z",
   "articles": [
+    {
+      "title": "For first time, Americans are getting more of their electricity from solar than coal",
+      "description": "Solar provides more than twice the share of electricity it did five years ago....",
+      "link": "https://grist.org/solutions/for-first-time-americans-are-getting-more-of-their-electricity-from-solar-than-coal/",
+      "pubDate": "Wed, 10 Jun 2026 04:05:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Bycatch has ‘shocking’ toll on British marine life, first-ever analysis reveals",
+      "description": "&lt;p&gt;Conservationists say cherished creatures such as whales, dolphins and seabirds are being killed in large numbers by fishing tackle&lt;/p&gt;&...",
+      "link": "https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis",
+      "pubDate": "Wed, 10 Jun 2026 04:00:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6bb855d60552c50ad10d28ab6331c123a9ccc20c/322_0_5356_4286/master/5356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd9313c9b362119626754acb4b964341"
+    },
     {
       "title": "Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end",
       "description": "&lt;p&gt;Targeted vaccination and improved testing planned as part of drive to eradicate disease by 2038&lt;/p&gt;&lt;p&gt;Cattle will be vaccinated a...",
@@ -93,7 +111,7 @@
     },
     {
       "title": "‘Osprey cam’ streams life of nesting seabirds perched at tip of 55 metre-long Queensland rainforest canopy crane",
-      "description": "&lt;p&gt;Researchers believe the same pair of birds have been mating and nesting in the unusual spot in the Daintree Rainforest for 15 consecutive yea...",
+      "description": "&lt;p&gt;Researchers believe the same pair of birds has been mating and nesting in the unusual spot in the Daintree Rainforest for 15 consecutive year...",
       "link": "https://www.theguardian.com/australia-news/2026/jun/10/osprey-cam-streams-nesting-seabirds-queensland-rainforest-canopy-crane",
       "pubDate": "Tue, 09 Jun 2026 15:00:02 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/236341ecdc24cf6f2028bd4029fbfec8d88e3731/950_0_4244_3396/master/4244.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=879b26d7ac7279416f2b3893ee2b6f8c"
-    },
-    {
-      "title": "Scotland's greenhouse gas emissions fall slightly as progress slows",
-      "description": "The amount of planet-warming gases produced in 2024 fell by 1% compared to the previous year....",
-      "link": "https://www.bbc.com/news/articles/cg748xd7vpjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 09 Jun 2026 11:42:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scotland's greenhouse gas emissions fall slightly as progress slows",
-      "description": "The amount of planet-warming gases produced in 2024 fell by 1% compared to the previous year....",
-      "link": "https://www.bbc.com/news/articles/cg748xd7vpjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 09 Jun 2026 11:42:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
