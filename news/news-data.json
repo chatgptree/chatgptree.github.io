@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-11T18:22:28.595Z",
+  "lastUpdated": "2026-06-11T21:27:01.642Z",
   "articles": [
+    {
+      "title": "‘Super El Niño’ is officially here, scientists say. What can we expect?",
+      "description": "&lt;p&gt;Experts say climate pattern could supercharge extreme weather events and push temperatures to record highs&lt;/p&gt;&lt;p&gt;&lt;a href=\"http...",
+      "link": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
+      "pubDate": "Thu, 11 Jun 2026 20:46:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/237b50c4ac4261eae77b7f685bd6566a3d096235/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fdee14d30b594af0cb3a86e4efa38761"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "How engineers fulfilled Gaudi’s once impossible vision for the Sagrada Familia....",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Jun 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Scientists reveal surprising mechanism behind Venus flytrap’s rapid snap",
       "description": "&lt;p&gt;Intricate tests show hair-trigger detection causes cells on outer surface of leaf to soften, prompting closure&lt;/p&gt;&lt;p&gt;The Venus fl...",
@@ -38,22 +56,13 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Bananas could vanish from US school lunch menus. Here’s why",
+      "title": "Bananas could vanish from US school meals. Here’s why",
       "description": "&lt;p&gt;New Farm Bill places caps on non-US foods; nutritionists say it restricts availability of healthy meals for kids&lt;/p&gt;&lt;p&gt;School nut...",
       "link": "https://www.theguardian.com/environment/2026/jun/11/farm-bill-school-lunches-non-us-foods",
       "pubDate": "Thu, 11 Jun 2026 17:00:21 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cdfa11bead94c6c108148be80bc62ccd931112a9/0_702_2903_2322/master/2903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6d82b395bc1c414984d07034233e3ee"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "How engineers fulfilled Gaudi’s once impossible vision for the Sagrada Familia....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977q?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 11 Jun 2026 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/11062026/texas-oil-well-leaks-million-of-gallons-of-toxic-wastewater/",
       "pubDate": "Thu, 11 Jun 2026 08:55:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What federal cuts to science funding could mean for the Great Lakes",
-      "description": "Facing another round of cuts, NOAA-funded researchers worry about undermining public safety, the maritime economy, and health on the Great Lakes....",
-      "link": "https://grist.org/science/what-federal-cuts-to-science-funding-could-mean-for-the-great-lakes/",
-      "pubDate": "Thu, 11 Jun 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
