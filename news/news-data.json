@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-06-11T05:58:46.082Z",
+  "lastUpdated": "2026-06-11T10:55:27.609Z",
   "articles": [
+    {
+      "title": "Six ways to keep your home and yourself cool in hot weather",
+      "description": "Six simple things you can do to help keep your house cool when temperatures rise. ...",
+      "link": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Jun 2026 10:32:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Solar generates more energy in US than coal for first time",
+      "description": "&lt;p&gt;Solar supplied 12.8% of US electricity in May even as Trump boosts coal over clean energy&lt;/p&gt;&lt;p&gt;Even as Donald Trump boosts coal ...",
+      "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "pubDate": "Thu, 11 Jun 2026 10:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb88d08819a77058d0e25f54ab3fbb5f"
+    },
+    {
+      "title": "What are UV levels and how can you protect yourself?",
+      "description": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.  \n...",
+      "link": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Jun 2026 09:48:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Biscayne Bay Is Slowly Becoming the Ocean",
+      "description": "In the shadow of Miami’s skyline, in water churned daily by boats and jet skis, juvenile great hammerhead sharks—a critically endangered species—spend...",
+      "link": "https://insideclimatenews.org/news/11062026/miami-biscayne-bay-sea-level-rise-threatens-sharks-and-aquifer/",
+      "pubDate": "Thu, 11 Jun 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "An Old Well Gushed Waste, Not Oil, in a Small West Texas Town",
+      "description": "GRANDFALLS, Texas—An old oil well sprang back to life under the parking lot of the First Baptist Church of Grandfalls in April. Over the next eight da...",
+      "link": "https://insideclimatenews.org/news/11062026/texas-oil-well-leaks-million-of-gallons-of-toxic-wastewater/",
+      "pubDate": "Thu, 11 Jun 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What federal cuts to science funding could mean for the Great Lakes",
+      "description": "Facing another round of cuts, NOAA-funded researchers worry about undermining public safety, the maritime economy, and health on the Great Lakes....",
+      "link": "https://grist.org/science/what-federal-cuts-to-science-funding-could-mean-for-the-great-lakes/",
+      "pubDate": "Thu, 11 Jun 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "RMetS Weather Photographer of the Year 2026 Opens for Entries",
+      "description": "Image: The Gorgeous Ring, Shuchang Dong and Geshuang Chen – Winner of the Main Category, 2025 The world’s favourite weather photography competition re...",
+      "link": "https://econews.com.au/rmets-weather-photographer-of-the-year-2026-opens-for-entries/",
+      "pubDate": "Thu, 11 Jun 2026 06:02:02 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "“Drive for Free” – EV Leader Says Solar Sharer Can Completely Wipe Fuel Costs for Australians",
+      "description": "Evnex CEO Ed Harvey Many of Australia’s 454,000 EV owners could have $0 fuel costs from July, thanks to free electricity under the federal government’...",
+      "link": "https://econews.com.au/drive-for-free-ev-leader-says-solar-sharer-can-completely-wipe-fuel-costs-for-australians/",
+      "pubDate": "Thu, 11 Jun 2026 06:02:00 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/image-7.jpeg"
+    },
+    {
+      "title": "Zoho Corporation Unveils Nathu La, a Designed-in-House Server, in a Move Towards Technological Sovereignty and Inference Cost Reduction",
+      "description": "Nathu La Server Chassis Front View The server reduces the total cost of ownership by 20-30% and power consumption by 12-18% Zoho Corporation, a global...",
+      "link": "https://econews.com.au/zoho-corporation-unveils-nathu-la-a-designed-in-house-server-in-a-move-towards-technological-sovereignty-and-inference-cost-reduction/",
+      "pubDate": "Thu, 11 Jun 2026 06:01:56 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
     {
       "title": "Pollution rules criticised for raising new home costs",
       "description": "Developers claim the rules will stop them from hitting housebuilding targets....",
@@ -17,7 +98,7 @@
       "pubDate": "Thu, 11 Jun 2026 05:00:07 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/c07cf7589091d9186e8e7cb8f0edc8229e8e3510/302_0_3018_2414/master/3018.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a98fc6148e6a30b148b3809ad4facdca"
+      "image": "https://i.guim.co.uk/img/media/db2c93994d5c9f62b218709b733c35fb9317c439/63_0_4720_3776/master/4720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c50bb441fc980edb083a41f62c39918e"
     },
     {
       "title": "Cost of living pressures hit charities and communities in latest ACNC data",
@@ -99,87 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The fight to stop animals dying in fishing nets",
-      "description": "Thousands of sea mammals and birds are killed as a result of fishing nets every year....",
-      "link": "https://www.bbc.com/news/articles/c1kynwpd0jlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 10 Jun 2026 17:17:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rare butterfly population increases by 9000%",
-      "description": "A record number of Duke of Burgundy butterflies were recorded in Kent last year, a charity says....",
-      "link": "https://www.bbc.com/news/articles/cg537mr5qv3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 10 Jun 2026 16:53:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "North Carolina Sues Chemical Company for Polluting a Nearby Creek",
-      "description": "DURHAM, N.C.—Acetone and ethanol, 1,4-dioxane and “mucilaginous goo.” For decades, state regulatory documents show, a chemical repackaging and distrib...",
-      "link": "https://insideclimatenews.org/news/10062026/north-carolina-sues-brenntag-for-water-contamination/",
-      "pubDate": "Wed, 10 Jun 2026 16:50:17 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Four days of extreme rain in Indonesia killed 7% of world’s rarest great apes, study finds",
-      "description": "&lt;p&gt;Critically endangered Tapanuli orangutan population falls after heavy rain and landslides, fuelled by climate crisis, in North Sumatra&lt;/p&...",
-      "link": "https://www.theguardian.com/world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
-      "pubDate": "Wed, 10 Jun 2026 16:18:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8c24d843b7436f3f696fc1c2a360e9a848c702cc/1215_263_3442_2754/master/3442.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0349bd076e66c727682d75d2270ff9e"
-    },
-    {
-      "title": "Toby Carvery to fund orchard replanting as settlement for felling ancient oak",
-      "description": "&lt;p&gt;Enfield council in north London took legal action against restaurant chain after outrage over damage to tree  &lt;/p&gt;&lt;p&gt;The UK resta...",
-      "link": "https://www.theguardian.com/environment/2026/jun/10/toby-carvery-to-pay-for-orchard-planting-after-causing-outrage-by-felling-500-year-old-oak",
-      "pubDate": "Wed, 10 Jun 2026 15:30:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8299d549c1df9886ed5c2636bdfe620a1933dda3/683_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e78d0f289e0dfc319c83efb000fe9552"
-    },
-    {
-      "title": "‘Every day it’s more barriers’: how the US is shutting out climate refugees",
-      "description": "&lt;p&gt;As the US shuts its doors to most refugees, there’s little hope of a new system to help those forced from home by climate impacts&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/10/climate-change-crisis-refugees",
-      "pubDate": "Wed, 10 Jun 2026 13:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6b68b8fbf0275861448ae20d5d19fa54b5af5a5a/667_0_3333_2668/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d82bcd5bd3fd72b4828b58ff4240e50"
-    },
-    {
-      "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "description": "&lt;p&gt;A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally&lt;/p&gt;&lt;ul&gt;&lt;...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "pubDate": "Wed, 10 Jun 2026 13:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e568abb057651e11af43846809a978df3c5a45ff/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eacbb29eaeac394d90486ad92b4bf270"
-    },
-    {
-      "title": "The rightwing campaign to control how US judges view the climate crisis",
-      "description": "&lt;p&gt;US energy secretary Chris Wright featured in seminars to judges when he was a fracking executive&lt;/p&gt;&lt;p&gt;As cities and states sue b...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/10/judges-climate-crisis-energy-secretary",
-      "pubDate": "Wed, 10 Jun 2026 12:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f8073c4400a29b0949dd98834a68e99b61575e75/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d6bbe75d32ea042be07f3c7faae0673a"
-    },
-    {
-      "title": "Big agriculture is killing our bees. We’ll all pay the price | Jennie Durant",
-      "description": "&lt;p&gt;We’re thinking about the crisis facing pollinators all wrong. And we’ve come to a crucial moment&lt;/p&gt;&lt;p&gt;Last winter, commercial be...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/10/agriculture-bees-environment",
-      "pubDate": "Wed, 10 Jun 2026 10:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/35f3e3ad06eaa1ddab630b43c710ecd5f8c9c637/200_0_4700_3761/master/4700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8339f2375380a0dc55e911940292bafa"
     }
   ]
 }
