@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-06-11T14:47:24.796Z",
+  "lastUpdated": "2026-06-11T18:22:28.595Z",
   "articles": [
+    {
+      "title": "Scientists reveal surprising mechanism behind Venus flytrap’s rapid snap",
+      "description": "&lt;p&gt;Intricate tests show hair-trigger detection causes cells on outer surface of leaf to soften, prompting closure&lt;/p&gt;&lt;p&gt;The Venus fl...",
+      "link": "https://www.theguardian.com/science/2026/jun/11/venus-flytrap-rapid-snap-mechanism",
+      "pubDate": "Thu, 11 Jun 2026 18:00:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/46cd001b03b97e0135302068154ff3db97b9f794/420_0_3239_2592/master/3239.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=446206542d715d1af21dd1bc089beff1"
+    },
+    {
+      "title": "Subterranean fungi networks more than 100 quadrillion km in length, study finds",
+      "description": "&lt;p&gt;First ever global mapping of arbuscular mycorrhizal fungi shows scale of hyphal systems that sustain plant life&lt;/p&gt;&lt;p&gt;Our planet’...",
+      "link": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
+      "pubDate": "Thu, 11 Jun 2026 18:00:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c42f62a12e1d873861e272945c78a8c6770aa211/30_0_3103_2482/master/3103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88d9a8183bb40cb84d21e27f886d3129"
+    },
+    {
+      "title": "This unfathomably huge fungal network keeps Earth cool and green",
+      "description": "Spanning 110 quadrillion kilometers, arbuscular mycorrhizal fungi are critical allies of plants. They also transport an enormous amount of planet-warm...",
+      "link": "https://grist.org/science/this-unfathomably-huge-fungal-network-keeps-earth-cool-and-green/",
+      "pubDate": "Thu, 11 Jun 2026 18:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/hyphal-density.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Pennsylvania Activists Urge Lawmakers to Help Curb Soaring Electric Bills",
+      "description": "Advocates for lower electricity prices in Pennsylvania said Wednesday their goals can be achieved by requiring large-load users like data centers to s...",
+      "link": "https://insideclimatenews.org/news/11062026/pennsylvania-electric-bills-driven-by-data-center-development/",
+      "pubDate": "Thu, 11 Jun 2026 17:31:07 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Bananas could vanish from US school lunch menus. Here’s why",
+      "description": "&lt;p&gt;New Farm Bill places caps on non-US foods; nutritionists say it restricts availability of healthy meals for kids&lt;/p&gt;&lt;p&gt;School nut...",
+      "link": "https://www.theguardian.com/environment/2026/jun/11/farm-bill-school-lunches-non-us-foods",
+      "pubDate": "Thu, 11 Jun 2026 17:00:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cdfa11bead94c6c108148be80bc62ccd931112a9/0_702_2903_2322/master/2903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6d82b395bc1c414984d07034233e3ee"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "How engineers fulfilled Gaudi’s once impossible vision for the Sagrada Familia....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977q?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Jun 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+      "description": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study....",
+      "link": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Jun 2026 15:02:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+      "description": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study....",
+      "link": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 11 Jun 2026 15:02:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
       "description": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune....",
@@ -12,7 +84,7 @@
     },
     {
       "title": "El Niño forms in Pacific as experts say it will likely turbocharge extreme weather",
-      "description": "&lt;p&gt;Meteroogists forecast it will rival – or exceed – record El Niño from 1997 and further heat globe &lt;/p&gt;&lt;p&gt;El Niño, Nature’s chaoti...",
+      "description": "&lt;p&gt;Meteorologists predict it will be the strongest of century, while UN secretary-general calls it ‘urgent climate warning’&lt;/p&gt;&lt;p&gt;&l...",
       "link": "https://www.theguardian.com/us-news/2026/jun/11/el-nino-forms-historic-strength",
       "pubDate": "Thu, 11 Jun 2026 13:50:55 GMT",
       "sourceName": "theguardian.com",
@@ -106,78 +178,6 @@
       "link": "https://grist.org/science/what-federal-cuts-to-science-funding-could-mean-for-the-great-lakes/",
       "pubDate": "Thu, 11 Jun 2026 08:45:00 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "RMetS Weather Photographer of the Year 2026 Opens for Entries",
-      "description": "Image: The Gorgeous Ring, Shuchang Dong and Geshuang Chen – Winner of the Main Category, 2025 The world’s favourite weather photography competition re...",
-      "link": "https://econews.com.au/rmets-weather-photographer-of-the-year-2026-opens-for-entries/",
-      "pubDate": "Thu, 11 Jun 2026 06:02:02 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "“Drive for Free” – EV Leader Says Solar Sharer Can Completely Wipe Fuel Costs for Australians",
-      "description": "Evnex CEO Ed Harvey Many of Australia’s 454,000 EV owners could have $0 fuel costs from July, thanks to free electricity under the federal government’...",
-      "link": "https://econews.com.au/drive-for-free-ev-leader-says-solar-sharer-can-completely-wipe-fuel-costs-for-australians/",
-      "pubDate": "Thu, 11 Jun 2026 06:02:00 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/image-7.jpeg"
-    },
-    {
-      "title": "Zoho Corporation Unveils Nathu La, a Designed-in-House Server, in a Move Towards Technological Sovereignty and Inference Cost Reduction",
-      "description": "Nathu La Server Chassis Front View The server reduces the total cost of ownership by 20-30% and power consumption by 12-18% Zoho Corporation, a global...",
-      "link": "https://econews.com.au/zoho-corporation-unveils-nathu-la-a-designed-in-house-server-in-a-move-towards-technological-sovereignty-and-inference-cost-reduction/",
-      "pubDate": "Thu, 11 Jun 2026 06:01:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Pollution rules criticised for raising new home costs",
-      "description": "Developers claim the rules will stop them from hitting housebuilding targets....",
-      "link": "https://www.bbc.com/news/articles/c5yzrpp220lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 11 Jun 2026 05:43:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Millions of homes in London, Essex and Kent at risk of sinking as climate crisis worsens",
-      "description": "&lt;p&gt;Analysis pinpoints areas most vulnerable to hotter, drier weather causing ground to shrink and drag foundations down&lt;/p&gt;&lt;p&gt;Millio...",
-      "link": "https://www.theguardian.com/environment/2026/jun/11/millions-homes-london-essex-and-kent-sinking-climate-crisis-subsidence",
-      "pubDate": "Thu, 11 Jun 2026 05:00:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/db2c93994d5c9f62b218709b733c35fb9317c439/63_0_4720_3776/master/4720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c50bb441fc980edb083a41f62c39918e"
-    },
-    {
-      "title": "Cost of living pressures hit charities and communities in latest ACNC data",
-      "description": "Commissioner Sue Woodward AM, Australian Charities and Not-for-profits Commission (ACNC) Australian Charities and Not-for-profits Commission Key facts...",
-      "link": "https://econews.com.au/cost-of-living-pressures-hit-charities-and-communities-in-latest-acnc-data/",
-      "pubDate": "Thu, 11 Jun 2026 04:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/unnamed-2026-06-11T132118.129.jpg"
-    },
-    {
-      "title": "Gamuda Renewables Enters Victoria Market with Solar &#038; Bess Project, Signalling Future Data Centre Opportunities",
-      "description": "Building on the success of its Central Tasmanian energy portfolio, Gamuda Renewable Pty Ltd (Gamuda Renewables) has made its inaugural Victorian inves...",
-      "link": "https://econews.com.au/gamuda-renewables-enters-victoria-market-with-solar-bess-project-signalling-future-data-centre-opportunities/",
-      "pubDate": "Thu, 11 Jun 2026 04:01:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/unnamed-2026-06-11T131702.282.png"
-    },
-    {
-      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
-      "description": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study....",
-      "link": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 11 Jun 2026 03:50:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
