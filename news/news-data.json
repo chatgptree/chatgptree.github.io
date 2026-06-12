@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-12T21:57:00.914Z",
+  "lastUpdated": "2026-06-12T23:39:36.153Z",
   "articles": [
+    {
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "description": "The BBC breaks down how the tech mogul's fortune has grown....",
+      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 12 Jun 2026 23:05:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Climate Change Culprits Not Addressed by Global Policy",
+      "description": "Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits. These other emissions, unlike carbon dioxide, don’t have a d...",
+      "link": "https://insideclimatenews.org/news/12062026/global-warming-overlooked-pollutants/",
+      "pubDate": "Fri, 12 Jun 2026 22:58:18 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump’s EPA Unlawfully Cancelled Environmental Justice Grants, Judge Rules",
+      "description": "A federal judge in South Carolina ruled this week that the Trump administration’s termination of environmental justice grants was “illegal.” The decis...",
+      "link": "https://insideclimatenews.org/news/12062026/judge-rules-trump-environmental-justice-grant-cancellations-unlawful/",
+      "pubDate": "Fri, 12 Jun 2026 22:42:33 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Hoover Dam Approaches a Hydropower Cliff",
       "description": "Some day in the next 12 months—maybe in late August, maybe not until next spring— Lake Mead will drop below the critical threshold of 1,035 feet above...",
@@ -146,15 +173,6 @@
       "image": "https://grist.org/wp-content/uploads/2026/06/Palisades-fire-utility-repair.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Watch: Three things to know about SpaceX's stock market debut",
-      "description": "The BBC's Samira Hussain explains everything you need to know about SpaceX's historic IPO....",
-      "link": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 12 Jun 2026 08:39:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "What is the best use for old railroad tracks? New Yorkers have opinions.",
       "description": "The fight over an abandoned stretch of railway in Queens reflects a national debate over whether unused track should become parks, transit lines, or b...",
       "link": "https://grist.org/cities/what-is-the-best-use-for-old-railroad-tracks-new-yorkers-have-opinions/",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/06/GettyImages-2270281453.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Nuclear in my backyard: A Nebraska utility is skirting the public backlash that plagues wind and solar",
-      "description": "Across the state, nuclear is getting a warm welcome in communities that typically oppose large-scale clean energy projects....",
-      "link": "https://grist.org/climate-energy/nuclear-in-my-backyard-a-nebraska-utility-is-skirting-the-public-backlash-that-plague-wind-and-solar/",
-      "pubDate": "Fri, 12 Jun 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/Solar-panels-and-coal_Getty-Images.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Goblin shark with face ‘not even a mother would love’ seen alive in natural habitat for first time",
-      "description": "&lt;p&gt;Elusive creatures have previously only been seen on fishing lines and experts know ‘virtually nothing about them’&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
-      "link": "https://www.theguardian.com/environment/2026/jun/12/goblin-shark-seen-alive-natural-habitat-first-time",
-      "pubDate": "Fri, 12 Jun 2026 07:35:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9589a24809a7bd784031fb590e059c9c53e0e04d/231_0_1013_810/master/1013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e45f9fba3538d3f24d2edd662508121e"
     }
   ]
 }
