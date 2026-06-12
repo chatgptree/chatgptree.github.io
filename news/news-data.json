@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-11T23:44:19.954Z",
+  "lastUpdated": "2026-06-12T04:54:09.825Z",
   "articles": [
+    {
+      "title": "Britain’s favourite butterfly revealed – and it’s a familiar backyard beauty",
+      "description": "&lt;p&gt;More than 20,000 votes cast in Butterfly Conservation’s poll of 60 native species to find nation’s favourite for first time&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2026/jun/12/britain-favourite-butterfly-revealed-garden-peacock",
+      "pubDate": "Fri, 12 Jun 2026 04:00:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6d7d2471cc1faad0238c1dfeec10e4b136037d78/0_0_2175_1741/master/2175.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=477eadc42d6bc6fd2f86b540bcde4af8"
+    },
+    {
+      "title": "‘The birds will fly away’: can Albania’s flamingo revolution keep its wetlands free from Trumps and tourists?",
+      "description": "&lt;p&gt;A luxury resort backed by the US president’s family may be built on a wildlife-rich nature reserve in one of Europe’s poorest nations&lt;/p&g...",
+      "link": "https://www.theguardian.com/world/2026/jun/12/albania-flamingos-wetlands-trump-tourists",
+      "pubDate": "Fri, 12 Jun 2026 04:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/df35dcaf713ba315d7955a55d2990e4119c055ca/340_0_4171_3339/master/4171.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1538feca90c50543f6b94ba6502d5d1"
+    },
     {
       "title": "Threads of Earth’s Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System",
       "description": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if conne...",
@@ -22,7 +40,7 @@
     {
       "title": "BBC Inside Science",
       "description": "How engineers fulfilled Gaudi’s once impossible vision for the Sagrada Familia....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977q?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 11 Jun 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -102,7 +120,7 @@
     },
     {
       "title": "El Niño forms in Pacific as experts say it will likely turbocharge extreme weather",
-      "description": "&lt;p&gt;Meteorologists predict it will be the strongest of century, while UN secretary-general calls it ‘urgent climate warning’&lt;/p&gt;&lt;p&gt;&l...",
+      "description": "&lt;p&gt;Meteorologists in US predict it will be the strongest of century, while UN secretary-general calls it ‘urgent climate warning’&lt;/p&gt;&lt;p...",
       "link": "https://www.theguardian.com/us-news/2026/jun/11/el-nino-forms-historic-strength",
       "pubDate": "Thu, 11 Jun 2026 13:50:55 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb88d08819a77058d0e25f54ab3fbb5f"
-    },
-    {
-      "title": "What are UV levels and how can you protect yourself?",
-      "description": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.  \n...",
-      "link": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 11 Jun 2026 09:48:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Biscayne Bay Is Slowly Becoming the Ocean",
-      "description": "In the shadow of Miami’s skyline, in water churned daily by boats and jet skis, juvenile great hammerhead sharks—a critically endangered species—spend...",
-      "link": "https://insideclimatenews.org/news/11062026/miami-biscayne-bay-sea-level-rise-threatens-sharks-and-aquifer/",
-      "pubDate": "Thu, 11 Jun 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
