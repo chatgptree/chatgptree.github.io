@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-13T08:28:24.737Z",
+  "lastUpdated": "2026-06-13T11:22:12.168Z",
   "articles": [
+    {
+      "title": "How a new arrival could help save rare giraffe",
+      "description": "Three-year-old Stanley will be critical to helping the Wiltshire safari park conserve his species....",
+      "link": "https://www.bbc.com/news/articles/cvg78pk5gxgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 13 Jun 2026 10:03:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?",
+      "description": "The starry night sky has always anchored humanity’s sense of place in a vast universe. It’s a map guiding travelers, a calendar for migrations and har...",
+      "link": "https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/",
+      "pubDate": "Sat, 13 Jun 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles",
+      "description": "“Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope. “Pull!”&#160; With each pull, a 172-pound male loggerhead sea t...",
+      "link": "https://insideclimatenews.org/news/13062026/florida-volunteers-work-to-save-endangered-sea-turtles/",
+      "pubDate": "Sat, 13 Jun 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Their Breath Was Captured in the Tree’",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with botanist and aut...",
+      "link": "https://insideclimatenews.org/news/13062026/beronda-montgomery-americas-black-botanical-legacy/",
+      "pubDate": "Sat, 13 Jun 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Tropical heron spotted in UK for first time as more exotic birds arrive to thrill birdwatchers",
       "description": "&lt;p&gt;Appearance of a western reef heron in north Wales is unlikely to be the last, as heating temperatures mean species can survive Britain’s wint...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/002aedd6858b43524a23cf1e39ea7e470e582693/539_0_2751_2202/master/2751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a51e70b97d080e9f112249e7a30b0c23"
-    },
-    {
-      "title": "The fight to stop animals dying in fishing nets",
-      "description": "Thousands of sea mammals and birds are killed as a result of fishing nets every year....",
-      "link": "https://www.bbc.com/news/videos/cdxdzk1ge9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 12 Jun 2026 13:27:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "First few days of new chicks hatched at osprey centre captured on camera",
-      "description": "Six of the new chicks are from two pairs who can be seen at a centre in north Wales....",
-      "link": "https://www.bbc.com/news/articles/cd0me2j00vmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 12 Jun 2026 13:20:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Have you ever heard of Earthshine?",
-      "description": "Sophia Herod looks at how the Moon can be lit by sunlight reflected from the Earth....",
-      "link": "https://www.bbc.com/news/videos/cddl6n2plzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 12 Jun 2026 11:20:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'I was employee number one at SpaceX'",
-      "description": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002....",
-      "link": "https://www.bbc.com/news/videos/c74yxv1dk7yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 12 Jun 2026 09:59:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
