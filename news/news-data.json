@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-13T11:22:12.168Z",
+  "lastUpdated": "2026-06-13T14:18:50.834Z",
   "articles": [
+    {
+      "title": "Calls to restore chalk grassland for rare insects",
+      "description": "Buglife says the project aims to restore more than 30 hectares of the vital ecosystem....",
+      "link": "https://www.bbc.com/news/articles/c6213ex52g2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 13 Jun 2026 13:01:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Every day it’s more barriers’: how the US is shutting out climate refugees",
+      "description": "As the US shuts its doors to most refugees, there’s little hope of a new system to help those forced from home by climate impacts....",
+      "link": "https://grist.org/migration/every-day-its-more-barriers-how-the-us-is-shutting-out-climate-refugees/",
+      "pubDate": "Sat, 13 Jun 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/12/Climate-migration.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "How a new arrival could help save rare giraffe",
       "description": "Three-year-old Stanley will be critical to helping the Wiltshire safari park conserve his species....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/62354aa141ac7fe74ddf46a92aad8617e46b4bb0/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe873c750526fd614d35295db3d5bb38"
-    },
-    {
-      "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive &lt;/strong&gt;A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the...",
-      "link": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
-      "pubDate": "Fri, 12 Jun 2026 15:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/78d9aa55c0ffaa0fc386490eee32edd79a66063a/106_0_3200_2560/master/3200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=920f44b034f8b612f08d5f833d7e4987"
-    },
-    {
-      "title": "‘It’s massive destruction’: outcry in Texas over waivers to allow border wall in Big Bend national park",
-      "description": "&lt;p&gt;Despite plunging border crossings, the Trump administration is circumventing laws to expedite building in a vast, pristine wilderness &lt;/p&...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/13/texas-border-wall-big-bend-national-park",
-      "pubDate": "Fri, 12 Jun 2026 14:00:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/002aedd6858b43524a23cf1e39ea7e470e582693/539_0_2751_2202/master/2751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a51e70b97d080e9f112249e7a30b0c23"
     }
   ]
 }
