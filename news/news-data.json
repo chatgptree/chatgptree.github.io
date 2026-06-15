@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-06-15T05:19:16.390Z",
+  "lastUpdated": "2026-06-15T12:36:10.584Z",
   "articles": [
+    {
+      "title": "State bans on Pfas reduce ‘forever chemicals’ in clothing and textiles, US report finds",
+      "description": "&lt;p&gt;About 80% of 115 products tested show levels of Pfas that comply with rules – but some firms still exceeding limits&lt;/p&gt;&lt;p&gt;State l...",
+      "link": "https://www.theguardian.com/environment/2026/jun/15/pfas-clothing-textiles-report",
+      "pubDate": "Mon, 15 Jun 2026 12:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ae3bcdbb1bf8b7721b4be1f080a8feff040ebfbc/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a70e2702fc787390ade5e912b6afb8e"
+    },
+    {
+      "title": "‘Life-changing’ injuries: family reels from ‘tragic situation’ as Coogee shark attack victim loses arm",
+      "description": "&lt;p&gt;The family of Leah Stewart is braced for more bad news and the impact on her 18-month-old daughter&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get ...",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/15/coogee-shark-attack-woman-survivor-leah-stewart-sydney-arm-amputated",
+      "pubDate": "Mon, 15 Jun 2026 10:31:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b7d601726d77aa43a9d90f63287e31a241b1c5f8/17_59_273_218/master/273.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e363e6d137b62240a9360eb465ef99a"
+    },
+    {
+      "title": "Microsoft’s Clean Energy Reversal Collides with Virginia’s Climate Goals",
+      "description": "One of the world's most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricit...",
+      "link": "https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/",
+      "pubDate": "Mon, 15 Jun 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Even $75M from Trump may not save Oakland’s embattled coal terminal",
+      "description": "The federal funding is the latest twist in a decade-long saga to build a terminal in Oakland, California, that can export U.S. coal overseas....",
+      "link": "https://grist.org/energy/trump-oakland-coal-terminal-funding/",
+      "pubDate": "Mon, 15 Jun 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rinehart buys ‘significant’ stake in Elon Musk’s SpaceX – as it happened",
+      "description": "&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
+      "pubDate": "Mon, 15 Jun 2026 08:35:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0099f7ab30752ed81645c9d2c7e27f9cca500f89/419_0_4191_3354/master/4191.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc66363e929daef54bc0250cd274a59c"
+    },
+    {
+      "title": "Weekly Update – Global Fertiliser Markets – w/e 12.06.2026: UREA PRICE COLLAPSE",
+      "description": "• UREA PRICES COLLAPSE; China removed export floor price prior to the India tender, triggering aggressive short selling and wiping approximately USD 1...",
+      "link": "https://econews.com.au/weekly-update-global-fertiliser-markets-w-e-12-06-2026-urea-price-collapse/",
+      "pubDate": "Mon, 15 Jun 2026 08:01:51 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-11T163118.172.png"
+    },
+    {
+      "title": "NSW invasive species review faces budget-day reckoning",
+      "description": "The Invasive Species Council has warned the Minns Government risks squandering a once-in-a-generation opportunity to fix NSW’s failing invasive specie...",
+      "link": "https://econews.com.au/nsw-invasive-species-review-faces-budget-day-reckoning/",
+      "pubDate": "Mon, 15 Jun 2026 08:01:49 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/04/Invasive-Species-Council-logo.png"
+    },
+    {
+      "title": "‘The Antarctic is the last frontier’: the quest to save Shackleton’s Endurance",
+      "description": "&lt;p&gt;Amid fears the wreck will be more accessible to explorers – and new species – as the climate warms, conservationists want to create the regio...",
+      "link": "https://www.theguardian.com/environment/2026/jun/15/shackleton-endurance-shipwrecks-global-heating-antarctic-underwater-protected-area",
+      "pubDate": "Mon, 15 Jun 2026 06:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ed11a7094ec4cb428910143cfb3f906253a57ad6/1010_191_1721_1378/master/1721.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd04c741a898ade3c067cecd22034f46"
+    },
+    {
+      "title": "Shark expert says Tony Abbott ‘doesn’t understand the science’ after former PM calls for cull",
+      "description": "&lt;p&gt;Another expert says drone technology may have prevented shark attack at Coogee beach on Saturday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a ...",
+      "link": "https://www.theguardian.com/environment/2026/jun/15/shark-expert-says-tony-abbott-doesnt-understand-the-science-after-former-pm-calls-for-cull",
+      "pubDate": "Mon, 15 Jun 2026 05:49:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/902afda10c35e5897da1e9e6becfa7e163f7e164/29_0_3355_2684/master/3355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=843685a5e101f53cef54f51dec2ddd8c"
+    },
     {
       "title": "New microplastics research examines River Thames",
       "description": "Water samples are assessed for pollution levels and any impact climate pressures may be having on the river system....",
@@ -27,15 +108,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Australia news live: John Farnham song not banned under hate speech laws, Queensland government confirms",
-      "description": "&lt;p&gt;Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl...",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
-      "pubDate": "Mon, 15 Jun 2026 04:59:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8666ca4e21cd0c79f4bba31684b7d25900710ade/908_34_4312_3450/master/4312.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10d38634de15707a67695b1f3c3e5357"
     },
     {
       "title": "New Forests launches first global natural capital strategy",
@@ -101,24 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/c6bd4ed49d82a1d82cb53198f8da2e9613370503/548_21_2416_1934/master/2416.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e485814749f99f8f57de54247ccd7d30"
     },
     {
-      "title": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres",
-      "description": "&lt;p&gt;‘Coastal uplift’ exposes coral and kills marine life, as residents say shorelines extended by up to 200 metres&lt;/p&gt;&lt;p&gt;A powerful e...",
-      "link": "https://www.theguardian.com/world/2026/jun/14/philippines-earthquake-raised-seabed-costal-uplift-coral-exposed",
-      "pubDate": "Sun, 14 Jun 2026 11:07:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/97d20e1d855d2a948da15f483274380ca7dc0917/100_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc7f4bfad495babeee1b966591e686cd"
-    },
-    {
-      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
-      "description": "&lt;p&gt;Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beaches&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
-      "link": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
-      "pubDate": "Sun, 14 Jun 2026 11:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c2ea9d22372a7c255a931335441309afce34a1d0/287_0_2890_2313/master/2890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c997b58d55d0174f3a406c88375570d"
-    },
-    {
       "title": "‘It’s going to be extremely hot’: workers imperiled as sweltering World Cup temperatures are forecast",
       "description": "&lt;p&gt;It could top 90F in several cities hosting World Cup games – and workers could pay the price with their health&lt;/p&gt;&lt;p&gt;As the &lt;a...",
       "link": "https://www.theguardian.com/us-news/2026/jun/14/world-cup-heat-workers",
@@ -126,60 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/18061863815e0e1b8ec4d3c12855ef698d9909a0/815_0_4084_3266/master/4084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d666ad813a8ce34ae641896fb2ee2d40"
-    },
-    {
-      "title": "Amoc collapse could change Europe’s climate 10x faster than expected. We aren’t ready",
-      "description": "&lt;p&gt;The system of ocean current that moves heat in the Atlantic Ocean plays a key role in regulating climate. Today’s monitoring of it may be dis...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate",
-      "pubDate": "Sun, 14 Jun 2026 10:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2a4cd2e5bcd905b1a3342e8494baba283482994e/654_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56161b76dfffecc338d25a6b7dc4da99"
-    },
-    {
-      "title": "As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat",
-      "description": "MAJURO, Marshall Islands—Perched on the bow of an aluminum landing craft, Anne Cohen gazed a few yards ahead of the vessel toward a yellow robot glidi...",
-      "link": "https://insideclimatenews.org/news/14062026/scientists-search-for-heat-resilient-reefs/",
-      "pubDate": "Sun, 14 Jun 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pandemic Roulette",
-      "description": "Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roul...",
-      "link": "https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/",
-      "pubDate": "Sun, 14 Jun 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How forgotten voyages helped track El Nino",
-      "description": "A century ago, research ship William Scoresby left Hull for pioneering work in the southern oceans....",
-      "link": "https://www.bbc.com/news/articles/cnv9dlppmr7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 14 Jun 2026 07:35:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Denial is back in vogue. As Australia leads climate talks, it’s beyond time we took the issue seriously",
-      "description": "&lt;p&gt;It is unlikely that many voters are flocking to Pauline Hanson for her scientific insights – but that is where they are lining up, regardless...",
-      "link": "https://www.theguardian.com/environment/2026/jun/14/climate-denial-in-vogue-pauline-hanson-australia-cop31-ntwnfb",
-      "pubDate": "Sat, 13 Jun 2026 20:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b541ea177926285ef8193350ebe211b40936dd54/963_0_5728_4583/master/5728.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5bdd97df6134177a86e6a208b18c7fb"
-    },
-    {
-      "title": "I was a hardcore twitcher. I understand why the Cocos booby has Australia’s birders in a frenzy | Andrew Stafford",
-      "description": "&lt;p&gt;Twitchers can be the subject of derision but they have greatly expanded our understanding of birdlife in the age of extinction&lt;/p&gt;&lt;p...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/14/cocos-booby-twitching-australia-birders",
-      "pubDate": "Sat, 13 Jun 2026 20:00:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/199f6eb416f933c79caec17218843ec0e4cdd609/226_0_2676_2140/master/2676.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0cd7ba8f487ed27b02a87a80149b8e"
     }
   ]
 }
