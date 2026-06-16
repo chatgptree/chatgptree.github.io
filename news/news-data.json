@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-16T21:13:45.344Z",
+  "lastUpdated": "2026-06-16T23:40:58.750Z",
   "articles": [
+    {
+      "title": "Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit",
+      "description": "&lt;p&gt;Justice department urges judge to throw out suit brought by NAACP over xAI’s methane-gas turbines in Mississippi&lt;/p&gt;&lt;p&gt;The Trump ...",
+      "link": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration",
+      "pubDate": "Tue, 16 Jun 2026 23:01:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/57052094ac7484fa57870e1f2bbd88fa4d7f750a/1027_0_5133_4107/master/5133.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d7333c37ceb3e37a5df91a9ee976f5e"
+    },
+    {
+      "title": "‘Sponge Cities’ Are Catching On. But Can They Handle Supercharged Storms?",
+      "description": "In 2011, a short but catastrophic cloudburst hammered Copenhagen, flooding parts of the Danish city with more than 5 inches of rain in a single day.&#...",
+      "link": "https://insideclimatenews.org/news/16062026/todays-climate-sponge-cities-rain-flooding/",
+      "pubDate": "Tue, 16 Jun 2026 22:19:36 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Emergency Drawdown at Flaming Gorge Hits Its Recreation Economy",
+      "description": "As campers with boats flocked to Buckboard Marina at the start of Memorial Day weekend, Tony Valdez was busy issuing refunds and repairing broken boat...",
+      "link": "https://insideclimatenews.org/news/16062026/emergency-drawdown-at-flaming-gorge-hits-its-recreation-economy/",
+      "pubDate": "Tue, 16 Jun 2026 21:43:17 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "More Coral Reefs May Survive Climate Change Than Scientists Once Thought",
       "description": "For years, the outlook for coral reefs has been increasingly bleak. Mass coral bleaching events caused by severe marine heatwaves have fueled repeated...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ae3bcdbb1bf8b7721b4be1f080a8feff040ebfbc/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a70e2702fc787390ade5e912b6afb8e"
-    },
-    {
-      "title": "Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals",
-      "description": "One of the world's most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricit...",
-      "link": "https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/",
-      "pubDate": "Mon, 15 Jun 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Even $75M from Trump may not save Oakland’s embattled coal terminal",
-      "description": "The federal funding is the latest twist in a decade-long saga to build a terminal in Oakland, California, that can export U.S. coal overseas....",
-      "link": "https://grist.org/energy/trump-oakland-coal-terminal-funding/",
-      "pubDate": "Mon, 15 Jun 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Weekly Update – Global Fertiliser Markets – w/e 12.06.2026: UREA PRICE COLLAPSE",
-      "description": "• UREA PRICES COLLAPSE; China removed export floor price prior to the India tender, triggering aggressive short selling and wiping approximately USD 1...",
-      "link": "https://econews.com.au/weekly-update-global-fertiliser-markets-w-e-12-06-2026-urea-price-collapse/",
-      "pubDate": "Mon, 15 Jun 2026 08:01:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-11T163118.172.png"
     }
   ]
 }
