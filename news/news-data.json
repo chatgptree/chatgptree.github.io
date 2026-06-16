@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-15T23:53:20.573Z",
+  "lastUpdated": "2026-06-16T05:22:58.616Z",
   "articles": [
+    {
+      "title": "Half of world’s children exposed to at least three climate hazards, Unicef says",
+      "description": "&lt;p&gt;Almost every child, including those from high-income countries, is now exposed to at least one hazard&lt;/p&gt;&lt;p&gt;Half of the world’s c...",
+      "link": "https://www.theguardian.com/environment/2026/jun/16/half-of-worlds-children-exposed-to-at-least-three-climate-hazards-unicef-says",
+      "pubDate": "Tue, 16 Jun 2026 05:00:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/beafeb716a014c53afc8aeb7b643843285fea886/528_0_4213_3371/master/4213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40dcd351c38b12b8af66cc9944fcab62"
+    },
+    {
+      "title": "Trump Administration Abandons Fight Against Wind Energy as Clean Energy Output Surges",
+      "description": "The Trump administration has abandoned its effort to halt wind energy projects across the United States and dropped its challenge to the court ruling ...",
+      "link": "https://insideclimatenews.org/news/15062026/trump-administration-abandons-fight-against-wind-energy/",
+      "pubDate": "Tue, 16 Jun 2026 00:18:34 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump wants to put a $75m coal terminal in this liberal California city. Residents aren’t having it",
       "description": "&lt;p&gt;Residents of West Oakland, which suffers from toxic waste and high pollution rates, rally against a coal export facility&lt;/p&gt;&lt;p&gt;We...",
@@ -35,7 +53,7 @@
       "pubDate": "Mon, 15 Jun 2026 10:31:58 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/b7d601726d77aa43a9d90f63287e31a241b1c5f8/17_59_273_218/master/273.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e363e6d137b62240a9360eb465ef99a"
+      "image": "https://i.guim.co.uk/img/media/425b9e0a791368fb82f81c14d9dac81996cca71a/0_90_310_248/master/310.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=503021a70f3909b28a760389d39528a9"
     },
     {
       "title": "Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fears dogs to blame for drop in little tern numbers",
-      "description": "It has been the worst year for dogs getting too close to the nesting birds, a wildlife trust says....",
-      "link": "https://www.bbc.com/news/articles/cy73gx8px2eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 14 Jun 2026 15:09:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Want a deal on a heat pump? Team up with your neighbors.",
-      "description": "Bulk buying is a tried-and-true way to get discounts on rooftop solar. Now programs aimed at heat pumps are popping up too, helping people save thousa...",
-      "link": "https://grist.org/energy/want-a-deal-on-a-heat-pump-team-up-with-your-neighbors/",
-      "pubDate": "Sun, 14 Jun 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/05/GettyImages-161113644.jpeg?quality=75&#038;strip=all"
     }
   ]
 }
