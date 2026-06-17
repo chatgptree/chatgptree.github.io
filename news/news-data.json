@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-06-17T11:11:31.117Z",
+  "lastUpdated": "2026-06-17T15:55:56.644Z",
   "articles": [
+    {
+      "title": "Space industry giants visit fabrics factory",
+      "description": "Delegates from Nasa and Space X were among those visiting the firm that makes specialist fabrics....",
+      "link": "https://www.bbc.com/news/articles/c621xnl1p49o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 15:49:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Sloth Exhibitor Shut Down by New York Wants a Florida Comeback—and Florida Licensed Him",
+      "description": "An exotic animal exhibitor whose sloth-encounters business was shuttered by New York courts is attempting to relaunch his operations in Florida, right...",
+      "link": "https://insideclimatenews.org/news/17062026/larry-wallach-florida-sloth-encounter-business/",
+      "pubDate": "Wed, 17 Jun 2026 15:30:29 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Honeybees make specialised ‘baby food’ to give larvae balanced diet, study says",
+      "description": "&lt;p&gt;Researchers also discover bees can adjust their diets when pollen sources do not provide healthy level of nutrients&lt;/p&gt;&lt;p&gt;Honeybe...",
+      "link": "https://www.theguardian.com/environment/2026/jun/17/honeybees-blend-food-pollen-larvae-balanced-diet-study",
+      "pubDate": "Wed, 17 Jun 2026 15:00:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d5a4ddea82b2501f9388828c4984bd479599e072/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=afd4dd00e546ab7f5c95f88ad979609e"
+    },
+    {
+      "title": "Okra up north: how a forgotten heirloom travelled the African diaspora to Toronto",
+      "description": "&lt;p&gt;Okra holds a special place in many African-descended communities, and a Canadian farmer with Jamaican roots is growing a very old variety&lt;...",
+      "link": "https://www.theguardian.com/environment/2026/jun/17/okra-canada-us-south",
+      "pubDate": "Wed, 17 Jun 2026 14:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ab16b1c56d8f4f5c2d18893ba2469a7e7ad1bd8d/212_0_5840_4672/master/5840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee11126a7b6f666f11f1b627f672a15d"
+    },
+    {
+      "title": "Jaguar Land Rover to make more hybrid cars in US sales push",
+      "description": "&lt;p&gt;Drive to appeal to wealthy Americans is part of pivot away from previously announced all-electric strategy&lt;/p&gt;&lt;p&gt;Jaguar Land Rove...",
+      "link": "https://www.theguardian.com/business/2026/jun/17/jaguar-land-rover-reverses-ev-only-factory-plans",
+      "pubDate": "Wed, 17 Jun 2026 13:44:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/400acece5c0b014ea5e286bd843423db89edf175/0_0_5698_4561/master/5698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2197043fcbf9aa2266699e3286b12530"
+    },
+    {
+      "title": "Rising temperatures may increase flood risk through river ‘whiplash’, study finds",
+      "description": "&lt;p&gt;Sudden shifts from wet to dry weather, or vice versa, may foil typical drought- and flood-prevention measures&lt;/p&gt;&lt;p&gt;Rising temper...",
+      "link": "https://www.theguardian.com/environment/2026/jun/17/rising-temperatures-may-increase-flood-risk-through-river-whiplash-study-finds",
+      "pubDate": "Wed, 17 Jun 2026 13:24:00 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3b9aeccb9232b879a1fb4701a79881c70be39d18/1673_168_6327_5061/master/6327.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=810c2f5117707785edae52ada564a561"
+    },
+    {
+      "title": "US public still favours action on climate change despite Trump’s fossil fuel drive",
+      "description": "&lt;p&gt;Two-thirds of Americans say they are worried about climate but level of media coverage does not reflect this&lt;/p&gt;&lt;p&gt;US political a...",
+      "link": "https://www.theguardian.com/environment/2026/jun/17/climate-change-public-opinion-trump-fossil-fuel",
+      "pubDate": "Wed, 17 Jun 2026 12:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b6e026a4e65b8a531b3e07ed737aa5e51884eb53/199_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=263fa6cb995b179e4e986f8c27e091e6"
+    },
     {
       "title": "The ocean has shielded us from the worst of climate change. Now it is running a fever | Karina Von Schuckmann",
       "description": "&lt;p&gt;Nearly every indicator of climate change is flashing red. But we still hold the tools available to bring the planet back into balance&lt;/p&g...",
@@ -117,69 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More Coral Reefs May Survive Climate Change Than Scientists Once Thought",
-      "description": "For years, the outlook for coral reefs has been increasingly bleak. Mass coral bleaching events caused by severe marine heatwaves have fueled repeated...",
-      "link": "https://insideclimatenews.org/news/16062026/climate-resilient-coral-reefs/",
-      "pubDate": "Tue, 16 Jun 2026 19:39:58 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The tide is turning on Thames Water: special administration looks best | Nils Pratley",
-      "description": "&lt;p&gt;It is still not totally clear what the government wants but the political mood seems to be shifting towards a decision&lt;/p&gt;&lt;ul&gt;&lt...",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/16/tide-is-turning-on-thames-water-special-administration-looks-best",
-      "pubDate": "Tue, 16 Jun 2026 18:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/43b9629d1d660e3d9ebc0e21c77dd620ead80a26/683_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2aae7023bfa01e68c778fd739319e7f4"
-    },
-    {
-      "title": "US lawmakers fight Trump cuts to $386m ocean monitoring program: ‘supreme stupidity’",
-      "description": "&lt;p&gt;Lisa Murkowski, a Republican senator, joins Democrats in bid to stop dismantling of Ocean Observatories Initiative&lt;/p&gt;&lt;ul&gt;&lt;li&...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/16/ocean-monitoring-cuts-trump",
-      "pubDate": "Tue, 16 Jun 2026 14:48:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9eba0eae5f0ad7ebaad68880e1073e76722de0d9/182_0_3560_2848/master/3560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fedfd2902a33e32c9576c4f401abbe10"
-    },
-    {
-      "title": "Retail giants join UK government drive to boost ‘plug-in’ balcony solar panels",
-      "description": "&lt;p&gt;Asda, Amazon and B&amp;amp;Q among retailers in talks to sell devices that feed into household sockets and can cut electricity bills by 30%&l...",
-      "link": "https://www.theguardian.com/money/2026/jun/16/retail-giants-join-uk-government-drive-to-boost-plug-in-balcony-solar-panels",
-      "pubDate": "Tue, 16 Jun 2026 14:01:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab484d591e02ea285658424ae5ae49dc557ccbbd/505_0_2391_1913/master/2391.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e04d2a53bea44d0239ed80f7361ded7"
-    },
-    {
-      "title": "‘At first, the idea does sound crazy’: meet the scientists trying to refreeze the Arctic",
-      "description": "&lt;p&gt;Sea ice is melting fast, worsening the climate crisis, but a bold attempt to rethicken it is showing early signs of success &lt;/p&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/environment/2026/jun/16/arctic-sea-ice-rethickening-climate-geoengineering",
-      "pubDate": "Tue, 16 Jun 2026 14:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c70d358bd395cacb92dcd0fc0c86fe5072f4abb7/918_889_2845_2275/master/2845.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1186aad13fa347f3d08a09b8f0fb8387"
-    },
-    {
-      "title": "Thames Water nationalisation moves closer as government objects to rescue deal",
-      "description": "&lt;p&gt;Environment secretary raises concerns that customers would face ‘undue burden’ from £10bn plan&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hr...",
-      "link": "https://www.theguardian.com/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat",
-      "pubDate": "Tue, 16 Jun 2026 13:52:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/701b16c64b62c73d63238cd2ab586e61606e5a2d/245_0_2609_2089/master/2609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba7d5f1dd6348b6b28a31bd696a4a0ae"
-    },
-    {
-      "title": "Dartmoor pony cull proposal prompts urgent call for livestock rule change",
-      "description": "&lt;p&gt;Exclusive: Sources say Defra’s policy on livestock fails to distinguish between ponies and sheep&lt;/p&gt;&lt;p&gt;Natural England and MPs ar...",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/16/natural-england-and-mps-call-for-rule-change-to-stop-dartmoor-pony-cull",
-      "pubDate": "Tue, 16 Jun 2026 13:36:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2feb9ec69f9a374133a4905e23b4570c8755146e/0_166_4318_3453/master/4318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3bfe59df4a353085840dd1b720164d52"
     }
   ]
 }
