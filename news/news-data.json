@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-17T15:55:56.644Z",
+  "lastUpdated": "2026-06-17T18:27:17.823Z",
   "articles": [
+    {
+      "title": "Atlantic hurricane season opens with Tropical Storm Arthur inundating Gulf coast",
+      "description": "&lt;p&gt;The southern US is seeing intense rain that is expected to cause dangerous flash flooding&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"h...",
+      "link": "https://www.theguardian.com/us-news/2026/jun/17/tropical-storm-arthur-atlantic-hurricane-season",
+      "pubDate": "Wed, 17 Jun 2026 16:55:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/247d95a6c733e7ce1d7415322c242cd14da24ba1/1477_379_4523_3618/master/4523.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0295fbdf4c9045baaad43d6735ccdc2f"
+    },
+    {
+      "title": "Scientists Warn of Summer Heat Spikes as Global Warming Edges Toward 2C",
+      "description": "Former federal climate experts warn that atmospheric carbon dioxide concentrations hit a record high in May and that the monthly average global temper...",
+      "link": "https://insideclimatenews.org/news/17062026/summer-heat-spike-as-global-warming-surges/",
+      "pubDate": "Wed, 17 Jun 2026 15:59:44 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Space industry giants visit fabrics factory",
       "description": "Delegates from Nasa and Space X were among those visiting the firm that makes specialist fabrics....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/57052094ac7484fa57870e1f2bbd88fa4d7f750a/1027_0_5133_4107/master/5133.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d7333c37ceb3e37a5df91a9ee976f5e"
-    },
-    {
-      "title": "‘Sponge Cities’ Are Catching On. But Can They Handle Supercharged Storms?",
-      "description": "In 2011, a short but catastrophic cloudburst hammered Copenhagen, flooding parts of the Danish city with more than 5 inches of rain in a single day.&#...",
-      "link": "https://insideclimatenews.org/news/16062026/todays-climate-sponge-cities-rain-flooding/",
-      "pubDate": "Tue, 16 Jun 2026 22:19:36 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Emergency Drawdown at Flaming Gorge Hits Its Recreation Economy",
-      "description": "As campers with boats flocked to Buckboard Marina at the start of Memorial Day weekend, Tony Valdez was busy issuing refunds and repairing broken boat...",
-      "link": "https://insideclimatenews.org/news/16062026/emergency-drawdown-at-flaming-gorge-hits-its-recreation-economy/",
-      "pubDate": "Tue, 16 Jun 2026 21:43:17 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
