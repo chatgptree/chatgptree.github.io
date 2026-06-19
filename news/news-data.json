@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-18T22:59:10.902Z",
+  "lastUpdated": "2026-06-19T01:49:26.178Z",
   "articles": [
+    {
+      "title": "Alabama Limestone Quarry Settles Lawsuit Over Dust, Noise",
+      "description": "Residents of the small north Alabama community of Belle Mina are breathing easier after reaching a settlement with a limestone quarry they say was dis...",
+      "link": "https://insideclimatenews.org/news/18062026/alabama-limestone-quarry-settlement/",
+      "pubDate": "Fri, 19 Jun 2026 00:23:14 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Federal Regulators Tell Electric Grid Operators to Fix Their Rules on Data Centers",
+      "description": "The nation’s electric grid is stressed out.&#160; Unprecedented energy demands for large customers, such as data centers and cryptomines, are strainin...",
+      "link": "https://insideclimatenews.org/news/18062026/federal-energy-regulatory-commission-data-center-orders/",
+      "pubDate": "Fri, 19 Jun 2026 00:11:43 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "United Nations Climate Talks in Bonn Marked by ‘Sidestepping and Stalling’",
       "description": "The United States did not send a federal government delegation to the latest round of high-level global climate negotiations in Bonn, Germany, but the...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The US military is spending big on critical minerals",
-      "description": "Indigenous peoples raise the alarm as Pentagon spending on lithium, graphite, and other minerals skyrockets....",
-      "link": "https://grist.org/indigenous/the-us-military-is-spending-big-on-critical-minerals/",
-      "pubDate": "Thu, 18 Jun 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/2026_051_AA_Minerals_v4_Minerals.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "‘The sea took everything away’: how Nigeria’s ‘Happy City’ is disappearing beneath the waves",
-      "description": "&lt;p&gt;More than half of Ayetoro – a Christian utopia founded in the 1940s – has been lost to the ocean, and its remaining people are running out of...",
-      "link": "https://www.theguardian.com/environment/2026/jun/18/the-sea-took-everything-away-how-nigerias-happy-city-is-disappearing-beneath-the-waves",
-      "pubDate": "Thu, 18 Jun 2026 08:00:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ce814a0010a60672e8e98fed9e0b3010bd262f5e/272_0_2717_2174/master/2717.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18a6b74d735728547e8deac0928d4b7f"
     }
   ]
 }
