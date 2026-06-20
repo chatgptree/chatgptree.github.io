@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-20T08:26:08.090Z",
+  "lastUpdated": "2026-06-20T11:23:21.612Z",
   "articles": [
+    {
+      "title": "Exhibition explores moths' ability to adapt",
+      "description": "An exhibition examining how moths adapt to environmental changes has opened in Kestle Barton....",
+      "link": "https://www.bbc.com/news/articles/cly7281n405o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 20 Jun 2026 11:05:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Skeleton of the world’s rarest marine mammal preserved by digital imaging",
+      "description": "&lt;p&gt;The reconstruction of the vaquita, whose numbers barely reach double figures in the wild, is designed to help research and conservation effor...",
+      "link": "https://www.theguardian.com/environment/2026/jun/20/vaquita-porpoise-worlds-rarest-skeleton-preserved-digital-imaging-aoe",
+      "pubDate": "Sat, 20 Jun 2026 11:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/23648d81cb72b4ec5741d77d44631256c4d9582d/547_438_3773_3018/master/3773.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6123108fe05cc83f0433725c0d7634d0"
+    },
+    {
+      "title": "From coal to cabernet: the wine seller using a flooded mine to cut heating bills",
+      "description": "&lt;p&gt;Lanchester Wines in north-east England uses heat from a disused coalmine to maintain wine temperatures and with 23,000 flooded mines in the U...",
+      "link": "https://www.theguardian.com/environment/2026/jun/20/coal-to-cabernet-wine-seller-flooded-mine-cut-heating-bills",
+      "pubDate": "Sat, 20 Jun 2026 09:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/46902d2624a837df2f71a207b31c9c71890efe3d/359_0_3125_2500/master/3125.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00017cfb55ae6dec902948a6c81dcbc8"
+    },
+    {
+      "title": "Planning For Life After Coal Cost a Montana County Commissioner His Seat",
+      "description": "Robert Pancratz couldn’t believe it.&#160; The Musselshell County commissioner had been defeated in the Republican primary for his seat by a two-to-on...",
+      "link": "https://insideclimatenews.org/news/20062026/montana-musselshell-county-fiscal-future/",
+      "pubDate": "Sat, 20 Jun 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "El Niño Is Here and Will Have ‘Big Consequences’ for Global Weather",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Kevin Trenberth....",
+      "link": "https://insideclimatenews.org/news/20062026/el-nino-could-bring-strong-storms-and-increase-wildfire-risks/",
+      "pubDate": "Sat, 20 Jun 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "JLR at risk of battery supply delays after Somerset factory turmoil",
       "description": "&lt;p&gt;Supplier Agratas sacks its main building contractor on the government-backed project amid a budget mismatch&lt;/p&gt;&lt;p&gt;Jaguar Land Rov...",
@@ -18,24 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e00a9b3c771b96e60e20ca2d4d6413f8cf90c0e4/606_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66833c7567ed011f7a8d8ede352bf013"
-    },
-    {
-      "title": "First pelicans in 360 years hatch in St James’s Park London",
-      "description": "&lt;p&gt;Birds have been in the park since the Russian ambassador gave King Charles II two in 1664 – but none ever bred there &lt;/p&gt;&lt;p&gt;They ...",
-      "link": "https://www.theguardian.com/environment/2026/jun/19/pelicans-hatch-st-james-park-london",
-      "pubDate": "Fri, 19 Jun 2026 17:32:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b4f765796243058b8dcfa1031984247fec380cbc/298_0_5800_4640/master/5800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8888b8dac875fed8d98e8a0b4655489b"
-    },
-    {
-      "title": "Macron calls for vigilance as western Europe faces second heatwave of year",
-      "description": "&lt;p&gt;More than half of France’s population under severe weather warning with temperatures expected to exceed 40C&lt;/p&gt;&lt;p&gt;More than half ...",
-      "link": "https://www.theguardian.com/world/2026/jun/19/macron-calls-for-vigilance-as-western-europe-faces-second-heatwave-of-year",
-      "pubDate": "Fri, 19 Jun 2026 16:30:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6b7c75c4453c03aad20a08986b249d9631b88e47/13_0_7354_5884/master/7354.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9255c31af588631240fce9fb143877c7"
     },
     {
       "title": "Microplastics in over 75% of pet food, study finds",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/UniTas_BM_H_Pos_Col_CMYK_2021_300dpi-1024x215.jpg"
-    },
-    {
-      "title": "The Tassie devils in my neighbourhood keep stealing shoes and laundry, but I adore them | Kelley Swain",
-      "description": "&lt;p&gt;The thievery of these little creatures is endlessly amusing to me, but there have been, I’m told, a few rounds of inconvenience&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/19/tasmanian-devils-stealing-laundry",
-      "pubDate": "Fri, 19 Jun 2026 02:45:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9c312b4b4153bbefa1a7716882b38668d4ac2fdc/293_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d11de400e1e75930e1c54dbe4ec8388"
-    },
-    {
-      "title": "Alabama Limestone Quarry Settles Lawsuit Over Dust, Noise",
-      "description": "Residents of the small north Alabama community of Belle Mina are breathing easier after reaching a settlement with a limestone quarry they say was dis...",
-      "link": "https://insideclimatenews.org/news/18062026/alabama-limestone-quarry-settlement/",
-      "pubDate": "Fri, 19 Jun 2026 00:23:14 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Federal Regulators Tell Electric Grid Operators to Fix Their Rules on Data Centers",
-      "description": "The nation’s electric grid is stressed out.&#160; Unprecedented energy demands for large customers, such as data centers and cryptomines, are strainin...",
-      "link": "https://insideclimatenews.org/news/18062026/federal-energy-regulatory-commission-data-center-orders/",
-      "pubDate": "Fri, 19 Jun 2026 00:11:43 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
