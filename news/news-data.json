@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-21T06:10:42.953Z",
+  "lastUpdated": "2026-06-21T10:36:54.028Z",
   "articles": [
+    {
+      "title": "Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances",
+      "description": "A lawsuit filed by Greenpeace International against the U.S.-based fossil fuel company Energy Transfer in the Netherlands is moving forward after a Du...",
+      "link": "https://insideclimatenews.org/news/21062026/greenpeace-anti-slapp-lawsuit-against-energy-transfer/",
+      "pubDate": "Sun, 21 Jun 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Search for Super Reefs",
+      "description": "The world has already lost more than half of its coral reefs, and most of what remains is at risk of disappearing in the next 25 years. But new resear...",
+      "link": "https://insideclimatenews.org/news/21062026/icn-sunday-morning-super-reefs/",
+      "pubDate": "Sun, 21 Jun 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The tiny highway helping the capital's hedgehogs",
+      "description": "A hedgehog highway is a network of small holes and gaps that allows hedgehogs to move freely....",
+      "link": "https://www.bbc.com/news/articles/cd0mlr14pd8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 21 Jun 2026 07:10:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform – as it happened",
       "description": "&lt;p&gt;This blog has now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ground-penetrating radar hopes to help solve wombat’s housing crisis",
-      "description": "Northern Hairy-nosed Wombat at Richard Underwood Nature Refuge Australia’s critically endangered Northern Hairy-nosed Wombats are less picky about the...",
-      "link": "https://econews.com.au/ground-penetrating-radar-hopes-to-help-solve-wombats-housing-crisis/",
-      "pubDate": "Fri, 19 Jun 2026 05:01:56 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
-    },
-    {
-      "title": "CHÂTEAU TROPLONG MONDOT, ST EMILION, BORDEAUX  ACHIEVES B CORP™ CERTIFICATION",
-      "description": "Joining a select group of twelve wine estates in France to receive the world’s most rigorous independent sustainability certification Château Troplong...",
-      "link": "https://econews.com.au/chateau-troplong-mondot-st-emilion-bordeaux-achieves-b-corp-certification/",
-      "pubDate": "Fri, 19 Jun 2026 05:01:54 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "Panasonic launches installer-ready CO2 hot water heat pump range",
-      "description": "Australia’s largest CO2 hot water heat pump line-up is designed with the trade in mind – flexible configurations, straightforward installation and the...",
-      "link": "https://econews.com.au/panasonic-launches-installer-ready-co2-hot-water-heat-pump-range/",
-      "pubDate": "Fri, 19 Jun 2026 05:01:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/Panasonic.png"
     }
   ]
 }
