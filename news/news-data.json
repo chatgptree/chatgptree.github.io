@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-21T10:36:54.028Z",
+  "lastUpdated": "2026-06-21T13:14:14.233Z",
   "articles": [
+    {
+      "title": "Efforts to save kelp forests from ocean warming are ramping up",
+      "description": "Scientists are working to bolster heat-stressed kelp by attacking the urchins that prey on them and transplanting hardier kelp varieties....",
+      "link": "https://grist.org/oceans/efforts-to-save-kelp-forests-from-ocean-warming-are-ramping-up/",
+      "pubDate": "Sun, 21 Jun 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/tromsourchins.webp?quality=75&amp;strip=all"
+    },
+    {
+      "title": "More trees and nature spaces in council green plan",
+      "description": "Bradford Council set out plans to increase tree canopy cover and create more nature reserves....",
+      "link": "https://www.bbc.com/news/articles/c4gy26l0gemo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 21 Jun 2026 10:52:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances",
       "description": "A lawsuit filed by Greenpeace International against the U.S.-based fossil fuel company Energy Transfer in the Netherlands is moving forward after a Du...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/06/World-Cup-FIFA-hydration-water-soccer-heat.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Week in wildlife: a hungry hoopoe, a hot croc and a snoozing otter pup",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jun/19...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jun/19/week-in-wildlife-a-hungry-hoopoe-a-hot-croc-and-a-snoozing-otter-pup",
-      "pubDate": "Fri, 19 Jun 2026 07:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f2a5238b24bdfe789b99640166f3b0fc223f414c/905_0_4524_3620/master/4524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c97ce627ed6dde2170f2b8de2ea1306"
-    },
-    {
-      "title": "Revival project for endangered native trees",
-      "description": "The population of black poplar trees has dwindled to around 7,000 trees in the UK and Ireland....",
-      "link": "https://www.bbc.com/news/articles/cjeg7xlpp9xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 19 Jun 2026 06:38:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
