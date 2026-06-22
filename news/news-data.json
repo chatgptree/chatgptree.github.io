@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-22T00:18:59.207Z",
+  "lastUpdated": "2026-06-22T06:35:10.229Z",
   "articles": [
+    {
+      "title": "Western Australian poultry farms locked down as second wild bird tests positive for H5N1 bird flu",
+      "description": "&lt;p&gt;Poultry producer Ingham’s announces move, as a brown skua and a giant petrel the first confirmed H5 cases on Australia’s mainland&lt;/p&gt;&l...",
+      "link": "https://www.theguardian.com/world/2026/jun/22/h5n1-bird-flu-australia-wild-birds-wa-poultry-farms-locked-down",
+      "pubDate": "Mon, 22 Jun 2026 05:16:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2666503b5d51c72c2d3be6f4eb91148f4e4fb5cb/0_910_3024_2419/master/3024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ef835b88595d0d0dbf16f8d6a21fc1a"
+    },
+    {
+      "title": "Woman finds rare pink grasshoppers in garden",
+      "description": "Usually, they get eaten by birds due to their inability to camouflage, making them a rare sight....",
+      "link": "https://www.bbc.com/news/articles/ckg74rjl7y1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 22 Jun 2026 05:14:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Dune it right with Redhead rehab project",
+      "description": "The rehab project includes reshaping the creek and introducing more than 30000 new native plants Work is underway on a major rehabilitation project to...",
+      "link": "https://econews.com.au/dune-it-right-with-redhead-rehab-project/",
+      "pubDate": "Mon, 22 Jun 2026 05:01:48 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/Natural-Assets-Program-Lead-Jenna-Voigt-at-Redhead-dunes-1024x683.jpg"
+    },
+    {
+      "title": "From mobile jungles to shadow art: how Dutch people try to beat the heat",
+      "description": "&lt;p&gt;A national heatwave plan has been activated to help people stay cool during the Netherlands’ increasingly hot summers&lt;/p&gt;&lt;p&gt;House...",
+      "link": "https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat",
+      "pubDate": "Mon, 22 Jun 2026 04:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/282a1f0adf363c04aa705896d5d9405af97a5a71/50_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da3f09f680b47a6d687790523bb55b88"
+    },
     {
       "title": "France cancels events and restricts alcohol consumption amid brutal heatwave",
       "description": "&lt;p&gt;Sports and nationwide music festival affected, with temperatures for some expected to reach 42C from Monday&lt;/p&gt;&lt;p&gt;Authorities in ...",
@@ -83,15 +119,6 @@
       "image": "https://grist.org/wp-content/uploads/2026/06/hydropowercanada.jpg?quality=75&amp;strip=all"
     },
     {
-      "title": "Israeli attack kills famed turtle sanctuary ecologist in Lebanon",
-      "description": "&lt;p&gt;Mona Khalil led decades-long effort to protect nesting site for turtles near her home in south of the country&lt;/p&gt;&lt;p&gt;The Lebanese ...",
-      "link": "https://www.theguardian.com/world/2026/jun/20/mona-khalil-turtle-ecologist-lebanon-killed-israeli-attack",
-      "pubDate": "Sat, 20 Jun 2026 11:32:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d67a8ca12308e31648c6bc19a723d63befef1780/0_0_2050_1641/master/2050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba70a9a9480b4d0a3875d1be3045cacc"
-    },
-    {
       "title": "Exhibition explores moths' ability to adapt",
       "description": "An exhibition examining how moths adapt to environmental changes has opened in Kestle Barton....",
       "link": "https://www.bbc.com/news/articles/cly7281n405o?at_medium=RSS&amp;at_campaign=rss",
@@ -99,15 +126,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Skeleton of the world’s rarest marine mammal preserved by digital imaging",
-      "description": "&lt;p&gt;The reconstruction of the vaquita, whose numbers barely reach double figures in the wild, is designed to help research and conservation effor...",
-      "link": "https://www.theguardian.com/environment/2026/jun/20/vaquita-porpoise-worlds-rarest-skeleton-preserved-digital-imaging-aoe",
-      "pubDate": "Sat, 20 Jun 2026 11:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/23648d81cb72b4ec5741d77d44631256c4d9582d/547_438_3773_3018/master/3773.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6123108fe05cc83f0433725c0d7634d0"
     },
     {
       "title": "Planning For Life After Coal Cost a Montana County Commissioner His Seat",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Green Economy Hits $10 Trillion in Market Value",
-      "description": "The group of companies that derive significant revenue from environmental solutions, known as the green economy, has topped $10 trillion in market val...",
-      "link": "https://insideclimatenews.org/news/19062026/green-economy-hits-10-trillion-in-market-value/",
-      "pubDate": "Fri, 19 Jun 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How FIFA&#8217;s climate solution has turned into &#8216;water-gate&#8217;",
-      "description": "Introduced in the name of player safety, hydration breaks at the World Cup have become a flashpoint for fans and players alike....",
-      "link": "https://grist.org/extreme-heat/how-fifas-climate-solution-has-turned-into-water-gate/",
-      "pubDate": "Fri, 19 Jun 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/World-Cup-FIFA-hydration-water-soccer-heat.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
