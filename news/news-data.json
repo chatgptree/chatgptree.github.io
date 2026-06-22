@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-06-22T12:54:34.205Z",
+  "lastUpdated": "2026-06-22T17:44:29.139Z",
   "articles": [
     {
-      "title": "UK Met Office issues rare red weather warning for Wednesday and Thursday",
-      "description": "&lt;p&gt;People in southern Wales and area of England from Kent and Sussex to Somerset and Birmingham urged to protect themselves from extreme heat&lt...",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/22/uk-met-office-issues-rare-red-weather-warning-for-wednesday-and-thursday",
-      "pubDate": "Mon, 22 Jun 2026 11:22:17 GMT",
+      "title": "Two children found dead in car in France as heatwave hits Europe",
+      "description": "&lt;p&gt;Number of countries issue alerts with sustained and rising temperatures expected to present danger to health&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
+      "pubDate": "Mon, 22 Jun 2026 15:22:05 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/792f5684d096cb23ad86b0d6b9a3c3396b27d96a/288_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cffa86878677ce1fafbcf820f22026d5"
+      "image": "https://i.guim.co.uk/img/media/522f8cffffdca78358b8133c021b0cc397657986/530_0_4346_3477/master/4346.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86cd71167c84462f76e70c581b929043"
+    },
+    {
+      "title": "What are UV levels and how can you protect yourself?",
+      "description": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.  \n...",
+      "link": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 22 Jun 2026 13:43:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What are UV levels and how can you protect yourself?",
+      "description": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.  \n...",
+      "link": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 22 Jun 2026 13:43:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Six ways to keep your home and yourself cool in hot weather",
@@ -18,15 +36,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Europe suffers under record heatwave as temperatures forecast to reach 44C",
-      "description": "&lt;p&gt;Rail services, schools and sports events hit, with deaths of three elderly people in France partly blamed on intense heat&lt;/p&gt;&lt;p&gt;W...",
-      "link": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
-      "pubDate": "Mon, 22 Jun 2026 10:14:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/522f8cffffdca78358b8133c021b0cc397657986/530_0_4346_3477/master/4346.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86cd71167c84462f76e70c581b929043"
     },
     {
       "title": "How a Tiny Texas River Agency Plans to Build the Largest Desalination Plant in the Country",
@@ -155,6 +164,15 @@
       "image": "https://i.guim.co.uk/img/media/282a1f0adf363c04aa705896d5d9405af97a5a71/50_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da3f09f680b47a6d687790523bb55b88"
     },
     {
+      "title": "France cancels events and restricts alcohol consumption amid brutal heatwave",
+      "description": "&lt;p&gt;Sports and nationwide music festival affected, with temperatures for some expected to reach 42C from Monday&lt;/p&gt;&lt;p&gt;Authorities in ...",
+      "link": "https://www.theguardian.com/world/2026/jun/21/france-cancels-events-restricts-alcohol-consumption-music-festival-heatwave",
+      "pubDate": "Sun, 21 Jun 2026 15:11:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6b73957daf27e620b7c76513182ceea8f652ac1c/290_0_4902_3921/master/4902.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1a47c16c1dff4ade881fa92ea1da899d"
+    },
+    {
       "title": "Efforts to save kelp forests from ocean warming are ramping up",
       "description": "Scientists are working to bolster heat-stressed kelp by attacking the urchins that prey on them and transplanting hardier kelp varieties....",
       "link": "https://grist.org/oceans/efforts-to-save-kelp-forests-from-ocean-warming-are-ramping-up/",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/06/tromsourchins.webp?quality=75&amp;strip=all"
-    },
-    {
-      "title": "More trees and nature spaces in council green plan",
-      "description": "Bradford Council set out plans to increase tree canopy cover and create more nature reserves....",
-      "link": "https://www.bbc.com/news/articles/c4gy26l0gemo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 21 Jun 2026 10:52:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Greenpeace’s Dutch Anti-SLAPP Case Against Oil Pipeline Giant Advances",
-      "description": "A lawsuit filed by Greenpeace International against the U.S.-based fossil fuel company Energy Transfer in the Netherlands is moving forward after a Du...",
-      "link": "https://insideclimatenews.org/news/21062026/greenpeace-anti-slapp-lawsuit-against-energy-transfer/",
-      "pubDate": "Sun, 21 Jun 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
