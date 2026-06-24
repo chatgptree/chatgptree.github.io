@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-24T17:11:05.699Z",
+  "lastUpdated": "2026-06-24T19:58:17.984Z",
   "articles": [
+    {
+      "title": "UK records its hottest June day and France its hottest day ever as heatwave sweeps Europe",
+      "description": "&lt;p&gt;Temperature of 36.1C (97F) recorded in Hampshire, while two-thirds of Europe’s population experience temperatures above 30C&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day",
+      "pubDate": "Wed, 24 Jun 2026 18:03:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/543451de392e8aaef635a0b94e4d003bc81a9ab5/42_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa768bdcf651790dff19b11c8c6c8432"
+    },
+    {
+      "title": "Exploit last North Sea oil and gas or risk mass job losses, Andy Burnham urged",
+      "description": "&lt;p&gt;British Chamber of Commerce boss Shevaun Haviland says transition to clean energy could be handled better&lt;/p&gt;&lt;p&gt;Andy Burnham shou...",
+      "link": "https://www.theguardian.com/business/2026/jun/24/exploit-last-north-sea-oil-gas-or-risk-mass-job-losses-andy-burham-urged",
+      "pubDate": "Wed, 24 Jun 2026 18:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/814ac664582c423f0ad147b4964474407168c103/188_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=202f80a64e2fb3520bb9a268e89cff82"
+    },
+    {
+      "title": "Farmers criticise government plan to counter threats to UK food security",
+      "description": "&lt;p&gt;Plan warns climate crisis will lead to food price shocks and shortages but farmers say it fails to adequately fund response&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2026/jun/24/farmers-criticise-plan-climate-crisis-warning-food-price-security",
+      "pubDate": "Wed, 24 Jun 2026 17:47:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c7582fe3ae7475cc5eb3ba8e41e026a39a00065a/374_0_3751_3000/master/3751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7ce9718add17f13892b71f414f44f5"
+    },
+    {
+      "title": "US says chemical giant Chemours to pay $450m to settle ‘forever chemicals’ case",
+      "description": "&lt;p&gt;Agreement is first by federal government to resolve enforcement claims against a major Pfas manufacturer&lt;/p&gt;&lt;p&gt;The Trump administ...",
+      "link": "https://www.theguardian.com/us-news/2026/jun/24/chemours-settlement-forever-chemicals",
+      "pubDate": "Wed, 24 Jun 2026 17:29:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/01e96fd41807bceded8f7ddd34c8b38406042bd4/252_0_3789_3031/master/3789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43e5361259d2aab61f94291d06e045c1"
+    },
     {
       "title": "Europe heatwave live: UK breaks temperature record for June as parts of France hit 40C – as it happened",
       "description": "&lt;p&gt;West Sussex reports temperature of 35.8C, beating previous record from 1976; red weather alert extended to 72 of France’s 96 mainland departm...",
@@ -18,24 +54,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK records its hottest June day, beating highs from 1957 and 1976",
-      "description": "&lt;p&gt;Temperature of 35.8C recorded in West Sussex, beating previous record of 35.6C, while France records hottest day nationally&lt;/p&gt;&lt;ul&g...",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day",
-      "pubDate": "Wed, 24 Jun 2026 15:12:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/740b7f7d160e44121b8144e557fff14a2b766f5e/719_0_3664_2933/master/3664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d892e3de5a5c83417079da254a100130"
-    },
-    {
-      "title": "‘Instant connection to the past’: how the Major oak affected those who saw it",
-      "description": "&lt;p&gt;Readers remember the Sherwood Forest tree that has failed to produce leaves for the first time in 1,000 years&lt;/p&gt; &lt;a href=\"https://w...",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/major-oak-sherwood-forest-readers-remember",
-      "pubDate": "Wed, 24 Jun 2026 14:47:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8817a7d6810c5583c6364b5cb9e36307c92d181a/593_0_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd060eed1c1846ebdd6de23ed4039564"
     },
     {
       "title": "Heat pump growth stalls as government support cut, warns climate watchdog",
@@ -81,15 +99,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/351ce97c12aaf4025bff8de8328ca1556f4c01fb/864_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfebe673033ba092e6fa7ed5413bcfed"
-    },
-    {
-      "title": "‘Carspreading’ could lead to extra 2,600 crash deaths a year by 2040, study finds",
-      "description": "&lt;p&gt;Analysis shows cars in Europe have grown longer, taller and wider every year since 2000&lt;/p&gt;&lt;p&gt;Cars have grown 1.2cm longer, 0.5cm...",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/carspreading-vehicle-size-crash-deaths-study",
-      "pubDate": "Wed, 24 Jun 2026 10:11:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/239e99db208138d4aaa8ffb0fd9edd1f7f353768/0_0_4426_3543/master/4426.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35d7446d01765633157717845f901cd9"
     },
     {
       "title": "Indigenous cultural practices are a climate solution, report finds",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/Robin_Hodess-1-1024x856.jpg"
-    },
-    {
-      "title": "Google and Energy Dome Advance Multi-Continent Energy Storage Buildout with First Bilateral Project in Ireland",
-      "description": "Rendering of Energy Dome’s CO2 Battery project near Rhode, County Offaly, Ireland. Energy Dome The 23MW/200MWh CO2 Battery project marks the first bil...",
-      "link": "https://econews.com.au/google-and-energy-dome-advance-multi-continent-energy-storage-buildout-with-first-bilateral-project-in-ireland/",
-      "pubDate": "Wed, 24 Jun 2026 03:01:57 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
