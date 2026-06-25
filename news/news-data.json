@@ -1,14 +1,59 @@
 {
-  "lastUpdated": "2026-06-25T08:28:11.514Z",
+  "lastUpdated": "2026-06-25T11:46:09.532Z",
   "articles": [
     {
-      "title": "Europe braced for another day of extreme heat as warnings issued across UK, France and Italy – live",
-      "description": "&lt;p&gt;UK June heat record could be broken for the second consecutive day&lt;/p&gt;&lt;p&gt;&lt;em&gt;Education editor&lt;/em&gt;&lt;/p&gt;&lt;p&gt;...",
+      "title": "UK Met Office extends red heat warning into Friday night as extreme heat grips Europe – live",
+      "description": "&lt;p&gt;The highest UK temperatures are expected across the east and southeastern England while heatwave-related deaths climbed across Europe&lt;/p&g...",
       "link": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-      "pubDate": "Thu, 25 Jun 2026 08:14:55 GMT",
+      "pubDate": "Thu, 25 Jun 2026 11:27:52 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/149989050219f9d8089289aa55ac3037858df70f/115_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23371451b8ee720bc595139e56294d55"
+      "image": "https://i.guim.co.uk/img/media/b9f9041fc382d31a7878fcbcdac1e04f09b9e47f/305_0_5884_4706/master/5884.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f58df7b537e444074351123a13ebfff9"
+    },
+    {
+      "title": "Hospitals in England declare critical incidents as machines and IT fail in heat",
+      "description": "&lt;p&gt;Extreme weather breaks MRI scanners and cooling units, as workload rises for sleep-deprived staff on sweltering wards&lt;/p&gt;&lt;p&gt;Docto...",
+      "link": "https://www.theguardian.com/society/2026/jun/25/hospitals-nhs-england-critical-incidents-machines-it-fail-extreme-heat",
+      "pubDate": "Thu, 25 Jun 2026 11:15:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f6e6ad76235ba012502fd682235aaf2c34e5924e/514_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb5b3901ad7c3308886908bd9e7a8877"
+    },
+    {
+      "title": "Datacentres facing increase in global climate-related legal cases, report finds",
+      "description": "&lt;p&gt;LSE analysis highlights litigation linked to energy sources, water consumption and air pollution&lt;/p&gt;&lt;p&gt;The proliferation of datac...",
+      "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "pubDate": "Thu, 25 Jun 2026 10:03:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2afc5aee674458b011367ab1b481dc030edca6bd/585_0_3712_2970/master/3712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=208413d52229cc3d7b3b389f1fbfa3ce"
+    },
+    {
+      "title": "Has Cornwall’s housing crisis created a van life generation?",
+      "description": "&lt;p&gt;Cornwall's housing crisis is forcing young people to live in vans. As second homes and short-term holiday lets drive up house prices, a growi...",
+      "link": "https://www.theguardian.com/global/video/2026/jun/25/has-cornwalls-housing-crisis-created-a-van-life-generation",
+      "pubDate": "Thu, 25 Jun 2026 09:17:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/da8850d848e1539de3c8ab8cc9b652b6463540f6/0_0_10928_8742/master/10928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=439b7efce7f0d7614d254383b40244a9"
+    },
+    {
+      "title": "After a civil rights complaint, Chicago built the nation&#8217;s largest air monitoring network",
+      "description": "As extreme heat reshapes air quality, the network of 227 monitors is expected to help identify localized pollution hot spots....",
+      "link": "https://grist.org/equity/after-a-civil-rights-complaint-chicago-built-the-nations-largest-air-monitoring-network/",
+      "pubDate": "Thu, 25 Jun 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/SUMMERAIRMONITORS_260614-1-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "This island in the Great Lakes wants to tap waves for energy",
+      "description": "Hydrokinetic energy from the waves surrounding Beaver Island could improve electricity reliability and push an emerging technology forward....",
+      "link": "https://grist.org/solutions/this-island-in-the-great-lakes-wants-to-tap-waves-for-energy/",
+      "pubDate": "Thu, 25 Jun 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/lake-michigan-buoy_resized.jpeg?quality=75&#038;strip=all"
     },
     {
       "title": "Hot Mess and Acid’s Reign: the romcom and queer cabaret spotlighting climate crisis",
@@ -75,7 +120,7 @@
     },
     {
       "title": "’It can flip quickly from being idyllic’: the reality of life for young van dwellers priced out of Cornwall’s housing market",
-      "description": "&lt;p&gt;With tourists buying up property and landlords opting for lucrative Airbnb rentals, young Cornish people are turning to old campervans to giv...",
+      "description": "&lt;p&gt;With tourists buying up property and landlords opting for lucrative Airbnb rentals, young Cornish people are turning to old campervans to pro...",
       "link": "https://www.theguardian.com/environment/2026/jun/25/reality-life-cornwall-young-van-dwellers-priced-out-of-the-housing-market",
       "pubDate": "Thu, 25 Jun 2026 05:00:06 GMT",
       "sourceName": "theguardian.com",
@@ -92,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Papua New Guinea at risk of food shortages as El Niño brings frost and drought",
-      "description": "&lt;p&gt;Oxfam predicts PNG will be worst-hit country in Pacific from the weather pattern, with up to 3 million people affected nationwide&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
-      "pubDate": "Thu, 25 Jun 2026 03:54:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a9629128064a249473e8e8170670dcf08def51a2/577_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=092212e1363f79c34a28d030b137e91e"
-    },
-    {
       "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
       "description": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon....",
       "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&amp;at_campaign=rss",
@@ -108,15 +144,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK records its hottest June day and France its hottest day ever as heatwave sweeps Europe",
-      "description": "&lt;p&gt;Temperature of 36.1C (97F) recorded in Hampshire, while two-thirds of Europe’s population experience temperatures above 30C&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day",
-      "pubDate": "Wed, 24 Jun 2026 18:03:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/543451de392e8aaef635a0b94e4d003bc81a9ab5/42_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa768bdcf651790dff19b11c8c6c8432"
     },
     {
       "title": "US says chemical giant Chemours to pay $450m to settle ‘forever chemicals’ case",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why this heatwave feels worse than the last one",
-      "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains...",
-      "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 24 Jun 2026 12:24:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Farm workers at higher risk amid screwworm outbreak in US south-west",
-      "description": "&lt;p&gt;Those who work with animals are at greater risk for infection, but face challenges in accessing healthcare&lt;/p&gt;&lt;p&gt;Agricultural wor...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/24/us-south-west-farmers-screwworm-healthcare",
-      "pubDate": "Wed, 24 Jun 2026 12:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eab59ce89da172bd105ac844ff9dffb324fb770b/554_0_4755_3803/master/4755.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5ac450da460e69fe3449653fa2c1b8a"
-    },
-    {
-      "title": "‘No one believed it’: how a YouTube video accidentally proved Libya’s sand cat really does exist",
-      "description": "&lt;p&gt;Wildlife photographer Mohammed Almuntasir had no idea what he had found until scientists started to get in touch&lt;/p&gt;&lt;p&gt;When wildl...",
-      "link": "https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe",
-      "pubDate": "Wed, 24 Jun 2026 11:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/351ce97c12aaf4025bff8de8328ca1556f4c01fb/864_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfebe673033ba092e6fa7ed5413bcfed"
     }
   ]
 }
