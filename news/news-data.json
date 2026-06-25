@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-24T23:14:13.840Z",
+  "lastUpdated": "2026-06-25T04:17:11.551Z",
   "articles": [
+    {
+      "title": "Papua New Guinea faces severe food shortages as El Niño brings frost and drought",
+      "description": "&lt;p&gt;Oxfam predicts PNG will be worst-hit country in Pacific from the weather pattern, with up to 3 million people affected nationwide&lt;/p&gt;&l...",
+      "link": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
+      "pubDate": "Thu, 25 Jun 2026 03:54:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a9629128064a249473e8e8170670dcf08def51a2/577_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=092212e1363f79c34a28d030b137e91e"
+    },
+    {
+      "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+      "description": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon....",
+      "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 25 Jun 2026 02:25:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "UK records its hottest June day and France its hottest day ever as heatwave sweeps Europe",
       "description": "&lt;p&gt;Temperature of 36.1C (97F) recorded in Hampshire, while two-thirds of Europe’s population experience temperatures above 30C&lt;/p&gt;&lt;p&gt...",
@@ -36,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/01e96fd41807bceded8f7ddd34c8b38406042bd4/252_0_3789_3031/master/3789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43e5361259d2aab61f94291d06e045c1"
-    },
-    {
-      "title": "Europe heatwave live: UK breaks temperature record for June as parts of France hit 40C – as it happened",
-      "description": "&lt;p&gt;West Sussex reports temperature of 35.8C, beating previous record from 1976; red weather alert extended to 72 of France’s 96 mainland departm...",
-      "link": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
-      "pubDate": "Wed, 24 Jun 2026 16:51:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/53206ea678affe894d60e81c43805d6c122c8063/639_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7066103512b897b3ffbf84e862515891"
     },
     {
       "title": "Hottest June day on record for the UK as temperature reaches 36C",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "GRI is top choice for sustainability reporting worldwide",
-      "description": "Largest-ever snapshot of sustainability reporting reveals Asia and Global South are becoming new center of gravity for impact disclosure New analysis ...",
-      "link": "https://econews.com.au/gri-is-top-choice-for-sustainability-reporting-worldwide/",
-      "pubDate": "Wed, 24 Jun 2026 03:01:59 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/06/Robin_Hodess-1-1024x856.jpg"
     }
   ]
 }
