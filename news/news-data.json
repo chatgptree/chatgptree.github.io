@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-27T00:16:48.812Z",
+  "lastUpdated": "2026-06-27T04:59:01.774Z",
   "articles": [
+    {
+      "title": "Are we in for a summer of serial heatwaves?",
+      "description": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains....",
+      "link": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 27 Jun 2026 03:16:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
+      "description": "&lt;p&gt;Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across Alps&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
+      "pubDate": "Sat, 27 Jun 2026 02:50:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/78934b26374818a85234aaa4feb73c04c10f7cfd/934_0_7240_5792/master/7240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f35b1f4d4438c68122f7c525ffabf48"
+    },
+    {
+      "title": "Weekend to bring cooldown after record-breaking heatwave",
+      "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday....",
+      "link": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 27 Jun 2026 00:21:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Across Europe, heat adaptation plans are being put to a brutal test",
       "description": "“Cities across the world are still preparing for the heat that we're experiencing today.”...",
@@ -128,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/c1f1ca1fce7b68b3addd869ad35a6c2ccbf26b63/0_0_6142_4912/master/6142.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25fceb31b89184f3571b4c71eccd3ab1"
     },
     {
-      "title": "UK June heat record broken for third day in a row as ministers urged to act",
-      "description": "&lt;p&gt;Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deaths&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
-      "pubDate": "Fri, 26 Jun 2026 15:56:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9863a7dcc1636ff562edeb6bbbc971463e90f112/372_0_5676_4540/master/5676.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=346e9932f1e95b8ab1bd8b0a5e251d7d"
-    },
-    {
       "title": "Golden eagle released in conservation project shot with 17 pellets",
       "description": "Gamekeepers in the Lammermuir Hills spotted the bird with damaged wings around the beginning of June....",
       "link": "https://www.bbc.co.uk/news/articles/cm20lg095ylo?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/dd0dded11c04015d586b8fb2bfecbb0d21d4ef00/709_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d85411df498b6b6f463a697a9b532cb5"
-    },
-    {
-      "title": "In pictures: a San Antonio land bridge designed for wildlife and people",
-      "description": "&lt;p&gt;Spanning a six-lane highway and located in a public park, this crossing is part of a larger restoration of endangered Texas prairie land&lt;b...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jun/26/san-antonio-texas-land-bridge-wildlife",
-      "pubDate": "Fri, 26 Jun 2026 12:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/31bc0a0f0aa8a1102361dfdef0fb9a11dc6196c7/595_0_2810_2250/master/2810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90c4e644ff8e7efc044f72ab5f5a73a6"
-    },
-    {
-      "title": "California’s landmark anti-plastics law sparks anger as 17 states move to sue",
-      "description": "&lt;p&gt;Ambitious plan to phase out single-use plastic opposed by chemicals industry – while green groups say law too timid&lt;/p&gt;&lt;p&gt;A groun...",
-      "link": "https://www.theguardian.com/environment/2026/jun/26/california-single-use-plastic-law",
-      "pubDate": "Fri, 26 Jun 2026 11:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/12b7ef0ae1fa1bc96e8969c8f9c41cb682e9a97d/466_0_4636_3711/master/4636.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed1ba69133defe40ae8ed8482393d819"
     }
   ]
 }
