@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "2026-06-27T15:23:21.662Z",
+  "lastUpdated": "2026-06-27T17:18:56.590Z",
   "articles": [
     {
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France....",
+      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 27 Jun 2026 16:51:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France....",
+      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 27 Jun 2026 16:51:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
+      "description": "&lt;p&gt;Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwave&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a...",
+      "link": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+      "pubDate": "Sat, 27 Jun 2026 15:43:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a8b94eb91f68a60185f4e0b5796464789c345468/659_0_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa5dcc607321decb28393aded215b3b9"
+    },
+    {
       "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
-      "description": "&lt;p&gt;Denmark experiences highest temperature on record on Saturday in eastward spread of weather system&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;...",
+      "description": "&lt;p&gt;Denmark experiences highest temperature on record on Saturday as weather system spreads eastward&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a ...",
       "link": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
       "pubDate": "Sat, 27 Jun 2026 15:08:40 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/170e098ef3a11e03e5599371d4cc90c2086faac8/88_0_4423_3539/master/4423.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60dca33196b4ed150050796c63cc4448"
-    },
-    {
-      "title": "Europe heatwave live: drought fears in Italy as records tumble around Europe",
-      "description": "&lt;p&gt;Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwave&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a...",
-      "link": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "pubDate": "Sat, 27 Jun 2026 15:07:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a8b94eb91f68a60185f4e0b5796464789c345468/659_0_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa5dcc607321decb28393aded215b3b9"
     },
     {
       "title": "Appeals court rejects Trump EPA bid to abandon rule restricting deadly soot pollution",
@@ -117,24 +135,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/06/Brent-Hershey-Speaks-to-Politicians.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France....",
-      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 26 Jun 2026 18:14:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France....",
-      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 26 Jun 2026 18:14:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Fossil identified as first dinosaur ever found in Antarctica",
