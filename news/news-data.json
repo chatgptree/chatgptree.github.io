@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-28T04:43:16.504Z",
+  "lastUpdated": "2026-06-28T08:26:05.082Z",
   "articles": [
+    {
+      "title": "Zoo repopulating one of UK's rarest butterflies",
+      "description": "Dartmoor Zoo hopes to repopulate rare black-veined white butterflies in the UK....",
+      "link": "https://www.bbc.co.uk/news/articles/c07ymknp11do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 28 Jun 2026 06:10:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'Lost' ant species reintroduced to woodland",
+      "description": "Southern red wood ants are considered a keystone species, benefiting the ecosystems around them....",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4kxnpy9ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 28 Jun 2026 06:07:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why some trees might fall during extreme heat",
+      "description": "Scientists are studying how trees respond to hotter, drier conditions caused by climate change....",
+      "link": "https://www.bbc.co.uk/news/articles/c87241v13x8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 28 Jun 2026 06:07:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
       "description": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5223c17f798d7c8b192c2747922daa2e98cb72f1/464_0_4168_3335/master/4168.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ce1ba5bcdc1a37f5481fc448900aeaa"
-    },
-    {
-      "title": "States want transparent laws around animal agriculture. A fight in Congress could derail that.",
-      "description": "The Save Our Bacon bill would make it harder for consumers to know how their meat was raised....",
-      "link": "https://grist.org/food-and-agriculture/states-want-transparent-laws-around-animal-agriculture-a-fight-in-congress-could-derail-that/",
-      "pubDate": "Fri, 26 Jun 2026 19:50:29 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/Brent-Hershey-Speaks-to-Politicians.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Fossil identified as first dinosaur ever found in Antarctica",
-      "description": "Argentinian geologist Eduardo Olivero became the first scientist to find the remains of a dinosaur in Antarctica in 1986....",
-      "link": "https://www.bbc.co.uk/news/videos/c8r2074l0rmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 26 Jun 2026 17:58:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Judge declares mistrial in arson case against man accused of sparking Palisades fire",
-      "description": "&lt;p&gt;Jurors in California deliberated for over 13 hours, before announcing that they were deadlocked &lt;/p&gt;&lt;p&gt;A federal judge declared a...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/26/mistrial-arson-california-pacific-palisades-wildfire",
-      "pubDate": "Fri, 26 Jun 2026 16:50:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c6387f8f4794cfa9df53ee014c2c2ec714b6765b/0_0_5095_4075/master/5095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2602010a122f4cdc81d8ea0bbf2b80bd"
     }
   ]
 }
