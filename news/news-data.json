@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-28T08:26:05.082Z",
+  "lastUpdated": "2026-06-28T11:13:06.002Z",
   "articles": [
+    {
+      "title": "Full Strawberry Moon set to light up night sky",
+      "description": "The first full Moon of summer will rise across UK skies this week...",
+      "link": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 28 Jun 2026 10:51:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rising cost of insuring against climate crisis will have wider knock-on effects for UK economy | Heather Stewart",
+      "description": "&lt;p&gt;As extreme weather events become more common, economists say government will need to take more active role to protect consumers&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/business/2026/jun/28/rising-cost-insuring-against-climate-crisis-knock-on-effects-for-uk-economy",
+      "pubDate": "Sun, 28 Jun 2026 09:34:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fccfffd683f72958d68becf9e4111eba8a6a9149/318_0_6271_5019/master/6271.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24a691aff795ba155c5c003a668dcc5a"
+    },
     {
       "title": "Zoo repopulating one of UK's rarest butterflies",
       "description": "Dartmoor Zoo hopes to repopulate rare black-veined white butterflies in the UK....",
@@ -128,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Parents booking air-conditioned hotels to keep babies safe in UK heatwave",
-      "description": "&lt;p&gt;Hotels report increase in last-minute bookings, including from families attempting to escape hot homes&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/environment/2026/jun/27/parents-air-conditioned-hotels-keep-babies-safe-heatwave",
-      "pubDate": "Sat, 27 Jun 2026 06:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6625edb9448369e861fd02cb51e463022c0d1c3f/427_0_4271_3417/master/4271.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a03c61426d90583e35c5a375c8e8f85"
-    },
-    {
       "title": "Are we in for a summer of serial heatwaves?",
       "description": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains....",
       "link": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&amp;at_campaign=rss",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Call for inquiry into Alligator Alcatraz’s ‘abuse of Everglades’ despite closure",
-      "description": "&lt;p&gt;Environmentalists and immigrant-rights advocates seek accounting of damage done by notorious detention center&lt;/p&gt;&lt;p&gt;While they we...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/26/alligator-alcatraz-environmental-immigrant-inquiry",
-      "pubDate": "Fri, 26 Jun 2026 20:38:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5223c17f798d7c8b192c2747922daa2e98cb72f1/464_0_4168_3335/master/4168.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ce1ba5bcdc1a37f5481fc448900aeaa"
     }
   ]
 }
