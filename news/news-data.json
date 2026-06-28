@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-28T11:13:06.002Z",
+  "lastUpdated": "2026-06-28T14:06:41.767Z",
   "articles": [
+    {
+      "title": "Cow manure could be the next data center fuel",
+      "description": "The manure-to-energy field has a new sales pitch. Critics warn it could mean even more factory farms....",
+      "link": "https://grist.org/energy/cow-manure-could-be-the-next-data-center-fuel/",
+      "pubDate": "Sun, 28 Jun 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/data-centers.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Temperature records tumble across Europe as heatwave moves east",
+      "description": "&lt;p&gt;More than 191m people in Europe face temperatures over 35C, with extreme heat warnings from Germany to Hungary&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "link": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
+      "pubDate": "Sun, 28 Jun 2026 11:24:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/009fc4f08da446989c606f2ac6075487ea76a826/930_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be093342b1111ad6b33c74051107b337"
+    },
+    {
+      "title": "Ed Miliband as chancellor would benefit every part of the UK – and the bond markets | Josh Ryan-Collins",
+      "description": "&lt;p&gt;If Andy Burnham chooses the energy secretary, Labour could fully use the benefits of net zero to promote growth and jobs&lt;/p&gt;&lt;p&gt;It...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/28/ed-miliband-chancellor-benefit-uk-bond-markets",
+      "pubDate": "Sun, 28 Jun 2026 11:06:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6c11e6be3c25ab981fbf3ce33b0e7356412bdaed/599_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de1aec7ba016b298a355a9532fb93ccd"
+    },
     {
       "title": "Full Strawberry Moon set to light up night sky",
       "description": "The first full Moon of summer will rise across UK skies this week...",
@@ -110,15 +137,6 @@
       "image": "https://i.guim.co.uk/img/media/a8b94eb91f68a60185f4e0b5796464789c345468/659_0_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa5dcc607321decb28393aded215b3b9"
     },
     {
-      "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
-      "description": "&lt;p&gt;Denmark experiences highest temperature on record on Saturday as weather system spreads eastward&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a ...",
-      "link": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
-      "pubDate": "Sat, 27 Jun 2026 15:08:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/170e098ef3a11e03e5599371d4cc90c2086faac8/88_0_4423_3539/master/4423.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60dca33196b4ed150050796c63cc4448"
-    },
-    {
       "title": "Appeals court rejects Trump EPA bid to abandon rule restricting deadly soot pollution",
       "description": "&lt;p&gt;Decision leaves in place Biden-era standard on pollution from coal-fired plants, factories and other industrial sources&lt;/p&gt;&lt;p&gt;A f...",
       "link": "https://www.theguardian.com/environment/2026/jun/27/trump-epa-court-ruling-soot-pollution",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/06/climate-health-effects.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Future generations being failed if more trees not planted, experts say",
-      "description": "Statistics show the number of trees being planted is increasing, but conservationists say it is not meeting targets....",
-      "link": "https://www.bbc.co.uk/news/articles/c70yj76n4dko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 26 Jun 2026 21:07:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Future generations being failed if more trees not planted, experts say",
-      "description": "Statistics show the number of trees being planted is increasing, but conservationists say it is not meeting targets....",
-      "link": "https://www.bbc.co.uk/news/articles/c70yj76n4dko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 26 Jun 2026 21:07:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
