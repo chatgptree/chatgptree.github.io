@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-06-29T11:20:22.554Z",
+  "lastUpdated": "2026-06-29T16:02:50.299Z",
   "articles": [
+    {
+      "title": "Dangerous temperatures forecast for parts of Europe as heatwave moves east",
+      "description": "&lt;p&gt;Red warnings issued in Hungary, Poland, Romania and the Balkans, with authorities urging people to stay indoors&lt;/p&gt;&lt;p&gt;Parts of ce...",
+      "link": "https://www.theguardian.com/environment/2026/jun/29/dangerous-temperatures-forecast-central-eastern-europe-heatwave",
+      "pubDate": "Mon, 29 Jun 2026 15:49:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/79dc936de37f8a140c89dc0f2a221778425ec3bb/540_0_5378_4305/master/5378.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69d56f581de914869bfcabd08a998462"
+    },
+    {
+      "title": "Where is best to see the Strawberry Moon tonight?",
+      "description": "The first full Moon of the summer will be visible tonight, reaching its peak in the early hours of Tuesday....",
+      "link": "https://www.bbc.co.uk/news/articles/c74yw0dvg8yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 29 Jun 2026 14:27:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Deadly flash flooding hits Kentucky",
+      "description": "At least four people are dead, with 60 water rescues and evacuations carried out across the state....",
+      "link": "https://www.bbc.co.uk/news/videos/c5yzd666r6ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 29 Jun 2026 14:18:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Literally growing the future’: volunteers help save Scottish rainforest by collecting 11m seeds",
+      "description": "&lt;p&gt;Teams painstakingly combed endangered Atlantic habitat over several years, helping to grow 8m native trees&lt;/p&gt;&lt;p&gt;A small band of ...",
+      "link": "https://www.theguardian.com/environment/2026/jun/29/growing-the-future-volunteers-help-save-scottish-rainforest-collecting-seeds",
+      "pubDate": "Mon, 29 Jun 2026 14:06:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/82dd62326a6ea985c36f46cd3e179fc2ec07a5b3/837_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ad843d6765cd0fe5019b4a0b37bb5f4"
+    },
+    {
+      "title": "Keep an eye out for tonight's Strawberry Moon",
+      "description": "The Strawberry Moon is set to rise in UK skies tonight, marking the first full Moon of the summer season.\n\nIt will reach its peak in the early hours o...",
+      "link": "https://www.bbc.co.uk/news/videos/c872rry4nl1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 29 Jun 2026 13:51:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Keep an eye out for tonight's Strawberry Moon",
+      "description": "The Strawberry Moon is set to rise in UK skies tonight, marking the first full Moon of the summer season.\n\nIt will reach its peak in the early hours o...",
+      "link": "https://www.bbc.co.uk/news/videos/c872rry4nl1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 29 Jun 2026 13:51:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump administration targets California coastal agency in escalation of energy production fight",
+      "description": "&lt;p&gt;US commerce department accuses state of ‘environmental terrorism’ and plans to evaluate its coastal agency&lt;/p&gt;&lt;p&gt;The &lt;a href=\"...",
+      "link": "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production",
+      "pubDate": "Mon, 29 Jun 2026 12:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e052d9b457530907c41e881ec0cd6c4308e274ef/169_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5068b5fdea60ffa81fdde1280956916"
+    },
+    {
+      "title": "Compliant farmers could face fewer inspections under new pollution proposals",
+      "description": "The latest draft Nutrients Action Policy caused controversy when it was initially launched last year....",
+      "link": "https://www.bbc.co.uk/news/articles/cewq8jvekqgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 29 Jun 2026 12:00:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Compliant farmers could face fewer inspections under new pollution proposals",
+      "description": "The latest draft Nutrients Action Policy caused controversy when it was initially launched last year....",
+      "link": "https://www.bbc.co.uk/news/articles/cewq8jvekqgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 29 Jun 2026 12:00:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Full Strawberry Moon to light up the night sky tonight",
       "description": "The first full Moon of summer will rise across UK skies this week...",
@@ -26,7 +107,7 @@
       "pubDate": "Mon, 29 Jun 2026 08:45:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/Sunrise-Movement-Pelosi-office.jpg?quality=75&amp;strip=all"
+      "image": "https://grist.org/wp-content/uploads/2026/06/data-centers.jpg?quality=75&#038;strip=all"
     },
     {
       "title": "World Class Eco-village Unveiled for Hindmarsh Island",
@@ -99,87 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "First dinosaur bone from Antarctica found in a drawer",
-      "description": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur.\n...",
-      "link": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 29 Jun 2026 05:10:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Not just for rich people: the progressive case for air conditioning | Phineas Harper",
-      "description": "&lt;p&gt;Air conditioning can bring significant benefits but also real harms. The answer is for it to take its place alongside a comprehensive state p...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/29/progressive-case-for-air-conditioning-climate-adaptation",
-      "pubDate": "Mon, 29 Jun 2026 05:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1694d439be6081c003892fd99036849652f354fc/718_0_3591_2873/master/3591.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cce8e09fd833d270b4f6d9eeb44db1a"
-    },
-    {
-      "title": "Heatwave and high humidity to blast much of US: ‘impactful to anyone’",
-      "description": "&lt;p&gt;Forecasters expect days of high temperatures in central and eastern US before Fourth of July and World Cup festivities&lt;/p&gt;&lt;p&gt;A lo...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather",
-      "pubDate": "Sun, 28 Jun 2026 20:53:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8bf89a41fa27edde10ea7e892b5aa264724d66c6/1346_0_7092_5674/master/7092.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=047f4db1d01179604f90db24b3999904"
-    },
-    {
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "description": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures....",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 28 Jun 2026 19:37:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "description": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures....",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 28 Jun 2026 19:37:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
-      "description": "&lt;p&gt;Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or above&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
-      "link": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
-      "pubDate": "Sun, 28 Jun 2026 19:27:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/009fc4f08da446989c606f2ac6075487ea76a826/930_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be093342b1111ad6b33c74051107b337"
-    },
-    {
-      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-      "description": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency....",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 28 Jun 2026 16:33:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Body of boy, 15, recovered from Manchester reservoir amid UK heatwave",
-      "description": "&lt;p&gt;At least seven people have died in water-related incidents during record-breaking June temperatures&lt;/p&gt;&lt;p&gt;The body of a 15-year-o...",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/28/body-boy-manchester-reservoir-uk-heatwave",
-      "pubDate": "Sun, 28 Jun 2026 15:02:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/36718c467c506c891e681e288fc99975fa11e52d/85_257_4623_3698/master/4623.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b667d9f35cbd3e67d27faa0297da6dae"
-    },
-    {
-      "title": "Cow manure could be the next data center fuel",
-      "description": "The manure-to-energy field has a new sales pitch. Critics warn it could mean even more factory farms....",
-      "link": "https://grist.org/energy/cow-manure-could-be-the-next-data-center-fuel/",
-      "pubDate": "Sun, 28 Jun 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/data-centers.jpg?quality=75&#038;strip=all"
     }
   ]
 }
