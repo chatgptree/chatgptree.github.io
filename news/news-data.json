@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-30T08:34:20.276Z",
+  "lastUpdated": "2026-06-30T11:48:21.278Z",
   "articles": [
+    {
+      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+      "description": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come....",
+      "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 30 Jun 2026 11:20:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Full Strawberry Moon captured over the UK in stunning photos",
+      "description": "Skygazers captured stunning photos of the first full Moon of summer shining bright above the UK...",
+      "link": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 30 Jun 2026 09:33:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "For Puerto Rico’s fishers, climate change isn’t the only challenge — being left to adapt alone is.",
+      "description": "Even as Puerto Rico's fisherfolk navigate rising seas and monster storms, a maze of bureaucracy is proving to be their biggest obstacle. ...",
+      "link": "https://grist.org/food-and-agriculture/for-puerto-ricos-fishers-climate-change-isnt-the-only-challenge-being-left-to-adapt-alone-is/",
+      "pubDate": "Tue, 30 Jun 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/Still-2026-06-22-174505_1.57.1.png?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Delhi plans to ban petrol rickshaws and scooters in effort to cut toxic fumes",
+      "description": "&lt;p&gt;Government hopes for 30% of city’s fleet to be electric by 2030, in move hailed as ‘gamechanger’ on air pollution&lt;/p&gt;&lt;p&gt;The unrul...",
+      "link": "https://www.theguardian.com/world/2026/jun/30/delhi-gamechanger-ban-petrol-vehicles-tackle-air-pollution-electric-cars",
+      "pubDate": "Tue, 30 Jun 2026 08:39:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1c08bfb1b84dc83860593b12e3873c88d3041929/133_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84ff600ce4e8edd00d26b6259ea639af"
+    },
     {
       "title": "Why is it so unusually expensive to replace lead pipes in Chicago?",
       "description": "The city with the most lead pipes in the nation is paying way above average to fix them. Officials can't fully explain why....",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/958a9a5ae161800a7ceaf4d5c7447f58e4651151/236_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44cefa45c1b30b0a65d8ff5ba3c441a9"
-    },
-    {
-      "title": "Rescued bears cleared for 5,500-mile Suffolk flight",
-      "description": "Vets say the bears from a former South Korean bile farm are ready to be moved to their forever home....",
-      "link": "https://www.bbc.co.uk/news/articles/c1dykzzdkdlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 29 Jun 2026 16:07:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Dangerous temperatures forecast for parts of Europe as heatwave moves east",
-      "description": "&lt;p&gt;Red warnings issued in Hungary, Poland, Romania and the Balkans, with authorities urging people to stay indoors&lt;/p&gt;&lt;p&gt;Parts of ce...",
-      "link": "https://www.theguardian.com/environment/2026/jun/29/dangerous-temperatures-forecast-central-eastern-europe-heatwave",
-      "pubDate": "Mon, 29 Jun 2026 15:49:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/79dc936de37f8a140c89dc0f2a221778425ec3bb/540_0_5378_4305/master/5378.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69d56f581de914869bfcabd08a998462"
-    },
-    {
-      "title": "Where is best to see the Strawberry Moon?",
-      "description": "The first full Moon of the summer will be visible tonight, reaching its peak in the early hours of Tuesday....",
-      "link": "https://www.bbc.co.uk/news/articles/c74yw0dvg8yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 29 Jun 2026 14:27:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Aerial video shows extent of deadly flash flooding in Kentucky",
-      "description": "At least four people are dead, with 60 water rescues and evacuations carried out across the state....",
-      "link": "https://www.bbc.co.uk/news/videos/c5yzd666r6ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 29 Jun 2026 14:18:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
