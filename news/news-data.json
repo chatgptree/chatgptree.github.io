@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-01T19:03:09.880Z",
+  "lastUpdated": "2026-07-01T21:42:53.731Z",
   "articles": [
+    {
+      "title": "Scientists fear seabird die-off as El Niño looms: ‘We don’t know how bad this will get’",
+      "description": "Many seabirds are starving to death as a marine heat wave lingers off California and fish seek deeper, cooler waters&lt;p&gt;Within minutes of walking...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/01/el-nino-birds-california",
+      "pubDate": "Wed, 01 Jul 2026 19:37:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/afab9c3f2608328fa14a6c180bc59014cb839de5/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14854a9e3a2be76beb591061953ff3b3"
+    },
     {
       "title": "Urban trees aren&#8217;t just nice, scientists say — they&#8217;re mandatory",
       "description": "Researchers are calling for cities to double down on one of the simplest yet most powerful solutions to many problems....",
@@ -8,10 +17,10 @@
       "pubDate": "Wed, 01 Jul 2026 18:00:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://grist.org/wp-content/uploads/2024/08/green.jpg?quality=75&#038;strip=all"
     },
     {
-      "title": "A disease outbreak nearly cost this US poultry farmer everything. One more could wipe him out",
+      "title": "‘The silence was the worst part’: after culling his entire flock, US poultry farmer now fears bird flu",
       "description": "&lt;p&gt;As bird flu reshapes agriculture, small farms operate under strict rules. Just a single case could tank their business&lt;/p&gt;&lt;p&gt;Josh...",
       "link": "https://www.theguardian.com/environment/2026/jul/01/bird-flu-farms-us",
       "pubDate": "Wed, 01 Jul 2026 16:31:24 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/unnamed-2026-05-13T180154.477.jpg"
-    },
-    {
-      "title": "Epson’s blueprint for sustainable fashion: How digital textile printing can rebuild local manufacturing in Australia",
-      "description": "The Social Outfit Sama launch with designs printed on the Epson Monna Lisa Ml-8000 direct-to-fabric printer Australia’s fashion paradox is stark. We’r...",
-      "link": "https://econews.com.au/epsons-blueprint-for-sustainable-fashion-how-digital-textile-printing-can-rebuild-local-manufacturing-in-australia/",
-      "pubDate": "Wed, 01 Jul 2026 06:01:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Epson-Monna-Lisa-ML-8000_No1_withDuct-1024x614.jpeg"
     }
   ]
 }
