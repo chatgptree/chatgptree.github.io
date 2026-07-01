@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-01T16:32:35.597Z",
+  "lastUpdated": "2026-07-01T19:03:09.880Z",
   "articles": [
+    {
+      "title": "Urban trees aren&#8217;t just nice, scientists say — they&#8217;re mandatory",
+      "description": "Researchers are calling for cities to double down on one of the simplest yet most powerful solutions to many problems....",
+      "link": "https://grist.org/cities/urban-trees-arent-just-nice-scientists-say-theyre-mandatory/",
+      "pubDate": "Wed, 01 Jul 2026 18:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A disease outbreak nearly cost this US poultry farmer everything. One more could wipe him out",
+      "description": "&lt;p&gt;As bird flu reshapes agriculture, small farms operate under strict rules. Just a single case could tank their business&lt;/p&gt;&lt;p&gt;Josh...",
+      "link": "https://www.theguardian.com/environment/2026/jul/01/bird-flu-farms-us",
+      "pubDate": "Wed, 01 Jul 2026 16:31:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c700aa098fe3c04ff58db1d37c9627b291f26970/0_0_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a42f628638f54fe4520edb326efda518"
+    },
     {
       "title": "England has just had its hottest June on record, Met Office data shows",
       "description": "&lt;p&gt;Chief scientist says dangerous heatwaves, which are getting more likely, ‘bring home the implications of climate change’&lt;/p&gt;&lt;p&gt;Th...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Epson-Monna-Lisa-ML-8000_No1_withDuct-1024x614.jpeg"
-    },
-    {
-      "title": "When the right denies the true danger of heatwaves, ask yourself this: whose children’s lives is it willing to risk? | George Monbiot",
-      "description": "&lt;p&gt;The class politics of extreme heat are very real and very dangerous – but that doesn’t stop the billionaire press from peddling its agenda&lt...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/01/right-danger-heatwaves-children-class-politics-extreme-heat-billionaire-press",
-      "pubDate": "Wed, 01 Jul 2026 06:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f5ed7a8b62644afc34f2c9e8411660c1fd28c3aa/1162_0_6069_4856/master/6069.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f98e9220ffa2481ef94be5828cc0398"
-    },
-    {
-      "title": "Tears and celebrations as river 'wiggle' restored",
-      "description": "The meander in the River Kemp has been restored in a project led by Severn Rivers Trust....",
-      "link": "https://www.bbc.co.uk/news/articles/c0lyjzjx912o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Jul 2026 05:29:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
