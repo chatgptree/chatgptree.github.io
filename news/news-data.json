@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-07-02T11:39:55.480Z",
+  "lastUpdated": "2026-07-02T14:23:03.999Z",
   "articles": [
     {
+      "title": "‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks",
+      "description": "&lt;p&gt;Critics say the Trump administration is trying to rewrite and whitewash history by removing and altering scores of signs on public lands&lt;/...",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship",
+      "pubDate": "Thu, 02 Jul 2026 13:00:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/56898be4e6060fabc5d7b369cb7eba7b12e1dbb4/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6de372fa455c7f5b462b44546b39d26d"
+    },
+    {
+      "title": "Alarm after herring gulls found covered in oil",
+      "description": "Thirteen birds were found covered in a sticky substance \"smelling like fish oil\", with many more seen....",
+      "link": "https://www.bbc.co.uk/news/articles/cn07854ky4po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Jul 2026 12:55:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Forecasters warn of record-breaking US summer heat amid intense El Niño",
+      "description": "&lt;p&gt;More than 100 million people could be affected in week leading to 4 July, with increased risks of droughts and wildfires&lt;/p&gt;&lt;p&gt;Me...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/02/el-nino-summer-heat-record",
+      "pubDate": "Thu, 02 Jul 2026 11:30:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0d007887c78b09c67529ea4568e5c3f342874ec0/1215_922_2013_1611/master/2013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35ca640e9652205872ecbaa736f8d281"
+    },
+    {
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "description": "&lt;p&gt;Authorities say rainy season deadlier, with Ghana reporting 13 dead and floods also hitting Benin, Togo and Nigeria &lt;/p&gt;&lt;p&gt;Floods...",
+      "description": "&lt;p&gt;Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria&lt;/p&gt;&lt;p&gt;Floo...",
       "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
       "pubDate": "Thu, 02 Jul 2026 11:01:32 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/79abbdaf8cc54c16fb02ddb596954476dca68742/188_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fea9405497217255103d608ec2e9ed7"
+      "image": "https://i.guim.co.uk/img/media/e288231c6e9783668605bf6b9ff408f8abb6fa95/480_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edfb12ead66e19f0ff1c00ba47e0d145"
     },
     {
       "title": "Voyage to the end of the world: floating lab to explore life in Arctic adrift in ice",
@@ -18,6 +45,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8052f51830650f6ae349c094caad8fcbb485799e/460_0_4947_3957/master/4947.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f42833e41a05d11df96601339323f345"
+    },
+    {
+      "title": "Fans in short supply as next UK heatwave approaches, says Currys",
+      "description": "&lt;p&gt;Retailer says sharp rise in fan sales over the latest heatwave weekend left stores scrambling to source stock&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&l...",
+      "link": "https://www.theguardian.com/business/2026/jul/02/fan-shortage-uk-heatwave-currys",
+      "pubDate": "Thu, 02 Jul 2026 10:28:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d289c29f9a2269e866912e914156e1996f1e5515/0_931_2334_1867/master/2334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f030130fed7b40f061a2f81db5f4347"
     },
     {
       "title": "Scientists fear cuts may shut radio telescope",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c700aa098fe3c04ff58db1d37c9627b291f26970/0_0_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a42f628638f54fe4520edb326efda518"
-    },
-    {
-      "title": "England has just had its hottest June on record, Met Office data shows",
-      "description": "&lt;p&gt;Chief scientist says dangerous heatwaves, which are getting more likely, ‘bring home the implications of climate change’&lt;/p&gt;&lt;p&gt;Th...",
-      "link": "https://www.theguardian.com/environment/2026/jul/01/england-hottest-june-on-record-met-office-data",
-      "pubDate": "Wed, 01 Jul 2026 15:47:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/802e3385e624f006a4e0287cbac69e0b3d466bef/697_0_6415_5132/master/6415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=302e6bf294af063425bf95cbbf9006a8"
-    },
-    {
-      "title": "England's warmest June on record following historic heatwave",
-      "description": "England saw its warmest June since records began in 1865 and the second warmest for the whole of the UK according to data just released by the Met Off...",
-      "link": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Jul 2026 13:49:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Demand for water use highest since 2022 drought",
-      "description": "Islanders urged to use water \"wisely\" after demand soared in heatwave....",
-      "link": "https://www.bbc.co.uk/news/articles/c992j5y77j2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Jul 2026 12:39:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How west London beavers are tackling flooding",
-      "description": "New beavers in west London have prevented flooding to Greenford station three years in a row....",
-      "link": "https://www.bbc.co.uk/news/articles/ckg728erp1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 01 Jul 2026 12:19:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
