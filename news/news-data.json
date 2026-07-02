@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-02T18:41:29.627Z",
+  "lastUpdated": "2026-07-02T20:24:11.965Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "The latest cutting-edge research on show at the Royal Society Summer Science Exhibition....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977t?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 02 Jul 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "As seas rise, American history could be washed away",
       "description": "&lt;p&gt;In Jamestown, Virginia, one of the most important places in American history is in a race against time from rising waters&lt;/p&gt;&lt;p&gt;S...",
@@ -33,15 +42,6 @@
       "description": "Some areas may reach record temperatures over the long weekend....",
       "link": "https://www.bbc.co.uk/weather/videos/cjdg81ejk9ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 02 Jul 2026 16:31:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "The latest cutting-edge research on show at the Royal Society Summer Science Exhibition....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977t?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Jul 2026 16:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -84,7 +84,7 @@
     },
     {
       "title": "Forecasters warn of record-breaking US summer heat amid intense El Niño",
-      "description": "&lt;p&gt;More than 100 million people could be affected in week leading to 4 July, with increased risks of droughts and wildfires&lt;/p&gt;&lt;p&gt;Me...",
+      "description": "&lt;p&gt;More than 100m people could be affected in week leading to 4 July, with increased risks of droughts and wildfires&lt;/p&gt;&lt;p&gt;Meteorolo...",
       "link": "https://www.theguardian.com/us-news/2026/jul/02/el-nino-summer-heat-record",
       "pubDate": "Thu, 02 Jul 2026 11:30:11 GMT",
       "sourceName": "theguardian.com",
