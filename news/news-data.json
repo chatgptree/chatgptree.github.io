@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-04T10:20:23.070Z",
+  "lastUpdated": "2026-07-04T12:11:20.665Z",
   "articles": [
+    {
+      "title": "Birdsong data from Merlin ID app to help global biodiversity project",
+      "description": "&lt;p&gt;Cornell Lab for Ornithology plans data linkup between app and population monitoring on eBird platform&lt;/p&gt;&lt;p&gt;The Merlin bird ID ap...",
+      "link": "https://www.theguardian.com/environment/2026/jul/04/merlin-app-birdsong-identification-ebird-biodiversity-conservation",
+      "pubDate": "Sat, 04 Jul 2026 11:00:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6e44f8998787da0f2600cc4299b258c7085cb035/1068_305_2905_2325/master/2905.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=892c5adf1148b36f31c88ad6b8b15953"
+    },
+    {
+      "title": "As auto costs rise, will the US miss the golden age of electric vehicles?",
+      "description": "&lt;p&gt;Shifting demands and political ideology have left the industry vulnerable to global competition from cheap Chinese cars&lt;/p&gt;&lt;p&gt;Ear...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/04/electric-cars-vehicles-united-states",
+      "pubDate": "Sat, 04 Jul 2026 11:00:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a7b9f674b601d40f35944d460de3f20c957d9d03/505_0_4511_3612/master/4511.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de17781a6070639201e8eb142250b2e7"
+    },
     {
       "title": "Labour MPs call on water firms to save Britain’s lost lidos",
       "description": "&lt;p&gt;Group, whose constituencies have derelict or at-risk pools, are campaigning to make outdoor swimming available for all&lt;/p&gt;&lt;p&gt;Cool...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Shell yeah: PhD project gives critical insights into vulnerable species",
-      "description": "Natalie Robson’s PhD project has led to the collection of important information about green turtles in the Northern Territory. Charles Darwin Universi...",
-      "link": "https://econews.com.au/shell-yeah-phd-project-gives-critical-insights-into-vulnerable-species/",
-      "pubDate": "Fri, 03 Jul 2026 08:01:40 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
-    },
-    {
-      "title": "Week in wildlife: Neil the seal, a pink grasshopper and condors in love",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jul/03...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jul/03/week-in-wildlife-neil-the-seal-a-pink-grasshopper-and-condors-in-love",
-      "pubDate": "Fri, 03 Jul 2026 07:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b8571a25a11c274aa2c4c448125c6df45cd92846/861_811_3239_2592/master/3239.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d41d53be9f4ffa7e927c25bc971931b"
     }
   ]
 }
