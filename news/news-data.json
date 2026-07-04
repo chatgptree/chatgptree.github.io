@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-04T12:11:20.665Z",
+  "lastUpdated": "2026-07-04T14:42:09.720Z",
   "articles": [
+    {
+      "title": "Overcrowded and underfunded: Trump’s cuts to national parks threaten the US’s ‘best idea’",
+      "description": "&lt;p&gt;This summer, Yosemite national park has been rife with traffic jams and throngs of visitors. Can these popular national treasures withstand a...",
+      "link": "https://www.theguardian.com/environment/2026/jul/04/trump-national-parks",
+      "pubDate": "Sat, 04 Jul 2026 14:00:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1b9961a976f5d117f007ea7310c5490e5831d9bf/544_0_5435_4348/master/5435.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d95c07e1104c1d8dfb5023e4ef135249"
+    },
+    {
+      "title": "A New Mexico town is running dry. An immigration detention center is its biggest water customer.",
+      "description": "The town of Estancia and the ICE facility are trucking in water until a new well is drilled....",
+      "link": "https://grist.org/drought/a-new-mexico-town-is-running-dry-an-immigration-detention-center-is-its-biggest-water-customer/",
+      "pubDate": "Sat, 04 Jul 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/colorado-river-lake-mead-powell-drought-water-solutions.jpeg?quality=75&#038;strip=all"
+    },
     {
       "title": "Birdsong data from Merlin ID app to help global biodiversity project",
       "description": "&lt;p&gt;Cornell Lab for Ornithology plans data linkup between app and population monitoring on eBird platform&lt;/p&gt;&lt;p&gt;The Merlin bird ID ap...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘I did that’: the award-winning energy industry apprentice bringing pride and purpose to powerline work",
-      "description": "Jack De Freitas Credit: NSW Training Services When Essential Energy powerline worker Jack De Freitas drives around his hometown of Cowra in the Centra...",
-      "link": "https://econews.com.au/i-did-that-the-award-winning-energy-industry-apprentice-bringing-pride-and-purpose-to-powerline-work/",
-      "pubDate": "Fri, 03 Jul 2026 08:01:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Essential-Energy-powerline-worker-Jack-De-Freitas-1024x622.jpg"
-    },
-    {
-      "title": "Give It Second Life: Cricut and Salvos Stores Launch  DIY July Edit Social Initiative",
-      "description": "Invites Australians to repurpose, reimagine and restyle preloved items to save money, reduce waste, and champion circular economy.  As cost-of-living ...",
-      "link": "https://econews.com.au/give-it-second-life-cricut-and-salvos-stores-launch-diy-july-edit-social-initiative/",
-      "pubDate": "Fri, 03 Jul 2026 08:01:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
