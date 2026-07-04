@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-04T00:13:12.651Z",
+  "lastUpdated": "2026-07-04T04:41:29.853Z",
   "articles": [
+    {
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+      "description": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 04 Jul 2026 00:57:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+      "description": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 04 Jul 2026 00:57:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
+      "description": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains....",
+      "link": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 04 Jul 2026 00:23:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
       "description": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bae7a9f796770fe9ab508afd2b549ceede7870c6/1104_0_5392_4316/master/5392.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db94b11e22032df0f29af215852b45a3"
-    },
-    {
-      "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
-      "description": "&lt;p&gt;Migratory giant petrel discovered near Hawks Nest north of Newcastle infected with H5. Testing under way to determine if it’s highly pathogen...",
-      "link": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
-      "pubDate": "Fri, 03 Jul 2026 03:57:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/344b059465e841130f939bdda72eefb9f48a63f8/0_0_5163_4131/master/5163.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d350e1351fe8887353d7d9ebdb04f98"
-    },
-    {
-      "title": "Race to control wildfires in southern France – in pictures",
-      "description": "&lt;p&gt;Nearly 3,000 people have been evacuated in southern France as the country swelters through a record-breaking heatwave. The fire started at a ...",
-      "link": "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures",
-      "pubDate": "Fri, 03 Jul 2026 01:55:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3b79623adc984dbbdd177b4d64fe81d3e22958ca/655_0_7920_6336/master/7920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3907615a73468bc973c9fd3eb5a2c7b1"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "The latest cutting-edge research on show at the Royal Society Summer Science Exhibition....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977t?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 02 Jul 2026 20:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
