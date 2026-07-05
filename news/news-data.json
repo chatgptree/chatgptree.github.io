@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-05T17:21:19.753Z",
+  "lastUpdated": "2026-07-05T19:36:42.651Z",
   "articles": [
+    {
+      "title": "At least 25 people die in US as record heatwave scorches swaths of country",
+      "description": "&lt;p&gt;More than 20 states reported temperatures above 100F as heat dome sits over eastern US during holiday weekend&lt;/p&gt;&lt;p&gt;At least abou...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather",
+      "pubDate": "Sun, 05 Jul 2026 18:49:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b9ede89a0f8bb13b98da0ade36fb4c16b12f0e67/215_0_6463_5170/master/6463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=397c1aec9557873031a55ad6f72f25dc"
+    },
     {
       "title": "Fears Queenslanders could be forced to pay for mine cleanup as LNP reviews environmental ‘red tape’",
       "description": "&lt;p&gt;Mining minister Dale Last says the state has an ‘enormous opportunity’ to become a global leader in critical minerals&lt;/p&gt;&lt;ul&gt;&lt;...",
@@ -159,15 +168,6 @@
       "description": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway....",
       "link": "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 03 Jul 2026 17:10:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nasa launches mission to save falling space telescope",
-      "description": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up....",
-      "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 03 Jul 2026 10:28:17 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
