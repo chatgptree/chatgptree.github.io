@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-05T19:36:42.651Z",
+  "lastUpdated": "2026-07-05T21:11:31.308Z",
   "articles": [
+    {
+      "title": "Super typhoon Bavi nears Pacific islands with huge wind gusts",
+      "description": "The storm is forecast to hit the region at about 08:00 (22:00 GMT), bringing \"catastrophic\" damage, according to forecasts....",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 05 Jul 2026 21:04:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "At least 25 people die in US as record heatwave scorches swaths of country",
       "description": "&lt;p&gt;More than 20 states reported temperatures above 100F as heat dome sits over eastern US during holiday weekend&lt;/p&gt;&lt;p&gt;At least abou...",
@@ -54,15 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f392dfa89d69539f01e8c6d70ab5de9751174a26/308_0_3135_2508/master/3135.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=008447d03836e4bfb3e0dd14d619fc3c"
-    },
-    {
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
-      "description": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday....",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 05 Jul 2026 09:26:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "‘They ate the shrimp, they even ate the crab’: Thai fishers count the cost of a voracious invader",
