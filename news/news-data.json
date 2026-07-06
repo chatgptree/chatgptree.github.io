@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-06T16:56:35.516Z",
+  "lastUpdated": "2026-07-06T19:01:51.695Z",
   "articles": [
+    {
+      "title": "Will this heatwave feel as hot and sticky as the last one?",
+      "description": "The UK's next heatwave is here, but will it feel as hot and sticky as the last one?...",
+      "link": "https://www.bbc.co.uk/news/videos/c2lyyqzvl28o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 06 Jul 2026 18:08:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
       "description": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam....",
@@ -44,7 +53,7 @@
       "pubDate": "Mon, 06 Jul 2026 14:00:05 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/f47a54029c79b3b0f2374228b23de7e4e4fbfcbd/2381_1058_3951_3163/master/3951.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=530eacb3f7140510de7624eaba38a2e8"
+      "image": "https://i.guim.co.uk/img/media/c0fc1cd6a194707c0a7d1f54ff711f204d469934/722_263_4264_3412/master/4264.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be95de6ee4eeb90ae7a8a959d3d08255"
     },
     {
       "title": "Funding the fight against corporate polluters",
@@ -102,7 +111,7 @@
     },
     {
       "title": "EV charger rollout in UK slows amid political uncertainty and rise in installation costs",
-      "description": "&lt;p&gt;Growth in charge points falls markedly despite surge in number of rapid-charging units&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"http...",
+      "description": "&lt;p&gt;Growth in charge points falls markedly despite surge in number of rapid-charging units&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The UK’s rollout ...",
       "link": "https://www.theguardian.com/business/2026/jul/06/uk-rollout-ev-chargers-slows",
       "pubDate": "Mon, 06 Jul 2026 09:00:01 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Medical Design Innovations Achieves Prestigious Australian Made Certification",
-      "description": "Medical Design Innovations (MDI) is proud to announce it has officially been licensed by the Australian Made Campaign, confirming its products are gen...",
-      "link": "https://econews.com.au/medical-design-innovations-achieves-prestigious-australian-made-certification/",
-      "pubDate": "Mon, 06 Jul 2026 04:01:40 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/medical_design_innovations_logo.jpg"
     }
   ]
 }
