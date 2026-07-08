@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-08T17:46:28.546Z",
+  "lastUpdated": "2026-07-08T19:46:28.174Z",
   "articles": [
+    {
+      "title": "UK has ‘no future’ if it fails to act on ecosystem collapse threatening national security",
+      "description": "&lt;p&gt;MPs demand publication of full report that outlines catastrophic consequences amid concerns for food security&lt;/p&gt;&lt;p&gt;Members of pa...",
+      "link": "https://www.theguardian.com/global-development/2026/jul/08/uk-report-ecosystem-collapse-national-threat-food-security",
+      "pubDate": "Wed, 08 Jul 2026 19:31:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/69c2d63858bddb5cb30f2a5b652d9e9a288c5284/865_0_5916_4734/master/5916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fdd2c894c9530b0bcc4cb96ff1fc8752"
+    },
+    {
+      "title": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
+      "description": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week....",
+      "link": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 08 Jul 2026 18:27:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on the flamingo revolution: Albanians are standing up for their rights, as well as for nature | Editorial",
       "description": "&lt;p&gt;Plans for a mega-resort, backed by Ivanka Trump and Jared Kushner, have spurred broader questions about who politics is serving&lt;/p&gt;&lt;...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Group-shot-mural-unveiling-1024x683.jpg"
-    },
-    {
-      "title": "Health risk fears for storks in Europe over ‘junk food’ from landfill",
-      "description": "&lt;p&gt;Rubbish dumps can expose birds to contaminants, raising questions over whether landfill foraging helps or harms&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/environment/2026/jul/08/health-risk-fears-for-storks-in-europe-over-junk-food-from-landfill",
-      "pubDate": "Wed, 08 Jul 2026 07:30:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8c7317f40e18cfafc94334d3cf182b97c7fe857e/909_0_2976_2381/master/2976.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ac08666323f09c40ed8e207cc178bdf"
-    },
-    {
-      "title": "Australian Businesses Among Most Fragile in Supply Chain Resilience – New Report",
-      "description": "Lara Mujico, Senior Vice President at Proxima Australia Only 5% of Australian firms can sustain operations between 4-6 months during major supply chai...",
-      "link": "https://econews.com.au/australian-businesses-among-most-fragile-in-supply-chain-resilience-new-report/",
-      "pubDate": "Wed, 08 Jul 2026 07:02:31 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Proxima-Australia-Chart-5-Financial-Challenge-to-Supply-Chain-1024x724.jpg"
     }
   ]
 }
