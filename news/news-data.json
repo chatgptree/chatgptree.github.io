@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-08T19:46:28.174Z",
+  "lastUpdated": "2026-07-08T21:17:24.556Z",
   "articles": [
+    {
+      "title": "UK heatwave spreads further north and west as temperatures continue to climb",
+      "description": "This year's third heatwave is one of the longest lasting heatwaves since the infamous year of 1976....",
+      "link": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 08 Jul 2026 20:34:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "UK has ‘no future’ if it fails to act on ecosystem collapse threatening national security",
       "description": "&lt;p&gt;MPs demand publication of full report that outlines catastrophic consequences amid concerns for food security&lt;/p&gt;&lt;p&gt;Members of pa...",
@@ -116,7 +125,7 @@
       "pubDate": "Wed, 08 Jul 2026 11:00:52 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/a4e13cab039decd986f6b82d2ccc5b9ce6faa431/190_362_1759_1408/master/1759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d76c5a3c84945194138bb90873257615"
+      "image": "https://i.guim.co.uk/img/media/a4e13cab039decd986f6b82d2ccc5b9ce6faa431/597_539_1534_1227/master/1534.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=881a4ada7d5076562409026b2ab845fe"
     },
     {
       "title": "Severn Trent spared Ofwat fine after ‘serious’ waterwaste and sewage failures",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3c7efc1d6738bbf91a0e4b1a4753206bc45f8ab9/0_0_2437_1949/master/2437.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cb8729db081676822b553df857b4656"
-    },
-    {
-      "title": "More than 200 ‘cod hotels’ to restore fish habitat across South East Queensland",
-      "description": "RRSEQ Director, Dr Jo Burton with cod hotel Credit – Annabel Osborne Photography 200+ new cod hotels across SEQ waterways supporting native fish popul...",
-      "link": "https://econews.com.au/more-than-200-cod-hotels-to-restore-fish-habitat-across-south-east-queensland/",
-      "pubDate": "Wed, 08 Jul 2026 08:01:39 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Group-shot-mural-unveiling-1024x683.jpg"
     }
   ]
 }
