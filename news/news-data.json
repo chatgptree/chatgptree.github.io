@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-08T10:27:38.906Z",
+  "lastUpdated": "2026-07-08T12:46:39.795Z",
   "articles": [
+    {
+      "title": "Have you heard of Flying Ant Day?",
+      "description": "Sophia Herod explains how it isn't a single day, but something that happens through the summer. ...",
+      "link": "https://www.bbc.co.uk/news/videos/c8j2n248jl9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 08 Jul 2026 11:26:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+      "description": "&lt;p&gt;Experts warn that some marine species are at risk of ‘mass mortality events’ in ever-warming oceans&lt;/p&gt;&lt;p&gt;UK waters are being hit...",
+      "link": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+      "pubDate": "Wed, 08 Jul 2026 11:13:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/03e45e8d59d2e7b985f7d2c51adc764f628b1ef7/86_0_4681_3744/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfb318705f27a6d16dbfb9f9536b6f7c"
+    },
+    {
+      "title": "Unions in Europe press for new worker protections to counter heat stress",
+      "description": "&lt;p&gt;Climate crisis prompts calls for workplace temperature limits and rights to heat breaks and adjusted working hours&lt;/p&gt;&lt;p&gt;As Europ...",
+      "link": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+      "pubDate": "Wed, 08 Jul 2026 11:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a4e13cab039decd986f6b82d2ccc5b9ce6faa431/190_362_1759_1408/master/1759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d76c5a3c84945194138bb90873257615"
+    },
+    {
+      "title": "Severn Trent spared Ofwat fine after ‘serious’ waterwaste and sewage failures",
+      "description": "&lt;p&gt;Regulator found ‘unacceptable’ breaches in water company’s handling of drainage and sewage network&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;...",
+      "link": "https://www.theguardian.com/business/2026/jul/08/severn-trent-spared-ofwat-fine-serious-waterwaste-sewage-failures",
+      "pubDate": "Wed, 08 Jul 2026 10:44:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5d59e6123c72df4aa4e72748c0e5c98a272e16c0/268_0_2665_2133/master/2665.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd10ad117a1998ac2b0a0bcf08be24d8"
+    },
     {
       "title": "European countries top ‘scorecard’ on climate progress while US slips to 27th",
       "description": "&lt;p&gt;Estonia, Luxembourg and UK are the top three in biennial Yale University index in tackling pollution and other issues&lt;/p&gt;&lt;p&gt;Much ...",
@@ -83,15 +119,6 @@
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Global-Data-logo.jpg"
     },
     {
-      "title": "Britons to buy 8m mini fans this year – but almost half will end up in landfill",
-      "description": "&lt;p&gt;Shoppers urged to seek quality products or alternatives as data shows demand surpassing last year’s total&lt;/p&gt;&lt;p&gt;Britons are expec...",
-      "link": "https://www.theguardian.com/business/2026/jul/08/uk-mini-fans-heatwave-sales",
-      "pubDate": "Wed, 08 Jul 2026 06:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1dbb10855568a29575c78aeb0f510f7faff06e38/659_0_4598_3679/master/4598.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ada9aad4497767f79fe6025827a5244c"
-    },
-    {
       "title": "CEFC and Aviva Investors invest in Tasmanian plantation forestry and natural capital platform",
       "description": "Rushy Lagoon conservation area The CEFC, Aviva Investors and Gresham House have launched a groundbreaking $142 million project to invest in sustainabl...",
       "link": "https://econews.com.au/cefc-and-aviva-investors-invest-in-tasmanian-plantation-forestry-and-natural-capital-platform/",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
-      "description": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week....",
-      "link": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 07 Jul 2026 23:10:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump tried to appease MAHA’s fury over Roundup. It backfired.",
-      "description": "The coalition of voters who helped elect Trump to clean up America's food system is growing more disenchanted with the president....",
-      "link": "https://grist.org/food-and-agriculture/trump-tried-to-appease-mahas-fury-over-roundup-it-backfired/",
-      "pubDate": "Tue, 07 Jul 2026 21:10:36 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/GettyImages-2273382213.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Lake Powell, a vital reservoir, plunges toward unprecedented low levels as water crisis deepens in US west",
-      "description": "&lt;p&gt;Experts say the critical reservoir system is careening toward a breaking point as the US west’s climate warms and dries&lt;/p&gt;&lt;p&gt;Lak...",
-      "link": "https://www.theguardian.com/us-news/2026/jul/07/lake-powell-water-crisis",
-      "pubDate": "Tue, 07 Jul 2026 20:05:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/62d9fe80728b51515a4a441fae220315c31d5f87/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45ad9cc644441a90efd4f8d9b4671642"
     }
   ]
 }
