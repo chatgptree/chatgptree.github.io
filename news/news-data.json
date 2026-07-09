@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-09T16:06:03.877Z",
+  "lastUpdated": "2026-07-09T18:53:30.648Z",
   "articles": [
+    {
+      "title": "Why heat is so deadly and how to stay safe",
+      "description": "Understand the risks associated with extreme heat and what to do when you’re facing down a heat wave with this guide based on years of Grist reporting...",
+      "link": "https://grist.org/extreme-weather/why-heat-is-so-deadly-and-how-to-stay-safe/",
+      "pubDate": "Thu, 09 Jul 2026 18:01:45 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/arizona-heat-sign.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
+      "description": "&lt;p&gt;Britain expands heat alerts while estimates suggest June’s death toll could surpass 20,000 across continent&lt;/p&gt;&lt;p&gt;The UK is swelt...",
+      "link": "https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
+      "pubDate": "Thu, 09 Jul 2026 17:39:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c5f7bd1cb061b58b6f9ad5cb2e5f28539515b78a/358_0_3082_2465/master/3082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88c318be74066e7ee33e097ac231c188"
+    },
     {
       "title": "BBC Inside Science",
       "description": "Researchers say they have created a synthetic cell-like system that can grow and divide....",
@@ -110,15 +128,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Neil the one-tonne elephant seal causing traffic jams in rural Tasmania has returned to sea – for now",
-      "description": "&lt;p&gt;Premier Jeremy Rockliff says the ‘traffic cones and street signs of Tasmania can breathe a small sigh of relief’&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/09/neil-the-seal-returns-to-sea-tasmania-australia",
-      "pubDate": "Thu, 09 Jul 2026 09:19:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7161157875121a0dd4e378cb0cc4d37117d39073/335_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7c3480c3a9a074edf85fccdd38f2ad7"
-    },
-    {
       "title": "How to build a highway in the age of climate change",
       "description": "A San Francisco Bay Area project is raising questions about what it will take to fortify highways against rising sea levels....",
       "link": "https://grist.org/transportation/how-to-build-a-highway-in-the-age-of-climate-change/",
@@ -159,15 +168,6 @@
       "description": "The six-belted clearwing is found by conservationists at Rough Park who hope to spot it elsewhere....",
       "link": "https://www.bbc.co.uk/news/articles/c4gyjvpep5eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 09 Jul 2026 05:12:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How beachgoers are turning snaps into science",
-      "description": "Scientists hope to learn more about the impact of climate change on coasts through people's photos....",
-      "link": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Jul 2026 05:06:11 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
