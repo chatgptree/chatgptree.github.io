@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-07-09T12:22:14.699Z",
+  "lastUpdated": "2026-07-09T16:06:03.877Z",
   "articles": [
     {
+      "title": "BBC Inside Science",
+      "description": "Researchers say they have created a synthetic cell-like system that can grow and divide....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977v?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Jul 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New York sues 3M, DuPont and others over 'forever chemicals' in consumer goods",
+      "description": "&lt;p&gt;State says companies hid environmental and health risks of Pfas for decades even as they began phasing them out&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/09/new-york-sues-3m-dupont-chemicals-consumer-goods",
+      "pubDate": "Thu, 09 Jul 2026 15:54:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f10f2d689e1aead31591dd7dc16c92651a1d856d/0_0_3207_2568/master/3207.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23974ed08b19d6fd442097e7f3a4ab22"
+    },
+    {
+      "title": "This huge hairy-legged Australian arachnid may be the fastest spider on the planet",
+      "description": "&lt;p&gt;A brown huntsman&lt;em&gt; &lt;/em&gt;is the quickest of more than 250 species analysed by scientists in the UK and Germany&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
+      "pubDate": "Thu, 09 Jul 2026 15:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/66d3c30ff4576f91bb49ab4c31b14a0b7e979cdc/285_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bff5e87fd196e08bd521a30c1c90aef5"
+    },
+    {
+      "title": "The brown huntsman timed as the fastest spider at a top speed of 3.59 m/s – video",
+      "description": "&lt;p&gt;Brown huntsman spiders were filmed to measure their speed. The 2021 research has been included in new analysis of the speeds of more than 250...",
+      "link": "https://www.theguardian.com/environment/video/2026/jul/10/the-brown-huntsman-timed-as-the-fastest-spider-at-a-top-speed-of-359-ms-video",
+      "pubDate": "Thu, 09 Jul 2026 15:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/66d3c30ff4576f91bb49ab4c31b14a0b7e979cdc/285_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bff5e87fd196e08bd521a30c1c90aef5"
+    },
+    {
+      "title": "The fight against AI data centers is important – but it’s just a starting point | Bruce Schneier and Nathan E Sanders",
+      "description": "&lt;p&gt;AI companies want to capture the value created by entire industries. That concentration of wealth and power is society’s greatest risk&lt;/p&...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics",
+      "pubDate": "Thu, 09 Jul 2026 15:00:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2df615d7038e5cbe337454b6a7691a533b8975bb/986_0_2318_1856/master/2318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17420d489391ce9f6ef9a524fb9859df"
+    },
+    {
       "title": "Viral squeaky frog now at risk of extinction",
       "description": "A squeaky frog that became an internet sensation is added to a global list of species at risk of extinction....",
       "link": "https://www.bbc.co.uk/news/articles/cq819y09g2lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Jul 2026 12:13:19 GMT",
+      "pubDate": "Thu, 09 Jul 2026 13:08:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,7 +59,7 @@
       "title": "Viral squeaky frog now at risk of extinction",
       "description": "A squeaky frog that became an internet sensation is added to a global list of species at risk of extinction....",
       "link": "https://www.bbc.co.uk/news/articles/cq819y09g2lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Jul 2026 12:13:19 GMT",
+      "pubDate": "Thu, 09 Jul 2026 13:08:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -23,19 +68,37 @@
       "title": "Viral squeaky frog now at risk of extinction",
       "description": "A squeaky frog that became an internet sensation is added to a global list of species at risk of extinction....",
       "link": "https://www.bbc.co.uk/news/articles/cq819y09g2lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Jul 2026 12:13:19 GMT",
+      "pubDate": "Thu, 09 Jul 2026 13:08:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Pets being hit by heatstroke even when resting, say UK vets",
-      "description": "&lt;p&gt;Experts say most cases used to be seen after exertion or being left in cars, but extreme heat has widened risk&lt;/p&gt;&lt;p&gt;Extreme temp...",
+      "title": "Pets can suffer heatstroke even when resting, UK vets warn",
+      "description": "&lt;p&gt;Most cases used to be seen after exertion or being left in cars, but extreme heat has widened risk&lt;/p&gt;&lt;p&gt;Extreme temperatures are...",
       "link": "https://www.theguardian.com/environment/2026/jul/09/extreme-temperatures-heatstroke-pets-uk-vets",
-      "pubDate": "Thu, 09 Jul 2026 11:00:02 GMT",
+      "pubDate": "Thu, 09 Jul 2026 12:34:40 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/4721eb38f08a81fd159e210d07613e13fed14e05/307_0_4165_3335/master/4165.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2334558bd40dff274ba48b891ea4d20"
+    },
+    {
+      "title": "Lynx reintroduction plans opposed by councillors",
+      "description": "Northumberland County Council members oppose supporting any application to release lynx in the wild....",
+      "link": "https://www.bbc.co.uk/news/articles/czx5ze5nzlxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Jul 2026 12:33:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+      "description": "&lt;p&gt;Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining&lt;/p&gt;&lt;p&gt;Life has coloni...",
+      "link": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "pubDate": "Thu, 09 Jul 2026 12:20:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1187bdfd3c4a3cbb71340e89c8fc9f455b7f72b5/501_358_1830_1464/master/1830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a519940cfcc5c97f2c25c967b1c78dfe"
     },
     {
       "title": "UK heatwave spreads north and west as further heat health alerts issued",
@@ -72,15 +135,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/TreeOfLife-e1783547235245.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Venomous snakes escape breeding farms in southern China during flooding",
-      "description": "&lt;p&gt;Local media in Hengzhou report king ratsnakes and cobras among hundreds in flood waters caused by typhoon Maysak&lt;/p&gt;&lt;p&gt;Hundreds o...",
-      "link": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
-      "pubDate": "Thu, 09 Jul 2026 08:08:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fcfadc0ee4e241a84cdc35f28ea9715e95e7e87a/335_0_4801_3841/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b26f7258b8e4d28ea66d3cfc30d7cd6d"
     },
     {
       "title": "From Smoke to Systems: Inside China’s Industrial Green Transition",
@@ -126,60 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EDP commissions largest solar PV system in Taiwan for a sports complex at Taichung high school",
-      "description": "Aerial view of EDP APAC’s commissioned 3.3MWp solar photovoltaic system for an all-weather sports complex at Tzu Ming High School. Credit: EDP The 3.3...",
-      "link": "https://econews.com.au/edp-commissions-largest-solar-pv-system-in-taiwan-for-a-sports-complex-at-taichung-high-school/",
-      "pubDate": "Thu, 09 Jul 2026 05:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/05/edp.jpg"
-    },
-    {
-      "title": "New approach boosts microplastic removal from wastewater",
-      "description": "Lead author Associate Professor Biplob Pramanik. RMIT University RMIT University researchers have tested a more effective way to capture microplastics...",
-      "link": "https://econews.com.au/new-approach-boosts-microplastic-removal-from-wastewater/",
-      "pubDate": "Thu, 09 Jul 2026 05:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/04/RMIT-logo-1.png"
-    },
-    {
-      "title": "Climate change is silencing the Pilbara barking gecko",
-      "description": "Pilbara Barking Gecko Credit: Robert Audcent Monash University New research from Monash University has provided the first comprehensive assessment of ...",
-      "link": "https://econews.com.au/climate-change-is-silencing-the-pilbara-barking-gecko/",
-      "pubDate": "Thu, 09 Jul 2026 05:01:47 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "EU Livestock Strategy brings end of cages in sight, no species should be left behind",
-      "description": "The end of confinement for laying hens and better welfare for chickens raised for meat, as well as pigs, are finally within reach, as the European Com...",
-      "link": "https://econews.com.au/eu-livestock-strategy-brings-end-of-cages-in-sight-no-species-should-be-left-behind/",
-      "pubDate": "Thu, 09 Jul 2026 05:01:45 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "From conflict to climate disruption: why Slow Food will debate the future of food at Terra Madre 2026",
-      "description": "The XVI edition of Terra Madre Salone del Gusto returns to Turin (Italy), 24–27 September 2026 As wars disrupt food supplies, climate shocks intensify...",
-      "link": "https://econews.com.au/from-conflict-to-climate-disruption-why-slow-food-will-debate-the-future-of-food-at-terra-madre-2026/",
-      "pubDate": "Thu, 09 Jul 2026 05:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Slow-Food-logo.png"
-    },
-    {
-      "title": "Western Europe records hottest-ever June as heatwaves intensify",
-      "description": "&lt;p&gt;Temperatures across ravaged region 3C above average as scientists warn of risks for people, ecosystems and infrastructure&lt;/p&gt;&lt;ul&gt;...",
-      "link": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
-      "pubDate": "Thu, 09 Jul 2026 04:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d612a401ed33fbb51e3bc6392053eecbf63271b5/596_0_6457_5169/master/6457.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b250ff616db58c54e76e1ac24d25394e"
     }
   ]
 }
