@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-09T18:53:30.648Z",
+  "lastUpdated": "2026-07-09T20:52:10.469Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Researchers say they have created a synthetic cell-like system that can grow and divide....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977v?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Jul 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why heat is so deadly and how to stay safe",
       "description": "Understand the risks associated with extreme heat and what to do when you’re facing down a heat wave with this guide based on years of Grist reporting...",
@@ -20,15 +29,6 @@
       "image": "https://i.guim.co.uk/img/media/c5f7bd1cb061b58b6f9ad5cb2e5f28539515b78a/358_0_3082_2465/master/3082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88c318be74066e7ee33e097ac231c188"
     },
     {
-      "title": "BBC Inside Science",
-      "description": "Researchers say they have created a synthetic cell-like system that can grow and divide....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct977v?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Jul 2026 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "New York sues 3M, DuPont and others over 'forever chemicals' in consumer goods",
       "description": "&lt;p&gt;State says companies hid environmental and health risks of Pfas for decades even as they began phasing them out&lt;/p&gt;&lt;ul&gt;&lt;li&gt;...",
       "link": "https://www.theguardian.com/us-news/2026/jul/09/new-york-sues-3m-dupont-chemicals-consumer-goods",
@@ -38,7 +38,7 @@
       "image": "https://i.guim.co.uk/img/media/f10f2d689e1aead31591dd7dc16c92651a1d856d/0_0_3207_2568/master/3207.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23974ed08b19d6fd442097e7f3a4ab22"
     },
     {
-      "title": "This huge hairy-legged Australian arachnid may be the fastest spider on the planet",
+      "title": "This huge, hairy-legged Australian arachnid may be the fastest spider on the planet",
       "description": "&lt;p&gt;A brown huntsman&lt;em&gt; &lt;/em&gt;is the quickest of more than 250 species analysed by scientists in the UK and Germany&lt;/p&gt;&lt;p&gt...",
       "link": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
       "pubDate": "Thu, 09 Jul 2026 15:00:55 GMT",
