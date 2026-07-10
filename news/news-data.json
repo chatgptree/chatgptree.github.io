@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-07-09T22:37:59.378Z",
+  "lastUpdated": "2026-07-10T00:13:01.511Z",
   "articles": [
     {
-      "title": "Risks of historic El Niño persisting through spring 2027 rising, says NWS",
-      "description": "&lt;p&gt;National Weather Service says record-breaking event with power to supercharge weather becoming more likely&lt;/p&gt;&lt;p&gt;El Niño is stren...",
+      "title": "UK bakes in 35C highs as heatwave to continue next week",
+      "description": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year....",
+      "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Jul 2026 23:08:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "description": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms....",
+      "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Jul 2026 23:00:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "description": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms....",
+      "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 09 Jul 2026 23:00:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Historic El Niño able to supercharge extreme weather looks increasingly likely – researchers",
+      "description": "&lt;p&gt;Models show overwhelming chance that this year’s El Niño to rank among largest going back to 1950&lt;/p&gt;&lt;p&gt;El Niño is strengthening ...",
       "link": "https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather",
       "pubDate": "Thu, 09 Jul 2026 21:06:22 GMT",
       "sourceName": "theguardian.com",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/TreeOfLife-e1783547235245.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "From Smoke to Systems: Inside China’s Industrial Green Transition",
-      "description": "A panoramic view of the Huaxin Diwei Cement facility in Chongqing, southwest China. [Photo: CGTN Radio] Standing inside a cement factory in Chongqing,...",
-      "link": "https://econews.com.au/from-smoke-to-systems-inside-chinas-industrial-green-transition/",
-      "pubDate": "Thu, 09 Jul 2026 08:01:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/temp4cj-1.png"
-    },
-    {
-      "title": "'It felt a bit James Bond': The mission to reintroduce a lost insect",
-      "description": "Species Recovery Trust hopes to reintroduce the New Forest cicadas not seen in UK since the 1990s....",
-      "link": "https://www.bbc.co.uk/news/articles/cq5168jz88no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Jul 2026 05:13:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rare moth find in town park sparks hopes of others",
-      "description": "The six-belted clearwing is found by conservationists at Rough Park who hope to spot it elsewhere....",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyjvpep5eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 09 Jul 2026 05:12:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
