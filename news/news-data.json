@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-10T19:44:30.528Z",
+  "lastUpdated": "2026-07-10T21:13:49.518Z",
   "articles": [
+    {
+      "title": "EPA to open habitats of endangered species to logging and mining",
+      "description": "&lt;p&gt;Habitat destruction strongest driver of species loss, with legislation keeping 99% of listed species from going extinct&lt;/p&gt;&lt;p&gt;The...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining",
+      "pubDate": "Fri, 10 Jul 2026 20:37:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0ef9be4b76669b7a3a1d192912a93f8abd610d3d/488_0_5363_4290/master/5363.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a71640ea1d1a953a81f10fa6c61f6353"
+    },
+    {
+      "title": "Helping one of Britain's rarest butterflies",
+      "description": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary....",
+      "link": "https://www.bbc.co.uk/news/videos/cwyezwg89n3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 10 Jul 2026 20:14:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The oceans are full of heat, and it&#8217;s coming ashore",
       "description": "The ocean absorbs 90 percent of the excess heat from global warming. It doesn't all stay there....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/da87818f7453038ef1f7ea0cb796acca0f0d8069/0_87_2033_1626/master/2033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1675a593743a2ac367ee93d2a0cdfe9d"
-    },
-    {
-      "title": "Workers are risking dangerous heat to keep the World Cup running",
-      "description": "A patchwork of government protections and company policies have left them more vulnerable....",
-      "link": "https://grist.org/extreme-heat/workers-are-risking-dangerous-heat-to-keep-the-world-cup-running/",
-      "pubDate": "Fri, 10 Jul 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/Ashlee-Willis-2.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "The nation&#8217;s biggest public utility just doubled down on coal, gas, and nuclear",
-      "description": "In a revised energy plan, the Tennessee Valley Authority follows Trump administration directives and shies away from solar and wind....",
-      "link": "https://grist.org/energy/the-nations-biggest-public-utility-just-doubled-down-on-coal-gas-and-nuclear/",
-      "pubDate": "Fri, 10 Jul 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/01/Trump-coal-order.jpg?quality=75&#038;strip=all"
     }
   ]
 }
