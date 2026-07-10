@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-10T17:53:21.355Z",
+  "lastUpdated": "2026-07-10T19:44:30.528Z",
   "articles": [
+    {
+      "title": "The oceans are full of heat, and it&#8217;s coming ashore",
+      "description": "The ocean absorbs 90 percent of the excess heat from global warming. It doesn't all stay there....",
+      "link": "https://grist.org/climate/heatwaves-oceans-record-temperatures-el-nino/",
+      "pubDate": "Fri, 10 Jul 2026 19:05:18 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/heatwave2026ocean_inline.jpeg?quality=75&amp;strip=all"
+    },
     {
       "title": "Fast-spreading wildfire kills at least 12 in southern Spain",
       "description": "&lt;p&gt;Twenty-three people missing and four Britons thought to be among those who died trying to flee Almería blaze&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
@@ -29,8 +38,8 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Congress is about to pass the biggest disaster reform in years",
-      "description": "A little-noticed section in a bipartisan housing bill could speed up new construction after major disasters....",
+      "title": "Congress set to overhaul disaster recovery, speeding up new home builds",
+      "description": "A little-noticed section in a bipartisan housing bill could accelerate new construction after major disasters....",
       "link": "https://grist.org/politics/trump-congress-housing-bill-disaster-recovery/",
       "pubDate": "Fri, 10 Jul 2026 15:45:09 +0000",
       "sourceName": "grist.org",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/01/Trump-coal-order.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Swift nest reportedly thrown in skip during house renovations in South Tyneside",
-      "description": "&lt;p&gt;Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractor&lt;/p&gt;&lt;p&gt;Swift...",
-      "link": "https://www.theguardian.com/environment/2026/jul/10/swift-nest-reportedly-thrown-in-skip-during-house-renovations-in-south-tyneside",
-      "pubDate": "Fri, 10 Jul 2026 08:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3586254d7574d944fb86b0823cce8301f3e1d07b/0_596_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c02542e71962e90247ee15fdb28b61ed"
     }
   ]
 }
