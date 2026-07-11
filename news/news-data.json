@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-10T23:05:39.054Z",
+  "lastUpdated": "2026-07-11T03:30:38.156Z",
   "articles": [
+    {
+      "title": "Cooler for some this weekend but heatwave continues",
+      "description": "The sizzling heat continues into next week despite a drop in temperatures over the weekend....",
+      "link": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 11 Jul 2026 00:18:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘Death sentence’: Trump’s EPA to open habitats of endangered species to logging and mining",
       "description": "&lt;p&gt;Habitat destruction strongest driver of species loss, with legislation keeping 99% of listed species from going extinct&lt;/p&gt;&lt;p&gt;The...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fd5837188bec6d468d5306b293ba31e2fb4c2e97/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cda5c7290f91a0bb9b89ee6442086c11"
-    },
-    {
-      "title": "How cows are helping one of Britain's rarest butterflies",
-      "description": "The high brown fritillary needs bracken and a certain violet to thrive - but everything in moderation....",
-      "link": "https://www.bbc.co.uk/news/articles/c621jgepljvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 10 Jul 2026 09:07:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
