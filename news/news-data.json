@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-11T13:46:27.407Z",
+  "lastUpdated": "2026-07-11T15:03:16.740Z",
   "articles": [
+    {
+      "title": "Wildlife conservation work to get £1m boost",
+      "description": "Endangered rodents, birds and butterflies will be among the species benefitting from the investment....",
+      "link": "https://www.bbc.co.uk/news/articles/cp3xg2zkkv8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 11 Jul 2026 14:53:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘A slap in the face’: small farmers say Trump is turning his back on them",
+      "description": "&lt;p&gt;The president wooed farmers in his campaign, but now the USDA is yanking funding, citing ‘DEI’ and wasteful spending&lt;/p&gt;&lt;p&gt;It’s j...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/11/iowa-farming-trump-cuts-usda",
+      "pubDate": "Sat, 11 Jul 2026 14:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9f848442027309451e59235a376daba92f7cd380/0_0_4306_3447/master/4306.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dcc4b3a7f832839610f58fdea6eb0ba9"
+    },
     {
       "title": "How to build homes that can survive extreme heat",
       "description": "As heat waves strain the power grid, passive cooling can help homes stay safer when the air goes out....",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The oceans are full of heat, and it&#8217;s coming ashore",
-      "description": "The ocean absorbs 90 percent of the excess heat from global warming. It doesn't all stay there....",
-      "link": "https://grist.org/climate/heatwaves-oceans-record-temperatures-el-nino/",
-      "pubDate": "Fri, 10 Jul 2026 19:05:18 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/heatwave2026ocean_inline.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Fast-spreading wildfire kills at least 12 in southern Spain",
-      "description": "&lt;p&gt;Twenty-three people missing and four Britons thought to be among those who died trying to flee Almería blaze&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt...",
-      "link": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
-      "pubDate": "Fri, 10 Jul 2026 17:06:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/788e8308e832f313fd2a9c9fcf8e929c2414ead2/444_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edac6f8c93633abe25aa059c4b50268e"
     }
   ]
 }
