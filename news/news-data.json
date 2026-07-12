@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-07-12T13:45:40.591Z",
+  "lastUpdated": "2026-07-12T15:04:57.857Z",
   "articles": [
+    {
+      "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
+      "description": "&lt;p&gt;Pair airlifted to hospital in two-hour rescue operation after Guardia Civil searched area for survivors&lt;/p&gt;&lt;p&gt;A British couple ha...",
+      "link": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
+      "pubDate": "Sun, 12 Jul 2026 14:26:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/461f851385f42bc8d8626f25f81067bba8254a4b/292_0_4876_3901/master/4876.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a9d346795ad95bce5cb6be8e501f045"
+    },
     {
       "title": "Flash flooding in Missouri leaves one person dead as 200 campers are rescued",
       "description": "&lt;p&gt;Woman dies after her home is swept away as heavy rainfall batters parts of state, forcing rescues and evacuations&lt;/p&gt;&lt;p&gt;A woman w...",
       "link": "https://www.theguardian.com/us-news/2026/jul/12/flash-flooding-in-missouri-leaves-one-person-dead-as-200-campers-are-rescued",
-      "pubDate": "Sun, 12 Jul 2026 13:31:26 GMT",
+      "pubDate": "Sun, 12 Jul 2026 14:01:35 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/91794ca52f6e31eb6c214cd507842e9645e18af6/0_0_2033_1626/master/2033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f60741e766e99a4c0d204ad33d5961d5"
+    },
+    {
+      "title": "Britain’s biggest community solar farm forced to shut over grid overload fears",
+      "description": "&lt;p&gt;Timing of Devon switchoff ‘could not be worse’, says board, as members face an estimated £2m in lost revenue &lt;/p&gt;&lt;p&gt;Britain’s big...",
+      "link": "https://www.theguardian.com/environment/2026/jul/12/solar-farm-forced-to-shut-derril-water-biggest-grid-overload-fears",
+      "pubDate": "Sun, 12 Jul 2026 14:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/be034339af604b096be1f46431dfd0e997105273/46_0_5092_4074/master/5092.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=581d18f2d9d2eeb984c5e11f1ccabe18"
     },
     {
       "title": "‘Why take those jobs away?’: The unionized workers decrying Trump’s war on wind",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Drones are detecting more sharks at US beaches, but do they make the public safer?",
-      "description": "&lt;p&gt;Increase in sightings may not reflect increase in sharks with little evidence that threat to swimmers has risen&lt;/p&gt;&lt;p&gt;Experts say...",
-      "link": "https://www.theguardian.com/environment/2026/jul/11/sharks-drones-public-safety-beaches",
-      "pubDate": "Sat, 11 Jul 2026 12:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/885304d350812016cbbd20583808ddf611ca5740/599_0_3258_2607/master/3258.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5b55c777d183b8a9896a8ef9bf48174"
-    },
-    {
-      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
-      "description": "&lt;p&gt;Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boom&lt;/p&gt;&lt;p&gt;Microsoft, Amazon and ...",
-      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "pubDate": "Sat, 11 Jul 2026 11:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/759518978daf02dee0d450e98f9f76de047cf552/0_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2452eca07049d9d11ebf0296eb97a18"
     }
   ]
 }
