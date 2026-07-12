@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-12T11:19:59.924Z",
+  "lastUpdated": "2026-07-12T13:45:40.591Z",
   "articles": [
+    {
+      "title": "Flash flooding in Missouri leaves one person dead as 200 campers are rescued",
+      "description": "&lt;p&gt;Woman dies after her home is swept away as heavy rainfall batters parts of state, forcing rescues and evacuations&lt;/p&gt;&lt;p&gt;A woman w...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/12/flash-flooding-in-missouri-leaves-one-person-dead-as-200-campers-are-rescued",
+      "pubDate": "Sun, 12 Jul 2026 13:31:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/91794ca52f6e31eb6c214cd507842e9645e18af6/0_0_2033_1626/master/2033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f60741e766e99a4c0d204ad33d5961d5"
+    },
+    {
+      "title": "‘Why take those jobs away?’: The unionized workers decrying Trump’s war on wind",
+      "description": "Workers proud of their efforts to grow renewable energy say the U.S. president is pursuing a \"personal vendetta\" at their expense....",
+      "link": "https://grist.org/energy/why-take-those-jobs-away-the-unionized-workers-decrying-trumps-war-on-wind/",
+      "pubDate": "Sun, 12 Jul 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Select-1JB04614_XMIT.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "‘Huge wave’ of carbon storage projects causes alarm in small-town USA as oil firms eye billions in subsidies",
+      "description": "&lt;p&gt;Dozens of projects are in development across US despite concerns over environmental and health risks&lt;/p&gt;&lt;p&gt;The plan to bury carbo...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/12/carbon-sequestration-projects-oil-companies-subsidies",
+      "pubDate": "Sun, 12 Jul 2026 12:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/05cbaee6e0358c44edf2cb8c94a2be50282ee783/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae58c7e6fed4090f3295c4e04449f7db"
+    },
     {
       "title": "Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay",
       "description": "&lt;p&gt;Scientists worry that current eradication efforts won’t be able to contain parasitic infestation pushing into US&lt;/p&gt;&lt;p&gt;When conse...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/759518978daf02dee0d450e98f9f76de047cf552/0_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2452eca07049d9d11ebf0296eb97a18"
-    },
-    {
-      "title": "Heatwave to stretch into second week despite cooler air for some this weekend",
-      "description": "The sizzling heat continues into next week despite a drop in temperatures over the weekend....",
-      "link": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 11 Jul 2026 10:41:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Like a sauna’: London tube travellers swelter in temperatures higher than legal limit for cattle",
-      "description": "&lt;p&gt;The tube cannot easily be adapted to cope with heatwaves, making conditions almost unbearable&lt;/p&gt;&lt;p&gt;As the escalator descends bel...",
-      "link": "https://www.theguardian.com/uk-news/2026/jul/11/like-a-sauna-london-tube-travellers-swelter-in-temperatures-higher-than-legal-limit-for-cattle",
-      "pubDate": "Sat, 11 Jul 2026 08:45:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ce9938d91957b52aa4ada5718724bdcce47c9df1/53_0_5779_4624/master/5779.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33b481fbba78faf56049afe937ec61dd"
-    },
-    {
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "description": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago....",
-      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 11 Jul 2026 08:23:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
