@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-12T09:58:27.172Z",
+  "lastUpdated": "2026-07-12T11:19:59.924Z",
   "articles": [
+    {
+      "title": "Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay",
+      "description": "&lt;p&gt;Scientists worry that current eradication efforts won’t be able to contain parasitic infestation pushing into US&lt;/p&gt;&lt;p&gt;When conse...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
+      "pubDate": "Sun, 12 Jul 2026 11:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/29299872a9ec2777422d1a50204bc82a523a2d79/1454_0_7213_5768/master/7213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a8ee9282866b60c2f7761d72fd5692e"
+    },
     {
       "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled....",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A swarm of stink bugs and a river of rats: why India’s flowering bamboo causes a crisis for humans",
-      "description": "&lt;p&gt;Every few decades mass blooming in Mizoram’s forests causes a rodent boom – and devastation to crops. The cycle is well-known, so why aren’t ...",
-      "link": "https://www.theguardian.com/environment/2026/jul/11/rats-famine-bamboo-mizoram-india-aoe",
-      "pubDate": "Sat, 11 Jul 2026 08:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab119155673014a09b898370a2b4f771941f9609/0_0_1214_971/master/1214.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94f64dbfa7fb2b059e318e4cfc97199b"
     }
   ]
 }
