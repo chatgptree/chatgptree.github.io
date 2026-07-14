@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-07-14T14:03:37.863Z",
+  "lastUpdated": "2026-07-14T16:20:55.992Z",
   "articles": [
+    {
+      "title": "Watch: New ISS crew blasts off from Kazakhstan",
+      "description": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission....",
+      "link": "https://www.bbc.co.uk/news/videos/ckg4gjwz20qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Jul 2026 15:50:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Watch: New ISS crew blasts off from Kazakhstan",
+      "description": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission....",
+      "link": "https://www.bbc.co.uk/news/videos/ckg4gjwz20qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Jul 2026 15:50:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Another heatwave hits parts of US and Canada",
+      "description": "At least 44 people died in early July from a heatwave that scorched large swathes of the US....",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzyep6z63o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Jul 2026 15:49:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "description": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York....",
+      "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Jul 2026 15:37:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Heatwave conditions in NI for second time this summer",
+      "description": "That heat threshold must be met for at least three consecutive days at the same weather station to be a heatwave....",
+      "link": "https://www.bbc.co.uk/news/articles/cz6v6g453npo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Jul 2026 15:30:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Heatwave conditions in NI for second time this summer",
+      "description": "That heat threshold must be met for at least three consecutive days at the same weather station to be a heatwave....",
+      "link": "https://www.bbc.co.uk/news/articles/cz6v6g453npo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Jul 2026 15:30:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Church of England votes against plan to rewild 30% of its land by 2030",
+      "description": "&lt;p&gt;Campaigners criticise C of E for failing to show moral leadership as one of country’s biggest landowners&lt;/p&gt;&lt;p&gt;The Church of Engl...",
+      "link": "https://www.theguardian.com/world/2026/jul/14/church-of-england-votes-against-rewild-land-2030",
+      "pubDate": "Tue, 14 Jul 2026 14:23:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3be36a45081892668607852f5ca79768466c0fe0/187_0_4845_3876/master/4845.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2bc64039ea3d9391775633632da16ff"
+    },
+    {
+      "title": "Coalition and One Nation’s plan to ditch net zero would not lower power prices, CSIRO report finds",
+      "description": "&lt;p&gt;GenCost report contradicts parties’ claims about abandoning emissions target, and finds nuclear would be most expensive way to generate power...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
+      "pubDate": "Tue, 14 Jul 2026 14:01:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d205e5e1a10b7343912174e3f3f094f25069a9fa/632_0_6663_5333/master/6663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f6d70e95238c5d720deb719a59e8900"
+    },
+    {
+      "title": "California faces highest shark numbers in years as great whites head north",
+      "description": "&lt;p&gt;El Niño climate phenomenon heating waters off Mexico but incidents with humans remain a rarity&lt;/p&gt;&lt;p&gt;California is set to see one...",
+      "link": "https://www.theguardian.com/environment/2026/jul/14/california-sharks-el-nino",
+      "pubDate": "Tue, 14 Jul 2026 14:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d1d8932e0c31f6fc5e229d506e7fbbffb3a6ba43/286_68_1089_871/master/1089.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=281d47054f68218233ade4fcbe8c39f8"
+    },
     {
       "title": "Astronomers' surprise at discovery of new stars",
       "description": "A Warwick University team, working with US astronomers, find four, previously hidden, white dwarf stars....",
@@ -99,87 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "Upgrading alarm systems for critical industries",
-      "description": "~ OMNI16R replaces ageing infrastructure enabling safe operation~ To help operators in critical industries such as oil and gas, nuclear and power gene...",
-      "link": "https://econews.com.au/upgrading-alarm-systems-for-critical-industries/",
-      "pubDate": "Tue, 14 Jul 2026 06:01:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "AASB S2 just made your CFO accountable for the numbers you’ve been chasing alone",
-      "description": "Sam Riley, Co-Founder and CEO at Drova It also means more attention from the top, more urgency, and for the sustainability teams leading this work wel...",
-      "link": "https://econews.com.au/aasb-s2-just-made-your-cfo-accountable-for-the-numbers-youve-been-chasing-alone/",
-      "pubDate": "Tue, 14 Jul 2026 06:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://econews.com.au/wp-content/uploads/2026/07/Copy-of-1_DSCF0090-672x1024-197x300.jpg"
-    },
-    {
-      "title": "Giving nature a say: why Scottish marine scientists appointed the ocean to their board",
-      "description": "&lt;p&gt;As the rights of nature are increasingly being recognised, the Scottish Association for Marine Science is the latest organisation to make the...",
-      "link": "https://www.theguardian.com/global-development/2026/jul/14/scottish-marine-scientists-ocean-board-trustees",
-      "pubDate": "Tue, 14 Jul 2026 06:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fb2a8adb434c832228ebe75e47b983e6d85c14f3/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c3b74b908b8ec7873bebbbf77fa0e7a"
-    },
-    {
-      "title": "Can you spot the poacher’s handprint? Earth Photo award winners – in pictures",
-      "description": "&lt;p&gt;From scientific tricks to stop turtle traffickers to stranded seals and displaced workers, these images all scooped prizes at this year’s Ear...",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/14/earth-photo-award-winners",
-      "pubDate": "Tue, 14 Jul 2026 06:00:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/04f30e5f66646dc244a0eb4c8acadea709c39300/673_0_6728_5382/master/6728.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=657cebf8d0a7b52cc6754c6386a6d647"
-    },
-    {
-      "title": "In pictures: 3,000-mile journey to save rare horses",
-      "description": "Przewalski's horses were once listed as extinct in the wild, with only a few remaining in captivity....",
-      "link": "https://www.bbc.co.uk/news/articles/c4gynqly2dyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 05:17:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Call for right to grow food on unused public land",
-      "description": "Some London council already allow unused land to be turned into gardens, allotments and flowerbeds....",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dm31p057o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 05:05:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Most UK media reports on June heatwave failed to mention climate crisis",
-      "description": "&lt;p&gt;Exclusive: Analysis of nearly 2,500 articles finds almost three-quarters made no reference to global heating&lt;/p&gt;&lt;p&gt;Most of the UK...",
-      "link": "https://www.theguardian.com/environment/2026/jul/14/most-coverage-june-heatwave-did-not-mention-climate-crisis",
-      "pubDate": "Tue, 14 Jul 2026 05:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f54fbc2e09d92e9e44822b18fb6f795d887bd2ac/386_0_1956_1565/master/1956.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=221cff80856516361d3ccb0fd97df557"
-    },
-    {
-      "title": "North Sea oil industry urges Burnham to approve new drilling in UK waters",
-      "description": "&lt;p&gt;Lobby appeals to prospective PM’s reindustrialisation agenda as it pushes for Rosebank and Jackdaw approval&lt;/p&gt;&lt;p&gt;The UK’s North ...",
-      "link": "https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters",
-      "pubDate": "Tue, 14 Jul 2026 05:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c0af328bb8a9b2222b3ab3fe9e2a4b0be5fd91cb/1531_104_4494_3596/master/4494.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd90b6837fbcd629ac86f81924b7b0ee"
-    },
-    {
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "description": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested....",
-      "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 13 Jul 2026 20:15:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
