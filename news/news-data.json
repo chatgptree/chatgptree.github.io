@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-14T11:37:42.618Z",
+  "lastUpdated": "2026-07-14T14:03:37.863Z",
   "articles": [
+    {
+      "title": "Astronomers' surprise at discovery of new stars",
+      "description": "A Warwick University team, working with US astronomers, find four, previously hidden, white dwarf stars....",
+      "link": "https://www.bbc.co.uk/news/articles/ce8k80zpkkdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 14 Jul 2026 12:15:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Inside the secret Laos shops selling pangolin scales, bear bile and tiger bones to tourists",
       "description": "&lt;p&gt;Covert footage obtained by the Guardian shows how crime networks are using front souvenir shops to hide a booming wildlife trade targeted at ...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Lancashire chemicals factory facing potential legal claim announces closure",
-      "description": "&lt;p&gt;More than 90 residents have expressed interest in contamination claim against AGC Chemicals Europe&lt;/p&gt;&lt;p&gt;A Pfas factory in Lancas...",
-      "link": "https://www.theguardian.com/environment/2026/jul/13/lancashire-factory-agc-chemicals-europe-potential-legal-claim-announces-closure",
-      "pubDate": "Mon, 13 Jul 2026 18:05:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/40357295567d68ae63047da9da9711d684023a12/14_0_6990_5592/master/6990.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e27ce4ec6d3a125af8801729d4a3d36"
     }
   ]
 }
