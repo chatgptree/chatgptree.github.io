@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-15T11:41:16.706Z",
+  "lastUpdated": "2026-07-15T14:00:18.752Z",
   "articles": [
+    {
+      "title": "Pictures released of baby vicuna born at wildlife park",
+      "description": "The baby vicuna - the smallest member of the camel family - is settling in well at the Highland site....",
+      "link": "https://www.bbc.co.uk/news/articles/cze9e4883k5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 13:54:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘I’ve never worked with so many conservatives’: the Texans fighting the Big Bend border wall",
+      "description": "&lt;p&gt;Residents across party lines say Trump’s proposed wall threatens their homes, livelihoods and wilderness along the Rio Grande&lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/15/big-bend-wall-texas-bipartisan",
+      "pubDate": "Wed, 15 Jul 2026 13:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5867e4e51c7c932571a3d1073a2ea03a11e64d74/226_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87a2d434abdb0345892670eb4c224477"
+    },
+    {
+      "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
+      "description": "&lt;p&gt;The next great climate divide will be between countries that have the resources to adapt and those that don’t&lt;/p&gt;&lt;p&gt;This summer, ...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/15/air-conditioning-access-extreme-heat",
+      "pubDate": "Wed, 15 Jul 2026 12:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dcc654bfbb41b05d4651902d8e17e607c90fce99/283_0_4071_3258/master/4071.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1af82eb29e4c07e89a656348471858a0"
+    },
     {
       "title": "Climate we had in 20th Century 'has now gone' - Met Office",
       "description": "The latest report on the UK's climate warns cold mountainous areas are also being lost....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/305921b0a646ec0d96fd8a0322f8f0f059e56f00/379_0_3741_2994/master/3741.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2bf19246503bc5e3a34754d1f00f2cc"
-    },
-    {
-      "title": "Scots urged to 'stay vigilant' as wildfire risk very high",
-      "description": "The Scottish Fire and Rescue Service has issued a warning for central Highlands, southern and eastern Scotland from Wednesday....",
-      "link": "https://www.bbc.co.uk/news/articles/c33y3815p77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 05:19:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hosepipe ban in force for millions of households - is your area affected?",
-      "description": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being m...",
-      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 05:08:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hosepipe ban in force for millions of households - is your area affected?",
-      "description": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being m...",
-      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 05:08:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
