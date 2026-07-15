@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-07-15T09:16:41.905Z",
+  "lastUpdated": "2026-07-15T11:41:16.706Z",
   "articles": [
+    {
+      "title": "Climate we had in 20th Century 'has now gone' - Met Office",
+      "description": "The latest report on the UK's climate warns cold mountainous areas are also being lost....",
+      "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 11:11:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate we had in 20th Century 'has now gone' - Met Office",
+      "description": "The latest report on the UK's climate warns cold mountainous areas are also being lost....",
+      "link": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 11:11:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "First of four juvenile ospreys takes flight",
+      "description": "The first juvenile osprey of the season leaves its nest near Wareham....",
+      "link": "https://www.bbc.co.uk/news/articles/c0jyjly47gyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 10:18:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sadiq Khan backs calls for maximum workplace temperature in UK",
+      "description": "&lt;p&gt;Mayor of London backs calls from unions to update health and safety rules in light of more frequent heatwaves&lt;/p&gt;&lt;p&gt;The mayor of ...",
+      "link": "https://www.theguardian.com/environment/2026/jul/15/sadiq-khan-backs-calls-uk-maximum-workplace-temperature",
+      "pubDate": "Wed, 15 Jul 2026 10:10:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6c09bebc0f67d5e51ebb01dcad4e1b560825a744/0_221_3104_2482/master/3104.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=892e2018b89ff78f3b072fefa5537eb1"
+    },
+    {
+      "title": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
+      "description": "&lt;p&gt;Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answers&lt;/...",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
+      "pubDate": "Wed, 15 Jul 2026 10:00:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a6853e014f17e18f749b77dbc42d8a03ad788323/306_0_2340_1872/master/2340.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af2cd657e3e58b0fc79cf143ad46d59f"
+    },
+    {
+      "title": "They wanted to hold Exxon accountable. Then they got hacked.",
+      "description": "A decade after climate activists' emails were breached, a court case is shedding new light on who allegedly orchestrated the hacking....",
+      "link": "https://grist.org/article/exxon-lawsuit-hacking-environmental-activist-email-court/",
+      "pubDate": "Wed, 15 Jul 2026 10:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/themes/grist/static/img/email-icon.png"
+    },
     {
       "title": "A Bay Area financial analyst wants a piece of this mineral-rich seabed surrounded by three Pacific nations",
       "description": "As President Trump pushes seabed mining, the bid by an American startup reveals the limits of island nations' control over their neighboring waters....",
@@ -126,60 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "To drill or not to drill? Andy Burnham faces North Sea oil dilemma",
-      "description": "Burnham, who is expected to become the UK's next prime minister, has been handed a letter from the oil and gas industry calling for his support....",
-      "link": "https://www.bbc.co.uk/news/articles/cg5350rp3z2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 05:06:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "To drill or not to drill? Andy Burnham faces North Sea oil dilemma",
-      "description": "Burnham, who is expected to become the UK's next prime minister, has been handed a letter from the oil and gas industry calling for his support....",
-      "link": "https://www.bbc.co.uk/news/articles/cg5350rp3z2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 05:06:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
-      "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK...",
-      "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 23:08:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
-      "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK...",
-      "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 23:08:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Unprecedented’ changes in UK climate are normalising extremes, report says",
-      "description": "&lt;p&gt;Annual State of the UK Climate analysis finds last four years in UK are in top five hottest on record&lt;/p&gt;&lt;p&gt;The UK’s climatic ext...",
-      "link": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
-      "pubDate": "Tue, 14 Jul 2026 23:01:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2fcd0b734f4dd806a7750dbfed6fa63cc790573f/129_0_3210_2568/master/3210.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8367a3ee18b5a413b7d9593ad7c972a"
-    },
-    {
-      "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
-      "description": "&lt;p&gt;Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residents&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sev...",
-      "link": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
-      "pubDate": "Tue, 14 Jul 2026 22:38:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/560f156da3df47e509a680fac9015917edaf33fe/323_0_5002_4000/master/5002.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8b222fa37abb4e5368cf9beaf355be"
     }
   ]
 }
