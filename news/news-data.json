@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-14T23:58:57.459Z",
+  "lastUpdated": "2026-07-15T03:24:40.650Z",
   "articles": [
+    {
+      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this...",
+      "link": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 00:11:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
       "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d1d8932e0c31f6fc5e229d506e7fbbffb3a6ba43/286_68_1089_871/master/1089.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=281d47054f68218233ade4fcbe8c39f8"
-    },
-    {
-      "title": "Astronomers' surprise at discovery of new stars",
-      "description": "A Warwick University team, working with US astronomers, find four, previously hidden, white dwarf stars....",
-      "link": "https://www.bbc.co.uk/news/articles/ce8k80zpkkdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 12:15:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
