@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-07-15T06:22:37.600Z",
+  "lastUpdated": "2026-07-15T09:16:41.905Z",
   "articles": [
+    {
+      "title": "A Bay Area financial analyst wants a piece of this mineral-rich seabed surrounded by three Pacific nations",
+      "description": "As President Trump pushes seabed mining, the bid by an American startup reveals the limits of island nations' control over their neighboring waters....",
+      "link": "https://grist.org/oceans/american-deep-sea-minerals-application-pacific-island-fisheries/",
+      "pubDate": "Wed, 15 Jul 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/Fishing-activity-map.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this...",
+      "link": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 08:06:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
+      "description": "&lt;p&gt;Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’&lt;/p&gt;&lt;p&gt;Moments after de...",
+      "link": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
+      "pubDate": "Wed, 15 Jul 2026 08:00:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c776c283a3b0134608d3618ef375f038"
+    },
+    {
+      "title": "Nebraska wants data centers to come clean about water usage",
+      "description": "The industry can be a black box of information. But as the state deals with persistent drought, residents and regulators want more answers....",
+      "link": "https://grist.org/climate-energy/nebraska-wants-data-centers-to-come-clean-about-water-usage/",
+      "pubDate": "Wed, 15 Jul 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/IMG_20260520_141209.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "For Indigenous peoples, conflict means so much more than war",
+      "description": "Indigenous leaders say true peace requires self-determination and respect for their rights....",
+      "link": "https://grist.org/global-indigenous-affairs-desk/for-indigenous-peoples-conflict-means-so-much-more-than-war/",
+      "pubDate": "Wed, 15 Jul 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/EcuadorProtest-1.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Nuveen and CalSTRS form $2 billion strategic partnership to finance sustainable infrastructure investments",
       "description": "Don Dimitrievich, Global Head of Nuveen Energy Infrastructure Credit CalSTRS to anchor Nuveen’s energy &#38; power infrastructure credit strategy prov...",
@@ -101,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
-      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this...",
-      "link": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 00:11:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
       "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK...",
       "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&amp;at_campaign=rss",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/560f156da3df47e509a680fac9015917edaf33fe/323_0_5002_4000/master/5002.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8b222fa37abb4e5368cf9beaf355be"
-    },
-    {
-      "title": "Millions in Canada swelter as heatwave continues to move east",
-      "description": "High temperatures are expected to continue for Canada, as well as for parts of the US Midwest and Northeast, into Wednesday....",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzyep6z63o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 21:39:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Meet 'Gus', the world's most expensive Tyrannosaurus rex",
-      "description": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024....",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8gymjv7ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 17:11:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Andy Burnham must act fast on the climate – or risk getting stuck in a ‘derailment’ doom loop | Laurie Laybourn",
-      "description": "&lt;p&gt;Around the world, climate-sceptic parties are exploiting floods and fires to make political capital. Without urgent changes, this deadly spir...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/14/andy-burnham-climate-floods-fires-political-capital",
-      "pubDate": "Tue, 14 Jul 2026 16:51:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7cbf3d1fe1039ab13abe754d2acdc0e51f180d70/274_0_4923_3941/master/4923.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=999500be1f36d0fb9982f9299bed923a"
-    },
-    {
-      "title": "Watch: New ISS crew blasts off from Kazakhstan",
-      "description": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission....",
-      "link": "https://www.bbc.co.uk/news/videos/ckg4gjwz20qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 14 Jul 2026 15:50:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
