@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-15T15:43:19.562Z",
+  "lastUpdated": "2026-07-15T17:24:58.674Z",
   "articles": [
+    {
+      "title": "SpaceX share price drops below stock market debut",
+      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago....",
+      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 17:23:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Train 'encased in flames' in Canada wildfire",
+      "description": "The crew was rescued after the close call. Meanwhile, wildfires in Canada have left Toronto under a haze and sent smoke drifting towards several major...",
+      "link": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 15 Jul 2026 16:52:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "My neighbours and I were left with no water this week. Why was I the only one who seemed annoyed?",
+      "description": "&lt;p&gt;A burst pipe left me high, dry and desperate to wash my hair. But around me, everyone seemed stoic and unsurprised - no rolling of eyes, tutt...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/15/no-water-burst-pipe-neighbours",
+      "pubDate": "Wed, 15 Jul 2026 16:23:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/861056e69c6e7b6730faa3d0cfe4aec1a6c0421b/478_0_4782_3825/master/4782.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a3b07708e72e73b77748e45e513419c"
+    },
+    {
+      "title": "Wildfires in Ontario make Toronto air quality worst in world",
+      "description": "&lt;p&gt;Environment Canada has issued health warnings after sky over city turns yellow&lt;/p&gt;&lt;p&gt;Smoke from more than 100 active wildfires in...",
+      "link": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+      "pubDate": "Wed, 15 Jul 2026 16:08:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f6f153e283718255d3e45da0ffd928c89ad075e4/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=045aeb974ffbc7a00a6ff49c2e4270c0"
+    },
     {
       "title": "Scots urged to 'stay vigilant' as wildfire risk very high",
       "description": "The Scottish Fire and Rescue Service has issued a warning for central Highlands, southern and eastern Scotland from Wednesday....",
@@ -119,13 +155,13 @@
       "image": "https://grist.org/wp-content/themes/grist/static/img/email-icon.png"
     },
     {
-      "title": "A Bay Area financial analyst wants a piece of this mineral-rich seabed surrounded by three Pacific nations",
+      "title": "A Bay Area financial analyst wants a piece of this mineral-rich seabed surrounded by 3 Pacific nations",
       "description": "As President Trump pushes seabed mining, the bid by an American startup reveals the limits of island nations' control over their neighboring waters....",
       "link": "https://grist.org/oceans/american-deep-sea-minerals-application-pacific-island-fisheries/",
       "pubDate": "Wed, 15 Jul 2026 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/Fishing-activity-map.jpg?quality=75&amp;strip=all"
+      "image": "https://grist.org/wp-content/uploads/2025/03/Mining-feat-illustration.png?quality=75&#038;strip=all"
     },
     {
       "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c776c283a3b0134608d3618ef375f038"
-    },
-    {
-      "title": "Nebraska wants data centers to come clean about water usage",
-      "description": "The industry can be a black box of information. But as the state deals with persistent drought, residents and regulators want more answers....",
-      "link": "https://grist.org/climate-energy/nebraska-wants-data-centers-to-come-clean-about-water-usage/",
-      "pubDate": "Wed, 15 Jul 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/IMG_20260520_141209.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "For Indigenous peoples, conflict means so much more than war",
-      "description": "Indigenous leaders say true peace requires self-determination and respect for their rights....",
-      "link": "https://grist.org/global-indigenous-affairs-desk/for-indigenous-peoples-conflict-means-so-much-more-than-war/",
-      "pubDate": "Wed, 15 Jul 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/EcuadorProtest-1.jpg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Nuveen and CalSTRS form $2 billion strategic partnership to finance sustainable infrastructure investments",
-      "description": "Don Dimitrievich, Global Head of Nuveen Energy Infrastructure Credit CalSTRS to anchor Nuveen’s energy &#38; power infrastructure credit strategy prov...",
-      "link": "https://econews.com.au/nuveen-and-calstrs-form-2-billion-strategic-partnership-to-finance-sustainable-infrastructure-investments/",
-      "pubDate": "Wed, 15 Jul 2026 06:02:12 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "SiteHive plugs the missing piece in environmental monitoring – weather",
-      "description": "SiteHive Weather Changes in climate are expected to increase the frequency and intensity of weather conditions that impact construction projects*. As ...",
-      "link": "https://econews.com.au/sitehive-plugs-the-missing-piece-in-environmental-monitoring-weather/",
-      "pubDate": "Wed, 15 Jul 2026 06:02:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/SiteHive-Weather-Deployment-1024x576.png"
     }
   ]
 }
