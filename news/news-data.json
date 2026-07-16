@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-15T23:04:14.591Z",
+  "lastUpdated": "2026-07-16T03:26:20.510Z",
   "articles": [
+    {
+      "title": "Weekend cooldown to mark end of heatwave for some",
+      "description": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England....",
+      "link": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 00:31:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How global heating supercharged floods in West Africa, displacing thousands",
+      "description": "&lt;p&gt;Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn&lt;/p&gt;&lt;p&gt;Dozens of peopl...",
+      "link": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+      "pubDate": "Thu, 16 Jul 2026 00:01:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/dc329b60759834b17aff1a9fb586f9a51098f94e/334_0_1666_1333/master/1666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7377f048cbd51c7d9ba343d265733d06"
+    },
     {
       "title": "New monkey species with orange lips found 'hiding' in DRC forest",
       "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed....",
@@ -29,7 +47,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Canada wildfires leaves train 'encased in flames' as smoke from drifts towards US",
+      "title": "Canada wildfires leave train 'encased in flames' as smoke drifts towards US",
       "description": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several major US citie...",
       "link": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 15 Jul 2026 17:44:54 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a6853e014f17e18f749b77dbc42d8a03ad788323/306_0_2340_1872/master/2340.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af2cd657e3e58b0fc79cf143ad46d59f"
-    },
-    {
-      "title": "They wanted to hold Exxon accountable. Then they got hacked.",
-      "description": "A decade after climate activists' emails were breached, a court case is shedding new light on who allegedly orchestrated the hacking....",
-      "link": "https://grist.org/article/exxon-lawsuit-hacking-environmental-activist-email-court/",
-      "pubDate": "Wed, 15 Jul 2026 10:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/themes/grist/static/img/email-icon.png"
-    },
-    {
-      "title": "A Bay Area financial analyst wants a piece of this mineral-rich seabed surrounded by 3 Pacific nations",
-      "description": "As President Trump pushes seabed mining, the bid by an American startup reveals the limits of island nations' control over their neighboring waters....",
-      "link": "https://grist.org/oceans/american-deep-sea-minerals-application-pacific-island-fisheries/",
-      "pubDate": "Wed, 15 Jul 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/03/Mining-feat-illustration.png?quality=75&#038;strip=all"
     }
   ]
 }
