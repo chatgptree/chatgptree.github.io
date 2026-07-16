@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-16T16:23:54.799Z",
+  "lastUpdated": "2026-07-16T18:12:33.036Z",
   "articles": [
+    {
+      "title": "The Aral Sea isn&#8217;t just an ecological nightmare – it&#8217;s a carbon bomb",
+      "description": "Most of this inland sea is a dry lakebed the size of Ireland, and it has already released 748 million metric tons of CO2. But scientists say there's s...",
+      "link": "https://grist.org/science/the-aral-sea-isnt-just-an-ecological-nightmare-its-a-carbon-bomb/",
+      "pubDate": "Thu, 16 Jul 2026 18:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "description": "The same area devastated by floods last year - causing more than 130 deaths, including those at Camp Mystic - is once again being hit....",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 17:56:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Watch: Flood waters surge in Texas after huge rainstorms",
+      "description": "The deluge prompted evacuations and water rescues in the same region where 25 children and two counsellors at Camp Mystic died in flooding in 2025....",
+      "link": "https://www.bbc.co.uk/news/videos/cyvlp93r2dyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 16:45:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "When will it rain again in the UK?",
       "description": "July has been very dry so when will it rain again in the UK?...",
@@ -11,7 +38,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How bad are Canadian and US wildfires, and what is the air quality risk?",
+      "title": "What to know about the Canadian and US wildfires and their impact",
       "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke. ...",
       "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 16 Jul 2026 16:08:40 GMT",
@@ -20,7 +47,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "How bad are Canadian and US wildfires, and what is the air quality risk?",
+      "title": "What to know about the Canadian and US wildfires and their impact",
       "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke. ...",
       "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 16 Jul 2026 16:08:40 GMT",
@@ -150,33 +177,6 @@
       "description": "AI-enabled augmented reality (AR) smart glasses are emerging as a new practical solution to fill a shortage of field service technicians maintaining o...",
       "link": "https://econews.com.au/smart-glasses-tech-helping-solve-critical-skilled-technician-shortage/",
       "pubDate": "Thu, 16 Jul 2026 04:01:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Retiree dilemma: Older Aussies missing out on energy savings as power bills rise",
-      "description": "Chief Operating Officer David Sedighi Energy experts are warning thousands of baby boomers could be missing out on cheaper power bills, with concerns ...",
-      "link": "https://econews.com.au/retiree-dilemma-older-aussies-missing-out-on-energy-savings-as-power-bills-rise/",
-      "pubDate": "Thu, 16 Jul 2026 04:01:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Climate reporting is exposing a problem bigger than emissions",
-      "description": "By Lisa Zembrodt, Principal and Senior Director, Schneider Electric Many Australian businesses are entering the next phase of climate reporting in sur...",
-      "link": "https://econews.com.au/climate-reporting-is-exposing-a-problem-bigger-than-emissions/",
-      "pubDate": "Thu, 16 Jul 2026 04:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Lisa-Zembrodt-819x1024.jpg"
-    },
-    {
-      "title": "Network of Australian property owners committing their land to habitat preservation reaches 1,000 members",
-      "description": "Photo credit: Josh Baker Humane World for Animals Australia Humane World for Animals Australia’s Wildlife Land Trust program has welcomed its 1000th m...",
-      "link": "https://econews.com.au/network-of-australian-property-owners-committing-their-land-to-habitat-preservation-reaches-1000-members/",
-      "pubDate": "Thu, 16 Jul 2026 04:01:46 +0000",
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
