@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-16T20:06:44.737Z",
+  "lastUpdated": "2026-07-16T22:09:39.239Z",
   "articles": [
+    {
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "description": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit....",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 22:08:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Leaky pipes may explain years-long bay pollution",
+      "description": "The Environment Agency has rated Cullercoat's water quality as \"poor\" since 2018....",
+      "link": "https://www.bbc.co.uk/news/articles/c1eyeww172do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 20:16:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "What’s the point of having a treaty banning nukes in space if we can’t spot them?...",
@@ -16,15 +34,6 @@
       "link": "https://grist.org/science/the-aral-sea-isnt-just-an-ecological-nightmare-its-a-carbon-bomb/",
       "pubDate": "Thu, 16 Jul 2026 18:00:00 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "At least one dead in Texas floods ravaging same area where campers died",
-      "description": "The same area devastated by floods last year - causing more than 130 deaths, including those at Camp Mystic - is once again being hit....",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Jul 2026 17:56:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Solahart-Wangaratta-1.jpg"
-    },
-    {
-      "title": "Smart Glasses tech helping solve critical skilled technician shortage",
-      "description": "AI-enabled augmented reality (AR) smart glasses are emerging as a new practical solution to fill a shortage of field service technicians maintaining o...",
-      "link": "https://econews.com.au/smart-glasses-tech-helping-solve-critical-skilled-technician-shortage/",
-      "pubDate": "Thu, 16 Jul 2026 04:01:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
