@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-07-16T14:11:56.692Z",
+  "lastUpdated": "2026-07-16T16:23:54.799Z",
   "articles": [
+    {
+      "title": "When will it rain again in the UK?",
+      "description": "July has been very dry so when will it rain again in the UK?...",
+      "link": "https://www.bbc.co.uk/news/videos/clyeydp5vg4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 16:13:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How bad are Canadian and US wildfires, and what is the air quality risk?",
+      "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 16:08:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How bad are Canadian and US wildfires, and what is the air quality risk?",
+      "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 16:08:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "What’s the point of having a treaty banning nukes in space if we can’t spot them?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977w?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nature reserve declared to coincide with King's visit",
+      "description": "A stretch of sand dunes will receive the highest statutory protections as a national nature reserve....",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9xqz278go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 15:50:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘We are waiting with bated breath’: Super El Niño forecast could make 2027 hottest year on record, BoM says",
+      "description": "&lt;p&gt;Most Australian capital cities have at least 80% chance of unusually warm and dry spring as climatologists watch developing system with incre...",
+      "link": "https://www.theguardian.com/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
+      "pubDate": "Thu, 16 Jul 2026 15:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e0d8d752063be28669928a81f0be1bf7e88cb53d/101_63_666_533/master/666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=347de88edd70e59352454ce81873fdc1"
+    },
+    {
+      "title": "Watch: What we know about newly discovered monkey species",
+      "description": "New monkey species hailed as 'amazing discovery' by conservationist....",
+      "link": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 14:50:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Private schools offer 41% more tree shade than state schools in England",
+      "description": "&lt;p&gt;Analysis reveals stark socioeconomic divide, with schools with highest free school meal eligibility having fewer trees&lt;/p&gt;&lt;p&gt;Priv...",
+      "link": "https://www.theguardian.com/education/2026/jul/16/private-schools-more-tree-shade-state-schools-england",
+      "pubDate": "Thu, 16 Jul 2026 14:37:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/86ae51be49930862290c9d7bd857f992ef4103c0/141_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d0851a69d9ed9ba3fde5f2b00573ea0e"
+    },
+    {
+      "title": "New monkey species a 'fascinating discovery', study lead says",
+      "description": "A monkey found in the forests of the Democratic Republic of Congo has been confirmed as a new specie....",
+      "link": "https://www.bbc.co.uk/news/videos/crl7r96lk81o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 14:30:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Volunteer firefighter suspected of starting devastating France forest fire",
       "description": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves. ...",
@@ -99,87 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
-      "description": "&lt;p&gt;Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’&lt;/p&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
-      "pubDate": "Thu, 16 Jul 2026 04:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/635c60273de57e773426a5ed282d9a494af8d887/894_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf49ab0659e031fd9e103c5ba3d0b0ac"
-    },
-    {
-      "title": "How global heating supercharged floods in West Africa, displacing thousands",
-      "description": "&lt;p&gt;Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn&lt;/p&gt;&lt;p&gt;Dozens of peopl...",
-      "link": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "pubDate": "Thu, 16 Jul 2026 00:01:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dc329b60759834b17aff1a9fb586f9a51098f94e/334_0_1666_1333/master/1666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7377f048cbd51c7d9ba343d265733d06"
-    },
-    {
-      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-      "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed....",
-      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-      "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed....",
-      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "SpaceX share price drops below stock market debut",
-      "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago....",
-      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 18:11:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Canada wildfires leave train 'encased in flames' as smoke drifts towards US",
-      "description": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several major US citie...",
-      "link": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 17:44:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "My neighbours and I were left with no water this week. Why was I the only one who seemed annoyed?",
-      "description": "&lt;p&gt;A burst pipe left me high, dry and desperate to wash my hair. But around me, everyone seemed stoic and unsurprised - no rolling of eyes, tutt...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/15/no-water-burst-pipe-neighbours",
-      "pubDate": "Wed, 15 Jul 2026 16:23:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/861056e69c6e7b6730faa3d0cfe4aec1a6c0421b/478_0_4782_3825/master/4782.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a3b07708e72e73b77748e45e513419c"
-    },
-    {
-      "title": "Wildfires in Ontario make Toronto air quality worst in world",
-      "description": "&lt;p&gt;Environment Canada has issued health warnings after sky over city turns yellow&lt;/p&gt;&lt;p&gt;Smoke from more than 100 active wildfires in...",
-      "link": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-      "pubDate": "Wed, 15 Jul 2026 16:08:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f6f153e283718255d3e45da0ffd928c89ad075e4/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=045aeb974ffbc7a00a6ff49c2e4270c0"
-    },
-    {
-      "title": "Scots urged to 'stay vigilant' as wildfire risk very high",
-      "description": "The Scottish Fire and Rescue Service has issued a warning for central Highlands, southern and eastern Scotland from Wednesday....",
-      "link": "https://www.bbc.co.uk/news/articles/c33y3815p77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 15 Jul 2026 15:34:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
