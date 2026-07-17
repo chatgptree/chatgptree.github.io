@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-07-17T07:23:39.075Z",
+  "lastUpdated": "2026-07-17T10:06:39.740Z",
   "articles": [
+    {
+      "title": "California braces for its sharkiest summer in a decade – but experts say don’t panic",
+      "description": "&lt;p&gt;Young great white sharks are returning in large numbers, but researchers say humans are not on the menu&lt;/p&gt;&lt;p&gt;Surfers, swimmers a...",
+      "link": "https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike",
+      "pubDate": "Fri, 17 Jul 2026 10:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/508bea5222d2e6382beadc482bc4eefa267c7c7c/342_0_3424_2739/master/3424.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5bddad7fea028653b3e35eb14a9c6431"
+    },
+    {
+      "title": "Climate change driving more rains that lead to deadly flash floods, experts say",
+      "description": "&lt;p&gt;Over the last month, states across the country have experienced record rainfall and flash flooding&lt;/p&gt;&lt;p&gt;Climate change is drivin...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods",
+      "pubDate": "Fri, 17 Jul 2026 10:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1ae86f1dcd9fc6df091ffbcf8c9ac908c2d03b3d/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c2f25f0b46cbc3d2773471496004e92"
+    },
+    {
+      "title": "River work to help critically endangered eels",
+      "description": "West Cumbria Rivers Trust says eel numbers have fallen by 90% in the last 30 years....",
+      "link": "https://www.bbc.co.uk/news/articles/c0km4p2zx7yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 17 Jul 2026 09:53:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why did energy-saving tips disappear from the Energy Department website?",
+      "description": "As the country sizzled through heat waves, the government removed some of its most actionable advice about how to conserve energy....",
+      "link": "https://grist.org/politics/energy-department-saving-disappear-website/",
+      "pubDate": "Fri, 17 Jul 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/ib8ER.jpeg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Line 5 tunnel in Michigan clears major permitting hurdle, in blow to opposition",
+      "description": "Despite \"adverse\" impacts on ecological and tribal resources, state regulators said it's better than an oil spill in the Great Lakes....",
+      "link": "https://grist.org/energy/line-5-tunnel-in-michigan-clears-major-permitting-hurdle-in-blow-to-opposition/",
+      "pubDate": "Fri, 17 Jul 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/03/Mackinac-Bridge.jpg?quality=75&#038;strip=all"
+    },
+    {
+      "title": "Biden’s climate law is dead. The energy transition might not be.",
+      "description": "A year after Trump repealed the Inflation Reduction Act, the outlook for climate action is dark. But there are silver linings....",
+      "link": "https://grist.org/energy/trump-inflation-reduction-act-big-beautiful-bil/",
+      "pubDate": "Fri, 17 Jul 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/Inflation-Reduction-Act-signing.jpg?quality=75&amp;strip=all"
+    },
     {
       "title": "Week in wildlife: a stuck raccoon, a hardy mouse and a well-camouflaged wildcat",
       "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jul/17...",
@@ -123,60 +177,6 @@
       "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke. ...",
       "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 16 Jul 2026 16:08:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What to know about the Canadian and US wildfires and their impact",
-      "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Jul 2026 16:08:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nature reserve declared to coincide with King's visit",
-      "description": "A stretch of sand dunes will receive the highest statutory protections as a national nature reserve....",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9xqz278go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Jul 2026 15:50:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch: What we know about newly discovered monkey species",
-      "description": "New monkey species hailed as 'amazing discovery' by conservationist....",
-      "link": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Jul 2026 14:50:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Private schools offer 41% more tree shade than state schools in England",
-      "description": "&lt;p&gt;Analysis reveals stark socioeconomic divide, with schools with highest free school meal eligibility having fewer trees&lt;/p&gt;&lt;p&gt;Priv...",
-      "link": "https://www.theguardian.com/education/2026/jul/16/private-schools-more-tree-shade-state-schools-england",
-      "pubDate": "Thu, 16 Jul 2026 14:37:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/86ae51be49930862290c9d7bd857f992ef4103c0/141_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d0851a69d9ed9ba3fde5f2b00573ea0e"
-    },
-    {
-      "title": "New monkey species a 'fascinating discovery', study lead says",
-      "description": "A monkey found in the forests of the Democratic Republic of Congo has been confirmed as a new specie....",
-      "link": "https://www.bbc.co.uk/news/videos/crl7r96lk81o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Jul 2026 14:30:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "description": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves. ...",
-      "link": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 16 Jul 2026 12:44:26 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
