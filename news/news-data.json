@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-16T22:09:39.239Z",
+  "lastUpdated": "2026-07-17T00:04:41.632Z",
   "articles": [
+    {
+      "title": "UK heatwave approaches two-week mark",
+      "description": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas look...",
+      "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 16 Jul 2026 23:28:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "At least one dead in Texas floods ravaging same area where campers died",
       "description": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cb045731ca79de5e9a138aad1edceec74dd92d51/818_0_1993_1595/master/1993.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb2c365bad249bab6fcf46822553a767"
-    },
-    {
-      "title": "Local tradies celebrated as Solahart kicks off first-ever ‘Solahart Tradie Recognition Day’",
-      "description": "Solahart Fraser Coast Tradies recognised nationwide as solar demand surges across Australia Tradies across Australia are being recognised as part of S...",
-      "link": "https://econews.com.au/local-tradies-celebrated-as-solahart-kicks-off-first-ever-solahart-tradie-recognition-day/",
-      "pubDate": "Thu, 16 Jul 2026 04:01:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Solahart-Wangaratta-1.jpg"
     }
   ]
 }
