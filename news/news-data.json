@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-18T11:58:35.508Z",
+  "lastUpdated": "2026-07-18T13:41:28.599Z",
   "articles": [
+    {
+      "title": "New York governor orders first statewide data center moratorium",
+      "description": "Data centers have drawn vocal opposition at local public meetings and in state capitols across the U.S....",
+      "link": "https://grist.org/politics/new-york-governor-orders-first-statewide-data-center-moratorium/",
+      "pubDate": "Sat, 18 Jul 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/Data-Center-protest-Las-Vegas.jpg?quality=75&#038;strip=all"
+    },
     {
       "title": "Poultry sector growth plan risks UK national security, campaigners warn",
       "description": "&lt;p&gt;Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocks&lt;/p&gt;&lt;p&gt;The govern...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Southern Water fined £7m after illegally dumping sewage off Kent coast",
-      "description": "&lt;p&gt;Firm pleaded guilty to 13 offences over discharges at Margate and Broadstairs wastewater pumping stations&lt;/p&gt;&lt;p&gt;Southern Water ha...",
-      "link": "https://www.theguardian.com/environment/2026/jul/17/southern-water-fined-7m-dumping-sewage-kent-coast",
-      "pubDate": "Fri, 17 Jul 2026 14:56:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e14e4a80d24b3211865c661a08e891e7d5f83ac7/374_668_3608_2886/master/3608.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c7d2d80b3f2d7e1aac5b722d90a0131"
     }
   ]
 }
