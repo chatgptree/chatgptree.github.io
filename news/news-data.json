@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-19T03:46:47.835Z",
+  "lastUpdated": "2026-07-19T06:38:15.015Z",
   "articles": [
+    {
+      "title": "How new bird show hopes to help endangered flyers",
+      "description": "Endangered birds are the stars of one of five new shows at Kynren as part of conservation plans....",
+      "link": "https://www.bbc.co.uk/news/articles/cly7z6gg9y6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 19 Jul 2026 06:24:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Britain 'set for bumper year' for butterflies",
+      "description": "A hot and dry spring means a greater variety and more butterflies across the UK, a charity says....",
+      "link": "https://www.bbc.co.uk/news/articles/cwyml03r1e9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 19 Jul 2026 06:14:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Sex-loving hookworms and other peculiar parasites: one man’s mission to champion nature’s villains",
+      "description": "&lt;p&gt;Award-winning entomologist Dino Martins, known for his work on pollinators, shows in his latest book that even the most gruesome creatures ha...",
+      "link": "https://www.theguardian.com/environment/2026/jul/19/dino-martins-entomologist-parasites-beetles-ants-hookworms-aoe",
+      "pubDate": "Sun, 19 Jul 2026 06:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7fd3b4fce6c0cef2895f420cf692c011f66a6f67/0_196_1355_1084/master/1355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4cf3d6756af7a8bd6aefbe3de094ef8"
+    },
+    {
+      "title": "Bank of England to stop accepting bonds linked to coal for key loans",
+      "description": "&lt;p&gt;Campaigners hope move will force commercial banks to rethink holding assets linked to the fossil fuel&lt;/p&gt;&lt;p&gt;Climate campaigners h...",
+      "link": "https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets",
+      "pubDate": "Sun, 19 Jul 2026 05:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0f84b37c3b417e13a4d2041f2b5c0939851d11ec/272_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72ae3c11008d3e8efa2570f9f52b2892"
+    },
     {
       "title": "The hidden cost of the night shift and how to sleep it off",
       "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them? ...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/3c48b75e08a12165709b2e264eb0d86e516dcf5b/480_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40c250258c6e2c0ccb72eac75b778c69"
-    },
-    {
-      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "description": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output....",
-      "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 17 Jul 2026 18:34:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "description": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output....",
-      "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 17 Jul 2026 18:34:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Perseid meteors to light up night sky in one of the year's most active showers",
-      "description": "The Perseid meteor shower will light up the night sky over the next five weeks....",
-      "link": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 17 Jul 2026 15:59:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfire smoke threatens the World Cup final. FIFA still doesn&#8217;t have a plan.",
-      "description": "There’s no way to close off the open-air stadium where stars Lionel Messi and Lamine Yamal are slated to square off....",
-      "link": "https://grist.org/extreme-weather/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan/",
-      "pubDate": "Fri, 17 Jul 2026 15:55:16 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
