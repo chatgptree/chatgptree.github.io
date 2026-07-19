@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-18T23:59:31.996Z",
+  "lastUpdated": "2026-07-19T03:46:47.835Z",
   "articles": [
+    {
+      "title": "The hidden cost of the night shift and how to sleep it off",
+      "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them? ...",
+      "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 19 Jul 2026 00:01:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
       "description": "&lt;p&gt;Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms&lt;/p&gt;&lt;p&gt;Saturday is...",
@@ -169,15 +178,6 @@
       "link": "https://grist.org/extreme-weather/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan/",
       "pubDate": "Fri, 17 Jul 2026 15:55:16 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK heatwave hits two-week mark",
-      "description": "It is the longest dry spell in 30 years for parts of England as the UK heatwave reaches 14 days....",
-      "link": "https://www.bbc.co.uk/news/videos/cly9zk1wrw9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 17 Jul 2026 15:18:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
