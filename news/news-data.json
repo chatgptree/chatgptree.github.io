@@ -1,8 +1,134 @@
 {
-  "lastUpdated": "2026-07-20T04:41:54.500Z",
+  "lastUpdated": "2026-07-20T08:12:13.349Z",
   "articles": [
     {
-      "title": "Al-altered images on birdwatching forums putting research at risk",
+      "title": "Acoustic superheroes: how seals mastered hearing on land and at sea",
+      "description": "The earliest eared seals, such as the 10 million-year-old Pithanotaria starii, improved their amphibious hearing abilities. Their in-air hearing was e...",
+      "link": "https://econews.com.au/acoustic-superheroes-how-seals-mastered-hearing-on-land-and-at-sea/",
+      "pubDate": "Mon, 20 Jul 2026 07:01:44 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
+    },
+    {
+      "title": "Fugro supports Tasmania’s largest bridge project to improve safety and connectivity",
+      "description": "O-cell load testing on-site in Tasmania. Fugro supports McConnell Dowell and project partners on the New Bridgewater Bridge Project in Tasmania, Austr...",
+      "link": "https://econews.com.au/fugro-supports-tasmanias-largest-bridge-project-to-improve-safety-and-connectivity/",
+      "pubDate": "Mon, 20 Jul 2026 07:01:43 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/05/fugro-logo-1024x460.png"
+    },
+    {
+      "title": "DETPAK opens US manufacturing facility in SPARTANBURG, SOUTH CAROLINA",
+      "description": "Global packaging supplier Detpak has opened a new manufacturing facility in Spartanburg, South Carolina, strengthening its ability to support major Qu...",
+      "link": "https://econews.com.au/detpak-opens-us-manufacturing-facility-in-spartanburg-south-carolina/",
+      "pubDate": "Mon, 20 Jul 2026 07:01:43 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "The Great Barrier Reef is changing. Why isn’t it on UNESCO’s ‘in danger’ list?",
+      "description": "Heron Island Photo: Richard Freeman, UNSW Sydney UNSW Sydney The Great Barrier Reef has again avoided being placed on UNESCO’s list of World Heritage ...",
+      "link": "https://econews.com.au/the-great-barrier-reef-is-changing-why-isnt-it-on-unescos-in-danger-list/",
+      "pubDate": "Mon, 20 Jul 2026 07:01:42 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
+    },
+    {
+      "title": "1 in 2 Solar Faults Don’t Return After a Single Inspection",
+      "description": "Industrias data shows what proactive maintenance delivers, and how many systems are missing it. Industrias, Australia’s leading commercial solar and b...",
+      "link": "https://econews.com.au/1-in-2-solar-faults-dont-return-after-a-single-inspection/",
+      "pubDate": "Mon, 20 Jul 2026 07:01:41 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/unnamed-2026-07-20T163537.484-1024x249.jpg"
+    },
+    {
+      "title": "Fight to save rare ecosystem of chalk streams",
+      "description": " We visit Langford Lakes nature reserve in Wiltshire, home to the River Wylye chalk stream....",
+      "link": "https://www.bbc.co.uk/news/videos/c05qgmgq28qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 06:12:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Controversial farm subsidy scheme gets billion pound budget",
+      "description": "The protest-hit Sustainable Farming Scheme has been introduced after almost a decade in development....",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kn49y3vdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 05:49:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Controversial farm subsidy scheme gets billion pound budget",
+      "description": "The protest-hit Sustainable Farming Scheme has been introduced after almost a decade in development....",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kn49y3vdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 05:49:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'Hidden time-capsule of UK biodiversity' unlocked",
+      "description": "The specimens with links to Charles Darwin will soon be studied by scientists across the world....",
+      "link": "https://www.bbc.co.uk/news/articles/cze9ee1yej9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 05:25:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Going with the flow: Renewable energy battery breakthrough",
+      "description": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 05:23:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Going with the flow: Renewable energy battery breakthrough",
+      "description": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 05:23:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wolves return to park two years after pack deaths",
+      "description": "New Forest Wildlife Park has welcomed the new wolves from France and Belgium....",
+      "link": "https://www.bbc.co.uk/news/articles/c78g11jyelxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 05:13:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The underwater harvest hoping for a bumper crop",
+      "description": "Volunteers harvest seagrass seeds in a bid to boost underwater meadows in the south of England....",
+      "link": "https://www.bbc.co.uk/news/articles/cd69qdg7l95o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 05:12:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
+      "description": "&lt;p&gt;The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land&lt;/...",
+      "link": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+      "pubDate": "Mon, 20 Jul 2026 05:00:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b32908c7a7eaabb7194ecfdee23a1b24b43d95e9/241_0_3500_2801/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5e4406003f97c870e080274503b5ca0"
+    },
+    {
+      "title": "AI-altered images on birdwatching forums putting research at risk",
       "description": "&lt;p&gt;Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists&lt;...",
       "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
       "pubDate": "Mon, 20 Jul 2026 04:00:45 GMT",
@@ -54,132 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/GrandStaircaseBearsEarsUtah750px.png?quality=75&amp;strip=all"
-    },
-    {
-      "title": "From coffee grounds to guinea pig bedding - the composters keeping it local",
-      "description": "Food waste is a resource like water and should be kept in communities, compost champions say....",
-      "link": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 11:33:19 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "From coffee grounds to guinea pig bedding - the composters keeping it local",
-      "description": "Food waste is a resource like water and should be kept in communities, compost champions say....",
-      "link": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 11:33:19 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Shark scientists gets £1m to help protect them",
-      "description": "Natural England's Species Recovery Programme will focus on the blue shark, porbeagle and tope....",
-      "link": "https://www.bbc.co.uk/news/articles/cly9yyj829ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 11:11:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Majority of US voters link extreme weather to climate crisis, study finds",
-      "description": "&lt;p&gt;Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’&lt;/p&gt;&lt;p&gt;Amid a su...",
-      "link": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study",
-      "pubDate": "Sun, 19 Jul 2026 11:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/655ffa7de32dd22056519ef50a100b93db33226b/466_0_4572_3657/master/4572.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=742649b5adb34baa3b8f11db1d3411ab"
-    },
-    {
-      "title": "How Trump and his administration have mired the US in multiple crises",
-      "description": "&lt;p&gt;From manufactured election insecurity to an outbreak of ‘explosive’ diarrhea, Americans are bearing the brunt of harmful policies&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises",
-      "pubDate": "Sun, 19 Jul 2026 11:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a9f7cd5db175c791da418b4472366f23262d36d0/552_0_6882_5504/master/6882.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e1e17d041f4beed3107301790953ffd"
-    },
-    {
-      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
-      "description": "&lt;p&gt;From Nevada to Manchester, developers are trialling innovative solutions to clean energy’s biggest challenge&lt;/p&gt;&lt;p&gt;In the deserts...",
-      "link": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
-      "pubDate": "Sun, 19 Jul 2026 11:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2e05257e4e5ae836c2486e4e243f7b6209605108/844_0_3484_2788/master/3484.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d072f3a880842983dfa618c83b0e1c52"
-    },
-    {
-      "title": "Britain set for butterfly boom after hot weather",
-      "description": "A scientist says Britain could be on the verge of a bumper summer for butterflies....",
-      "link": "https://www.bbc.co.uk/news/articles/crrv5lw7017o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 11:00:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Perseid meteors to light up night sky in one of the year's most active showers",
-      "description": "The Perseid meteor shower will light up the night sky over the next five weeks....",
-      "link": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 08:22:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How new bird show hopes to help endangered flyers",
-      "description": "Endangered birds are the stars of one of five new shows at Kynren as part of conservation plans....",
-      "link": "https://www.bbc.co.uk/news/articles/cly7z6gg9y6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 06:24:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Britain 'set for bumper year' for butterflies",
-      "description": "A hot and dry spring means a greater variety and more butterflies across the UK, a charity says....",
-      "link": "https://www.bbc.co.uk/news/articles/cwyml03r1e9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 06:14:19 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sex-loving hookworms and other peculiar parasites: one man’s mission to champion nature’s villains",
-      "description": "&lt;p&gt;Award-winning entomologist Dino Martins, known for his work on pollinators, shows in his latest book that even the most gruesome creatures ha...",
-      "link": "https://www.theguardian.com/environment/2026/jul/19/dino-martins-entomologist-parasites-beetles-ants-hookworms-aoe",
-      "pubDate": "Sun, 19 Jul 2026 06:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7fd3b4fce6c0cef2895f420cf692c011f66a6f67/0_196_1355_1084/master/1355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4cf3d6756af7a8bd6aefbe3de094ef8"
-    },
-    {
-      "title": "Bank of England to stop accepting bonds linked to coal for key loans",
-      "description": "&lt;p&gt;Campaigners hope move will force commercial banks to rethink holding assets linked to the fossil fuel&lt;/p&gt;&lt;p&gt;Climate campaigners h...",
-      "link": "https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets",
-      "pubDate": "Sun, 19 Jul 2026 05:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0f84b37c3b417e13a4d2041f2b5c0939851d11ec/272_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72ae3c11008d3e8efa2570f9f52b2892"
-    },
-    {
-      "title": "The hidden cost of the night shift and how to sleep it off",
-      "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them? ...",
-      "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 19 Jul 2026 00:01:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
-      "description": "&lt;p&gt;Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms&lt;/p&gt;&lt;p&gt;Saturday is...",
-      "link": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
-      "pubDate": "Sat, 18 Jul 2026 19:11:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ae0f77f98b146bb5c9fd62de529f6cc494c91b5f/811_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6793c445b57f04c224a84f7b0402e6d0"
     }
   ]
 }
