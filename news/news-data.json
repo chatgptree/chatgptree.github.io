@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-20T08:12:13.349Z",
+  "lastUpdated": "2026-07-20T11:52:41.341Z",
   "articles": [
+    {
+      "title": "Rising seas magnify the dangers of Coastal Georgia’s industrial past",
+      "description": "The state’s first Superfund research center is looking into how climate change is resurfacing industrial pollution....",
+      "link": "https://grist.org/cities/rising-seas-magnify-the-dangers-of-coastal-georgias-industrial-past/",
+      "pubDate": "Mon, 20 Jul 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/Semona-1.jpg?quality=75&amp;strip=all"
+    },
+    {
+      "title": "Going with the flow: Renewable energy battery breakthrough",
+      "description": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 08:20:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Going with the flow: Renewable energy battery breakthrough",
+      "description": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 20 Jul 2026 08:20:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Acoustic superheroes: how seals mastered hearing on land and at sea",
       "description": "The earliest eared seals, such as the 10 million-year-old Pithanotaria starii, improved their amphibious hearing abilities. Their in-air hearing was e...",
@@ -83,24 +110,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Going with the flow: Renewable energy battery breakthrough",
-      "description": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 20 Jul 2026 05:23:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Going with the flow: Renewable energy battery breakthrough",
-      "description": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 20 Jul 2026 05:23:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Wolves return to park two years after pack deaths",
       "description": "New Forest Wildlife Park has welcomed the new wolves from France and Belgium....",
       "link": "https://www.bbc.co.uk/news/articles/c78g11jyelxo?at_medium=RSS&amp;at_campaign=rss",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump again shrinks Bears Ears and Grand Staircase-Escalante National Monuments",
-      "description": "Two executive orders signed Monday afternoon slashed the size of the Utah national monuments revered by tribes and public lands advocates. Grazing, mi...",
-      "link": "https://grist.org/politics/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments/",
-      "pubDate": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/GrandStaircaseBearsEarsUtah750px.png?quality=75&amp;strip=all"
     }
   ]
 }
