@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-20T00:06:16.672Z",
+  "lastUpdated": "2026-07-20T04:41:54.500Z",
   "articles": [
+    {
+      "title": "Al-altered images on birdwatching forums putting research at risk",
+      "description": "&lt;p&gt;Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists&lt;...",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+      "pubDate": "Mon, 20 Jul 2026 04:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2c6fb5539ce914deef1de8b4e9f9a3c6159194d2/256_0_1280_1024/master/1280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9bb2ec23d2baba4c999af1eb1c1f4ee"
+    },
+    {
+      "title": "‘When I get home, my whole body aches’: extreme heat saps health and wages of India’s poorest workers",
+      "description": "&lt;p&gt;Exclusive: Outdoor workers losing up to 9% of income as weather becomes ‘poverty multiplier’, research says&lt;/p&gt;&lt;p&gt;Extreme heat is...",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/extreme-heat-india-outdoor-workers-poverty",
+      "pubDate": "Mon, 20 Jul 2026 03:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/726ef8301d4be6e1f799829581adaf017d01b444/722_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3b20704cdd46683f8a3b35afefa83b3"
+    },
     {
       "title": "Five family members found dead after flash flood in Utah canyon, police say",
       "description": "&lt;p&gt;Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rains&lt;/p&gt;&lt;p&gt;Five family ...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ae0f77f98b146bb5c9fd62de529f6cc494c91b5f/811_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6793c445b57f04c224a84f7b0402e6d0"
-    },
-    {
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire...",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 18 Jul 2026 17:29:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire...",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 18 Jul 2026 17:29:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
