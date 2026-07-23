@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-23T15:17:46.903Z",
+  "lastUpdated": "2026-07-23T17:39:21.719Z",
   "articles": [
+    {
+      "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe",
+      "description": "&lt;p&gt;Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in Spain&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+      "pubDate": "Thu, 23 Jul 2026 16:36:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4c0553fd54435dc932a03d73737bbeaa9c10a256/421_0_4896_3919/master/4896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=113269bd9965a7cc24ef40cda4ebd51d"
+    },
+    {
+      "title": "At least two people missing in West Virginia after torrential rain causes flash floods",
+      "description": "&lt;p&gt;State’s governor had declared a state of emergency for all 55 counties, and deployed 500 national guard members&lt;/p&gt;&lt;p&gt;Patrick Mor...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/23/national-guard-west-virginia-flash-floods",
+      "pubDate": "Thu, 23 Jul 2026 16:06:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/664d9490fbcedb6d4e9f71058596ee807f47662b/196_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85fcb2c2f9f673634c12ba374ee508d6"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Will the US army benefit from testing its male soldiers for testosterone levels?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977x?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Jul 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can you be fined for using a hosepipe?",
+      "description": "Ben Rich looks at what is and isn't allowed during a hosepipe ban....",
+      "link": "https://www.bbc.co.uk/news/videos/cvg9l035jxxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Jul 2026 15:39:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Hosepipe ban in force as drought threatens - is your area affected?",
       "description": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being m...",
@@ -45,15 +81,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/GettyImages-2226699225.jpeg?quality=75&#038;strip=all"
-    },
-    {
-      "title": "Thousands of tourists among those evacuated amid intense wildfire in France",
-      "description": "&lt;p&gt;Reception centres open to thousands of evacuees after blaze begins in pine forest 45km west of Bordeaux&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-      "pubDate": "Thu, 23 Jul 2026 12:58:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4c0553fd54435dc932a03d73737bbeaa9c10a256/421_0_4896_3919/master/4896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=113269bd9965a7cc24ef40cda4ebd51d"
     },
     {
       "title": "Illegal waste investigation sees £275k forfeited",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/brazil-soy.jpg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "Politician’s claim Earth’s magnetic poles could flip if NT doesn’t use more groundwater criticised by experts",
-      "description": "&lt;p&gt;NT minister for trade and business Robyn Cahill makes scientifically inaccurate claims while pushing to make territory ‘datacentre capital of...",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/23/australia-politician-claims-northern-territory-water-could-flip-earths-magnetic-poles",
-      "pubDate": "Thu, 23 Jul 2026 07:10:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/eb7ff3c8d27ae11f56051117c05fb3167ead55a0/432_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ce9170f272f2cce0157188b3ac208d5"
-    },
-    {
-      "title": "Butterfly city blooms in shadow of office blocks",
-      "description": "A patch of land in Hull city centre has been allowed to grow wild to create a haven for insects....",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vp75q4yeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Jul 2026 05:03:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Besieged by lobbyists, will UK ministers protect our ecosystems? No, they’ll chicken out | George Monbiot",
-      "description": "&lt;p&gt;Industrial poultry farming is killing our rivers. But rather than stop it, the government has been facilitating it. Will Andy Burnham end thi...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/23/lobbyists-uk-environment-ministers-ecosystems-chicken-poultry-faming",
-      "pubDate": "Thu, 23 Jul 2026 05:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f19affd74178a1c46f5efc8a91c5067f8de655d0/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c51f98dd7f218b09c829ffd7d9d824fe"
     }
   ]
 }
