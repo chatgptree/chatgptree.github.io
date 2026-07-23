@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-23T19:37:35.756Z",
+  "lastUpdated": "2026-07-23T21:14:00.794Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Will the US army benefit from testing its male soldiers for testosterone levels?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977x?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Jul 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
+      "description": "&lt;p&gt;‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills&lt;/p&gt;&lt;p&gt;Donald T...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
+      "pubDate": "Thu, 23 Jul 2026 19:56:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/709f37ee82378c1cce26d50bcb1c27bb6a1d4af2/404_0_3055_2445/master/3055.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a676784851ce3196ff48cd2b54105ccc"
+    },
     {
       "title": "Thousands evacuated in south of France as wildfire rages across pine forest – video",
       "description": "&lt;p&gt;Local people and tourists were evacuated from the Arcachon Bay area overnight into Thursday after a huge fire engulfed more than 3,400 hectar...",
@@ -36,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/664d9490fbcedb6d4e9f71058596ee807f47662b/196_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85fcb2c2f9f673634c12ba374ee508d6"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Will the US army benefit from testing its male soldiers for testosterone levels?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Jul 2026 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Can you be fined for using a hosepipe?",
@@ -98,7 +107,7 @@
       "pubDate": "Thu, 23 Jul 2026 13:00:00 +0000",
       "sourceName": "grist.org",
       "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/GettyImages-2226699225.jpeg?quality=75&#038;strip=all"
+      "image": "https://grist.org/wp-content/uploads/2026/07/GettyImages-2226699225.jpeg"
     },
     {
       "title": "Illegal waste investigation sees £275k forfeited",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/HKN7680_A-rare-earth-mining-site-near-the-town-of-Hpare-in-territory-controlled-by-the-Kachin-Independence-Organization-near-the-border-wit-China.-Taken-in-January-2026-anonymous.jpeg?quality=75&amp;strip=all"
-    },
-    {
-      "title": "The deadly experiment that could save the American elm",
-      "description": "Researchers in Vermont infected 5,300 American elms with a lethal dose of Dutch elm disease. Those that survive could help them build the most genetic...",
-      "link": "https://grist.org/solutions/the-deadly-experiment-that-could-save-the-american-elm/",
-      "pubDate": "Thu, 23 Jul 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/elms-feat.jpg?quality=75&amp;strip=all"
     }
   ]
 }
