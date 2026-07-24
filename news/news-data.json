@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-23T23:04:29.019Z",
+  "lastUpdated": "2026-07-24T03:32:21.197Z",
   "articles": [
+    {
+      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
+      "description": "&lt;p&gt;Spain declares national emergency around Madrid, as marine heatwave sees some parts of Mediterranean Sea 5C hotter than normal&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+      "pubDate": "Fri, 24 Jul 2026 00:16:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4c0553fd54435dc932a03d73737bbeaa9c10a256/421_0_4896_3919/master/4896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=113269bd9965a7cc24ef40cda4ebd51d"
+    },
+    {
+      "title": "Heatwave anxiety can make you feel 'incredibly helpless' - here's how to manage it",
+      "description": "Extreme heat can take a toll on mental health - and young people and women are among the groups most at risk, according to one study. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 24 Jul 2026 00:05:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists find building blocks of birdsong's 'spectacular diversity'",
+      "description": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple ...",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 23 Jul 2026 23:55:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "Will the US army benefit from testing its male soldiers for testosterone levels?...",
@@ -36,15 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7362e8536bffc4ad3646227a96bdcc408bd071a3/269_0_4860_3888/master/4860.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29b8109bdfa4e747bfbb6159fd819c5b"
-    },
-    {
-      "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe",
-      "description": "&lt;p&gt;Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in Spain&lt;/p&gt;&lt;p&gt;Brutal heat torchi...",
-      "link": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-      "pubDate": "Thu, 23 Jul 2026 16:36:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4c0553fd54435dc932a03d73737bbeaa9c10a256/421_0_4896_3919/master/4896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=113269bd9965a7cc24ef40cda4ebd51d"
     },
     {
       "title": "At least two people missing in West Virginia after torrential rain causes flash floods",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9077f518cdc2d9d04a49629810f4f29af97aab01/190_0_5005_4005/master/5005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce0fc51efac47c853ef6985d9a2d9b4e"
-    },
-    {
-      "title": "I am used to hot days now. But the warm wind has really panicked me | Adrian Chiles",
-      "description": "&lt;p&gt;I first noticed it a couple of weeks ago on the streets of Cardiff – and it felt alarmingly wrong&lt;/p&gt;&lt;p&gt;When the wind is warm, yo...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/23/i-am-used-to-hot-days-now-but-the-warm-wind-has-really-panicked-me",
-      "pubDate": "Thu, 23 Jul 2026 10:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4f12340d3b52e13984b266e37203e87158e4db35/885_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c69e71734d44798f7a0b943758c1e624"
-    },
-    {
-      "title": "How war in Myanmar is driving a deadly rare earth mining boom",
-      "description": "Decades of conflict have left Myanmar vulnerable to a secretive industry that is polluting communities and endangering workers....",
-      "link": "https://grist.org/international/myanmar-war-rare-earth-mining-landslide-labor/",
-      "pubDate": "Thu, 23 Jul 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/HKN7680_A-rare-earth-mining-site-near-the-town-of-Hpare-in-territory-controlled-by-the-Kachin-Independence-Organization-near-the-border-wit-China.-Taken-in-January-2026-anonymous.jpeg?quality=75&amp;strip=all"
     }
   ]
 }
