@@ -1,9 +1,63 @@
 {
-  "lastUpdated": "2026-07-24T03:32:21.197Z",
+  "lastUpdated": "2026-07-24T06:34:05.829Z",
   "articles": [
     {
+      "title": "One year, 17 towns, dozens of voices: what we heard along the coast of England and Wales",
+      "description": "&lt;p&gt;Reporting from some of the poorest seaside towns revealed how young people have been left isolated – but remain resilient and full of hope&lt...",
+      "link": "https://www.theguardian.com/environment/2026/jul/24/one-year-17-towns-dozens-of-voices-what-we-heard-along-the-coast-of-england-and-wales",
+      "pubDate": "Fri, 24 Jul 2026 06:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d4e25f7634134b34c06df981683ed61eab0f3007/503_0_7487_5992/master/7487.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e998a00614bda7936d598cdad1d4fcf1"
+    },
+    {
+      "title": "Play area aims to interest children in rare habitat",
+      "description": "A science centre hopes play is the key to making children care about the future of chalk streams....",
+      "link": "https://www.bbc.co.uk/news/articles/c74gev9399yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 24 Jul 2026 05:20:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rare night heron spotted at National Trust site",
+      "description": "The small bird, which is widespread across Africa, Asia, the Americas and Europe, is seen on camera....",
+      "link": "https://www.bbc.co.uk/news/articles/cy078pej4jxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 24 Jul 2026 05:17:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Replacing gas stove can help asthmatics as much as some drugs, US experts find",
+      "description": "&lt;p&gt;Team in Ohio finds swapping to electric has ‘very large’ impact, despite study being scaled back by Trump cuts&lt;/p&gt;&lt;p&gt;&lt;a href=\"...",
+      "link": "https://www.theguardian.com/environment/2026/jul/24/replacing-gas-stove-can-help-asthmatics-as-much-as-some-drugs-us-experts-find",
+      "pubDate": "Fri, 24 Jul 2026 05:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bcd69a1bc660d9fa2a48621608fea02f8fa05207/338_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8964174f74cf22367c9e0c709a249d2"
+    },
+    {
+      "title": "Adelaide airport pulls ads from conservation groups but keeps gas and mining ads during ALP conference",
+      "description": "&lt;p&gt;Digital billboards from environmental groups, targeting Labor MPs attending national conference, cancelled with airport stating they are ‘too...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/24/adelaide-airport-cancels-environment-ads-keeps-gas-mining-advertisements",
+      "pubDate": "Fri, 24 Jul 2026 04:36:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/aa3cedadca09870400690d2a935e30765dac0984/188_0_1877_1502/master/1877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98f6cde7e2120a523482e37270c03bfe"
+    },
+    {
+      "title": "Rare heron seen at Somerset estate where river has been allowed to run free",
+      "description": "&lt;p&gt;Black-crowned night heron one of many species thriving at Holnicote Estate where river ‘reset’ has transformed area into lush oasis&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/environment/2026/jul/24/rare-night-heron-somerset-holnicote-river-reset",
+      "pubDate": "Fri, 24 Jul 2026 04:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fc7f9658b16fb1c9b9a84e11c30f22a1e86e0191/560_0_4776_3821/master/4776.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f853e81f54aef4272c5ed480747f9e3"
+    },
+    {
       "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
-      "description": "&lt;p&gt;Spain declares national emergency around Madrid, as marine heatwave sees some parts of Mediterranean Sea 5C hotter than normal&lt;/p&gt;&lt;p...",
+      "description": "&lt;p&gt;France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter t...",
       "link": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
       "pubDate": "Fri, 24 Jul 2026 00:16:02 GMT",
       "sourceName": "theguardian.com",
@@ -20,7 +74,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Scientists find building blocks of birdsong's 'spectacular diversity'",
+      "title": "Scientists find the secret of birdsong's 'spectacular diversity'",
       "description": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple ...",
       "link": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 23 Jul 2026 23:55:29 GMT",
@@ -126,60 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/GettyImages-2226699225.jpeg"
-    },
-    {
-      "title": "Illegal waste investigation sees £275k forfeited",
-      "description": "The investigation spans Herefordshire, Worcestershire and Shropshire, police say....",
-      "link": "https://www.bbc.co.uk/news/articles/c20d38v53geo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Jul 2026 12:36:59 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Poorest children in England 40% more likely to be hospitalised for lung infections",
-      "description": "&lt;p&gt;Exclusive: Analysis of NHS England data reveals stark impact of air pollution in deprived areas&lt;/p&gt;&lt;p&gt;Children living in the poor...",
-      "link": "https://www.theguardian.com/society/2026/jul/23/alarm-hospital-lung-admissions-children-england-poorest",
-      "pubDate": "Thu, 23 Jul 2026 12:14:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1255ecb854673b15bea0df6d0a85baa7dd7e2ee9/0_854_3600_2879/master/3600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5ecdd16bd0225a79dfafe65e80fc4a6"
-    },
-    {
-      "title": "Islanders asked to 'track' not 'trample' Asian hornets",
-      "description": "More than 200 Asian hornet queens have been caught and nine nests destroyed so far this year....",
-      "link": "https://www.bbc.co.uk/news/articles/cgje2n68g3yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Jul 2026 11:31:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When can you see the Perseid meteor shower?",
-      "description": "The Perseid meteor shower is set to light up the night sky, putting on a spectacular treat for skygazers....",
-      "link": "https://www.bbc.co.uk/news/videos/cr5965695nyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Jul 2026 10:06:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When can you see the Perseid meteor shower?",
-      "description": "The Perseid meteor shower is set to light up the night sky, putting on a spectacular treat for skygazers....",
-      "link": "https://www.bbc.co.uk/news/videos/cr5965695nyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 23 Jul 2026 10:06:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Legal logging and soaring saplings: the ‘green islands’ bucking the deforestation trend in central America",
-      "description": "&lt;p&gt;In Guatemala’s Maya biosphere reserve local people are making a living from trees at the same time as increasing forest cover, showing nature...",
-      "link": "https://www.theguardian.com/environment/2026/jul/23/guatemala-small-communities-restorative-forestation-aoe",
-      "pubDate": "Thu, 23 Jul 2026 10:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9077f518cdc2d9d04a49629810f4f29af97aab01/190_0_5005_4005/master/5005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce0fc51efac47c853ef6985d9a2d9b4e"
     }
   ]
 }
