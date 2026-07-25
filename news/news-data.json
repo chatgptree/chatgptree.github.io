@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2026-07-25T17:09:08.166Z",
+  "lastUpdated": "2026-07-25T19:19:48.078Z",
   "articles": [
     {
-      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
-      "description": "&lt;p&gt;Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-      "pubDate": "Sat, 25 Jul 2026 16:49:40 GMT",
+      "title": "Scorching US heat wave to hit 70 million people with third ‘heat dome’ in month",
+      "description": "&lt;p&gt;Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwest&lt;/p&gt;&lt;p&gt;About 70 m...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
+      "pubDate": "Sat, 25 Jul 2026 18:34:53 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/578e9b040e4040d69c71fdccd9aeb8b2744179d2/618_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=987293fade0e2a1883b5e9ff60a70847"
+      "image": "https://i.guim.co.uk/img/media/74ffbb7833ce2f38040db95a067927da970ea985/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf043c5091a12ed2f8d64227e0b410bc"
     },
     {
       "title": "More than 250,000 flee wildfires in France and Spain",
       "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control....",
       "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 25 Jul 2026 16:43:10 GMT",
+      "pubDate": "Sat, 25 Jul 2026 17:13:40 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
+      "description": "&lt;p&gt;Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "pubDate": "Sat, 25 Jul 2026 17:07:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/578e9b040e4040d69c71fdccd9aeb8b2744179d2/618_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=987293fade0e2a1883b5e9ff60a70847"
     },
     {
       "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on ponds: these freshwater havens need a law of their own | Editorial",
-      "description": "&lt;p&gt;Small pools don’t get the same attention as polluted rivers or seas. But they have a vital role to play in boosting nature&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/the-guardian-view-on-ponds-these-freshwater-havens-need-a-law-of-their-own",
-      "pubDate": "Fri, 24 Jul 2026 16:48:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3d85f165b5d2d26bf468251a6e4284a03e6b9995/0_0_4859_3888/master/4859.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f5282e9fe04f54f4f7beefa090e678d"
     }
   ]
 }
