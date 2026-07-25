@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-07-25T09:56:38.445Z",
+  "lastUpdated": "2026-07-25T11:19:43.404Z",
   "articles": [
     {
       "title": "France and Spain race to control wildfires as Bordeaux suburbs evacuated – live",
-      "description": "&lt;p&gt;Meanwhile in the UK, a blaze in Cairngorms national park is described as ‘very serious’ by Scotland’s first minister&lt;/p&gt;&lt;ul&gt;&lt;l...",
+      "description": "&lt;p&gt;Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister&lt;/p&gt;&lt;...",
       "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-      "pubDate": "Sat, 25 Jul 2026 09:34:35 GMT",
+      "pubDate": "Sat, 25 Jul 2026 10:52:07 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8a14639f0e99479055543f1ad46d51626bf97609/1536_0_6435_5148/master/6435.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9a42dc4e57a8ed8e20d046b5b5ef575"
+    },
+    {
+      "title": "North-east of England receives fewest Green Flag awards",
+      "description": "The North East received just 57 awards, much lower than most regions of England, which had over 100....",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n9gl66geo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 25 Jul 2026 10:05:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Almost 75% of England’s riverbanks ‘off limits’ to public, figures show",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/cefd856e3cbab32f03889df894b913c1c3b2de5f/305_0_6405_5124/master/6405.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52dcb460446ce26b21e033587981e03e"
-    },
-    {
-      "title": "As climate lawsuits advance, the oil industry enters &#8216;panic mode&#8217;",
-      "description": "Oil companies face new legal challenges, such as a recent suit for wrongful death, and older cases that are creeping toward trial....",
-      "link": "https://grist.org/accountability/lawsuits-heatwave-wrongful-death-supreme-court/",
-      "pubDate": "Fri, 24 Jul 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/Portland-cooling-center.jpg"
     }
   ]
 }
