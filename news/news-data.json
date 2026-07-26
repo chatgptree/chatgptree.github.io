@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-26T11:24:18.223Z",
+  "lastUpdated": "2026-07-26T13:45:49.189Z",
   "articles": [
+    {
+      "title": "Here’s how offshore wind helped New England beat record heat",
+      "description": "The region has added dozens of turbines off the East Coast since last summer. They and other clean energy sources cut the need for oil power amid rece...",
+      "link": "https://grist.org/energy/heres-how-offshore-wind-helped-new-england-beat-record-heat/",
+      "pubDate": "Sun, 26 Jul 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/Big-Beautiful-Bill-RESIZED.jpg"
+    },
+    {
+      "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
+      "description": "&lt;p&gt;Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditions&lt;/p&gt;&lt;ul&gt;&lt;li&g...",
+      "link": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+      "pubDate": "Sun, 26 Jul 2026 12:56:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/14a92955b0ddb84523f4f694fb76473d080a714a/1236_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=700e4ec5c945faab34b91d9a77a99b5d"
+    },
     {
       "title": "Residents urged to join nationwide butterfly count",
       "description": "Bournemouth, Christchurch and Poole are home to many important butterfly sites, says authority....",
@@ -119,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Almost 75% of England’s riverbanks ‘off limits’ to public, figures show",
-      "description": "&lt;p&gt;Campaigners urge government to introduce right of access to water, particularly as heatwaves become more common&lt;/p&gt;&lt;p&gt;Almost thre...",
-      "link": "https://www.theguardian.com/environment/2026/jul/25/almost-75-percent-england-riverbanks-off-limits-to-public",
-      "pubDate": "Sat, 25 Jul 2026 07:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ae074c65871b4164413f03ca19b2a2e8ee01be1a/609_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fee62397d4ba31a0476fd964300ce3a7"
-    },
-    {
       "title": "Everything you need to know about the hosepipe ban",
       "description": "The hosepipe ban is in place due to high demand for water during heatwaves and dry weather. ...",
       "link": "https://www.bbc.co.uk/news/articles/cm2gdd7nlyno?at_medium=RSS&amp;at_campaign=rss",
@@ -159,15 +168,6 @@
       "description": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"....",
       "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 25 Jul 2026 02:29:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
-      "description": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch....",
-      "link": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 25 Jul 2026 00:41:50 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
