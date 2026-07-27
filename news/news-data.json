@@ -1,38 +1,65 @@
 {
-  "lastUpdated": "2026-07-27T11:33:36.590Z",
+  "lastUpdated": "2026-07-27T14:54:08.366Z",
   "articles": [
     {
-      "title": "Europe live: French firefighters warn it could take ‘weeks or months’ to extinguish wildfires",
-      "description": "&lt;p&gt;Firefighters in France and Spain face another day battling wildfires that have seen hundreds of thousands of people evacuated&lt;/p&gt;&lt;ul...",
+      "title": "Europe live: Officials warn that wildfires could still be burning in November",
+      "description": "&lt;p&gt;Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
       "link": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
-      "pubDate": "Mon, 27 Jul 2026 11:21:56 GMT",
+      "pubDate": "Mon, 27 Jul 2026 14:28:02 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/9719db8f2716e9050d9cb16570f425a1fd8d11ce/272_0_2720_2176/master/2720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f99cf8b0a1fe6b32e639ebe85751ec43"
+      "image": "https://i.guim.co.uk/img/media/e403f817c7a43608fbf833586497ef0505e401c9/681_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4719ea3e624d02b945a04d159dd01a7"
+    },
+    {
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ev...",
+      "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 27 Jul 2026 14:21:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘It came out of real frustration’: the 90s activist network that set fires to save a burning planet",
+      "description": "&lt;p&gt;Matthew Wolfe’s Fires in the Night examines Earth Liberation Front, a US eco-anarchist movement, and its legacy of radical environmentalism&l...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/27/fires-in-the-night-earth-liberation-front-environment",
+      "pubDate": "Mon, 27 Jul 2026 12:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4f1ab71c76a32213d1f3d4c84bebb551e3e1e576/167_0_1665_1332/master/1665.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1572bc4028f9b39b37bae29d159b670c"
+    },
+    {
+      "title": "US environmental groups urge EPA to reject new Pfas to cool datacenters",
+      "description": "&lt;p&gt;Coalition says Chemours downplayed health and climate risks in bid to fast-track the compound’s use&lt;/p&gt;&lt;p&gt;A coalition of 17 envir...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa",
+      "pubDate": "Mon, 27 Jul 2026 12:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/01e96fd41807bceded8f7ddd34c8b38406042bd4/252_0_3789_3031/master/3789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43e5361259d2aab61f94291d06e045c1"
+    },
+    {
+      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+      "description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained....",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 27 Jul 2026 11:50:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+      "description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained....",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 27 Jul 2026 11:50:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
       "description": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\"....",
       "link": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 27 Jul 2026 11:11:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-      "description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained....",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 11:10:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-      "description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained....",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 11:10:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -48,7 +75,7 @@
     },
     {
       "title": "Bill Oddie, naturalist and broadcaster, dies aged 85",
-      "description": "&lt;p&gt;Coming to fame in The Goodies, Oddie was later known for his wildlife expertise and presented BBC Springwatch&lt;/p&gt;&lt;p&gt;The writer, c...",
+      "description": "&lt;p&gt;Coming to fame in The Goodies, Oddie was later known for his wildlife expertise and presented BBC Springwatch&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&l...",
       "link": "https://www.theguardian.com/tv-and-radio/2026/jul/27/bill-oddie-naturalist-and-broadcaster-dies",
       "pubDate": "Mon, 27 Jul 2026 10:32:49 GMT",
       "sourceName": "theguardian.com",
@@ -57,7 +84,7 @@
     },
     {
       "title": "&#8216;Climate hushing&#8217; has swept the Democratic Party. New polling suggests it&#8217;s a mistake.",
-      "description": "Climate change might not be a top priority for voters, but keeping quiet about it might backfire....",
+      "description": "Climate change might not be a top priority for voters, but keeping quiet about it may backfire....",
       "link": "https://grist.org/politics/climate-hushing-democrats-polling-primaries-voters/",
       "pubDate": "Mon, 27 Jul 2026 08:30:00 +0000",
       "sourceName": "grist.org",
@@ -150,33 +177,6 @@
       "description": "New figures reveal which councils in Cambridgeshire have issued the most fines for littering....",
       "link": "https://www.bbc.co.uk/news/articles/c70gee3662zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 27 Jul 2026 05:13:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why scientists watched grass grow for 170 years",
-      "description": "Started by Victorians, Rothamsted Research are monitoring how grass grows.\n...",
-      "link": "https://www.bbc.co.uk/news/articles/c934nq2wwnqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 05:07:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-      "description": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate....",
-      "link": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 02:04:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-      "description": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate....",
-      "link": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 02:04:10 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
