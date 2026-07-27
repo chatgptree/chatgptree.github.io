@@ -1,8 +1,71 @@
 {
-  "lastUpdated": "2026-07-27T17:04:25.133Z",
+  "lastUpdated": "2026-07-27T19:46:13.406Z",
   "articles": [
     {
-      "title": "Europe live: Officials warn that wildfires could still be burning in November",
+      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
+      "description": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat....",
+      "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 27 Jul 2026 19:30:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
+      "description": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat....",
+      "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 27 Jul 2026 19:30:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Industrial chicken farming accelerating spread of diarrhoea bacteria, study finds",
+      "description": "&lt;p&gt;Intensive nature of modern chicken farming creates ideal conditions for &lt;em&gt;campylobacter&lt;/em&gt;, allowing bacteria to evolve&lt;/p...",
+      "link": "https://www.theguardian.com/food/2026/jul/27/industrial-chicken-farming-accelerating-spread-of-diarrhoea-bacteria-study-finds",
+      "pubDate": "Mon, 27 Jul 2026 19:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4bebc415f2d85f2a98ccc513f116809b247fcadc/828_0_4169_3334/master/4169.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791bca6f74835cfc511e5ea0fa73039a"
+    },
+    {
+      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"....",
+      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 27 Jul 2026 17:50:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"....",
+      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 27 Jul 2026 17:50:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Guardian view on Europe’s wildfires: politics must catch up with the new reality | Editorial",
+      "description": "&lt;p&gt;At a time when the quickening pace of global heating has never been clearer, climate policies are being deprioritised&lt;/p&gt;&lt;p&gt;A new...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/27/the-guardian-view-on-europes-wildfires-politics-must-catch-up-new-reality",
+      "pubDate": "Mon, 27 Jul 2026 17:30:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b14d9f1c221e92725a8aa96ef6d64e0fdbdfdae8/0_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cff4dbbb529329193ec4acd9873e5e2f"
+    },
+    {
+      "title": "Ben Jennings on southern Europe’s wildfires – cartoon",
+      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/jul/27/ben-jennings-on-southern-europes-wildfires-cartoon\"&gt;Continue reading...&l...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/27/ben-jennings-on-southern-europes-wildfires-cartoon",
+      "pubDate": "Mon, 27 Jul 2026 17:06:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1b6026e3843f791ff58184393bbbe15b2839c48c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea5c68071e8d133998539ff0b0179006"
+    },
+    {
+      "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
       "description": "&lt;p&gt;Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
       "link": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
       "pubDate": "Mon, 27 Jul 2026 16:42:23 GMT",
@@ -12,7 +75,7 @@
     },
     {
       "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
-      "description": "&lt;p&gt;Officials talk of ‘absolutely critical’ days for firefighters before rise again from middle of the week&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
+      "description": "&lt;p&gt;Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say&lt;/p&gt;&lt;p&gt;Firefighters...",
       "link": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
       "pubDate": "Mon, 27 Jul 2026 16:36:30 GMT",
       "sourceName": "theguardian.com",
@@ -36,15 +99,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Britain braces for fourth heatwave of year as fire chiefs issue public appeal",
-      "description": "&lt;p&gt;Temperatures up to 35C forecast, triggering heat health alerts and pleas to take care in parched parks and rural areas&lt;/p&gt;&lt;p&gt;Para...",
-      "link": "https://www.theguardian.com/uk-news/2026/jul/27/uk-weather-fourth-heatwave-of-year",
-      "pubDate": "Mon, 27 Jul 2026 15:47:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4b759f23878093328348280b62bc966792a26d5a/501_0_4576_3661/master/4576.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b155c5d98fd8c954e6a7a0a35f6162f7"
     },
     {
       "title": "When it comes to predicting the future, why are TV writers better than politicians? | Zoe Williams",
@@ -126,60 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/ORIAS-2026-Good-Thanks-Media-682x1024.jpg"
-    },
-    {
-      "title": "When disaster strikes, communities already know what works. So why don’t we listen better?",
-      "description": "Professor David Sanderson and Laura Cimilio from the HowWeSurvive project. UNSW Sydney As disasters become more frequent and complex, new research sho...",
-      "link": "https://econews.com.au/when-disaster-strikes-communities-already-know-what-works-so-why-dont-we-listen-better/",
-      "pubDate": "Mon, 27 Jul 2026 07:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
-    },
-    {
-      "title": "More tree cover linked to better mental health in older Australians",
-      "description": "Credit: Adobe Stock UNSW Sydney Centre for Healthy Brain Ageing (CHeBA) Long-term study suggests greener neighbourhoods may help reduce depressive sym...",
-      "link": "https://econews.com.au/more-tree-cover-linked-to-better-mental-health-in-older-australians/",
-      "pubDate": "Mon, 27 Jul 2026 06:01:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
-    },
-    {
-      "title": "Landmark victory as plans for world’s first octopus farm withdrawn",
-      "description": "Plans to build the world’s first commercial octopus farm in Gran Canaria, Spain, have been scrapped, in a major victory for octopuses and the global a...",
-      "link": "https://econews.com.au/landmark-victory-as-plans-for-worlds-first-octopus-farm-withdrawn/",
-      "pubDate": "Mon, 27 Jul 2026 06:01:39 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Volunteer scheme credited with changing man's life",
-      "description": "Michael Reynolds, 27, says the scheme helps him to \"get away from day-to-day life\"....",
-      "link": "https://www.bbc.co.uk/news/articles/cy45l8p34eyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 05:25:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Off the scale' haul of nitrous oxide cans found",
-      "description": "Litterpickers say they found 82 in a day, and normally find between three and 12. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjeew63n0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 05:23:59 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The nature reserve where 'magical' glow worms thrive",
-      "description": "The nature reserve in Sussex is seen as a 'stronghold' for the near threatened glow worm....",
-      "link": "https://www.bbc.co.uk/news/articles/c151gkzd008o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 05:14:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
