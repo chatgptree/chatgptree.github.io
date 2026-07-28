@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-28T09:40:53.191Z",
+  "lastUpdated": "2026-07-28T12:02:40.329Z",
   "articles": [
+    {
+      "title": "Could ‘Godzilla’ El Niño bring the hottest year on record? – video explainer",
+      "description": "&lt;p&gt;The Earth keeps getting hotter and experts fear this year's El Niño, nicknamed 'Godzilla' because of its predicted intensity, could raise glo...",
+      "link": "https://www.theguardian.com/environment/video/2026/jul/28/godzilla-el-nino-hottest-year-on-record-video-explainer",
+      "pubDate": "Tue, 28 Jul 2026 10:50:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/351505607e6a36d2cae6f7c4e4bf532ee512f920/298_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd0d4e6ea7f4ffea4aef7360d392ba85"
+    },
+    {
+      "title": "Are BuzzBallz actually recyclable?",
+      "description": "The company behind BuzzBallz said they were recyclable on its website, but experts say this is not true....",
+      "link": "https://www.bbc.co.uk/news/videos/cr7kz0g09zeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Jul 2026 10:45:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How to see July's full Buck Moon as it rises in the night sky",
+      "description": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday....",
+      "link": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Jul 2026 09:55:08 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How one man’s near-death experience led to the discovery of the first Jurassic sea dragon in Wales",
       "description": "&lt;p&gt;Matthew Myerscough’s remarkable find is one of many detailed in his new book. But his journey into fossil hunting began years earlier, when h...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bd49c209312e179d2233d7b38d35d761557d7846/1_0_1180_944/master/1180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1a51192c56a1f019e6c3c7abd28a3974"
-    },
-    {
-      "title": "The prehistoric species fighting for survival in Lough Neagh",
-      "description": "Restrictions have been placed on fishing the critically-endangered European eel in Lough Neagh to try to restore the species...",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 23:01:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The prehistoric species fighting for survival in Lough Neagh",
-      "description": "Restrictions have been placed on fishing the critically-endangered European eel in Lough Neagh to try to restore the species...",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 23:01:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Is it time to stop using glue and labels on paper?",
-      "description": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that....",
-      "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 23:00:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
