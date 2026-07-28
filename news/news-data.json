@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-28T12:02:40.329Z",
+  "lastUpdated": "2026-07-28T15:26:55.355Z",
   "articles": [
+    {
+      "title": "What is Jodrell Bank Observatory and what does it do?",
+      "description": "When Jodrell Bank Observatory was built, the site was seen as gamechanger for radio astronomy. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c07r1v98mpgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:45:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Drone footage shows Wisconsin tornado damage",
+      "description": "No fatalities or injuries were immediately reported after an EF-2 tornado hit parts of the Midwest state....",
+      "link": "https://www.bbc.co.uk/news/videos/cgr751pvnd2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:03:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "It’s time to prosecute climate crimes – with laws that already exist | Aaron Regunberg",
+      "description": "&lt;p&gt;Some have called for Nuremberg-style trials against big oil. But there are laws already on the books to describe companies’ conduct&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/28/prosecute-climate-crimes-big-oil",
+      "pubDate": "Tue, 28 Jul 2026 14:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5b003a0820daacfddb4334e5a886a55ad00e9286/451_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b8478cb616473068eefa2519a362046"
+    },
+    {
+      "title": "New evacuation from tourist sites near Bordeaux as France and Spain fight wildfires",
+      "description": "&lt;p&gt;French authorities order evacuation of almost 4,000 people from Lacanau resort amid return of heatwave&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
+      "pubDate": "Tue, 28 Jul 2026 13:59:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8f5840296b81efc42138aebde15dd083f91663ee/461_0_4521_3618/master/4521.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61090d2b82b19dedf914e9109f3435d0"
+    },
     {
       "title": "Could ‘Godzilla’ El Niño bring the hottest year on record? – video explainer",
       "description": "&lt;p&gt;The Earth keeps getting hotter and experts fear this year's El Niño, nicknamed 'Godzilla' because of its predicted intensity, could raise glo...",
@@ -39,8 +75,8 @@
     },
     {
       "title": "Inside the ‘America First’ makeover of a global hunger program",
-      "description": "In remaking USAID’s Feed the Future innovation labs, Trump is abandoning an agricultural research effort built to benefit the world....",
-      "link": "https://grist.org/food-and-agriculture/inside-the-america-first-makeover-of-a-global-hunger-program/",
+      "description": "In remaking USAID’s Feed the Future Innovation Labs, the Trump administration is abandoning an agricultural research effort built to benefit the world...",
+      "link": "https://grist.org/food-and-agriculture/inside-america-first-makeover-of-usaid-global-hunger-program/",
       "pubDate": "Tue, 28 Jul 2026 08:45:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -49,7 +85,7 @@
     {
       "title": "Next stop for California&#8217;s high-speed rail: Finding private investors",
       "description": "The state has a $25 million agreement with a consortium of companies to explore private financing opportunities. Not everyone is sure it will work....",
-      "link": "https://grist.org/solutions/next-stop-for-californias-high-speed-rail-finding-private-investors/",
+      "link": "https://grist.org/transportation/next-stop-for-californias-high-speed-rail-finding-private-investors/",
       "pubDate": "Tue, 28 Jul 2026 08:30:00 +0000",
       "sourceName": "grist.org",
       "author": "",
@@ -57,7 +93,7 @@
     },
     {
       "title": "Tackling the 'nasty' plant that can cause blisters and scars",
-      "description": "A County Tyrone group says it has made progress tackling giant hogweed....",
+      "description": "A conservation group says it has made progress tackling giant hogweed infestations in County Tyrone....",
       "link": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 28 Jul 2026 05:23:45 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Logo-22-2-1.png"
-    },
-    {
-      "title": "Heat-seeking drones target canopy koalas",
-      "description": "Nightvision Ecology Director Stephen Mahony launches his drone at Awaba Thermal-imaging drones are revealing new koala hotspots across Lake Macquarie ...",
-      "link": "https://econews.com.au/heat-seeking-drones-target-canopy-koalas/",
-      "pubDate": "Tue, 28 Jul 2026 04:01:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
-    },
-    {
-      "title": "‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons",
-      "description": "&lt;p&gt;From Afghanistan to Taiwan, unprecedented deluge highlights devastating impact of climate breakdown&lt;/p&gt;&lt;p&gt;“It rained for 10 days ...",
-      "link": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change",
-      "pubDate": "Tue, 28 Jul 2026 04:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f97c494a14e06042be09c06340904e88917b1525/306_0_2822_2258/master/2822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e76c101286f2228afe71f53f63e08556"
-    },
-    {
-      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
-      "description": "&lt;p&gt;Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say &lt;/p&gt;&lt;p&gt;Firefighter...",
-      "link": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
-      "pubDate": "Tue, 28 Jul 2026 02:37:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9719db8f2716e9050d9cb16570f425a1fd8d11ce/131_0_2720_2176/master/2720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52af21ce3ebb3aecf509d507838803d8"
-    },
-    {
-      "title": "What do the heatwaves in Europe and North America tell us about our future?  | Fiona Katauskas",
-      "description": "&lt;p&gt;The signs are there&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;See more of &lt;/strong&gt;&lt;a href=\"https://www.theguardian.com/pr...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/28/what-do-the-heatwaves-in-europe-and-north-america-tell-us-about-our-future",
-      "pubDate": "Tue, 28 Jul 2026 00:54:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bd49c209312e179d2233d7b38d35d761557d7846/1_0_1180_944/master/1180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1a51192c56a1f019e6c3c7abd28a3974"
     }
   ]
 }
