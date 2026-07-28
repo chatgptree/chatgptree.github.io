@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-07-28T06:34:27.051Z",
+  "lastUpdated": "2026-07-28T09:40:53.191Z",
   "articles": [
     {
-      "title": "On the frontline fighting the UK's 'most dangerous plant'",
-      "description": "A County Tyrone group says it has made progress tackling Giant Hogweed....",
+      "title": "How one man’s near-death experience led to the discovery of the first Jurassic sea dragon in Wales",
+      "description": "&lt;p&gt;Matthew Myerscough’s remarkable find is one of many detailed in his new book. But his journey into fossil hunting began years earlier, when h...",
+      "link": "https://www.theguardian.com/environment/2026/jul/28/matthew-myerscough-fossil-hunting-avalanche-discovery-sea-dragon-wales",
+      "pubDate": "Tue, 28 Jul 2026 09:00:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/87e54f6d9fd0b6d0c9a0f3fa1b5360f4cc04ff02/1023_0_6440_5152/master/6440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa1916169f19da7fbc1714816734d4c0"
+    },
+    {
+      "title": "Inside the ‘America First’ makeover of a global hunger program",
+      "description": "In remaking USAID’s Feed the Future innovation labs, Trump is abandoning an agricultural research effort built to benefit the world....",
+      "link": "https://grist.org/food-and-agriculture/inside-the-america-first-makeover-of-a-global-hunger-program/",
+      "pubDate": "Tue, 28 Jul 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/20240315_120145-1.jpg"
+    },
+    {
+      "title": "Next stop for California&#8217;s high-speed rail: Finding private investors",
+      "description": "The state has a $25 million agreement with a consortium of companies to explore private financing opportunities. Not everyone is sure it will work....",
+      "link": "https://grist.org/solutions/next-stop-for-californias-high-speed-rail-finding-private-investors/",
+      "pubDate": "Tue, 28 Jul 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/09/california-high-speed-rail-trump-timeline-construction.jpeg"
+    },
+    {
+      "title": "Tackling the 'nasty' plant that can cause blisters and scars",
+      "description": "A County Tyrone group says it has made progress tackling giant hogweed....",
       "link": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 28 Jul 2026 05:23:45 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -11,7 +38,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Where is best to see the Buck Moon?",
+      "title": "Where is best to see the July Buck Moon?",
       "description": "July's full moon is due on Wednesday, here's some of the best places to watch it where you live. ...",
       "link": "https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 28 Jul 2026 05:16:43 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
-      "description": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat....",
-      "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 19:59:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
-      "description": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat....",
-      "link": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 27 Jul 2026 19:59:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Industrial chicken farming accelerating spread of diarrhoea bacteria, study finds",
-      "description": "&lt;p&gt;Intensive nature of modern chicken farming creates ideal conditions for &lt;em&gt;campylobacter&lt;/em&gt;, allowing bacteria to evolve&lt;/p...",
-      "link": "https://www.theguardian.com/food/2026/jul/27/industrial-chicken-farming-accelerating-spread-of-diarrhoea-bacteria-study-finds",
-      "pubDate": "Mon, 27 Jul 2026 19:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4bebc415f2d85f2a98ccc513f116809b247fcadc/828_0_4169_3334/master/4169.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791bca6f74835cfc511e5ea0fa73039a"
     }
   ]
 }
