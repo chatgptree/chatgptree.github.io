@@ -1,14 +1,104 @@
 {
-  "lastUpdated": "2026-07-29T09:43:42.520Z",
+  "lastUpdated": "2026-07-29T12:07:55.251Z",
   "articles": [
     {
-      "title": "France and Spain brace for fresh heatwave as warnings issued over risk of new wildfires – Europe live",
+      "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
       "description": "&lt;p&gt;Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 4...",
       "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-      "pubDate": "Wed, 29 Jul 2026 09:23:20 GMT",
+      "pubDate": "Wed, 29 Jul 2026 11:56:09 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/0c3982ab2901d73abc700ff7025b700d8e7ca6cb/620_0_6795_5438/master/6795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca63bb2351e75c449bb3b496d92e3fdc"
+      "image": "https://i.guim.co.uk/img/media/21dd9143df532d0540de0cde6b32da2ceef15a3e/153_0_3630_2904/master/3630.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c057c36170165460fb4f91ea8906d54b"
+    },
+    {
+      "title": "More than half of England officially in drought, Environment Agency says",
+      "description": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England....",
+      "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 11:54:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More than half of England officially in drought, Environment Agency says",
+      "description": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England....",
+      "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 11:54:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "description": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 11:53:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hotter summers may force RHS to move hydrangeas to north of England",
+      "description": "&lt;p&gt;Exclusive: British garden staple becomes plant most frequently reported as suffering in heat, charity reports&lt;/p&gt;&lt;p&gt;With their lu...",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/heatwaves-hydrangeas-risk-south-of-england-rhs-warns",
+      "pubDate": "Wed, 29 Jul 2026 11:22:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d66cdcfc4db219bdcbc79a4de499bd3a09c51d52/0_995_2880_2304/master/2880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2e9d23ea04f70a5f9fd7c422bbf94f3"
+    },
+    {
+      "title": "Caribbean bears brunt of £43bn climate-fuelled damage to developing islands",
+      "description": "&lt;p&gt;Findings can inform conversations about global climate reparations and financing for mitigations, researchers say&lt;/p&gt;&lt;p&gt;Caribbean...",
+      "link": "https://www.theguardian.com/world/2026/jul/29/caribbean-climate-related-economic-damage-developing-islands",
+      "pubDate": "Wed, 29 Jul 2026 11:00:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bb9b619d22f2ca63276d8c0da3e1d70cc1126aed/528_0_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bab56167f2ca8fe8374d2e99f1d79911"
+    },
+    {
+      "title": "How to see July's Buck Moon light up the night sky",
+      "description": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday....",
+      "link": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 10:49:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Jodrell Bank cuts a disappointing gamble, says Sky at Night host",
+      "description": "Dr George Dransfield says the decision to cut funding is \"short-sighted\"....",
+      "link": "https://www.bbc.co.uk/news/articles/clyqlw6we67o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 10:45:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Buck Moon lights up Devon and Cornwall skies",
+      "description": "The July full moon is expected to peak at 15:36 BST on Wednesday....",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9q84g00lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 10:22:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Endangered tiger cubs born in conservation boost",
+      "description": "The species is one of the most endangered in the world, with only about 450 Amur tigers left in the wild....",
+      "link": "https://www.bbc.co.uk/news/articles/cr5985rp66eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 10:13:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘I’m super proud of him’: father of teen lifeguard recounts dramatic ocean rescue",
+      "description": "&lt;p&gt;Ryder Williams, 16, saved a boy from drowning in Santa Cruz, California – the first rescue of his career&lt;/p&gt;&lt;p&gt;A rookie, teenage ...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/29/california-ocean-rescue-teen-lifeguard",
+      "pubDate": "Wed, 29 Jul 2026 10:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/acf984544678e004a66e00f0d73db37590ad49af/0_139_1320_1056/master/1320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f87850ddc3a44d61cac767cbb6f3a1c"
     },
     {
       "title": "Mysterious deaths of elephants in Kenya prompts urgent inquiry",
@@ -29,7 +119,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "As wildfires rage, the world is backsliding on climate action. This can’t go on | Bill McGuire",
+      "title": "Wildfires are raging – and the world has junked 45 climate pledges. Disaster looms, and little wonder | Bill McGuire",
       "description": "&lt;p&gt;Five years ago, I wrote an open letter asking climate scientists to speak out against fossil fuels. Now governments are in retreat, it is sur...",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels",
       "pubDate": "Wed, 29 Jul 2026 09:00:29 GMT",
@@ -83,24 +173,6 @@
       "image": "https://i.guim.co.uk/img/media/d61fdd81090c720e245c50503d599ae82ef1c846/591_0_3053_2443/master/3053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4eace91b4be5457215af384597617157"
     },
     {
-      "title": "Organic eggs have worse impact on climate than eggs from caged chickens",
-      "description": "&lt;p&gt;Adopting organic free-range model in UK could lead to greenhouse emissions equivalent to 2,316,000 tonnes of CO2, study suggests&lt;/p&gt;&lt...",
-      "link": "https://www.theguardian.com/environment/2026/jul/29/organic-eggs-climate-caged-chickens-carbon-emissions-environment",
-      "pubDate": "Wed, 29 Jul 2026 04:00:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0c25bfbcb871f9d36a7669fb3dfe9b139246241c/0_706_2667_2133/master/2667.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb88d83c77cde8d69e8e0dfa054323e4"
-    },
-    {
-      "title": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
-      "description": "&lt;p&gt;Federal-state stoush comes as rating agency warns that electricity bills could skyrocket&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"ht...",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
-      "pubDate": "Wed, 29 Jul 2026 03:19:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/44594205576f37ea0cc7dcddacaaf06eaaa42386/274_58_3185_2549/master/3185.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e42311e093b712ce92c7947f1daa948"
-    },
-    {
       "title": "Neoen doubles size of Goyder Battery after signing two 15-year capacity contracts in South Australia",
       "description": "Neoen has been awarded two 15-year contracts in South Australia’s inaugural Firm Energy Reliability Mechanism tender The two 75 MW / 8-hour capacity s...",
       "link": "https://econews.com.au/neoen-doubles-size-of-goyder-battery-after-signing-two-15-year-capacity-contracts-in-south-australia/",
@@ -108,78 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Igneo Infrastructure Partners launches Vertis Energy to target business energy opportunity hiding on Australian rooftops",
-      "description": "Jason Willoughby Platform led by former Squadron Energy CEO Jason Willoughby enters market with 46MW operating portfolio across 240 Australian sites A...",
-      "link": "https://econews.com.au/igneo-infrastructure-partners-launches-vertis-energy-to-target-business-energy-opportunity-hiding-on-australian-rooftops/",
-      "pubDate": "Wed, 29 Jul 2026 02:01:45 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Boroondara takes over management of Fritsch Holzer sportsground",
-      "description": "Fritsch Holzer Oval The City of Boroondara will take over management of the sportsground and pavilion in Fritsch Holzer Park under a two-year trial ag...",
-      "link": "https://econews.com.au/boroondara-takes-over-management-of-fritsch-holzer-sportsground/",
-      "pubDate": "Wed, 29 Jul 2026 02:01:44 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "NSW Right to Charge reforms to unlock EV charging demand, amid ongoing cost, skills and regulatory challenges.",
-      "description": "Schneider Electric’s 2026 Energy Tech Pulse Survey found upfront capital costs, skills shortages and regulatory complexity remain the biggest barriers...",
-      "link": "https://econews.com.au/nsw-right-to-charge-reforms-to-unlock-ev-charging-demand-amid-ongoing-cost-skills-and-regulatory-challenges/",
-      "pubDate": "Wed, 29 Jul 2026 02:01:39 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Tim-Pratt-1-683x1024.jpg"
-    },
-    {
-      "title": "The Guardian view on noise pollution: keep it down | Editorial",
-      "description": "&lt;p&gt;New research linking the issue to Parkinson’s disease adds to the evidence of serious health repercussions from traffic volume and other sour...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/28/the-guardian-view-on-noise-pollution-keep-it-down",
-      "pubDate": "Tue, 28 Jul 2026 17:23:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/093ab5d6d6af8e4ab9437412b7ef8d058d4cc6b4/0_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7868ace4e26e6f3de22a410ef7406c3"
-    },
-    {
-      "title": "What is Jodrell Bank Observatory and what does it do?",
-      "description": "When Jodrell Bank Observatory was built, the site was seen as gamechanger for radio astronomy. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c07r1v98mpgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 14:45:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Drone footage shows Wisconsin tornado damage",
-      "description": "No fatalities or injuries were immediately reported after an EF-2 tornado hit parts of the Midwest state....",
-      "link": "https://www.bbc.co.uk/news/videos/cgr751pvnd2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 14:03:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "It’s time to prosecute climate crimes – with laws that already exist | Aaron Regunberg",
-      "description": "&lt;p&gt;Some have called for Nuremberg-style trials against big oil. But there are laws already on the books to describe companies’ conduct&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/28/prosecute-climate-crimes-big-oil",
-      "pubDate": "Tue, 28 Jul 2026 14:00:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5b003a0820daacfddb4334e5a886a55ad00e9286/451_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b8478cb616473068eefa2519a362046"
-    },
-    {
-      "title": "Could ‘Godzilla’ El Niño bring the hottest year on record? – video explainer",
-      "description": "&lt;p&gt;The Earth keeps getting hotter and experts fear this year's El Niño, nicknamed 'Godzilla' because of its predicted intensity, could raise glo...",
-      "link": "https://www.theguardian.com/environment/video/2026/jul/28/godzilla-el-nino-hottest-year-on-record-video-explainer",
-      "pubDate": "Tue, 28 Jul 2026 10:50:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/351505607e6a36d2cae6f7c4e4bf532ee512f920/298_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd0d4e6ea7f4ffea4aef7360d392ba85"
     }
   ]
 }
