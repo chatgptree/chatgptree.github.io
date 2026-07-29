@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-29T15:12:43.242Z",
+  "lastUpdated": "2026-07-29T17:22:30.574Z",
   "articles": [
+    {
+      "title": "Birth of pine marten kits 'a fantastic sign'",
+      "description": "Pine marten babies have been born on Exmoor for the first time in a century, new footage shows....",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nz109e2no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 16:17:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – as it happened",
+      "description": "&lt;p&gt;Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 4...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "pubDate": "Wed, 29 Jul 2026 16:04:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e2af04a787db17b71c6f95e1a67d57cc2baa2133/3069_933_6849_5478/master/6849.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d58b173216d81a85251d760746c5d46"
+    },
+    {
+      "title": "Can a heatwave cause trees to fall?",
+      "description": "Don't sit under a tree during a heatwave - here's why....",
+      "link": "https://www.bbc.co.uk/news/videos/clyqle52l9po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 15:53:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Australians value batteries and EVs, but renewables industry must earn trust of regions, summit told",
       "description": "&lt;p&gt;Clean Energy Council calls for a national, legislated scheme to funnel benefits of hosting renewables projects back to local councils&lt;/p&g...",
@@ -20,16 +47,7 @@
       "image": "https://i.guim.co.uk/img/media/957696d3f801898f87231295e9ea93a5745bee30/300_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0bf9cbe3acd1cb91c2cb8039b1b5224a"
     },
     {
-      "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – Europe live",
-      "description": "&lt;p&gt;Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 4...",
-      "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-      "pubDate": "Wed, 29 Jul 2026 14:56:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e2af04a787db17b71c6f95e1a67d57cc2baa2133/3069_933_6849_5478/master/6849.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d58b173216d81a85251d760746c5d46"
-    },
-    {
-      "title": "More than half of England officially in drought, Environment Agency says",
+      "title": "More than half of England in drought, Environment Agency declares",
       "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature....",
       "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 14:37:30 GMT",
@@ -38,7 +56,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "More than half of England officially in drought, Environment Agency says",
+      "title": "More than half of England in drought, Environment Agency declares",
       "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature....",
       "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 14:37:30 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The EU might weaken its landmark climate law — the &#8216;most impactful&#8217; in the world",
-      "description": "Lawmakers in Europe have proposed rolling back the bloc's cap-and-trade program, long considered the gold standard for reducing companies' carbon emis...",
-      "link": "https://grist.org/international/the-eu-might-weaken-its-landmark-climate-law-the-most-impactful-in-the-world/",
-      "pubDate": "Wed, 29 Jul 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/04/Abigail-Spanberger.jpg"
-    },
-    {
-      "title": "Is it getting too hot for summer school?",
-      "description": "Scorching temperatures are testing the limits of programs meant to help students catch up academically....",
-      "link": "https://grist.org/extreme-heat/is-it-getting-too-hot-for-summer-school/",
-      "pubDate": "Wed, 29 Jul 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/k12-hot-summer-2.jpg"
     }
   ]
 }
