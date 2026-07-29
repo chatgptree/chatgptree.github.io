@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-07-29T06:39:28.345Z",
+  "lastUpdated": "2026-07-29T09:43:42.520Z",
   "articles": [
+    {
+      "title": "France and Spain brace for fresh heatwave as warnings issued over risk of new wildfires – Europe live",
+      "description": "&lt;p&gt;Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 4...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "pubDate": "Wed, 29 Jul 2026 09:23:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0c3982ab2901d73abc700ff7025b700d8e7ca6cb/620_0_6795_5438/master/6795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca63bb2351e75c449bb3b496d92e3fdc"
+    },
+    {
+      "title": "Mysterious deaths of elephants in Kenya prompts urgent inquiry",
+      "description": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades....",
+      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 09:06:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mysterious deaths of elephants in Kenya prompts urgent inquiry",
+      "description": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades....",
+      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 09:06:45 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As wildfires rage, the world is backsliding on climate action. This can’t go on | Bill McGuire",
+      "description": "&lt;p&gt;Five years ago, I wrote an open letter asking climate scientists to speak out against fossil fuels. Now governments are in retreat, it is sur...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels",
+      "pubDate": "Wed, 29 Jul 2026 09:00:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/61acc7867a76bd761c23f7c3fb39c928ab77a652/646_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e979ce88e935a58c22edcab7cddc97b6"
+    },
+    {
+      "title": "It’s official: Data centers are slowing America’s shift away from coal",
+      "description": "New federal data shows that AI demand helped push U.S. power sector emissions up last year....",
+      "link": "https://grist.org/energy/data-centers-electricity-power-coal-emissions-climate-report/",
+      "pubDate": "Wed, 29 Jul 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The EU might weaken its landmark climate law — the &#8216;most impactful&#8217; in the world",
+      "description": "Lawmakers in Europe have proposed rolling back the bloc's cap-and-trade program, long considered the gold standard for reducing companies' carbon emis...",
+      "link": "https://grist.org/international/the-eu-might-weaken-its-landmark-climate-law-the-most-impactful-in-the-world/",
+      "pubDate": "Wed, 29 Jul 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Abigail-Spanberger.jpg"
+    },
+    {
+      "title": "Is it getting too hot for summer school?",
+      "description": "Scorching temperatures are testing the limits of programs meant to help students catch up academically....",
+      "link": "https://grist.org/buildings/is-it-getting-too-hot-for-summer-school/",
+      "pubDate": "Wed, 29 Jul 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/k12-hot-summer-2.jpg"
+    },
+    {
+      "title": "China’s solar industry is losing money. The country is doubling down anyway.",
+      "description": "Brutal price wars among manufacturers have caused solar panel prices to plummet, making renewable energy cheaper than ever....",
+      "link": "https://grist.org/energy/chinas-solar-industry-is-losing-money-the-country-is-doubling-down-anyway/",
+      "pubDate": "Wed, 29 Jul 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/US-tech-coal-power-AI-data-center.jpg"
+    },
     {
       "title": "Ships stuck in strait of Hormuz pose ‘super-spreader’ biodiversity threat, scientists warn",
       "description": "&lt;p&gt;Biologists say cargo ships stranded in Gulf may carry highly potent invasive species around the world as trade resumes&lt;/p&gt;&lt;p&gt;The ...",
@@ -74,33 +146,6 @@
       "image": "https://i.guim.co.uk/img/media/093ab5d6d6af8e4ab9437412b7ef8d058d4cc6b4/0_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7868ace4e26e6f3de22a410ef7406c3"
     },
     {
-      "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
-      "description": "&lt;p&gt;Return of winds and extreme heat threaten firefighters’ attempts to bring blazes under control&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Nearly 4,...",
-      "link": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
-      "pubDate": "Tue, 28 Jul 2026 16:42:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8f5840296b81efc42138aebde15dd083f91663ee/461_0_4521_3618/master/4521.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61090d2b82b19dedf914e9109f3435d0"
-    },
-    {
-      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "description": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades....",
-      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 16:37:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "description": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades....",
-      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 16:37:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "What is Jodrell Bank Observatory and what does it do?",
       "description": "When Jodrell Bank Observatory was built, the site was seen as gamechanger for radio astronomy. ...",
       "link": "https://www.bbc.co.uk/news/articles/c07r1v98mpgo?at_medium=RSS&amp;at_campaign=rss",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/351505607e6a36d2cae6f7c4e4bf532ee512f920/298_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd0d4e6ea7f4ffea4aef7360d392ba85"
-    },
-    {
-      "title": "Are BuzzBallz actually recyclable?",
-      "description": "The company behind BuzzBallz said they were recyclable on its website, but experts say this is not true....",
-      "link": "https://www.bbc.co.uk/news/videos/cr7kz0g09zeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 10:45:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How to see July's full Buck Moon as it rises in the night sky",
-      "description": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday....",
-      "link": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 09:55:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How one man’s near-death experience led to the discovery of the first Jurassic sea dragon in Wales",
-      "description": "&lt;p&gt;Matthew Myerscough’s remarkable find is one of many detailed in his new book. But his journey into fossil hunting began years earlier, when h...",
-      "link": "https://www.theguardian.com/environment/2026/jul/28/matthew-myerscough-fossil-hunting-avalanche-discovery-sea-dragon-wales",
-      "pubDate": "Tue, 28 Jul 2026 09:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/87e54f6d9fd0b6d0c9a0f3fa1b5360f4cc04ff02/1023_0_6440_5152/master/6440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa1916169f19da7fbc1714816734d4c0"
-    },
-    {
-      "title": "Inside the ‘America First’ makeover of a global hunger program",
-      "description": "In remaking USAID’s Feed the Future Innovation Labs, the Trump administration is abandoning an agricultural research effort built to benefit the world...",
-      "link": "https://grist.org/food-and-agriculture/inside-america-first-makeover-of-usaid-global-hunger-program/",
-      "pubDate": "Tue, 28 Jul 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/20240315_120145-1.jpg"
-    },
-    {
-      "title": "Next stop for California&#8217;s high-speed rail: Finding private investors",
-      "description": "The state has a $25 million agreement with a consortium of companies to explore private financing opportunities. Not everyone is sure it will work....",
-      "link": "https://grist.org/transportation/next-stop-for-californias-high-speed-rail-finding-private-investors/",
-      "pubDate": "Tue, 28 Jul 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/california-high-speed-rail-trump-timeline-construction.jpeg"
     }
   ]
 }
