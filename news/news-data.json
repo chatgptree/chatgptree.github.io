@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-29T03:26:09.215Z",
+  "lastUpdated": "2026-07-29T06:39:28.345Z",
   "articles": [
+    {
+      "title": "Ships stuck in strait of Hormuz pose ‘super-spreader’ biodiversity threat, scientists warn",
+      "description": "&lt;p&gt;Biologists say cargo ships stranded in Gulf may carry highly potent invasive species around the world as trade resumes&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/biodiversity-superspreader-invasive-species-threat-ships-stuck-strait-hormuz-gulf",
+      "pubDate": "Wed, 29 Jul 2026 05:00:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d61fdd81090c720e245c50503d599ae82ef1c846/591_0_3053_2443/master/3053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4eace91b4be5457215af384597617157"
+    },
+    {
+      "title": "Organic eggs have worse impact on climate than eggs from caged chickens",
+      "description": "&lt;p&gt;Adopting organic free-range model in UK could lead to greenhouse emissions equivalent to 2,316,000 tonnes of CO2, study suggests&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/environment/2026/jul/29/organic-eggs-climate-caged-chickens-carbon-emissions-environment",
+      "pubDate": "Wed, 29 Jul 2026 04:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0c25bfbcb871f9d36a7669fb3dfe9b139246241c/0_706_2667_2133/master/2667.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb88d83c77cde8d69e8e0dfa054323e4"
+    },
+    {
+      "title": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
+      "description": "&lt;p&gt;Federal-state stoush comes as rating agency warns that electricity bills could skyrocket&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"ht...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
+      "pubDate": "Wed, 29 Jul 2026 03:19:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/44594205576f37ea0cc7dcddacaaf06eaaa42386/274_58_3185_2549/master/3185.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e42311e093b712ce92c7947f1daa948"
+    },
     {
       "title": "Neoen doubles size of Goyder Battery after signing two 15-year capacity contracts in South Australia",
       "description": "Neoen has been awarded two 15-year contracts in South Australia’s inaugural Firm Energy Reliability Mechanism tender The two 75 MW / 8-hour capacity s...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/09/california-high-speed-rail-trump-timeline-construction.jpeg"
-    },
-    {
-      "title": "Tackling the 'nasty' plant that can cause blisters and scars",
-      "description": "A conservation group says it has made progress tackling giant hogweed infestations in County Tyrone....",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 05:23:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Where is best to see the July Buck Moon?",
-      "description": "July's full moon is due on Wednesday, here's some of the best places to watch it where you live. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g4dmpn77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 05:16:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Gates smashed and crops destroyed as farmers threatened by gangs hunting hares",
-      "description": "Some barricade the entrances to their fields with concrete blocks and fallen trees....",
-      "link": "https://www.bbc.co.uk/news/articles/cwylk005dg7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 05:11:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
