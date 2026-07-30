@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-30T20:19:30.094Z",
+  "lastUpdated": "2026-07-30T22:13:38.826Z",
   "articles": [
+    {
+      "title": "India wants to join the strawberry superpowers",
+      "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change....",
+      "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 22:04:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "What if the Goldilocks zone is for idiots?...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/paris-heat-2026.jpg"
-    },
-    {
-      "title": "Stunning photos capture July's Buck Moon over the UK",
-      "description": "Skygazers captured brilliant photos of July's full Moon as it rose over the UK on Wednesday....",
-      "link": "https://www.bbc.co.uk/weather/articles/c9v4rpjld89o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 08:31:53 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
