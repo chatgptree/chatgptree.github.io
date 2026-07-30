@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-30T14:24:27.039Z",
+  "lastUpdated": "2026-07-30T16:41:53.074Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "What if the Goldilocks zone is for idiots?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct977y?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hosepipe bans in force as drought declared - is your area affected?",
+      "description": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall....",
+      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 14:50:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hosepipe bans in force as drought declared - is your area affected?",
+      "description": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall....",
+      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 14:50:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
       "description": "Wales is on course for its driest July on record in almost 190 years....",
@@ -30,7 +57,7 @@
     },
     {
       "title": "Holiday park evacuated as 90 firefighters tackle Suffolk heath wildfire",
-      "description": "&lt;p&gt;Major incident declared, Sizewell B power station closely monitoring blaze and RSPB nature reserve closed to visitors&lt;/p&gt;&lt;p&gt;A hol...",
+      "description": "&lt;p&gt;Major incident declared, Sizewell B power station closely monitoring blaze and RSPB nature reserve closed to visitors&lt;/p&gt;&lt;p&gt;Peopl...",
       "link": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
       "pubDate": "Thu, 30 Jul 2026 13:28:11 GMT",
       "sourceName": "theguardian.com",
@@ -74,7 +101,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
       "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya....",
       "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 30 Jul 2026 12:14:00 GMT",
@@ -83,7 +110,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
       "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya....",
       "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 30 Jul 2026 12:14:00 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Latest proposal to dump carbon pollution near Scott Reef sparks renewed scrutiny of offshore carbon storage",
-      "description": " Location: Scott Reef WA Image credit: Nush Freedman Photography The project area in Woodside’s revised Browse Carbon Capture and Storage (CCS) propos...",
-      "link": "https://econews.com.au/latest-proposal-to-dump-carbon-pollution-near-scott-reef-sparks-renewed-scrutiny-of-offshore-carbon-storage/",
-      "pubDate": "Thu, 30 Jul 2026 08:01:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/07/Image-credit-Nush-Freedman-Photography-Location-Scott-Reef-WA-15-1024x768.jpg"
-    },
-    {
-      "title": "Intrepid backs major Kenya reforestation project",
-      "description": "Credit: Intrepid Travel. Travellers will soon have the opportunity to help restore one of East Africa’s most important ecosystems as part of selected ...",
-      "link": "https://econews.com.au/intrepid-backs-major-kenya-reforestation-project/",
-      "pubDate": "Thu, 30 Jul 2026 08:01:50 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/Intrepid-logo.png"
-    },
-    {
-      "title": "Epson selected for inclusion in the FTSE4Good Index Series for the 23rd consecutive year",
-      "description": "Epson Experience Centre, Yennora, NSW Recognised for initiatives that contribute to social sustainability and corporate value Epson has been selected ...",
-      "link": "https://econews.com.au/epson-selected-for-inclusion-in-the-ftse4good-index-series-for-the-23rd-consecutive-year/",
-      "pubDate": "Thu, 30 Jul 2026 08:01:40 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/04/ChatGPT-Image-Apr-22-2026-05_49_55-PM-1024x341.png"
     }
   ]
 }
