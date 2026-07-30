@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-07-30T16:41:53.074Z",
+  "lastUpdated": "2026-07-30T18:23:10.089Z",
   "articles": [
+    {
+      "title": "Holiday park evacuated as 90 firefighters tackle Suffolk heath wildfire",
+      "description": "&lt;p&gt;Major incident declared, Sizewell B power station closely monitoring blaze and RSPB nature reserve closed to visitors&lt;/p&gt;&lt;p&gt;Hundr...",
+      "link": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
+      "pubDate": "Thu, 30 Jul 2026 18:08:00 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f3417f016360c683c341bc10cb94060ee818cb82/317_0_1406_1126/master/1406.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5711ea611db4ba9291ede8bdc0ea8c53"
+    },
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall....",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 17:55:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall....",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 17:55:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "What if the Goldilocks zone is for idiots?...",
@@ -54,15 +81,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Holiday park evacuated as 90 firefighters tackle Suffolk heath wildfire",
-      "description": "&lt;p&gt;Major incident declared, Sizewell B power station closely monitoring blaze and RSPB nature reserve closed to visitors&lt;/p&gt;&lt;p&gt;Peopl...",
-      "link": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
-      "pubDate": "Thu, 30 Jul 2026 13:28:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f3417f016360c683c341bc10cb94060ee818cb82/317_0_1406_1126/master/1406.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5711ea611db4ba9291ede8bdc0ea8c53"
     },
     {
       "title": "Europe burns: a visual guide to the wildfires",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "4 things to know about cyclospora and climate change",
-      "description": "A fragile food system, uneven public health messaging, and global warming are all working to supercharge the parasite’s spread....",
-      "link": "https://grist.org/accountability/4-things-to-know-about-cyclospora-and-climate-change/",
-      "pubDate": "Thu, 30 Jul 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/toilet-water-flush.jpg"
-    },
-    {
-      "title": "BioPak commits to planting almost 60,000 trees through partnership with veritree",
-      "description": "BioPak has today announced a new partnership with verified restoration platform veritree, committing to fund almost 60,000 verified trees over the nex...",
-      "link": "https://econews.com.au/biopak-commits-to-planting-almost-60000-trees-through-partnership-with-veritree/",
-      "pubDate": "Thu, 30 Jul 2026 08:01:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
