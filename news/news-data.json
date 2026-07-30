@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-29T23:04:21.040Z",
+  "lastUpdated": "2026-07-30T03:14:03.124Z",
   "articles": [
+    {
+      "title": "Bird flu has reached Victoria and more wildlife deaths loom. How bad could it get?",
+      "description": "&lt;p&gt;Authorities say local transmission of H5 bird flu virus among South Australian birds signals ‘shift in the situation’&lt;/p&gt;&lt;ul&gt;&lt;...",
+      "link": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
+      "pubDate": "Thu, 30 Jul 2026 01:07:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/62db495f6c2c3fa2445c3c6cf01fcb97c01f2374/0_0_3524_2819/master/3524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1638ae4bfd6c2db0d44c17d747eaafd7"
+    },
+    {
+      "title": "How the UK's extreme heat is shifting the conversation about air-con",
+      "description": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?\n...",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 23:33:01 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
       "description": "&lt;p&gt;Repeated heatwaves and strong winds alarm experts, who warn blazes are becoming harder to quell&lt;/p&gt;&lt;p&gt;Three Greek firefighters ha...",
@@ -45,15 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/110f391da0e3a62746765ab04432b6a5c206a0e5/234_0_2953_2362/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e332875a62061663062d906019cb569"
-    },
-    {
-      "title": "Bird flu is spreading locally and Australia faces more wildlife deaths. How bad could it get?",
-      "description": "&lt;p&gt;Authorities say local transmission of H5 bird flu virus among South Australian birds signals ‘shift in the situation’&lt;/p&gt;&lt;ul&gt;&lt;...",
-      "link": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
-      "pubDate": "Wed, 29 Jul 2026 15:00:35 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/957696d3f801898f87231295e9ea93a5745bee30/300_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0bf9cbe3acd1cb91c2cb8039b1b5224a"
     },
     {
       "title": "More than half of England in drought, Environment Agency declares",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/61acc7867a76bd761c23f7c3fb39c928ab77a652/646_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e979ce88e935a58c22edcab7cddc97b6"
-    },
-    {
-      "title": "It’s official: Data centers are slowing America’s shift away from coal",
-      "description": "New federal data shows that AI demand helped push U.S. power sector emissions up last year....",
-      "link": "https://grist.org/energy/data-centers-electricity-power-coal-emissions-climate-report/",
-      "pubDate": "Wed, 29 Jul 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
