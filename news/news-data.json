@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-07-31T10:47:34.938Z",
+  "lastUpdated": "2026-07-31T13:01:56.376Z",
   "articles": [
     {
-      "title": "Suffolk wildfire near Sizewell nuclear plant ‘stabilising’ after 24 hours",
-      "description": "&lt;p&gt;More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuations&lt;/p&gt;&lt;p&gt;Fire...",
+      "title": "Wildfire near Sizewell nuclear plant causes ‘total devastation’ to Suffolk landscape",
+      "description": "&lt;p&gt;More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuations&lt;/p&gt;&lt;p&gt;A wi...",
       "link": "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
-      "pubDate": "Fri, 31 Jul 2026 10:30:54 GMT",
+      "pubDate": "Fri, 31 Jul 2026 12:23:57 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6956a6080fa15bd3aece2d8e4c9d309d884bd0d4/196_0_2346_1877/master/2346.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa6ffdae360d389dec49a4174fe70d6c"
+    },
+    {
+      "title": "Huge great white spotted traveling up US and Canada as shark sightings surge",
+      "description": "&lt;p&gt;Contender, largest tagged male great white, heading north as overheating oceans alter range of several shark species&lt;/p&gt;&lt;p&gt;The la...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/31/great-white-shark-us-canada-coasts",
+      "pubDate": "Fri, 31 Jul 2026 12:00:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/218f277461b03c6288cf73acf3dedc25fa831e63/161_0_759_607/master/759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb2a16e25949116ff6f51e0470799a50"
     },
     {
       "title": "Week in wildlife: snub-nosed monkeys, amorous cobras and a milk-snatching fox",
@@ -69,6 +78,15 @@
       "description": "A study finds road traffic kills have an exaggerated impact on the viability of small groups....",
       "link": "https://www.bbc.co.uk/news/articles/cvgv6zg1rd3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 05:11:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Where to see the biggest solar eclipse since 1999",
+      "description": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely....",
+      "link": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 05:09:42 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -159,24 +177,6 @@
       "description": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall....",
       "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 30 Jul 2026 14:50:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
-      "description": "Wales is on course for its driest July on record in almost 190 years....",
-      "link": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 14:15:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
-      "description": "Wales is on course for its driest July on record in almost 190 years....",
-      "link": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 14:15:09 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
