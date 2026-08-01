@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-01T16:06:48.599Z",
+  "lastUpdated": "2026-08-01T18:04:24.561Z",
   "articles": [
+    {
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be....",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 17:51:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be....",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 17:51:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "How wildfire smoke is reshaping childhood",
       "description": "Smoky summers are becoming the new normal across the American West, forcing a generation of children to grow up indoors....",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/Eagle-Point-Tour-fk-4451-e1785196644656.jpg"
-    },
-    {
-      "title": "Hedgehog road deaths 'devastating' populations",
-      "description": "A study finds road traffic kills have an exaggerated impact on the viability of small groups....",
-      "link": "https://www.bbc.co.uk/news/articles/cvgv6zg1rd3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 05:11:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Where to see the biggest solar eclipse since 1999",
-      "description": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely....",
-      "link": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 05:09:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
