@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-02T04:29:21.834Z",
+  "lastUpdated": "2026-08-02T07:36:47.104Z",
   "articles": [
+    {
+      "title": "Beaver dams 'helping boost drought resilience'",
+      "description": "Research shows beavers are creating more wetland areas since being reintroduced to the wild....",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr7z150d7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 02 Aug 2026 06:07:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
+      "description": "&lt;p&gt;Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homes&lt;/p&gt;&lt;p&gt;The govern...",
+      "link": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
+      "pubDate": "Sun, 02 Aug 2026 06:00:14 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/01100570125b7be60fc504536dab5b9b022e2d24/383_0_6353_5083/master/6353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6001cdc509913fc555b54e5e288873c"
+    },
+    {
+      "title": "Injured peregrine reunion 'brought tears to eyes'",
+      "description": "The bird of prey was found injured on the ground but was nursed back to health over a month....",
+      "link": "https://www.bbc.co.uk/news/articles/cx257jdxw9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 02 Aug 2026 05:58:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hundreds of dead fish in river linked to heatwave",
+      "description": "The Environment Agency believes the fish were killed as a result of the heat and drain water....",
+      "link": "https://www.bbc.co.uk/news/articles/ckgd4d3280yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 02 Aug 2026 04:50:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Heatwave scorching western US ups risk of hazardous fire conditions",
       "description": "&lt;p&gt;In Oregon and Washington, low humidity and powerful winds have put officials on alert for wildfire spread&lt;/p&gt;&lt;p&gt;A heatwave scorch...",
@@ -101,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Turn failing water firms into not-for-profit cooperatives, MPs and mayors tell PM",
-      "description": "&lt;p&gt;Labour politicians say mutualised model puts public in control without adding debt to government’s balance sheet&lt;/p&gt;&lt;p&gt;MPs and ma...",
-      "link": "https://www.theguardian.com/business/2026/aug/01/turn-failing-water-firms-into-not-for-profit-cooperatives-mps-and-mayors-tell-pm",
-      "pubDate": "Sat, 01 Aug 2026 06:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e2fec3fc49323fe046277323fbf37ddcdbf15e2f/818_0_7500_6000/master/7500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2b86d6ec834750721f744ea2f3e41fd"
-    },
-    {
       "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
       "description": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum. ...",
       "link": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&amp;at_campaign=rss",
@@ -137,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/cf44e69a58dcf36953963a85109286a4c31f0a69/717_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f594a326cc29ff94254f6ef31cddde8"
     },
     {
-      "title": "Pine marten babies born on Exmoor for first time in 100 years",
-      "description": "Nine females and 10 males were introduced to the area by the Two Moors Pine Marten Project last year....",
-      "link": "https://www.bbc.co.uk/news/videos/c8xn5vwgn2ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 17:04:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "England and Wales on course for driest July on record",
       "description": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago....",
       "link": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/218f277461b03c6288cf73acf3dedc25fa831e63/161_0_759_607/master/759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb2a16e25949116ff6f51e0470799a50"
-    },
-    {
-      "title": "Week in wildlife: snub-nosed monkeys, amorous cobras and a milk-snatching fox",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/jul/31...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/jul/31/week-in-wildlife-photographs-world-monkeys-cobras-fox",
-      "pubDate": "Fri, 31 Jul 2026 09:13:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/91d0455608f255cdba2472ca898e1cd5f6717731/1261_1008_1471_1177/master/1471.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d5b2ad9d2ef013348e205168b4a2d90"
-    },
-    {
-      "title": "Here&#8217;s what supercharged the monster wildfires in Spain and France",
-      "description": "Last summer brought Europe's most destructive wildfire season on record. This season is on track to break it....",
-      "link": "https://grist.org/wildfires/study-monster-wildfires-spain-france-attribution/",
-      "pubDate": "Fri, 31 Jul 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/EU_Wildfires_Shelter_france.jpeg"
     }
   ]
 }
