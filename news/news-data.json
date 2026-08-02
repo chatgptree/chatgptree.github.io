@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-01T22:01:57.311Z",
+  "lastUpdated": "2026-08-02T00:03:29.134Z",
   "articles": [
+    {
+      "title": "Heatwave scorching western US ups risk of hazardous fire conditions",
+      "description": "&lt;p&gt;In Oregon and Washington, low humidity and powerful winds have put officials on alert for wildfire spread&lt;/p&gt;&lt;p&gt;A heatwave scorch...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/01/heatwave-us-west-hazardous-fire-conditions",
+      "pubDate": "Sat, 01 Aug 2026 23:39:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/babb4ab798bd9aff6b997708e13e6a10a0af5977/315_0_5040_4032/master/5040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8356a0d8fc0b1d4c67ab6d79dd5ff544"
+    },
     {
       "title": "The case for a blatantly discriminatory Australian voting system",
       "description": "&lt;p&gt;Older Australians are overrepresented in every sphere of life, from politics to the economy and media … and they’re living longer. It’s time ...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/07/EU_Wildfires_Shelter_france.jpeg"
-    },
-    {
-      "title": "Why rice crops could be in for a weird year",
-      "description": "Researchers explain how El Niño and global warming are combining to create \"the haves and the have-nots.\" ...",
-      "link": "https://grist.org/extreme-weather/why-rice-crops-could-be-in-for-a-weird-year/",
-      "pubDate": "Fri, 31 Jul 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/GettyImages-2131313142.jpg"
     }
   ]
 }
