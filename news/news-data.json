@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-05T21:19:53.145Z",
+  "lastUpdated": "2026-08-05T23:09:30.340Z",
   "articles": [
+    {
+      "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "description": "&lt;p&gt;The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+      "pubDate": "Wed, 05 Aug 2026 22:16:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7382959e05950456eeaf08482f2f9d66c2ac2d81/0_53_750_600/master/750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bf6315c4b95ffc0d048db1521a8bea4"
+    },
+    {
+      "title": "Marmots facing money troubles turn to OnlyFans",
+      "description": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts....",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 21:56:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why haven't we seen images of SpaceX Moon crash yet?",
       "description": "A rocket is believed to have crashed into the Moon, forming a new crater - but why haven't images been released yet?...",
@@ -21,7 +39,7 @@
     },
     {
       "title": "Adapting to global heating: which UK public services are struggling in hot weather?",
-      "description": "&lt;p&gt;As NHS told to prepare for extreme weather, strain also felt in other areas including transport and farming&lt;/p&gt;&lt;p&gt;&lt;a href=\"htt...",
+      "description": "&lt;p&gt;As NHS told to prepare for extreme weather, strain also felt in other areas including transport and farming&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
       "link": "https://www.theguardian.com/environment/2026/aug/05/global-heating-public-services-struggling-heatwaves",
       "pubDate": "Wed, 05 Aug 2026 20:00:27 GMT",
       "sourceName": "theguardian.com",
@@ -83,7 +101,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "‘Parkinson’s Valley’: the herbicide haunting a New York farm town",
+      "title": "The herbicide haunting a New York farm town",
       "description": "&lt;p&gt;Paraquat is banned in over 70 countries. Some farmers and their families in Hebron believe the pesticide is causing Parkinson’s disease and a...",
       "link": "https://www.theguardian.com/environment/2026/aug/05/herbicide-paraquat-new-york-parkinsons",
       "pubDate": "Wed, 05 Aug 2026 13:00:19 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2203452284.jpg"
-    },
-    {
-      "title": "The ‘Cockroach Lord’ who names new species after Tolkien and Pokémon characters",
-      "description": "&lt;p&gt;Cristian Lucañas has discovered multiple species of cockroach in the Philippines, and believes there’s far more to the much-maligned insect t...",
-      "link": "https://www.theguardian.com/environment/2026/aug/05/cockroach-lord-cristian-lucanas-new-species-tolkien-pokemon-aoe",
-      "pubDate": "Wed, 05 Aug 2026 08:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7ddcf9d061e869bc5401d1c93db7abb936b02568/648_0_3776_3023/master/3776.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e15448b17b6c900f6a12cfceebaa974"
-    },
-    {
-      "title": "Built on their own terms. Now Into The Wild Escapes is ready to scale.",
-      "description": "Australia’s largest home-grown off-grid eco-accommodation operator appoints former Tourism Australia CEO Andrew McEvoy as incoming Chairman to assist ...",
-      "link": "https://econews.com.au/built-on-their-own-terms-now-into-the-wild-escapes-is-ready-to-scale/",
-      "pubDate": "Wed, 05 Aug 2026 05:02:29 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/08/Unique-Landscapes.jpg"
     }
   ]
 }
