@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-08-06T06:38:46.172Z",
+  "lastUpdated": "2026-08-06T09:44:48.026Z",
   "articles": [
+    {
+      "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
+      "description": "&lt;p&gt;Current blazes roaring across country more than twice as likely to occur because of fossil fuel-driven global heating&lt;/p&gt;&lt;p&gt;The h...",
+      "link": "https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis",
+      "pubDate": "Thu, 06 Aug 2026 09:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/decfd34774f47ac10b4fcd8912fd54d7e06a7a0d/507_0_5486_4389/master/5486.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89dcaac6d5db1e31676bd76bc6339aed"
+    },
+    {
+      "title": "Inside the nearly 5-month labor lockout at an Indiana refinery",
+      "description": "BP has locked out about 800 refinery workers in Whiting without pay for months. The hardline tactic is raising fears about the future of union power. ...",
+      "link": "https://grist.org/labor/inside-the-nearly-5-month-labor-lockout-at-an-indiana-refinery/",
+      "pubDate": "Thu, 06 Aug 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/AP26068685981043.jpg"
+    },
+    {
+      "title": "In a first, Utah got more power from solar than any other source",
+      "description": "The state used to run on coal, but now renewables are surging....",
+      "link": "https://grist.org/energy/utah-solar-power-coal-generation/",
+      "pubDate": "Thu, 06 Aug 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/Offshorewindfarm-1.jpg"
+    },
+    {
+      "title": "Scorching summers and heatwaves linked to poorer mental health in children",
+      "description": "Associate Professor Jacqueline Stephens As record-breaking heat grips communities worldwide and Australia prepares for an intense El Niño summer, new ...",
+      "link": "https://econews.com.au/scorching-summers-and-heatwaves-linked-to-poorer-mental-health-in-children/",
+      "pubDate": "Thu, 06 Aug 2026 08:02:38 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/03/Professor-Corey-Bradshaw-Flinders-University-1024x683.jpg"
+    },
+    {
+      "title": "The whole world’s singing about the Eastern Rosella… here’s where to see them (and their cheeky cousin!)",
+      "description": "Scenic Rim Viral bird song shines spotlight on one of the Scenic Rim’s most colourful locals (and it’s cousin) Look at their beautiful colours ……. One...",
+      "link": "https://econews.com.au/the-whole-worlds-singing-about-the-eastern-rosella-heres-where-to-see-them-and-their-cheeky-cousin/",
+      "pubDate": "Thu, 06 Aug 2026 07:01:48 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/08/Feeding-the-Wild-Birds-at-OReillys-2-photo-Drawn-with-Light-683x1024.jpg"
+    },
+    {
+      "title": "Butterflies worldwide are on the move as the climate warms",
+      "description": "Junonia villida, image credit Dr Shawan Chowdhury Monash University Monash?led research has revealed that one in ten butterfly species globally has sh...",
+      "link": "https://econews.com.au/butterflies-worldwide-are-on-the-move-as-the-climate-warms/",
+      "pubDate": "Thu, 06 Aug 2026 07:01:48 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
+    },
+    {
+      "title": "EV Surge Continues: Battery Electric Sales More Than Triple Year-on-Year",
+      "description": "Electric Vehicle Council CEO Julie Delvecchio Electric Vehicle Council Almost one in three new passenger, SUV and light-commercial vehicles sold in Au...",
+      "link": "https://econews.com.au/ev-surge-continues-battery-electric-sales-more-than-triple-year-on-year/",
+      "pubDate": "Thu, 06 Aug 2026 07:01:47 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/08/unnamed-2026-08-06T164548.063.jpg"
+    },
+    {
+      "title": "New research challenges long-held belief that dodos were ‘bird brains’",
+      "description": "(courtesy University of Lethbridge) The Mauritian dodo – a global symbol of human-caused extinction, and one of the world’s largest pigeons – may not ...",
+      "link": "https://econews.com.au/new-research-challenges-long-held-belief-that-dodos-were-bird-brains/",
+      "pubDate": "Thu, 06 Aug 2026 07:01:43 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Flinders-Uni-logo.png"
+    },
     {
       "title": "Winner of Florida python hunting contest nabs 96 snakes: ‘I was on a mission’",
       "description": "&lt;p&gt;Burmese pythons are an invasive species in the Everglades, and the challenge is part of initiative to remove them&lt;/p&gt;&lt;p&gt;The winne...",
@@ -108,78 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The herbicide haunting a New York farm town",
-      "description": "&lt;p&gt;Paraquat is banned in over 70 countries. Some farmers and their families in Hebron believe the pesticide is causing Parkinson’s disease and a...",
-      "link": "https://www.theguardian.com/environment/2026/aug/05/herbicide-paraquat-new-york-parkinsons",
-      "pubDate": "Wed, 05 Aug 2026 13:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7350f204af7f3cc392fac39d7666655034ebf41f/1833_1286_3394_2714/master/3394.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03a1219aa141e56a2cf64f0fda429ce0"
-    },
-    {
-      "title": "Farm to become 'beacon of hope' nature reserve",
-      "description": "Avon Wildlife Trust says it will transform the 44-acre farm into a haven for birds, bats and newts....",
-      "link": "https://www.bbc.co.uk/news/articles/cpd76vep8yqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 12:12:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Italy to place all 27 of its major cities on highest heat alert",
-      "description": "&lt;p&gt;Move comes as fourth heatwave of summer intensifies, edging temperatures in some areas close to 40C&lt;/p&gt;&lt;p&gt;Italy is to place all o...",
-      "link": "https://www.theguardian.com/environment/2026/aug/05/italy-heatwave-major-cities-highest-heat-alert",
-      "pubDate": "Wed, 05 Aug 2026 12:01:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ca2df5bc6dab7aaf8f40f0b63265b42f82b19486/72_0_4185_3348/master/4185.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=423cb4f27f2e899917021ca26bb863fa"
-    },
-    {
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-      "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missio...",
-      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 11:19:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Peat burning underground sparks heathland flare-up",
-      "description": "The small fire on Tuesday comes nearly two weeks after the heathland fire that burned for five days....",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxk3wp9r5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 10:02:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘What they’re doing qualifies as torture’: new details of ICE force-feeding revealed",
-      "description": "&lt;p&gt;Exclusive: cases of Afghan man, Ukrainian man and Saudi woman show repeated nasogastric tube insertions and lack of legal representation&lt;/...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike",
-      "pubDate": "Wed, 05 Aug 2026 10:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f223198fc1fffa3800bf14ac4d1896e1a462b208/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1cf05983a73334ce03db181f73fd123"
-    },
-    {
-      "title": "Michigan winemakers have a new climate worry: More wildfire smoke",
-      "description": "While “smoke taint” from last month’s hazy skies isn’t an immediate threat, grape growers say it comes on the heels of a growing season already fraugh...",
-      "link": "https://grist.org/food-and-agriculture/michigan-winemakers-have-a-new-climate-worry-more-wildfire-smoke/",
-      "pubDate": "Wed, 05 Aug 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/wine-grapes-small.jpeg"
-    },
-    {
-      "title": "Wildfire season is changing. Spokane is showing how.",
-      "description": "As climate change primes the Pacific Northwest to burn, hundreds in Washington state's second-biggest city have lost their homes....",
-      "link": "https://grist.org/wildfires/wildfire-season-spokane-washington-state-climate/",
-      "pubDate": "Wed, 05 Aug 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/Getty_Spokane_Wildfires_2026.jpeg"
     }
   ]
 }
