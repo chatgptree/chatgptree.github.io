@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T00:09:32.527Z",
+  "lastUpdated": "2026-08-07T03:54:56.478Z",
   "articles": [
     {
       "title": "Where is Jackie? Beloved live cam eagle in critical condition",
@@ -36,6 +36,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Accused arsonist studied how to maximize Washington wildfire’s harm, police say",
+      "description": "&lt;p&gt;Court documents allege Aaron Farinacci, who faces slew of arson charges, set 25 fires in Spokane area over past year&lt;/p&gt;&lt;p&gt;The 37...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires",
+      "pubDate": "Thu, 06 Aug 2026 21:24:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c20090b44ee93c8ff010d965b90cd16f3e315ac9/615_0_5311_4253/master/5311.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e8fb172b38e06a00244cc51165ab944"
     },
     {
       "title": "Wildfire-ravaged habitats could take centuries to recover, environmentalists say",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b9c354c400ae5065da5d58eda5f27023926c9c0f/31_0_7738_6192/master/7738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3c3070f5406401e0a61baf20126e15f"
-    },
-    {
-      "title": "All bodies of water in England polluted with toxic chemicals, official data shows",
-      "description": "&lt;p&gt;Environment Agency assessments find just 14.3% of country’s surface waters in good ecological status&lt;/p&gt;&lt;p&gt;Every single English w...",
-      "link": "https://www.theguardian.com/environment/2026/aug/06/all-bodies-of-water-england-polluted-toxic-chemicals",
-      "pubDate": "Thu, 06 Aug 2026 10:03:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bd79f3f4f65f9629cca45d9068ba5888f708d3aa/561_0_2750_2200/master/2750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6cef6cdb534f04e50c81aa1ef4b8c0fc"
     }
   ]
 }
