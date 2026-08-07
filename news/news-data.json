@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-07T07:35:32.993Z",
+  "lastUpdated": "2026-08-07T09:08:36.847Z",
   "articles": [
+    {
+      "title": "In Montana, a controversial $2B pipeline hits a speed bump",
+      "description": "After an environmental group filed a complaint on behalf of two Montana residents, state regulators rescinded a crucial waiver....",
+      "link": "https://grist.org/energy/in-montana-controversial-pipeline-hits-a-speed-bump/",
+      "pubDate": "Fri, 07 Aug 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/05/keystone-pipeline-canada-wyoming.jpg"
+    },
+    {
+      "title": "Europe’s dry riverbeds and scorched earth – in pictures",
+      "description": "&lt;p&gt;Much of the continent is battling wildfires and drought during a summer of extreme heat&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/wor...",
+      "link": "https://www.theguardian.com/world/gallery/2026/aug/07/europe-dry-riverbeds-scorched-earth-hot-weather-in-pictures",
+      "pubDate": "Fri, 07 Aug 2026 07:31:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8c22881b621b7a0895dbb77c3d55821f692f07eb/1304_4_2167_1734/master/2167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62f32deb5a6308fa7b2cbbd3415e84f8"
+    },
     {
       "title": "Amazon and the Australian River Restoration Centre collaborate to restore waterways that supply Greater Sydney’s drinking water",
       "description": "Ten-year project will tackle invasive willows, erosion and livestock pollution along the Coxs River, with the aim of returning nearly 400 million litr...",
@@ -9,15 +27,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/08/335051214_4096-640x1024.jpg"
-    },
-    {
-      "title": "Europe’s dry riverbeds and scorched earth – in pictures",
-      "description": "&lt;p&gt;Europe continues to struggle with the effects of extreme hot weather that has caused wildfires and droughts across the continent&lt;/p&gt; &l...",
-      "link": "https://www.theguardian.com/world/gallery/2026/aug/07/europe-dry-riverbeds-scorched-earth-hot-weather-in-pictures",
-      "pubDate": "Fri, 07 Aug 2026 06:31:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8c22881b621b7a0895dbb77c3d55821f692f07eb/1304_4_2167_1734/master/2167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62f32deb5a6308fa7b2cbbd3415e84f8"
     },
     {
       "title": "‘Waste colonialism’ – the Turkish city carrying the weight of Britain’s pollution problem",
@@ -71,7 +80,7 @@
       "pubDate": "Fri, 07 Aug 2026 05:00:08 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/2cae9ec1b237745ffc31ede73867c9b785d456f0/691_0_3999_3201/master/3999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf6f791ec7328f4b21850923ae17a67b"
+      "image": "https://i.guim.co.uk/img/media/2ebedaa8c75a1b13e758228615da2c9adc8d2a3e/536_0_6000_4800/master/6000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e7ec00e53a60031812ca6ed230e8c69"
     },
     {
       "title": "July’s heatwaves kept UK shoppers away from high street",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8a92dfdd60bcefdb07b96d3b5d964ab1ccf31f39/123_0_3417_2735/master/3417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5aaef1ab71151326536b61c3ef944d6f"
-    },
-    {
-      "title": "Your gas car works fine. Consider an EV anyway, scientists say.",
-      "description": "New research suggests that swapping your internal combustion engine for an EV is almost always the greener choice....",
-      "link": "https://grist.org/solutions/your-gas-car-works-fine-consider-an-ev-anyway-scientists-say/",
-      "pubDate": "Thu, 06 Aug 2026 18:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
