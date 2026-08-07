@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-07T15:00:50.207Z",
+  "lastUpdated": "2026-08-07T16:59:41.587Z",
   "articles": [
+    {
+      "title": "Is this the best day of the year for stargazing?",
+      "description": "Put 12 August in the diary for some of the best astronomical events of the year....",
+      "link": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 15:30:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Is this the best day of the year for stargazing?",
+      "description": "Put 12 August in the diary for some of the best astronomical events of the year....",
+      "link": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 15:30:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Is the promise of AI living up to the hype? | Fiona Katauskas",
+      "description": "&lt;p&gt;It’s certainly increasing its output&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;See more of &lt;/strong&gt;&lt;a href=\"https://www.t...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/08/is-the-promise-of-ai-living-up-to-the-hype",
+      "pubDate": "Fri, 07 Aug 2026 15:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/443da3c599bca94fe563877590f73a038cab574d/0_0_1181_945/master/1181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7eca102c534f0ab793d16caa42119244"
+    },
     {
       "title": "Capybaras caught roaming government building in Brazil – video",
       "description": "&lt;p&gt;Footage captured by a civil servant shows capybaras calmly roaming the entrance hall of the legislative assembly building in Mato Grosso, Bra...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f723c3dccf57cc0e1b225e14974913072b604d38/5_0_6587_5272/master/6587.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4504c15520d50add003e1a4efb985f78"
-    },
-    {
-      "title": "Where is Jackie? Beloved live cam eagle in critical condition",
-      "description": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anaemia....",
-      "link": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 22:31:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Where is Jackie? Beloved live cam eagle in critical condition",
-      "description": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anaemia....",
-      "link": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 22:31:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
-      "description": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station....",
-      "link": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 21:49:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
