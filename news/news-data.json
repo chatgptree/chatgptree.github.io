@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-08T11:35:35.441Z",
+  "lastUpdated": "2026-08-08T13:04:10.586Z",
   "articles": [
+    {
+      "title": "Trump is blocking billions of dollars of grants that would fix the grid",
+      "description": "The Department of Energy has canceled or stalled funding for thousands of projects that would improve the country’s stressed grid — and not just in bl...",
+      "link": "https://grist.org/energy/trump-is-blocking-billions-of-dollars-of-grants-that-would-fix-the-grid/",
+      "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/GasPump.jpg"
+    },
+    {
+      "title": "Couple turning inherited farm into nature site",
+      "description": "The farm in Cockermouth is undergoing a 30-year project to boost wildlife there....",
+      "link": "https://www.bbc.co.uk/news/articles/czrj11rk46do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 11:47:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The ornithological artist drawing 1,000 birds by hand – all for an app that wants you off your phone",
       "description": "&lt;p&gt;The mission of the Flock app is quietly subversive: to encourage users to ditch their screens and explore the wonderful world of birding&lt;/...",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "description": "&lt;p&gt;Unexploded ordnance and a military motorcycle also recovered owing to record heat and drought conditions&lt;/p&gt;&lt;p&gt;Record-low water l...",
+      "description": "&lt;p&gt;Unexploded ordnance and a military motorcycle also recovered following record heat and drought conditions&lt;/p&gt;&lt;p&gt;Record-low water ...",
       "link": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
       "pubDate": "Sat, 08 Aug 2026 10:55:15 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/17917bcdad358873715a9cf4c668fab46c49f133/0_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f798703c4c4294f24233f97d7a9638b"
-    },
-    {
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump....",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump....",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
