@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-08T05:48:26.294Z",
+  "lastUpdated": "2026-08-08T07:04:59.829Z",
   "articles": [
+    {
+      "title": "What can we see during the partial solar eclipse?",
+      "description": "Ways to safely enjoy the partial solar eclipse on Wednesday evening....",
+      "link": "https://www.bbc.co.uk/news/articles/c86n5w392xjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 06:26:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What you need to know about the solar eclipse over Yorkshire",
+      "description": "Yorkshire residents have a rare chance to see the best view of a solar eclipse since 1999 next week....",
+      "link": "https://www.bbc.co.uk/news/articles/c980913yep8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 06:12:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How can landscape recover after devastating fires?",
+      "description": "Conservationists are working to restore wildlife after recent wildfires devastated habitats....",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv2wd7e66o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 06:06:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Greenland issues ‘strong warning’ as Trump-linked oil firm prepares to drill",
       "description": "&lt;p&gt;Island’s government says no approval given after Greenland Energy brings kit ashore for exploratory drilling&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/af87ec6bdff3b602538e870d4cbbffb5ef56f3db/149_0_3953_3165/master/3953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa13c554f719f9899dd6b1d48bfe349c"
-    },
-    {
-      "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-      "description": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 05:15:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-      "description": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 05:15:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-      "description": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 05:15:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
