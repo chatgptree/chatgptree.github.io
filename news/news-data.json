@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-08T14:38:42.857Z",
+  "lastUpdated": "2026-08-08T15:36:34.422Z",
   "articles": [
+    {
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island....",
+      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 15:15:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump is blocking billions of dollars of grants that would fix the grid",
       "description": "The Department of Energy has canceled or stalled funding for thousands of projects that would improve the country’s stressed grid — and not just in bl...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/443da3c599bca94fe563877590f73a038cab574d/0_0_1181_945/master/1181.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7eca102c534f0ab793d16caa42119244"
-    },
-    {
-      "title": "Capybaras caught roaming government building in Brazil – video",
-      "description": "&lt;p&gt;Footage captured by a civil servant shows capybaras calmly roaming the entrance hall of the legislative assembly building in Mato Grosso, Bra...",
-      "link": "https://www.theguardian.com/world/video/2026/aug/07/capybaras-caught-roaming-government-building-in-brazil-video",
-      "pubDate": "Fri, 07 Aug 2026 14:32:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/17917bcdad358873715a9cf4c668fab46c49f133/0_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f798703c4c4294f24233f97d7a9638b"
     }
   ]
 }
