@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-09T11:36:46.945Z",
+  "lastUpdated": "2026-08-09T13:06:51.467Z",
   "articles": [
+    {
+      "title": "Avoid rare species and only take what you need: how to forage and save money on your food shopping",
+      "description": "&lt;p&gt;While there are fears that people harvesting their food could put pressure on habitats, some ecologists suggest responsible foraging can boos...",
+      "link": "https://www.theguardian.com/environment/2026/aug/09/foraging-food-conservation-biodiversity-aoe",
+      "pubDate": "Sun, 09 Aug 2026 13:00:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/513f4eedfd54a884f79d8ae2b58598561001cd7a/125_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c661f4ec23e2bad3ba9d873d74302cf"
+    },
+    {
+      "title": "In rural communities, fears amplified by ‘AI slop’ and social media hamper solar boom",
+      "description": "Solar panel misinformation, spread by bots and by neighbors, derailed a project in Cajun Country that promised millions in local tax revenue. The same...",
+      "link": "https://grist.org/energy/in-rural-communities-fears-amplified-by-ai-slop-and-social-media-hamper-solar-boom/",
+      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/Solar-Misinformation-TN-post-1.png"
+    },
     {
       "title": "Longest serving volunteer helps boost bird numbers",
       "description": "Bird charity's longest serving volunteer helps achieve big success in boosting species recovery....",
@@ -11,8 +29,8 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "What are datacentres doing to the places we love? In Slough, I found a bleak answer | John Harris",
-      "description": "&lt;p&gt;Whitehall wants to triple the UK’s number of datacentres – but demand for electricity and water means that could be at the expense of new hom...",
+      "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
+      "description": "&lt;p&gt;Whitehall wants to triple their number in the UK. Yet in Slough, I saw the impact they’re having on communities&lt;/p&gt;&lt;p&gt;Amid headli...",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
       "pubDate": "Sun, 09 Aug 2026 11:03:18 GMT",
       "sourceName": "theguardian.com",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The ornithological artist drawing 1,000 birds by hand – all for an app that wants you off your phone",
-      "description": "&lt;p&gt;The mission of the Flock app is quietly subversive: to encourage users to ditch their screens and explore the wonderful world of birding&lt;/...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/08/birds-artist-flock-app-california",
-      "pubDate": "Sat, 08 Aug 2026 11:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e2521b1b9d25f57a0371e5891a24da3ed4d6547a/417_0_2083_1668/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=762c5c6ae0acd5467a8184fdd98f3993"
-    },
-    {
-      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "description": "&lt;p&gt;Unexploded ordnance and a military motorcycle also recovered following record heat and drought conditions&lt;/p&gt;&lt;p&gt;Record-low water ...",
-      "link": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
-      "pubDate": "Sat, 08 Aug 2026 10:55:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8027c1fdddf706a9e01ebcddb107c82840683794/264_0_2638_2111/master/2638.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=109c582d253efd2bd5c417eb72fb8c66"
     }
   ]
 }
