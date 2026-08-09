@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-09T22:39:04.706Z",
+  "lastUpdated": "2026-08-09T23:38:14.018Z",
   "articles": [
+    {
+      "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+      "description": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes...",
+      "link": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 23:02:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
       "description": "&lt;p&gt;British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts&lt;/p&gt;&lt;p&gt;Canada’...",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
-      "description": "&lt;p&gt;Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027&lt;/p&gt;&lt;p&gt;&lt...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
-      "pubDate": "Sat, 08 Aug 2026 19:21:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d541f1c7d8389bb77ee6878e84d649bbab674a95/366_0_3257_2606/master/3257.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15dc9533fdf4898dc74f1adc07fd0126"
     }
   ]
 }
