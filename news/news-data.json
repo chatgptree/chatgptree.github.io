@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-09T15:38:47.455Z",
+  "lastUpdated": "2026-08-09T16:45:15.176Z",
   "articles": [
     {
+      "title": "The Guardian view on India’s green growth gamble: it will need more than private finance | Editorial",
+      "description": "&lt;p&gt;The world’s most populous country needs state-generated demand to industrialise, decarbonise and avoid China’s overcapacity trap&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/09/the-guardian-view-on-indias-green-growth-gamble-it-will-need-more-than-private-finance",
+      "pubDate": "Sun, 09 Aug 2026 16:25:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7e8c336d3145b22d62951c7cdae13462e37cd554/421_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73da9fbbc3d38e9e999f6a2d7ae4be8d"
+    },
+    {
       "title": "How clean air clubs are protecting Americans from wildfire smoke",
-      "description": "&lt;p&gt;Mutual aid groups that gave out PPEs in Covid are now loaning air purifiers and distributing masks to fume-addled communities&lt;/p&gt;&lt;p&...",
+      "description": "&lt;p&gt;Mutual aid groups that started giving out PPEs during Covid are now loaning air purifiers and distributing masks to fume-addled communities&l...",
       "link": "https://www.theguardian.com/us-news/2026/aug/09/us-wildfire-smoke-clean-air-clubs",
       "pubDate": "Sun, 09 Aug 2026 15:00:20 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump is blocking billions of dollars of grants that would fix the grid",
-      "description": "The Department of Energy has canceled or stalled funding for thousands of projects that would improve the country’s stressed grid — and not just in bl...",
-      "link": "https://grist.org/energy/trump-is-blocking-billions-of-dollars-of-grants-that-would-fix-the-grid/",
-      "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/GasPump.jpg"
     }
   ]
 }
