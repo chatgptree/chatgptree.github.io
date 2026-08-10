@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-10T19:06:51.440Z",
+  "lastUpdated": "2026-08-10T20:53:01.049Z",
   "articles": [
+    {
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region....",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 19:17:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘National priority’ to equip UK firefighters amid growing wildfire threat",
+      "description": "&lt;p&gt;Exclusive: FBU calls for more funding as ‘unprecedented summer’ puts rising demands on already stretched crews&lt;/p&gt;&lt;p&gt;Firefighters...",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/10/firefighters-fbu-wildfires-drought-heatwave-weather",
+      "pubDate": "Mon, 10 Aug 2026 19:16:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/df63443c253953fb43a27a56f0ab083719d6ca6c/697_0_6973_5584/master/6973.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3106b8e14439b91a592a01165f2ba622"
+    },
     {
       "title": "Blaze tackled at suspected illegal waste dump",
       "description": "A fire broke out at a suspected illegal waste site near Carrington Spur in Trafford, Greater Manchester. ...",
@@ -45,15 +63,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a0d352fe99ca7c1a5f85a048feb1f6a09faa777e/17_0_4125_3298/master/4125.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ee24b1825c74e5d2a7f34e792d6a312"
-    },
-    {
-      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "description": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 16:10:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "When and where to see the solar eclipse in Scotland",
@@ -137,7 +146,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "An ambitious new project in Florida is giving marine scientists hope: ‘I just see so much potential’",
+      "title": "Can Florida’s ‘coastal corridor’ project safeguard wildlife and boost economy?",
       "description": "&lt;p&gt;Conservationists have created a ‘coastal corridor’ of ocean-based projects designed to preserve and nourish vulnerable marine life&lt;/p&gt;&...",
       "link": "https://www.theguardian.com/us-news/2026/aug/10/florida-coastal-corridor-marine-life",
       "pubDate": "Mon, 10 Aug 2026 12:00:44 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/037f4d7f9ef4b98aaee58703cb710bee19f08e66/572_0_7143_5714/master/7143.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96b6019c03b9a0050c08796fed40d745"
-    },
-    {
-      "title": "World's oceans hit record-high July temperatures",
-      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe....",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
