@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-08-10T22:47:50.766Z",
+  "lastUpdated": "2026-08-10T23:41:53.666Z",
   "articles": [
     {
-      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
-      "description": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 22:40:23 GMT",
+      "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
+      "description": "Michael Sheen investigates claims cancer-causing chemicals were dumped across Wales....",
+      "link": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 23:25:12 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
+      "description": "Michael Sheen investigates claims cancer-causing chemicals were dumped across Wales....",
+      "link": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 23:25:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Jackie, a beloved bald eagle and livestream star, dies of mysterious illness",
+      "description": "&lt;p&gt;Thousands mourn the death of the eagle at California’s Big Bear Lake, whose life was closely followed via livestream&lt;/p&gt;&lt;p&gt;Jackie...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/10/jackie-bald-eagle-california-dead",
+      "pubDate": "Mon, 10 Aug 2026 23:05:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/00820ddb69367f0dbd801de7fc06daec8a58a81b/45_0_909_727/master/909.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27ff836a6b88d3bc6c4628e81602065f"
     },
     {
       "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
@@ -20,7 +38,16 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Nearly 30 pine trees intentionally poisoned in Lake Tahoe’s Nevada side",
+      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "description": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 22:40:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nevada authorities investigate dozens of mysterious tree poisonings in Lake Tahoe",
       "description": "&lt;p&gt;Incidents of damaged trees at Burnt Cedar beach have been reported since 2022 and seem to be linked, officials say&lt;/p&gt;&lt;p&gt;Pine tre...",
       "link": "https://www.theguardian.com/us-news/2026/aug/10/pine-trees-poisoned-lake-tahoe-nevada",
       "pubDate": "Mon, 10 Aug 2026 21:08:14 GMT",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "SpaceX plan for vast rocket launch site on Louisiana coast sparks backlash",
-      "description": "&lt;p&gt;Opponents fear Elon Musk firm’s plan to develop 18-mile strip of Pecan Island will badly damage fragile ecosystem&lt;/p&gt;&lt;p&gt;Plans by ...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
-      "pubDate": "Mon, 10 Aug 2026 14:00:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/58c056e12bbaf2801bc31a533a728ff6019d14d4/574_0_5744_4596/master/5744.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a210cfe61e576a760f39463f4e194f5b"
-    },
-    {
-      "title": "Solar eclipse: Where and when you can see it across North West England",
-      "description": "The partial eclipse is expected to be the most extensive since 1999, astronomers say....",
-      "link": "https://www.bbc.co.uk/news/articles/cx256nwl7lxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 13:41:26 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Can Florida’s ‘coastal corridor’ project safeguard wildlife and boost economy?",
-      "description": "&lt;p&gt;Conservationists have created a ‘coastal corridor’ of ocean-based projects designed to preserve and nourish vulnerable marine life&lt;/p&gt;&...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/10/florida-coastal-corridor-marine-life",
-      "pubDate": "Mon, 10 Aug 2026 12:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d0e7e6345d9f9b027db5bcf11838734970196df6/573_0_3539_2832/master/3539.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d03f67b266dfa008ead6e5c1456cdd3c"
     }
   ]
 }
