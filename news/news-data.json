@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-10T13:25:55.820Z",
+  "lastUpdated": "2026-08-10T15:06:20.441Z",
   "articles": [
+    {
+      "title": "We should smile at our dogs - a new scientific study reveals why",
+      "description": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling....",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 14:02:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "SpaceX plan for vast rocket launch site on Louisiana coast sparks backlash",
+      "description": "&lt;p&gt;Opponents fear Elon Musk firm’s plan to develop 18-mile strip of Pecan Island will badly damage fragile ecosystem&lt;/p&gt;&lt;p&gt;Plans by ...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/10/spacex-rocket-launch-site-louisiana-backlash",
+      "pubDate": "Mon, 10 Aug 2026 14:00:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/58c056e12bbaf2801bc31a533a728ff6019d14d4/574_0_5744_4596/master/5744.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a210cfe61e576a760f39463f4e194f5b"
+    },
+    {
+      "title": "Solar eclipse: Where and when you can see it across North West England",
+      "description": "The partial eclipse is expected to be the most extensive since 1999, astronomers say....",
+      "link": "https://www.bbc.co.uk/news/articles/cx256nwl7lxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 13:41:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Octopus Energy urges millions of households to use less electricity during solar eclipse",
       "description": "&lt;p&gt;Firm urges customers to avoid running washing machines and dishwashers between 6pm and 8pm on Wednesday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "When and where to see the solar eclipse in London",
-      "description": "What you need to know about the solar eclipse on 12 August and the best viewing spots in London....",
-      "link": "https://www.bbc.co.uk/news/articles/c62x3pyrxrmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 04:57:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
-      "description": "&lt;p&gt;Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland&lt;/p&gt;...",
-      "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
-      "pubDate": "Mon, 10 Aug 2026 04:55:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/289807f15ef228d92904d17ae8389283713377b2/665_645_6220_4978/master/6220.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53b956814ed93fcd1cec473cc614d243"
-    },
-    {
-      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
-      "description": "&lt;p&gt;Average sea surface temperature outside polar regions was highest on record for July, beating previous high in 2023&lt;/p&gt;&lt;p&gt;The wor...",
-      "link": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
-      "pubDate": "Mon, 10 Aug 2026 02:00:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/87c236446ba2900c4c834b9136187c04abcb7a9a/491_0_2916_2334/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0e7a10cf898639ddd8142642505e594"
     }
   ]
 }
