@@ -1,8 +1,35 @@
 {
-  "lastUpdated": "2026-08-12T21:54:51.863Z",
+  "lastUpdated": "2026-08-12T22:51:13.314Z",
   "articles": [
     {
-      "title": "Millions in UK and Europe left wowed by once-in-a-generation solar eclipse",
+      "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
+      "description": "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland....",
+      "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 22:45:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 21:55:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 21:55:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
       "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse....",
       "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 21:53:45 GMT",
@@ -11,7 +38,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Millions in UK and Europe left wowed by once-in-a-generation solar eclipse",
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
       "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse....",
       "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 21:53:45 GMT",
@@ -33,24 +60,6 @@
       "description": "People across Kent, Surrey and Sussex watch the moon obscure the sun in a rare partial eclipse....",
       "link": "https://www.bbc.co.uk/news/articles/cdewplxy3g1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 20:46:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Yorkshire crowds gather for 'incredible' eclipse",
-      "description": "People gather in York, Leeds and Bradford to view the most significant solar eclipse since 1999....",
-      "link": "https://www.bbc.co.uk/news/articles/ckg6py7201jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 20:36:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Seeing eclipse is once-in-a-lifetime opportunity'",
-      "description": "The team behind Brough Astronomy says the turnout exceeds the numbers they were expecting....",
-      "link": "https://www.bbc.co.uk/news/articles/cg7mpjkjn53o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 20:30:08 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Powerful storms in US midwest leave three dead and 800,000 without power",
-      "description": "&lt;p&gt;Winds of more than 80mph, severe flooding and tornadoes swept through Indiana, Ohio, Illinois and Kentucky&lt;/p&gt;&lt;p&gt;Powerful storms ...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/12/midwest-storms-deaths-wind-power-outages-flooding",
-      "pubDate": "Wed, 12 Aug 2026 13:11:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ee7e226a3d7f3ca20ee791bd226075faa69d3f3d/452_0_2491_1993/master/2491.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a790448cf572f7eb465b36daf869bb8"
     }
   ]
 }
