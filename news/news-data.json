@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-08-13T06:26:31.421Z",
+  "lastUpdated": "2026-08-13T08:37:03.892Z",
   "articles": [
+    {
+      "title": "As Montana warms, Missoula’s first heat map reveals hidden hotspots",
+      "description": "\nThe mapping effort is uncovering unexpected patterns, with some undeveloped and heavily forested areas holding more heat than researchers anticipated...",
+      "link": "https://grist.org/extreme-heat/as-montana-warms-missoulas-first-heat-map-reveals-hidden-hotspots/",
+      "pubDate": "Thu, 13 Aug 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/90.webp"
+    },
+    {
+      "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
+      "description": "&lt;p&gt;In France, 80 departments have been placed on an orange heat warning&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Over in England, the amber warning by th...",
+      "link": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "pubDate": "Thu, 13 Aug 2026 08:20:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c8ac626264763f988ad635ecde75279c8b213b8d/889_0_2886_2309/master/2886.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21952f333de41ec00d98bafccd689e56"
+    },
+    {
+      "title": "How to keep babies and children safe in heatwaves",
+      "description": "&lt;p&gt;Biological factors mean a child’s core temperature rises faster than an adult’s – and that can result in a medical emergency&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/how-to-keep-babies-and-children-safe-in-heatwaves",
+      "pubDate": "Thu, 13 Aug 2026 08:13:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/79a9c56b77899db42e377d9776163393b7954279/301_14_6641_5315/master/6641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1531a4e2676af13463d425c3e66c07f5"
+    },
+    {
+      "title": "Millions face higher water bills as suppliers allowed £3.4bn extra spending",
+      "description": "&lt;p&gt;Firms in England and Wales seek to fund measures including supporting new homes and datacentres&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a h...",
+      "link": "https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat",
+      "pubDate": "Thu, 13 Aug 2026 08:10:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9ed29074fda4a84feba454e909d61da0a645cb39/1051_0_4939_3954/master/4939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee85364c17f319b11160b7eadfbbcdb4"
+    },
+    {
+      "title": "Britain's scorched fields mean a food crisis – and the government is ignoring the one measure that would help | George Monbiot",
+      "description": "&lt;p&gt;This summer’s extreme weather and wars in Iran and Ukraine have made our need for food stockpiles more pressing than ever&lt;/p&gt;&lt;p&gt;W...",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/13/britain-food-crisis-government-summer-weather-war-stockpiles",
+      "pubDate": "Thu, 13 Aug 2026 07:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/86b353015b0e544c3e3f799d1ee3bb2ac192e37b/1132_0_5660_4528/master/5660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04d035e7f2d2f08196d6224a42c48706"
+    },
+    {
+      "title": "Photos show rare solar eclipse in Yorkshire",
+      "description": "The astronomical phenomenon - the best since 1999 - was captured by camera lenses across Yorkshire....",
+      "link": "https://www.bbc.co.uk/news/articles/cy8m212vexko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 06:34:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
       "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic. ...",
@@ -38,7 +92,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Rising costs put strain on zoo's conservation work",
+      "title": "Brexit rules put strain on zoo's conservation work",
       "description": "Staffs at Twycross Zoo say they need new laws to make it easier to transport animals globally....",
       "link": "https://www.bbc.co.uk/news/articles/c2lqv20qp8xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 05:08:59 GMT",
@@ -74,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/d8f196ecab719910fb8693d747d8b6d9d6bc76e6/532_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e579102e55dbcf7bbbcd281eec080455"
     },
     {
-      "title": "India fuels worldwide jump in planned coal production",
-      "description": "&lt;p&gt;Rise in new mine proposals, mainly in states of Odisha and Jharkhand, comes despite plateau in global demand&lt;/p&gt;&lt;p&gt;Enough new coa...",
-      "link": "https://www.theguardian.com/environment/2026/aug/13/india-planned-coal-production-new-mine",
-      "pubDate": "Thu, 13 Aug 2026 04:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cd0d8cca57314fb7c47fdbb2b3f4bd3f27edf3c6/9_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8425f9629924ea75062c15a007bb077f"
-    },
-    {
       "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle....",
       "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&amp;at_campaign=rss",
@@ -99,15 +144,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns",
-      "description": "&lt;p&gt;RCN calls for more air conditioners as Burnham faces pressure to recognise urgency of adaptation to climate crisis&lt;/p&gt;&lt;p&gt;Nurses a...",
-      "link": "https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns",
-      "pubDate": "Wed, 12 Aug 2026 23:01:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/aad7a7e5a21e03ffcf00b103acd00c8e00ee5f72/0_0_6142_4912/master/6142.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbe0f3c44c258f478ad827dc61302c76"
     },
     {
       "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
@@ -128,24 +164,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-      "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse....",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 21:53:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EJ Swift wins the 2026 Arthur C Clarke award for science fiction",
-      "description": "&lt;p&gt;The writer – who was also shortlisted in 2023 – has won the prize for her book When There Are Wolves Again, a speculative work of eco-fiction...",
-      "link": "https://www.theguardian.com/books/2026/aug/12/ej-swift-wins-the-2026-arthur-c-clarke-award-for-science-fiction",
-      "pubDate": "Wed, 12 Aug 2026 20:00:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/beb8f1db27993375b917795619422898db4a2314/0_438_4480_3582/master/4480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8d6f97646a17ec172232927878bac76"
-    },
-    {
       "title": "Trump administration pulls support for annual Arctic environmental report",
       "description": "&lt;p&gt;Move by National Oceanic and Atmospheric Administration is latest government rollback of climate science activity&lt;/p&gt;&lt;p&gt;The &lt;a...",
       "link": "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-arctic-environmental-report",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch: Hydrogen car breaks land speed record at 406 mph",
-      "description": "The new record surpasses the previous official hydrogen combustion title set in 2004 by more than double the speed....",
-      "link": "https://www.bbc.co.uk/news/videos/cvgjz88zpr1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 16:30:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A huge AI datacenter is planned near Mar-a-Lago. The Everglades could pay the price",
-      "description": "&lt;p&gt;Plans for hyperscale datacenter in Palm Beach county prompt concerns over water and electricity demands&lt;/p&gt;&lt;p&gt;About 16 miles (26k...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk",
-      "pubDate": "Wed, 12 Aug 2026 16:22:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/46bcdb07c387ce1354f20c90b5ca22a07649b628/8_0_2235_1789/master/2235.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6a17990547871e32ea60411c259e0d6"
     }
   ]
 }
