@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-08-13T04:58:34.301Z",
+  "lastUpdated": "2026-08-13T06:26:31.421Z",
   "articles": [
+    {
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:40:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic. ...",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:40:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hundreds gather to watch eclipse on hillside",
+      "description": "The Letchworth and District Astronomical Society have handed out safety glasses to crowds....",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j19zwq3go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:21:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Volunteers work to reopen city's old observatory",
+      "description": "Newchapel Observatory was considered revolutionary when it was built in the 1960's....",
+      "link": "https://www.bbc.co.uk/news/articles/c62ed82q7q5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:16:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rising costs put strain on zoo's conservation work",
+      "description": "Staffs at Twycross Zoo say they need new laws to make it easier to transport animals globally....",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqv20qp8xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:08:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Manila river clogged with rubbish after Typhoon Dolphin floods – in pictures",
+      "description": "&lt;p&gt;Days of rain has caused widespread flooding across the Philippines capital, Manila, and filled the city’s waterways with debris. A massive cl...",
+      "link": "https://www.theguardian.com/world/gallery/2026/aug/13/manila-river-rubbish-clogged-typhoon-dolphin-flood-in-pictures",
+      "pubDate": "Thu, 13 Aug 2026 05:08:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3f904e8058522e04f6ed0e6acc2822ad18223412/586_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d0a8dc7f92c6ed965e34d13712814ccb"
+    },
+    {
+      "title": "Australia’s largest aluminium smelter to run on renewables by 2033 after Rio Tinto strikes $2.5bn taxpayer bailout deal",
+      "description": "&lt;p&gt;Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closure&lt;/p&gt;&lt...",
+      "link": "https://www.theguardian.com/business/2026/aug/13/rio-tinto-australia-tomago-aluminium-2bn-bailout-deal-renewable-energy",
+      "pubDate": "Thu, 13 Aug 2026 05:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2445f677ae7a33a52e1028197eff744ba4a8808f/377_0_4405_3523/master/4405.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61af5545a9e2fc34ef53d9c19be431f9"
+    },
     {
       "title": "Too smart to eat? Why octopus farms are such a slippery problem",
       "description": "&lt;p&gt;As a controversial Spanish plan for sustainable meat on an industrial scale is dropped, it has revived the ethical debate over farming these ...",
@@ -56,24 +119,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 21:55:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic. ...",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 21:55:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
       "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse....",
       "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&amp;at_campaign=rss",
@@ -87,24 +132,6 @@
       "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse....",
       "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 21:53:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Watch: Solar eclipse seen over UK skies",
-      "description": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse....",
-      "link": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 21:46:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In pictures: Sky watchers gather for solar eclipse",
-      "description": "People across Kent, Surrey and Sussex watch the moon obscure the sun in a rare partial eclipse....",
-      "link": "https://www.bbc.co.uk/news/articles/cdewplxy3g1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 20:46:43 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -126,15 +153,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/979e7acbda132df2df427b25042ebbe06cdbf9aa/430_0_4135_3310/master/4135.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebe39c2c70bd3fe334e554ecc67aad82"
-    },
-    {
-      "title": "Greenland forces Trump-linked US oil firm to delay drilling",
-      "description": "&lt;p&gt;US envoy had claimed Americans could be extracting crude by as early as next year&lt;/p&gt;&lt;p&gt;Greenland authorities have forced a US oi...",
-      "link": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil",
-      "pubDate": "Wed, 12 Aug 2026 18:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f7b3c86a34089486760933ea533f268fb42ecea3/126_0_3740_2992/master/3740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46b3f0378a1327cd335c90ef072af0dc"
     },
     {
       "title": "The race to save thousands of animals",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/46bcdb07c387ce1354f20c90b5ca22a07649b628/8_0_2235_1789/master/2235.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6a17990547871e32ea60411c259e0d6"
-    },
-    {
-      "title": "Generations of fish 'wiped out' after pollution incident",
-      "description": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted....",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 15:21:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Generations of fish 'wiped out' after pollution incident",
-      "description": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted....",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 15:21:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
