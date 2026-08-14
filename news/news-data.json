@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-13T23:50:50.463Z",
+  "lastUpdated": "2026-08-14T02:33:33.644Z",
   "articles": [
+    {
+      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "description": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?...",
+      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 02:13:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "description": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?...",
+      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 02:13:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
+      "description": "&lt;p&gt;Cernavoda shutdown poses immediate problems for Moldova, which relies on Romanian power ​to cover its own electricity shortages&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
+      "pubDate": "Fri, 14 Aug 2026 01:20:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c0fba84aed96589748e2eb1cd62764c1fb758e7d/1139_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d4812cc49fb9e76d92ef803efe0b428"
+    },
     {
       "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
       "description": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead....",
@@ -110,24 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "UK records hottest day of year as fifth summer heatwave reaches peak",
-      "description": "&lt;p&gt;Kew Gardens in London hits 38.1C and 40C-plus recorded in parts of Europe with continent trapped under heat dome&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
-      "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
-      "pubDate": "Thu, 13 Aug 2026 15:48:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e5a0b134c2f79a080eeefd252497e8eabbb43d45/943_0_6265_5011/master/6265.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f05731d8a2f578adece5a457ec1133de"
-    },
-    {
-      "title": "Boy, 8, enjoys historic solar eclipse",
-      "description": "Jacob describes how he feels about watching the historic moment....",
-      "link": "https://www.bbc.co.uk/news/videos/c8dn8zrr521o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 14:56:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Piranha drama: boy, 8, hooks fearsome exotic fish in Pennsylvania lake",
       "description": "&lt;p&gt;South American fish with razor-toothed jaws was probably released by someone who owned it as a pet, officials say&lt;/p&gt;&lt;p&gt;An eight-...",
       "link": "https://www.theguardian.com/us-news/2026/aug/13/boy-catches-piranha-pennsylvania",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/24f9e83964f0e02da873ca453489a039bab94bee/0_0_5989_4792/master/5989.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=310e2255bf82ed42bd13dc696c9b23af"
-    },
-    {
-      "title": "TOSHIBA AND MGA THERMAL APPLY EtaPRO® DIGITAL TWIN AND  PREDICTIVE ANALYTICS TO LONG-DURATION ENERGY STORAGE",
-      "description": "Real-time eTES Dashboard displays individual thermal block temperatures, system state of charge,  charging speed, and gas flow conditions. Active char...",
-      "link": "https://econews.com.au/toshiba-and-mga-thermal-apply-etapro-digital-twin-and-predictive-analytics-to-long-duration-energy-storage/",
-      "pubDate": "Thu, 13 Aug 2026 09:02:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
     }
   ]
 }
