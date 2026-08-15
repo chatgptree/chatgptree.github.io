@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-15T13:35:59.646Z",
+  "lastUpdated": "2026-08-15T14:29:59.575Z",
   "articles": [
+    {
+      "title": "Hollywood actor seeks help from vicar for series",
+      "description": "Rev Paul Cawthorne helped Michael Sheen identify sites where toxic waste was dumped in the 1970s....",
+      "link": "https://www.bbc.co.uk/news/articles/cj36g34r605o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 13:46:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "AI could help fossil fuel companies create more emissions",
       "description": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent — vastly...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/08/Ghost-tribe-of-Texas-headdress-art.jpg"
-    },
-    {
-      "title": "How can we talk about this extreme weather now that it’s a battleground in the culture wars? | Andy Beckett",
-      "description": "&lt;p&gt;Weather forecasts once gave Britons something safe to chat about. Not any more, and that’s a problem for the experts – indeed, for all of us&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/14/weather-forecasts-britain-safe-chat-climate-culture-wars",
-      "pubDate": "Fri, 14 Aug 2026 07:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/272ad39fe333dcc08cb753c13cf8b488f67a6e31/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e08f4221d901f6190ee2c72201edacbe"
     }
   ]
 }
