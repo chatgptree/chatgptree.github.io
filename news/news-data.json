@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-15T12:51:56.030Z",
+  "lastUpdated": "2026-08-15T13:35:59.646Z",
   "articles": [
+    {
+      "title": "AI could help fossil fuel companies create more emissions",
+      "description": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent — vastly...",
+      "link": "https://grist.org/business/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+      "pubDate": "Sat, 15 Aug 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/10/COP-climate-protest.jpeg"
+    },
     {
       "title": "Cornish sardines back on menu for penguins",
       "description": "The move follows a chance conversation at the wildlife attraction and replaces imported fish....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/272ad39fe333dcc08cb753c13cf8b488f67a6e31/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e08f4221d901f6190ee2c72201edacbe"
-    },
-    {
-      "title": "The sleeping giant the Australian government needs to wake",
-      "description": "It’s an industry with the potential to add billions of dollars to the economy and contribute positively to the global environment. JMM There is a bill...",
-      "link": "https://econews.com.au/the-sleeping-giant-the-australian-government-needs-to-wake/",
-      "pubDate": "Fri, 14 Aug 2026 06:02:19 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
