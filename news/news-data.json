@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-15T17:26:32.672Z",
+  "lastUpdated": "2026-08-15T18:39:16.030Z",
   "articles": [
+    {
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "description": "The fire burning through the major park was described as the country's worst in recent years....",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 17:47:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
       "description": "&lt;p&gt;Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G&lt;/p&gt;&lt;p&gt;&lt;a href...",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/08/Cancer-Alley-LA.jpeg"
-    },
-    {
-      "title": "Congress may kill the federal heat rule before OSHA can",
-      "description": "The Biden-era heat safety rule was already languishing. Now, in a summer of record-breaking heat, a congressional committee has moved to block it enti...",
-      "link": "https://grist.org/extreme-heat/congress-may-kill-the-federal-heat-rule-before-osha-can/",
-      "pubDate": "Fri, 14 Aug 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/Ghost-tribe-of-Texas-headdress-art.jpg"
     }
   ]
 }
