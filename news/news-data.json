@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-15T19:26:33.385Z",
+  "lastUpdated": "2026-08-15T20:30:49.448Z",
   "articles": [
+    {
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island. ...",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 20:28:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
       "description": "The fire burning through the major park was described as the country's worst in recent years....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d48af8340801136208d76f7d9bb15e80c21b9834/600_19_3695_2956/master/3695.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=830f818bb87dc990c3b71467500a01bd"
-    },
-    {
-      "title": "The EPA&#8217;s data on cancer risk from air pollution has gone dark",
-      "description": "For decades, communities have relied on the agency's cancer risk estimates to hold polluters accountable. This year, it's missing....",
-      "link": "https://grist.org/regulation/the-epas-data-on-cancer-risk-from-air-pollution-has-gone-dark/",
-      "pubDate": "Fri, 14 Aug 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/Cancer-Alley-LA.jpeg"
     }
   ]
 }
