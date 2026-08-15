@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-15T05:31:20.303Z",
+  "lastUpdated": "2026-08-15T06:50:35.585Z",
   "articles": [
+    {
+      "title": "Solar eclipse inspires talk of Pac-man and Shinto myths",
+      "description": "Thousands turned out to watch the solar eclipse in the South West; here's what they made of it....",
+      "link": "https://www.bbc.co.uk/news/articles/c33020jgyllo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 06:08:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Draft dark skies guidance drawn up for the Highlands",
       "description": "The plan to reduce light pollution could be put out for public consultation at a later date....",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Hidden moth population found after 70 years",
-      "description": "Dr Dave Wainwright describes the discovery as one of the highlights of his career....",
-      "link": "https://www.bbc.co.uk/news/articles/c1712kz5qpgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 05:07:46 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
