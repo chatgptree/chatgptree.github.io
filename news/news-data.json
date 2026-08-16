@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-16T18:38:35.049Z",
+  "lastUpdated": "2026-08-16T19:26:20.063Z",
   "articles": [
     {
-      "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
-      "description": "&lt;p&gt;Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuate&lt;/p&gt;&lt;p&gt;An elderl...",
-      "link": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
-      "pubDate": "Sun, 16 Aug 2026 18:23:26 GMT",
-      "sourceName": "theguardian.com",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations....",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 18:46:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/fcd89d83052701314ee0acb9d18809a32b1953c1/593_0_5933_4746/master/5933.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39a0f6fbdf14850ba27821c65d7f8953"
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Nicola Jennings on Andy Burnham’s disposable barbecue ban – cartoon",
@@ -45,15 +45,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2025/04/gutted-research.jpg"
-    },
-    {
-      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas....",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 12:53:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Florida sets record for sea turtle nests but Trump move could stall recovery",
@@ -117,6 +108,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
+      "description": "&lt;p&gt;Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G&lt;/p&gt;&lt;p&gt;&lt;a href...",
+      "link": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
+      "pubDate": "Sat, 15 Aug 2026 16:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5e772cc596c6d07669eba138b3024ed64944ad0f/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7bee65bfd7371b577948cccb8323ae3c"
     },
     {
       "title": "Hollywood actor seeks help from vicar for series",
