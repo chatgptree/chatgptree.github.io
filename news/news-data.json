@@ -1,20 +1,29 @@
 {
-  "lastUpdated": "2026-08-15T23:26:50.643Z",
+  "lastUpdated": "2026-08-16T01:50:01.361Z",
   "articles": [
     {
-      "title": "The influencers getting bitten while chasing the perfect shark shot",
-      "description": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked....",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 23:04:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
+      "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+      "description": "&lt;p&gt;National Weather Service reports that more than 11in of rain fell over a two-day period in some areas&lt;/p&gt;&lt;p&gt;At least five people ...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+      "pubDate": "Sat, 15 Aug 2026 23:56:33 GMT",
+      "sourceName": "theguardian.com",
       "author": "",
-      "image": "../images/header2.jpg"
+      "image": "https://i.guim.co.uk/img/media/979f6f42c2588f33351ec0a25820ba82e7e515b5/7_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de13d91d3873a11311a01356543b66c"
     },
     {
       "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
       "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island. ...",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 21:56:10 GMT",
+      "pubDate": "Sat, 15 Aug 2026 23:34:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The influencers getting bitten while chasing the perfect shark shot",
+      "description": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked....",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 23:04:29 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Great Barrier Reef isn’t dead yet. According to News Corp that makes climate science a ‘pseudo-religion’ | Temperature Check",
-      "description": "&lt;p&gt;‘High coral cover is evidence of recovery and resilience, not evidence that the disturbances causing mortality didn’t happen,’ scientist says...",
-      "link": "https://www.theguardian.com/environment/2026/aug/15/the-great-barrier-reef-isnt-dead-yet-according-to-news-corp-that-makes-climate-science-a-pseudo-religion",
-      "pubDate": "Fri, 14 Aug 2026 15:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ffb4665e1b3098aca49464c9d301062dfc5b1b75/0_0_2601_2081/master/2601.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a174d1f6f2877b15cffcc4b22adc5c2"
     }
   ]
 }
