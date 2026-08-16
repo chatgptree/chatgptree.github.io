@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-16T19:26:20.063Z",
+  "lastUpdated": "2026-08-16T20:30:22.991Z",
   "articles": [
+    {
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park....",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 20:01:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
       "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations....",
@@ -18,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/51c0e402901ffa926054b8c5d7cdf893baa8b161/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1123a8782f3396caabef2fe407c89b69"
-    },
-    {
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park....",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "‘Awed by nature’: fans mourn California’s beloved Jackie the bald eagle, whose legacy soars on",
