@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-19T21:32:14.130Z",
+  "lastUpdated": "2026-08-19T22:31:53.221Z",
   "articles": [
+    {
+      "title": "Trump administration advances plan to open national forests to development",
+      "description": "The proposal would repeal the Roadless Rule, opening up nearly 45 million acres of national land to roadbuilding and logging, despite widespread oppos...",
+      "link": "https://grist.org/regulation/trump-administration-advances-roadless-rule-national-forests/",
+      "pubDate": "Wed, 19 Aug 2026 22:18:44 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/04/Beaverhead-Deerlodge-National-Forest-logging-roadless-rule.jpg"
+    },
+    {
+      "title": "Taxpayers to fund clear-up of illegal dumps in West Yorkshire, Surrey and Kent",
+      "description": "&lt;p&gt;Andy Burnham promises drive to tackle toxic waste, raise fines and use AI-powered drones to detect illegal activity&lt;/p&gt;&lt;p&gt;Illegal...",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/taxpayers-to-fund-clear-up-of-dumps-in-west-yorkshire-surrey-and-kent",
+      "pubDate": "Wed, 19 Aug 2026 21:30:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/294353ab775e37f4a9c05ed54e93c66c36ff3e59/87_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52aac16cde71831b39bb3e7aca60a23c"
+    },
     {
       "title": "Human remains again found at Lake Mead as water levels drop amid drought",
       "description": "&lt;p&gt;Discovery marks latest grim finding in lake as water levels in crucial reservoir outside Las Vegas continue to decline&lt;/p&gt;&lt;p&gt;Huma...",
@@ -63,15 +81,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Calls for urgent law change as UK’s largest water reuse system cannot be switched on",
-      "description": "&lt;p&gt;Recycling system in Cambridgeshire that could save thousands of litres a day is deemed not in line with rules&lt;/p&gt;&lt;p&gt;The largest w...",
-      "link": "https://www.theguardian.com/environment/2026/aug/19/water-reuse-recycling-law-cambridgeshire",
-      "pubDate": "Wed, 19 Aug 2026 14:00:14 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cdfb68ab1302c05cb1c21dcaa0e665520f16d92e/498_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b14b3e3b2d139fb160450f49b2d86d4d"
     },
     {
       "title": "Firefighters sound alarm as US faces critical staffing shortage: ‘We don’t have enough people’",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump administration to rescind rule protecting old-growth forests",
-      "description": "&lt;p&gt;Almost 45m acres of national forests could be potentially opened to road construction, drilling and logging&lt;/p&gt;&lt;p&gt;The Trump admin...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
-      "pubDate": "Tue, 18 Aug 2026 20:13:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c0af7f576d0d5d3bfebd91fa4c6429f3920d610b/355_0_2362_1889/master/2362.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2568519878a724caf5d5fa231c4bba70"
     }
   ]
 }
