@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-19T22:31:53.221Z",
+  "lastUpdated": "2026-08-19T23:29:13.287Z",
   "articles": [
+    {
+      "title": "Recent Rain Slowed Southwestern Montana Wildfires. Now the Heat Is Returning.",
+      "description": "Firefighters are gaining ground on three large wildfires that have burned more than 47,000 acres across southwestern Montana, but unhelpful warmer tem...",
+      "link": "https://insideclimatenews.org/news/19082026/montana-wildfire-conditions-rapidly-change/",
+      "pubDate": "Wed, 19 Aug 2026 22:32:33 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump administration advances plan to open national forests to development",
       "description": "The proposal would repeal the Roadless Rule, opening up nearly 45 million acres of national land to roadbuilding and logging, despite widespread oppos...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6b34c644324a9179aaac84612acf81bd706ce726/345_0_3355_2684/master/3355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c44be659b4488a1ba1905a76174cea28"
-    },
-    {
-      "title": "Hurricane Lala Pummels Hawaii—Despite Never Making Landfall",
-      "description": "Despite never making landfall, Hurricane Lala left a path of destruction across Hawaii over the weekend. Strong winds, torrential rain and mudslides d...",
-      "link": "https://insideclimatenews.org/news/18082026/todays-climate-hurricane-lala-hawaii/",
-      "pubDate": "Tue, 18 Aug 2026 21:33:42 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
