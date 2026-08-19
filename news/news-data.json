@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-19T07:46:51.692Z",
+  "lastUpdated": "2026-08-19T08:47:29.403Z",
   "articles": [
+    {
+      "title": "All aboard Amtrak&#8217;s sleeker, cleaner new trains",
+      "description": "The $8B Airo fleet promises cleaner, more reliable service as passenger rail enjoys record ridership — and faces an uncertain future in Washington....",
+      "link": "https://grist.org/transportation/all-aboard-amtraks-sleeker-cleaner-new-trains/",
+      "pubDate": "Wed, 19 Aug 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US Army Corps approves a pipeline project it knows harms Indigenous lands",
+      "description": "The proposal to replace an aging segment of the Line 5 pipeline in the Great Lakes still needs state approval. Tribal nations say the federal review v...",
+      "link": "https://grist.org/energy/us-army-corps-approves-line-5-tunnel-project-harms-indigenous-lands/",
+      "pubDate": "Wed, 19 Aug 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why Egyptian farmers are growing crops under solar panels",
+      "description": "The additional shade reduces evaporation and stress on the plants, all while generating clean electricity. ...",
+      "link": "https://grist.org/energy/why-egyptian-farmers-are-growing-crops-under-solar-panels/",
+      "pubDate": "Wed, 19 Aug 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/egypt-heat.jpg"
+    },
     {
       "title": "Rare cows part of estate's rewilding project",
       "description": "White Park cattle arrive at the Castle Howard estate in North Yorkshire to support conservation....",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Solar panel critic now 'supporter of plan'",
-      "description": "A dispute over a solar panel plan is resolved, with the complainant now a proponent for the site....",
-      "link": "https://www.bbc.co.uk/news/articles/cx2dzjnzkqxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 05:19:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More than 2 million customers invited to help shape the future of water?",
-      "description": "More than 2 million residents and businesses across Melbourne’s north and east can have their say on future water and sewerage services as Yarra Valle...",
-      "link": "https://econews.com.au/more-than-2-million-customers-invited-to-help-shape-the-future-of-water/",
-      "pubDate": "Tue, 18 Aug 2026 05:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/08/images-2.jpg"
-    },
-    {
-      "title": "OptiGrid appoints Paul Vickers as Head of Operations",
-      "description": "Paul Vickers OptiGrid, an Australian battery optimisation and trading intelligence platform that is built for the National Electricity Market (NEM), a...",
-      "link": "https://econews.com.au/optigrid-appoints-paul-vickers-as-head-of-operations/",
-      "pubDate": "Tue, 18 Aug 2026 05:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
