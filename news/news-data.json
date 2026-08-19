@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-19T17:32:47.595Z",
+  "lastUpdated": "2026-08-19T18:45:18.538Z",
   "articles": [
+    {
+      "title": "Human remains again found at Lake Mead as water levels drop amid drought",
+      "description": "&lt;p&gt;Discovery marks latest grim finding in lake as water levels in crucial reservoir outside Las Vegas continue to decline&lt;/p&gt;&lt;p&gt;Huma...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-remains",
+      "pubDate": "Wed, 19 Aug 2026 17:30:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/42e51a2228f70a38d992856dc5a9098d8a230328/542_0_5417_4335/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb8a6b886fa84b5ec8da9888d87e7c25"
+    },
+    {
+      "title": "Otter spotted for first time in 100 years in New York City’s Bronx River",
+      "description": "&lt;p&gt;Image captured in early June shows animal foraging in the waterway in first since early 1900s, signaling its recovery &lt;/p&gt;&lt;p&gt;An o...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city",
+      "pubDate": "Wed, 19 Aug 2026 17:27:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/784bea804079e04dd8dc6a5bc095f1c662fedceb/224_0_788_630/master/788.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36997597392e1cadb8e65b9cc348e95e"
+    },
     {
       "title": "First bluefin tunas caught off Yorkshire since 1960s ‘success story’ for marine conservation",
       "description": "&lt;p&gt;Researchers laud return of giant tuna to North Sea after being fished almost to point of extinction&lt;/p&gt;&lt;p&gt;Researchers have lauded...",
@@ -74,6 +92,24 @@
       "image": "https://i.guim.co.uk/img/media/96b349d770709e7e928dc42735434836be5862ef/61_0_4999_3997/master/4999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60be720e49233f8cc810f0401fe4e88a"
     },
     {
+      "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?",
+      "description": "Wired for Profit: Fourth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer...",
+      "link": "https://insideclimatenews.org/news/19082026/alabama-power-proposed-data-centers-utility-bills/",
+      "pubDate": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Seas Rise, Scientists Race to Save Coastal Marshes From Drowning",
+      "description": "STONE HARBOR, N.J.—Against a lush carpet of marsh grasses, the five-and-a-half acre island of muddy sediment, shallow pools and tufts of straggly vege...",
+      "link": "https://insideclimatenews.org/news/19082026/sea-level-rise-drowns-coastal-marshes/",
+      "pubDate": "Wed, 19 Aug 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "All aboard Amtrak&#8217;s sleeker, cleaner new trains",
       "description": "The $8-billion Airo fleet promises cleaner, more reliable service as passenger rail enjoys record ridership — and faces an uncertain future in Washing...",
       "link": "https://grist.org/transportation/all-aboard-amtraks-sleeker-cleaner-new-trains/",
@@ -110,6 +146,15 @@
       "image": "../images/header2.jpg"
     },
     {
+      "title": "El Paso Officials Seek Answers Following Emissions at Marathon Refinery",
+      "description": "EL PASO, Texas—Gilbert Morales struggled to compose himself before addressing the El Paso City Council on Tuesday morning. Morales fought back tears a...",
+      "link": "https://insideclimatenews.org/news/18082026/marathon-el-paso-refinery-emissions/",
+      "pubDate": "Tue, 18 Aug 2026 22:55:51 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Introducing Ulez was my hardest decision as mayor of London – but now we know its astonishing impact | Sadiq Khan",
       "description": "&lt;p&gt;Critics said I was attacking motorists. It’s more important for me that the city’s children are no longer breathing dangerous levels of pollu...",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/18/ulez-hardest-decision-mayor-london-impact-sadiq-khan",
@@ -119,6 +164,15 @@
       "image": "https://i.guim.co.uk/img/media/6b34c644324a9179aaac84612acf81bd706ce726/345_0_3355_2684/master/3355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c44be659b4488a1ba1905a76174cea28"
     },
     {
+      "title": "Hurricane Lala Pummels Hawaii—Despite Never Making Landfall",
+      "description": "Despite never making landfall, Hurricane Lala left a path of destruction across Hawaii over the weekend. Strong winds, torrential rain and mudslides d...",
+      "link": "https://insideclimatenews.org/news/18082026/todays-climate-hurricane-lala-hawaii/",
+      "pubDate": "Tue, 18 Aug 2026 21:33:42 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
       "title": "Trump administration to rescind rule protecting old-growth forests",
       "description": "&lt;p&gt;Almost 45m acres of national forests could be potentially opened to road construction, drilling and logging&lt;/p&gt;&lt;p&gt;The Trump admin...",
       "link": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
@@ -126,60 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c0af7f576d0d5d3bfebd91fa4c6429f3920d610b/355_0_2362_1889/master/2362.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2568519878a724caf5d5fa231c4bba70"
-    },
-    {
-      "title": "Rebecca Hendin on Richard Tice and the climate crisis – cartoon",
-      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/aug/18/rebecca-hendin-richard-tice-climate-crisis-cartoon\"&gt;Continue reading...&l...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/18/rebecca-hendin-richard-tice-climate-crisis-cartoon",
-      "pubDate": "Tue, 18 Aug 2026 15:34:22 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ff11d894bb832dffb42a91f2e2a6e7888a2d92b7/0_0_3543_2834/master/3543.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e507bf72fb7c01207a23e4bf251b7b8c"
-    },
-    {
-      "title": "Work on £1.5m nature reserve to start next month",
-      "description": "A charity says the nature reserve will be a \"very special thing\" for the town once complete....",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlz215ye4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 13:25:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘We humans are inept at taking care of baby animals’: why well-fed orphan bears die in the wild",
-      "description": "&lt;p&gt;Scientists surprised to find all but two of 12 grizzlies were dead within a year of ‘feelgood’ release, unable to sustain their high-calorie ...",
-      "link": "https://www.theguardian.com/environment/2026/aug/18/orphan-bears-die-in-the-wild-grizzlies",
-      "pubDate": "Tue, 18 Aug 2026 13:00:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3f39f5bf3583cefa7af8caa71aef98becc81bc37/426_1381_1762_1409/master/1762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7c752c241ec2ccee7fdca0bb81fe082"
-    },
-    {
-      "title": "Why plugging in all those EVs could actually save the power grid",
-      "description": "As utilities switch to renewables, you'll get paid to send battery power back into the system, making it stronger and cheaper for everyone....",
-      "link": "https://grist.org/transportation/why-plugging-in-all-those-evs-could-actually-save-the-power-grid/",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How soon will the drought be over?",
-      "description": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?...",
-      "link": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 12:26:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How soon will the drought be over?",
-      "description": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?...",
-      "link": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 12:26:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
