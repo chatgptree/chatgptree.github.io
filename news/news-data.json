@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-19T14:40:55.642Z",
+  "lastUpdated": "2026-08-19T15:38:25.667Z",
   "articles": [
+    {
+      "title": "Reform says we need to choose between climate and economy. It's wrong | Larry Elliott",
+      "description": "&lt;p&gt;The party’s deputy leader Richard Tice says we should stop worrying about extreme heat and enjoy it. This dangerous nonsense will wreck our f...",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/19/reform-says-we-need-to-choose-between-climate-and-economy-its-wrong",
+      "pubDate": "Wed, 19 Aug 2026 15:10:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/305a73d343e880a48ab6a46b7db33a4d8b0868d8/690_0_6918_5534/master/6918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c2b76abc51f7e23550f3d41a5d0d6a8"
+    },
+    {
+      "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+      "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say ...",
+      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Calls for urgent law change as UK’s largest water reuse system cannot be switched on",
       "description": "&lt;p&gt;Recycling system in Cambridgeshire that could save thousands of litres a day is deemed not in line with rules&lt;/p&gt;&lt;p&gt;The largest w...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How soon will the drought be over?",
-      "description": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?...",
-      "link": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 12:26:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘A new normal’: Miami faces worsening seaweed problem as piles of algae wash up on beaches",
-      "description": "&lt;p&gt;Officials have had to remove thousands of tons of sargassum from Florida’s beaches amid the climate crisis&lt;/p&gt;&lt;p&gt;Dealing with sea...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/miami-sargassum-seaweed-problem-climate-crisis",
-      "pubDate": "Tue, 18 Aug 2026 11:30:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3fec3b4b4ac8fae1954143b235ba184e581c26dc/156_0_3570_2857/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9640d91597c99aac713bdfc04a83a763"
     }
   ]
 }
