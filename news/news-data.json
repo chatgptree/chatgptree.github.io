@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-19T23:29:13.287Z",
+  "lastUpdated": "2026-08-20T01:43:18.730Z",
   "articles": [
+    {
+      "title": "Downpours to continue for UK with risk of flash flooding",
+      "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains....",
+      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 23:56:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California becomes first US state to set efficiency rules for replacement tires",
+      "description": "&lt;p&gt;Regulations that would block sale of older tires praised by environmental groups amid rightwing backlash&lt;/p&gt;&lt;p&gt;California has bec...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
+      "pubDate": "Wed, 19 Aug 2026 23:48:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c0b320bd4121d9d212bc551bbe2be76a3b0474bc/947_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb74157e7384df5fcee8c9b110c36991"
+    },
     {
       "title": "Recent Rain Slowed Southwestern Montana Wildfires. Now the Heat Is Returning.",
       "description": "Firefighters are gaining ground on three large wildfires that have burned more than 47,000 acres across southwestern Montana, but unhelpful warmer tem...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "El Paso Officials Seek Answers Following Emissions at Marathon Refinery",
-      "description": "EL PASO, Texas—Gilbert Morales struggled to compose himself before addressing the El Paso City Council on Tuesday morning. Morales fought back tears a...",
-      "link": "https://insideclimatenews.org/news/18082026/marathon-el-paso-refinery-emissions/",
-      "pubDate": "Tue, 18 Aug 2026 22:55:51 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Introducing Ulez was my hardest decision as mayor of London – but now we know its astonishing impact | Sadiq Khan",
-      "description": "&lt;p&gt;Critics said I was attacking motorists. It’s more important for me that the city’s children are no longer breathing dangerous levels of pollu...",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/18/ulez-hardest-decision-mayor-london-impact-sadiq-khan",
-      "pubDate": "Tue, 18 Aug 2026 22:30:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6b34c644324a9179aaac84612acf81bd706ce726/345_0_3355_2684/master/3355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c44be659b4488a1ba1905a76174cea28"
     }
   ]
 }
