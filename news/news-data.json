@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-20T19:36:44.166Z",
+  "lastUpdated": "2026-08-20T20:36:48.512Z",
   "articles": [
+    {
+      "title": "Controversial California oil pipeline can continue to operate, judge rules",
+      "description": "&lt;p&gt;State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening &lt;/p&gt;&lt;p&gt;A contro...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
+      "pubDate": "Thu, 20 Aug 2026 20:13:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/72094ce431c4146443a1277d6ab3f83fac27d8c0/987_0_4935_3948/master/4935.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=127998bf87fe197bb8b31a7c0342fbc8"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Has a personalised cancer vaccine become reality?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9781?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "China’s Solar Buildout Hampers Bird Diversity",
       "description": "Policies promoting solar power construction projects in China have contributed to a decline in bird diversity across the country. Those findings, from...",
@@ -15,15 +33,6 @@
       "description": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's....",
       "link": "https://www.bbc.co.uk/news/articles/crk5yk1rynro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 17:31:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Has a personalised cancer vaccine become reality?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 16:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -54,6 +63,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump plan to allow drilling near US world heritage site sparks alarm",
+      "description": "&lt;p&gt;Administration’s plan to scrap drilling-free buffer zone around New Mexico site prompts scrutiny from Unesco&lt;/p&gt;&lt;p&gt;The Trump admi...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
+      "pubDate": "Thu, 20 Aug 2026 14:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/cbebb6d23025b15804dfb0b7a3292e549a58cacf/480_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35377430cb91a321cb44c042ee1afd71"
     },
     {
       "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Who’s most at risk in the cyclospora outbreak? The farmworkers on the front lines.",
-      "description": "An expert on migrant farmworker health describes how this population has been blamed and put at risk, but seldom understood....",
-      "link": "https://grist.org/food-and-agriculture/whos-most-at-risk-in-the-cyclospora-outbreak-the-farmworkers-on-the-frontlines/",
-      "pubDate": "Thu, 20 Aug 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/cyclospora.jpg"
-    },
-    {
-      "title": "How Florida quietly removed climate change content from textbooks",
-      "description": "Publishers acceded to state requests watering down information on climate change’s impact, a WUSF/Hechinger Report investigation finds. Now the state ...",
-      "link": "https://grist.org/politics/how-florida-quietly-removed-climate-change-content-from-textbooks/",
-      "pubDate": "Thu, 20 Aug 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/k12-florida-climate-textbook-cengage.jpg"
     }
   ]
 }
