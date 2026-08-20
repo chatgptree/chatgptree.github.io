@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-20T07:49:27.921Z",
+  "lastUpdated": "2026-08-20T08:48:45.194Z",
   "articles": [
+    {
+      "title": "Climate Change Reshuffles Where People Are Moving in Florida",
+      "description": "SEBRING, Fla.—The city of Sebring has an “Old Florida” charm.&#160; Citrus trees greet motorists driving into town. Red, white and blue bunting hangs ...",
+      "link": "https://insideclimatenews.org/news/20082026/florida-threats-lead-to-climate-migration/",
+      "pubDate": "Thu, 20 Aug 2026 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Who’s most at risk in the cyclospora outbreak? The farmworkers on the front lines.",
+      "description": "An expert on migrant farmworker health describes how this population has been blamed and put at risk, but seldom understood....",
+      "link": "https://grist.org/food-and-agriculture/whos-most-at-risk-in-the-cyclospora-outbreak-the-farmworkers-on-the-frontlines/",
+      "pubDate": "Thu, 20 Aug 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/cyclospora.jpg"
+    },
+    {
+      "title": "Rain to continue for UK with risk of flash flooding",
+      "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains....",
+      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 08:41:57 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Florida quietly removed climate change content from textbooks",
+      "description": "Publishers acceded to state requests watering down information on climate change’s impact, a WUSF/Hechinger Report investigation finds. Now the state ...",
+      "link": "https://grist.org/politics/how-florida-quietly-removed-climate-change-content-from-textbooks/",
+      "pubDate": "Thu, 20 Aug 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/k12-florida-climate-textbook-cengage.jpg"
+    },
     {
       "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
       "description": "&lt;p&gt;South Australian premier Peter Malinauskas says there have still been no detections in poultry or livestock and no mass deaths involving mamm...",
@@ -74,15 +110,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Rain to continue for UK with risk of flash flooding",
-      "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains....",
-      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 23:56:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "California becomes first US state to set efficiency rules for replacement tires",
       "description": "&lt;p&gt;Regulations that would block sale of older tires praised by environmental groups amid rightwing backlash&lt;/p&gt;&lt;p&gt;California has bec...",
       "link": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Firefighters sound alarm as US faces critical staffing shortage: ‘We don’t have enough people’",
-      "description": "&lt;p&gt;Firefighters describe being pushed to limit by a brutal wildfire season, with key leadership roles going unfilled&lt;/p&gt;&lt;p&gt;The US ha...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/us-firefighters-staffing-shortage",
-      "pubDate": "Wed, 19 Aug 2026 14:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/057083049275ccb9e4e7b88aa8af145ec7275136/1303_0_6514_5214/master/6514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30e31f13a5362fc8f7d9c540a979eb2e"
-    },
-    {
-      "title": "Hawaii crews work to restore power to thousands after Lala outages",
-      "description": "&lt;p&gt;Storm also caused destructive flooding and damage to homes and infrastructure with one woman dead&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/hawaii-power-outages-storm-lala-damage",
-      "pubDate": "Wed, 19 Aug 2026 13:18:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/96b349d770709e7e928dc42735434836be5862ef/61_0_4999_3997/master/4999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60be720e49233f8cc810f0401fe4e88a"
-    },
-    {
-      "title": "Proposed Data Centers Could Use More Electricity Than All Alabama Homes Combined, Analysis Shows. Who Will Pay?",
-      "description": "Wired for Profit: Fourth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer...",
-      "link": "https://insideclimatenews.org/news/19082026/alabama-power-proposed-data-centers-utility-bills/",
-      "pubDate": "Wed, 19 Aug 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
