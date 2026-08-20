@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-20T11:34:12.371Z",
+  "lastUpdated": "2026-08-20T13:03:00.206Z",
   "articles": [
+    {
+      "title": "Notes from Illinois’ Virtual Power Plant Frontier",
+      "description": "Illinois is the latest example of how a state can embrace virtual power plants and see results almost immediately. Today, Solrite Energy is announcing...",
+      "link": "https://insideclimatenews.org/news/20082026/inside-clean-energy-illinois-virtual-power-plants/",
+      "pubDate": "Thu, 20 Aug 2026 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "PSG’s Ligue 1 home opener moved to Rennes after pitch damaged by heat",
+      "description": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;Sunday’s match against Rennes moved at short notice&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Parc des Princes surface poses...",
+      "link": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
+      "pubDate": "Thu, 20 Aug 2026 12:41:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4ef8d9f4bc01444203fe64701b47f68b21c37b3d/813_1090_5518_4414/master/5518.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81dbe697b4992c6d37da5e0c391297c2"
+    },
+    {
+      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
+      "description": "&lt;p&gt;The prime minister has promised a crackdown on criminal gangs making money from dumping waste &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Value being ge...",
+      "link": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+      "pubDate": "Thu, 20 Aug 2026 12:36:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4d10d26edc19776d319f958f2ba742ba7760a848/604_0_4410_3528/master/4410.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6d8cf83d1f321d2889b998f87871353"
+    },
+    {
+      "title": "Thunderstorm warnings expire but rain continues to bring risk of floods for UK",
+      "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains....",
+      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 12:23:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Northern Ireland farm profits topped £1bn in 2025",
       "description": "The overall performance in 2025 was heavily influenced by developments in the beef sector which saw prices rise to record levels....",
@@ -9,15 +45,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
-      "description": "&lt;p&gt;The prime minister has promised a crackdown on criminal gangs making money from dumping waste &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Gender studies...",
-      "link": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
-      "pubDate": "Thu, 20 Aug 2026 11:14:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f9c1f8608a1d6877c1c8c998524c0e79990b9d27/360_0_2889_2311/master/2889.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e06116c08873e4ee6595334e503aaf5d"
     },
     {
       "title": "How one American couple ditched their lawn and created a wildlife haven – and you could too",
@@ -101,15 +128,6 @@
       "image": "https://grist.org/wp-content/uploads/2026/07/cyclospora.jpg"
     },
     {
-      "title": "Rain to continue for UK with risk of flash flooding",
-      "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains....",
-      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 08:41:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "How Florida quietly removed climate change content from textbooks",
       "description": "Publishers acceded to state requests watering down information on climate change’s impact, a WUSF/Hechinger Report investigation finds. Now the state ...",
       "link": "https://grist.org/politics/how-florida-quietly-removed-climate-change-content-from-textbooks/",
@@ -137,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/395e428b608c39ea390e0786278de4935e151cfb/0_1716_4928_3941/master/4928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=752f8886f5bfe0737d21419c34d2539f"
     },
     {
-      "title": "Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business",
-      "description": "&lt;p&gt;Dwindling donations and stiff competition from secondhand sellers online prompt review but ‘no plans for closures yet’&lt;/p&gt;&lt;p&gt;Oxfa...",
-      "link": "https://www.theguardian.com/world/2026/aug/20/oxfam-cant-guarantee-future-of-charity-shops-as-it-also-reviews-warehouse-business",
-      "pubDate": "Thu, 20 Aug 2026 05:00:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f88634f8dddb5664ad2a563f62a4db78b61b77be/470_0_4511_3608/master/4511.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=896fcfe156c600a38fe9e06f3915ae29"
-    },
-    {
       "title": "From bone-dry to soaked to the bone, welcome to the age of climate whiplash | Aditya Chakrabortty",
       "description": "&lt;p&gt;This punishingly hot and dry summer will probably be followed by another wet winter. But it’s nothing compared with what Britain will endure ...",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/20/hot-summer-wet-winter-welcome-to-the-age-of-climate-whiplash",
@@ -153,15 +162,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7be85c6e2150dbc2377e325ed9b4f93416c6f528/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8384a8f5fe84459bdaabfe6f06bceca1"
-    },
-    {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"....",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 02:05:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Giant whales move into Greenland waters as ice disappears",
