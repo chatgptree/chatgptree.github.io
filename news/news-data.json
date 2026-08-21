@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-21T10:37:06.647Z",
+  "lastUpdated": "2026-08-21T11:32:30.023Z",
   "articles": [
+    {
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record....",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 10:37:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "King penguin chick hatches in UK heatwave",
       "description": "The \"very important little penguin\" is the first of its kind to hatch in the UK in more than a decade....",
@@ -12,7 +21,7 @@
     },
     {
       "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
-      "description": "&lt;p&gt;Exclusive: Planning documents show datacentre in north Ockendon will be incompatible with UK net zero targets&lt;/p&gt;&lt;p&gt;A “hyperscale...",
+      "description": "&lt;p&gt;Exclusive: Planning documents show datacentre in North Ockendon would be incompatible with UK net zero targets&lt;/p&gt;&lt;p&gt;A “hyperscal...",
       "link": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
       "pubDate": "Fri, 21 Aug 2026 10:00:31 GMT",
       "sourceName": "theguardian.com",
@@ -81,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8aa3659fc24cd3e435126927775ad001f6ff01b5/494_0_4429_3543/master/4429.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e0cce50bf648ea1f1ee34fae880efd7"
-    },
-    {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record....",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Increased rain and storms to hit UK due to biggest El Niño for a century, says Met Office",
