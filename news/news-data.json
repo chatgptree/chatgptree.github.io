@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-21T17:35:50.074Z",
+  "lastUpdated": "2026-08-21T18:48:08.718Z",
   "articles": [
+    {
+      "title": "Dog warning as suspected palm oil washes up on beach",
+      "description": "Palm oil can be toxic to dogs who may be attracted to its smell....",
+      "link": "https://www.bbc.co.uk/news/articles/c0km61yeeero?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 18:30:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
+      "description": "&lt;p&gt;Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwave&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
+      "pubDate": "Fri, 21 Aug 2026 18:07:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08b8db0380468c0b45c6c7508286003d"
+    },
     {
       "title": "Should school holidays change to cope with extreme heat?",
       "description": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Solar buoyed Europe&#8217;s grid amid record-breaking heat and drought this summer",
-      "description": "The season of extreme weather holds lessons for how the continent can climate-proof its energy systems....",
-      "link": "https://grist.org/energy/heat-waves-europe-grid-solar-energy/",
-      "pubDate": "Fri, 21 Aug 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In a drier world, some infectious diseases are unexpectedly thriving",
-      "description": "Researchers are beginning to untangle how the “drought-disease paradox” works....",
-      "link": "https://grist.org/drought/even-in-droughts-these-waterborne-diseases-can-boom/",
-      "pubDate": "Fri, 21 Aug 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2089851446.jpg"
     }
   ]
 }
