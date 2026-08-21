@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-21T09:44:28.546Z",
+  "lastUpdated": "2026-08-21T10:37:06.647Z",
   "articles": [
+    {
+      "title": "King penguin chick hatches in UK heatwave",
+      "description": "The \"very important little penguin\" is the first of its kind to hatch in the UK in more than a decade....",
+      "link": "https://www.bbc.co.uk/news/articles/clyj3yrerpeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 10:22:10 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+      "description": "&lt;p&gt;Exclusive: Planning documents show datacentre in north Ockendon will be incompatible with UK net zero targets&lt;/p&gt;&lt;p&gt;A “hyperscale...",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+      "pubDate": "Fri, 21 Aug 2026 10:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5e4995a896e3c857e647f342a61e99386d8893db/53_0_3076_2461/master/3076.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6d37c772276db202b14ba171164fc525"
+    },
     {
       "title": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
       "description": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\"....",
@@ -74,7 +92,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Increased rainfall and storms to hit UK due to biggest El Niño for a century, says Met Office",
+      "title": "Increased rain and storms to hit UK due to biggest El Niño for a century, says Met Office",
       "description": "&lt;p&gt;‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide with severe droughts expected in southern hemisphere&lt;/p&gt;&lt;p&g...",
       "link": "https://www.theguardian.com/environment/2026/aug/21/increased-rainfall-and-storms-to-hit-uk-due-to-biggest-el-nino-for-a-century-say-met-office",
       "pubDate": "Fri, 21 Aug 2026 07:42:21 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/72094ce431c4146443a1277d6ab3f83fac27d8c0/987_0_4935_3948/master/4935.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=127998bf87fe197bb8b31a7c0342fbc8"
-    },
-    {
-      "title": "More than 50 Sloths Died at a Florida Wildlife Attraction. Officials Say No Crime Occurred.",
-      "description": "New investigative findings from a Florida sheriff’s office detail the stark conditions of emaciated and dehydrated sloths at a planned tourism attract...",
-      "link": "https://insideclimatenews.org/news/20082026/florida-sloth-world-deaths-investigation-concludes-no-crime/",
-      "pubDate": "Thu, 20 Aug 2026 22:57:43 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Has a personalised cancer vaccine become reality?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9781?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 20:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
