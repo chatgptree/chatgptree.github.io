@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-20T23:32:14.973Z",
+  "lastUpdated": "2026-08-21T01:48:41.608Z",
   "articles": [
+    {
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record....",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rain to stop in time for weekend as sun returns",
+      "description": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights ...",
+      "link": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 00:14:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California oil pipeline can continue to operate, judge rules",
+      "description": "&lt;p&gt;State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening &lt;/p&gt;&lt;p&gt;An oil p...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
+      "pubDate": "Fri, 21 Aug 2026 00:13:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/72094ce431c4146443a1277d6ab3f83fac27d8c0/987_0_4935_3948/master/4935.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=127998bf87fe197bb8b31a7c0342fbc8"
+    },
     {
       "title": "More than 50 Sloths Died at a Florida Wildlife Attraction. Officials Say No Crime Occurred.",
       "description": "New investigative findings from a Florida sheriff’s office detail the stark conditions of emaciated and dehydrated sloths at a planned tourism attract...",
@@ -27,15 +54,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Controversial California oil pipeline can continue to operate, judge rules",
-      "description": "&lt;p&gt;State sought to stop system off coast of Santa Barbara from resuming operations after Trump ordered its reopening &lt;/p&gt;&lt;p&gt;A contro...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
-      "pubDate": "Thu, 20 Aug 2026 20:13:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/72094ce431c4146443a1277d6ab3f83fac27d8c0/987_0_4935_3948/master/4935.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=127998bf87fe197bb8b31a7c0342fbc8"
     },
     {
       "title": "BBC Inside Science",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9a970f0f794852df2d6450d9f6183c4df61f195c/0_0_4659_3727/master/4659.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a7db3b486ef50c0bde9926eb966faaa"
-    },
-    {
-      "title": "Europe Faces Surging Wildfire Threat, New Research Shows",
-      "description": "Wildfires in Europe could burn across about 39 percent more land by the end of the century, even if greenhouse gas emissions decline rapidly over the ...",
-      "link": "https://insideclimatenews.org/news/20082026/europe-surging-wildfire-threat/",
-      "pubDate": "Thu, 20 Aug 2026 09:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pressure Increases for Texas to Allow Treated Drilling Waste Into Rivers and Rangeland",
-      "description": "ORLA, Texas—Elected officials and industry leaders warn that Texas is at the “precipice” of running out of underground space to dispose of the nearly ...",
-      "link": "https://insideclimatenews.org/news/20082026/texas-oil-wastewater-treatment/",
-      "pubDate": "Thu, 20 Aug 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
