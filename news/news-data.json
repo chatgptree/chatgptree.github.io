@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-21T07:51:38.175Z",
+  "lastUpdated": "2026-08-21T08:50:12.824Z",
   "articles": [
+    {
+      "title": "Solar buoyed Europe&#8217;s grid amid record-breaking heat and drought this summer",
+      "description": "The season of extreme weather holds lessons for how the continent can climate-proof its energy systems....",
+      "link": "https://grist.org/drought/heat-waves-europe-grid-solar-energy/",
+      "pubDate": "Fri, 21 Aug 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In a drier world, some infectious diseases are unexpectedly thriving",
+      "description": "Researchers are beginning to untangle how the “drought-disease paradox” works....",
+      "link": "https://grist.org/drought/even-in-droughts-these-waterborne-diseases-can-boom/",
+      "pubDate": "Fri, 21 Aug 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2089851446.jpg"
+    },
+    {
+      "title": "Cut cost of loans for solar panels on UK homes, ministers urged",
+      "description": "&lt;p&gt;Report says ‘solar bonds’ could fund wider access to clean energy, reducing household bills&lt;/p&gt;&lt;p&gt;Solar panels could be cheaper f...",
+      "link": "https://www.theguardian.com/environment/2026/aug/21/cut-cost-of-loans-for-solar-panels-on-uk-homes-ministers-urged",
+      "pubDate": "Fri, 21 Aug 2026 08:00:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8aa3659fc24cd3e435126927775ad001f6ff01b5/494_0_4429_3543/master/4429.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e0cce50bf648ea1f1ee34fae880efd7"
+    },
     {
       "title": "El Niño set to be 'strongest in living memory', says Met Office",
       "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record....",
@@ -9,6 +36,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Increased rainfall and storms to hit UK due to biggest El Niño for a century, says Met Office",
+      "description": "&lt;p&gt;‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide with severe droughts expected in southern hemisphere&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/environment/2026/aug/21/increased-rainfall-and-storms-to-hit-uk-due-to-biggest-el-nino-for-a-century-say-met-office",
+      "pubDate": "Fri, 21 Aug 2026 07:42:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7fd1cdf95bce2a8f38f438e41490419e80a89177/743_0_4713_3773/master/4713.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b1f64d8592feaa6c0b0d1db820de13f"
     },
     {
       "title": "Week in wildlife: Bat in a toilet, a speeding gull and a bird with shoes",
@@ -103,7 +139,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Has a personalised cancer vaccine become reality?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9781?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -142,42 +178,6 @@
       "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 15:02:16 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flash flooding risk as heavy rain hits UK",
-      "description": "Heavy showers and thunderstorms will continue to affect large parts of the UK....",
-      "link": "https://www.bbc.co.uk/news/videos/c2lq4lwy0z0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 14:54:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump plan to allow drilling near US world heritage site sparks alarm",
-      "description": "&lt;p&gt;Administration’s plan to scrap drilling-free buffer zone around New Mexico site prompts scrutiny from Unesco&lt;/p&gt;&lt;p&gt;The Trump admi...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
-      "pubDate": "Thu, 20 Aug 2026 14:00:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cbebb6d23025b15804dfb0b7a3292e549a58cacf/480_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35377430cb91a321cb44c042ee1afd71"
-    },
-    {
-      "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-      "description": "&lt;p&gt;Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to fundi...",
-      "link": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
-      "pubDate": "Thu, 20 Aug 2026 14:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=154118993bb8d384e4bf3f65f6b24e4a"
-    },
-    {
-      "title": "Notes from Illinois’ Virtual Power Plant Frontier",
-      "description": "Illinois is the latest example of how a state can embrace virtual power plants and see results almost immediately. Today, Solrite Energy is announcing...",
-      "link": "https://insideclimatenews.org/news/20082026/inside-clean-energy-illinois-virtual-power-plants/",
-      "pubDate": "Thu, 20 Aug 2026 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
