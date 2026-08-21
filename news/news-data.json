@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-21T06:58:33.695Z",
+  "lastUpdated": "2026-08-21T07:51:38.175Z",
   "articles": [
+    {
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record....",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Week in wildlife: Bat in a toilet, a speeding gull and a bird with shoes",
+      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/aug/21...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/aug/21/week-in-wildlife-bat-toilet-speeding-gull-bird-shoes",
+      "pubDate": "Fri, 21 Aug 2026 07:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e7304e6f6097d2e5efb7845a7caf765ca935219b/299_0_1701_1360/master/1701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ceff0394ee5179bd727d4400b998a53"
+    },
     {
       "title": "Eco homes that can stay cool for sale in England and Wales – in pictures",
       "description": "&lt;p&gt;From a triple-glazed barn conversion in a Welsh valley to a thermally regulated home in a busy area of London&lt;/p&gt; &lt;a href=\"https://w...",
@@ -54,15 +72,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/abc864574d0ca0170b54b16849bb3978a3f10789/512_0_7680_6144/master/7680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f9c73e011997e18fb06d6165e11c95c"
-    },
-    {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record....",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Rain to stop in time for weekend as sun returns",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "PSG’s Ligue 1 home opener moved to Rennes after pitch damaged by heat",
-      "description": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;Sunday’s match against Rennes switched at short notice&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Parc des Princes surface po...",
-      "link": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
-      "pubDate": "Thu, 20 Aug 2026 12:41:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4ef8d9f4bc01444203fe64701b47f68b21c37b3d/813_1090_5518_4414/master/5518.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81dbe697b4992c6d37da5e0c391297c2"
     }
   ]
 }
