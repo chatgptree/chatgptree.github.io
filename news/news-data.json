@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-22T22:29:33.025Z",
+  "lastUpdated": "2026-08-22T23:27:28.082Z",
   "articles": [
+    {
+      "title": "How a new era of heatwaves could shake up the school calendar",
+      "description": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months....",
+      "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 23:16:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Firefighters sound alarm as US faces critical staffing shortage: ‘We don’t have enough people’",
       "description": "Firefighters describe being pushed to limit by a brutal wildfire season, with key leadership roles going unfilled....",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The US has a plan to save the Colorado River. Experts say it won’t be enough to stop the crisis",
-      "description": "&lt;p&gt;The 10-year blueprint mandates water cuts of up to 40% for California, Arizona and Nevada&lt;/p&gt;&lt;p&gt;It’s official: after years of ten...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan",
-      "pubDate": "Fri, 21 Aug 2026 19:41:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e349d7a14d690522c52ba9071b3ebb0b0316046f/649_0_6774_5420/master/6774.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3122b3484ac93f954c39a0a7ff8d3bb2"
     }
   ]
 }
