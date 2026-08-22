@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-22T05:33:46.755Z",
+  "lastUpdated": "2026-08-22T06:52:29.372Z",
   "articles": [
+    {
+      "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show",
+      "description": "&lt;p&gt;Experts say fires caused by wrongly discarded lithium batteries, such as those  in vapes, are putting lives at risk&lt;/p&gt;&lt;p&gt;Fires a...",
+      "link": "https://www.theguardian.com/environment/2026/aug/22/lithium-battery-fires-waste-recycling-centres-vapes-uk",
+      "pubDate": "Sat, 22 Aug 2026 06:00:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2058df30df69be6092ae9b64b2aa939286c42c4d/604_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0ccd1ed09c6c184209e2f6717e1ae55"
+    },
     {
       "title": "‘We are in the inferno’: diaspora writers lead new movement of nature poetry",
       "description": "&lt;p&gt;UK anthology inspired by question: ‘Where are our black and Asian nature writers?’ has boosted interest in genre&lt;/p&gt;&lt;p&gt;A new move...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/59b80cab3f3092ef58eff8de3c57cd31f246bfbf/282_0_2296_1837/master/2296.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea576a4d464b5e7af3413eb3e4556d68"
-    },
-    {
-      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-      "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn....",
-      "link": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 14:17:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
