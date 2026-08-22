@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-22T09:34:06.889Z",
+  "lastUpdated": "2026-08-22T10:31:33.404Z",
   "articles": [
+    {
+      "title": "Council set to axe climate emergency declaration",
+      "description": "Barnsley Council says a review is under way to asses climate and net zero-related activity....",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1v63ngz1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 10:18:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Its pretty much a guarantee you’ll get stung’: jellyfish keep swimmers out of Delaware beaches",
+      "description": "&lt;p&gt;Beach patrols report hundreds of stings a day as warmer waters and drought create favorable conditions for jellyfish&lt;/p&gt;&lt;p&gt;An unu...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/22/jellyfish-sting-delaware-beaches",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1e2efb5ad77ec68e1d4778ce0444eea85a712e03/4_742_3759_3006/master/3759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18896470af39a01ef13f7eb9a78c41df"
+    },
     {
       "title": "A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia",
       "description": "In Ulaanbaatar, Mongolia, policy makers, scientists and global negotiators are gathering to convey an urgent message: The world’s rangelands, which ma...",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08b8db0380468c0b45c6c7508286003d"
-    },
-    {
-      "title": "Should school holidays change to cope with extreme heat?",
-      "description": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?...",
-      "link": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 15:23:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record....",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 15:07:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
