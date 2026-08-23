@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-23T17:26:29.707Z",
+  "lastUpdated": "2026-08-23T18:39:31.337Z",
   "articles": [
+    {
+      "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+      "description": "&lt;p&gt;Hawk fire has covered more than 10,500 acres as blaze approaches University of Nevada campus in Reno&lt;/p&gt;&lt;p&gt;A fast-moving &lt;a hr...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+      "pubDate": "Sun, 23 Aug 2026 18:22:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40d26ed080c5af284172c2611408eda4"
+    },
+    {
+      "title": "France links sharp rise in drownings to heatwaves",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "France links sharp rise in drownings to heatwaves",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Ella Baron on AI and the drought – cartoon",
       "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon\"&gt;Continue reading...&lt;/a&gt;...",
@@ -27,24 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/69801ef906d5d7e1c74f67da2ee7a15000f279d5/832_0_4316_3456/master/4316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d9a09aa38b3edde19462720d3f5fdb4"
-    },
-    {
-      "title": "France links rise in drownings to heatwaves",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "France links rise in drownings to heatwaves",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Trump ordered to release billions in climate grants meant for Black communities",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1e2efb5ad77ec68e1d4778ce0444eea85a712e03/4_742_3759_3006/master/3759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18896470af39a01ef13f7eb9a78c41df"
-    },
-    {
-      "title": "A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia",
-      "description": "In Ulaanbaatar, Mongolia, policy makers, scientists and global negotiators are gathering to convey an urgent message: The world’s rangelands, which ma...",
-      "link": "https://insideclimatenews.org/news/22082026/convention-to-combat-desertification-highlights-soil-crisis/",
-      "pubDate": "Sat, 22 Aug 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
