@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-24T21:36:05.151Z",
+  "lastUpdated": "2026-08-24T22:34:14.803Z",
   "articles": [
+    {
+      "title": "ERCOT Says Abbott’s Data Center Audit Will Be Done in December",
+      "description": "The first group of large data centers in line to get connected to Texas’ grid won’t move forward until mid-December, grid officials say.&#160; Electri...",
+      "link": "https://insideclimatenews.org/news/24082026/texas-gov-abbott-data-centers-audit/",
+      "pubDate": "Mon, 24 Aug 2026 22:06:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
       "description": "&lt;p&gt;In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years&lt;/p&gt;&lt;p&gt;Nevada f...",
@@ -20,8 +29,8 @@
       "image": "https://i.guim.co.uk/img/media/b76e2cbaab6441e93c769a75e6987cf347ad859f/407_0_4051_3243/master/4051.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92f87ca748f2015b9f8186838d6870b8"
     },
     {
-      "title": "About 90,000 urged to evacuate as fast-moving wildfire threatens Reno, Nevada",
-      "description": "&lt;p&gt;‘Human-caused’, wind-driven fire in Reno leaves thousands of homes and businesses without power, officials say&lt;/p&gt;&lt;p&gt;Authorities ...",
+      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+      "description": "&lt;p&gt;Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze&lt;/p&gt;&lt;p&gt;The Hawk fire is abo...",
       "link": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
       "pubDate": "Mon, 24 Aug 2026 17:26:42 GMT",
       "sourceName": "theguardian.com",
@@ -75,7 +84,7 @@
     },
     {
       "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
-      "description": "&lt;p&gt;Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups&lt;/p&gt;&lt;ul&gt;&lt...",
+      "description": "&lt;p&gt;Virus has already caused catastrophic losses in seals in South America and sub-Antarctica, particularly among pups&lt;/p&gt;&lt;ul&gt;&lt;li&...",
       "link": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
       "pubDate": "Mon, 24 Aug 2026 15:00:36 GMT",
       "sourceName": "theguardian.com",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/06/indigenous-knowledge.jpg"
-    },
-    {
-      "title": "Even meteorologists are baffled by the Midwestern tornado season",
-      "description": "More than 200 tornadoes have hit Illinois this year. Here's how the twisters form, and how climate change might be influencing them....",
-      "link": "https://grist.org/extreme-weather/even-meteorologists-are-baffled-by-the-midwestern-tornado-season/",
-      "pubDate": "Mon, 24 Aug 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
