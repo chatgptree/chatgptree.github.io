@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T19:37:39.544Z",
+  "lastUpdated": "2026-08-24T20:38:51.326Z",
   "articles": [
     {
       "title": "French tourist dies in California’s Death Valley after being stranded in heat",
@@ -9,6 +9,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b76e2cbaab6441e93c769a75e6987cf347ad859f/407_0_4051_3243/master/4051.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92f87ca748f2015b9f8186838d6870b8"
+    },
+    {
+      "title": "About 90,000 urged to evacuate as fast-moving wildfire threatens Reno, Nevada",
+      "description": "&lt;p&gt;‘Human-caused’, wind-driven fire in Reno leaves thousands of homes and businesses without power, officials say&lt;/p&gt;&lt;p&gt;Authorities ...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "pubDate": "Mon, 24 Aug 2026 17:26:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6228aa1da571303e22f95d53821155e9"
     },
     {
       "title": "More downpours and thunderstorms are heading the UK's way",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b1c138581dfdb0d3ad5c3e6a9f769bebe5972389/424_0_6230_4984/master/6230.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=786b6067026e3ec07b06f8d7794ad4db"
-    },
-    {
-      "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-      "description": "&lt;p&gt;Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno&lt;/p&gt;&lt;p&gt;A fast-moving ...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-      "pubDate": "Sun, 23 Aug 2026 18:22:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40d26ed080c5af284172c2611408eda4"
     }
   ]
 }
