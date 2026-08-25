@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-25T06:59:50.480Z",
+  "lastUpdated": "2026-08-25T07:53:04.504Z",
   "articles": [
+    {
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital....",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 07:49:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The war on ‘loudcasting’ phones can be won, but it will take some very British nudging | Dan Hancox",
+      "description": "&lt;p&gt;Although mobiles blared in public are nothing new, this crop of headphone-dodging irritants are truly maddening. It’s time to take them on&lt...",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/25/war-loudcasting-british-nudging-phones-public",
+      "pubDate": "Tue, 25 Aug 2026 07:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6f4f99912c6513d8d8c1dbd188a47575928439ff/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb203038fe16d8a93a13547f6657196c"
+    },
+    {
+      "title": "Going with the grain: how restoring biodiversity led one farmer back to heritage wheat",
+      "description": "&lt;p&gt;Henry Astor looked back to his grandfather’s time for the inspiration to find older varieties that could help nature on his Cotswold farm&lt;...",
+      "link": "https://www.theguardian.com/environment/2026/aug/25/farmer-cut-out-middleman-restore-biodiversity-henry-astor-heritage-wheat-aoe",
+      "pubDate": "Tue, 25 Aug 2026 07:00:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/58f9742318bb6667fde12f0cec1ec00267e5b75c/0_0_3335_2668/master/3335.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88c63a40167805378259fc9dc1e2cc6f"
+    },
     {
       "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
       "description": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour....",
@@ -54,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6228aa1da571303e22f95d53821155e9"
-    },
-    {
-      "title": "Tornado tears through French village leaving dozens injured",
-      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital....",
-      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 01:27:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Fearing ‘Catastrophic Impacts’ From Water Cuts, Nevada Sues Feds Over Colorado River Plan",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/aa2d648008f26d0adcb1569700ca4030ae953c22/0_0_2250_1800/master/2250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1058021600127f4af95b7f8456439c4"
-    },
-    {
-      "title": "This is not a natural calamity: it is being done to us knowingly",
-      "description": "&lt;p&gt;Global heating is an outrage, not a tragedy. We deserve the facts about the climate crisis – I choose the Guardian because it’s one of the fe...",
-      "link": "https://www.theguardian.com/membership/2026/aug/24/this-is-not-a-natural-calamity-it-is-being-done-to-us-knowingly",
-      "pubDate": "Mon, 24 Aug 2026 09:45:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/30ff0773afa252088916b5337a4a322cd14c3373/286_0_2813_2251/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2375ef5485235016737ad1ce955bdc67"
-    },
-    {
-      "title": "Can Burnham justify giving the go ahead to oil drilling? Yes, but these must be the conditions | Michael Jacobs",
-      "description": "&lt;p&gt;Carbon capture and storage could make the Rosebank site compatible with UK net zero commitments – if its owners are willing to pay the price&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/24/andy-burnham-rosebank-carbon-capture-storage-north-sea-uk-net-zero-commitments",
-      "pubDate": "Mon, 24 Aug 2026 09:00:29 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/85e368bfef213785b04a36de28522587a6540ca8/548_0_4761_3809/master/4761.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acf8a1fd2805457856975b791a2a9076"
     }
   ]
 }
