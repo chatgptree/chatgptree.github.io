@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-25T09:42:52.130Z",
+  "lastUpdated": "2026-08-25T10:40:03.583Z",
   "articles": [
+    {
+      "title": "Fishy business: who really profits when sardines go viral? - video",
+      "description": "&lt;p&gt;Once a cheap store-cupboard staple, sardines are fast becoming a luxury food item. Last year, #SardineGirlSummer saw influencers promoting th...",
+      "link": "https://www.theguardian.com/news/video/2026/aug/25/fishy-business-who-really-profits-when-sardines-go-viral-video",
+      "pubDate": "Tue, 25 Aug 2026 10:00:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0816d0c2d337c0ce295060b06dfad317f228f809/497_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=890ef884b178348eb30e6e42e9a008ea"
+    },
+    {
+      "title": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
+      "description": "&lt;p&gt;There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacenters&lt;/p&gt;&lt;p&gt;The US has s...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
+      "pubDate": "Tue, 25 Aug 2026 10:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/eefa8d1f22850faaa1e33b76f97897de676682e5/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d55d368d8ce365abafddc1858ef19ed6"
+    },
     {
       "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
       "description": "&lt;p&gt;New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sit...",
@@ -83,7 +101,7 @@
       "image": "https://grist.org/wp-content/uploads/2026/01/Offshore-wind-Trump.jpg"
     },
     {
-      "title": "‘It’s the unseen pollution’: how getting farmers, fishers and beavers together could save a Cornish river",
+      "title": "‘Small changes can make a big difference’: how getting farmers, fishers and beavers together could save a Cornish river",
       "description": "&lt;p&gt;A local initiative is testing simple ways to stop algal blooms in the River Fal threatening some of England’s most biodiverse marine habitats...",
       "link": "https://www.theguardian.com/environment/2026/aug/25/pollution-runoff-farmers-fishers-cornwall-river-fal-england-marine-habitats-algae-beavers",
       "pubDate": "Tue, 25 Aug 2026 08:17:21 GMT",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "ERCOT Says Abbott’s Data Center Audit Will Be Done in December",
-      "description": "The first group of large data centers in line to get connected to Texas’ grid won’t move forward until mid-December, grid officials say.&#160; Electri...",
-      "link": "https://insideclimatenews.org/news/24082026/texas-gov-abbott-data-centers-audit/",
-      "pubDate": "Mon, 24 Aug 2026 22:06:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
-      "description": "&lt;p&gt;In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years&lt;/p&gt;&lt;p&gt;Nevada f...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "pubDate": "Mon, 24 Aug 2026 20:56:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1825e373dc059a7d60ace440568f406"
     }
   ]
 }
