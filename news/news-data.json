@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-25T22:34:43.658Z",
+  "lastUpdated": "2026-08-25T23:30:59.716Z",
   "articles": [
+    {
+      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+      "description": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks...",
+      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 23:11:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups....",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 23:09:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "description": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups....",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 23:09:31 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Record-breaking heat dome expected to bring dangerous temperatures to US south-west",
+      "description": "&lt;p&gt;As wildfires rage and intense heat builds across the region, daytime highs of 110-11F (43-46C) are forecast&lt;/p&gt;&lt;p&gt;Surging tempera...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/25/us-weather-heat-dome-south-west",
+      "pubDate": "Tue, 25 Aug 2026 22:40:43 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6689d6eab8ca1f6b436d76d4c3fbf8da47b80f04/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01f3eb2e64a12389fad1713550f4451c"
+    },
     {
       "title": "‘Unbearable’ Heat in Uncooled Alabama Prisons",
       "description": "ELMORE, Ala.—Tiffany Montellano can’t sleep.&#160; Instead, she lies awake, worried about her husband Andrew, 31, who is incarcerated at Elmore Correc...",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/eefa8d1f22850faaa1e33b76f97897de676682e5/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d55d368d8ce365abafddc1858ef19ed6"
-    },
-    {
-      "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
-      "description": "&lt;p&gt;New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sit...",
-      "link": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview",
-      "pubDate": "Tue, 25 Aug 2026 09:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/42f59ccc0fad7b232d1ca4fbc23f45af6f4cf526/248_0_1349_1080/master/1349.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a19400379aa1d6b7e659b6eb7b7c588"
-    },
-    {
-      "title": "From Scotland, I look at England’s water privatisation disaster. I wish you had done what we did | Devi Sridhar",
-      "description": "&lt;p&gt;Listening to debate, you’d think bringing English water companies into public ownership was a radical socialist idea. Here, we call it common...",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/25/scotland-england-water-privatisation-disaster",
-      "pubDate": "Tue, 25 Aug 2026 09:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cce9d62e3977c84afee1cc46334f439674c81f03/134_0_3743_2994/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e5dfccfda324e507569116f6d7d1590"
-    },
-    {
-      "title": "The Biggest Carbon Polluters Are to Blame for Half of U.S. Western Water Lost to Climate Change, ‘Groundbreaking’ Paper Says",
-      "description": "Some of the largest fossil fuel companies on Earth are disproportionately responsible for the water crisis in the American West, according to a first-...",
-      "link": "https://insideclimatenews.org/news/25082026/attribution-study-links-carbon-majors-to-colorado-river-crisis/",
-      "pubDate": "Tue, 25 Aug 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Data Center Developers in Texas Plan Massive New Gas Power Projects",
-      "description": "The 12 largest gas power projects planned in Texas are all specifically intended to run data centers, according to data released Tuesday by Global Ene...",
-      "link": "https://insideclimatenews.org/news/25082026/texas-data-center-gas-projects/",
-      "pubDate": "Tue, 25 Aug 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
