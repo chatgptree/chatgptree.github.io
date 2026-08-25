@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-25T03:06:38.197Z",
+  "lastUpdated": "2026-08-25T04:46:46.724Z",
   "articles": [
+    {
+      "title": "Europe’s heatwaves threaten insurers’ earnings, rating agency S&amp;P says",
+      "description": "&lt;p&gt;Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums&lt;/p&gt;&lt;p&gt;Europe’s i...",
+      "link": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
+      "pubDate": "Tue, 25 Aug 2026 04:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b09459c467eb2978c2321c31255d9ebddfcb9f26/387_0_3873_3099/master/3873.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e39ecf4c845f03c715d59465c0b28df"
+    },
+    {
+      "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+      "description": "&lt;p&gt;True figure likely to be much higher as it only covers about half of continent and does not include August totals&lt;/p&gt;&lt;p&gt;At least ...",
+      "link": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
+      "pubDate": "Tue, 25 Aug 2026 04:00:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2891e6ab0092b67db39326b3f6d122e2340d62fa/654_0_6015_4814/master/6015.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b34bcc500bf0f7e9a8c9d8dd98791e44"
+    },
     {
       "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
       "description": "&lt;p&gt;Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze&lt;/p&gt;&lt;p&gt;The Hawk fire is abo...",
@@ -107,7 +125,7 @@
       "pubDate": "Mon, 24 Aug 2026 15:00:36 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7292b73c9b9506e5ff6956748fbbdfc5"
+      "image": "https://i.guim.co.uk/img/media/80f400c0a4eda83860dc330d64f001e7f5dd55bc/1307_880_1858_1486/master/1858.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b4adee46dc2a30a252faf4cd0ebc60b"
     },
     {
       "title": "Thames Water creditors accused of ‘shuffling chairs on Titanic’ with plan for new board",
@@ -117,15 +135,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0228071c7edd2bcb94bf8e02be728881"
-    },
-    {
-      "title": "World’s oceans hit hottest temperature on record in August",
-      "description": "&lt;p&gt;Average sea surface temperature outside polar regions was 21.1C on Saturday, latest data finds&lt;/p&gt;&lt;p&gt;The world’s oceans were hott...",
-      "link": "https://www.theguardian.com/environment/2026/aug/24/worlds-oceans-hit-hottest-temperature-on-record-in-august",
-      "pubDate": "Mon, 24 Aug 2026 12:49:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3732d43fcda2d3d94ddfcd06214d810a007f6cf0/849_0_4550_3640/master/4550.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38bd1de7903eca0b60a576c3b7152aa4"
     },
     {
       "title": "Devastation, doubt and blame: Hurricane Helene looms over North Carolina’s US Senate race",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/08/Tennessee-Oak-Ridge-nuclear-Department-of-Energy-02.jpeg"
-    },
-    {
-      "title": "UK's rarest bird of prey rears new chicks in secret location",
-      "description": "The Montagu Harrier successfully nested for the second year running in the same secret location....",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 08:31:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
