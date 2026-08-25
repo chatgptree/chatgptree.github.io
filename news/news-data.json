@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-24T23:28:20.448Z",
+  "lastUpdated": "2026-08-25T01:43:51.159Z",
   "articles": [
+    {
+      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+      "description": "&lt;p&gt;Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze&lt;/p&gt;&lt;p&gt;The Hawk fire is abo...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "pubDate": "Tue, 25 Aug 2026 01:28:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6228aa1da571303e22f95d53821155e9"
+    },
+    {
+      "title": "Tornado tears through French village leaving dozens injured",
+      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital....",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 01:27:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Fearing ‘Catastrophic Impacts’ From Water Cuts, Nevada Sues Feds Over Colorado River Plan",
+      "description": "Three days was all it took for the Trump administration’s Colorado River plan to see a legal challenge from, somewhat ironically, Nevada.&#160; Of the...",
+      "link": "https://insideclimatenews.org/news/24082026/nevada-sues-trump-administration-over-colorado-river-plan/",
+      "pubDate": "Mon, 24 Aug 2026 23:55:21 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "ERCOT Says Abbott’s Data Center Audit Will Be Done in December",
       "description": "The first group of large data centers in line to get connected to Texas’ grid won’t move forward until mid-December, grid officials say.&#160; Electri...",
@@ -27,15 +54,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b76e2cbaab6441e93c769a75e6987cf347ad859f/407_0_4051_3243/master/4051.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92f87ca748f2015b9f8186838d6870b8"
-    },
-    {
-      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
-      "description": "&lt;p&gt;Tens of thousands are still under evacuation orders or warnings amid ‘human-caused’, wind-driven blaze&lt;/p&gt;&lt;p&gt;The Hawk fire is abo...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-      "pubDate": "Mon, 24 Aug 2026 17:26:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6228aa1da571303e22f95d53821155e9"
     },
     {
       "title": "More downpours and thunderstorms are heading the UK's way",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK's rarest bird of prey rears new chicks in secret location",
-      "description": "The Montagu Harrier successfully nested for the second year running in the same secret location....",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 08:31:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Living with drought has taught pastoralists lessons the world needs",
-      "description": "Half a billion pastoralists draw on generations of knowledge to thrive on rangelands. They say protecting their way of life would help others prepare ...",
-      "link": "https://grist.org/global-indigenous-affairs-desk/living-with-drought-has-taught-pastoralists-lessons-the-world-needs/",
-      "pubDate": "Mon, 24 Aug 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/06/indigenous-knowledge.jpg"
     }
   ]
 }
