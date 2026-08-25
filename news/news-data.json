@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-25T07:53:04.504Z",
+  "lastUpdated": "2026-08-25T08:51:42.512Z",
   "articles": [
+    {
+      "title": "US companies are on the cusp of big climate solutions. Thank the government.",
+      "description": "The Department of Energy’s moonshot funding program is working. President Trump seems inclined to keep it....",
+      "link": "https://grist.org/energy/department-of-energy-arpa-e-climate-technology/",
+      "pubDate": "Tue, 25 Aug 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/GettyImages-1475891443-1.jpg"
+    },
+    {
+      "title": "Offshore wind power projects are flailing, just when the East Coast needs them most",
+      "description": "The region needs a lot of new electricity and wants it to be clean. The Trump administration and economic headwinds crippled its best solution....",
+      "link": "https://grist.org/energy/offshore-wind-projects-east-coast-electric-grids/",
+      "pubDate": "Tue, 25 Aug 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/01/Offshore-wind-Trump.jpg"
+    },
+    {
+      "title": "‘It’s the unseen pollution’: how getting farmers, fishers and beavers together could save a Cornish river",
+      "description": "&lt;p&gt;A local initiative is testing simple ways to stop algal blooms in the River Fal threatening some of England’s most biodiverse marine habitats...",
+      "link": "https://www.theguardian.com/environment/2026/aug/25/pollution-runoff-farmers-fishers-cornwall-river-fal-england-marine-habitats-algae-beavers",
+      "pubDate": "Tue, 25 Aug 2026 08:17:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/63ce161a6fb991e4cd2a08ef8689b3f65ca891fd/118_0_2468_1976/master/2468.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce4d946b344e8c9a641380bb204ab65b"
+    },
     {
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
       "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital....",
@@ -153,33 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Our climate is changing rapidly – and our politicians sound increasingly surreal | Zoe Williams",
-      "description": "&lt;p&gt;On a panel show last week, everyone in the audience wanted to talk about the climate emergency, but the lines rolled out by a Tory MP simply ...",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/24/our-climate-is-changing-rapidly-our-politicians-sound-increasingly-surreal",
-      "pubDate": "Mon, 24 Aug 2026 15:17:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/56e21d18cb4d5739b87ad5a9e524454ce77da8c2/452_0_4524_3621/master/4524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e78d11cb49e4c324e6db1c889b64ca4a"
-    },
-    {
-      "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
-      "description": "&lt;p&gt;Virus has already caused catastrophic losses in seals in South America and sub-Antarctica, particularly among pups&lt;/p&gt;&lt;ul&gt;&lt;li&...",
-      "link": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
-      "pubDate": "Mon, 24 Aug 2026 15:00:36 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/80f400c0a4eda83860dc330d64f001e7f5dd55bc/1307_880_1858_1486/master/1858.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b4adee46dc2a30a252faf4cd0ebc60b"
-    },
-    {
-      "title": "Devastation, doubt and blame: Hurricane Helene looms over North Carolina’s US Senate race",
-      "description": "&lt;p&gt;The Democratic and the Republican candidate each blame the other for the bungled recovery effort after storm struck region&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/24/north-carolina-senate-race-hurricane-helene",
-      "pubDate": "Mon, 24 Aug 2026 10:00:30 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/aa2d648008f26d0adcb1569700ca4030ae953c22/0_0_2250_1800/master/2250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1058021600127f4af95b7f8456439c4"
     }
   ]
 }
