@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-25T05:38:06.623Z",
+  "lastUpdated": "2026-08-25T06:59:50.480Z",
   "articles": [
+    {
+      "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
+      "description": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour....",
+      "link": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 06:27:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Goat sanctuary purchases 16.9 acres of more land",
       "description": "The land purchased by Buttercups Sanctuary for Goats will enable it to house up to 160 goats....",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/85e368bfef213785b04a36de28522587a6540ca8/548_0_4761_3809/master/4761.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acf8a1fd2805457856975b791a2a9076"
-    },
-    {
-      "title": "The Trump Administration Has Spent Billions Boosting Gas Exports, Spurring More Fracking",
-      "description": "For companies looking to export natural gas, the last few years have brought both feast and famine. The growth has been so fast that some efforts have...",
-      "link": "https://insideclimatenews.org/news/24082026/trump-spends-billions-boosting-lng-exports/",
-      "pubDate": "Mon, 24 Aug 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
