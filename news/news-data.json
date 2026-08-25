@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-25T04:46:46.724Z",
+  "lastUpdated": "2026-08-25T05:38:06.623Z",
   "articles": [
+    {
+      "title": "Goat sanctuary purchases 16.9 acres of more land",
+      "description": "The land purchased by Buttercups Sanctuary for Goats will enable it to house up to 160 goats....",
+      "link": "https://www.bbc.co.uk/news/articles/cy9ze0xel30o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 05:02:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate damage would obliterate any economic benefits of new North Sea fields, analysis shows",
+      "description": "&lt;p&gt;Exclusive: Economic harm of CO2 pollution from Rosebank and Jackdaw forecast to far outweigh any boost to UK&lt;/p&gt;&lt;p&gt;The climate da...",
+      "link": "https://www.theguardian.com/environment/2026/aug/25/climate-damage-economy-north-sea-oil-gas-fields-rosebank-jackdaw",
+      "pubDate": "Tue, 25 Aug 2026 05:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9c1a9c6940f77af1ffd9228da4ffe1a30d0b18d1/536_0_6903_5523/master/6903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4217f357e0a691ea1ae4a32e721245a7"
+    },
     {
       "title": "Europe’s heatwaves threaten insurers’ earnings, rating agency S&amp;P says",
       "description": "&lt;p&gt;Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums&lt;/p&gt;&lt;p&gt;Europe’s i...",
@@ -128,15 +146,6 @@
       "image": "https://i.guim.co.uk/img/media/80f400c0a4eda83860dc330d64f001e7f5dd55bc/1307_880_1858_1486/master/1858.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b4adee46dc2a30a252faf4cd0ebc60b"
     },
     {
-      "title": "Thames Water creditors accused of ‘shuffling chairs on Titanic’ with plan for new board",
-      "description": "&lt;p&gt;Campaigners say proposal for £10bn rescue deal in bid to avoid nationalisation is a ‘cosy stitch-up’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&l...",
-      "link": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
-      "pubDate": "Mon, 24 Aug 2026 13:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0228071c7edd2bcb94bf8e02be728881"
-    },
-    {
       "title": "Devastation, doubt and blame: Hurricane Helene looms over North Carolina’s US Senate race",
       "description": "&lt;p&gt;The Democratic and the Republican candidate each blame the other for the bungled recovery effort after storm struck region&lt;/p&gt;&lt;p&gt;...",
       "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/24/north-carolina-senate-race-hurricane-helene",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tennessee helped usher in the nuclear age. It wants to lead the way again.",
-      "description": "But the region’s long industrial and nuclear history has left more toxic legacies, too....",
-      "link": "https://grist.org/energy/tennessee-helped-usher-in-the-nuclear-age-it-wants-to-lead-the-way-again/",
-      "pubDate": "Mon, 24 Aug 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/Tennessee-Oak-Ridge-nuclear-Department-of-Energy-02.jpeg"
     }
   ]
 }
