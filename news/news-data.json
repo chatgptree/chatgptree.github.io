@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-26T10:41:39.728Z",
+  "lastUpdated": "2026-08-26T11:36:24.729Z",
   "articles": [
+    {
+      "title": "Groups sue Trump’s EPA over fast-track approval of toxic datacenter chemicals",
+      "description": "&lt;p&gt;Exposure to two compounds approved can result in ‘sudden death’ and range of other serious health risks, lawsuit warns&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals",
+      "pubDate": "Wed, 26 Aug 2026 11:00:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7a717ee0deb45162c8e2abe72807c31843e381b1/630_0_6270_5016/master/6270.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69df362ea27ecce04e025af305565cc1"
+    },
+    {
+      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
+      "description": "&lt;p&gt;ONS data shows rising toll of climate crisis, with officials warning this summer on track to set further records&lt;/p&gt;&lt;p&gt;More than ...",
+      "link": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
+      "pubDate": "Wed, 26 Aug 2026 10:55:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/80cdf450de035b42b72ff06524d44fd77f045042/0_0_4692_3754/master/4692.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0911548ed001c5556b8aad82d66a7252"
+    },
+    {
+      "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+      "description": "&lt;p&gt;Death toll of nine likely to rise as floods and mudslide sweep away houses, roads, bridges and power projects&lt;/p&gt;&lt;p&gt;Torrential fl...",
+      "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+      "pubDate": "Wed, 26 Aug 2026 10:45:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a8cacd27dfa091ae1dfc7e9bcf3da88abe3a5032/371_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c52926c055541abb5604de1c5c5f16c3"
+    },
     {
       "title": "‘132F’: meet the man calling out NYC’s infernally hot subway stations",
       "description": "&lt;p&gt;Jack Klein takes heat readings, gives fans to overheated passengers and lugs big jugs of water into the stations&lt;/p&gt;&lt;p&gt;On a recen...",
@@ -9,15 +36,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7ccd9963b28c91c57ee5fee1f4bb318e855b8f39/551_400_1206_966/master/1206.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d01d1ff3d773b4ee07f37f460a86c9b"
-    },
-    {
-      "title": "Extreme heat linked to deaths of over 40,000 people in England between 1988 and 2025",
-      "description": "&lt;p&gt;ONS data shows rising toll of climate crisis, with officials warning this summer on track to set further records&lt;/p&gt;&lt;p&gt;More than ...",
-      "link": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
-      "pubDate": "Wed, 26 Aug 2026 09:51:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/80cdf450de035b42b72ff06524d44fd77f045042/151_0_4691_3754/master/4691.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfee0c774dd5c755d21f3418cdf7fd46"
     },
     {
       "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
@@ -159,24 +177,6 @@
       "description": "The RSPB is considering measures it can take to improve resilience in the wake of a five-week long fire in the Cairngorms....",
       "link": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 05:25:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fires still burn in charred landscape as focus turns to wildfire prevention",
-      "description": "The RSPB is considering measures it can take to improve resilience in the wake of a five-week long fire in the Cairngorms....",
-      "link": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 05:25:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Toxic waste sites exposed in Michael Sheen documentary are 'tip of the iceberg'",
-      "description": "One scientist says there are thousands of sites across the UK that need investigating....",
-      "link": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 05:14:36 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
