@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-26T14:51:21.050Z",
+  "lastUpdated": "2026-08-26T16:23:38.835Z",
   "articles": [
+    {
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "description": "&lt;p&gt;Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking&lt;/p&gt;&lt;p&gt;South Af...",
+      "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "pubDate": "Wed, 26 Aug 2026 15:09:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e903e0b47376ef26a7278cd8f932b6e17e119b32/0_20_559_447/master/559.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c7f9cb1e69a0018145b895a00467e18"
+    },
+    {
+      "title": "Island could protect 30% of waters in marine plan",
+      "description": "The proposal would give added protection to about 50 sq miles (128.8 sq km) of sea around Sark....",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr0dd5r3po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 15:00:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How to see the 'Blood Moon' lunar eclipse",
+      "description": "How to see the 'Blood Moon' lunar eclipse...",
+      "link": "https://www.bbc.co.uk/news/videos/cwyzl5x4vv8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 14:54:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How to see the 'Blood Moon' lunar eclipse",
+      "description": "How to see the 'Blood Moon' lunar eclipse...",
+      "link": "https://www.bbc.co.uk/news/videos/cwyzl5x4vv8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 14:54:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "​W​hy are European leaders staying silent after our summer of climate shock?",
       "description": "&lt;p&gt;Lethal temperatures ​and wildfires have exposed a widening gulf between voters demanding ​action and politicians unwilling to confront the lo...",
@@ -38,15 +74,6 @@
       "image": "https://i.guim.co.uk/img/media/b2f0fb9e49b6840d91bdde977cac1286182951f7/0_315_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=087cf81608e9e62a2a2b73ba38a3b8ab"
     },
     {
-      "title": "Island could protect 30% of waters in marine plan",
-      "description": "The proposal would give added protection to about 50 sq miles (128.8 sq km) of sea around Sark....",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr0dd5r3po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 11:58:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Groups sue Trump’s EPA over fast-track approval of toxic datacenter chemicals",
       "description": "&lt;p&gt;Exposure to two compounds approved can result in ‘sudden death’ and range of other serious health risks, lawsuit warns&lt;/p&gt;&lt;p&gt;The ...",
       "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals",
@@ -54,6 +81,24 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7a717ee0deb45162c8e2abe72807c31843e381b1/630_0_6270_5016/master/6270.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69df362ea27ecce04e025af305565cc1"
+    },
+    {
+      "title": "Off-roaders caught damaging protected site after posting videos to TikTok",
+      "description": "Three men were convicted for their part in driving in a convoy from Liverpool to Berwyn SSSI....",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyl62pp1zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 10:42:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Off-roaders caught damaging protected site after posting videos to TikTok",
+      "description": "Three men were convicted for their part in driving in a convoy from Liverpool to Berwyn SSSI....",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyl62pp1zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 10:42:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "‘132F’: meet the man calling out NYC’s infernally hot subway stations",
@@ -135,51 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New York’s Power Grid Struggles to Handle the Heat",
-      "description": "NEW YORK—When nearly 10,000 people in Southeast Queens lost power during a July heatwave, Mayor Zohran Mamdani called on residents to keep their air c...",
-      "link": "https://insideclimatenews.org/news/26082026/new-york-power-grid-struggles-during-heatwaves/",
-      "pubDate": "Wed, 26 Aug 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Florida Community Aimed to Address a Legacy of Pollution. The Trump Administration Cancelled Its Funding.",
-      "description": "TAMPA, Fla.—Ross Fabian’s low-slung apartment building sits beside a pond that sometimes smells of dead fish. He has seen dead dogs in the pond. For m...",
-      "link": "https://insideclimatenews.org/news/26082026/florida-community-lost-millions-when-trump-cancelled-environmental-justice-grant/",
-      "pubDate": "Wed, 26 Aug 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The great American road trip is in peril",
-      "description": "Along my family's 9,000-mile trip this summer, our days whiplashed between grandeur and extreme weather crises....",
-      "link": "https://grist.org/culture/great-american-road-trip-national-park-climate-wildfire-drought/",
-      "pubDate": "Wed, 26 Aug 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/Utah_Charlotte_IMG_8874.jpeg"
-    },
-    {
-      "title": "RSPB reports record-breaking chough numbers",
-      "description": "RSPB England says 161 Choughs have been counted - 32 more than the 129 recorded last year....",
-      "link": "https://www.bbc.co.uk/news/articles/c8xklkeyx88o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 08:32:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Heatwaves show UK must do more to promote cycling and walking, campaigners say",
-      "description": "&lt;p&gt;Civil society groups argue climate crisis means transport sector needs to urgently reduce its carbon emissions&lt;/p&gt;&lt;p&gt;Dozens of ci...",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/26/heatwaves-uk-promote-cycling-walking",
-      "pubDate": "Wed, 26 Aug 2026 07:00:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1f68e0a73c2193c55c0fdedc47d84ec5d2c7490a/781_455_2513_2010/master/2513.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f5a7805bb946d34f1211b20c7b936bc"
     }
   ]
 }
