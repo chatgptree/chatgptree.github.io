@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-08-29T02:02:59.936Z",
+  "lastUpdated": "2026-08-29T09:56:59.594Z",
   "articles": [
+    {
+      "title": "The Grid Has Eyes",
+      "description": "Wired for Profit: Fifth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer ...",
+      "link": "https://insideclimatenews.org/news/29082026/alabama-power-flock-surveillance-cameras/",
+      "pubDate": "Sat, 29 Aug 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Super PAC Targeting Conservatives Against Clean Energy Touts Fifth Republican Primary Win",
+      "description": "Both President Donald Trump and a clean energy super PAC that backed Darline Graham, sister of the late Sen. Lindsey Graham, are celebrating her victo...",
+      "link": "https://insideclimatenews.org/news/29082026/super-pac-targets-conservatives-against-clean-energy/",
+      "pubDate": "Sat, 29 Aug 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows",
+      "description": "KERMAN, Calif.—One hundred degrees on a steamy Thursday afternoon and not much can be seen along the dust-blown avenue in Kerman. A school bus cruises...",
+      "link": "https://insideclimatenews.org/news/29082026/california-dairy-farm-biogas-project/",
+      "pubDate": "Sat, 29 Aug 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "While Renewables Languish, Pennsylvania Pays Millions to Coal Waste Companies",
+      "description": "WINDBER, Pa.—Standing on the rocky banks of Paint Creek in western Pennsylvania, Jim Panaro pointed out the colors of contamination. The orange staini...",
+      "link": "https://insideclimatenews.org/news/29082026/pennsylvania-pays-millions-to-coal-waste-companies/",
+      "pubDate": "Sat, 29 Aug 2026 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+      "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way. ...",
+      "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 06:05:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+      "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way. ...",
+      "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 06:05:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
       "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylo...",
@@ -11,15 +65,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Mountain of broken fridges growing across England and Wales",
-      "description": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down....",
-      "link": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 00:51:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "The race to stop England running out of water",
       "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?...",
       "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&amp;at_campaign=rss",
@@ -33,24 +78,6 @@
       "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?...",
       "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 00:46:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-      "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way. ...",
-      "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 20:44:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-      "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way. ...",
-      "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 20:44:07 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/5bd10c212259b1d37911bc64ff61af88452b2d84/22_0_1501_1200/master/1501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b5f8ab54cac65ec97004c5fe9501d55"
-    },
-    {
-      "title": "Martin Rowson on Trump and the consequences of the climate crisis – cartoon",
-      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/aug/28/martin-rowson-trump-consequences-climate-crisis-cartoon\"&gt;Continue reading...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/28/martin-rowson-trump-consequences-climate-crisis-cartoon",
-      "pubDate": "Fri, 28 Aug 2026 16:39:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/159fe75adc24eb79f4fcd6b0beffb34eddf40934/0_13_4124_3300/master/4124.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17ca866ef598e5e538cf92d8f391beee"
-    },
-    {
-      "title": "Louisiana gears up for first recreational alligator hunt in more than 50 years",
-      "description": "&lt;p&gt;State to offer up to 5,000 trappers chance to snare reptiles whose numbers have risen to 3m from fewer than 100,000&lt;/p&gt;&lt;p&gt;The fir...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/28/louisiana-alligator-hunt-recreational",
-      "pubDate": "Fri, 28 Aug 2026 15:16:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/69a29bc974ea0a793eb5e1800ef0f7dce43b160c/1403_890_3613_2891/master/3613.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9b5c40456e1bef3e4027897ba0fcb8f"
-    },
-    {
-      "title": "Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres",
-      "description": "&lt;p&gt;Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economy&lt;/p&gt;&lt;p&gt;Labour ha...",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres",
-      "pubDate": "Fri, 28 Aug 2026 15:11:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/525c4e85c85303424c9398d6d473a226f359f96d/262_0_3407_2725/master/3407.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1fdbb03bf03634044560ffa3602ca83b"
     }
   ]
 }
