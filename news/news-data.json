@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-29T18:22:52.817Z",
+  "lastUpdated": "2026-08-29T21:38:57.805Z",
   "articles": [
+    {
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year....",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 18:30:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The race to stop England running out of water",
       "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?...",
@@ -171,15 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/0b825f2274d53dbd46de10e7867f231052eb036d/1328_590_5362_4291/master/5362.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb43096d8ff54b68b5d6078e74430a0"
-    },
-    {
-      "title": "WA seaweed startup is ready to reduce methane emissions from cattle by over 80%",
-      "description": "Fremantle Seaweed founder Chris De Cuyper Fremantle Seaweed Fremantle Seaweed secures FutureFeed licence to sell methane-cutting seaweed to cattle far...",
-      "link": "https://econews.com.au/wa-seaweed-startup-is-ready-to-reduce-methane-emissions-from-cattle-by-over-80/",
-      "pubDate": "Fri, 28 Aug 2026 18:01:41 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
