@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-08-30T06:28:05.900Z",
+  "lastUpdated": "2026-08-30T12:45:34.975Z",
   "articles": [
+    {
+      "title": "Flooding devastated swathes of Indiana but response is hampered by politics",
+      "description": "&lt;p&gt;Record inundations wrecked homes and took seven lives but Trump has not approved emergency aid and the state has cut funds for environmental ...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/30/indiana-flooding-emergency-response",
+      "pubDate": "Sun, 30 Aug 2026 12:00:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8e219044cc26c03a8378fffa7042b4183db9a571/429_0_4294_3434/master/4294.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8e3d8eac4e1fa9020e8a477dd9223da"
+    },
+    {
+      "title": "Sassy Organics marks 10 years with more than 500 kg of plastic dispatch packaging avoided",
+      "description": "Melbourne-founded retailer estimates more than 500 kilograms of plastic dispatch packaging avoided since 2019 and continues a mail-in route for eligib...",
+      "link": "https://econews.com.au/sassy-organics-marks-10-years-with-more-than-500-kg-of-plastic-dispatch-packaging-avoided/",
+      "pubDate": "Sun, 30 Aug 2026 09:01:42 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/08/Aida_Rejzovic_Founder_Sassy_Organics-819x1024.png"
+    },
+    {
+      "title": "Western Irrigation Network farms pivot to recycled water",
+      "description": "Recycled water is now being used to irrigate farms in the Parwan-Balliang agricultural district in Victoria. Greater Western Water Greater Western Wat...",
+      "link": "https://econews.com.au/western-irrigation-network-farms-pivot-to-recycled-water/",
+      "pubDate": "Sun, 30 Aug 2026 09:01:41 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2023/10/Greater-Western-Water.jpg"
+    },
+    {
+      "title": "Antarctic science shapes Australia’s future, say scientists",
+      "description": "Delegates at the Australian Antarctic Research Conference in Hobart. Monash University More than 400 polar experts from Australia and around the world...",
+      "link": "https://econews.com.au/antarctic-science-shapes-australias-future-say-scientists/",
+      "pubDate": "Sun, 30 Aug 2026 09:01:41 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
+    },
+    {
+      "title": "Antarctic soil microbes are frequently picking up genes for turning air into energy",
+      "description": "McMurdo Dry Valleys from the air, credit: Ry Holland, SAEF Monash University Antarctica is one of the driest, coldest places on Earth and long ago its...",
+      "link": "https://econews.com.au/antarctic-soil-microbes-are-frequently-picking-up-genes-for-turning-air-into-energy/",
+      "pubDate": "Sun, 30 Aug 2026 09:01:40 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
+    },
+    {
+      "title": "How North Carolina Wasted the Chance To Fix Hog Pollution",
+      "description": "Feeding the Beast: Second in a series about lax regulation, corporate influence and the heavily polluting, yet nearly untouchable American meat indust...",
+      "link": "https://insideclimatenews.org/news/30082026/north-carolina-wasted-chance-to-fix-hog-pollution/",
+      "pubDate": "Sun, 30 Aug 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trying to Get Away From Gas Turbines, Data Centers Place Their Hopes on Small Modular Nuclear Reactors",
+      "description": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to t...",
+      "link": "https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/",
+      "pubDate": "Sun, 30 Aug 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Charity thanks inmates for work to save hedgehogs",
       "description": "Prisoners in HMP La Moye make feeding and nesting boxes for Jersey Hedgehog Preservation Group....",
@@ -110,74 +173,11 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
       "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylo...",
       "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 10:51:21 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Grid Has Eyes",
-      "description": "Wired for Profit: Fifth in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhammer ...",
-      "link": "https://insideclimatenews.org/news/29082026/alabama-power-flock-surveillance-cameras/",
-      "pubDate": "Sat, 29 Aug 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Super PAC Targeting Conservatives Against Clean Energy Touts Fifth Republican Primary Win",
-      "description": "Both President Donald Trump and a clean energy super PAC that backed Darline Graham, sister of the late Sen. Lindsey Graham, are celebrating her victo...",
-      "link": "https://insideclimatenews.org/news/29082026/super-pac-targets-conservatives-against-clean-energy/",
-      "pubDate": "Sat, 29 Aug 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows",
-      "description": "KERMAN, Calif.—One hundred degrees on a steamy Thursday afternoon and not much can be seen along the dust-blown avenue in Kerman. A school bus cruises...",
-      "link": "https://insideclimatenews.org/news/29082026/california-dairy-farm-biogas-project/",
-      "pubDate": "Sat, 29 Aug 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "While Renewables Languish, Pennsylvania Pays Millions to Coal Waste Companies",
-      "description": "WINDBER, Pa.—Standing on the rocky banks of Paint Creek in western Pennsylvania, Jim Panaro pointed out the colors of contamination. The orange staini...",
-      "link": "https://insideclimatenews.org/news/29082026/pennsylvania-pays-millions-to-coal-waste-companies/",
-      "pubDate": "Sat, 29 Aug 2026 08:45:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-      "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way. ...",
-      "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 06:05:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-      "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way. ...",
-      "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 06:05:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flood-Ravaged Nepal on Alert as Scientists Warn of Additional Risk",
-      "description": "Residents and rescue workers in flood-ravaged valleys of Nepal faced the threat of a new wave of inundation Friday, as scientists warned that debris h...",
-      "link": "https://insideclimatenews.org/news/28082026/scientists-warn-of-additional-risk-after-nepal-flood/",
-      "pubDate": "Fri, 28 Aug 2026 20:43:52 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
