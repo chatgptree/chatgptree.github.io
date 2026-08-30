@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-29T21:38:57.805Z",
+  "lastUpdated": "2026-08-30T00:04:59.932Z",
   "articles": [
+    {
+      "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
+      "description": "&lt;p&gt;Plaskett fire has swept through more than 5,900 acres in Monterey county and remains un-contained, says Cal Fire&lt;/p&gt;&lt;p&gt;A fire in ...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
+      "pubDate": "Sat, 29 Aug 2026 23:51:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/84de0f8699089c2e82ce99e1967dc937e939e658/245_0_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ac4c25e5a9eff2d73380fe538c6f5df"
+    },
     {
       "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
       "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year....",
@@ -29,7 +38,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York respond to the Himalayan disaster",
+      "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York City respond to the Himalayan disaster",
       "description": "&lt;p&gt;Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countries&lt;/p&gt;&lt;p&gt;Geeta Tam...",
       "link": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
       "pubDate": "Sat, 29 Aug 2026 13:43:05 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/08/unnamed-2026-08-29T040742.959.png"
-    },
-    {
-      "title": "Trump administration pushing to hand parcel of Yosemite land to private developer – report",
-      "description": "&lt;p&gt;Nevada-based Kingsbarn Realty Capital seeks to acquire land to construct private road to development outside park&lt;/p&gt;&lt;p&gt;The &lt;a...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/28/yosemite-national-park-private-developer",
-      "pubDate": "Fri, 28 Aug 2026 18:38:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0b825f2274d53dbd46de10e7867f231052eb036d/1328_590_5362_4291/master/5362.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb43096d8ff54b68b5d6078e74430a0"
     }
   ]
 }
