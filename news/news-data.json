@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-08-31T05:18:04.090Z",
+  "lastUpdated": "2026-08-31T13:29:05.923Z",
   "articles": [
+    {
+      "title": "Cross-party talks needed to tackle climate crisis, say Lib Dems",
+      "description": "&lt;p&gt;Andy Burnham urged to seek consensus over response to extreme heat and forthcoming ‘super El Niño’&lt;/p&gt;&lt;p&gt;Andy Burnham should call...",
+      "link": "https://www.theguardian.com/environment/2026/aug/31/talks-el-nino-climate-crisis-lib-dems-andy-burnham",
+      "pubDate": "Mon, 31 Aug 2026 11:48:23 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bb9f80aaa85935c9bdc4d577e47f7fef2f604cec/564_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf5159e926b797642e2219d6756bcd7f"
+    },
+    {
+      "title": "US man says ‘hold tight’ to loved ones after wife and toddler killed by lightning",
+      "description": "&lt;p&gt;Kameron Glasgow of Florida honors wife Kenya and daughter Kennedi at local vigil after last week’s tragedy&lt;/p&gt;&lt;p&gt;A &lt;a href=\"ht...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/31/florida-man-wife-daughter-killed-lightning",
+      "pubDate": "Mon, 31 Aug 2026 10:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/afaa8a125f11690fdd12811a9f9dda23facd9940/0_320_3233_2586/master/3233.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ff5881f0cb85e194e6d0fba391054b0"
+    },
+    {
+      "title": "Will a Data Center Join the Philadelphia Bellwether District’s Mix of Manufacturers and Warehouses?",
+      "description": "PHILADELPHIA—A simmering debate over the future of Philadelphia’s Bellwether District has been reenergized by a Planning Commission presentation last ...",
+      "link": "https://insideclimatenews.org/news/31082026/philadelphia-refinery-clean-up-bellwether-district/",
+      "pubDate": "Mon, 31 Aug 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Power Struggles",
+      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News. This week, Alabama-based reporters Dennis Pillion and Lee Hedgepeth join c...",
+      "link": "https://insideclimatenews.org/news/31082026/inside-climate-podcast-alabama-power/",
+      "pubDate": "Mon, 31 Aug 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "When ocean temperatures increase, so does child malnutrition on land",
+      "description": "Researchers are just discovering this troubling consequence of climate change, but they still don't know why it happens....",
+      "link": "https://grist.org/food-and-agriculture/when-ocean-temperatures-increase-so-does-child-malnutrition-on-land/",
+      "pubDate": "Mon, 31 Aug 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/anchovy-boat.jpg"
+    },
+    {
+      "title": "Bhutan hosts first ‘conscious food summit’ amid threats to global supplies",
+      "description": "&lt;p&gt;Organisers say people must revive spiritual relationship with food amid double threat of climate crisis and conflict&lt;/p&gt;&lt;p&gt;Mendin...",
+      "link": "https://www.theguardian.com/environment/2026/aug/31/bhutan-first-conscious-food-summit-climate",
+      "pubDate": "Mon, 31 Aug 2026 08:38:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9cf18c2a861b355684d4f6b0620e750d98eeb1f5/404_0_4292_3434/master/4292.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b22e437d24bec934ef167c293d4e70ea"
+    },
+    {
+      "title": "Manhattan’s flood walls are almost done. What will Mamdani do next?",
+      "description": "The new mayor wants to invest in coastal resilience, but he will have to decide which areas of the city to protect....",
+      "link": "https://grist.org/politics/new-york-zohran-mamdani-sea-level-rise/",
+      "pubDate": "Mon, 31 Aug 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/East-River-Park-bulkhead.jpg"
+    },
+    {
+      "title": "‘Breakthrough’ as Turkmenistan starts fixing ‘mindboggling’ methane mega-leaks",
+      "description": "&lt;p&gt;Secretive state begins repairs on ageing facilities after being revealed as worst country for leaks of potent greenhouse gas&lt;/p&gt;&lt;p&g...",
+      "link": "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars",
+      "pubDate": "Mon, 31 Aug 2026 07:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4c93df22ba9642bb5089a4531b5897181444dedd/757_0_4795_3835/master/4795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f65f36e5480bb442f3a014bcb2c7368b"
+    },
+    {
+      "title": "One dead and 15 people may be missing after flash flood in Arizona’s Grand Canyon",
+      "description": "&lt;p&gt;Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials say&lt;/p&gt;&lt;p&gt;One person died and abou...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
+      "pubDate": "Mon, 31 Aug 2026 05:26:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/be6ab41ca13f50a425306a5a81b41eeec8ff353a/252_0_7560_6048/master/7560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d578a4b7113029e263213832c43667b"
+    },
     {
       "title": "The Nepal floods seem a world away – but make no mistake, climate breakdown will affect us all | Nesrine Malik",
       "description": "&lt;p&gt;Richer countries might have more resources to deal with catastrophe, but this problem grips the entire planet, however much leaders may want ...",
@@ -9,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/7b86e43704205c01ae40edc5fb7e70eb56de7322/880_0_5760_4608/master/5760.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf4c34122abe8646f03eb0a2c73e02f6"
-    },
-    {
-      "title": "At least 15 people may be missing after flash flood in Arizona’s Grand Canyon",
-      "description": "&lt;p&gt;Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials say&lt;/p&gt;&lt;p&gt;At least 15 people may b...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
-      "pubDate": "Mon, 31 Aug 2026 00:01:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/be6ab41ca13f50a425306a5a81b41eeec8ff353a/252_0_7560_6048/master/7560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d578a4b7113029e263213832c43667b"
     },
     {
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
@@ -108,78 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
-    },
-    {
-      "title": "How North Carolina Wasted the Chance To Fix Hog Pollution",
-      "description": "Feeding the Beast: Second in a series about lax regulation, corporate influence and the heavily polluting, yet nearly untouchable American meat indust...",
-      "link": "https://insideclimatenews.org/news/30082026/north-carolina-wasted-chance-to-fix-hog-pollution/",
-      "pubDate": "Sun, 30 Aug 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trying to Get Away From Gas Turbines, Data Centers Place Their Hopes on Small Modular Nuclear Reactors",
-      "description": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to t...",
-      "link": "https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/",
-      "pubDate": "Sun, 30 Aug 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Charity thanks inmates for work to save hedgehogs",
-      "description": "Prisoners in HMP La Moye make feeding and nesting boxes for Jersey Hedgehog Preservation Group....",
-      "link": "https://www.bbc.co.uk/news/articles/cly4v6qr5e9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 06:12:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution",
-      "description": "&lt;p&gt;Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beaches&lt;/p&gt;&lt;ul&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution",
-      "pubDate": "Sun, 30 Aug 2026 06:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3730cf51cdac8a025143cceea40830e401b1ae3e/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f848896bc377b99fb5765ead795c5a8"
-    },
-    {
-      "title": "South West Water has worst environmental record in England, analysis shows",
-      "description": "&lt;p&gt;Exclusive: Friends of the Earth finds greatest sewage discharge in Devon, Cornwall, Dorset and Somerset&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2026/aug/30/south-west-water-worst-environmental-record-england",
-      "pubDate": "Sun, 30 Aug 2026 06:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/236f551b8c74dbbb4c322f19a4e73adbd6ae3257/1706_881_2469_1975/master/2469.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39e67b85a110c04bab7e67a157312d0f"
-    },
-    {
-      "title": "Nature reserves spot rare species during heatwaves",
-      "description": "A wildlife trust says unusually hot weather and increased monitoring has led to interesting finds....",
-      "link": "https://www.bbc.co.uk/news/articles/cpve2123v71o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 05:08:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fire in California’s Big Sur region doubles in size overnight, forcing evacuations",
-      "description": "&lt;p&gt;Plaskett fire has swept through more than 5,900 acres in Monterey county and remains un-contained, says Cal Fire&lt;/p&gt;&lt;p&gt;A fire in ...",
-      "link": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
-      "pubDate": "Sat, 29 Aug 2026 23:51:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/84de0f8699089c2e82ce99e1967dc937e939e658/245_0_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ac4c25e5a9eff2d73380fe538c6f5df"
-    },
-    {
-      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-      "description": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year....",
-      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 18:30:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
