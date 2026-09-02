@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-02T18:32:29.612Z",
+  "lastUpdated": "2026-09-02T21:45:48.519Z",
   "articles": [
+    {
+      "title": "Patagonia sues Trump over slashing of protected areas in Utah",
+      "description": "&lt;p&gt;President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards&lt;/p&gt;&lt;p&gt;Pa...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments",
+      "pubDate": "Wed, 02 Sep 2026 20:51:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6ac8e3a3560a88095d192c5be64de2c991c870df/704_0_7025_5621/master/7025.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63c66134fd49a498b158f65051bf3f91"
+    },
     {
       "title": "Ben Jennings on the rise of datacentres in Britain – cartoon",
       "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/sep/02/ben-jennings-rise-datacentres-britain-ai-government-cartoon\"&gt;Continue rea...",
@@ -146,40 +155,31 @@
       "image": "https://grist.org/wp-content/uploads/2026/02/michigan-satellite.jpg"
     },
     {
-      "title": "Streets®, Coles and Australian Red Cross partner to help Australians get EmergencyRedi",
-      "description": "Streets®, part of The Magnum Ice Cream Company (TMICC), Coles and Australian Red Cross have joined forces to help communities prepare for emergencies....",
-      "link": "https://econews.com.au/streets-coles-and-australian-red-cross-partner-to-help-australians-get-emergencyredi/",
-      "pubDate": "Wed, 02 Sep 2026 08:02:32 +0000",
-      "sourceName": "econews.com.au",
+      "title": "Britain is OK with public ownership, but only by foreign powers. Why?",
+      "description": "&lt;p&gt;Arthur Downing, author of Power and the People: A History of British Energy, says all-encompassing rapid transition will need a mutualised sy...",
+      "link": "https://www.theguardian.com/business/2026/sep/02/britain-public-ownership-energy-transition-foreign-powers-arthur-downing",
+      "pubDate": "Wed, 02 Sep 2026 07:00:26 GMT",
+      "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+      "image": "https://i.guim.co.uk/img/media/10e5cecf71f18c14aa8769189794afd329813969/847_0_4233_3387/master/4233.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f0b9442b9dc2216ebe57c1ad16bd761"
     },
     {
-      "title": "PFAS pollution in the Murray River – Ecosystems at Risk?",
-      "description": "Murray River at Koondrook Friends of the Earth Australia Key facts: Victoria’s highest PFOS detection was detected at Lake Mulwala in 2023 or 36 times...",
-      "link": "https://econews.com.au/pfas-pollution-in-the-murray-river-ecosystems-at-risk/",
-      "pubDate": "Wed, 02 Sep 2026 08:02:32 +0000",
-      "sourceName": "econews.com.au",
+      "title": "Climate ‘Overshoot’ Is Coming—Are We Ready?",
+      "description": "Fossil fuel emissions are pushing Earth’s climate toward a dangerous new phase of climate “overshoot,” scientists warned Wednesday in a new report fro...",
+      "link": "https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/",
+      "pubDate": "Wed, 02 Sep 2026 04:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+      "image": "../images/header2.jpg"
     },
     {
-      "title": "Beyond compliance: Why ESG in construction is becoming a people issue",
-      "description": "ESG in construction is moving beyond emissions, energy efficiency and waste, with Australian businesses increasingly looking at how they manage people...",
-      "link": "https://econews.com.au/beyond-compliance-why-esg-in-construction-is-becoming-a-people-issue/",
-      "pubDate": "Wed, 02 Sep 2026 07:02:22 +0000",
-      "sourceName": "econews.com.au",
+      "title": "Polluting Nylon Plants Clean Up Their Acts",
+      "description": "Many of our impact case studies cover ongoing stories that Inside Climate News continues to actively cover. The impact reflected here is current as of...",
+      "link": "https://insideclimatenews.org/news/02092026/impact-methane-reporting/",
+      "pubDate": "Wed, 02 Sep 2026 04:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/09/images-3.png"
-    },
-    {
-      "title": "Tiny, endangered wallaby detected on mainland Dambeemangaddee Country for first time in 50 years",
-      "description": "Nabarlek on Augustus Island. © Ian Bool Conservationists have pulled off the ecological equivalent of finding a needle in a haystack, confirming the p...",
-      "link": "https://econews.com.au/tiny-endangered-wallaby-detected-on-mainland-dambeemangaddee-country-for-first-time-in-50-years/",
-      "pubDate": "Wed, 02 Sep 2026 07:02:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
+      "image": "../images/header2.jpg"
     }
   ]
 }
