@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-09-03T16:18:31.134Z",
+  "lastUpdated": "2026-09-03T19:42:35.447Z",
   "articles": [
+    {
+      "title": "Court Stalls EPA Plan to Override California’s Vehicle Pollution Standards",
+      "description": "A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollut...",
+      "link": "https://insideclimatenews.org/news/03092026/judge-blocks-epa-from-challenging-californias-emissions-standards/",
+      "pubDate": "Thu, 03 Sep 2026 19:41:34 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
+      "description": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes....",
+      "link": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 17:52:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
+      "description": "&lt;p&gt;Opposition mounts as at least 20 projects proposed, including one in Fife billed as second largest in world&lt;/p&gt;&lt;p&gt;Kat Jones may b...",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
+      "pubDate": "Thu, 03 Sep 2026 17:48:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e2a0d1349bc80c7d01a895dc55a30dfa0af25360/838_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffa0fd4aaba860372dd131ecd612ea28"
+    },
+    {
+      "title": "Grinding up fish to feed to fish is ‘absurd’: fears over UN aquaculture plan",
+      "description": "&lt;p&gt;Huge rollout of fish farms could harm ecosystems and threaten vulnerable communities’ food sources, say experts&lt;/p&gt;&lt;p&gt;Nearly half...",
+      "link": "https://www.theguardian.com/environment/2026/sep/03/un-fish-farms-food-oceans-aquaculture",
+      "pubDate": "Thu, 03 Sep 2026 16:59:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b8424e9644df5f51999ac792ca967e12e5611b71/440_0_2781_2225/master/2781.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70061dd5a941bf73a32d64e6743aa0d5"
+    },
+    {
+      "title": "How climate denialism finds its way to the US 's highest office – video explainer",
+      "description": "&lt;p&gt;Although it's scientific consensus that the climate crisis is happening, climate change denialists have found support in the highest office d...",
+      "link": "https://www.theguardian.com/environment/video/2026/sep/03/how-climate-denialism-finds-its-way-to-the-us-s-highest-office-video-explainer",
+      "pubDate": "Thu, 03 Sep 2026 16:52:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d9aa8c3cd3a4825456fee445216c2d2c2a3cb931/355_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=feff760a4cec718959bc3c3012102533"
+    },
     {
       "title": "How the brain of a fly may help explain human behaviour",
       "description": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours....",
@@ -18,6 +63,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a2f91bc742026d2671c758ad588e2b9c73cba020/776_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6543e7d8d7700800386ed05bbba322b6"
+    },
+    {
+      "title": "Razed by wildfire, erased by USPS: Hawaiians fight to restore mail delivery",
+      "description": "&lt;p&gt;Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive ma...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/03/hawaii-lahaina-mail-delivery-usps",
+      "pubDate": "Thu, 03 Sep 2026 14:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2d77c58943c5dc696111cef9f57e3a76e934927b/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=150c8e13bcc6e14345fdc7beac767b95"
     },
     {
       "title": "There’s No Comprehensive Mailing List for All Texas Data Center Operators",
@@ -48,7 +102,7 @@
     },
     {
       "title": "Invasive tropical mosquito found breeding in east London",
-      "description": "&lt;p&gt;Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say&lt;/p&gt;&lt;p&gt;An invasiv...",
+      "description": "&lt;p&gt;Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say&lt;/p&gt;&lt;p&gt;An mosquit...",
       "link": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
       "pubDate": "Thu, 03 Sep 2026 12:51:53 GMT",
       "sourceName": "theguardian.com",
@@ -126,60 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d5c69fcb9ad057ec9a3f3cf2ac5587bb23cae7e1/0_1314_3888_3110/master/3888.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7dc61ae24c65c996c815e45a8cd70ac"
-    },
-    {
-      "title": "New Trump Rules Would Limit State Power to Block Pipelines, Energy Projects",
-      "description": "When the Trump administration last fall unveiled its cornerstone policy for carrying out the Clean Water Act—new language spelling out the reach of th...",
-      "link": "https://insideclimatenews.org/news/03092026/epa-clean-water-act-provision-would-limit-state-power/",
-      "pubDate": "Thu, 03 Sep 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In South Florida, a Crackdown on Overdue Electricity Bills Coincides With Peak Summer Heat, ICE Enforcement",
-      "description": "HOMESTEAD, Fla.—It was too hot to sleep.&#160; When the lights turned off and the air conditioning unit went quiet that night in July, it didn’t come ...",
-      "link": "https://insideclimatenews.org/news/03092026/homestead-florida-electricity-bill-disconnections/",
-      "pubDate": "Thu, 03 Sep 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The summer we love is slipping away",
-      "description": "From the Southwest to the Jersey shore, climate change is altering the traditions and norms that have defined summer for generations....",
-      "link": "https://grist.org/culture/summer-culture-region-climate-change/",
-      "pubDate": "Thu, 03 Sep 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/themes/grist/static/img/email-icon.png"
-    },
-    {
-      "title": "Fiber optic cables reveal &#8216;icequakes&#8217; in endangered glaciers",
-      "description": "The technology could help create an early-warning system for changes in ice stability....",
-      "link": "https://grist.org/science/fiber-optic-cables-reveal-icequakes-in-endangered-glaciers/",
-      "pubDate": "Thu, 03 Sep 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/figure1a.jpeg"
-    },
-    {
-      "title": "Satellite images show how Canadian 'island' vanished before turning up 20 miles away",
-      "description": "BBC Verify has used satellite imagery to track the mysterious phenomenon, which has surprised people around the world....",
-      "link": "https://www.bbc.co.uk/news/videos/cly4zxd7e7wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 07:57:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies....",
-      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
