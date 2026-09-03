@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-03T19:42:35.447Z",
+  "lastUpdated": "2026-09-03T22:36:06.614Z",
   "articles": [
+    {
+      "title": "Razed by wildfire, erased by USPS: Hawaiians fight to restore mail delivery",
+      "description": "&lt;p&gt;Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive ma...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/03/hawaii-lahaina-mail-delivery-usps",
+      "pubDate": "Thu, 03 Sep 2026 20:49:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2d77c58943c5dc696111cef9f57e3a76e934927b/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=150c8e13bcc6e14345fdc7beac767b95"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Researchers may have discovered the signature of a bit of dark matter....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9783?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Minister tells Brits to stock up on days of supplies after ‘supersize’ El Niño warning",
+      "description": "&lt;p&gt;Exclusive: Angela Eagle urges UK citizens to be ‘a bit more resilient’ as they plan for national emergencies&lt;/p&gt;&lt;p&gt;British people...",
+      "link": "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning",
+      "pubDate": "Thu, 03 Sep 2026 19:43:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b818fee8c052b4289dcbd7bb977dd4e7766a1467/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f10f3b4c7fab1b98fe38a7605a7f64f"
+    },
     {
       "title": "Court Stalls EPA Plan to Override California’s Vehicle Pollution Standards",
       "description": "A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollut...",
@@ -57,21 +84,12 @@
     },
     {
       "title": "BoM forecasts strongest El Niño on record as research points to ‘alarming’ climate change influence",
-      "description": "&lt;p&gt;Bureau of Meteorology suggests El Niño has already broken records, with Pacific ocean temperature change exceeding 2C in six months&lt;/p&gt;...",
+      "description": "&lt;p&gt;Bureau of Meteorology suggests El Niño has already broken records, with Pacific Ocean temperature change exceeding 2C in six months&lt;/p&gt;...",
       "link": "https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence",
       "pubDate": "Thu, 03 Sep 2026 15:00:51 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/a2f91bc742026d2671c758ad588e2b9c73cba020/776_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6543e7d8d7700800386ed05bbba322b6"
-    },
-    {
-      "title": "Razed by wildfire, erased by USPS: Hawaiians fight to restore mail delivery",
-      "description": "&lt;p&gt;Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive ma...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/03/hawaii-lahaina-mail-delivery-usps",
-      "pubDate": "Thu, 03 Sep 2026 14:00:40 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2d77c58943c5dc696111cef9f57e3a76e934927b/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=150c8e13bcc6e14345fdc7beac767b95"
+      "image": "https://i.guim.co.uk/img/media/1b02629e7672ec4ffed1e84da46016b874c8a70f/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=493702892927fbbe09d2eeb106b93f76"
     },
     {
       "title": "There’s No Comprehensive Mailing List for All Texas Data Center Operators",
@@ -99,15 +117,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Invasive tropical mosquito found breeding in east London",
-      "description": "&lt;p&gt;Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say&lt;/p&gt;&lt;p&gt;An mosquit...",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
-      "pubDate": "Thu, 03 Sep 2026 12:51:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c43c7b76790cb7651e05e30a68893bd439a36f3f/144_0_4688_3751/master/4688.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c284dbef8f6f9a1254a02dd7203c7e18"
     },
     {
       "title": "How a new instrument could reveal the secrets of the stars",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bring on the drones: how a technology revolution is being rolled out across Africa’s nature reserves",
-      "description": "&lt;p&gt;As graduates of an online training course gather from across the continent, the consensus is overwhelming: computers and saving animals go to...",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/drones-south-africa-tech-revolution-african-conservation-aoe",
-      "pubDate": "Thu, 03 Sep 2026 09:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d5c69fcb9ad057ec9a3f3cf2ac5587bb23cae7e1/0_1314_3888_3110/master/3888.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7dc61ae24c65c996c815e45a8cd70ac"
     }
   ]
 }
