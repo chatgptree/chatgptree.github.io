@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-09-03T11:04:24.897Z",
+  "lastUpdated": "2026-09-03T16:18:31.134Z",
   "articles": [
+    {
+      "title": "How the brain of a fly may help explain human behaviour",
+      "description": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours....",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 15:01:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BoM forecasts strongest El Niño on record as research points to ‘alarming’ climate change influence",
+      "description": "&lt;p&gt;Bureau of Meteorology suggests El Niño has already broken records, with Pacific ocean temperature change exceeding 2C in six months&lt;/p&gt;...",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence",
+      "pubDate": "Thu, 03 Sep 2026 15:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a2f91bc742026d2671c758ad588e2b9c73cba020/776_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6543e7d8d7700800386ed05bbba322b6"
+    },
+    {
+      "title": "There’s No Comprehensive Mailing List for All Texas Data Center Operators",
+      "description": "Texas officials told lawmakers at a state Senate hearing on Tuesday that they want to know how much water data centers across the state are using, but...",
+      "link": "https://insideclimatenews.org/news/03092026/texas-no-mailing-list-for-data-centers/",
+      "pubDate": "Thu, 03 Sep 2026 13:55:35 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Will El Nino bring chaos to UK weather?",
+      "description": "Will El Nino bring chaos to UK weather?...",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z642lq6wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 13:12:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "These States Are Leading the Electricity Generation Boom",
+      "description": "As data centers and other large users drove demand higher, U.S. power plants increased their output by 2.1 percent in the first half of the year compa...",
+      "link": "https://insideclimatenews.org/news/03092026/inside-clean-energy-electricity-generation-boom/",
+      "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Invasive tropical mosquito found breeding in east London",
+      "description": "&lt;p&gt;Climate crisis could increase incursions of Aedes aegypti, which can transmit Zika virus and dengue, experts say&lt;/p&gt;&lt;p&gt;An invasiv...",
+      "link": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
+      "pubDate": "Thu, 03 Sep 2026 12:51:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c43c7b76790cb7651e05e30a68893bd439a36f3f/144_0_4688_3751/master/4688.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c284dbef8f6f9a1254a02dd7203c7e18"
+    },
+    {
+      "title": "How a new instrument could reveal the secrets of the stars",
+      "description": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile....",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w1xpyvz2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 12:38:14 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a new instrument could reveal the secrets of the stars",
+      "description": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile....",
+      "link": "https://www.bbc.co.uk/news/videos/cn9w1xpyvz2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 12:38:14 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The plastic waste overtaking New York – and the people trying to curb it",
+      "description": "&lt;p&gt;From New York to Quebec, photographer Bryan Anselm spent months capturing spaces overrun with plastic and the actions individuals and groups ...",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/03/plastic-waste-new-york-environment",
+      "pubDate": "Thu, 03 Sep 2026 12:30:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/18abee39684776af60fc39ce2e7a894bc97e962a/245_0_5863_4691/master/5863.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00f67d1b0d5d608e27b576eadffe19c3"
+    },
+    {
+      "title": "Iguazú Falls' water level rises by five times the average – video",
+      "description": "&lt;p&gt;Water levels at Iguazú Falls, on the border of Brazil and Argentina, have reached five times the average volume after heavy rains. The nation...",
+      "link": "https://www.theguardian.com/world/video/2026/sep/03/iguazu-falls-water-level-rises-by-five-times-the-average-video",
+      "pubDate": "Thu, 03 Sep 2026 12:22:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2ea4d5a6641adbf373e3aeaabe472b7b0f1aabaf/2114_1012_5565_4452/master/5565.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b04a44ade9bf4d088368cfd327ef4fe"
+    },
+    {
+      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+      "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues....",
+      "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 11:35:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+      "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues....",
+      "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 11:35:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
       "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn....",
@@ -56,7 +164,7 @@
       "image": "https://grist.org/wp-content/uploads/2026/09/figure1a.jpeg"
     },
     {
-      "title": "Why did this Canadian 'island' seemingly vanish and reappear miles away?",
+      "title": "Satellite images show how Canadian 'island' vanished before turning up 20 miles away",
       "description": "BBC Verify has used satellite imagery to track the mysterious phenomenon, which has surprised people around the world....",
       "link": "https://www.bbc.co.uk/news/videos/cly4zxd7e7wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 07:57:23 GMT",
@@ -69,114 +177,6 @@
       "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies....",
       "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies....",
-      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Supersizing before our eyes’: UN warns of record El Niño approaching",
-      "description": "&lt;p&gt;Event is likely to be largest in at least 1,000 years and will pile extra heat into a world already in a climate crisis&lt;/p&gt;&lt;p&gt;The...",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations",
-      "pubDate": "Thu, 03 Sep 2026 06:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/06dc6e9c71bcc2067614a085bc41cd277fe86501/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4fd17c806413695106be26e13875ffe1"
-    },
-    {
-      "title": "Widow whose husband died after falling into slurry pit warns of pressure on farmers",
-      "description": "Margaret Owen said it seemed \"things are getting worse\" after a rise in deaths on British farms....",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wv8l15ezo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 05:03:15 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "From ‘psyops’ to ‘hysterical hysteria’: how GB News and Talk TV lost their cool in the heatwaves",
-      "description": "&lt;p&gt;Thousands of heat-related deaths in record-breaking temperatures appeared to only intensify hosts’ climate denials&lt;/p&gt;&lt;p&gt;As the f...",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/gb-news-talk-tv-heatwaves-climate-change",
-      "pubDate": "Thu, 03 Sep 2026 05:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4440c3611d06308dbc60def9c96c7247c0d315a4/691_7_2072_1658/master/2072.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=199250e85ca82157b5f74d389aefad2b"
-    },
-    {
-      "title": "The September reset is real. I’m about to become a better person, flaxseed by flaxseed | Emma Brockes",
-      "description": "&lt;p&gt;Small changes are what I’m aiming for – 10-minute workouts, cleaning out my handbag. Then I’m less likely to have failed come October&lt;/p&g...",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/03/september-reset-better-person-workout-october",
-      "pubDate": "Thu, 03 Sep 2026 05:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b025f7dac8443b30c266f3c608c13c73b7e40b05/456_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cad0a90937bf505b47e68aeebf12dd7a"
-    },
-    {
-      "title": "The place that never freezes: the Arctic habitat where global heating threatens more ice, not less",
-      "description": "&lt;p&gt;The race to study the North Water between Canada and Greenland before it changes has led to a bold plan for an Inuit-run protected area&lt;/p...",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/the-place-that-never-freezes-the-arctic-habitat-where-global-heating-threatens-more-ice-not-less",
-      "pubDate": "Thu, 03 Sep 2026 04:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b8962c5807d3bc31ee768c3d99523c5a4e617719/21_0_3266_2613/master/3266.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e26a8c90a2c8cf2cc07b4cbaea32028"
-    },
-    {
-      "title": "Australia’s new environmental protection agency approves coal project, angering climate groups",
-      "description": "&lt;p&gt;Queensland open-cut Saraji mine will be able to keep digging until 2055 as Anthony Albanese denies tensions with Pacific leaders over fossil ...",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups",
-      "pubDate": "Thu, 03 Sep 2026 02:23:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/57471addacc49765e22399aa128be4bb6f768c7c/432_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6be488581230045288cee1606756ed1"
-    },
-    {
-      "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
-      "description": "&lt;p&gt;Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price falls&lt;/p&gt;&lt;p&gt;China’s ca...",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-      "pubDate": "Wed, 02 Sep 2026 23:01:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6ea929b173a07426ae9cb8a54f972e2c163a3ac1/157_0_4945_3956/master/4945.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db2e3602ad2fd97bcd8f3a63c8dfef1c"
-    },
-    {
-      "title": "China’s Carbon Pollution Fell in Recent Months as Oil Demand Plummeted",
-      "description": "China’s carbon pollution fell modestly in recent months after the country’s consumers and industries sharply cut their use of oil, according to a new ...",
-      "link": "https://insideclimatenews.org/news/02092026/china-oil-consumption-declines/",
-      "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Patagonia sues Trump over slashing of protected areas in Utah",
-      "description": "&lt;p&gt;President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards&lt;/p&gt;&lt;p&gt;Pa...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments",
-      "pubDate": "Wed, 02 Sep 2026 20:51:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6ac8e3a3560a88095d192c5be64de2c991c870df/704_0_7025_5621/master/7025.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63c66134fd49a498b158f65051bf3f91"
-    },
-    {
-      "title": "Ben Jennings on the rise of datacentres in Britain – cartoon",
-      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/sep/02/ben-jennings-rise-datacentres-britain-ai-government-cartoon\"&gt;Continue rea...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/02/ben-jennings-rise-datacentres-britain-ai-government-cartoon",
-      "pubDate": "Wed, 02 Sep 2026 17:14:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3e75245616c92a87c1c94f95366d408f1baacc5d/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa9fe758c361bd60e760e9be6f6f2786"
-    },
-    {
-      "title": "Scientists may have found first hint of dark matter",
-      "description": "The mysterious material has eluded scientists for nearly a century. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cvgypvnx1jgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 15:54:03 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
