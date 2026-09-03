@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-02T21:45:48.519Z",
+  "lastUpdated": "2026-09-03T00:00:27.091Z",
   "articles": [
+    {
+      "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
+      "description": "&lt;p&gt;Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price falls&lt;/p&gt;&lt;p&gt;China’s ca...",
+      "link": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
+      "pubDate": "Wed, 02 Sep 2026 23:01:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6ea929b173a07426ae9cb8a54f972e2c163a3ac1/157_0_4945_3956/master/4945.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db2e3602ad2fd97bcd8f3a63c8dfef1c"
+    },
+    {
+      "title": "China’s Carbon Pollution Fell in Recent Months as Oil Demand Plummeted",
+      "description": "China’s carbon pollution fell modestly in recent months after the country’s consumers and industries sharply cut their use of oil, according to a new ...",
+      "link": "https://insideclimatenews.org/news/02092026/china-oil-consumption-declines/",
+      "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Widow whose husband died after falling into slurry pit warns of pressure on farmers",
+      "description": "Margaret Owen says \"things are getting worse\" after a rise in deaths of workers on British farms....",
+      "link": "https://www.bbc.co.uk/news/articles/cn9wv8l15ezo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 21:57:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Patagonia sues Trump over slashing of protected areas in Utah",
       "description": "&lt;p&gt;President’s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards&lt;/p&gt;&lt;p&gt;Pa...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/02/michigan-satellite.jpg"
-    },
-    {
-      "title": "Britain is OK with public ownership, but only by foreign powers. Why?",
-      "description": "&lt;p&gt;Arthur Downing, author of Power and the People: A History of British Energy, says all-encompassing rapid transition will need a mutualised sy...",
-      "link": "https://www.theguardian.com/business/2026/sep/02/britain-public-ownership-energy-transition-foreign-powers-arthur-downing",
-      "pubDate": "Wed, 02 Sep 2026 07:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/10e5cecf71f18c14aa8769189794afd329813969/847_0_4233_3387/master/4233.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f0b9442b9dc2216ebe57c1ad16bd761"
-    },
-    {
-      "title": "Climate ‘Overshoot’ Is Coming—Are We Ready?",
-      "description": "Fossil fuel emissions are pushing Earth’s climate toward a dangerous new phase of climate “overshoot,” scientists warned Wednesday in a new report fro...",
-      "link": "https://insideclimatenews.org/news/02092026/un-report-climate-overshoot-warning/",
-      "pubDate": "Wed, 02 Sep 2026 04:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Polluting Nylon Plants Clean Up Their Acts",
-      "description": "Many of our impact case studies cover ongoing stories that Inside Climate News continues to actively cover. The impact reflected here is current as of...",
-      "link": "https://insideclimatenews.org/news/02092026/impact-methane-reporting/",
-      "pubDate": "Wed, 02 Sep 2026 04:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
