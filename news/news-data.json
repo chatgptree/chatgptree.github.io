@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-07T00:50:16.904Z",
+  "lastUpdated": "2026-09-07T05:55:52.131Z",
   "articles": [
+    {
+      "title": "Hot summer helps group clear 'buckets' of lake litter",
+      "description": "The hot summer has meant lakes and rivers across the country have been running low....",
+      "link": "https://www.bbc.co.uk/news/articles/c3eqvy3777lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 05:13:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Turtle doves released in bid to stop extinction",
+      "description": "Conservationists release more than two dozen turtle doves in the South Downs National Park....",
+      "link": "https://www.bbc.co.uk/news/articles/c207nvzywkgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 05:12:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cooler temperatures with wet and windy weather forecast for UK this week",
+      "description": "Weekend warmth gives way to rain and strong winds for many into the start of the new week. ...",
+      "link": "https://www.bbc.co.uk/weather/articles/cvgynj49lzmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 03:09:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
       "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia....",
@@ -137,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/fcc623828bca231fbfb4e0da6132e47cf8346e68/4_113_668_534/master/668.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4292063ce613543359ffbf4b3232021"
     },
     {
-      "title": "Flourishing green communities are changing lives",
-      "description": "Four projects have been nominated in the environmental category in Devon's Make a Difference Awards....",
-      "link": "https://www.bbc.co.uk/news/articles/cq8j0vlznx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 11:04:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Reform continues to cast doubt on climate science. Do its supporters agree?",
       "description": "&lt;p&gt;Climate scepticism is common at the Reform party conference, but many also criticise Labour for failing to protect Britons from hot weather&l...",
       "link": "https://www.theguardian.com/politics/2026/sep/05/reform-continues-to-cast-doubt-on-climate-science-do-its-supporters-agree",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations....",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance",
-      "description": "Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recen...",
-      "link": "https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/",
-      "pubDate": "Sat, 05 Sep 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
