@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-09-08T05:48:54.253Z",
+  "lastUpdated": "2026-09-08T11:05:57.926Z",
   "articles": [
     {
-      "title": "Shetland spaceport project secures  £30m of UK government investment",
+      "title": "The Cost of Keeping Cool: Georgia Power Customers Struggle With Summer Bills",
+      "description": "When the power goes out during a Georgia summer, the heat builds fast. Inside a home without air conditioning, the air turns heavy and stifling. For D...",
+      "link": "https://insideclimatenews.org/news/08092026/georgia-power-electricity-disconnections/",
+      "pubDate": "Tue, 08 Sep 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Shetland spaceport project secures £30m of UK government investment",
       "description": "The funding will be used to build two more launchpads....",
       "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 05:31:01 GMT",
+      "pubDate": "Tue, 08 Sep 2026 08:48:33 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why it&#8217;s so hard to predict a tragedy like Nepal&#8217;s glacier collapse",
+      "description": "Melting glaciers spell disaster around the world. Protecting people will be a challenge for decades to come....",
+      "link": "https://grist.org/extreme-weather/why-its-so-hard-to-predict-a-tragedy-like-nepals-glacier-collapse/",
+      "pubDate": "Tue, 08 Sep 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/GettyImages-2217218057.jpg"
+    },
+    {
+      "title": "The world is adapting to extreme heat — but not nearly fast enough",
+      "description": "Scientists say it will take more than early warning systems and cooling centers to keep people safe....",
+      "link": "https://grist.org/extreme-weather/the-world-is-adapting-to-extreme-heat-but-not-nearly-fast-enough/",
+      "pubDate": "Tue, 08 Sep 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/Paris-heat-wave-heat-stroke-ambulance.jpg"
+    },
+    {
+      "title": "America is losing its war against wildfire",
+      "description": "Wildland firefighting is increasingly facing an intractable reality: We’re stuck in a vicious cycle. A doom loop....",
+      "link": "https://grist.org/extreme-weather/america-is-losing-its-war-against-wildfire/",
+      "pubDate": "Tue, 08 Sep 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/image004_Dan-Dallas.jpg"
     },
     {
       "title": "Wildlife and access boost planned for city park",
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Turning cooler with wet and windy weather forecast for UK this week",
-      "description": "Weekend warmth gives way to rain and strong winds for many into the start of the new week. ...",
-      "link": "https://www.bbc.co.uk/weather/articles/cvgynj49lzmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 03:09:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-      "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia....",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 23:13:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-      "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia....",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 23:13:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A hard-won rule to cut chemical plant pollution is being unraveled",
-      "description": "In 2024, the Biden administration enacted wide-ranging regulations to protect communities near petrochemical plants from air toxics. The Trump adminis...",
-      "link": "https://grist.org/regulation/a-hard-won-rule-to-cut-chemical-plant-pollution-is-being-unraveled/",
-      "pubDate": "Sun, 06 Sep 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/HON-Map.png"
     }
   ]
 }
