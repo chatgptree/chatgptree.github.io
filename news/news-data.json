@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-10T14:17:28.360Z",
+  "lastUpdated": "2026-09-10T18:17:09.577Z",
   "articles": [
+    {
+      "title": "More than 70% of new solar is being built in states that voted for Trump",
+      "description": "Trump-supporting states are driving the solar boom even as Republican policies complicate its future....",
+      "link": "https://grist.org/energy/more-than-70-of-new-solar-is-being-built-in-states-that-voted-for-trump/",
+      "pubDate": "Thu, 10 Sep 2026 16:26:30 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Prof Stuart Russell offers some advice following a report into July’s Hugging Face hack....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9784?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+      "description": "&lt;p&gt;Record demand for A&amp;amp;E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts say&lt;...",
+      "link": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+      "pubDate": "Thu, 10 Sep 2026 14:32:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f6e6ad76235ba012502fd682235aaf2c34e5924e/711_42_2789_2233/master/2789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e464c9b6e55fc2724e543a9c2cb07b2"
+    },
     {
       "title": "People in the US: how have you coped during this summer of record heat?",
       "description": "&lt;p&gt;We’d like to hear from people about the impact of extreme heat this summer – and if you’ve had your power cut&lt;/p&gt;&lt;p&gt;It’s been a r...",
@@ -26,7 +53,7 @@
       "pubDate": "Thu, 10 Sep 2026 14:00:37 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/ce0c169555688f52043d7fbc45452c2daa3ffc44/127_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=241278d7a16bb18d3321b1a3b895cb3b"
+      "image": "https://i.guim.co.uk/img/media/839e07c28c67783b8cd6ace22a3906380b911b61/340_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb69b2a39e052c6a6e38fd108b4f41bc"
     },
     {
       "title": "How California Is Kicking Its Natural Gas Habit",
@@ -56,16 +83,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
-      "description": "&lt;p&gt;Health secretary says extreme demand no longer confined to winter as service in England warns of knock-on effects&lt;/p&gt;&lt;p&gt;The NHS f...",
-      "link": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
-      "pubDate": "Thu, 10 Sep 2026 11:37:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f6e6ad76235ba012502fd682235aaf2c34e5924e/711_42_2789_2233/master/2789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e464c9b6e55fc2724e543a9c2cb07b2"
-    },
-    {
-      "title": "UK ministers explore raising price of water for some users amid shortages",
+      "title": "UK ministers explore raising price of water for industrial users amid shortages",
       "description": "&lt;p&gt;Environment Agency says talks under way about increasing prices for industrial users to try to reduce poor water management&lt;/p&gt;&lt;p&gt...",
       "link": "https://www.theguardian.com/environment/2026/sep/10/water-shortages-uk-supply-raising-price",
       "pubDate": "Thu, 10 Sep 2026 11:14:04 GMT",
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 02:05:47 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Industry Interests Spent Big Money to Stop California From Banning PFAS Pesticides",
-      "description": "An ambitious bill to keep toxic &#8220;forever chemicals&#8221; off California produce lost its teeth after the chemical and agricultural industry spe...",
-      "link": "https://insideclimatenews.org/news/09092026/industry-interests-spent-big-money-to-stop-california-from-banning-pfas-pesticides/",
-      "pubDate": "Thu, 10 Sep 2026 01:19:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Utahns Support Protecting National Monuments That Trump Downsized",
-      "description": "Two-thirds of Utah voters support restoring the boundaries of Bears Ears and Grand Staircase-Escalante national monuments to the previous boundaries t...",
-      "link": "https://insideclimatenews.org/news/09092026/utah-voters-support-protecting-national-monuments/",
-      "pubDate": "Wed, 09 Sep 2026 22:55:58 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
