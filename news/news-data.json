@@ -1,21 +1,30 @@
 {
-  "lastUpdated": "2026-09-10T18:17:09.577Z",
+  "lastUpdated": "2026-09-10T21:32:37.405Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "Prof Stuart Russell offers some advice following a report into July’s Hugging Face hack....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9784?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Chemours to Pay $455 Million for Fayetteville Works Contamination",
+      "description": "This story is a collaboration between Inside Climate News and CityView NC, part of The Assembly Local Network. North Carolina and a handful of local g...",
+      "link": "https://insideclimatenews.org/news/10092026/chemours-fayetteville-pfas-contamination-settlement/",
+      "pubDate": "Thu, 10 Sep 2026 19:31:01 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "More than 70% of new solar is being built in states that voted for Trump",
       "description": "Trump-supporting states are driving the solar boom even as Republican policies complicate its future....",
       "link": "https://grist.org/energy/more-than-70-of-new-solar-is-being-built-in-states-that-voted-for-trump/",
       "pubDate": "Thu, 10 Sep 2026 16:26:30 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Prof Stuart Russell offers some advice following a report into July’s Hugging Face hack....",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9784?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -104,7 +113,7 @@
       "title": "World must reject climate culture wars or face economic ruin, says UN’s Stiell",
       "description": "&lt;p&gt;Warning by United Nations climate chief comes as EU data shows August 2026 was joint hottest month ever&lt;/p&gt;&lt;p&gt;Attempts to stoke a...",
       "link": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
-      "pubDate": "Thu, 10 Sep 2026 10:42:44 GMT",
+      "pubDate": "Thu, 10 Sep 2026 10:42:43 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/22422f16834b36234675605d408b0866db16d6e8/31_0_3613_2892/master/3613.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8745aaf90be205b8afbcc88b5bf5dfbc"
@@ -162,15 +171,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/bf8a9a6b38e57e465e41b36b2a5dcd1aa6d2e3cb/137_0_4585_3668/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f38bdaee789c8e8572cf5917d30e41e5"
-    },
-    {
-      "title": "August joint-hottest month on record as climate change and El Niño drive heat",
-      "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month....",
-      "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 02:05:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "August joint-hottest month on record as climate change and El Niño drive heat",
