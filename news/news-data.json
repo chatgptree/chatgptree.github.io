@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-10T21:32:37.405Z",
+  "lastUpdated": "2026-09-10T23:57:51.862Z",
   "articles": [
+    {
+      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+      "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year....",
+      "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 23:22:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
+      "description": "The National Trust warns species are on the brink of extinction in a valley of Eryri National Park....",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 21:58:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Florida Proposes Stronger Protections for Sloths After Dozens Died at a Tourism Attraction",
+      "description": "Florida’s wildlife agency has proposed new rules to strengthen protections for sloths imported into the state, four months after an Inside Climate New...",
+      "link": "https://insideclimatenews.org/news/10092026/florida-proposes-stronger-sloth-protections/",
+      "pubDate": "Thu, 10 Sep 2026 21:42:12 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "Prof Stuart Russell offers some advice following a report into July’s Hugging Face hack....",
@@ -48,7 +75,7 @@
     },
     {
       "title": "Hawaii has often dodged the path of hurricanes. Why did it see so many storms this summer?",
-      "description": "&lt;p&gt;Despite its location, the island chain has avoided the worst effects, but Hurricanes Lowell and Lala left a trail of damage this year&lt;/p&g...",
+      "description": "&lt;p&gt;The island chain has tended to avoid the worst effects, but Hurricanes Lowell and Lala left a trail of damage this year&lt;/p&gt;&lt;p&gt;Hur...",
       "link": "https://www.theguardian.com/us-news/2026/sep/10/hawaii-hurricane-damage-el-nino",
       "pubDate": "Thu, 10 Sep 2026 14:00:37 GMT",
       "sourceName": "theguardian.com",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ed59e1592611bf6cc6e8295775939d4143f7ab79/860_782_4020_3216/master/4020.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a94f0efbc50e22b0ff0249ff7e73f3b"
-    },
-    {
-      "title": "How the fate of a small furry animal reveals the ecological tragedy of Israel’s war on Lebanon | Hisham Younes",
-      "description": "&lt;p&gt;The Syrian rock hyrax depends on the fragile landscapes of the border region. Alongside other environmentalists, I have been documenting the ...",
-      "link": "https://www.theguardian.com/environment/2026/sep/10/how-the-fate-of-a-small-furry-animal-reveals-the-ecological-tragedy-of-israels-war-on-lebanon",
-      "pubDate": "Thu, 10 Sep 2026 06:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dc9ee81aaf28c44e0b249fc9b9d743d8782fb743/523_489_1398_1118/master/1398.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=210a9890e5dbfc718e2fdbd8329816f5"
-    },
-    {
-      "title": "Is Burnham trying to appease Trump? Or Reform? What other reason is there for these North Sea oil plans? | George Monbiot",
-      "description": "&lt;p&gt;Climate catastrophe is on our doorstep – yet Labour’s impending approval of further drilling will bring more pain for negligible gains&lt;/p&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/10/andy-burnham-north-sea-oil-plans-labour-climate-drilling-trump-reform",
-      "pubDate": "Thu, 10 Sep 2026 05:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bf8a9a6b38e57e465e41b36b2a5dcd1aa6d2e3cb/137_0_4585_3668/master/4585.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f38bdaee789c8e8572cf5917d30e41e5"
-    },
-    {
-      "title": "August joint-hottest month on record as climate change and El Niño drive heat",
-      "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month....",
-      "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 02:05:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
