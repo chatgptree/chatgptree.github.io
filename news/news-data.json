@@ -1,20 +1,92 @@
 {
-  "lastUpdated": "2026-09-11T04:27:21.642Z",
+  "lastUpdated": "2026-09-11T09:30:35.688Z",
   "articles": [
     {
-      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
-      "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year....",
-      "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 23:22:33 GMT",
+      "title": "How Grassroots Opposition to a New Asphalt Plant Was Infiltrated by an Outside Operative",
+      "description": "CLEMMONS, N.C.—The man came out of nowhere, but he seemed to be on their side.&#160; Dozens of residents of Clemmons, a small village south of Winston...",
+      "link": "https://insideclimatenews.org/news/11092026/nc-asphalt-plant-opposition-infiltrated-by-outside-operative/",
+      "pubDate": "Fri, 11 Sep 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hurricanes Routinely Threaten the Texas Coast. But Mass Evacuations Pose Risks of Their Own.",
+      "description": "This article was originally published by Public Health Watch, a nonprofit investigative news organization. Find out more at publichealthwatch.org. GAL...",
+      "link": "https://insideclimatenews.org/news/11092026/texas-hurricanes-mass-evacuations-risks/",
+      "pubDate": "Fri, 11 Sep 2026 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Week in wildlife: a sea turtle hatchling, baby orangutans and flying ibises",
+      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/sep/11...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/sep/11/week-in-wildlife-sea-turtle-hatchling-baby-orangutans-and-flying-ibises",
+      "pubDate": "Fri, 11 Sep 2026 07:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ffe8fa938fcb6a7bcccba9bd65d9143c79c7d6dd/470_0_4030_3224/master/4030.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae0b9d491196c1103b00d1060997e737"
+    },
+    {
+      "title": "El Niño likely to cause wetter and warmer-than-normal autumn",
+      "description": "A warmer and wetter-than-normal autumn is in store for the UK, according to the latest Met Office forecasts....",
+      "link": "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 06:27:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Homes for sale in a national park in England – in pictures",
+      "description": "&lt;p&gt;From an energy-efficient bungalow in the South Downs to an historic chapel in Northumberland&lt;/p&gt; &lt;a href=\"https://www.theguardian.co...",
+      "link": "https://www.theguardian.com/money/gallery/2026/sep/11/homes-for-sale-in-a-national-park-in-england-in-pictures",
+      "pubDate": "Fri, 11 Sep 2026 06:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d86af08aa8709adcd00c50ca8106d71039bccbc5/84_0_2499_2000/master/2499.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c3c720b50edc83509677576a0ad1da4"
+    },
+    {
+      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
+      "description": "The National Trust warns species are on the brink of extinction in a valley of Eryri - Snowdonia - National Park....",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 05:00:16 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
       "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
-      "description": "The National Trust warns species are on the brink of extinction in a valley of Eryri National Park....",
+      "description": "The National Trust warns species are on the brink of extinction in a valley of Eryri - Snowdonia - National Park....",
       "link": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 21:58:29 GMT",
+      "pubDate": "Fri, 11 Sep 2026 05:00:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
+      "description": "The National Trust warns species are on the brink of extinction in a valley of Eryri - Snowdonia - National Park....",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 05:00:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Iceland to submit bill that could ban whaling in its waters",
+      "description": "&lt;p&gt;The country is one of just three that still permits commercial whaling, while its government has faced mounting pressure to ban the practice&...",
+      "link": "https://www.theguardian.com/environment/2026/sep/11/iceland-bill-commercial-whaling-ban-mounting-pressure",
+      "pubDate": "Fri, 11 Sep 2026 05:00:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/336ba8f289350a73ebe8d173cbe8592780c07624/680_0_4581_3665/master/4581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c1db9a82505d5196555b346353d2f20"
+    },
+    {
+      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+      "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year....",
+      "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 23:22:33 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -31,7 +103,7 @@
     {
       "title": "BBC Inside Science",
       "description": "Prof Stuart Russell offers some advice following a report into July’s Hugging Face hack....",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9784?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 20:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
@@ -108,78 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/548851105425a936e94be4362d2cd7bffb8183ee/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=445cd040ed2bca68db338322596cb752"
-    },
-    {
-      "title": "August joint hottest month on record globally",
-      "description": "BBC Weather Presenter Simon King explains the figures....",
-      "link": "https://www.bbc.co.uk/news/videos/ckgw3ngep09o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 12:04:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK ministers explore raising price of water for industrial users amid shortages",
-      "description": "&lt;p&gt;Environment Agency says talks under way about increasing prices for industrial users to try to reduce poor water management&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2026/sep/10/water-shortages-uk-supply-raising-price",
-      "pubDate": "Thu, 10 Sep 2026 11:14:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/51201e3b954f6024aff2b5a93e412254b0a4b1bf/0_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=452e12cc9b9ae1aac803e44273353baf"
-    },
-    {
-      "title": "Chemical industry backed laws in three US states to restrict use of air pollution data",
-      "description": "&lt;p&gt;As public air monitors disappear, federal rollbacks and state laws are making it harder than ever to know what’s in the air&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/environment/2026/sep/10/us-chemical-industry-air-pollution-monitors",
-      "pubDate": "Thu, 10 Sep 2026 11:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/906ae4f75c9a82db2a25fe1cdf7e4d956abc60ad/0_183_5235_4188/master/5235.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=843527c0a8e1381cec8ceda3586b93e2"
-    },
-    {
-      "title": "World must reject climate culture wars or face economic ruin, says UN’s Stiell",
-      "description": "&lt;p&gt;Warning by United Nations climate chief comes as EU data shows August 2026 was joint hottest month ever&lt;/p&gt;&lt;p&gt;Attempts to stoke a...",
-      "link": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
-      "pubDate": "Thu, 10 Sep 2026 10:42:43 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/22422f16834b36234675605d408b0866db16d6e8/31_0_3613_2892/master/3613.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8745aaf90be205b8afbcc88b5bf5dfbc"
-    },
-    {
-      "title": "Drax ash mound extraction plan approved",
-      "description": "Plans to extract and reuse million tonnes of ash from a mound next to Drax are given the go-ahead....",
-      "link": "https://www.bbc.co.uk/news/articles/c986eyj4x2zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 10:30:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pennsylvania Is Building More EV Chargers. Will Drivers Come?",
-      "description": "As I drove 500 miles across Pennsylvania and back in a little blue Chevrolet Bolt EV, a charging station near a dumpster at the back of a Pizza Hut pa...",
-      "link": "https://insideclimatenews.org/news/10092026/pennsylvania-spends-big-on-ev-charging-network/",
-      "pubDate": "Thu, 10 Sep 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What the record-high cost of diesel means for you",
-      "description": "Most Americans don't buy diesel, but the soaring costs of trucking and shipping goods have cost the average household $350....",
-      "link": "https://grist.org/economics/what-the-record-high-cost-of-diesel-means-for-you/",
-      "pubDate": "Thu, 10 Sep 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate ‘feedback loops’ could worsen global warming by 30%, study finds",
-      "description": "&lt;p&gt;Emissions of planet-heating methane and CO2 from natural sources are worsening the climate crisis, paper says&lt;/p&gt;&lt;p&gt;Rising global...",
-      "link": "https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study",
-      "pubDate": "Thu, 10 Sep 2026 08:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ed59e1592611bf6cc6e8295775939d4143f7ab79/860_782_4020_3216/master/4020.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a94f0efbc50e22b0ff0249ff7e73f3b"
     }
   ]
 }
