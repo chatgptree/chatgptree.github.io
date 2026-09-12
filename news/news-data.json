@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T20:28:39.997Z",
+  "lastUpdated": "2026-09-12T22:56:28.601Z",
   "articles": [
     {
       "title": "Record heatwaves in France set to make champagne stronger",
@@ -27,6 +27,15 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/06/toppled-utility-poles-Hurricane-Ida.jpg"
+    },
+    {
+      "title": "We know how to prevent black lung, so why are workers still dying?",
+      "description": "&lt;p&gt;Silicosis sufferers are getting younger as Trump and the coal mining industry push back on protections&lt;/p&gt;&lt;p&gt;Silicosis is one of ...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/12/black-lung-worker-deaths",
+      "pubDate": "Sat, 12 Sep 2026 11:00:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6f9b39d30f194781e45555a2743f9bdb9c3ffabb/344_0_6842_5474/master/6842.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c5f64dd8438a0284dc4d2d755f68c1b"
     },
     {
       "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "America’s houseplants come at a steep price for greenhouse workers",
-      "description": "The people who grow houseplants aren't often thought of as agricultural workers, but they face many of the same hardships — especially in extreme heat...",
-      "link": "https://grist.org/extreme-heat/americas-houseplants-come-at-a-steep-price-for-greenhouse-workers/",
-      "pubDate": "Fri, 11 Sep 2026 20:42:38 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/US-heat-dome.jpg"
     }
   ]
 }
