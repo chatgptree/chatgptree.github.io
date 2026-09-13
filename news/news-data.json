@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-09-13T11:38:59.506Z",
+  "lastUpdated": "2026-09-13T16:06:42.123Z",
   "articles": [
+    {
+      "title": "Blankets of colour: Western Australia’s wildflower season bursts to life – in pictures",
+      "description": "&lt;p&gt;On Wajarri Yamaji country in WA’s remote mid-west sits Inyarrimanha Ilgari Bundara, the CSIRO’s Murchison Radio-astronomy Observatory. This y...",
+      "link": "https://www.theguardian.com/australia-news/gallery/2026/sep/14/western-australia-wildflower-season-bursts-to-life-in-pictures",
+      "pubDate": "Sun, 13 Sep 2026 15:00:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c017acf06ae83e96c8930b742b10afff4bc418ef/82_0_1968_1575/master/1968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a82797e43c2ea62cbfb0b9fc5210647"
+    },
+    {
+      "title": "The bird that changed Ecuador: how a chance discovery of a rare species helped to save many more",
+      "description": "&lt;p&gt;Thirty years after a US ornithologist first sighted a jocotoco antpitta, the foundation he set up to restore biodiversity is a model for cons...",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe",
+      "pubDate": "Sun, 13 Sep 2026 13:00:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2e85e93153c5c0947585fbd9271299128dbeb50a/1093_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99835e491d54735d7d4c48c3aac604e4"
+    },
+    {
+      "title": "America’s air monitors are disappearing. So is your power to expose polluters.",
+      "description": "Across several states, a quiet chemical industry campaign is making it harder to hold polluters accountable. ...",
+      "link": "https://grist.org/accountability/americas-air-monitors-are-disappearing-so-is-your-power-to-expose-polluters/",
+      "pubDate": "Sun, 13 Sep 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/LEAN-air-monitoring-car.jpg"
+    },
+    {
+      "title": "Sinking feeling: Testing for ocean health and carbon storage",
+      "description": "Image by Tung Lam from Pixabay Our oceans are in trouble and new research from Flinders University shows how changes in diatoms (microalgae) could fur...",
+      "link": "https://econews.com.au/sinking-feeling-testing-for-ocean-health-and-carbon-storage/",
+      "pubDate": "Sun, 13 Sep 2026 12:01:59 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/09/Prof-Sophie-Leterme-683x1024.jpg"
+    },
+    {
+      "title": "REMONDIS Australia positions for Queensland growth with expansion of Brisbane headquarters",
+      "description": "REMONDIS Aust Rocklea Resource Recovery Facility  Specialised medical waste processing added to services        REMONDIS Australia has consolidated it...",
+      "link": "https://econews.com.au/remondis-australia-positions-for-queensland-growth-with-expansion-of-brisbane-headquarters/",
+      "pubDate": "Sun, 13 Sep 2026 12:01:58 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/09/REMONDIS-Aust-Rocklea-Resource-Recovery-Facility-ribbon-cutting-110926-sm-1024x683.jpeg"
+    },
     {
       "title": "The Alabama Legislature Was on a Collision Course With Alabama Power. Then Came Spring Break.",
       "description": "Wired for Profit: Seventh in a series about Alabama Power’s influence over electric rates, renewable energy, pollution and politics in the Yellowhamme...",
@@ -45,6 +90,33 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/05c85552f41e9e82374fe1d5644d1b8abe883f73/527_0_6565_5252/master/6565.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=001c28c9a92e5b7b402ea24164fa4ffe"
+    },
+    {
+      "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
+      "description": "Bangor University researchers say the scale of damage is far greater than what is immediately visible....",
+      "link": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 06:12:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
+      "description": "Bangor University researchers say the scale of damage is far greater than what is immediately visible....",
+      "link": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 06:12:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
+      "description": "Bangor University researchers say the scale of damage is far greater than what is immediately visible....",
+      "link": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 06:12:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
@@ -108,78 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6f9b39d30f194781e45555a2743f9bdb9c3ffabb/344_0_6842_5474/master/6842.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c5f64dd8438a0284dc4d2d755f68c1b"
-    },
-    {
-      "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
-      "description": "&lt;p&gt;Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant crops&lt;/p&gt;&lt;p&gt;They are an integral part of the Br...",
-      "link": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
-      "pubDate": "Sat, 12 Sep 2026 11:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/284dd2c56c11b173432d520ec1cf7d5539ccbef5/328_0_4660_3729/master/4660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5188bf03f6a2b6102aa847e8f0c0097"
-    },
-    {
-      "title": "Steve Jones on the pros and cons of AI datacentres – cartoon",
-      "description": "&lt;p&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/sep/12/steve-jones-pros-cons-ai-datacentres-cartoon\"&gt;Continu...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/12/steve-jones-pros-cons-ai-datacentres-cartoon",
-      "pubDate": "Sat, 12 Sep 2026 10:00:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/791fd195435eed8a5873a262117da920311ad8a1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd3eb8989b9ad03d690ad19403eb4c6c"
-    },
-    {
-      "title": "An Overdue Trash Bill Left This Alabama Woman in Handcuffs. She’s Not Alone.",
-      "description": "DOUBLE SPRINGS, Ala.—As 59-year-old Pam Benton sat handcuffed to a cold bench inside the Winston County Courthouse, shame flooded over her. All she co...",
-      "link": "https://insideclimatenews.org/news/12092026/alabama-county-arrests-citizens-nonpayment-trash-bills/",
-      "pubDate": "Sat, 12 Sep 2026 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Formal Repeal of Roadless Rule Directly Threatens Midwest Wilderness",
-      "description": "Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples ...",
-      "link": "https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/",
-      "pubDate": "Sat, 12 Sep 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Maryland Under Pressure as Local Moratoriums Supercharge Opposition to Data Centers",
-      "description": "More than 60 advocacy groups from across Maryland are urging leaders in Annapolis to put a temporary pause on new data center proposals until their im...",
-      "link": "https://insideclimatenews.org/news/12092026/maryland-data-center-opposition-supercharged-as-election-approaches/",
-      "pubDate": "Sat, 12 Sep 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Marmots, OnlyFans and a Meme Coin Generated Big Bucks for Wildlife Biology",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by Jenni Doering with Emily Renkey from the...",
-      "link": "https://insideclimatenews.org/news/12092026/fat-marmot-week-raises-big-money-for-wildlife-biology/",
-      "pubDate": "Sat, 12 Sep 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The slow, muddy work of saving ancient bogs",
-      "description": "Sarah Hickey and her team help keep nearly 20,000 acres of upland in the Isle of Man healthy....",
-      "link": "https://www.bbc.co.uk/news/articles/czjzvdjl0plo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 06:27:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-      "description": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales....",
-      "link": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 06:09:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
