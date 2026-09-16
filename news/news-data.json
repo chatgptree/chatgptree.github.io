@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-16T01:17:14.153Z",
+  "lastUpdated": "2026-09-16T07:35:05.447Z",
   "articles": [
+    {
+      "title": "Rescued moon bears arrive at Suffolk forever home",
+      "description": "The bears, rescued from a bile farm, are beginning their new lives in a wildlife park ...",
+      "link": "https://www.bbc.co.uk/news/articles/cx3051l0r636o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 07:07:40 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "People protecting nature and land set up self-defence units amid threat of murder",
+      "description": "&lt;p&gt;Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America&lt;/p&gt;&lt;p&gt;Nature ...",
+      "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+      "pubDate": "Wed, 16 Sep 2026 05:00:10 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3c27bedbd4302d83f4a9a8550d02971439dfc034/337_0_5730_4584/master/5730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=643b50c09483668e1cc373b10a19db9c"
+    },
+    {
+      "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
+      "description": "&lt;p&gt;Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions &lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
+      "pubDate": "Wed, 16 Sep 2026 04:00:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/18b0ab9efd8a719e703c636e6aebbc396be59ee6/126_0_3987_3189/master/3987.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1becc18d27e0f28b5d377763853ef84b"
+    },
     {
       "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
       "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/29af17e3b5ae98c84016fe213e0065457a3a08be/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0adb8914c3ef0a0c51db40dc559d677"
-    },
-    {
-      "title": "Planting seeds for better mental health from the ground up",
-      "description": "Dr Jake Robinson in the field In today’s urbanised and highly engineered world, good mental health and wellbeing are in big demand. With an aim to pro...",
-      "link": "https://econews.com.au/planting-seeds-for-better-mental-health-from-the-ground-up/",
-      "pubDate": "Tue, 15 Sep 2026 12:01:41 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/02/Flinders-Uni-logo.png"
-    },
-    {
-      "title": "Americas to lead global microgrids market growth through 2030, forecasts GlobalData",
-      "description": "The global microgrids market is poised for strong growth as governments, utilities, commercial facilities, military bases, and remote communities incr...",
-      "link": "https://econews.com.au/americas-to-lead-global-microgrids-market-growth-through-2030-forecasts-globaldata/",
-      "pubDate": "Tue, 15 Sep 2026 12:01:40 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Global-Data-logo.jpg"
-    },
-    {
-      "title": "What Did Your Home Battery Actually Do Today?",
-      "description": "Residential battery installation supplied by SUNNY Energy. This is an illustrative installation image, not the 41.44 kWh project discussed in the arti...",
-      "link": "https://econews.com.au/what-did-your-home-battery-actually-do-today/",
-      "pubDate": "Tue, 15 Sep 2026 12:01:39 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/09/sunny-logo.png"
     }
   ]
 }
