@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-17T18:07:42.508Z",
+  "lastUpdated": "2026-09-17T22:03:04.263Z",
   "articles": [
+    {
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "description": "&lt;p&gt;New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat&lt;/p&gt;&lt;p&gt;A dimin...",
+      "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "pubDate": "Thu, 17 Sep 2026 20:43:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3434cb2b735cf3a888007c59b6864fb6b3284902/492_0_4917_3934/master/4917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad420e896e9ea2421da0e78b9b182d5f"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "Might the UK and US joining their AI forces help solve nuclear fusion?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9785?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The Guardian view on the Nepal-Tibet floods: a spur to action on climate | Editorial",
       "description": "&lt;p&gt;New research links last month’s disaster to fossil fuel pollution. Supporting disaster-hit countries must be at the centre of climate politic...",
@@ -24,15 +42,6 @@
       "description": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales....",
       "link": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 16:14:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Might the UK and US joining their AI forces help solve nuclear fusion?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9785?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 16:00:00 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/09/carlos-09171.jpg"
-    },
-    {
-      "title": "Access-to-nature crisis ‘on par with that of Victorian Britain’s filthy air’",
-      "description": "&lt;p&gt;Research finds many in England lack proximity to green and blue spaces as Labour urged to speed up manifesto pledge&lt;/p&gt;&lt;p&gt;Nearly ...",
-      "link": "https://www.theguardian.com/environment/2026/sep/17/nature-access-inequalities-wildlife-trusts-green-blue-space-england",
-      "pubDate": "Thu, 17 Sep 2026 06:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/871179867c498a66d330d0a250761721d299c4a1/280_0_6139_4912/master/6139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c500d90e3c7aa73c8ca6dd7cab30e3a"
     }
   ]
 }
