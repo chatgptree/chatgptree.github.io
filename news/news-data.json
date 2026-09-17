@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-16T22:02:17.210Z",
+  "lastUpdated": "2026-09-17T01:17:00.202Z",
   "articles": [
+    {
+      "title": "Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds",
+      "description": "&lt;p&gt;Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August&lt;/p&gt;&lt;p&gt;Climate breakdow...",
+      "link": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+      "pubDate": "Wed, 16 Sep 2026 23:01:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0d4c471b83e2aad31168203ad0e0c4a7892689be/487_0_2453_1962/master/2453.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f7f0e7e22b4ecd2443d6c70c9e382d8"
+    },
+    {
+      "title": "Climate Change Primed Nepal Glacier for Deadly Collapse",
+      "description": "Climate attribution researchers say “there is absolutely no doubt” that decades of global warming set the stage for the deadly rock and glacier collap...",
+      "link": "https://insideclimatenews.org/news/16092026/research-links-warming-rocks-thawing-permafrost-melting-ice-to-nepal-flood/",
+      "pubDate": "Wed, 16 Sep 2026 23:01:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A New Bill Could Help Obstruct Future Energy Efficiency Standards for Home Appliances—and Repeal Old Ones",
+      "description": "The Senate Committee on Energy and Natural Resources heard testimony Wednesday on the Energy Efficiency Reform Act. The new bill would make it much mo...",
+      "link": "https://insideclimatenews.org/news/16092026/senate-considers-energy-efficiency-reform-act/",
+      "pubDate": "Wed, 16 Sep 2026 22:02:24 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Court Rules in Favor of Feds and Denver Water on Dam Expansion",
       "description": "The unfinished expansion of Gross Reservoir near Denver can proceed after three judges ruled Tuesday in favor of the federal government and a water ut...",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f51d443dc0f86c26929bcbd1205c5375cda38e15/677_0_6749_5402/master/6749.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c40ef3e305d4a5a768de9c0ffa160f3"
-    },
-    {
-      "title": "In Tampa, Community Gardeners Say They Need More Funding, Not More Information, to Feed Neighbors in Need",
-      "description": "In the East Tampa neighborhood where Dee Morales bought her house, residents have been asking for a supermarket for 10 years. They still don’t have on...",
-      "link": "https://insideclimatenews.org/news/16092026/tampa-community-gardens-need-funding-not-more-info/",
-      "pubDate": "Wed, 16 Sep 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "She governs a US territory. But she has no say in who mines its waters.",
-      "description": "Modern-day colonialism is enabling Trump's deep-sea mining ambitions in the Pacific....",
-      "link": "https://grist.org/energy/deep-seabed-mining-pacific-trump-guam-guerrero-samoa/",
-      "pubDate": "Wed, 16 Sep 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/09/american-samoa.jpg"
-    },
-    {
-      "title": "As Russia attacks Ukraine’s grid, solar offers a path to resilience",
-      "description": "With help from government incentives, Ukrainian businesses and households are increasingly investing in solar....",
-      "link": "https://grist.org/international/as-russia-attacks-ukraines-grid-solar-offers-a-path-to-resilience/",
-      "pubDate": "Wed, 16 Sep 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/IMG_0600.jpeg"
     }
   ]
 }
