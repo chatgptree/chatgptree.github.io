@@ -1,14 +1,68 @@
 {
-  "lastUpdated": "2026-09-17T01:17:00.202Z",
+  "lastUpdated": "2026-09-17T07:31:53.248Z",
   "articles": [
     {
-      "title": "Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds",
-      "description": "&lt;p&gt;Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August&lt;/p&gt;&lt;p&gt;Climate breakdow...",
-      "link": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-      "pubDate": "Wed, 16 Sep 2026 23:01:32 GMT",
+      "title": "Access-to-nature crisis ‘on par with that of Victorian Britain’s filthy air’",
+      "description": "&lt;p&gt;Research finds many in England lack proximity to green and blue spaces as Labour urged to speed up manifesto pledge&lt;/p&gt;&lt;p&gt;Nearly ...",
+      "link": "https://www.theguardian.com/environment/2026/sep/17/nature-access-inequalities-wildlife-trusts-green-blue-space-england",
+      "pubDate": "Thu, 17 Sep 2026 06:00:41 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/0d4c471b83e2aad31168203ad0e0c4a7892689be/487_0_2453_1962/master/2453.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f7f0e7e22b4ecd2443d6c70c9e382d8"
+      "image": "https://i.guim.co.uk/img/media/871179867c498a66d330d0a250761721d299c4a1/280_0_6139_4912/master/6139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c500d90e3c7aa73c8ca6dd7cab30e3a"
+    },
+    {
+      "title": "The farmer who turned to singing after bovine TB silenced his fields",
+      "description": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB....",
+      "link": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 05:43:03 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rare tree offspring given lifeline at Scottish botanic garden",
+      "description": "Logan Botanic Garden is helping save a species native to Robinson Crusoe Island in the South Pacific....",
+      "link": "https://www.bbc.co.uk/news/articles/cr86xvy15nego?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 05:05:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "2025 was among driest years on record for world’s rivers, study finds",
+      "description": "&lt;p&gt;Analysis of global resources reveals depletion in world’s water savings bank to 42% below normal levels last year&lt;/p&gt;&lt;p&gt;Rivers ac...",
+      "link": "https://www.theguardian.com/environment/2026/sep/17/2025-driest-years-worlds-rivers-study-finds",
+      "pubDate": "Thu, 17 Sep 2026 04:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4463f385f49a34ecba33a3464d1da7138644db07/810_0_5835_4667/master/5835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d841674c919beaa2c582d4109021e5fb"
+    },
+    {
+      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+      "description": "&lt;p&gt;As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territo...",
+      "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+      "pubDate": "Thu, 17 Sep 2026 04:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6e7727a328fa9baa76b7710e763fcc2097bcfbaa/1610_411_2635_2110/master/2635.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=630cc8d86fda3829042835c8f98e0cfd"
+    },
+    {
+      "title": "English Heritage trains new generation of scythers to maintain meadows and craft",
+      "description": "&lt;p&gt;Initiative aims to keep alive age-old skill, and at Muchelney Abbey in Somerset improve habitat for rare shrill carder bee&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/17/english-heritage-trains-new-generation-of-scythers-to-maintain-meadows-and-craft",
+      "pubDate": "Thu, 17 Sep 2026 04:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/35bce8075159ac9d972953e626980f800fce33d1/632_0_5523_4424/master/5523.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59823e4e8d9203f94674c2861e7f8a36"
+    },
+    {
+      "title": "Do whales grieve? Rare footage of humpback alongside stillborn calf suggests they might | Olaf Meynecke for the Conversation",
+      "description": "&lt;p&gt;The behaviours we observed could represent grief, but they could also reflect maternal attachment, confusion or instinctive caregiving&lt;/p&...",
+      "link": "https://www.theguardian.com/environment/2026/sep/17/do-whales-grieve-scientists-research-off-australias-gold-coast-suggests-they-might",
+      "pubDate": "Thu, 17 Sep 2026 02:22:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4b3e1537b7fc3b41aeee12ce4942bc70d9cd4207/633_0_6333_5067/master/6333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8a78bc4dee4ce0df9edaa45dd58a6cb"
     },
     {
       "title": "Climate Change Primed Nepal Glacier for Deadly Collapse",
@@ -101,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/3696ddb5d1f64cfc4a28611b2f2774c4526e0956/496_0_4957_3966/master/4957.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c71d93f072d12613c06c686bd71d99b7"
     },
     {
-      "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
-      "description": "&lt;p&gt;Exclusive: Plastic surfaces form hotspots with an increase of antibiotic-resistant genes, study finds&lt;/p&gt;&lt;p&gt;Microplastics act lik...",
-      "link": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
-      "pubDate": "Wed, 16 Sep 2026 12:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/36117cb39cde8cd32289141f8425787140f75a0a/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d3c3ebaf216c79f1d69be761f571984"
-    },
-    {
       "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
       "description": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness. ...",
       "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&amp;at_campaign=rss",
@@ -135,51 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/270f4637897c7f81dc57fb1ca480d1f92f505036/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45a5c69895447b13aca4ed82766fbcf6"
-    },
-    {
-      "title": "White-tailed eagle chicks fledge for fourth year",
-      "description": "The Forestry England and the Roy Dennis Wildlife Foundation reintroduction project began in 2019....",
-      "link": "https://www.bbc.co.uk/news/articles/cm9dwvngy808o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 10:23:24 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘We’re near a breaking point:’ firefighters say US government is failing them amid intense wildfire season",
-      "description": "&lt;p&gt;US grapples with federal firefighter shortage as crews say they’re spread thin and lack resources during unrelenting year of fire&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/16/wildfires-government-firefighter-shortage",
-      "pubDate": "Wed, 16 Sep 2026 10:00:16 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/16b911fe62deabf98cec51cecfb61ca58f3b1b7e/12_0_3501_2800/master/3501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dec71b1ce537e5ecc67c6f07cef8950d"
-    },
-    {
-      "title": "Fighting fire with fungi: researchers design protective clothing using mycelium leather",
-      "description": "A wildfire jacket prototype grown from mycelium leather, showcases how fungi?based materials could reshape the future protective clothing. Credit: RMI...",
-      "link": "https://econews.com.au/fighting-fire-with-fungi-researchers-design-protective-clothing-using-mycelium-leather/",
-      "pubDate": "Wed, 16 Sep 2026 09:01:51 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/10/RMIT-logo.png"
-    },
-    {
-      "title": "TrusTrace Launches New Platform to Turn Supply Chain Data Into Insight and Action",
-      "description": "New platform builds on TrusTrace’s enterprise-proven data foundation, starting with Supply Chain Intelligence and automated program operations.  As ma...",
-      "link": "https://econews.com.au/trustrace-launches-new-platform-to-turn-supply-chain-data-into-insight-and-action/",
-      "pubDate": "Wed, 16 Sep 2026 09:01:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/09/unnamed-1.png"
-    },
-    {
-      "title": "Company behind failed Surrey oilfield project sells site at massive loss",
-      "description": "&lt;p&gt;New owners apply for permission to extract oil in Horse Hill despite landmark ruling from supreme court in 2024&lt;/p&gt;&lt;p&gt;After years...",
-      "link": "https://www.theguardian.com/environment/2026/sep/16/company-behind-failed-surrey-oilfield-project-sells-massive-loss",
-      "pubDate": "Wed, 16 Sep 2026 09:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f51d443dc0f86c26929bcbd1205c5375cda38e15/677_0_6749_5402/master/6749.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c40ef3e305d4a5a768de9c0ffa160f3"
     }
   ]
 }
