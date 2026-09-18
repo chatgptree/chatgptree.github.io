@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-18T12:54:47.012Z",
+  "lastUpdated": "2026-09-18T17:02:22.487Z",
   "articles": [
+    {
+      "title": "Drone footage shows severe drought hitting river in Brazil – video",
+      "description": "&lt;p&gt;Drone footage from 17 September shows the Araguaia River drying up, as severe drought grips parts of Brazil. The country is preparing for pot...",
+      "link": "https://www.theguardian.com/world/video/2026/sep/18/drone-footage-shows-severe-drought-hitting-brazils-northern-river-video",
+      "pubDate": "Fri, 18 Sep 2026 14:04:13 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/642b8ea3a78e415cfe972bbf9cf73634ce5541ab/570_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e0f6d6053062a8a811eab93bfc18f98"
+    },
+    {
+      "title": "US veterans have greater levels of Pfas in their blood than civilians, new study finds",
+      "description": "&lt;p&gt;Soil and water around military bases show elevated levels of Pfas pollution due to chemicals used in firefighting foam&lt;/p&gt;&lt;p&gt;Many...",
+      "link": "https://www.theguardian.com/environment/2026/sep/18/pfas-veterans-blood-forever-chemicals",
+      "pubDate": "Fri, 18 Sep 2026 14:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8ccc8a3e0e28ac0bd45cc2a0026fdc3b6c371400/412_0_2676_2141/master/2676.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c5fdef04854fb4179aacfaf07e34686"
+    },
+    {
+      "title": "Fat Bear Week has returned – and the salmon are swimming for their lives",
+      "description": "&lt;p&gt;The public will, for the 12th year in a row, vote for the fattest of brown bears in Alaska’s Katmai national park&lt;/p&gt;&lt;p&gt;The bears...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/18/fat-bear-week-2026",
+      "pubDate": "Fri, 18 Sep 2026 13:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2dab9306e2d5d311d73d23ae7593fbdad8a76ebf/161_0_4861_3888/master/4861.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=daeef6f73658a6eb76ac2c546f80a3e4"
+    },
     {
       "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
       "description": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\"....",
@@ -84,7 +111,7 @@
     },
     {
       "title": "The fate of the Endangered Species Act rests on 2 simple words",
-      "description": "The Trump administration has upended protections for thousands of endangered species by redefining the words \"take\" and \"harm.\"...",
+      "description": "The Trump administration has upended protections for hundreds of endangered species by redefining the words \"take\" and \"harm.\"...",
       "link": "https://grist.org/language/endangered-species-act-trump-take-harm/",
       "pubDate": "Fri, 18 Sep 2026 08:15:00 +0000",
       "sourceName": "grist.org",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New cat species identified for first time in more than a century in Bolivia",
-      "description": "&lt;p&gt;New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat&lt;/p&gt;&lt;p&gt;A dimin...",
-      "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
-      "pubDate": "Thu, 17 Sep 2026 20:43:38 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3434cb2b735cf3a888007c59b6864fb6b3284902/224_0_4917_3934/master/4917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a9667626cfb3440f05beee7c6cf7ef15"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "Might the UK and US joining their AI forces help solve nuclear fusion?...",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on the Nepal-Tibet floods: a spur to action on climate | Editorial",
-      "description": "&lt;p&gt;New research links last month’s disaster to fossil fuel pollution. Supporting disaster-hit countries must be at the centre of climate politic...",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/17/the-guardian-view-on-the-nepal-tibet-floods-a-spur-to-action-on-climate",
-      "pubDate": "Thu, 17 Sep 2026 17:47:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e0e2f2595d4233027087d2600742031e5c08e457/165_0_4568_3654/master/4568.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=467b32d6f6b7591eb39c21dd9ceeef16"
     }
   ]
 }
