@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-17T22:03:04.263Z",
+  "lastUpdated": "2026-09-18T01:12:17.544Z",
   "articles": [
+    {
+      "title": "New wild cat species discovered - with only one known living member",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia....",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 23:15:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New wild cat species discovered - with only one known living member",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia....",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 23:15:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "New cat species identified for first time in more than a century in Bolivia",
       "description": "&lt;p&gt;New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat&lt;/p&gt;&lt;p&gt;A dimin...",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Nine Florida Springs Will Get New Cleanup Plans Under Legal Settlement",
-      "description": "Under a recent legal settlement, Florida will have to adopt new plans for addressing pollution in nine of the hundreds of freshwater springs in the st...",
-      "link": "https://insideclimatenews.org/news/17092026/florida-springs-cleanup-plan-settlement/",
-      "pubDate": "Thu, 17 Sep 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A trip down the road that will determine the fate of the Amazon",
-      "description": "The BR-319 runs through a largely untouched stretch of the rainforest. A new initiative to pave it could put the Amazon and the global climate at risk...",
-      "link": "https://grist.org/economics/a-trip-down-the-road-that-will-determine-the-fate-of-the-amazon-br-319-brazil/",
-      "pubDate": "Thu, 17 Sep 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/carlos-09171.jpg"
     }
   ]
 }
