@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-19T13:51:20.504Z",
+  "lastUpdated": "2026-09-19T17:09:24.193Z",
   "articles": [
+    {
+      "title": "Nature reserve to double in size, thanks to gift",
+      "description": "Staffordshire Wildlife Trust acquires an area of wet woodland, marsh and pastureland due to the will....",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgw0kx0540o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 14:37:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Federal court rules there is no constitutional right to safe drinking water",
       "description": "Years after a water crisis rocked Jackson, Mississippi, the court finds that residents have no right “to truthful information from officials.”...",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Federal transit cuts could hit rural America hardest",
-      "description": "As Congress considers the next five years of transportation spending, proposed transit funding reductions could fall heavily on rural communities with...",
-      "link": "https://grist.org/solutions/federal-transit-cuts-could-hit-rural-america-hardest/",
-      "pubDate": "Fri, 18 Sep 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/02/Madison-Wisconsin-transit-BRT-electric-buses-range-winter-01.jpeg"
     }
   ]
 }
