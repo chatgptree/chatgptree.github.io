@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-19T04:24:37.244Z",
+  "lastUpdated": "2026-09-19T09:21:53.688Z",
   "articles": [
+    {
+      "title": "What Happens When Earth Passes 1.5 Degrees of Warming?",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with climate scientis...",
+      "link": "https://insideclimatenews.org/news/19092026/what-happens-when-earth-passes-1-5-degrees-of-warming/",
+      "pubDate": "Sat, 19 Sep 2026 08:51:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Endangered Salmon May Soon Swim Freely up a Maine River. But as the Climate Changes, a Comeback Isn’t Guaranteed.",
+      "description": "On a recent canoe trip to the remote upper reaches of the Narraguagus River, Ellie Mason saw prime Atlantic salmon habitat everywhere. Though small, t...",
+      "link": "https://insideclimatenews.org/news/19092026/maine-dam-removal-helps-endangered-salmon/",
+      "pubDate": "Sat, 19 Sep 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Hummingbird hawk moths and ivy bees: The insects thriving as temperatures rise",
+      "description": "Hummingbird hawk moths - often mistaken for small birds - are being spotted in the West Midlands....",
+      "link": "https://www.bbc.co.uk/news/articles/cvzez0lpnn3go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 06:27:28 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Trump administration pushes on with construction of controversial Big Bend border wall",
       "description": "&lt;p&gt;Customs and Border Protection faces bipartisan backlash from locals for 30ft border wall through west Texas&lt;/p&gt;&lt;p&gt;The &lt;a href=...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Week in wildlife: swimming pigs, circling sharks and a fox on the cricket pitch",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/sep/18...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/sep/18/week-in-wildlife-swimming-pigs-circling-sharks-and-a-fox-on-the-cricket-pitch",
-      "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/637be1d18433c92594b1c6631506889b19f52080/417_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8bcbb66f5314f1f96c8495e2e46710f"
-    },
-    {
-      "title": "Nebula image wins Royal Observatory competition",
-      "description": "Ali Alobaidly is named Astronomy Photographer of the Year for his image of the Shark Nebula....",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2qyppr4l2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 05:12:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "MPs urge ministers to break off Thames Water talks with US hedge funds",
-      "description": "&lt;p&gt;Efra committee calls for emergency legislation enabling government to take public control of the company &lt;/p&gt;&lt;p&gt;Andy Burnham is u...",
-      "link": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
-      "pubDate": "Fri, 18 Sep 2026 05:00:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/742ec66771552c121143ed192211850d50bfafac/1288_0_6440_5152/master/6440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=005b30356d4105c2e5eb9a6df960eb1d"
     }
   ]
 }
