@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-19T09:21:53.688Z",
+  "lastUpdated": "2026-09-19T13:51:20.504Z",
   "articles": [
+    {
+      "title": "Federal court rules there is no constitutional right to safe drinking water",
+      "description": "Years after a water crisis rocked Jackson, Mississippi, the court finds that residents have no right “to truthful information from officials.”...",
+      "link": "https://grist.org/equity/federal-court-rules-there-is-no-constitutional-right-to-safe-drinking-water/",
+      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/08/chi-pb-social-no-title-action-blue-1.png"
+    },
+    {
+      "title": "‘Post-Disaster Gentrification’ Proliferates in Florida Towns as Costs Soar Following Hurricanes",
+      "description": "Jaques and Paulina Sebastiao were the first residents on their street to rebuild their two-bedroom house two years after Hurricane Michael’s 155 mile-...",
+      "link": "https://insideclimatenews.org/news/19092026/florida-disaster-gentrification-following-hurricanes/",
+      "pubDate": "Sat, 19 Sep 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "For Climate-Vulnerable Countries, Debt Costs 25 Times More Than Climate Action",
+      "description": "The countries most vulnerable to climate change are spending nearly 25 times more on repaying debt than on climate action, according to a new ActionAi...",
+      "link": "https://insideclimatenews.org/news/19092026/for-climate-vulnerable-countries-debt-costs-25-times-more-than-climate-action/",
+      "pubDate": "Sat, 19 Sep 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "What Happens When Earth Passes 1.5 Degrees of Warming?",
       "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with climate scientis...",
@@ -153,33 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/02/Madison-Wisconsin-transit-BRT-electric-buses-range-winter-01.jpeg"
-    },
-    {
-      "title": "In Savannah, Georgia’s utility regulators faced public wrath over data centers",
-      "description": "Concerned residents accused the commission of serving Georgia Power and data centers, not the public. Will their discontent sway November’s election?...",
-      "link": "https://grist.org/energy/in-savannah-georgia-psc-faced-public-wrath-over-data-centers/",
-      "pubDate": "Fri, 18 Sep 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2276899078.jpg"
-    },
-    {
-      "title": "The fate of the Endangered Species Act rests on 2 simple words",
-      "description": "The Trump administration has upended protections for hundreds of endangered species by redefining the words \"take\" and \"harm.\"...",
-      "link": "https://grist.org/language/endangered-species-act-trump-take-harm/",
-      "pubDate": "Fri, 18 Sep 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/GettyImages-1151270909.jpg"
-    },
-    {
-      "title": "Burst pipe floods wildlife meadow for fourth time",
-      "description": "Repeated flooding of a key conservation site in Oxfordshire leaves a charity frustrated....",
-      "link": "https://www.bbc.co.uk/news/articles/cjp302kq62elo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 07:56:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
