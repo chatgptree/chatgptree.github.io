@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-18T23:11:16.958Z",
+  "lastUpdated": "2026-09-19T04:24:37.244Z",
   "articles": [
+    {
+      "title": "Trump administration pushes on with construction of controversial Big Bend border wall",
+      "description": "&lt;p&gt;Customs and Border Protection faces bipartisan backlash from locals for 30ft border wall through west Texas&lt;/p&gt;&lt;p&gt;The &lt;a href=...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-big-bend-border-wall-texas-construction",
+      "pubDate": "Fri, 18 Sep 2026 23:07:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b76a3a8da0cf7f54065f4764b2a404b7f318db08/750_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f98d4b56edf9dd803328acc57b982f45"
+    },
     {
       "title": "Environmental and Public Health Groups Sue Over the Trump EPA’s Latest Attempt to Bolster Fossil Fuels",
       "description": "Environmental and public health groups are suing the Trump administration over its most recent move to eliminate protections against climate-warming p...",
@@ -20,15 +29,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Australia’s renewables transition is well under way – but meeting its 2030 target will be ‘extremely challenging’",
-      "description": "&lt;p&gt;A gap looms between the Albanese government’s goal of 82% renewable energy and planned solar and wind projects&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
-      "link": "https://www.theguardian.com/environment/2026/sep/19/australia-renewables-transition-target-albanese-energy-solar-wind",
-      "pubDate": "Fri, 18 Sep 2026 15:00:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2934c8ca9b73599e9e853a0e2ecd278ed2a5d994/648_0_6478_5182/master/6478.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4614c1e5700a0dbcbd78728da99a5234"
-    },
-    {
       "title": "Drone footage shows severe drought hitting river in Brazil – video",
       "description": "&lt;p&gt;Drone footage from 17 September shows the Araguaia River drying up, as severe drought grips parts of Brazil. The country is preparing for pot...",
       "link": "https://www.theguardian.com/world/video/2026/sep/18/drone-footage-shows-severe-drought-hitting-brazils-northern-river-video",
@@ -36,6 +36,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/642b8ea3a78e415cfe972bbf9cf73634ce5541ab/570_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e0f6d6053062a8a811eab93bfc18f98"
+    },
+    {
+      "title": "US veterans have greater levels of Pfas in their blood than civilians, new study finds",
+      "description": "&lt;p&gt;Soil and water around military bases show elevated levels of Pfas pollution due to chemicals used in firefighting foam&lt;/p&gt;&lt;p&gt;Many...",
+      "link": "https://www.theguardian.com/environment/2026/sep/18/pfas-veterans-blood-forever-chemicals",
+      "pubDate": "Fri, 18 Sep 2026 14:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8ccc8a3e0e28ac0bd45cc2a0026fdc3b6c371400/412_0_2676_2141/master/2676.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c5fdef04854fb4179aacfaf07e34686"
     },
     {
       "title": "Fat Bear Week has returned – and the salmon are swimming for their lives",
@@ -65,13 +74,22 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "From old railways to an oasis of art, food and nature: how an eco-park was born in Greater Manchester",
-      "description": "&lt;p&gt;Northern Roots is launching Britain’s biggest urban farm and eco-park, in an effort to boost people’s health and wellbeing&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/environment/2026/sep/18/northern-roots-eco-park-urban-farm-greater-manchester",
+      "title": "Private jets pollute up to 14 times as much as commercial planes and are undertaxed in US, report says",
+      "description": "&lt;p&gt;Number of private jets has surged in recent years, but they do not pay commensurate portion of fees to FAA operations&lt;/p&gt;&lt;p&gt;A new...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/18/private-jets-pollution-undertaxed",
+      "pubDate": "Fri, 18 Sep 2026 12:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ab0ae2c6e148aa3efddae096f2eec46b5e4f47a9/245_0_2975_2380/master/2975.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4d56161db3cf52cfd400b808c57737d"
+    },
+    {
+      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "description": "&lt;p&gt;Some experts worry factors affecting wheat exports could push global food prices even higher than they are now&lt;/p&gt;&lt;p&gt;Wheat prices...",
+      "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
       "pubDate": "Fri, 18 Sep 2026 11:00:17 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/5f881e390f32245b7986355c3386617dfa68f69d/288_0_3750_3002/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87f03cb1258f8514341208f13e4be797"
+      "image": "https://i.guim.co.uk/img/media/8682bfd875e828a0900020dfd23df66d501f7f9c/499_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=057cdee4845b02b14fcf403d876bc277"
     },
     {
       "title": "Move faster to solve climate challenges, Prince William says",
@@ -146,15 +164,6 @@
       "image": "https://i.guim.co.uk/img/media/637be1d18433c92594b1c6631506889b19f52080/417_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8bcbb66f5314f1f96c8495e2e46710f"
     },
     {
-      "title": "The world’s rivers are at breaking point. Can we save them before it is too late?",
-      "description": "&lt;p&gt;In this week’s newsletter: As the Guardian launches a year-long project, Our Rivers, we take stock of the issues facing waterways around the ...",
-      "link": "https://www.theguardian.com/environment/2026/sep/17/down-to-earth-our-rivers-project",
-      "pubDate": "Fri, 18 Sep 2026 06:00:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4463f385f49a34ecba33a3464d1da7138644db07/810_0_5835_4667/master/5835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d841674c919beaa2c582d4109021e5fb"
-    },
-    {
       "title": "Nebula image wins Royal Observatory competition",
       "description": "Ali Alobaidly is named Astronomy Photographer of the Year for his image of the Shark Nebula....",
       "link": "https://www.bbc.co.uk/news/articles/ckm2qyppr4l2o?at_medium=RSS&amp;at_campaign=rss",
@@ -162,15 +171,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Improved air quality linked to better mental development in toddlers, study finds",
-      "description": "&lt;p&gt;Long-term research in New York shows efforts to reduce air pollution associated with higher cognitive test scores&lt;/p&gt;&lt;p&gt;Improveme...",
-      "link": "https://www.theguardian.com/environment/2026/sep/18/improved-air-quality-pollution-mental-development-toddlers-new-york-study",
-      "pubDate": "Fri, 18 Sep 2026 05:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a6487417696b239eeacbaf910be9b90879310979/583_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe19a4db3f041e24d44b17f7150b304e"
     },
     {
       "title": "MPs urge ministers to break off Thames Water talks with US hedge funds",
