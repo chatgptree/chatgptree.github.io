@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-20T12:12:42.754Z",
+  "lastUpdated": "2026-09-20T16:44:50.982Z",
   "articles": [
+    {
+      "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
+      "description": "&lt;p&gt;People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistence&lt;/p&...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
+      "pubDate": "Sun, 20 Sep 2026 14:00:17 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/17bcb82ac8452599951cef98f1343ee5763f7c44/49_0_725_580/master/725.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb9fc4457ba896542755a46d184e1fb7"
+    },
+    {
+      "title": "Former EPA officials: Trump is letting data centers make people sick",
+      "description": "“Families shouldn’t have to pay for the AI boom with their health.” ...",
+      "link": "https://grist.org/health/former-epa-officials-trump-is-letting-data-centers-make-people-sick/",
+      "pubDate": "Sun, 20 Sep 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/carbon-emissions.jpg"
+    },
     {
       "title": "US environment agency let Bayer pick regulations for destructive weedkiller, documents show",
       "description": "&lt;p&gt;Environmental Protection Agency asked firm to choose rules it wanted for dicamba, then put the choices in a proposed federal rule&lt;/p&gt;&l...",
@@ -160,24 +178,6 @@
       "link": "https://insideclimatenews.org/news/19092026/what-happens-when-earth-passes-1-5-degrees-of-warming/",
       "pubDate": "Sat, 19 Sep 2026 08:51:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Endangered Salmon May Soon Swim Freely up a Maine River. But as the Climate Changes, a Comeback Isn’t Guaranteed.",
-      "description": "On a recent canoe trip to the remote upper reaches of the Narraguagus River, Ellie Mason saw prime Atlantic salmon habitat everywhere. Though small, t...",
-      "link": "https://insideclimatenews.org/news/19092026/maine-dam-removal-helps-endangered-salmon/",
-      "pubDate": "Sat, 19 Sep 2026 08:50:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hummingbird hawk moths and ivy bees: The insects thriving as temperatures rise",
-      "description": "Hummingbird hawk moths - often mistaken for small birds - are being spotted in the West Midlands....",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez0lpnn3go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 06:27:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
