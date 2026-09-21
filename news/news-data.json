@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-21T19:15:42.058Z",
+  "lastUpdated": "2026-09-21T23:10:11.812Z",
   "articles": [
+    {
+      "title": "Federal Judge Rules Against Trump Administration Over Canceled Clean Energy Grants",
+      "description": "A federal judge has declared that the Trump administration unlawfully terminated $7 billion in grant funding for clean energy programs in disadvantage...",
+      "link": "https://insideclimatenews.org/news/21092026/judge-rules-solar-for-all-grant-termination-unlawful/",
+      "pubDate": "Mon, 21 Sep 2026 22:48:07 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In New York, Life-sized American Bison Puppets Inspire Hope for Restoration Efforts",
+      "description": "Standing on Manhattan’s High Line, Jason Baldes watched pedestrians, cyclists, cars and trucks braid their way through New York City. The executive di...",
+      "link": "https://insideclimatenews.org/news/21092026/new-york-bison-puppet-march/",
+      "pubDate": "Mon, 21 Sep 2026 22:30:33 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "World leaders address climate crisis before UN meet amid record-breaking El-Niño",
+      "description": "&lt;p&gt;Prime ministers of Australia and Iceland discuss effects on their countries even as some shy away in face of war and inflation&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino",
+      "pubDate": "Mon, 21 Sep 2026 21:26:55 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/12d3b8a696e125da3fbcda3ef54642d86479a3ea/506_0_2932_2345/master/2932.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=31fc6143bb9d1d306dabb51bd2a68c5f"
+    },
+    {
+      "title": "California braces for record El Niño storms as governor declares emergency",
+      "description": "&lt;p&gt;Super El-Niño has already broken temperature records and is predicted to bring an extremely wet winter to the state&lt;/p&gt;&lt;ul&gt;&lt;li...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/21/california-el-nino-storm-state-of-emergency",
+      "pubDate": "Mon, 21 Sep 2026 19:31:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e53403d05a1a9b4685483eecc2ed1d1d7dcea669/623_0_6173_4936/master/6173.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d319d8e73f4fe5017e5c13ad683212d1"
+    },
     {
       "title": "Datacentres in Victoria to be banned in residential areas",
       "description": "&lt;p&gt;New rules also include a ban near schools and childcare centres and require them to source their own renewable energy&lt;/p&gt;&lt;ul&gt;&lt;...",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
-    },
-    {
-      "title": "Has the farm bill hit a dead end?",
-      "description": "What was once a bipartisan slam dunk has now become a hyper-politicized game of chicken, with hunger, nutrition, and conservation programs on the line...",
-      "link": "https://grist.org/food-and-agriculture/has-the-farm-bill-hit-a-dead-end/",
-      "pubDate": "Mon, 21 Sep 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/spotted-owl.jpg"
-    },
-    {
-      "title": "Which emergency foods should you stock up on?",
-      "description": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption....",
-      "link": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 05:22:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
-      "description": "&lt;p&gt;People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistence&lt;/p&...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
-      "pubDate": "Sun, 20 Sep 2026 14:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/17bcb82ac8452599951cef98f1343ee5763f7c44/49_0_725_580/master/725.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb9fc4457ba896542755a46d184e1fb7"
-    },
-    {
-      "title": "Former EPA officials: Trump is letting data centers make people sick",
-      "description": "“Families shouldn’t have to pay for the AI boom with their health.” ...",
-      "link": "https://grist.org/health/former-epa-officials-trump-is-letting-data-centers-make-people-sick/",
-      "pubDate": "Sun, 20 Sep 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/carbon-emissions.jpg"
     }
   ]
 }
