@@ -1,14 +1,122 @@
 {
-  "lastUpdated": "2026-09-22T04:37:33.323Z",
+  "lastUpdated": "2026-09-22T09:49:28.973Z",
   "articles": [
     {
-      "title": "Intergenerational report underplays effect of climate crisis on Australia’s future, experts say",
-      "description": "&lt;p&gt;One academic says prediction for 2066 ‘is negligent in ignoring the economic damage’ on the horizon &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&l...",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/22/intergenerational-report-underplays-effect-climate-crisis-on-australia-future-2066",
-      "pubDate": "Tue, 22 Sep 2026 04:00:57 GMT",
+      "title": "Spain battles climate change on several fronts",
+      "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy....",
+      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Spain battles climate change on several fronts",
+      "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy....",
+      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?",
+      "description": "Almost nobody wants a data center for a neighbor. Residents fear noise and air pollution, excessive energy and water use and the loss of open land. In...",
+      "link": "https://insideclimatenews.org/news/22092026/building-data-centers-on-pennsylvania-abandoned-mines/",
+      "pubDate": "Tue, 22 Sep 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A clean energy source is buried under the desert, but it takes water to use it",
+      "description": "Geothermal companies face tough tradeoffs over water as they aim to power the data center buildout in Western states....",
+      "link": "https://grist.org/energy/geothermal-clean-energy-source-water-use/",
+      "pubDate": "Tue, 22 Sep 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/Rio-Grande-dry.jpg"
+    },
+    {
+      "title": "Trump wants to open nearly all national forest trails to dirt bikes and ATVs",
+      "description": "The Forest Service is proposing to allow motorized vehicles on all trails, two-tracks, and roads unless it explicitly designates otherwise....",
+      "link": "https://grist.org/regulation/trump-wants-to-open-nearly-all-national-forest-trails-to-dirt-bikes-and-atvs/",
+      "pubDate": "Tue, 22 Sep 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/bob-marshall-wilderness.jpg"
+    },
+    {
+      "title": "Meet Barbie Pig: new documentary reveals the wonders of life on the Pacific seabed",
+      "description": "&lt;p&gt;A magical new film captures the secret life of the deep sea in a stretch of the ocean at risk from industrial mining&lt;/p&gt;&lt;p&gt;A magi...",
+      "link": "https://www.theguardian.com/environment/2026/sep/22/meet-barbie-pig-new-documentary-reveals-the-wonders-of-life-on-the-pacific-seabed",
+      "pubDate": "Tue, 22 Sep 2026 07:00:37 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/a68abb764595f75dbcc713b577c9ce6a655bcf8c/0_0_3790_3032/master/3790.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab075c99b437fce8232d0c1840b7141d"
+      "image": "https://i.guim.co.uk/img/media/c35bbfe906813f58ab90b88f805c34cac2707fa2/0_150_2000_1600/master/2000.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e9e5ea295004e0872d8d7b80f442a50"
+    },
+    {
+      "title": "‘Negligent’ to talk about long term risks to Australia without examining cost of climate crisis, experts say",
+      "description": "&lt;p&gt;One academic says federal government’s intergenerational report, a snapshot of life in 2066, ignores the economic damage on the horizon&lt;/p...",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/22/intergenerational-report-underplays-effect-climate-crisis-on-australia-future-2066",
+      "pubDate": "Tue, 22 Sep 2026 06:32:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4e03d2aa4420b37c18d04a94bad41ab3b1cc15e3/169_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b289aaf70527a588840c941236bbf79"
+    },
+    {
+      "title": "Divers spend six hours clearing river of waste",
+      "description": "Divers from the Northampton Scuba School team up with other local organisations for a clean-up....",
+      "link": "https://www.bbc.co.uk/news/articles/ckj06p16q2eyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 05:37:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Carnivorous bat discovered in the NT’s Victoria River District",
+      "description": "Ghost Bat photographed on Pungalina Wildlife Sanctuary in 2009. © Wayne Lawler-Australian Wildlife Conservancy Conservationists have confirmed the pre...",
+      "link": "https://econews.com.au/carnivorous-bat-discovered-in-the-nts-victoria-river-district/",
+      "pubDate": "Tue, 22 Sep 2026 05:02:18 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
+    },
+    {
+      "title": "Centenarian sea cucumbers at risk of over-fishing",
+      "description": "Black teatfish sea cucumber. CREDIT Iris Lai Australian Institute of Marine Science Key facts: A genetic study has revealed that black teatfish sea cu...",
+      "link": "https://econews.com.au/centenarian-sea-cucumbers-at-risk-of-over-fishing/",
+      "pubDate": "Tue, 22 Sep 2026 05:02:17 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Energy shock deepens as central banks tighten on rising inflationary risks",
+      "description": "Rystad Energy US retail diesel has reached $6.50 per gallon, the highest level this year. Saudi Aramco has warned European refiners not to expect crud...",
+      "link": "https://econews.com.au/energy-shock-deepens-as-central-banks-tighten-on-rising-inflationary-risks/",
+      "pubDate": "Tue, 22 Sep 2026 05:02:16 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Rystad-Energy-logo.png"
+    },
+    {
+      "title": "Renewables Gain Ground, but Must Accelerate Towards the 2030 Goal",
+      "description": "Despite a record growth in 2025, the world must build more renewable power capacity in 2026-2030 than in all previous years combined, official trackin...",
+      "link": "https://econews.com.au/renewables-gain-ground-but-must-accelerate-towards-the-2030-goal/",
+      "pubDate": "Tue, 22 Sep 2026 05:02:16 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/09/unnamed-2.png"
+    },
+    {
+      "title": "Inside Scotland's wildcat HQ - 'It's like Big Brother for cats'",
+      "description": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms....",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyzkyr0r8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 05:00:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "Solar and wind generation meet record 80% of power demand on Australia’s national grid",
@@ -72,114 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/705c57ca1e03dbc7922840dd954386b5679daafb/861_0_6250_5000/master/6250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22ceb294fd467d950092dbfdd79bf0ff"
-    },
-    {
-      "title": "Breached Earth Boundaries Raise Risk of ‘Irreversible Change’",
-      "description": "Scientists have developed an overwhelming array of methods to measure how burning fossil fuels, clearcutting forests and polluting oceans are harming ...",
-      "link": "https://insideclimatenews.org/news/21092026/climate-extremes-show-breached-earth-boundaries/",
-      "pubDate": "Mon, 21 Sep 2026 18:37:01 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How Trump’s repeal of the greenhouse gas rule could double new emissions from Georgia",
-      "description": "The state’s largest utility was already expanding power plants to serve data centers....",
-      "link": "https://grist.org/energy/trump-repeal-greenhouse-gas-rule-could-double-new-emissions-georgia/",
-      "pubDate": "Mon, 21 Sep 2026 16:41:18 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/Zeldin-EPA-power-plant.jpg"
-    },
-    {
-      "title": "Key ally urges Trump to back US farmers amid anger over rising prices",
-      "description": "&lt;p&gt;Iowa senator Chuck Grassley calls for embargo on diesel exports as tariffs and Iran war drive up costs for sector&lt;/p&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/21/trump-farmers-chuck-grassley",
-      "pubDate": "Mon, 21 Sep 2026 16:18:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cee85a03afc9e28c875fba64351b7ba02e5d5b7a/0_0_3797_3037/master/3797.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=71028f97bd75651dfa91d79108cbbfbd"
-    },
-    {
-      "title": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
-      "description": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan.\n\n...",
-      "link": "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 14:05:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Planetary boundaries’ necessary for flourishing of life have been massively breached, scientists warn",
-      "description": "&lt;p&gt;New report shows key indicators of Earth’s health are ‘outside the safe operating space’ as climate disaster looms&lt;/p&gt;&lt;p&gt;The plan...",
-      "link": "https://www.theguardian.com/environment/2026/sep/21/planetary-boundaries-breached-scientists-warn-climate-crisis",
-      "pubDate": "Mon, 21 Sep 2026 14:00:33 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/994406d78130adfd3f6fc3d90601f912474310dc/942_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36dd792b32bb417b759f4f0521c284e9"
-    },
-    {
-      "title": "Millions of dollars in funding but still no plan: can Quebec save its caribou from extinction?",
-      "description": "&lt;p&gt;The Canadian government has committed C$25m to try to rescue the caribou in the province – but there is no agreement on how best to save the ...",
-      "link": "https://www.theguardian.com/environment/2026/sep/21/millions-of-dollars-in-funding-but-still-no-plan-can-quebec-save-its-caribou-from-extinction",
-      "pubDate": "Mon, 21 Sep 2026 11:00:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5bd39019be15a669127e87de4cc74fa2737aad28/520_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bae69314d96a1537a8866fcbc59eddef"
-    },
-    {
-      "title": "How Florida Ties Localities’ Hands on Everything from Environmental Regulation to Worker Protections",
-      "description": "Florida’s coastal residents know to brace for storm surge, but during 2024’s Hurricane Milton, it was inland communities that suffered some of the gre...",
-      "link": "https://insideclimatenews.org/news/21092026/how-florida-ties-localities-hands-on-everything-from-environmental-regulation-to-worker-protections/",
-      "pubDate": "Mon, 21 Sep 2026 10:51:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "It’s raining plastic dust – from Melbourne to the Arctic Circle",
-      "description": "Microplastics are falling from the sky around the world, according to a new global study that has detected small plastic particles raining down at 12 ...",
-      "link": "https://econews.com.au/its-raining-plastic-dust-from-melbourne-to-the-arctic-circle/",
-      "pubDate": "Mon, 21 Sep 2026 08:01:49 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "One of Perth’s best walking trails reopens for six weeks only this Spring",
-      "description": "Hiker enjoys the view at Paruna Wildlife Sanctuary. © Aleesha Turner-Australian Wildlife Conservancy Locals and visitors are being urged to get in qui...",
-      "link": "https://econews.com.au/one-of-perths-best-walking-trails-reopens-for-six-weeks-only-this-spring/",
-      "pubDate": "Mon, 21 Sep 2026 08:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/AWC-logo.png"
-    },
-    {
-      "title": "New livestream brings remote Australian arid zone waterhole to the world",
-      "description": "The livestream allows viewers to glimpse the incredible wildlife at a pool on the Watarrka escarpment. Picture: Watarrka Waterhole Wildlife Youtube Ch...",
-      "link": "https://econews.com.au/new-livestream-brings-remote-australian-arid-zone-waterhole-to-the-world/",
-      "pubDate": "Mon, 21 Sep 2026 08:01:48 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/CDU-logo.png"
-    },
-    {
-      "title": "Artist appointed for landmark Alice Anderson sculpture",
-      "description": "Six people pose beside a sign promoting the Alice Anderson Memorial Project in Kew. To the left of the sign are artist Lis Johnson, Mayor of Boroondar...",
-      "link": "https://econews.com.au/artist-appointed-for-landmark-alice-anderson-sculpture/",
-      "pubDate": "Mon, 21 Sep 2026 08:01:47 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/09/2026-09-009-Alice-Anderson-Statue-Artist-Annoucement-1-1024x683.jpg"
-    },
-    {
-      "title": "Sun set to shine on Living Smart Festival",
-      "description": "Beau Miles will share his adventure and conservation experiences Sunny weather, a new ‘Wild Ideas’ stage and headline talks from Beau Miles and Lisa B...",
-      "link": "https://econews.com.au/sun-set-to-shine-on-living-smart-festival/",
-      "pubDate": "Mon, 21 Sep 2026 08:01:46 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
     }
   ]
 }
