@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-09-23T11:21:55.489Z",
+  "lastUpdated": "2026-09-23T16:43:51.460Z",
   "articles": [
+    {
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president....",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 16:42:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "When and how to see the Harvest Moon in 2026",
+      "description": "September's full Moon will rise across on Saturday 26 September. The best viewing conditions currently look to be across southern and eastern parts of...",
+      "link": "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 16:36:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Millions of lettuces ruined by UK aphid outbreak",
+      "description": "Growers are facing losses of £10m, as 30 million heads of lettuce will be rendered unusable....",
+      "link": "https://www.bbc.co.uk/news/articles/ckd79wlg2wl8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 16:08:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Germany commits for first time to phasing out fossil fuels by 2045",
+      "description": "&lt;p&gt;Campaigners say plan marks a ‘notable shift’ away from oil and gas as previously pledges were only for carbon neutrality&lt;/p&gt;&lt;p&gt;Eu...",
+      "link": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
+      "pubDate": "Wed, 23 Sep 2026 16:00:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4345347cd8016ab5c2a71654f25f83677c10727e/882_4_3206_2567/master/3206.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ef895820f2b53860941ed9e5ab2898d"
+    },
+    {
+      "title": "Asphalt Company Alleges Operative Who Posed as a Project Opponent Committed Fraud",
+      "description": "Maymead, a company that plans to build a controversial asphalt plant south of Winston-Salem, North Carolina, is suing a consulting firm and one of its...",
+      "link": "https://insideclimatenews.org/news/23092026/asphalt-company-sues-consultant-opposing-proposed-plant/",
+      "pubDate": "Wed, 23 Sep 2026 15:44:15 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Bats originated in Europe, rewriting mammals’ family tree, study reveals",
+      "description": "&lt;p&gt;Biggest study of its kind provides insights into bats’ evolution – a potential gamechanger for research into treating viruses and cancer in h...",
+      "link": "https://www.theguardian.com/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
+      "pubDate": "Wed, 23 Sep 2026 15:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c23704295d502a23bb394ea59e4340c385393645/614_150_3418_2735/master/3418.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d6aa14c7a5ccadaf2bdd58a490bbef26"
+    },
+    {
+      "title": "Coogee ranks as Sydney’s worst ocean beach for faecal pollution – again",
+      "description": "&lt;p&gt;Seventy-nine per cent of all NSW swimming sites rated ‘good’ or ‘very good’, as state’s cleanest and most polluted beaches revealed &lt;/p&gt...",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/24/coogee-sydney-beaches-most-polluted-nsw-swimming-spots-2026",
+      "pubDate": "Wed, 23 Sep 2026 14:01:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1af16ff258e33caea65db65fd1958390c0560ed3/965_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98148fd52c609c447e718c62605507a4"
+    },
+    {
+      "title": "‘Watermelons’: Zack Polanski and the rise of the ‘green outside, red inside’ eco-populists",
+      "description": "&lt;p&gt;Author Russell Warfield argues the Green leader’s brand of politics is not new but has evolved in the party over time &lt;/p&gt;&lt;p&gt;Wate...",
+      "link": "https://www.theguardian.com/politics/2026/sep/23/green-party-book-zack-polanski-eco-populism",
+      "pubDate": "Wed, 23 Sep 2026 13:52:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3993b4e5fb2ecb3c55d0f324870997b2f014795f/1027_549_4314_3451/master/4314.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ce23b8259daf423cb8b28d2a9eb77ae"
+    },
+    {
+      "title": "As climate disasters multiply, Indigenous governance offers a way forward",
+      "description": "Indigenous communities are confronting mounting climate threats even as inadequate funding, scant legal recognition, and little support for self-gover...",
+      "link": "https://grist.org/global-indigenous-affairs-desk/as-climate-disasters-multiply-indigenous-governance-offers-a-way-forward/",
+      "pubDate": "Wed, 23 Sep 2026 13:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/Sami-reindeer-climate-Indigenous-peoples-UN-enhanced-participation.jpeg"
+    },
+    {
+      "title": "Chemicals Linked to Breast Cancer Are ‘Ubiquitous,’ Study Shows",
+      "description": "The more scientists look for chemicals that can increase breast cancer risk, the more they find. Hundreds of potential breast carcinogens lurk in cons...",
+      "link": "https://insideclimatenews.org/news/23092026/potential-breast-cancer-chemicals-taint-consumer-products/",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "At Climate Week, Elmo recalls a storm on Sesame Street: ‘Courage is when you still help others’",
       "description": "&lt;p&gt;New York event hears about the red Muppet’s fears during a recent storm as climate crisis increasingly affects children&lt;/p&gt;&lt;p&gt;A g...",
@@ -83,15 +173,6 @@
       "image": "https://grist.org/wp-content/uploads/2026/07/earth-oceans-heat.jpg"
     },
     {
-      "title": "Angus Taylor pledges to repeal swathe of climate policies, saying ‘Australia has done its bit’",
-      "description": "&lt;p&gt;Several measures were previously introduced or supported by Coalition, prompting claim Liberals and Nationals would ‘let climate change rip’&...",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/23/angus-taylor-pledges-to-repeal-swathe-of-climate-policies-saying-australia-has-done-its-bit",
-      "pubDate": "Wed, 23 Sep 2026 06:45:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fbcbdbbbd98821a10d9314890d3272ef1abb4563/588_0_5863_4693/master/5863.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02d20b7dc8eedce8e56acb2e55ee5b0e"
-    },
-    {
       "title": "What is an El Niño and how could it cause the hottest year on record? – video",
       "description": "&lt;p&gt;This year’s ‘super' El Niño currently heating up the planet has surpassed the highest temperature ever recorded&lt;em&gt; &lt;/em&gt;for the ...",
       "link": "https://www.theguardian.com/environment/video/2026/sep/23/what-is-an-el-nino-and-how-could-it-cause-the-hottest-year-on-record-video",
@@ -99,87 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b9843d8d71e619fae3cde08ca4306bb0f6def860/0_31_1080_864/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0114725805c0a1603230a3426ab35876"
-    },
-    {
-      "title": "Fears mount that next UN chief will downgrade climate action",
-      "description": "&lt;p&gt;Experts say some of António Guterres’s possible successors could be ‘disastrous’ for efforts to tackle crisis&lt;/p&gt;&lt;p&gt;Fears are mou...",
-      "link": "https://www.theguardian.com/world/2026/sep/23/fears-mount-that-next-un-chief-will-downgrade-climate-action",
-      "pubDate": "Wed, 23 Sep 2026 06:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/46211e30de621282e7ddd724e23a040991f0c4d0/585_0_5864_4692/master/5864.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=876f28186173779419a2a7a2df49f152"
-    },
-    {
-      "title": "Rare snails lay eggs during car journey to zoo",
-      "description": "The zoo near Canterbury says glutinous snails started laying eggs on their way to Kent....",
-      "link": "https://www.bbc.co.uk/news/articles/ckjw58n5dnepo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 05:11:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers....",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 04:20:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers....",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 04:20:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Huge El Niño projected to cause 450,000 deaths in next six months",
-      "description": "&lt;p&gt;New report predicts a heavy toll from Nigeria to the US – and comes on top of existing impacts of the climate crisis&lt;/p&gt;&lt;p&gt;More t...",
-      "link": "https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months",
-      "pubDate": "Wed, 23 Sep 2026 04:00:15 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a54d9bba2d4994e40e8713ac9be6076cb94a4d44/122_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d11c95eac649d3f43dce7af55b4295f"
-    },
-    {
-      "title": "Competing Climate Visions Clash at UN General Assembly",
-      "description": "Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly’s 81st session in New...",
-      "link": "https://insideclimatenews.org/news/22092026/un-general-assembly-opens-with-clashing-climate-views/",
-      "pubDate": "Tue, 22 Sep 2026 23:41:30 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "India is producing more green energy - but wasting a lot of it",
-      "description": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.\n...",
-      "link": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 23:02:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "India is producing more green energy - but wasting a lot of it",
-      "description": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.\n...",
-      "link": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 23:02:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Outgoing UN chief says polluters have treated atmosphere like an ‘open sewer’",
-      "description": "&lt;p&gt;António Guterres laments world leaders’ inaction and says oil and gas firms ‘must pay’ for climate devastation&lt;/p&gt;&lt;p&gt;For one last...",
-      "link": "https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-polluters",
-      "pubDate": "Tue, 22 Sep 2026 21:19:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f4abecc3c0135207007db8d5690f8010e8318e16/267_158_1466_1173/master/1466.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dce870365c3ec8a655ab13815c1b1105"
     }
   ]
 }
