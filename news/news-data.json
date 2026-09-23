@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-23T00:20:07.716Z",
+  "lastUpdated": "2026-09-23T05:48:03.848Z",
   "articles": [
+    {
+      "title": "Rare snails lay eggs during car journey to zoo",
+      "description": "The zoo near Canterbury says glutinous snails started laying eggs on their way to Kent....",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw58n5dnepo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 05:11:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers....",
+      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 04:20:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers....",
+      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 04:20:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Huge El Niño projected to cause 450,000 deaths in next six months",
+      "description": "&lt;p&gt;New report predicts a heavy toll from Nigeria to the US – and comes on top of existing impacts of the climate crisis&lt;/p&gt;&lt;p&gt;More t...",
+      "link": "https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months",
+      "pubDate": "Wed, 23 Sep 2026 04:00:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ccaaa3b24c91301335c77fc60ee08e9b5bd6b7c6/0_0_2195_1757/master/2195.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ccf8bf47fd93053cebe393a66d12bbf"
+    },
     {
       "title": "Competing Climate Visions Clash at UN General Assembly",
       "description": "Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly’s 81st session in New...",
@@ -110,15 +146,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Could you be an ‘autumn spotter’? Public asked to track changing colours of trees in England",
-      "description": "&lt;p&gt;Forestry England invites people to help it create a record of when and how the season arrives across the country&lt;/p&gt;&lt;p&gt;The reds a...",
-      "link": "https://www.theguardian.com/environment/2026/sep/22/autumn-spotter-track-changing-colours-trees-england",
-      "pubDate": "Tue, 22 Sep 2026 14:16:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fa3c3320165f12b08487610076fc50a4dfbe9ae1/592_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6571f882cacf634d12309724a290439e"
-    },
-    {
       "title": "Developing El Niño becomes strongest on record weeks before expected peak",
       "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world....",
       "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&amp;at_campaign=rss",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.co.uk/news/videos/ckq6312dq0qjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 22 Sep 2026 10:54:53 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Spain battles climate change on several fronts",
-      "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy....",
-      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Spain battles climate change on several fronts",
-      "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy....",
-      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 09:11:48 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?",
-      "description": "Almost nobody wants a data center for a neighbor. Residents fear noise and air pollution, excessive energy and water use and the loss of open land. In...",
-      "link": "https://insideclimatenews.org/news/22092026/building-data-centers-on-pennsylvania-abandoned-mines/",
-      "pubDate": "Tue, 22 Sep 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
