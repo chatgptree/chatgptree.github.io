@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-09-24T04:30:59.022Z",
+  "lastUpdated": "2026-09-24T09:52:05.470Z",
   "articles": [
+    {
+      "title": "Corpus Christi Could Owe Texas $235M for Failed Desalination Plant",
+      "description": "Heading into election season, leaders in Corpus Christi face a puzzling question: what to do with $235 million from the state of Texas for a seawater ...",
+      "link": "https://insideclimatenews.org/news/24092026/corpus-christi-desalination-plant-loan-defeasement/",
+      "pubDate": "Thu, 24 Sep 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Foreign Fishing Fleets Are Robbing West African Countries of Key Nutrients",
+      "description": "Seafood isn’t just a key source of protein and calories; it’s also where millions around the world get essential vitamins and minerals needed to build...",
+      "link": "https://insideclimatenews.org/news/24092026/foreign-fishing-fleets-plundering-west-african-waters/",
+      "pubDate": "Thu, 24 Sep 2026 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As the Pentagon expands across the Pacific, Guam offers a warning",
+      "description": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific ...",
+      "link": "https://grist.org/health/as-the-pentagon-expands-across-the-pacific-guam-offers-a-warning/",
+      "pubDate": "Thu, 24 Sep 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/Guam-militarization-4.jpg"
+    },
+    {
+      "title": "Trump cut their climate jobs. This secretive network found them new ones.",
+      "description": "Climate Reserve is quietly building a lifeline for America's lost climate workforce, one job at a time....",
+      "link": "https://grist.org/labor/trump-science-funding-network-climate-reserve/",
+      "pubDate": "Thu, 24 Sep 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/07/ib8ER.jpeg"
+    },
+    {
+      "title": "Mass sardine die-off pits survival of South Africa’s penguins against fishers’ livelihoods",
+      "description": "&lt;p&gt;Known as the ‘energy bars of the sea’ the fish are a key food source for many species, but closing fisheries to allow numbers to recover woul...",
+      "link": "https://www.theguardian.com/environment/2026/sep/24/mass-sardine-die-off-pits-survival-of-south-africas-penguins-against-fishers-livelihoods",
+      "pubDate": "Thu, 24 Sep 2026 08:00:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b0442cb7456e30fa09806e40a26e1b95f4ea8450/311_0_3849_3079/master/3849.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75cc3e26b03bf349d7b51dd83a01cece"
+    },
+    {
+      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+      "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions....",
+      "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 07:10:19 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Cash to trash’ levy on house developers too low to offset damage to Norfolk Broads, say critics",
+      "description": "&lt;p&gt;Exclusive: Levy that allows almost 16,000 houses to be built on Norfolk Broads will not cover cost of mitigating environmental damage, critic...",
+      "link": "https://www.theguardian.com/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage",
+      "pubDate": "Thu, 24 Sep 2026 06:00:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4a6626810103c1e9e1f4510cfe996cfe77e6191f/448_0_4483_3587/master/4483.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dac054cff26ec2345c225f17b9489cdb"
+    },
+    {
+      "title": "Waste sector crisis could see rubbish piling up on streets, experts warn",
+      "description": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator....",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 05:13:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Epson drives sustainable innovation within the education sector through business inkjet printing and laser projection technology",
       "description": "Sustainability in education is no longer confined to curriculum, buildings or recycling programs. It increasingly extends to the everyday technology i...",
@@ -27,15 +99,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/f4e7091e3bbe6c4a95539aa4c162984be141abbc/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe09b4de307013bdb646f2240148b22f"
-    },
-    {
-      "title": "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
-      "description": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator....",
-      "link": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 21:53:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Court Nixes Michigan’s Novel Antitrust Case Targeting Big Oil",
@@ -70,15 +133,6 @@
       "link": "https://insideclimatenews.org/news/23092026/super-el-nino-heat-deaths/",
       "pubDate": "Wed, 23 Sep 2026 21:04:19 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-      "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions....",
-      "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 21:01:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -126,60 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Asphalt Company Alleges Operative Who Posed as a Project Opponent Committed Fraud",
-      "description": "Maymead, a company that plans to build a controversial asphalt plant south of Winston-Salem, North Carolina, is suing a consulting firm and one of its...",
-      "link": "https://insideclimatenews.org/news/23092026/asphalt-company-sues-consultant-opposing-proposed-plant/",
-      "pubDate": "Wed, 23 Sep 2026 15:44:15 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bats originated in Europe, rewriting mammals’ family tree, study reveals",
-      "description": "&lt;p&gt;Biggest study of its kind provides insights into bats’ evolution – a potential gamechanger for research into treating viruses and cancer in h...",
-      "link": "https://www.theguardian.com/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
-      "pubDate": "Wed, 23 Sep 2026 15:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c23704295d502a23bb394ea59e4340c385393645/614_150_3418_2735/master/3418.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d6aa14c7a5ccadaf2bdd58a490bbef26"
-    },
-    {
-      "title": "As climate disasters multiply, Indigenous governance offers a way forward",
-      "description": "Indigenous communities are confronting mounting climate threats even as inadequate funding, scant legal recognition, and little support for self-gover...",
-      "link": "https://grist.org/global-indigenous-affairs-desk/as-climate-disasters-multiply-indigenous-governance-offers-a-way-forward/",
-      "pubDate": "Wed, 23 Sep 2026 13:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/Sami-reindeer-climate-Indigenous-peoples-UN-enhanced-participation.jpeg"
-    },
-    {
-      "title": "Chemicals Linked to Breast Cancer Are ‘Ubiquitous,’ Study Shows",
-      "description": "The more scientists look for chemicals that can increase breast cancer risk, the more they find. Hundreds of potential breast carcinogens lurk in cons...",
-      "link": "https://insideclimatenews.org/news/23092026/potential-breast-cancer-chemicals-taint-consumer-products/",
-      "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "At Climate Week, Elmo recalls a storm on Sesame Street: ‘Courage is when you still help others’",
-      "description": "&lt;p&gt;New York event hears about the red Muppet’s fears during a recent storm as climate crisis increasingly affects children&lt;/p&gt;&lt;p&gt;A g...",
-      "link": "https://www.theguardian.com/environment/2026/sep/23/elmo-new-york-climate-week-sesame-street-storm",
-      "pubDate": "Wed, 23 Sep 2026 10:00:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2d872afa6cdbe1287ef0231635313041b2de9573/17_0_525_420/master/525.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26bedafe39ec9fdc37c217a580c2a0c4"
-    },
-    {
-      "title": "The climate fight has one great ally. You just can’t look at it directly | Bill McKibben",
-      "description": "&lt;p&gt;There is hope in solar power. As the UN meets, we are urging leaders to pursue a clear goal: clean energy for all by 2030&lt;/p&gt;&lt;ul&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/23/climate-un-clean-energy-2030",
-      "pubDate": "Wed, 23 Sep 2026 10:00:46 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7e62f62f49f38e939fdd2dd329b35e63f77b5a43/542_0_5417_4333/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce22e12fe5c432baaa6ef21e9744bbc5"
     }
   ]
 }
