@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-25T18:27:43.031Z",
+  "lastUpdated": "2026-09-25T22:11:32.545Z",
   "articles": [
+    {
+      "title": "Climate Crisis Is No Longer a ‘Distant Warning,’ UN Leader Says",
+      "description": "This week’s United Nations General Assembly in New York featured pleas for urgent action on climate change, with heads of state and Secretary-General ...",
+      "link": "https://insideclimatenews.org/news/25092026/climate-crisis-top-concern-at-un-general-assembly/",
+      "pubDate": "Fri, 25 Sep 2026 20:05:24 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Space museum launched by Britain's first astronaut",
       "description": "Helen Sharman officially opened the John Dulcamara Space Flight Museum at Grizedale Observatory....",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/09/GettyImages-2284641859s.jpeg"
-    },
-    {
-      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-      "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere....",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 23:45:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
