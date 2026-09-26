@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-09-26T07:28:52.540Z",
+  "lastUpdated": "2026-09-26T12:58:07.087Z",
   "articles": [
+    {
+      "title": "Hundreds of wildflowers to be planted at meadow",
+      "description": "Friends of the Lake District wants to reintroduce species lost to some farming practices....",
+      "link": "https://www.bbc.co.uk/news/articles/ckq631d25dvlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 11:22:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Butterfly populations 'could crash' due to weather",
+      "description": "More than 77,000 butterflies were recorded in Devon while 47,000 were spotted in Cornwall this July....",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d322y7y15o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 11:05:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Colorado Neighborhood Could Offer Glimpse into the Future of Home Energy Use",
+      "description": "KEN CARYL, Colo.—A new residential development south of Denver is the testing ground for an unusual partnership that could transform home heating and ...",
+      "link": "https://insideclimatenews.org/news/26092026/colorado-neighborhood-shows-geothermal-potential-future/",
+      "pubDate": "Sat, 26 Sep 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘Crown Jewel’ of Everglades Restoration Is Too Small, Report Says",
+      "description": "A sprawling reservoir under construction south of Lake Okeechobee that Gov. Ron DeSantis has characterized as the “crown jewel” of Everglades restorat...",
+      "link": "https://insideclimatenews.org/news/26092026/everglades-restoration-reservoir-too-small/",
+      "pubDate": "Sat, 26 Sep 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Specter of ‘Forever Chemicals’ Looms Over Pennsylvania’s Rural Communities",
+      "description": "When Nicole Williams moved into her house in Pennsylvania’s North Centre Township in 2011, it was a homecoming. She’d spent the first few years of her...",
+      "link": "https://insideclimatenews.org/news/26092026/pfas-contaminated-drinking-water-in-pennsylvania-rural-communities/",
+      "pubDate": "Sat, 26 Sep 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "After a Deadly Flood, What Does Climate Justice for Nepal Look Like?",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tanuja Pandey, a clima...",
+      "link": "https://insideclimatenews.org/news/26092026/nepal-flood-climate-justice/",
+      "pubDate": "Sat, 26 Sep 2026 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Bangkok roads submerged as flood disaster declared",
       "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated....",
@@ -126,60 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8babc0a76f1cfedb00b7cb532a2e210a6f2586e9/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57b225cb6e054ac7fa4a6f36e222e53f"
-    },
-    {
-      "title": "Trump’s executive order on recreational fishing is a ‘giveaway of fish and ocean ecosystem’, advocates warn",
-      "description": "&lt;p&gt;Federal agencies told to prioritize recreational fishing and to reconsider scientific standards as well as regulations&lt;/p&gt;&lt;p&gt;Dona...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/25/recreational-fishing-trump-executive-order",
-      "pubDate": "Fri, 25 Sep 2026 12:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f8af944ce62f7aa2ef395db74a4348765e6746fb/330_0_3340_2672/master/3340.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a2c9f94b1c2ae575cf57c36bdcbfbb9"
-    },
-    {
-      "title": "Strategy will safeguard nature for generations",
-      "description": "Local Nature Recovery Strategy is approved for one of England's \"most nature-depleted areas\"....",
-      "link": "https://www.bbc.co.uk/news/articles/c6d9452qx4x0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 11:07:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-      "description": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs....",
-      "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 11:06:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-      "description": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs....",
-      "link": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 11:06:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Your body fights to stay cool’: workers toil in record heat as federal rule frozen",
-      "description": "&lt;p&gt;Trump officials and Republicans are rolling back protections against heat-related illnesses and deaths&lt;/p&gt;&lt;p&gt;When it’s 90F on a h...",
-      "link": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
-      "pubDate": "Fri, 25 Sep 2026 11:00:49 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/94e274343aa47d996cbb62578f12bc844b612ff0/137_0_1291_1033/master/1291.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9c2b1b700a125fffd5bda12b90e05e7"
-    },
-    {
-      "title": "‘We don’t have time for more promises’: the Croatian town that took on an illegal waste dump",
-      "description": "&lt;p&gt;After years of illegal mass flytipping in Gospić, fed-up residents decided to take matters into their own hands&lt;/p&gt;&lt;p&gt;“Gospić is ...",
-      "link": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
-      "pubDate": "Fri, 25 Sep 2026 11:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/69fd6994d6128403c7859aa6210870de34cd485f/243_0_5063_4051/master/5063.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf0469e2f9e27148cd8e18f1c5ded2cd"
     }
   ]
 }
