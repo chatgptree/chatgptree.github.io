@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-09-26T20:59:33.488Z",
+  "lastUpdated": "2026-09-26T23:32:13.881Z",
   "articles": [
     {
-      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "title": "The young women guiding tourists through India's night sky",
+      "description": "Astronomy tourism is giving young women in Hanle income, confidence and a new role in their community....",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 23:02:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The young women guiding tourists through India's night sky",
+      "description": "Astronomy tourism is giving young women in Hanle income, confidence and a new role in their community....",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 23:02:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm....",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 26 Sep 2026 17:47:09 GMT",
+      "pubDate": "Sat, 26 Sep 2026 22:04:26 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Space museum launched by Britain's first astronaut",
-      "description": "Helen Sharman officially opened the John Dulcamara Space Flight Museum at Grizedale Observatory....",
-      "link": "https://www.bbc.co.uk/news/articles/crpd00leqy1go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 16:49:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New Jersey datacenter fined $1.1m after visual investigation showed dozens of unpermitted generators",
-      "description": "&lt;p&gt;State regulator’s record fine for DataOne facility in Vineland follows Floodlight investigation with the Guardian&lt;/p&gt;&lt;p&gt;&lt;a hre...",
-      "link": "https://www.theguardian.com/environment/2026/sep/25/new-jersey-fines-datacenter-unpermitted-generators",
-      "pubDate": "Fri, 25 Sep 2026 15:52:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c84a84bd0983235db4b9d486a56e007456c2ac48/128_0_3841_3072/master/3841.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=31dbfb3af100b5078ea3fe5677d15c24"
     }
   ]
 }
