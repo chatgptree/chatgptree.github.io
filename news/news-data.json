@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-26T12:58:07.087Z",
+  "lastUpdated": "2026-09-26T17:04:26.356Z",
   "articles": [
+    {
+      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm....",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 16:55:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
+      "description": "&lt;p&gt;Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide&lt;/p&gt;&lt;p&gt;New resea...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+      "pubDate": "Sat, 26 Sep 2026 13:00:36 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/32eccf934e9631dee75792a9a27d4aa1f759765d/0_828_2131_1705/master/2131.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7bfbf07af25093eedc0152f0b9f23b5"
+    },
+    {
+      "title": "A rural Idaho county banned renewables. It’s having second thoughts.",
+      "description": "Some residents oppose renewables. Others see property rights — and the chance to benefit from energy developments on their land — as fundamental. This...",
+      "link": "https://grist.org/energy/a-rural-idaho-county-banned-renewables-its-having-second-thoughts/",
+      "pubDate": "Sat, 26 Sep 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/260701r2-7846.jpg"
+    },
     {
       "title": "Hundreds of wildflowers to be planted at meadow",
       "description": "Friends of the Lake District wants to reintroduce species lost to some farming practices....",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/c84a84bd0983235db4b9d486a56e007456c2ac48/128_0_3841_3072/master/3841.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=31dbfb3af100b5078ea3fe5677d15c24"
-    },
-    {
-      "title": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
-      "description": "&lt;p&gt;Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissions&l...",
-      "link": "https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
-      "pubDate": "Fri, 25 Sep 2026 15:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/48058fa72e0165f663864dc596b32a55a904c0c3/455_1450_8422_6738/master/8422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=507ab39b4e48e21607f1c470e8032ac0"
-    },
-    {
-      "title": "Girl's out-of-this-world question for Tim Peake",
-      "description": "Marjorie, 6, had a BIG question for astronaut Tim Peake ahead of his visit to Lincoln...",
-      "link": "https://www.bbc.co.uk/news/videos/c6d79l7jenero?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 14:32:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
-      "description": "&lt;p&gt;Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bans&lt;/p&gt;&lt;p&gt;Sweden started ri...",
-      "link": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
-      "pubDate": "Fri, 25 Sep 2026 12:00:50 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8babc0a76f1cfedb00b7cb532a2e210a6f2586e9/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57b225cb6e054ac7fa4a6f36e222e53f"
     }
   ]
 }
