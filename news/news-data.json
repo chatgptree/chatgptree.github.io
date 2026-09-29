@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-09-28T20:29:48.481Z",
+  "lastUpdated": "2026-09-29T00:56:02.133Z",
   "articles": [
     {
-      "title": "New tool directly links carbon emissions to amount of environmental and economic damage caused",
-      "description": "&lt;p&gt;Carbon Impacts Tracer can be used to estimate climate impact from emissions across eight different factors, including lost food production&lt...",
-      "link": "https://www.theguardian.com/environment/2026/sep/29/new-tool-directly-links-carbon-emissions-to-amount-of-environmental-and-economic-damage-caused",
-      "pubDate": "Mon, 28 Sep 2026 20:00:43 GMT",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "description": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California ...",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 28 Sep 2026 23:43:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trump Slashes Fuel-Economy Standards in Blow to Climate, Health, EV Market",
+      "description": "The Trump administration Monday finalized the rollback of a major fuel economy standard for cars and trucks, a move critics say will cause more climat...",
+      "link": "https://insideclimatenews.org/news/28092026/trump-slashes-fuel-economy-standards/",
+      "pubDate": "Mon, 28 Sep 2026 23:21:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Samuel Alito steps aside in a major climate case amid scrutiny over oil stock holdings",
+      "description": "&lt;p&gt;Decision from conservative justice comes before court hears case on whether fossil-fuel firms deceived US public&lt;/p&gt;&lt;p&gt;Supreme co...",
+      "link": "https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case",
+      "pubDate": "Mon, 28 Sep 2026 21:47:41 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/182a9cf889d2ff7369d700096160087c147ace75/0_0_1218_974/master/1218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a3a45a76c1386ca1c7d883caaa8d186"
+      "image": "https://i.guim.co.uk/img/media/393aa1aec0328b16c161b03f8f7b247c8ea33f5e/653_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5c04fad9b43614c4b18206d8fd9f82e"
+    },
+    {
+      "title": "Can Labour bring down our energy bills? | Politics Weekly",
+      "description": "&lt;p&gt;Speaking to Pippa Crerar and Kiran Stacey at the Labour party conference in Liverpool, Miatta Fahnbulleh, the energy secretary, said a mark o...",
+      "link": "https://www.theguardian.com/politics/video/2026/sep/28/can-labour-bring-down-our-energy-bills-politics-weekly",
+      "pubDate": "Mon, 28 Sep 2026 21:02:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3073868d9a20248104f05892b4cd1e01eabd94b2/604_0_4550_3641/master/4550.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e349253c860ce602de3c401c6b211cc8"
     },
     {
       "title": "Watch: Starship splashdown ends in fireball",
@@ -101,15 +128,6 @@
       "image": "https://i.guim.co.uk/img/media/67e6675413ffb8851f3088e042a52c41abfcf575/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff7d22e8f12173e3ea8169ea1e1b10d8"
     },
     {
-      "title": "Mexico's Pacific coast braces for Hurricane Polo",
-      "description": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 28 Sep 2026 11:05:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Offshore wind plant to bring jobs boost to Montrose",
       "description": "The new facility will manufacture parts for offshore wind farms in Scottish waters and for overseas markets....",
       "link": "https://www.bbc.co.uk/news/articles/cq62jyk4ekp7o?at_medium=RSS&amp;at_campaign=rss",
@@ -162,24 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Illinois passed the nation’s first climate migration law. The effort has languished since.",
-      "description": "More than a year after the law was signed, the state has made little progress and appears poised to miss a December deadline for a required report....",
-      "link": "https://grist.org/migration/illinois-passed-the-nations-first-climate-migration-law-the-effort-has-languished-since/",
-      "pubDate": "Mon, 28 Sep 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/GettyImages-1345139225-1.jpg"
-    },
-    {
-      "title": "After Trump opened Bears Ears land to business, prospectors swooped in",
-      "description": "All the claims on the 1.2 million acres appear to have been filed by small-scale miners in Utah with an interest in uranium. ...",
-      "link": "https://grist.org/politics/trump-bears-ears-mining-claims-prospectors-utah/",
-      "pubDate": "Mon, 28 Sep 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/bob-marshall-wilderness.jpg"
     }
   ]
 }
