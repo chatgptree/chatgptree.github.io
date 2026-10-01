@@ -1,6 +1,123 @@
 {
-  "lastUpdated": "2026-10-01T01:58:52.193Z",
+  "lastUpdated": "2026-10-01T08:46:08.795Z",
   "articles": [
+    {
+      "title": "The surprising allies backing Boulder&#8217;s climate case before the Supreme Court",
+      "description": "Ranchers, conservative legal scholars, and former Republican EPA chiefs are siding against oil companies. Here's why....",
+      "link": "https://grist.org/accountability/boulder-supreme-court-climate-lawsuit-ranchers-exxon/",
+      "pubDate": "Thu, 01 Oct 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/ny-federal-courthouse.jpg"
+    },
+    {
+      "title": "In a warming Arctic, Inuit bear guards protect communities",
+      "description": "Traditional knowledge and specialized training are helping people adapt to a changing landscape as polar bears appear in new places and at different t...",
+      "link": "https://grist.org/indigenous/in-a-warming-arctic-inuit-bear-guards-protect-communities/",
+      "pubDate": "Thu, 01 Oct 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/09/Derrick-Pottle-BearSafe-polar-bear-guards-Inuit-Arctic.jpeg"
+    },
+    {
+      "title": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data centre deployments",
+      "description": "New coolant distribution unit, the WCDU, is designed for a wide-range of configurations and optimised to meet the need for high-capacity technical cor...",
+      "link": "https://econews.com.au/schneider-electric-launches-new-motivair-coolant-distribution-unit-integrating-liquid-and-air-cooling-for-more-flexible-data-centre-deployments/",
+      "pubDate": "Thu, 01 Oct 2026 07:01:53 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
+    },
+    {
+      "title": "Australia’s clean energy transition is creating a new waste challenge",
+      "description": "RMIT University Australia is accelerating its transition to a low-carbon future with electric vehicles (EVs), solar panels and other renewable energy ...",
+      "link": "https://econews.com.au/australias-clean-energy-transition-is-creating-a-new-waste-challenge/",
+      "pubDate": "Thu, 01 Oct 2026 07:01:52 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/10/RMIT-logo.png"
+    },
+    {
+      "title": "The rare Bog Grass Moth found in nature reserve for first time",
+      "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat....",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:03:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The rare Bog Grass Moth found in nature reserve for first time",
+      "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat....",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:03:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Think more rain means more river water? Not necessarily",
+      "description": "&lt;p&gt;Some rivers are receiving more rain than before but have lower water flow, according to a study&lt;/p&gt;&lt;p&gt;More rain and snow equals m...",
+      "link": "https://www.theguardian.com/news/2026/oct/01/rivers-water-rain-study",
+      "pubDate": "Thu, 01 Oct 2026 05:00:30 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/091c15849393dd856e188b3578f5418ea2afae5e/386_0_5253_4205/master/5253.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8203a5ce5f246bec44b200177ab92d2"
+    },
+    {
+      "title": "New pricing announced for ACT Container Deposit Scheme supplier contributions",
+      "description": "Exchange for Change Scheme coordinator Exchange for Change (EfC) today announced the new fixed price per material type for supplier contributions that...",
+      "link": "https://econews.com.au/new-pricing-announced-for-act-container-deposit-scheme-supplier-contributions/",
+      "pubDate": "Thu, 01 Oct 2026 04:01:43 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/unnamed-5.png"
+    },
+    {
+      "title": "Australian Wildlife Conservancy buys land in Tasmania to protect critically endangered species",
+      "description": "Coastal view of Boulder Wildlife Sanctuary. © Brad Leue Australian Wildlife Conservancy (AWC), a global leader in conservation, has purchased 200-hect...",
+      "link": "https://econews.com.au/australian-wildlife-conservancy-buys-land-in-tasmania-to-protect-critically-endangered-species/",
+      "pubDate": "Thu, 01 Oct 2026 04:01:43 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
+    },
+    {
+      "title": "ABB integrates AI-assisted diagnostics into Remote Condition Monitoring for emissions analyzers",
+      "description": "Latest Remote Condition Monitoring release integrates My Measurement Assistant+ and Genix Copilot AI to help CEMS operators identify and resolve analy...",
+      "link": "https://econews.com.au/abb-integrates-ai-assisted-diagnostics-into-remote-condition-monitoring-for-emissions-analyzers/",
+      "pubDate": "Thu, 01 Oct 2026 04:01:42 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
+      "description": "&lt;p&gt;Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollution&lt;/p&gt;&lt;p&gt;Switze...",
+      "link": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+      "pubDate": "Thu, 01 Oct 2026 04:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c07ca02e202cfca2417731c77a94543b8fcaa54d/833_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3200ae92edb5fc0cc8d9877be52b51e"
+    },
+    {
+      "title": "‘The toll is huge’: El Niño-driven wildfires overwhelm Indonesia’s orangutan population",
+      "description": "&lt;p&gt;The global climate phenomenon has triggered devastating infernos in the ape’s Indonesian heartlands, with long-term effects on the animals st...",
+      "link": "https://www.theguardian.com/environment/2026/oct/01/el-nino-orangutans-indonesia-wildlife-destruction-aoe",
+      "pubDate": "Thu, 01 Oct 2026 03:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/54ae85bfeb8258ea7a7d3d4dba9c5dad456e1605/186_0_1066_853/master/1066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b42d913b545cac9f09a1fb7e1f8ebd7c"
+    },
+    {
+      "title": "The green light for the largest coalmine in NSW history is shocking proof that our governance systems are betraying Australians | Georgina Woods",
+      "description": "&lt;p&gt;There is no greater treachery than this failure to face up to the climate crisis. How can we now fend off despair?&lt;/p&gt;&lt;p&gt;The Inde...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/nsw-coalmine-approval-hunter-valley-climate-crisis-lock-the-gate",
+      "pubDate": "Thu, 01 Oct 2026 03:00:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/783e3d1b3516a2761dccd50a88fa1eb56512e732/702_103_2707_2165/master/2707.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c482dde1e391892504ec32a062ef2b7"
+    },
     {
       "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
       "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change....",
@@ -63,123 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain....",
-      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 22:01:16 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Special surprise' as rare moth found in nature reserve for first time",
-      "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat....",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 21:58:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Special surprise' as rare moth found in nature reserve for first time",
-      "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat....",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 21:58:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on Lula v the Bolsonaros: the decision of Brazilian voters will affect us all | Editorial",
-      "description": "&lt;p&gt;Sunday’s general election is too close to call, with the incumbent president facing the son of the man who attempted a coup against him&lt;/p...",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/30/the-guardian-view-on-lula-v-the-bolsonaros-the-decision-of-brazilian-voters-will-affect-us-all",
-      "pubDate": "Wed, 30 Sep 2026 17:37:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e98e3b74339fe2327afb1569e3726a4cf699295d/702_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32c958011eac93afdc73664d6a99fd33"
-    },
-    {
-      "title": "New UK gas and oil projects are a ‘no-brainer’, says EDF boss",
-      "description": "&lt;p&gt;Developing North Sea fields does not contradict net zero goals, according to Simone Rossi&lt;/p&gt;&lt;p&gt;New oil and gas projects are a “n...",
-      "link": "https://www.theguardian.com/business/2026/sep/30/uk-gas-and-oil-climate-crisis-energy-edf-boss",
-      "pubDate": "Wed, 30 Sep 2026 16:24:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/aa991d49ea41331ceba62956ea656df1a64def21/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b395def1af66cfadb0ac7bae551f050"
-    },
-    {
-      "title": "Meta Announces Large Solar Purchase Agreement in Texas, But It’s Powering Some Data Centers With Gas",
-      "description": "Apex Clean Energy and Meta have entered into a power purchase agreement that allows the technology company to financially benefit from energy generate...",
-      "link": "https://insideclimatenews.org/news/30092026/meta-texas-solar-purchase-smaller-than-data-center-gas-plant/",
-      "pubDate": "Wed, 30 Sep 2026 16:10:31 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The 2026 BirdLife Australia photography awards – in pictures",
-      "description": "&lt;p&gt;Images of gliding king penguins, a sugar thief rosella and a bin brush turkey are among the winning and shortlisted photos in this year’s pri...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/oct/01/the-2026-birdlife-australia-photography-awards-in-pictures",
-      "pubDate": "Wed, 30 Sep 2026 15:00:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d43ca9ea58f5e10763bf9c5e1e828059202a2cfc/0_0_3161_2531/master/3161.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0f1be4f6a8effbdd96042f45fe23735"
-    },
-    {
-      "title": "Meet 'Backpack', the chunky bear who won Fat Bear Week",
-      "description": "The brown bear, described by one supporter as having both the \"chonk and the badonk\", will shortly enter hibernation, which can last up to six months....",
-      "link": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 13:51:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Two million people in England unaware their properties are at risk of flooding",
-      "description": "&lt;p&gt;Environment Agency warns residents of 6m at-risk properties to prepare for wet and windy three months ahead&lt;/p&gt;&lt;p&gt;More than two m...",
-      "link": "https://www.theguardian.com/environment/2026/sep/30/two-million-people-uk-unaware-flooding-risk",
-      "pubDate": "Wed, 30 Sep 2026 13:50:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f4f91a23ef2d61c39596e45caf7605883c332fcc/584_109_2409_1927/master/2409.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4460621b2be845941dca7bc6f5ab4bd5"
-    },
-    {
-      "title": "Only 28% of nurdles 'recovered', researchers say",
-      "description": "Scientists predict that nurdles will continue to wash up on North East beaches....",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzr4rrl8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 12:16:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK banks are Europe’s biggest coal financiers, report finds",
-      "description": "&lt;p&gt;Study says UK-based banks provided $8.3bn in coal financing in four years, with Barclays and HSBC leading rise&lt;/p&gt;&lt;p&gt;UK banks are...",
-      "link": "https://www.theguardian.com/environment/2026/sep/30/uk-banks-are-europe-biggest-providers-coal-financing-report-finds",
-      "pubDate": "Wed, 30 Sep 2026 11:58:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/553671d63cd38e5bb770771821d8d723576c936d/461_0_4490_3592/master/4490.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d5950c77b35090920be9a94bfedbaea"
-    },
-    {
-      "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
-      "description": "&lt;p&gt;Wave nearing southern California expected to reach San Francisco Bay Area by October as it crawls toward Alaska&lt;/p&gt;&lt;p&gt;Communities...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
-      "pubDate": "Wed, 30 Sep 2026 11:00:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/3012a692470bc55fb6169ac325755d5b8fa99adf/308_0_3075_2460/master/3075.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=923144f54f0513f8a8305757d27d40d6"
-    },
-    {
-      "title": "Insects play critical role in ecosystems beyond just providing food, new research shows",
-      "description": "&lt;p&gt;Insects provide protection, sanitation and even shelter to vertebrates, making them a priority for conservation efforts&lt;/p&gt;&lt;p&gt;For...",
-      "link": "https://www.theguardian.com/environment/2026/sep/30/insects-ecosystems-conservation",
-      "pubDate": "Wed, 30 Sep 2026 10:00:24 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/85b5a811f878ecb2a718743cdf82aef63af34775/908_0_5999_4798/master/5999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1c934a09dd441c4d628d7e3e10eceb3"
     }
   ]
 }
