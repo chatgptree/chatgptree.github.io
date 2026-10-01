@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2026-10-01T08:46:08.795Z",
+  "lastUpdated": "2026-10-01T16:16:42.126Z",
   "articles": [
+    {
+      "title": "Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
+      "description": "Prince William visits residents of Skenfrith, Monmouthshire, who have faced four floods in six years. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j4j9lxp49o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 16:09:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "What are the next steps for  the world's largest and most powerful particle accelerator?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
+      "description": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;Climate Change Authority chair says planning commission did not account for climate-related economic ...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
+      "pubDate": "Thu, 01 Oct 2026 15:00:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/833dbf28b1c1e48d471972f0a4f426aca62cddaa/482_0_2824_2260/master/2824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf756966ea9ce579186a57f34c6553a6"
+    },
+    {
+      "title": "Bluetongue restriction zone to be expanded across all of Scotland",
+      "description": "The Scottish government said the decision will simplify trading for farmers, hauliers, and auction markets....",
+      "link": "https://www.bbc.co.uk/news/articles/cq20v0exmv2eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 13:26:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Is Trump to blame for Americans getting explosive diarrhea? | Arwa Mahdawi",
+      "description": "&lt;p&gt;As the midterms approach, Americans’ digestive health has become a bizarre talking point&lt;/p&gt;&lt;p&gt;Donald Trump seems to spend an unu...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/trump-lettuce-diarrhea-midterms",
+      "pubDate": "Thu, 01 Oct 2026 13:00:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7b3d68270e2adc17e06223fbabc96d0aa780f336/479_0_4790_3832/master/4790.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86b3018d399f864e819f732a4d8465ac"
+    },
+    {
+      "title": "All Hail Electrification. But Let’s Talk About the Hard Part.",
+      "description": "If one form of energy becomes the cheapest, most secure and cleanest, you’d probably adjust your economy to use more of it, right? That’s one of the i...",
+      "link": "https://insideclimatenews.org/news/01102026/inside-clean-energy-global-electrification-obstacles/",
+      "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US datacenter discharged large amounts of pollution for almost a year with no permits",
+      "description": "&lt;p&gt;Records show Vineland facility in New Jersey emitted health-harming pollution before regulators stepped in&lt;/p&gt;&lt;p&gt;DataOne, the Mic...",
+      "link": "https://www.theguardian.com/environment/2026/oct/01/us-datacenter-new-jersey-pollution",
+      "pubDate": "Thu, 01 Oct 2026 12:00:51 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3fdbef3325a793d5fbc874b4097fd9173d727932/604_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38b849430ae2b3dd07d7d6a567ccd2bf"
+    },
+    {
+      "title": "Trump the environmentalist? How his Iran war exposed the fragility of dirty energy",
+      "description": "&lt;p&gt;Gavin Newsom says Trump is a ‘gift’ to the climate cause for dispelling notions of fossil fuel energy security&lt;/p&gt;&lt;p&gt;Of all the e...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-oil-gas-energy",
+      "pubDate": "Thu, 01 Oct 2026 11:30:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/768379c337d7ea781a1a8eedde6790f32d70c2b5/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3035256106d639f08e6c08d9f3e2eff8"
+    },
+    {
+      "title": "Nature boys and girls – here’s your chance to get published in the Guardian",
+      "description": "&lt;p&gt;Our wildlife series Young Country Diary is looking for articles written by children, about their autumn encounters with nature&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
+      "pubDate": "Thu, 01 Oct 2026 09:20:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6c09de50d56adbccf9a9ee07fde36591a187b346/429_200_3530_2824/master/3530.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99ceecda9ebbeec37e6e8fcba569066b"
+    },
+    {
+      "title": "‘Mega-Industrial’ Trawlers Threaten Europe’s Ocean Health",
+      "description": "For Europe’s fishing industry, it turns out size does matter. Of 60,000 European-flagged fishing boats, just 638 are responsible for most of the harm,...",
+      "link": "https://insideclimatenews.org/news/01102026/europe-mega-industrial-trawlers-threaten-ocean/",
+      "pubDate": "Thu, 01 Oct 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Nasa heads to Scottish Highlands in its search for life on Mars",
+      "description": "The US space agency says ancient rocks at Clachtoll have similarities to those on the Red Planet....",
+      "link": "https://www.bbc.co.uk/news/articles/c5gmr3309p7jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 08:57:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Regulators Release a Plan to Help Repair the Contaminated Roanoke River",
+      "description": "PLYMOUTH, N.C.—Fall had just arrived when a nor’easter began stewing in the Atlantic Ocean, its gale-force winds carrying the pungent smell of chlorin...",
+      "link": "https://insideclimatenews.org/news/01102026/north-carolina-roanoke-river-paper-plant-pollution/",
+      "pubDate": "Thu, 01 Oct 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "The surprising allies backing Boulder&#8217;s climate case before the Supreme Court",
       "description": "Ranchers, conservative legal scholars, and former Republican EPA chiefs are siding against oil companies. Here's why....",
@@ -72,114 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/unnamed-5.png"
-    },
-    {
-      "title": "Australian Wildlife Conservancy buys land in Tasmania to protect critically endangered species",
-      "description": "Coastal view of Boulder Wildlife Sanctuary. © Brad Leue Australian Wildlife Conservancy (AWC), a global leader in conservation, has purchased 200-hect...",
-      "link": "https://econews.com.au/australian-wildlife-conservancy-buys-land-in-tasmania-to-protect-critically-endangered-species/",
-      "pubDate": "Thu, 01 Oct 2026 04:01:43 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
-    },
-    {
-      "title": "ABB integrates AI-assisted diagnostics into Remote Condition Monitoring for emissions analyzers",
-      "description": "Latest Remote Condition Monitoring release integrates My Measurement Assistant+ and Genix Copilot AI to help CEMS operators identify and resolve analy...",
-      "link": "https://econews.com.au/abb-integrates-ai-assisted-diagnostics-into-remote-condition-monitoring-for-emissions-analyzers/",
-      "pubDate": "Thu, 01 Oct 2026 04:01:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
-      "description": "&lt;p&gt;Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollution&lt;/p&gt;&lt;p&gt;Switze...",
-      "link": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-      "pubDate": "Thu, 01 Oct 2026 04:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/c07ca02e202cfca2417731c77a94543b8fcaa54d/833_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3200ae92edb5fc0cc8d9877be52b51e"
-    },
-    {
-      "title": "‘The toll is huge’: El Niño-driven wildfires overwhelm Indonesia’s orangutan population",
-      "description": "&lt;p&gt;The global climate phenomenon has triggered devastating infernos in the ape’s Indonesian heartlands, with long-term effects on the animals st...",
-      "link": "https://www.theguardian.com/environment/2026/oct/01/el-nino-orangutans-indonesia-wildlife-destruction-aoe",
-      "pubDate": "Thu, 01 Oct 2026 03:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/54ae85bfeb8258ea7a7d3d4dba9c5dad456e1605/186_0_1066_853/master/1066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b42d913b545cac9f09a1fb7e1f8ebd7c"
-    },
-    {
-      "title": "The green light for the largest coalmine in NSW history is shocking proof that our governance systems are betraying Australians | Georgina Woods",
-      "description": "&lt;p&gt;There is no greater treachery than this failure to face up to the climate crisis. How can we now fend off despair?&lt;/p&gt;&lt;p&gt;The Inde...",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/nsw-coalmine-approval-hunter-valley-climate-crisis-lock-the-gate",
-      "pubDate": "Thu, 01 Oct 2026 03:00:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/783e3d1b3516a2761dccd50a88fa1eb56512e732/702_103_2707_2165/master/2707.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c482dde1e391892504ec32a062ef2b7"
-    },
-    {
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change....",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change....",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest....",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "EU Weighs Delaying Methane Rules as Energy Prices Rise",
-      "description": "Amid political pressure and rising energy prices, the European Commission is considering pausing a part of its landmark methane regulation, which is s...",
-      "link": "https://insideclimatenews.org/news/30092026/european-commission-plans-to-delay-methane-rules/",
-      "pubDate": "Wed, 30 Sep 2026 23:06:29 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The AI telling farmers when to harvest",
-      "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?...",
-      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 23:02:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Floating scarecrows: how Cornish fishers are stopping seabirds drowning in their nets",
-      "description": "&lt;p&gt;Simple deterrents can slash the number of razorbills and guillemots being trapped underwater, two-year study shows&lt;/p&gt;&lt;p&gt;Bird-sha...",
-      "link": "https://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets",
-      "pubDate": "Wed, 30 Sep 2026 23:01:21 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9815381242735a12d7cc5b189711b389b32e2f53/371_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=268d6c79372b4eb22fd9e76608f0a39c"
-    },
-    {
-      "title": "Watch: Climate Week Panel on China’s Global Development Push",
-      "description": "As governments and global funds pour billions into oil, gas, renewable energy, digital infrastructure and mining, the future of cross-border investmen...",
-      "link": "https://insideclimatenews.org/news/30092026/planet-china-climate-week-panel/",
-      "pubDate": "Wed, 30 Sep 2026 22:22:26 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
