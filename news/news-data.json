@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-01T21:44:22.550Z",
+  "lastUpdated": "2026-10-02T01:31:39.922Z",
   "articles": [
+    {
+      "title": "US states and cities sue over Trump EPA’s repeal of emissions rules",
+      "description": "&lt;p&gt;Democratic-led coalition says gutting key protections will set US back decades and worsen climate crisis&lt;/p&gt;&lt;p&gt;States and cities ...",
+      "link": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
+      "pubDate": "Thu, 01 Oct 2026 22:24:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c1f934de542e17385f302979c86a4da32c89c421/622_0_6223_4979/master/6223.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=340e3b0da7737353c865fb6d26219daa"
+    },
+    {
+      "title": "Six years, hundreds of plants and one tree casualty - Edinburgh's Palm House returns",
+      "description": "The Palm House at Edinburgh's Botanic Garden is finally restored and ready for the public....",
+      "link": "https://www.bbc.co.uk/news/articles/cq77022kk27jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 22:08:53 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "America’s Largest Producer of Foundry Coke Is Operating Under an Expired Permit. Who Is at Fault?",
       "description": "BIRMINGHAM, Ala.—It’s time to act. It’s long past time.&#160; That was the case made by lawyers for the Southern Environmental Law Center, who filed a...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/09/ny-federal-courthouse.jpg"
-    },
-    {
-      "title": "In a warming Arctic, Inuit bear guards protect communities",
-      "description": "Traditional knowledge and specialized training are helping people adapt to a changing landscape as polar bears appear in new places and at different t...",
-      "link": "https://grist.org/indigenous/in-a-warming-arctic-inuit-bear-guards-protect-communities/",
-      "pubDate": "Thu, 01 Oct 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/09/Derrick-Pottle-BearSafe-polar-bear-guards-Inuit-Arctic.jpeg"
-    },
-    {
-      "title": "Schneider Electric launches new Motivair coolant distribution unit integrating liquid and air cooling for more flexible data centre deployments",
-      "description": "New coolant distribution unit, the WCDU, is designed for a wide-range of configurations and optimised to meet the need for high-capacity technical cor...",
-      "link": "https://econews.com.au/schneider-electric-launches-new-motivair-coolant-distribution-unit-integrating-liquid-and-air-cooling-for-more-flexible-data-centre-deployments/",
-      "pubDate": "Thu, 01 Oct 2026 07:01:53 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Schneider-Electric-logo.png"
     }
   ]
 }
