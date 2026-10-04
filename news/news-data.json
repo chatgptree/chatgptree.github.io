@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-04T17:28:14.066Z",
+  "lastUpdated": "2026-10-04T21:13:10.285Z",
   "articles": [
+    {
+      "title": "Tories to pledge to scrap Environment Agency and Natural England",
+      "description": "&lt;p&gt;Shadow chancellor will also promise to scrap affordable homes regulations as part of strategy to refocus on growth&lt;/p&gt;&lt;p&gt;The Cons...",
+      "link": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+      "pubDate": "Sun, 04 Oct 2026 21:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a6cbcfc2c250b2ce2265975a6a842710c9b31ba3/338_0_3347_2677/master/3347.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1d9c02cb356d5dc79c3ae587baa4dee"
+    },
     {
       "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
       "description": "&lt;p&gt;Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuels&lt;/p&gt;&lt;...",
@@ -83,7 +92,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Queen's University students blast off to US for Nasa robotics competition",
+      "title": "Students blast off to US for Nasa robotics competition",
       "description": "The students will head to Florida to compete against university teams from Australia, India and the US....",
       "link": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 04 Oct 2026 05:19:30 GMT",
@@ -92,7 +101,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Queen's University students blast off to US for Nasa robotics competition",
+      "title": "Students blast off to US for Nasa robotics competition",
       "description": "The students will head to Florida to compete against university teams from Australia, India and the US....",
       "link": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 04 Oct 2026 05:19:30 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The expansion of Heathrow would be an expensive disaster for Britain and the world. Burnham needs to block it | George Monbiot",
-      "description": "&lt;p&gt;A third runway would fly in the face of reason. If we are to prioritise human life over short-term ‘growth’, we need to use planes less, not ...",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/03/heathrow-third-runway-climate-warnings-economic-reality",
-      "pubDate": "Sat, 03 Oct 2026 07:00:53 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/aa5acae7bc5294979a28713b76d4dfc0f3236f0e/51_0_3874_3100/master/3874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5438a98276221534f0bc64ef2ebe503"
     }
   ]
 }
