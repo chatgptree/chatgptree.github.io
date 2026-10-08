@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-10-08T17:49:24.391Z",
+  "lastUpdated": "2026-10-08T23:14:33.614Z",
   "articles": [
+    {
+      "title": "Why are more roofs not made of solar tiles?",
+      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?...",
+      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 23:09:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
+      "description": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed....",
+      "link": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 23:03:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "description": "&lt;p&gt;Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme&lt;/p&gt;&lt;p&gt;A survey o...",
+      "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "pubDate": "Thu, 08 Oct 2026 20:20:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/44734eef89578d79f13141440454c9abeccc49c1/398_0_2263_1812/master/2263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=005c85225cce3ac8004bb44fa50e7820"
+    },
+    {
+      "title": "The bipartisan energy bill tearing the climate movement apart",
+      "description": "A long-awaited permitting reform proposal would make renewables easier to build, but at a potential cost to communities and the environment....",
+      "link": "https://grist.org/politics/permitting-reform-baaja-climate-debate-clean-energy-fossil-fuels/",
+      "pubDate": "Thu, 08 Oct 2026 20:19:26 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/representative_jared_huffman_california.jpg"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "What next for the world of maths after a major intrusion by AI?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 20:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+      "description": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf C...",
+      "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 19:39:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More than 800,000 hours of sewage spills in Wales last year, report claims",
+      "description": "It is equivalent to a sewage discharge happening every five minutes, according to campaigners....",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy74e8nyggo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 18:05:35 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Hurricane Isaias is a typical storm — but it&#8217;s also &#8216;astounding&#8217;",
       "description": "Hurricane season began all the way back in June, but Isaias is the first to form in the Atlantic, smashing a previous record....",
@@ -20,15 +83,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Seychelles giant tortoise numbers hit record 180,000 in conservation triumph",
-      "description": "&lt;p&gt;Free-roaming Aldabra population thrives on Indian Ocean atoll due to decades-long recovery programme&lt;/p&gt;&lt;p&gt;A survey of the world’...",
-      "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "pubDate": "Thu, 08 Oct 2026 17:03:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a80099fae73e5813db79c3007020a3e15cae6582/980_0_5315_4252/master/5315.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de2d56ea83e5c9293862eb4ed1c6ab7a"
-    },
-    {
       "title": "MoD has objected to four windfarms in past year over radar interference fears",
       "description": "&lt;p&gt;Complaints risks putting defence ministry on collision course with Department for Energy Security and Net Zero&lt;/p&gt;&lt;p&gt;The Ministry...",
       "link": "https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears",
@@ -36,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/aaf71745b0d1bc943c7be454d4724b3c6ec9b819/701_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0409dafebd6d0628482a0473aa7f67f"
-    },
-    {
-      "title": "BBC Inside Science",
-      "description": "What next for the world of maths after a major intrusion by AI?...",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Can hope save the planet? An endangered parrot that is beating the odds can help us find out | Helen Pilcher",
@@ -135,51 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Maryland Demands Answers as Fuel Leak Persists From Joint Base Andrews",
-      "description": "Maryland environmental regulators say jet fuel continues to seep into Piscataway Creek from Joint Base Andrews more than six months after the spill wa...",
-      "link": "https://insideclimatenews.org/news/08102026/joint-base-andrews-fuel-leak-into-piscataway-creek/",
-      "pubDate": "Thu, 08 Oct 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In Harrisburg, Advocates Rally for Tougher Rules on Fracking",
-      "description": "Environmental groups and citizens are urging Pennsylvania regulators to increase the minimum amount of protective buffer space between gas wells and h...",
-      "link": "https://insideclimatenews.org/news/08102026/pennsylvania-natural-gas-well-buffers-data-centers/",
-      "pubDate": "Thu, 08 Oct 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump is gutting the Endangered Species Act. These 10 species show what’s at stake.",
-      "description": "Hundreds of imperiled species, including North Atlantic right whales and rusty patched bumble bees, could face greater threats from industry and devel...",
-      "link": "https://grist.org/regulation/trump-gutting-endangered-species-act-these-10-species-show-whats-at-stake/",
-      "pubDate": "Thu, 08 Oct 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/03/CATALO2.jpg"
-    },
-    {
-      "title": "From the farm to your door: How our global food system exploits workers",
-      "description": "Colonialism and land dispossession created a system based on exploitation. Climate change is making it worse....",
-      "link": "https://grist.org/indigenous/from-the-farm-to-your-door-how-our-global-food-system-exploits-workers/",
-      "pubDate": "Thu, 08 Oct 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2024/07/farmworker-hunger.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Britons kept in dark about scale of climate crisis, say viewers of ‘first-of-its-kind’ emergency briefing",
-      "description": "&lt;p&gt;Nine out of 10 people felt motivated to act after watching film outlining threats to food security, economy and public health&lt;/p&gt;&lt;p&...",
-      "link": "https://www.theguardian.com/environment/2026/oct/08/britons-kept-in-dark-scale-of-climate-crisis-first-of-its-kind-emergency-briefing",
-      "pubDate": "Thu, 08 Oct 2026 08:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a4bf9f2d66919e93a27dbaad74442a677c8bc864/403_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4a170acad33fa42b0eea6447535f9f5"
     }
   ]
 }
