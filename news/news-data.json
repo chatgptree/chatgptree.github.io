@@ -1,20 +1,119 @@
 {
-  "lastUpdated": "2026-10-08T10:22:15.404Z",
+  "lastUpdated": "2026-10-08T17:49:24.391Z",
   "articles": [
     {
-      "title": "Wonky wych elm in County Down crowned Tree of the Year",
-      "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014....",
-      "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 10:11:22 GMT",
+      "title": "Hurricane Isaias is a typical storm — but it&#8217;s also &#8216;astounding&#8217;",
+      "description": "Hurricane season began all the way back in June, but Isaias is the first to form in the Atlantic, smashing a previous record....",
+      "link": "https://grist.org/extreme-weather/hurricane-isaias-is-a-typical-storm-but-its-also-astounding/",
+      "pubDate": "Thu, 08 Oct 2026 17:48:16 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+      "description": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA....",
+      "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 17:15:33 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Wonky wych elm in County Down crowned Tree of the Year",
+      "title": "Seychelles giant tortoise numbers hit record 180,000 in conservation triumph",
+      "description": "&lt;p&gt;Free-roaming Aldabra population thrives on Indian Ocean atoll due to decades-long recovery programme&lt;/p&gt;&lt;p&gt;A survey of the world’...",
+      "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "pubDate": "Thu, 08 Oct 2026 17:03:42 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a80099fae73e5813db79c3007020a3e15cae6582/980_0_5315_4252/master/5315.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de2d56ea83e5c9293862eb4ed1c6ab7a"
+    },
+    {
+      "title": "MoD has objected to four windfarms in past year over radar interference fears",
+      "description": "&lt;p&gt;Complaints risks putting defence ministry on collision course with Department for Energy Security and Net Zero&lt;/p&gt;&lt;p&gt;The Ministry...",
+      "link": "https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears",
+      "pubDate": "Thu, 08 Oct 2026 17:00:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/aaf71745b0d1bc943c7be454d4724b3c6ec9b819/701_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0409dafebd6d0628482a0473aa7f67f"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "What next for the world of maths after a major intrusion by AI?...",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Can hope save the planet? An endangered parrot that is beating the odds can help us find out | Helen Pilcher",
+      "description": "&lt;p&gt;A new global biodiversity report strikes an encouraging note. But we cannot rest on our laurels – and resilience is key&lt;/p&gt;&lt;p&gt;&lt...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/08/hope-save-planet-endangered-parrot-global-biodiversity-report",
+      "pubDate": "Thu, 08 Oct 2026 15:05:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/28e8965b40f0d7633fdef6bbffc65a02a6c78e56/671_24_3644_2915/master/3644.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e0c58bbb992d5216451ed857c10203b"
+    },
+    {
+      "title": "To Block Solar Energy Projects, One Community Lumped Them in With Junkyards and Adult Bookstores",
+      "description": "In Montgomery County, Indiana, utility-scale solar projects appear on an official list of undesirable land uses that also includes “adult-oriented bus...",
+      "link": "https://insideclimatenews.org/news/08102026/inside-clean-energy-indiana-solar-energy-fight/",
+      "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days....",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 11:31:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As monarch butterflies migrate for the fall, meet the Chicago woman trying to protect them",
+      "description": "&lt;p&gt;Claudia Galeno-Sánchez has turned her home into a sanctuary for the insects by planting native milkweed and wildflowers – and sharing her exp...",
+      "link": "https://www.theguardian.com/artanddesign/2026/oct/08/monarch-butterflies-chicago-garden",
+      "pubDate": "Thu, 08 Oct 2026 11:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bc71ad4a2234ced6ff774b931fc345665bb2d23b/822_515_3106_2486/master/3106.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abdbcdeea66a9310bdeba8da493c0168"
+    },
+    {
+      "title": "More controls possible as reservoir level drops",
+      "description": "More water usage restrictions may be introduced as Wimbleball reservoir drops to just 18% full....",
+      "link": "https://www.bbc.co.uk/news/videos/cwnv03ee025do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 10:52:02 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "July 2026 was worst on record for wildfires in England, data shows",
+      "description": "&lt;p&gt;Devastating blaze near Sizewell B nuclear power station in Suffolk among a record 624 wildfires in July this year&lt;/p&gt;&lt;p&gt;This July...",
+      "link": "https://www.theguardian.com/world/2026/oct/08/july-record-wildfires-england-data-shows",
+      "pubDate": "Thu, 08 Oct 2026 10:34:34 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb1b97e1a06833c9b36cf38a084d7c1c"
+    },
+    {
+      "title": "The bendy elm crowned UK Tree of the Year",
       "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014....",
       "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 10:11:22 GMT",
+      "pubDate": "Thu, 08 Oct 2026 10:32:34 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The bendy elm crowned UK Tree of the Year",
+      "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014....",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 10:32:34 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -81,105 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a4bf9f2d66919e93a27dbaad74442a677c8bc864/403_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4a170acad33fa42b0eea6447535f9f5"
-    },
-    {
-      "title": "Isaias becomes the first Atlantic hurricane of 2026",
-      "description": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA....",
-      "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 07:31:26 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
-      "description": "Barack Obama awarded the Apollo 11 software engineer with the America's highest civilian honour in 2016....",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 07:08:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How a scientist used Britpop to reach Mars",
-      "description": "Colin Pillinger died believing that Beagle 2 had not landed, and now his work is being celebrated around the UK....",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd65665q1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 05:39:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why are there so many mushrooms around this year?",
-      "description": "The RHS says the hot, dry summer followed by autumn rain could lead to record sightings....",
-      "link": "https://www.bbc.co.uk/news/articles/c699zx0d8zkzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 05:13:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom....",
-      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 05:10:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom....",
-      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 05:10:40 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'The wood is alive': Ranger retires after 38 years",
-      "description": "William McLaughlin leaves a \"lasting legacy\" of care at Bourne Woods in Lincolnshire, bosses say....",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr8dgz2j5mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 05:01:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Stockpile food – and wash your hands: is that really how to prepare for environmental catastrophe? | George Monbiot",
-      "description": "&lt;p&gt;The UK state is dumping its responsibilities on our doorsteps, while green-lighting policies that lead us closer to crisis&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/08/stockpile-food-wash-hands-how-to-prepare-environmental-catastrophe",
-      "pubDate": "Thu, 08 Oct 2026 05:00:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f81aa9599e1a7dbe69197a55798777243d5d0a8c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d273882986eb99fbfbc8c0cb1ca71498"
-    },
-    {
-      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
-      "description": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF....",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 05:00:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
-      "description": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF....",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 05:00:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Next UK banknotes to feature barn owls, bumblebees, puffins and hedgehogs",
-      "description": "&lt;p&gt;Four native species selected after consultation, but which one adorns which note is yet to be decided&lt;/p&gt;&lt;p&gt;Bees, barn owls, puff...",
-      "link": "https://www.theguardian.com/business/2026/oct/08/uk-banknotes-new-design-barn-owl-bumblebee-puffin-hedgehog",
-      "pubDate": "Thu, 08 Oct 2026 04:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1975ca3bc874ed3182fad31527d9a002428b8d52/0_0_2890_2312/master/2890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28a475460ea3881a6db0f926de41b8ac"
     }
   ]
 }
