@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-10-08T23:14:33.614Z",
+  "lastUpdated": "2026-10-09T05:53:50.277Z",
   "articles": [
+    {
+      "title": "Data centre raises noise and wildlife impact fears",
+      "description": "The data centre, which will have 72 chiller units on its roof, will generate 150 jobs, planners hear....",
+      "link": "https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 05:30:42 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
+      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Firms made more than £340m last year from processing industrial and commercial wastewater at sewage w...",
+      "link": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+      "pubDate": "Fri, 09 Oct 2026 05:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0f1115602c3aa91f02dd7227f921b2b4ef735da4/0_0_4934_3946/master/4934.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02bc6a31ba5d8c7922922d05ceffc6aa"
+    },
+    {
+      "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
+      "description": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared....",
+      "link": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 05:00:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
+      "description": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared....",
+      "link": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 05:00:23 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
+      "description": "&lt;p&gt;Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
+      "pubDate": "Fri, 09 Oct 2026 04:00:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f8c9a11113e4f3f6ee203a4dd048461c9e3fc7d2/309_0_3405_2725/master/3405.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43563ec8b7e48d39617788d4b5e1f898"
+    },
+    {
+      "title": "QBE Foundation awards $600,000 in local grants to community organisations",
+      "description": "The QBE Foundation has awarded $600,000 through its 2026 local grants program to support twelve charity and community organisations across Australia. ...",
+      "link": "https://econews.com.au/qbe-foundation-awards-600000-in-local-grants-to-community-organisations/",
+      "pubDate": "Fri, 09 Oct 2026 02:02:44 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/QBE-logo-1024x333.webp"
+    },
+    {
+      "title": "US executive order targets Chinese grid hardware, but battery storage serving AI data centers is more exposed.",
+      "description": "By Rystad Energy A White House executive order designed to secure the US power grid from Chinese-made equipment is more likely to disrupt battery stor...",
+      "link": "https://econews.com.au/us-executive-order-targets-chinese-grid-hardware-but-battery-storage-serving-ai-data-centers-is-more-exposed/",
+      "pubDate": "Fri, 09 Oct 2026 01:02:19 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Rystad-Energy-logo.png"
+    },
+    {
+      "title": "Traditional Pacific Talanoa sets out six climate and health priorities ahead of COP31",
+      "description": "The Climate and Health Alliance (CAHA) Pacific leaders set out climate and health solutions ahead of COP31 Pacific community leaders have called for u...",
+      "link": "https://econews.com.au/traditional-pacific-talanoa-sets-out-six-climate-and-health-priorities-ahead-of-cop31/",
+      "pubDate": "Fri, 09 Oct 2026 01:02:18 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/unnamed-14-1024x684.jpg"
+    },
+    {
+      "title": "Wildlife Populations Have Plunged Globally, But Some Buck the Trend",
+      "description": "A new report paints a dark picture of the state of global wildlife—but also highlights flickers of light where some populations are on the upswing.&#1...",
+      "link": "https://insideclimatenews.org/news/08102026/wildlife-populations-plunge-globally/",
+      "pubDate": "Thu, 08 Oct 2026 23:57:59 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Why are more roofs not made of solar tiles?",
       "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?...",
@@ -99,87 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/28e8965b40f0d7633fdef6bbffc65a02a6c78e56/671_24_3644_2915/master/3644.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e0c58bbb992d5216451ed857c10203b"
-    },
-    {
-      "title": "To Block Solar Energy Projects, One Community Lumped Them in With Junkyards and Adult Bookstores",
-      "description": "In Montgomery County, Indiana, utility-scale solar projects appear on an official list of undesirable land uses that also includes “adult-oriented bus...",
-      "link": "https://insideclimatenews.org/news/08102026/inside-clean-energy-indiana-solar-energy-fight/",
-      "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days....",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 11:31:22 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As monarch butterflies migrate for the fall, meet the Chicago woman trying to protect them",
-      "description": "&lt;p&gt;Claudia Galeno-Sánchez has turned her home into a sanctuary for the insects by planting native milkweed and wildflowers – and sharing her exp...",
-      "link": "https://www.theguardian.com/artanddesign/2026/oct/08/monarch-butterflies-chicago-garden",
-      "pubDate": "Thu, 08 Oct 2026 11:00:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bc71ad4a2234ced6ff774b931fc345665bb2d23b/822_515_3106_2486/master/3106.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abdbcdeea66a9310bdeba8da493c0168"
-    },
-    {
-      "title": "More controls possible as reservoir level drops",
-      "description": "More water usage restrictions may be introduced as Wimbleball reservoir drops to just 18% full....",
-      "link": "https://www.bbc.co.uk/news/videos/cwnv03ee025do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 10:52:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "July 2026 was worst on record for wildfires in England, data shows",
-      "description": "&lt;p&gt;Devastating blaze near Sizewell B nuclear power station in Suffolk among a record 624 wildfires in July this year&lt;/p&gt;&lt;p&gt;This July...",
-      "link": "https://www.theguardian.com/world/2026/oct/08/july-record-wildfires-england-data-shows",
-      "pubDate": "Thu, 08 Oct 2026 10:34:34 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb1b97e1a06833c9b36cf38a084d7c1c"
-    },
-    {
-      "title": "The bendy elm crowned UK Tree of the Year",
-      "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014....",
-      "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 10:32:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The bendy elm crowned UK Tree of the Year",
-      "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014....",
-      "link": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 10:32:34 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Australia backs plan to double the world’s solar homes to 300 million by 2030",
-      "description": "Minister Chris Bowen announcing Global Rooftop Solar Declaration at PreCOP Press Conference  Australia has become the first country to endorse a globa...",
-      "link": "https://econews.com.au/australia-backs-plan-to-double-the-worlds-solar-homes-to-300-million-by-2030/",
-      "pubDate": "Thu, 08 Oct 2026 09:02:32 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Logitech Unveils Its Biggest Enterprise Launch Ever:  More Power, More Future-Proofed Rooms for the AI Revolution",
-      "description": "Reinventing Rally Bar 2: Logitech’s market-leading video bar supercharged with a new Qualcomm processor; premium new lens and sensors; Right Sound 3 a...",
-      "link": "https://econews.com.au/logitech-unveils-its-biggest-enterprise-launch-ever-more-power-more-future-proofed-rooms-for-the-ai-revolution/",
-      "pubDate": "Thu, 08 Oct 2026 09:02:30 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
