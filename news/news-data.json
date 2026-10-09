@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-09T19:24:55.849Z",
+  "lastUpdated": "2026-10-09T23:57:57.430Z",
   "articles": [
+    {
+      "title": "Northern California Community Wants Stronger Oversight of Dangerous Refineries Nearby",
+      "description": "MARTINEZ, Calif.—Scores of people tired of living near accident-prone refineries packed an elementary school auditorium to hear what their government ...",
+      "link": "https://insideclimatenews.org/news/09102026/bay-area-community-seeks-stronger-refinery-oversight/",
+      "pubDate": "Fri, 09 Oct 2026 23:01:56 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Looking for Oil in Alaska, No Environmental Strings Attached",
+      "description": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the large...",
+      "link": "https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/",
+      "pubDate": "Fri, 09 Oct 2026 22:30:07 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Michigan Spill Prompts Federal Probe of Energy Transfer Pipelines’ Safety",
+      "description": "A crude oil pipeline spill last month in the Detroit suburbs has prompted federal authorities to open an investigation into the safety of all 20,000 m...",
+      "link": "https://insideclimatenews.org/news/09102026/energy-transfer-pipeline-spill-prompts-federal-investigation/",
+      "pubDate": "Fri, 09 Oct 2026 22:01:52 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'People don't think recycling at work is part of their job description'",
       "description": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue....",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tories overstate net zero cost by nearly £500bn in apparent spreadsheet error",
-      "description": "&lt;p&gt;Exclusive: Badenoch’s flagship conference policy document cites £957bn estimate, twice the total in climate advisers’ data&lt;/p&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error",
-      "pubDate": "Fri, 09 Oct 2026 06:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e93a671b994b5431ebd278f7c10e0f6644e2def2/228_345_2435_1949/master/2435.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5db23a393046ea61aa5760071b7d3222"
-    },
-    {
-      "title": "Data centre raises noise and wildlife impact fears",
-      "description": "The data centre, which will have 72 chiller units on its roof, will generate 150 jobs, planners hear....",
-      "link": "https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 05:30:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
-      "description": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Firms made more than £340m last year from processing industrial and commercial wastewater at sewage w...",
-      "link": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
-      "pubDate": "Fri, 09 Oct 2026 05:00:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0f1115602c3aa91f02dd7227f921b2b4ef735da4/0_0_4934_3946/master/4934.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02bc6a31ba5d8c7922922d05ceffc6aa"
     }
   ]
 }
