@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-10T12:22:39.320Z",
+  "lastUpdated": "2026-10-10T17:45:23.269Z",
   "articles": [
+    {
+      "title": "Hundreds protest over data centre plans",
+      "description": "Placard-waving opponents highlight concerns about a data centre development on the local landscape....",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 13:40:03 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
+      "description": "&lt;p&gt;Koos Bekker’s Newt estate  encompasses luxury hotels, pubs and high street business, with local concerns including flooding&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
+      "pubDate": "Sat, 10 Oct 2026 13:00:58 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b73dda79e5b2303d17a78bf4024e17a89f08ac3d/883_0_7240_5792/master/7240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a21c17a5d09bdcf8b59afc884ac4ffcb"
+    },
+    {
+      "title": "Fifty billion seedlings: Can Ethiopia replant its ravaged forests?",
+      "description": "A legacy of deforestation has left Ethiopia struggling with more intense flooding and drought. The country is trying to restore its native forests thr...",
+      "link": "https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/",
+      "pubDate": "Sat, 10 Oct 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/Ethiopia-Planting_Clayton.webp"
+    },
     {
       "title": "Hurricane Isaias downgraded after making landfall in Florida",
       "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US....",
@@ -151,33 +178,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 09 Oct 2026 15:32:30 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hurricane Isaias strengthens as it heads towards land",
-      "description": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday. ...",
-      "link": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 14:23:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
-      "description": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds....",
-      "link": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 13:01:57 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "China’s Blue Mirage",
-      "description": "This story is part of an investigation conducted by an international team of journalists based at The Outlaw Ocean Project. Read the other stories her...",
-      "link": "https://insideclimatenews.org/news/09102026/china-fish-farming-mirage/",
-      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
