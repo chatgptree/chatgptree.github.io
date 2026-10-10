@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-10-10T05:39:40.578Z",
+  "lastUpdated": "2026-10-10T12:22:39.320Z",
   "articles": [
+    {
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US....",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 11:55:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
+      "description": "&lt;p&gt;Marsala on island’s west coast badly affected after powerful storm approached from Mediterranean&lt;/p&gt;&lt;p&gt;Two tornadoes have struck ...",
+      "link": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
+      "pubDate": "Sat, 10 Oct 2026 11:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6c0158c7770651e6c52328a45ffef7be1bc9a69e/500_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ad5242684c7306fda896809d09f502c"
+    },
+    {
+      "title": "How drones are hunting fires hidden beneath the Cairngorms",
+      "description": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth....",
+      "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 09:31:14 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Greece’s Seafood Problem Starts Elsewhere",
+      "description": "This story is part of an investigation conducted by an international team of journalists based at The Outlaw Ocean Project. Read the other stories her...",
+      "link": "https://insideclimatenews.org/news/10102026/greece-seafood-problem-global-impact/",
+      "pubDate": "Sat, 10 Oct 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In One Historically Black Florida Community, the Drinking Water Is Brown",
+      "description": "WHITTED, Fla.—When Ann Jones runs her kitchen faucet, the water flows clear only some of the time. Sometimes the water is brown. Fill a pitcher, and t...",
+      "link": "https://insideclimatenews.org/news/10102026/florida-black-community-contaminated-drinking-water/",
+      "pubDate": "Sat, 10 Oct 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Unpacking the Environmental Issues in Susan Collins’ Tough Race in Maine",
+      "description": "From our collaborating partner “Living on Earth,” public radio's environmental news magazine, an interview by host Steve Curwood with veteran Maine jo...",
+      "link": "https://insideclimatenews.org/news/10102026/susan-collins-election-environmental-issues/",
+      "pubDate": "Sat, 10 Oct 2026 08:50:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Asbestos mystery leaves beloved beach closed",
+      "description": "With Mount Batten Beach fenced off since July, residents and campaigners are demanding answers....",
+      "link": "https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 06:16:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Chemicals at former fuel depot 'have been removed'",
+      "description": "Barrels of forever chemicals left at a development site have been removed, a developer has said....",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6nzp4230o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 06:13:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
       "description": "&lt;p&gt;Changing tide levels, shifting sands and hardened shorelines put waves at risk, affecting more than just surfers&lt;/p&gt;&lt;p&gt;The climat...",
@@ -9,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6a3db3e637cc4fcc902e002b3f8b8687e5093818/340_323_1262_1010/master/1262.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ea14ba0fdd62fbb89d8b88fcb4e79bb"
-    },
-    {
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-      "description": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana....",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 01:58:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Northern California Community Wants Stronger Oversight of Dangerous Refineries Nearby",
@@ -115,69 +178,6 @@
       "link": "https://insideclimatenews.org/news/09102026/china-fish-farming-mirage/",
       "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hurricane Isaias strengthens to a major category three storm",
-      "description": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the...",
-      "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 12:54:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
-      "description": "&lt;p&gt;‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji&lt;/p&gt;&lt;p&gt;Wealthy countries should...",
-      "link": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
-      "pubDate": "Fri, 09 Oct 2026 12:00:28 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/02aee73853461d6fc251d6642b12142931073b8e/350_0_2952_2363/master/2952.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e271a7c88c6dcbbfa84c9ef75a7bba8"
-    },
-    {
-      "title": "AI and the climate crisis pose existential risks. The law offers a way to reduce them | Robert Reich",
-      "description": "&lt;p&gt;Liability lawsuits have held tobacco, oil and pharma companies to account in the past. AI investors won’t ignore this threat&lt;/p&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits",
-      "pubDate": "Fri, 09 Oct 2026 11:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bab2e6d22a44b9888f42b090d83347f017a75df1/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=224099d4f3ec772049b888da8cdd0046"
-    },
-    {
-      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "description": "&lt;p&gt;Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding&lt;/p&gt;&lt;p&gt;Isaias ha...",
-      "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "pubDate": "Fri, 09 Oct 2026 09:59:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/8a68346734b6125aa8be112f9a09965d7b197558/58_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99048aa4fce3b6c2bdf7562778d83ccd"
-    },
-    {
-      "title": "South Baltimore Residents Grapple With Contradictory Incinerator Decisions",
-      "description": "Around 100 Baltimore residents packed a community hall in the Curtis Bay neighborhood on the evening of Oct. 1. One after another, they implored the M...",
-      "link": "https://insideclimatenews.org/news/09102026/baltimore-trash-incinerators-contradictory-decisions/",
-      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Louisiana wind industry’s plan for survival: Outlast Trump",
-      "description": "Trump brought offshore wind development to a near standstill. Louisiana companies plan to \"wait for the clock to run out\" in 2029....",
-      "link": "https://grist.org/climate-energy/louisiana-offshore-wind-industry-outlast-trump/",
-      "pubDate": "Fri, 09 Oct 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/Capito-BAAJA-announcement.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "‘Digger’ has a lot of haters. Here’s why they’re wrong.",
-      "description": "In trying to capture the absurdity of the climate crisis, Alejandro Iñárritu made something weird, messy, and downright thrilling....",
-      "link": "https://grist.org/culture/digger-has-a-lot-of-haters-heres-why-theyre-wrong/",
-      "pubDate": "Fri, 09 Oct 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
