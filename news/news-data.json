@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-11T00:48:10.841Z",
+  "lastUpdated": "2026-10-11T07:00:22.386Z",
   "articles": [
+    {
+      "title": "'I watched Apollo 17 launch with Neil Armstrong'",
+      "description": "Dermot Gethings was 16 when Nasa picked him to watch the Apollo 17 launch alongside Neil Armstrong....",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 06:32:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
+      "description": "&lt;p&gt;Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on hold&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+      "pubDate": "Sun, 11 Oct 2026 06:00:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d7c170a72e586c258e9e01b283090d1bd75ff28f/882_0_6195_4956/master/6195.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e6b7a467199207dafc808b869c29901"
+    },
     {
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone....",
@@ -12,12 +30,12 @@
     },
     {
       "title": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
-      "description": "&lt;p&gt;The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when the tulips are at their best&lt;/p&gt; &lt;a...",
+      "description": "&lt;p&gt;The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when tulips and other springs flowers are at thei...",
       "link": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
       "pubDate": "Sat, 10 Oct 2026 23:00:10 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/01bd66f7b6aa9be2aae263a172674eb1af7fc0d5/300_0_1666_1333/master/1666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=023fac361bae6f05f02c6598e2930854"
+      "image": "https://i.guim.co.uk/img/media/bd58c37a8bd77a24a12b34617bf30d860fc4f158/155_0_1666_1333/master/1666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9f5e9aaeb324acb0125fc11fa5bd7d5"
     },
     {
       "title": "Hurricane Isaias updates: at least four people dead and hundreds of thousands without power – as it happened",
@@ -159,24 +177,6 @@
       "description": "MARTINEZ, Calif.—Scores of people tired of living near accident-prone refineries packed an elementary school auditorium to hear what their government ...",
       "link": "https://insideclimatenews.org/news/09102026/bay-area-community-seeks-stronger-refinery-oversight/",
       "pubDate": "Fri, 09 Oct 2026 23:01:56 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Looking for Oil in Alaska, No Environmental Strings Attached",
-      "description": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the large...",
-      "link": "https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/",
-      "pubDate": "Fri, 09 Oct 2026 22:30:07 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Michigan Spill Prompts Federal Probe of Energy Transfer Pipelines’ Safety",
-      "description": "A crude oil pipeline spill last month in the Detroit suburbs has prompted federal authorities to open an investigation into the safety of all 20,000 m...",
-      "link": "https://insideclimatenews.org/news/09102026/energy-transfer-pipeline-spill-prompts-federal-investigation/",
-      "pubDate": "Fri, 09 Oct 2026 22:01:52 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
