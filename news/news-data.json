@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-11T14:51:34.084Z",
+  "lastUpdated": "2026-10-11T19:27:13.837Z",
   "articles": [
+    {
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer....",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 19:08:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer....",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 19:08:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Owners fear 'healthy' dog died due to orange substance exposure on contaminated land",
       "description": "Donna and Pete O'Brien say Misty's health declined after a walk....",
@@ -18,6 +36,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+      "description": "&lt;p&gt;At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians&lt;/p&gt;&lt;p&gt;As what was left ...",
+      "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+      "pubDate": "Sun, 11 Oct 2026 13:45:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/420493f91c55c9130552d6c719167b20924fb5ee/196_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2365cc4d4032fcd9d89235df7f71aed"
     },
     {
       "title": "In New Mexico, a river runs through &#8216;the middle of a hellscape’",
@@ -153,33 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b73dda79e5b2303d17a78bf4024e17a89f08ac3d/883_0_7240_5792/master/7240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a21c17a5d09bdcf8b59afc884ac4ffcb"
-    },
-    {
-      "title": "Fifty billion seedlings: Can Ethiopia replant its ravaged forests?",
-      "description": "A legacy of deforestation has left Ethiopia struggling with more intense flooding and drought. The country is trying to restore its native forests thr...",
-      "link": "https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/",
-      "pubDate": "Sat, 10 Oct 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/Ethiopia-Planting_Clayton.webp"
-    },
-    {
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US....",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 11:55:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
-      "description": "&lt;p&gt;Marsala on island’s west coast badly affected after powerful storm approached from Mediterranean&lt;/p&gt;&lt;p&gt;Two tornadoes have struck ...",
-      "link": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
-      "pubDate": "Sat, 10 Oct 2026 11:00:31 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6c0158c7770651e6c52328a45ffef7be1bc9a69e/500_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ad5242684c7306fda896809d09f502c"
     }
   ]
 }
