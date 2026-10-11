@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-10-10T21:31:19.640Z",
+  "lastUpdated": "2026-10-11T00:48:10.841Z",
   "articles": [
     {
-      "title": "Hurricane Isaias latest updates: at least four people dead and hundreds of thousands without power",
-      "description": "&lt;p&gt;First Atlantic hurricane of the 2026 season makes landfall in the US as officials warn of ‘spinoff tornadoes’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&l...",
-      "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-      "pubDate": "Sat, 10 Oct 2026 21:12:00 GMT",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone....",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 23:19:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
+      "description": "&lt;p&gt;The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when the tulips are at their best&lt;/p&gt; &lt;a...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
+      "pubDate": "Sat, 10 Oct 2026 23:00:10 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/cd489a4b072e75d97586f5e2831c84af6d063ae8/498_0_4777_3821/master/4777.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2852496d686224b0b5d09054fffaf994"
+      "image": "https://i.guim.co.uk/img/media/01bd66f7b6aa9be2aae263a172674eb1af7fc0d5/300_0_1666_1333/master/1666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=023fac361bae6f05f02c6598e2930854"
+    },
+    {
+      "title": "Hurricane Isaias updates: at least four people dead and hundreds of thousands without power – as it happened",
+      "description": "&lt;p&gt;This liveblog is now closed. Read &lt;a href=\"https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone\"&gt;the f...",
+      "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+      "pubDate": "Sat, 10 Oct 2026 22:18:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2f12969ea8df6b4085d441942784740b2e1e4d40/928_0_2190_1754/master/2190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51364563108ea8cbc2e699f2eed7f917"
     },
     {
       "title": "Despair after 200-year-old ‘grandmother’ tree toppled for Trump’s border wall: ‘It crushes your heart’",
@@ -18,15 +36,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/50a8b0c323bb8789296dadfeeadb996d90bf63a6/410_0_6968_5578/master/6968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=112aca10cb178e500179c3c454c6986b"
-    },
-    {
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone....",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 19:08:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Hundreds protest over data centre plans",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/09102026/energy-transfer-pipeline-spill-prompts-federal-investigation/",
       "pubDate": "Fri, 09 Oct 2026 22:01:52 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'People don't think recycling at work is part of their job description'",
-      "description": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue....",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 19:11:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
