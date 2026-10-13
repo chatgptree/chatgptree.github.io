@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-10-13T19:10:58.277Z",
+  "lastUpdated": "2026-10-13T23:41:22.768Z",
   "articles": [
+    {
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "description": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners....",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 13 Oct 2026 23:26:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Momentum for Measuring Water Lost in Wyoming’s Portion of the Colorado River Dries Up",
+      "description": "Wyoming has shelved a state-funded project to measure water use in the Green River and Little Snake River basins after it could not get enough data to...",
+      "link": "https://insideclimatenews.org/news/13102026/wyoming-colorado-river-measuring/",
+      "pubDate": "Tue, 13 Oct 2026 22:50:17 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More tea? How Scotland's crops of the future could be set to change",
+      "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate....",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 13 Oct 2026 21:57:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "More tea? How Scotland's crops of the future could be set to change",
+      "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate....",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 13 Oct 2026 21:57:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "'Jellyfish' effect lights up US sky after SpaceX launch",
       "description": "A 'Jellyfish' effect lit up the sky in US after a SpaceX Falcon 9 rocket launch....",
@@ -144,42 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/f0a490cecf750ae4f6f49f605251ea425948f88e-2400x1800-1-1024x768.webp"
-    },
-    {
-      "title": "Coastal erosion in England has claimed at least 183 homes in past 16 years",
-      "description": "&lt;p&gt;Exclusive: Homes demolished along east coast after being deemed too vulnerable to live in, figures reveal&lt;/p&gt;&lt;p&gt;Seaside communiti...",
-      "link": "https://www.theguardian.com/environment/2026/oct/13/coastal-erosion-england-homes-demolished",
-      "pubDate": "Tue, 13 Oct 2026 06:00:17 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2ff4b19fe2dba3fb9af58ab6883651e6a11f7076/215_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c38a8847cf42a648252c3d749546ee9"
-    },
-    {
-      "title": "Fly-tippers face £5k fine in new crackdown",
-      "description": "Cornwall Council introduces new penalties after recording 17,500 incidents in five years....",
-      "link": "https://www.bbc.co.uk/news/articles/cqn064027d2xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 13 Oct 2026 05:23:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Red squirrel project opens £250k community grant",
-      "description": "Groups from around northern England and southern Scotland can bid for funding to help the creatures....",
-      "link": "https://www.bbc.co.uk/news/articles/cr86zp8qn0w5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 13 Oct 2026 05:08:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Pro-invest Group expands NABERS performance program through strategic Buildings Alive partnership",
-      "description": "Craig Roussac, CEO of Buildings Alive and Anthony Ursino, Chief Operating Officer &#38; General Counsel at Pro-invest Group. Strategic partnership to ...",
-      "link": "https://econews.com.au/pro-invest-group-expands-nabers-performance-program-through-strategic-buildings-alive-partnership/",
-      "pubDate": "Tue, 13 Oct 2026 05:02:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/unnamed-16-1024x188.jpg"
     }
   ]
 }
