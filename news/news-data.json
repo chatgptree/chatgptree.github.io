@@ -1,9 +1,72 @@
 {
-  "lastUpdated": "2026-10-14T15:46:53.868Z",
+  "lastUpdated": "2026-10-14T20:07:45.498Z",
   "articles": [
     {
-      "title": "Mont Blanc the ‘roof of Europe’ loses more than a metre of height in a year",
-      "description": "&lt;p&gt;Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate&lt;/p&gt;&lt;p&gt;Europe’s highest...",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country....",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 14 Oct 2026 19:52:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Rewilding Could Help Atoll Islands Keep Pace With Rising Seas",
+      "description": "Coral-fringed tropical atolls are among the landforms most threatened by global warming, but many have a potential superpower: Healthy ecosystems may ...",
+      "link": "https://insideclimatenews.org/news/14102026/healthy-ecosystems-protect-atoll-islands-from-heat/",
+      "pubDate": "Wed, 14 Oct 2026 18:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate Change Is Increasing Simultaneous Exposure to Heat Waves and Wildfire Smoke",
+      "description": "More than 1 billion people per year were exposed to heat waves and fire pollution at the same time from 2010-2019, a sharp jump from the decade before...",
+      "link": "https://insideclimatenews.org/news/14102026/climate-change-fueling-heat-waves-and-wildfire-smoke/",
+      "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "For the future of green politics, look beyond the Green party | Zoe Williams",
+      "description": "&lt;p&gt;Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/14/green-politics-environmentalists-action",
+      "pubDate": "Wed, 14 Oct 2026 17:15:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/936055716ead24f09b381e97cd71df2ba08959e7/130_0_6698_5359/master/6698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49db6f7fafc54584686441e217c4670a"
+    },
+    {
+      "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+      "description": "&lt;p&gt;Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over funding&lt;/p&gt;&lt;p&gt;The govern...",
+      "link": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+      "pubDate": "Wed, 14 Oct 2026 16:49:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c3a911c9ccf6a6e1e4f95fd0946ec6f2546394e0/864_0_4336_3471/master/4336.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a408a8e04217c5a0345a3b370f5b0ece"
+    },
+    {
+      "title": "Industrial fire linked to fish and eels' deaths",
+      "description": "Chemicals from firewater runoff entered a brook and spread downstream where dead fish and eels were later found, the Environment Agency has confirmed....",
+      "link": "https://www.bbc.co.uk/news/videos/cqrky20ndv1jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 14 Oct 2026 16:36:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Study Reveals Clues About the Origins of Nepal’s Deadly Flood",
+      "description": "A new study in the journal Seismica presents the first comprehensive seismic analysis of what happened during the disastrous flood in Nepal on Aug. 26...",
+      "link": "https://insideclimatenews.org/news/14102026/new-study-reveals-clues-about-the-origins-of-nepals-deadly-flood/",
+      "pubDate": "Wed, 14 Oct 2026 16:06:54 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+      "description": "&lt;p&gt;Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate&lt;/p&gt;&lt;p&gt;Western Europe’s...",
       "link": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
       "pubDate": "Wed, 14 Oct 2026 15:33:52 GMT",
       "sourceName": "theguardian.com",
@@ -117,69 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2023/10/Greater-Western-Water.jpg"
-    },
-    {
-      "title": "Over 50 health leaders warn Australia cannot protect people from climate change without tackling fossil fuels",
-      "description": "Assistant Minister for Health and Aged Care, Indigenous Health and Women, the Hon Rebecca White MP launched new national guidance, local data and prac...",
-      "link": "https://econews.com.au/over-50-health-leaders-warn-australia-cannot-protect-people-from-climate-change-without-tackling-fossil-fuels/",
-      "pubDate": "Wed, 14 Oct 2026 06:02:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/unnamed-10.png"
-    },
-    {
-      "title": "Businesses could be barred from non-essential water use amid supply threat",
-      "description": "&lt;p&gt;Golf clubs, private schools and car washes may face tighter rules from water companies as England’s drought continues&lt;/p&gt;&lt;p&gt;Three...",
-      "link": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
-      "pubDate": "Wed, 14 Oct 2026 06:00:48 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1a49a8e16824b75798658e0066510525d8c63f0f/568_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57d9ae4601f3473cbdffd94c8e2ef0a3"
-    },
-    {
-      "title": "New team to save Antarctic port from climate change",
-      "description": "The mission aims to protect the base which is home to the world’s southernmost Post Office....",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Oct 2026 05:24:08 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More tea? How Scotland's crops of the future could be set to change",
-      "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate....",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Oct 2026 05:02:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More tea? How Scotland's crops of the future could be set to change",
-      "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate....",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Oct 2026 05:02:27 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "CARE Australia warns intensifying El Niño is putting food, water and livelihoods at significant risk across the Pacific, with women and girls disproportionately affected",
-      "description": "Aerial shot of Pinapel Island in Bougainville, Papua New Guinea. Photo © Benson Wanguare/CARE 2025 The 2026-27 El Niño event is set to be the stronges...",
-      "link": "https://econews.com.au/care-australia-warns-intensifying-el-nino-is-putting-food-water-and-livelihoods-at-significant-risk-across-the-pacific-with-women-and-girls-disproportionately-affected/",
-      "pubDate": "Wed, 14 Oct 2026 05:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "World Food Day: real innovation grows in fields, not labs",
-      "description": "Slow Food Farms: SCOTLAND Errichel Farm, Scotland. Chef Paul Newman and his wife Becky in their farm. They farm rare breeds including Ark, sheep, catt...",
-      "link": "https://econews.com.au/world-food-day-real-innovation-grows-in-fields-not-labs/",
-      "pubDate": "Wed, 14 Oct 2026 05:02:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Slow-Food-logo.png"
     }
   ]
 }
