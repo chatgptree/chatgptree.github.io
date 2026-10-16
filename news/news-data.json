@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-16T13:10:18.139Z",
+  "lastUpdated": "2026-10-16T17:55:50.803Z",
   "articles": [
+    {
+      "title": "US voters want action on global heating. So why are midterm candidates ‘climate hushing’?",
+      "description": "&lt;p&gt;Polls show that Democrats and Republicans in battleground states want to hear more from candidates about the climate crisis&lt;/p&gt;&lt;p&gt...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates",
+      "pubDate": "Fri, 16 Oct 2026 15:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ca074d024709d32d49f0893d3b044af610aac987/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c19658cb1729ea5c042ed00195a707e3"
+    },
+    {
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions....",
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 14:19:50 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
       "description": "&lt;p&gt;Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt&lt;/p&gt;&lt;p&gt;For almost...",
@@ -15,15 +33,6 @@
       "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model....",
       "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 16 Oct 2026 12:32:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions....",
-      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 12:16:42 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -171,15 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/unnamed-12.png"
-    },
-    {
-      "title": "Living with a stink? Technology might help",
-      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored....",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 23:18:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
