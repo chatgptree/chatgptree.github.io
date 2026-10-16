@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-16T17:55:50.803Z",
+  "lastUpdated": "2026-10-16T20:54:25.839Z",
   "articles": [
+    {
+      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "description": "&lt;p&gt;Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off&lt;/p&gt;&lt;p&gt;Deforestat...",
+      "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "pubDate": "Fri, 16 Oct 2026 19:37:53 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbafa9b10ba28b2d75e5b663dd38e53c"
+    },
+    {
+      "title": "Congress has a plan to stop Trump’s attack on offshore wind. It may not be enough.",
+      "description": "Senators made a deal to protect clean energy, but presidential interference continues....",
+      "link": "https://grist.org/politics/trump-offshore-wind-permitting-deal-certainty-revolution/",
+      "pubDate": "Fri, 16 Oct 2026 18:37:59 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/Sheldon-Whitehouse-fossil-fuels.jpg"
+    },
     {
       "title": "US voters want action on global heating. So why are midterm candidates ‘climate hushing’?",
       "description": "&lt;p&gt;Polls show that Democrats and Republicans in battleground states want to hear more from candidates about the climate crisis&lt;/p&gt;&lt;p&gt...",
@@ -162,24 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/LOGO_SKG_Services_Landscape-1024x442.png"
-    },
-    {
-      "title": "South Africa renewables to surpass thermal capacity by 2035, forecasts GlobalData",
-      "description": "South Africa’s power market is shifting from a coal-dominated, state-led system toward a more competitive model in which private developers build rene...",
-      "link": "https://econews.com.au/south-africa-renewables-to-surpass-thermal-capacity-by-2035-forecasts-globaldata/",
-      "pubDate": "Fri, 16 Oct 2026 04:02:05 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/11/Global-Data-logo.jpg"
-    },
-    {
-      "title": "Community comes together to restore habitat at Beremboke sanctuary",
-      "description": "One of Greater Western Water’s (GWW) Thriving Communities grants program recipients, the Sanctuary of Sentient Beings, has planted hundreds of native ...",
-      "link": "https://econews.com.au/community-comes-together-to-restore-habitat-at-beremboke-sanctuary/",
-      "pubDate": "Fri, 16 Oct 2026 04:02:04 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/unnamed-12.png"
     }
   ]
 }
