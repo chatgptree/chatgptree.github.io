@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-15T23:01:36.360Z",
+  "lastUpdated": "2026-10-16T01:12:49.280Z",
   "articles": [
+    {
+      "title": "Living with a stink? Technology might help",
+      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored....",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Oct 2026 23:18:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Watchdog Questions Zeldin’s Tour With Embattled GOP Candidates",
+      "description": "It’s not unusual for Environmental Protection Agency Administrator Lee Zeldin to be on the road touting the Trump administration’s agenda, but his tra...",
+      "link": "https://insideclimatenews.org/news/15102026/epa-admin-lee-zeldin-travels-for-policy-or-politics/",
+      "pubDate": "Thu, 15 Oct 2026 23:02:56 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "BBC Inside Science",
       "description": "How can we to compete against a natural force with the power of 25 atomic bombs?...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/10/lula-bolsonaro-brazil-election-2026.jpg"
-    },
-    {
-      "title": "Magic: The Gathering draws a bad hand with El Niño",
-      "description": "El Niño-related shipping delays have left fans waiting for the game’s latest release....",
-      "link": "https://grist.org/extreme-weather/magic-the-gathering-fans-face-shipping-delays-for-new-cards-due-to-el-nino/",
-      "pubDate": "Thu, 15 Oct 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/6e24_x486_13f1_9.jpg"
-    },
-    {
-      "title": "Little tern colony has worst breeding season",
-      "description": "Planning is under way to improve the colony for the 2027 breeding season....",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 05:19:45 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
