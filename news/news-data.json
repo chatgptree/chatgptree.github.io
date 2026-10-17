@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T19:15:02.369Z",
+  "lastUpdated": "2026-10-17T22:10:27.562Z",
   "articles": [
     {
       "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
@@ -9,6 +9,15 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
+      "description": "&lt;p&gt;&lt;strong&gt;Exclusive&lt;/strong&gt;: Research confirms official advice about high-risk properties and warns worsening conditions will make...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
+      "pubDate": "Sat, 17 Oct 2026 19:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fb7f9558ce032aba14287c04852433e83741ccb5/80_0_2400_1920/master/2400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb7f23973fed7aef66da8d019e26f8fd"
     },
     {
       "title": "The fire retardant in the seafood chain",
@@ -39,7 +48,7 @@
     },
     {
       "title": "Honeybees are barging aside wild pollinators in hunt for pollen and nectar, study finds",
-      "description": "&lt;p&gt;As a surge in beekeepers has lead to increased numbers of honeybees, researchers record them pushing bumblebees and other rival species away ...",
+      "description": "&lt;p&gt;As a surge in beekeepers has led to increased numbers of honeybees, researchers record them pushing bumblebees and other rival species away f...",
       "link": "https://www.theguardian.com/environment/2026/oct/17/honeybees-are-barging-aside-wild-pollinators-in-hunt-for-pollen-and-nectar-study-finds",
       "pubDate": "Sat, 17 Oct 2026 09:00:27 GMT",
       "sourceName": "theguardian.com",
@@ -135,15 +144,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
-      "description": "&lt;p&gt;Chancellor says government will study responses to public consultation, with airports being ‘big part of jobs and growth’&lt;/p&gt;&lt;p&gt;J...",
-      "link": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
-      "pubDate": "Fri, 16 Oct 2026 21:30:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/333e17b387269b569e2120a9f8b5552b8fa2e4d3/945_99_4829_3866/master/4829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a47ccda9fdd3c95557cd746bb99b1324"
     },
     {
       "title": "Congress has a plan to stop Trump’s attack on offshore wind. It may not be enough.",
