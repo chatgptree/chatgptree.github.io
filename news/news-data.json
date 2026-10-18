@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-18T00:49:32.974Z",
+  "lastUpdated": "2026-10-18T05:41:18.205Z",
   "articles": [
+    {
+      "title": "Corby metal pollution may harm people, says study",
+      "description": "However, the Environment Agency says it has not found evidence that could cause significant harm....",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 05:37:52 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Two damselfly species return to restored woodland",
+      "description": "A three-year project to restore woodland at seven nature reserves is completed. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 05:16:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
       "description": "&lt;p&gt;Move comes after Trump administration announced restrictions that could slash water supplies&lt;/p&gt;&lt;p&gt;Arizona has joined Nevada in i...",
@@ -162,24 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/10/Sheldon-Whitehouse-fossil-fuels.jpg"
-    },
-    {
-      "title": "US voters want more action on global heating. Why are Democrats and Republicans staying silent?",
-      "description": "&lt;p&gt;Polls show that Democrats and Republicans in battleground states want to hear more from candidates about the climate crisis&lt;/p&gt;&lt;p&gt...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates",
-      "pubDate": "Fri, 16 Oct 2026 15:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ca074d024709d32d49f0893d3b044af610aac987/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c19658cb1729ea5c042ed00195a707e3"
-    },
-    {
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions....",
-      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 14:19:50 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
