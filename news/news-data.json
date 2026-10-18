@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-17T22:10:27.562Z",
+  "lastUpdated": "2026-10-18T00:49:32.974Z",
   "articles": [
+    {
+      "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
+      "description": "&lt;p&gt;Move comes after Trump administration announced restrictions that could slash water supplies&lt;/p&gt;&lt;p&gt;Arizona has joined Nevada in i...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
+      "pubDate": "Sat, 17 Oct 2026 23:40:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1825e373dc059a7d60ace440568f406"
+    },
     {
       "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
       "description": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state....",
@@ -11,7 +20,7 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
+      "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
       "description": "&lt;p&gt;&lt;strong&gt;Exclusive&lt;/strong&gt;: Research confirms official advice about high-risk properties and warns worsening conditions will make...",
       "link": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
       "pubDate": "Sat, 17 Oct 2026 19:00:40 GMT",
@@ -171,15 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
-      "description": "&lt;p&gt;Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt&lt;/p&gt;&lt;p&gt;For almost...",
-      "link": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
-      "pubDate": "Fri, 16 Oct 2026 13:00:11 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67da7dc3427c3a82fc8f1531770d52b8cac9ee9c/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88942ae292f2a9399f9c71db7a35b011"
     }
   ]
 }
