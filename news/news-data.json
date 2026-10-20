@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-19T20:59:02.885Z",
+  "lastUpdated": "2026-10-20T00:14:58.682Z",
   "articles": [
+    {
+      "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+      "description": "&lt;p&gt;Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion&lt;/p&gt;&lt;p&gt;Col...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+      "pubDate": "Mon, 19 Oct 2026 23:17:12 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6a09d5fe50e74a79fedffca92af0aef093ad149e/457_0_4550_3640/master/4550.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98028be4cf0410d30a3b066f3ad770e7"
+    },
+    {
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas...",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 23:08:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Texas Continued Permitting Data Centers After Abbott’s Pause, Report Finds",
+      "description": "Regulators in Texas did not stop processing permits for data center projects when Gov. Greg Abbott ordered a pause last month, according to an analysi...",
+      "link": "https://insideclimatenews.org/news/19102026/texas-continued-permitting-data-centers-after-moratorium/",
+      "pubDate": "Mon, 19 Oct 2026 21:58:25 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Wyoming Environmental Groups Debate Best Way to Manage Data Center Growth in the State",
       "description": "CODY, Wyo.—On a warm October evening at a bar in downtown Cody, Wyomingites gathered to ponder the future of what some hope will be the Cowboy State’s...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
-      "description": "&lt;p&gt;Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the fastest-warming places in the...",
-      "link": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard",
-      "pubDate": "Mon, 19 Oct 2026 05:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5063f973bf5f78d337e68238325b3fc349649b42/833_0_4260_3408/master/4260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26bac72d14c2d874a444ea021076ff33"
-    },
-    {
-      "title": "Better systems to measure soil health for a more sustainable future",
-      "description": "Soil restoration experts Professor Martin Breed and Dr Craig Liddicoat at Flinders University. Up to 75% of the world’s soils are degraded, threatenin...",
-      "link": "https://econews.com.au/better-systems-to-measure-soil-health-for-a-more-sustainable-future/",
-      "pubDate": "Mon, 19 Oct 2026 04:02:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/Flinders-Uni-logo.png"
-    },
-    {
-      "title": "Cop17 at a glance: everything you need to know about the UN’s nature summit",
-      "description": "&lt;p&gt;This month’s biodiversity summit in Yerevan, Armenia, aims to push governments to meet the 23 targets agreed at Cop15 in 2022&lt;/p&gt;&lt;ul...",
-      "link": "https://www.theguardian.com/environment/2026/oct/19/environment-cop17-un-biodiversity-summit-yerevan-explainer-conservation",
-      "pubDate": "Mon, 19 Oct 2026 04:00:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0b9eece6c14f81789039f0678f656cdaeae1a5e0/414_0_4320_3458/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61539319708a2965dfe052be23e572d7"
     }
   ]
 }
