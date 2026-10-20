@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-20T16:46:56.447Z",
+  "lastUpdated": "2026-10-20T20:25:09.804Z",
   "articles": [
+    {
+      "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
+      "description": "&lt;p&gt;Move signals Andy Burnham’s commitment to North Sea industry but threatens to undermine Labour’s green credentials&lt;/p&gt;&lt;p&gt;• &lt;a ...",
+      "link": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+      "pubDate": "Tue, 20 Oct 2026 18:24:46 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/53c3d78dcdd05095dc627068f7a355aeaf623a4b/321_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2961cb96a391adda0c318f8e6cbda2e3"
+    },
+    {
+      "title": "Great white shark leaps from water and photobombs California beachgoers",
+      "description": "&lt;p&gt;Videos show shark launching several feet from water as a group of friends pose for photos along Marina state beach&lt;/p&gt;&lt;p&gt;A great ...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+      "pubDate": "Tue, 20 Oct 2026 16:45:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/19f614e306f6f9d245e3190eabb51ee1e6b01abb/854_721_3600_2879/master/3600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67aa5ff778be981700cb81d74ce9ea40"
+    },
     {
       "title": "The World Bank Has Withdrawn a Major Loan to an Agribusiness Tied to Deforestation",
       "description": "The world’s development banks continue to finance expansions of large climate-polluting livestock operations, but environmental advocates are notching...",
@@ -9,6 +27,15 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
+      "description": "&lt;p&gt;Coyote euthanized after reportedly roaming Atwater Village comfortably for months and attacking one-year-old boy&lt;/p&gt;&lt;p&gt;One &lt;a ...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+      "pubDate": "Tue, 20 Oct 2026 16:00:39 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e6d6890bb931e67a4c0ff52e845c889dbcb3e1f7/123_0_1444_1155/master/1444.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e142688429e6c8ce3f1c9a83ef711fe6"
     },
     {
       "title": "Mexico Slashes Protections for Vaquita Porpoises",
@@ -153,33 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/image002-1024x435.png"
-    },
-    {
-      "title": "Leveraging global practice for efficient EU impact reporting by non-EU companies",
-      "description": "Recognition of established sustainability disclosure in draft ESRS-40a is vital to reduce reporting burden and support a level playing field New impac...",
-      "link": "https://econews.com.au/leveraging-global-practice-for-efficient-eu-impact-reporting-by-non-eu-companies/",
-      "pubDate": "Tue, 20 Oct 2026 05:02:11 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/10/GRI-logo.png"
-    },
-    {
-      "title": "More choice, less diversity: Slow Food urges governments to turn biodiversity commitments into action at COP17",
-      "description": "©Alberto Peroli Food biodiversity is disappearing from tables, farms and food systems worldwide. At COP17, Slow Food calls on governments to take thre...",
-      "link": "https://econews.com.au/more-choice-less-diversity-slow-food-urges-governments-to-turn-biodiversity-commitments-into-action-at-cop17/",
-      "pubDate": "Tue, 20 Oct 2026 05:02:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Slow-Food-logo.png"
-    },
-    {
-      "title": "Wyong welcomes new Return and Earn depot",
-      "description": "Wyong Return and Earn Depot has been officially launched. Wyong is now home to a new Return and Earn depot designed to make recycling eligible bottles...",
-      "link": "https://econews.com.au/wyong-welcomes-new-return-and-earn-depot/",
-      "pubDate": "Tue, 20 Oct 2026 05:02:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/12/return-and-earn-logo.png"
     }
   ]
 }
