@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-10-22T15:08:35.681Z",
+  "lastUpdated": "2026-10-22T19:56:29.486Z",
   "articles": [
+    {
+      "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+      "description": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured....",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 18:48:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+      "description": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured....",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 18:48:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Every Briton should stockpile water and food supplies, government advises",
+      "description": "&lt;p&gt;Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state&lt;/p&gt;&lt;p&gt;Ev...",
+      "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+      "pubDate": "Thu, 22 Oct 2026 18:10:11 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9bb39f9137eb8f7261e23032dc2aab0c5f4b3fbf/499_512_5609_4487/master/5609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec7cfd1bed6e59001c6abf4beb04f2ed"
+    },
+    {
+      "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+      "description": "&lt;p&gt;PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’&lt;/p&gt;&lt;ul&gt;&lt;li&...",
+      "link": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+      "pubDate": "Thu, 22 Oct 2026 17:22:52 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d1fb804495654a9522a6382c4d02fa964c5d9ded/406_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8c57a517bd448ca577e4e408be97f51"
+    },
+    {
+      "title": "We will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham",
+      "description": "&lt;p&gt;Protecting jobs and strengthening energy security in the short term does not mean wavering on Labour’s deep commitment to a cleaner, greener ...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+      "pubDate": "Thu, 22 Oct 2026 17:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/04298042274ebf55fe2b3f2589afae1df2bb830f/1191_207_2049_1639/master/2049.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f7e8f9cc365e67afecb7d5ce95fdc47"
+    },
+    {
+      "title": "BBC Inside Science",
+      "description": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth....",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 16:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Weather warning in place ahead of Storm Boelo",
+      "description": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday....",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 15:14:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "description": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ...",
+      "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 15:11:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "First human case of Shamonda virus detected in France, officials say",
       "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October....",
@@ -38,15 +110,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Weather warning in place ahead of Storm Boelo",
-      "description": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday....",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 12:43:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Arizona storms topple trees and bring golf ball-sized hail in possible tornado",
       "description": "&lt;p&gt;Violent storms overnight knocked over utility poles and carried thunder and heavy winds through central Arizona&lt;/p&gt;&lt;p&gt;Trees fell ...",
       "link": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
@@ -56,8 +119,8 @@
       "image": "https://i.guim.co.uk/img/media/f297b45820bcba24517a02836a6bd55045610480/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=613daac2a7a185a15dc938e6ea45b3cf"
     },
     {
-      "title": "Chiricahua monument in Arizona is now the 64th US national park",
-      "description": "&lt;p&gt;New designation of the Land of Standing-Up Rocks, known for its historic rock spires, passed with bipartisan support&lt;/p&gt;&lt;p&gt;An are...",
+      "title": "America gets new national park with designation of Chiricahua’s rock spires",
+      "description": "&lt;p&gt;Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support&lt;/p&gt;&lt;p&gt;An area...",
       "link": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
       "pubDate": "Thu, 22 Oct 2026 12:08:40 GMT",
       "sourceName": "theguardian.com",
@@ -110,74 +173,11 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
-      "description": "&lt;p&gt;The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near empty&lt;/p&gt;&lt;p&gt;Big pharmaceutical comp...",
-      "link": "https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe",
-      "pubDate": "Thu, 22 Oct 2026 09:00:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/65926a783f6bf4b2a530f2794baa540bafd6aeff/355_0_4096_3277/master/4096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb57fd4db764c6e3937e305b8787721a"
-    },
-    {
       "title": "Farmers and Advocates Say the Global Food System Is Failing—and Its Financiers Are to Blame",
       "description": "Rising food prices. Supply chain disruptions. Wars. More extreme weather. The confluence of these factors in 2026 has prompted researchers, advocacy g...",
       "link": "https://insideclimatenews.org/news/22102026/farmers-and-advocates-say-the-global-food-system-is-failing-and-its-financiers-are-to-blame/",
       "pubDate": "Thu, 22 Oct 2026 09:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The hidden history of how Big Oil invented the American Dream",
-      "description": "From the family car to the dream kitchen, fossil fuel companies sold a vision of prosperity that depended on their own products. Grist dug up a centur...",
-      "link": "https://grist.org/culture/hidden-history-american-dream-oil-gas-investigation/",
-      "pubDate": "Thu, 22 Oct 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/DreamHouse.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Where fossil fuels are lurking in your home — room by room",
-      "description": "Tour our miniature dream house to see how oil and gas became part of everyday products....",
-      "link": "https://grist.org/culture/where-fossil-fuels-are-lurking-in-your-home-room-by-room/",
-      "pubDate": "Thu, 22 Oct 2026 08:40:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/fossil-fuel-oil-american-dream.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Soaring oil prices underscore the need to help poor countries adopt renewables",
-      "description": "Without central planning or public resources, people in developing countries are pursuing an ad hoc energy transition....",
-      "link": "https://grist.org/international/oil-prices-developing-countries-energy-transition-iran-war/",
-      "pubDate": "Thu, 22 Oct 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/Nepal-electric-tuktuk-1.jpg"
-    },
-    {
-      "title": "California just showed how home batteries will radically remake the grid",
-      "description": "Large batteries are helping homeowners keep the lights on during power outages. But they're also sending juice back to the system for others to use....",
-      "link": "https://grist.org/solutions/california-just-showed-how-home-batteries-will-radically-remake-the-grid/",
-      "pubDate": "Thu, 22 Oct 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/07/GettyImages-1025875324d.jpeg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
-      "description": "Scottish Green Mark Ruskell, the SNP’s Keith Brown and Scottish Labour’s Jenny Young weigh up the Jackdaw decision....",
-      "link": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 07:26:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Is the UK set to green-light a huge untapped oil field?",
-      "description": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic....",
-      "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 06:09:44 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
