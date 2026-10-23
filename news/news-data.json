@@ -1,11 +1,92 @@
 {
-  "lastUpdated": "2026-10-23T14:52:47.122Z",
+  "lastUpdated": "2026-10-23T19:02:51.694Z",
   "articles": [
     {
-      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+      "title": "The planet’s vital signs are getting worse. One of the easiest fixes is your diet.",
+      "description": "A lot of climate change is beyond the control of individuals alone, but how you eat can matter more than you may think....",
+      "link": "https://grist.org/food-and-agriculture/the-planets-vital-signs-are-getting-worse-one-of-the-easiest-fixes-is-your-diet/",
+      "pubDate": "Fri, 23 Oct 2026 18:53:14 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/fossil-fuel-oil-american-dream.jpg?quality=75&#038;strip=all&#038;w=768"
+    },
+    {
+      "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
+      "description": "On Saturday, Storm Boelo is forecast to bring more strong winds and heavy rain to Scotland and parts of northern England....",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 18:48:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Most of the World’s Shallow Coral Reefs Could Collapse in the Next 50 Years",
+      "description": "By 2075, the vast majority of the world’s shallow coral reefs could cease to function as both critical habitat for marine life and a lifeline for hund...",
+      "link": "https://insideclimatenews.org/news/23102026/most-of-the-worlds-shallow-coral-reefs-could-collapse-in-the-next-50-years/",
+      "pubDate": "Fri, 23 Oct 2026 18:27:41 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Landmark Youth Climate Trial Against the Canadian Government Is About to Begin",
+      "description": "In June 2013, torrential rain spurred one of the worst flooding events in Canada’s history. Sadie Vipond, who grew up in Calgary along the Bow River, ...",
+      "link": "https://insideclimatenews.org/news/23102026/a-landmark-youth-climate-trial-against-the-canadian-government-is-about-to-begin/",
+      "pubDate": "Fri, 23 Oct 2026 17:08:38 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 16:44:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 16:44:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "PFAS Contamination in Drinking Water May Be Underestimated, New Study Suggests",
+      "description": "When PFAS concentrations in drinking water fall below laboratory reporting limits, they are sometimes treated as “zero” in statistical analyses. But a...",
+      "link": "https://insideclimatenews.org/news/23102026/pfas-contamination-in-drinking-water-may-be-underestimated-new-study-suggests/",
+      "pubDate": "Fri, 23 Oct 2026 16:37:02 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
       "description": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday....",
       "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 14:44:59 GMT",
+      "pubDate": "Fri, 23 Oct 2026 16:13:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "description": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife...",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 15:30:47 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "description": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife...",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 15:30:47 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -26,7 +107,7 @@
       "pubDate": "Fri, 23 Oct 2026 13:51:10 GMT",
       "sourceName": "theguardian.com",
       "author": "",
-      "image": "https://i.guim.co.uk/img/media/6e6d4ee22eab5275b653a66fe8a910a8b070e716/363_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0854857f51f7155e15b0a9b2aae09a9"
+      "image": "https://i.guim.co.uk/img/media/42eff267592462762d01a6b8e780e7713d9f1b8d/0_8_2955_2364/master/2955.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6cf198aecdbc4fe83ebcac2e5a1c2d25"
     },
     {
       "title": "Distorted — October 28, 2026",
@@ -47,24 +128,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 13:26:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 13:26:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "October's full Hunter's Moon to light up night sky this weekend",
       "description": "October's full Moon, known as the Hunter's Moon, will rise on Sunday night. Will the weather be in your favour?...",
       "link": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,15 +137,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Suit filed to force Trump administration to address cancer-linked pesticide pollution",
-      "description": "&lt;p&gt;Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution&lt;/p&gt;&lt;p&gt;A new &lt;a h...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-      "pubDate": "Fri, 23 Oct 2026 12:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/51b7809bfc154a1462886219fce747ef4c2b3470/958_865_3923_3139/master/3923.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=806fcd7257d3dec4b6e7e6613b644001"
-    },
-    {
       "title": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
       "description": "&lt;p&gt;At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses&lt;/p&gt; &lt;a href=\"https://...",
       "link": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
@@ -90,6 +144,15 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ef541cf62fb2394a53dd360e37e63119424dd9a9/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca7a9315b8a7cea68568f8e6d4e85dfd"
+    },
+    {
+      "title": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
+      "description": "&lt;p&gt;Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution&lt;/p&gt;&lt;p&gt;A new &lt;a h...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
+      "pubDate": "Fri, 23 Oct 2026 12:00:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/51b7809bfc154a1462886219fce747ef4c2b3470/958_865_3923_3139/master/3923.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=806fcd7257d3dec4b6e7e6613b644001"
     },
     {
       "title": "Denmark nurdles may be from Tyne spill, agency says",
@@ -114,69 +177,6 @@
       "description": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday....",
       "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 09:30:03 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Researchers Find Widespread PFAs Contamination in Florida Waterways",
-      "description": "A new report suggests dozens of “forever chemicals” linked with cancer and other human health problems are prevalent in Florida waterways, reflecting ...",
-      "link": "https://insideclimatenews.org/news/23102026/researchers-find-widespread-pfas-contamination-in-florida-waterways/",
-      "pubDate": "Fri, 23 Oct 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Warming Climate Is All Over Alaska’s Senate Race. The Candidates Hardly Mention It.",
-      "description": "If you listen to the candidates running for the U.S. Senate seat in Alaska, some of the biggest issues in the race revolve around the state’s fisherie...",
-      "link": "https://insideclimatenews.org/news/23102026/a-warming-climate-is-all-over-alaskas-senate-race-the-candidates-hardly-mention-it/",
-      "pubDate": "Fri, 23 Oct 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Data Centers Are ‘Front and Center’ in Pennsylvania’s Competitive Congressional Elections",
-      "description": "ALLENTOWN, Pa.—In all her 38 years living in South Whitehall Township in the Lehigh Valley, Laurie Gilley had never attended a municipal meeting, much...",
-      "link": "https://insideclimatenews.org/news/23102026/pennsylvania-data-centers-congressional-elections/",
-      "pubDate": "Fri, 23 Oct 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives....",
-      "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 08:26:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Week in wildlife: a bookworm bear, an angelic spider and a bald hedgehog",
-      "description": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/oct/23...",
-      "link": "https://www.theguardian.com/environment/gallery/2026/oct/23/week-in-wildlife-a-bookworm-bear-an-angelic-spider-and-a-bald-hedgehog",
-      "pubDate": "Fri, 23 Oct 2026 07:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0bfbf84c51a11fc3f71349ebfd21dfedf05159e3/623_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2a3550ad500aa0710f4db2cd0219d65"
-    },
-    {
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply....",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 06:47:10 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Could experts have a solution to toxic algae?",
-      "description": "Experts from the University of Bath are testing out a new invention at a lake in Wiltshire....",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8l640xl3do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 05:17:13 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
