@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-10-24T17:20:22.031Z",
+  "lastUpdated": "2026-10-24T20:36:08.291Z",
   "articles": [
     {
-      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+      "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
       "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 17:14:39 GMT",
+      "pubDate": "Sat, 24 Oct 2026 20:03:06 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The BoM’s temperature record keeping is under attack – again. What’s going on? | Temperature Check",
+      "description": "&lt;p&gt;An ‘audit’ of the Bureau of Meteorology main dataset for measuring climate change claims it contains ‘widespread errors’. It doesn’t stack up...",
+      "link": "https://www.theguardian.com/environment/2026/oct/25/bom-temperature-record-keeping-under-attack-again",
+      "pubDate": "Sat, 24 Oct 2026 19:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/03ad4be1ad0de7eb51044e1e6cfe4258384e00c7/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3888be048607100fdc342269c9376c3d"
     },
     {
       "title": "Amber weather warning as Storm Boelo hits Scotland",
@@ -169,15 +178,6 @@
       "link": "https://insideclimatenews.org/news/23102026/boeings-demolition-of-nuclear-facility-cancer/",
       "pubDate": "Fri, 23 Oct 2026 21:21:14 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-      "description": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather....",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 21:10:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
