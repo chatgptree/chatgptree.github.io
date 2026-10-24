@@ -1,12 +1,84 @@
 {
-  "lastUpdated": "2026-10-24T09:24:19.617Z",
+  "lastUpdated": "2026-10-24T13:56:11.421Z",
   "articles": [
     {
-      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+      "title": "Storm Boelo to bring 80mph gusts and heavy rain to parts of UK",
+      "description": "&lt;p&gt;Second named storm will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen&lt;/p&gt;&lt;p&gt;The UK is br...",
+      "link": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+      "pubDate": "Sat, 24 Oct 2026 13:28:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/1bbbd982efa547b0834013560d14fe87ee504c30/282_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb6fa5eed92b389a73c772a73f6cb7a1"
+    },
+    {
+      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
       "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 09:04:21 GMT",
+      "pubDate": "Sat, 24 Oct 2026 13:08:05 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "For Black voters, climate action means little without relief from rising costs",
+      "description": "Concerns about utility bills, data centers, and pollution show why Black Americans want action from elected officials....",
+      "link": "https://grist.org/equity/for-black-voters-climate-action-means-little-without-relief-from-rising-costs/",
+      "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/08/JacksonWater.jpg?quality=75&#038;strip=all&#038;w=768"
+    },
+    {
+      "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
+      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches....",
+      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:48:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+      "description": "&lt;p&gt;Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska&lt;/p&gt;&lt;p&gt;A new Trum...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+      "pubDate": "Sat, 24 Oct 2026 11:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/79c26ebb576fd32eed1c2a1dcad425a9b727789d/275_0_2359_1887/master/2359.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=765e92f3fd6cfd531c223bf21a30e583"
+    },
+    {
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 10:04:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 10:04:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Locations of North Carolina’s Industrial Poultry Farms Have Been a Secret—Until Now",
+      "description": "A few days before Christmas in 2023, the U.S. Environmental Protection Agency received a complaint through its National Response Center: “There has be...",
+      "link": "https://insideclimatenews.org/news/24102026/north-carolina-industrial-poultry-farms-community-science/",
+      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Yes, There Is Some Global Action on Phasing Out Fossil Fuels",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tzeporah Berman, the f...",
+      "link": "https://insideclimatenews.org/news/24102026/yes-there-is-some-hopeful-global-action-on-phasing-out-fossil-fuels/",
+      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -45,15 +117,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/892fee34059c9e58ee74039c3f34f32e52326fd8/1000_515_5911_4729/master/5911.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f2469c9add5fd2fed731bf1c4ed468f"
-    },
-    {
-      "title": "Second storm to hit UK with up to 80mph gusts as hundreds still without power",
-      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches....",
-      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 06:40:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Project to restore rare native trees with DNA testing",
@@ -115,69 +178,6 @@
       "link": "https://insideclimatenews.org/news/23102026/alabamas-new-data-center-rules-still-leave-customers-in-the-dark-critics-say/",
       "pubDate": "Fri, 23 Oct 2026 19:48:08 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The planet’s vital signs are getting worse. One of the easiest fixes is your diet.",
-      "description": "A lot of climate change is beyond the control of individuals alone, but how you eat can matter more than you may think....",
-      "link": "https://grist.org/food-and-agriculture/the-planets-vital-signs-are-getting-worse-one-of-the-easiest-fixes-is-your-diet/",
-      "pubDate": "Fri, 23 Oct 2026 18:53:14 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/fossil-fuel-oil-american-dream.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Most of the World’s Shallow Coral Reefs Could Collapse in the Next 50 Years",
-      "description": "By 2075, the vast majority of the world’s shallow coral reefs could cease to function as both critical habitat for marine life and a lifeline for hund...",
-      "link": "https://insideclimatenews.org/news/23102026/most-of-the-worlds-shallow-coral-reefs-could-collapse-in-the-next-50-years/",
-      "pubDate": "Fri, 23 Oct 2026 18:27:41 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Landmark Youth Climate Trial Against the Canadian Government Is About to Begin",
-      "description": "In June 2013, torrential rain spurred one of the worst flooding events in Canada’s history. Sadie Vipond, who grew up in Calgary along the Bow River, ...",
-      "link": "https://insideclimatenews.org/news/23102026/a-landmark-youth-climate-trial-against-the-canadian-government-is-about-to-begin/",
-      "pubDate": "Fri, 23 Oct 2026 17:08:38 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 16:44:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 16:44:13 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "PFAS Contamination in Drinking Water May Be Underestimated, New Study Suggests",
-      "description": "When PFAS concentrations in drinking water fall below laboratory reporting limits, they are sometimes treated as “zero” in statistical analyses. But a...",
-      "link": "https://insideclimatenews.org/news/23102026/pfas-contamination-in-drinking-water-may-be-underestimated-new-study-suggests/",
-      "pubDate": "Fri, 23 Oct 2026 16:37:02 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
-      "description": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday....",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 16:13:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
