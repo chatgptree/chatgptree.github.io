@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-23T23:01:59.942Z",
+  "lastUpdated": "2026-10-24T04:21:45.332Z",
   "articles": [
+    {
+      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches....",
+      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 02:25:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "description": "&lt;p&gt;BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say&lt;/p&gt;&lt;p&gt;The &lt;a h...",
+      "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "pubDate": "Fri, 23 Oct 2026 23:01:16 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0d25aae5ae109f551faef3ce97d9432"
+    },
     {
       "title": "A Homeowner’s Last Stand Against Alabama Power",
       "description": "CALERA, Ala.—Fenn Church knew what he had to do.&#160; “I’m going to stand in front of that gate and say, ‘This is my home, and I’m not letting you dr...",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "October's full Hunter's Moon to light up night sky this weekend",
-      "description": "October's full Moon, known as the Hunter's Moon, will rise on Sunday night. Will the weather be in your favour?...",
-      "link": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 12:24:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
-      "description": "&lt;p&gt;At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses&lt;/p&gt; &lt;a href=\"https://...",
-      "link": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
-      "pubDate": "Fri, 23 Oct 2026 12:00:26 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ef541cf62fb2394a53dd360e37e63119424dd9a9/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca7a9315b8a7cea68568f8e6d4e85dfd"
     }
   ]
 }
