@@ -1,12 +1,21 @@
 {
-  "lastUpdated": "2026-10-24T04:21:45.332Z",
+  "lastUpdated": "2026-10-24T09:24:19.617Z",
   "articles": [
     {
-      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches....",
-      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 02:25:54 GMT",
+      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+      "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 09:04:21 GMT",
       "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A Potent Climate Super-Pollutant Is Surging in Beijing",
+      "description": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenho...",
+      "link": "https://insideclimatenews.org/news/24102026/sf6-climate-super-pollutant-surges-in-beijing/",
+      "pubDate": "Sat, 24 Oct 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -14,10 +23,64 @@
       "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
       "description": "&lt;p&gt;BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say&lt;/p&gt;&lt;p&gt;The &lt;a h...",
       "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-      "pubDate": "Fri, 23 Oct 2026 23:01:16 GMT",
+      "pubDate": "Sat, 24 Oct 2026 08:32:56 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0d25aae5ae109f551faef3ce97d9432"
+    },
+    {
+      "title": "Weather warnings in place ahead of Storm Boelo",
+      "description": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday....",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 08:28:49 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
+      "description": "&lt;p&gt;Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads&lt;/p&gt;&lt;p&gt;Po...",
+      "link": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
+      "pubDate": "Sat, 24 Oct 2026 07:00:27 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/892fee34059c9e58ee74039c3f34f32e52326fd8/1000_515_5911_4729/master/5911.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f2469c9add5fd2fed731bf1c4ed468f"
+    },
+    {
+      "title": "Second storm to hit UK with up to 80mph gusts as hundreds still without power",
+      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches....",
+      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 06:40:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Project to restore rare native trees with DNA testing",
+      "description": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss....",
+      "link": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 06:17:32 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Historic swimming pond to be restored",
+      "description": "Specialists are looking at how to clear the Cornwall bath house pond and understand the tidal inlet....",
+      "link": "https://www.bbc.co.uk/news/articles/c5lyellrmlego?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 06:08:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The people on standby when a storm strikes",
+      "description": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it....",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 05:44:22 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "A Homeowner’s Last Stand Against Alabama Power",
@@ -52,15 +115,6 @@
       "link": "https://insideclimatenews.org/news/23102026/alabamas-new-data-center-rules-still-leave-customers-in-the-dark-critics-say/",
       "pubDate": "Fri, 23 Oct 2026 19:48:08 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
-      "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 19:31:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
@@ -123,60 +177,6 @@
       "description": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday....",
       "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 16:13:11 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "description": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife...",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "description": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife...",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Weather warnings in place ahead of Storm Boelo",
-      "description": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday....",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 14:37:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "UK government to make unprecedented intervention in setting of water bills",
-      "description": "&lt;p&gt;Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’&lt;/p&gt;&lt;p&gt;Ministers will...",
-      "link": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
-      "pubDate": "Fri, 23 Oct 2026 13:51:10 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/42eff267592462762d01a6b8e780e7713d9f1b8d/0_8_2955_2364/master/2955.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6cf198aecdbc4fe83ebcac2e5a1c2d25"
-    },
-    {
-      "title": "Distorted — October 28, 2026",
-      "description": "Join Grist and Climate Central for a conversation about truth and trust in the age of climate disasters...",
-      "link": "https://grist.org/grist-events/distorted-october-28-2026/",
-      "pubDate": "Fri, 23 Oct 2026 13:49:05 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Why should I stockpile and what will I need?",
-      "description": "The UK government has warned households to have three days of essential supplies on hand....",
-      "link": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 13:30:32 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
