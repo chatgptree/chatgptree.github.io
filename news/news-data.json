@@ -1,11 +1,29 @@
 {
-  "lastUpdated": "2026-10-24T20:36:08.291Z",
+  "lastUpdated": "2026-10-24T23:03:58.584Z",
   "articles": [
+    {
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward....",
+      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 23:02:51 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
+      "description": "&lt;p&gt;Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday&lt;/p&gt;&lt;p&gt;Amber weather warnings ...",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
+      "pubDate": "Sat, 24 Oct 2026 22:40:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e74a18fb3f5eb4f9cbf2c1d5fd48da3858c91d1b/376_0_4877_3903/master/4877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fe27c5250f25a304b98ab163a56fc6b"
+    },
     {
       "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
       "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 20:03:06 GMT",
+      "pubDate": "Sat, 24 Oct 2026 22:39:52 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -160,24 +178,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 05:44:22 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Homeowner’s Last Stand Against Alabama Power",
-      "description": "CALERA, Ala.—Fenn Church knew what he had to do.&#160; “I’m going to stand in front of that gate and say, ‘This is my home, and I’m not letting you dr...",
-      "link": "https://insideclimatenews.org/news/23102026/a-homeowners-last-stand-against-alabama-power/",
-      "pubDate": "Fri, 23 Oct 2026 21:25:04 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Boeing&#8217;s Demolition of a California Nuclear Testing Facility Has Nearby Families Worried About Cancer",
-      "description": "Boeing has almost completed the demolition of five buildings at its infamous Santa Susana Field Laboratory in Southern California, even as concerns mo...",
-      "link": "https://insideclimatenews.org/news/23102026/boeings-demolition-of-nuclear-facility-cancer/",
-      "pubDate": "Fri, 23 Oct 2026 21:21:14 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
