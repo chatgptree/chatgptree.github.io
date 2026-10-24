@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-24T13:56:11.421Z",
+  "lastUpdated": "2026-10-24T17:20:22.031Z",
   "articles": [
+    {
+      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+      "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 17:14:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Amber weather warning as Storm Boelo hits Scotland",
+      "description": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday....",
+      "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 14:40:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Storm Boelo to bring 80mph gusts and heavy rain to parts of UK",
       "description": "&lt;p&gt;Second named storm will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen&lt;/p&gt;&lt;p&gt;The UK is br...",
@@ -9,15 +27,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1bbbd982efa547b0834013560d14fe87ee504c30/282_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb6fa5eed92b389a73c772a73f6cb7a1"
-    },
-    {
-      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-      "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 13:08:05 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "For Black voters, climate action means little without relief from rising costs",
@@ -169,15 +178,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 21:10:47 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Alabama’s New Data Center Rules Still Leave Customers in the Dark, Critics Say",
-      "description": "Nearly all observers agree that Alabama’s new data center policies released this week are an improvement over the state’s old rules, which treat massi...",
-      "link": "https://insideclimatenews.org/news/23102026/alabamas-new-data-center-rules-still-leave-customers-in-the-dark-critics-say/",
-      "pubDate": "Fri, 23 Oct 2026 19:48:08 +0000",
-      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
