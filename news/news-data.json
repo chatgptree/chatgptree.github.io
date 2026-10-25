@@ -1,29 +1,65 @@
 {
-  "lastUpdated": "2026-10-25T14:14:37.977Z",
+  "lastUpdated": "2026-10-25T18:19:30.442Z",
   "articles": [
     {
-      "title": "Flight disruption and thousands without electricity after Storm Boelo",
-      "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure....",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 13:50:04 GMT",
+      "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
+      "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK....",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 17:56:18 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
+      "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland....",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 17:49:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US south-west braces for more flooding after stretch of heavy rain and storms",
+      "description": "&lt;p&gt;More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week&lt;/p&gt;&lt;p&gt;A rain-soaked sw...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+      "pubDate": "Sun, 25 Oct 2026 17:46:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6908444a2ea983ebe5fc8fabd4ba35c9ffe2663e/85_0_1705_1365/master/1705.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c682306dca090d2bf3a32c022a3f696"
+    },
+    {
+      "title": "The Guardian view on Oxford Street’s pedestrianisation: cities should be designed around people, not cars | Editorial",
+      "description": "&lt;p&gt;The transformation of Europe’s busiest shopping street should be a case study in making cities greener, less congested and more inviting plac...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
+      "pubDate": "Sun, 25 Oct 2026 17:25:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/853c4cc5b4cef20225119306fd51261424ec1e20/595_0_2324_1860/master/2324.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e7fdbd0556b60e742296eb5bd702e69"
+    },
+    {
+      "title": "When will the weather settle after Storm Boelo?",
+      "description": "Gillian Smart has the weather forecast after the worst of Storm Boelo....",
+      "link": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 17:04:32 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
       "title": "Travel disruption and power cuts after back-to-back storms",
-      "description": "Hundreds of homes have been without power while there is disruption on roads, rail and ferry....",
+      "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen....",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 13:45:16 GMT",
+      "pubDate": "Sun, 25 Oct 2026 15:58:33 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
-      "description": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday....",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 13:25:04 GMT",
+      "title": "Flight disruption and thousands without electricity after Storm Boelo",
+      "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure....",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 15:14:26 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
-      "description": "&lt;p&gt;Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday&lt;/p&gt;&lt;p&gt;Amber weather warnings ...",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
-      "pubDate": "Sat, 24 Oct 2026 22:40:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e74a18fb3f5eb4f9cbf2c1d5fd48da3858c91d1b/376_0_4877_3903/master/4877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fe27c5250f25a304b98ab163a56fc6b"
-    },
-    {
-      "title": "The BoM’s temperature record keeping is under attack – again. What’s going on? | Temperature Check",
-      "description": "&lt;p&gt;An ‘audit’ of the Bureau of Meteorology main dataset for measuring climate change claims it contains ‘widespread errors’. It doesn’t stack up...",
-      "link": "https://www.theguardian.com/environment/2026/oct/25/bom-temperature-record-keeping-under-attack-again",
-      "pubDate": "Sat, 24 Oct 2026 19:00:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/03ad4be1ad0de7eb51044e1e6cfe4258384e00c7/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3888be048607100fdc342269c9376c3d"
-    },
-    {
-      "title": "Amber weather warning as Storm Boelo hits Scotland",
-      "description": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday....",
-      "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 14:40:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Storm Boelo to bring 80mph gusts and heavy rain to parts of UK",
-      "description": "&lt;p&gt;Second named storm will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen&lt;/p&gt;&lt;p&gt;The UK is br...",
-      "link": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
-      "pubDate": "Sat, 24 Oct 2026 13:28:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/1bbbd982efa547b0834013560d14fe87ee504c30/282_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb6fa5eed92b389a73c772a73f6cb7a1"
     }
   ]
 }
