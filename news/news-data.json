@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-10-25T18:19:30.442Z",
+  "lastUpdated": "2026-10-25T21:37:37.899Z",
   "articles": [
     {
-      "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
-      "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK....",
+      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+      "description": "An amber wind warning has now expired after severe weather sweeps across the UK....",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 17:56:18 GMT",
+      "pubDate": "Sun, 25 Oct 2026 21:30:15 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+      "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland....",
+      "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 21:11:43 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,19 +23,55 @@
       "title": "Man killed by falling tree as Storm Boelo batters Scotland",
       "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland....",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 17:49:38 GMT",
+      "pubDate": "Sun, 25 Oct 2026 21:09:58 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "US south-west braces for more flooding after stretch of heavy rain and storms",
-      "description": "&lt;p&gt;More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week&lt;/p&gt;&lt;p&gt;A rain-soaked sw...",
+      "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
+      "description": "&lt;p&gt;Chancellor is in favour of North Sea project, but energy secretary has said she is leaning towards rejecting it&lt;/p&gt;&lt;p&gt;A cabinet s...",
+      "link": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
+      "pubDate": "Sun, 25 Oct 2026 20:29:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b2ce70c2ceab2ca5a147ab99f52dfe4e4b68a9c7/1708_2735_3588_2867/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad06ae3f85d59e07cc95370e7469836e"
+    },
+    {
+      "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
+      "description": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure....",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 20:15:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The aftermath of Storm Boelo across Scotland",
+      "description": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland....",
+      "link": "https://www.bbc.co.uk/news/videos/cr3wvzl947q7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 19:31:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "US south-west braces for more storms after enduring days of rain and flooding",
+      "description": "&lt;p&gt;More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week&lt;/p&gt;&lt;p&gt;Another round of...",
       "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-      "pubDate": "Sun, 25 Oct 2026 17:46:48 GMT",
+      "pubDate": "Sun, 25 Oct 2026 19:02:51 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6908444a2ea983ebe5fc8fabd4ba35c9ffe2663e/85_0_1705_1365/master/1705.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c682306dca090d2bf3a32c022a3f696"
+    },
+    {
+      "title": "Travel disruption and power cuts after back-to-back storms",
+      "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen....",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 18:50:09 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
     },
     {
       "title": "The Guardian view on Oxford Street’s pedestrianisation: cities should be designed around people, not cars | Editorial",
@@ -42,24 +87,6 @@
       "description": "Gillian Smart has the weather forecast after the worst of Storm Boelo....",
       "link": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 25 Oct 2026 17:04:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Travel disruption and power cuts after back-to-back storms",
-      "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen....",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 15:58:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Flight disruption and thousands without electricity after Storm Boelo",
-      "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure....",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 15:14:26 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -150,33 +177,6 @@
       "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate....",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 25 Oct 2026 07:15:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate....",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 07:15:38 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Helcro Solar: New Rules Cut Commercial Solar Costs by 20% for Businesses, Strata and Farms",
-      "description": "House with solar Helcro Solar Key facts: The Australian Small-scale Renewable Energy Scheme (SRES) expanded on 1 October to cover systems up to 1 mega...",
-      "link": "https://econews.com.au/helcro-solar-new-rules-cut-commercial-solar-costs-by-20-for-businesses-strata-and-farms/",
-      "pubDate": "Sun, 25 Oct 2026 07:02:14 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward....",
-      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 23:02:51 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
