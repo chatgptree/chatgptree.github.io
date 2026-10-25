@@ -1,20 +1,83 @@
 {
-  "lastUpdated": "2026-10-25T09:42:44.166Z",
+  "lastUpdated": "2026-10-25T14:14:37.977Z",
   "articles": [
     {
-      "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
-      "description": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday....",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 09:33:29 GMT",
+      "title": "Flight disruption and thousands without electricity after Storm Boelo",
+      "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure....",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 13:50:04 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
-      "description": "More than 500 homes are without power and flooding and felled trees have been reported on roads....",
+      "title": "Travel disruption and power cuts after back-to-back storms",
+      "description": "Hundreds of homes have been without power while there is disruption on roads, rail and ferry....",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 09:28:30 GMT",
+      "pubDate": "Sun, 25 Oct 2026 13:45:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
+      "description": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday....",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 13:25:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Higher temperatures fuel gun violence. Now we know how much is from climate change.",
+      "description": "A new Climate Central analysis measures how many shooting incidents are linked to rising heat....",
+      "link": "https://grist.org/extreme-heat/higher-temperatures-fuel-gun-violence-now-we-know-how-much-is-from-climate-change/",
+      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-2.04.07-PM.png"
+    },
+    {
+      "title": "Police using AI risks making discrimination worse, researchers warn",
+      "description": "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say....",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 12:18:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "'What was in the Clyde is basically now on the shore'",
+      "description": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country....",
+      "link": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 11:42:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
+      "description": "&lt;p&gt;Every autumn, Corvo Island in the Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attemp...",
+      "link": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
+      "pubDate": "Sun, 25 Oct 2026 11:00:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/63b9af7209a505695cd1ba9b5f0ff2ec06943393/168_0_1719_1376/master/1719.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6a55d16ed120f699d9de0254749ba87"
+    },
+    {
+      "title": "More wet and windy weather to follow stormy weekend",
+      "description": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week....",
+      "link": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 10:16:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+      "description": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March....",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 09:59:50 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -33,15 +96,6 @@
       "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity....",
       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Thousands without electricity as Storm Boelo hits",
-      "description": "An amber warning is in force across parts of County Antrim and County Londonderry until 10:00 GMT on Sunday....",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 08:53:04 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -126,60 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/1bbbd982efa547b0834013560d14fe87ee504c30/282_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb6fa5eed92b389a73c772a73f6cb7a1"
-    },
-    {
-      "title": "For Black voters, climate action means little without relief from rising costs",
-      "description": "Concerns about utility bills, data centers, and pollution show why Black Americans want action from elected officials....",
-      "link": "https://grist.org/equity/for-black-voters-climate-action-means-little-without-relief-from-rising-costs/",
-      "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/JacksonWater.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
-      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches....",
-      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 11:48:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
-      "description": "&lt;p&gt;Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska&lt;/p&gt;&lt;p&gt;A new Trum...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
-      "pubDate": "Sat, 24 Oct 2026 11:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/79c26ebb576fd32eed1c2a1dcad425a9b727789d/275_0_2359_1887/master/2359.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=765e92f3fd6cfd531c223bf21a30e583"
-    },
-    {
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 10:04:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines....",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 10:04:29 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Locations of North Carolina’s Industrial Poultry Farms Have Been a Secret—Until Now",
-      "description": "A few days before Christmas in 2023, the U.S. Environmental Protection Agency received a complaint through its National Response Center: “There has be...",
-      "link": "https://insideclimatenews.org/news/24102026/north-carolina-industrial-poultry-farms-community-science/",
-      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
