@@ -1,11 +1,56 @@
 {
-  "lastUpdated": "2026-10-25T04:25:45.011Z",
+  "lastUpdated": "2026-10-25T09:42:44.166Z",
   "articles": [
     {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate....",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 23:15:18 GMT",
+      "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
+      "description": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday....",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 09:33:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+      "description": "More than 500 homes are without power and flooding and felled trees have been reported on roads....",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 09:28:30 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Amid Iowa’s Water Crisis, Factory Farms Get a Pass on Environmental Permitting",
+      "description": "Feeding the Beast: Third in a series about lax regulation, corporate influence and the heavily polluting, yet nearly untouchable American meat industr...",
+      "link": "https://insideclimatenews.org/news/25102026/iowa-factory-farms-manure-water-pollution/",
+      "pubDate": "Sun, 25 Oct 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity....",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Thousands without electricity as Storm Boelo hits",
+      "description": "An amber warning is in force across parts of County Antrim and County Londonderry until 10:00 GMT on Sunday....",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 08:53:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Seabirds and sewage among UNESCO status challenges",
+      "description": "A report marking 10 years of the Isle of Man as a UNESCO Biosphere highlights the scheme's progress....",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 07:22:57 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -14,10 +59,28 @@
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate....",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 23:15:18 GMT",
+      "pubDate": "Sun, 25 Oct 2026 07:15:38 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate....",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 07:15:38 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Helcro Solar: New Rules Cut Commercial Solar Costs by 20% for Businesses, Strata and Farms",
+      "description": "House with solar Helcro Solar Key facts: The Australian Small-scale Renewable Energy Scheme (SRES) expanded on 1 October to cover systems up to 1 mega...",
+      "link": "https://econews.com.au/helcro-solar-new-rules-cut-commercial-solar-costs-by-20-for-businesses-strata-and-farms/",
+      "pubDate": "Sun, 25 Oct 2026 07:02:14 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     },
     {
       "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
@@ -36,15 +99,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/e74a18fb3f5eb4f9cbf2c1d5fd48da3858c91d1b/376_0_4877_3903/master/4877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fe27c5250f25a304b98ab163a56fc6b"
-    },
-    {
-      "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
-      "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast....",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 22:39:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "The BoM’s temperature record keeping is under attack – again. What’s going on? | Temperature Check",
@@ -124,60 +178,6 @@
       "link": "https://insideclimatenews.org/news/24102026/north-carolina-industrial-poultry-farms-community-science/",
       "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
       "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Yes, There Is Some Global Action on Phasing Out Fossil Fuels",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tzeporah Berman, the f...",
-      "link": "https://insideclimatenews.org/news/24102026/yes-there-is-some-hopeful-global-action-on-phasing-out-fossil-fuels/",
-      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A Potent Climate Super-Pollutant Is Surging in Beijing",
-      "description": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenho...",
-      "link": "https://insideclimatenews.org/news/24102026/sf6-climate-super-pollutant-surges-in-beijing/",
-      "pubDate": "Sat, 24 Oct 2026 08:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-      "description": "&lt;p&gt;BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say&lt;/p&gt;&lt;p&gt;The &lt;a h...",
-      "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-      "pubDate": "Sat, 24 Oct 2026 08:32:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0d25aae5ae109f551faef3ce97d9432"
-    },
-    {
-      "title": "Weather warnings in place ahead of Storm Boelo",
-      "description": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday....",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 08:28:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
-      "description": "&lt;p&gt;Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads&lt;/p&gt;&lt;p&gt;Po...",
-      "link": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
-      "pubDate": "Sat, 24 Oct 2026 07:00:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/892fee34059c9e58ee74039c3f34f32e52326fd8/1000_515_5911_4729/master/5911.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f2469c9add5fd2fed731bf1c4ed468f"
-    },
-    {
-      "title": "Project to restore rare native trees with DNA testing",
-      "description": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss....",
-      "link": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 06:17:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
