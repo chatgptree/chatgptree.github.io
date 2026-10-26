@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-10-25T21:37:37.899Z",
+  "lastUpdated": "2026-10-26T00:03:49.156Z",
   "articles": [
     {
-      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+      "title": "Majority of homes in NI have power restored after Storm Boelo",
+      "description": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage....",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 23:53:04 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
       "description": "An amber wind warning has now expired after severe weather sweeps across the UK....",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 21:30:15 GMT",
+      "pubDate": "Sun, 25 Oct 2026 22:24:16 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -36,15 +45,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b2ce70c2ceab2ca5a147ab99f52dfe4e4b68a9c7/1708_2735_3588_2867/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad06ae3f85d59e07cc95370e7469836e"
-    },
-    {
-      "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-      "description": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure....",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 20:15:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "The aftermath of Storm Boelo across Scotland",
