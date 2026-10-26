@@ -1,6 +1,159 @@
 {
-  "lastUpdated": "2026-10-26T05:57:34.913Z",
+  "lastUpdated": "2026-10-26T12:47:19.848Z",
   "articles": [
+    {
+      "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws critcism",
+      "description": "&lt;p&gt;Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals&lt;/p&gt;&l...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+      "pubDate": "Mon, 26 Oct 2026 12:00:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=914ee100d36f637812775123342cb0b6"
+    },
+    {
+      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+      "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds....",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 12:00:20 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "description": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend....",
+      "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 11:27:39 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Storm Boelo clears but more wind and rain bear down on UK",
+      "description": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday....",
+      "link": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 11:21:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What do we still need to know about the Tyne nurdle spill?",
+      "description": "The spill of 18 tonnes of plastic pellets happened in July but there is still a lot we do not know....",
+      "link": "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 11:01:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Battleground Ballots",
+      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News. This year’s midterm elections are quickly approaching and control of Congr...",
+      "link": "https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/",
+      "pubDate": "Mon, 26 Oct 2026 09:30:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Typhoon Champi declared strongest storm of year so far",
+      "description": "&lt;p&gt;One dead and 527 injured as winds of up to 185mph hit Taiwan and southern Japan, while Greece issues flood alerts&lt;/p&gt;&lt;p&gt;Typhoon C...",
+      "link": "https://www.theguardian.com/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods",
+      "pubDate": "Mon, 26 Oct 2026 09:28:59 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/82f80ccc07bb29b20e14a9a3f8d0c0cd95280e1d/651_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=033b11822b91d817f309396c34e47537"
+    },
+    {
+      "title": "Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans",
+      "description": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force. So are top Trump administrati...",
+      "link": "https://insideclimatenews.org/news/26102026/ahead-of-midterms-republicans-court-iowa-farmers-with-fuel-plans/",
+      "pubDate": "Mon, 26 Oct 2026 09:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Production Agriculture Is Driving Grasslands Loss Across North America",
+      "description": "Commodity crops are continuing to eat up the vast, near-mythical sweep of North American grasslands, with nearly 2 million acres being plowed under ev...",
+      "link": "https://insideclimatenews.org/news/26102026/production-agriculture-is-driving-grasslands-loss-across-north-america/",
+      "pubDate": "Mon, 26 Oct 2026 08:59:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why clean energy opponents in Michigan are backing a climate activist for Congress",
+      "description": "William Lawrence helped found the Sunrise Movement. Now he's running against data centers — and large-scale solar....",
+      "link": "https://grist.org/elections/will-lawrence-congress-sunrise-michigan-solar-data-centers/",
+      "pubDate": "Mon, 26 Oct 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/Saline-Township-data-center.jpg"
+    },
+    {
+      "title": "Thwaites is a runaway climate disaster. New studies show how.",
+      "description": "The \"Doomsday Glacier\" could drown coastlines around the world. And the outlook is getting worse....",
+      "link": "https://grist.org/science/thwaites-runaway-climate-disaster-new-studies-show/",
+      "pubDate": "Mon, 26 Oct 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate change rarely goes on trial. This one could be a landmark.",
+      "description": "Fifteen young Canadians say their government’s failure to curb emissions violates their constitutional right to life, liberty, and security....",
+      "link": "https://grist.org/climate/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/",
+      "pubDate": "Mon, 26 Oct 2026 08:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2025/01/Rikki-Held.jpg?quality=75&#038;strip=all&#038;w=768"
+    },
+    {
+      "title": "California has a plan for El Niño’s torrential rain: Save it for later",
+      "description": "Historically, the phenomenon has walloped the Golden State with deluges. Here's how it will capture and store that bounty for the dry years ahead....",
+      "link": "https://grist.org/cities/california-has-a-plan-for-el-ninos-torrential-rain-save-it-for-later/",
+      "pubDate": "Mon, 26 Oct 2026 08:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Plans to create a wildflower meadow take shape",
+      "description": "Fairstead Recreation Ground is being planted with wildflowers to benefit insects and pollinators....",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx5qyrl45o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 06:33:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Weary driver creates AI 'litter-tracking dashcam'",
+      "description": "Robin Bennett says he created the app after getting frustrated by the amount of rubbish beside roads...",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2v3ky1ek7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 06:18:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The dump detectives on the trail of the fly-tippers",
+      "description": "The BBC joins environmental enforcement officers as they sift through illegally-dumped waste for clues....",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0ry25y32wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 06:09:56 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Fire-hit nature reserve 'will never be the same'",
+      "description": "Three months on from a devastating wildfire, the RSPB says it will take 20 years to recover....",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxk9w9rqjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 06:03:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Reuseable Beeswax Offers a Natural Alternative to Kitchen Plastic",
       "description": "Plastic-free, breathable and reusable – Apiwraps offer natural food freshness without disposable plastic wrap. That’s a Wrap! Reusable beeswax food wr...",
@@ -27,159 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Fears for Lake Macquarie’s flying-foxes as starvation event spreads",
-      "description": "Flying foxes roosting at Blackalls Park Lake Macquarie residents are urged to be on the lookout for sick and injured flying-foxes as local wildlife ca...",
-      "link": "https://econews.com.au/fears-for-lake-macquaries-flying-foxes-as-starvation-event-spreads/",
-      "pubDate": "Mon, 26 Oct 2026 05:02:13 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/09/Lake-Macquarie-logo.jpg"
-    },
-    {
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-      "description": "An amber wind warning has now expired after severe weather sweeps across the UK....",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 04:41:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "From agriculture to AI-griculture: How tech is changing farming",
-      "description": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology....",
-      "link": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 00:13:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Majority of homes in NI have power restored after Storm Boelo",
-      "description": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage....",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 23:53:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-      "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland....",
-      "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 21:11:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-      "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland....",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 21:09:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
-      "description": "&lt;p&gt;Chancellor is in favour of North Sea project, but energy secretary has said she is leaning towards rejecting it&lt;/p&gt;&lt;p&gt;A cabinet s...",
-      "link": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
-      "pubDate": "Sun, 25 Oct 2026 20:29:25 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b2ce70c2ceab2ca5a147ab99f52dfe4e4b68a9c7/1708_2735_3588_2867/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad06ae3f85d59e07cc95370e7469836e"
-    },
-    {
-      "title": "The aftermath of Storm Boelo across Scotland",
-      "description": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland....",
-      "link": "https://www.bbc.co.uk/news/videos/cr3wvzl947q7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 19:31:36 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "US south-west braces for more storms after enduring days of rain and flooding",
-      "description": "&lt;p&gt;More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week&lt;/p&gt;&lt;p&gt;Another round of...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-      "pubDate": "Sun, 25 Oct 2026 19:02:51 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6908444a2ea983ebe5fc8fabd4ba35c9ffe2663e/85_0_1705_1365/master/1705.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c682306dca090d2bf3a32c022a3f696"
-    },
-    {
-      "title": "Travel disruption and power cuts after back-to-back storms",
-      "description": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen....",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 18:50:09 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Guardian view on Oxford Street’s pedestrianisation: cities should be designed around people, not cars | Editorial",
-      "description": "&lt;p&gt;The transformation of Europe’s busiest shopping street should be a case study in making cities greener, less congested and more inviting plac...",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
-      "pubDate": "Sun, 25 Oct 2026 17:25:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/853c4cc5b4cef20225119306fd51261424ec1e20/595_0_2324_1860/master/2324.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e7fdbd0556b60e742296eb5bd702e69"
-    },
-    {
-      "title": "When will the weather settle after Storm Boelo?",
-      "description": "Gillian Smart has the weather forecast after the worst of Storm Boelo....",
-      "link": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 17:04:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Higher temperatures fuel gun violence. Now we know how much is from climate change.",
-      "description": "A new Climate Central analysis measures how many shooting incidents are linked to rising heat....",
-      "link": "https://grist.org/extreme-heat/higher-temperatures-fuel-gun-violence-now-we-know-how-much-is-from-climate-change/",
-      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-2.04.07-PM.png"
-    },
-    {
-      "title": "Police using AI risks making discrimination worse, researchers warn",
-      "description": "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say....",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 12:18:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'What was in the Clyde is basically now on the shore'",
-      "description": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country....",
-      "link": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 11:42:17 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
-      "description": "&lt;p&gt;Every autumn, Corvo Island in the Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attemp...",
-      "link": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
-      "pubDate": "Sun, 25 Oct 2026 11:00:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/63b9af7209a505695cd1ba9b5f0ff2ec06943393/168_0_1719_1376/master/1719.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6a55d16ed120f699d9de0254749ba87"
-    },
-    {
-      "title": "More wet and windy weather to follow stormy weekend",
-      "description": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week....",
-      "link": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 10:16:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
