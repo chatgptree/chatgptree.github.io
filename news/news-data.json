@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-26T19:08:27.717Z",
+  "lastUpdated": "2026-10-26T23:43:20.110Z",
   "articles": [
+    {
+      "title": "New weather warnings as third storm set to hit Scotland",
+      "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend....",
+      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 23:00:14 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern...",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 22:43:44 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate Activists Celebrate Lula’s Win in Brazil, but Warn the Fight Is Far From Over",
+      "description": "Environmentalists worldwide are celebrating the re-election of Brazilian President Luiz Inácio Lula da Silva as a win for the Amazon’s future and glob...",
+      "link": "https://insideclimatenews.org/news/26102026/brazil-presidential-election-environmental-victory/",
+      "pubDate": "Mon, 26 Oct 2026 22:35:59 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Political battle intensifies within Labour over Rosebank oil field",
       "description": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans....",
@@ -24,15 +51,6 @@
       "description": "Wedding guests at an island in County Fermanagh were left stranded due to the storm. ...",
       "link": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 26 Oct 2026 18:09:39 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-      "description": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern...",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 17:22:51 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -160,24 +178,6 @@
       "link": "https://grist.org/solutions/california-has-a-plan-for-el-ninos-torrential-rain-save-it-for-later/",
       "pubDate": "Mon, 26 Oct 2026 08:00:00 +0000",
       "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Plans to create a wildflower meadow take shape",
-      "description": "Fairstead Recreation Ground is being planted with wildflowers to benefit insects and pollinators....",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx5qyrl45o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 06:33:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Weary driver creates AI 'litter-tracking dashcam'",
-      "description": "Robin Bennett says he created the app after getting frustrated by the amount of rubbish beside roads...",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2v3ky1ek7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 06:18:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     }
