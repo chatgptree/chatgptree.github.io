@@ -1,20 +1,92 @@
 {
-  "lastUpdated": "2026-10-27T04:47:33.663Z",
+  "lastUpdated": "2026-10-27T10:21:17.910Z",
   "articles": [
     {
-      "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
-      "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern...",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 04:13:56 GMT",
-      "sourceName": "feeds.bbci.co.uk",
+      "title": "As Election Day Nears, a Key House Race Remains in Flux",
+      "description": "NY-17: Fourth in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. After the Democratic pri...",
+      "link": "https://insideclimatenews.org/news/27102026/new-york-17-key-house-race-data-centers-nuclear-power/",
+      "pubDate": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo",
+      "description": "Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the st...",
+      "link": "https://insideclimatenews.org/news/27102026/florida-governor-election-everglades/",
+      "pubDate": "Tue, 27 Oct 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "High power bills, blackouts land Michigan utilities on the ballot",
+      "description": "A ballot measure could test the limits of how states can curb corporate influence in politics....",
+      "link": "https://grist.org/elections/high-power-bills-blackouts-land-michigan-utilities-on-the-ballot/",
+      "pubDate": "Tue, 27 Oct 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/02/electric-bills-energy-cost.jpg?quality=75&#038;strip=all&#038;w=768"
+    },
+    {
+      "title": "As extreme heat worsens, renters are gaining a &#8216;right to cooling&#8217;",
+      "description": "New laws are treating cooling as a necessity rather than a luxury, though what landlords must provide varies widely....",
+      "link": "https://grist.org/extreme-heat/as-extreme-heat-worsens-renters-are-gaining-a-right-to-cooling/",
+      "pubDate": "Tue, 27 Oct 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/extreme-heat-cooling-renters-air-conditioning-right-to-cooling-apartments.jpeg"
+    },
+    {
+      "title": "Burnham in danger of sleepwalking into climate disaster, say campaigners",
+      "description": "&lt;p&gt;Letter to PM argues series of wrong choices on North Sea oil, Heathrow, EVs and heat pumps will scupper net zero plans&lt;/p&gt;&lt;p&gt;Andy...",
+      "link": "https://www.theguardian.com/environment/2026/oct/27/burnham-sleepwalking-climate-disaster-campaigners",
+      "pubDate": "Tue, 27 Oct 2026 07:00:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a6ffefcb171c3aa55719d701a91d724b05f661ea/305_0_6778_5421/master/6778.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=813dfa8a206aea34ee0a2b681d6dbd71"
+    },
+    {
+      "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
+      "description": "&lt;p&gt;Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans&lt;/p&gt;&l...",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+      "pubDate": "Tue, 27 Oct 2026 07:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f99b2c27b0b6e3bc4b2140de4812872"
     },
     {
       "title": "New weather warnings as third storm set to hit Scotland",
       "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend....",
       "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 23:00:14 GMT",
+      "pubDate": "Tue, 27 Oct 2026 06:35:26 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Tiny zebra-striped bee in West a 'huge surprise'",
+      "description": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes....",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 06:20:58 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds",
+      "description": "&lt;p&gt;Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate action&lt;/p&gt;&lt;p&gt;The world’s...",
+      "link": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
+      "pubDate": "Tue, 27 Oct 2026 05:00:02 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c246222128568ae77ecdb34d790cba1d02d7901a/0_0_6793_5435/master/6793.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca216a7352f9e94d9845c99b0c392ccf"
+    },
+    {
+      "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
+      "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern...",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 04:13:56 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
@@ -106,78 +178,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 26 Oct 2026 11:01:59 GMT",
       "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Battleground Ballots",
-      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News. This year’s midterm elections are quickly approaching and control of Congr...",
-      "link": "https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/",
-      "pubDate": "Mon, 26 Oct 2026 09:30:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Typhoon Champi declared strongest storm of year so far",
-      "description": "&lt;p&gt;One dead and 527 injured as winds of up to 185mph hit Taiwan and southern Japan, while Greece issues flood alerts&lt;/p&gt;&lt;p&gt;Typhoon C...",
-      "link": "https://www.theguardian.com/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods",
-      "pubDate": "Mon, 26 Oct 2026 09:28:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/82f80ccc07bb29b20e14a9a3f8d0c0cd95280e1d/651_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=033b11822b91d817f309396c34e47537"
-    },
-    {
-      "title": "Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans",
-      "description": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force. So are top Trump administrati...",
-      "link": "https://insideclimatenews.org/news/26102026/ahead-of-midterms-republicans-court-iowa-farmers-with-fuel-plans/",
-      "pubDate": "Mon, 26 Oct 2026 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Production Agriculture Is Driving Grasslands Loss Across North America",
-      "description": "Commodity crops are continuing to eat up the vast, near-mythical sweep of North American grasslands, with nearly 2 million acres being plowed under ev...",
-      "link": "https://insideclimatenews.org/news/26102026/production-agriculture-is-driving-grasslands-loss-across-north-america/",
-      "pubDate": "Mon, 26 Oct 2026 08:59:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Michigan climate candidate courting opponents of Big Solar",
-      "description": "Sunrise Movement co-founder William Lawrence is navigating backlash against data centers — and clean energy — in his bid for Congress....",
-      "link": "https://grist.org/elections/will-lawrence-congress-sunrise-michigan-solar-data-centers/",
-      "pubDate": "Mon, 26 Oct 2026 08:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/Saline-Township-data-center.jpg"
-    },
-    {
-      "title": "Thwaites is a runaway climate disaster. New studies show how.",
-      "description": "The \"Doomsday Glacier\" could drown coastlines around the world. And the outlook is getting worse....",
-      "link": "https://grist.org/science/thwaites-runaway-climate-disaster-new-studies-show/",
-      "pubDate": "Mon, 26 Oct 2026 08:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Climate change rarely goes on trial. This one could be a landmark.",
-      "description": "Fifteen young Canadians say their government’s failure to curb emissions violates their constitutional right to life, liberty, and security....",
-      "link": "https://grist.org/justice/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/",
-      "pubDate": "Mon, 26 Oct 2026 08:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2025/01/Rikki-Held.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "California has a plan for El Niño’s torrential rain: Save it for later",
-      "description": "Historically, the phenomenon has walloped the Golden State with deluges. Here's how it will capture and store that bounty for the dry years ahead....",
-      "link": "https://grist.org/solutions/california-has-a-plan-for-el-ninos-torrential-rain-save-it-for-later/",
-      "pubDate": "Mon, 26 Oct 2026 08:00:00 +0000",
-      "sourceName": "grist.org",
       "author": "",
       "image": "../images/header2.jpg"
     }
