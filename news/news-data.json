@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-10-28T08:15:44.561Z",
+  "lastUpdated": "2026-10-28T15:53:52.736Z",
   "articles": [
+    {
+      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+      "description": "&lt;p&gt;Critics warn of climate danger as president in Texas claims change will save companies and consumers billions&lt;/p&gt;&lt;p&gt;Donald Trump ...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "pubDate": "Wed, 28 Oct 2026 14:30:29 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/940_0_5969_4775/master/5969.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=baf908ba1a9b4685b941b5c493e84aaa"
+    },
+    {
+      "title": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
+      "description": "&lt;p&gt;NSW government imposes water restrictions after Menindee water volumes fall below 2021 levels&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hre...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
+      "pubDate": "Wed, 28 Oct 2026 14:00:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c3335a7db319a4242e148d1c0c6a6d1d24937c4c/144_0_1410_1128/master/1410.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1e08c41e2712ab816dd534392a388ce"
+    },
+    {
+      "title": "Mark Carney is celebrated abroad – while consolidating power at home | Shiri Pasternak",
+      "description": "&lt;p&gt;The Canadian prime minister’s reckoning with Trumpism in Davos clashes with his attacks on environmental, Indigenous and labour rights&lt;/p&...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos",
+      "pubDate": "Wed, 28 Oct 2026 13:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c3b90055f2303df57b894188956a29cef8f76a15/470_0_6172_4936/master/6172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a50c89663acb276cb49b40b101183c8"
+    },
+    {
+      "title": "Will it be AI or the climate crisis that ends humanity? We can make it neither | Adam McKay and Philip Eubanks",
+      "description": "&lt;p&gt;Both of these threats have the same roots: private entities seeking to cash in. We have the power to stand against them&lt;/p&gt;&lt;p&gt;A s...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/28/ai-climate-crisis-humanity",
+      "pubDate": "Wed, 28 Oct 2026 12:00:04 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/a596cf6ca3a9bbf57916a82d78076b7948a71372/175_0_1753_1403/master/1753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7420788847ebafd8ab5da9b4346db131"
+    },
+    {
+      "title": "Antarctic Sea Ice Decline Is Triggering Global Ocean Changes",
+      "description": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.&#160; In...",
+      "link": "https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How Texas Could End Up Paying an Israeli Company Billions for Water",
+      "description": "Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water ...",
+      "link": "https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/",
+      "pubDate": "Wed, 28 Oct 2026 09:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages",
+      "description": "In the final stretch of their midterm drive to gain control of Congress, Democratic candidates are talking mostly about the pain of high energy costs,...",
+      "link": "https://insideclimatenews.org/news/28102026/midterm-elections-climate-impact/",
+      "pubDate": "Wed, 28 Oct 2026 08:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "In Maine’s Senate Race, it’s Heating Oil vs. Electricity",
+      "description": "Over the course of two weeks in October, Maine’s incumbent Republican Sen. Susan Collins and her Democrat challenger, former state Senate President Tr...",
+      "link": "https://insideclimatenews.org/news/28102026/in-maines-senate-race-its-heating-oil-vs-electricity/",
+      "pubDate": "Wed, 28 Oct 2026 08:45:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Extreme weather is creating a perfect storm of misinformation. Here&#8217;s what’s at stake.",
+      "description": "Rumors and conspiracies are spreading too fast for emergency managers to keep up. This information chaos is slowing disaster relief and putting lives ...",
+      "link": "https://grist.org/extreme-weather/extreme-weather-misinformation-ai-social-media-trust-government/",
+      "pubDate": "Wed, 28 Oct 2026 08:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/distorted-logo.png"
+    },
+    {
+      "title": "Would you trust an emergency alert written by AI?",
+      "description": "Human beings struggle with disaster communication. Chatbots can help — if people take them seriously....",
+      "link": "https://grist.org/extreme-weather/emergency-alert-written-by-ai-trust/",
+      "pubDate": "Wed, 28 Oct 2026 08:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/Emergency-manager-extreme-weather.jpg"
+    },
     {
       "title": "How to fact-check during and after a disaster",
       "description": "Your guide to finding trusted sources, debunking common extreme weather myths, and having conversations with loved ones about misinformation....",
@@ -90,96 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/d3a673cab9d9dc3a4f1e849d6d0bdca183f554b3/546_0_2825_2260/master/2825.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=575d72bf8c992ef72acaf398ce45cf51"
-    },
-    {
-      "title": "Trump&#8217;s EPA is letting America&#8217;s leakiest oil and gas companies off the hook",
-      "description": "The proposal would save the oil and gas companies billions by letting them leak more methane. It could also worsen global warming for decades....",
-      "link": "https://grist.org/regulation/epa-methane-trump-rollback-stripper-wells/",
-      "pubDate": "Wed, 28 Oct 2026 02:07:17 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/Flaring-methane-rollback-2026.jpeg"
-    },
-    {
-      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-      "description": "&lt;p&gt;Critics warn of climate danger as president in Texas claims change will save companies and consumers billions&lt;/p&gt;&lt;p&gt;Donald Trump ...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-      "pubDate": "Wed, 28 Oct 2026 01:45:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/940_0_5969_4775/master/5969.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=baf908ba1a9b4685b941b5c493e84aaa"
-    },
-    {
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy...",
-      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 01:01:02 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘I use disposable cups’: Chris Minns backflips on takeaway coffee cups after media and business backlash",
-      "description": "&lt;p&gt;Legislation requiring mugs to be offered when people drink at cafes to be scrapped, with environment minister stating ‘we need to clear this ...",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
-      "pubDate": "Wed, 28 Oct 2026 00:38:27 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/f938ae8eb932485ce576b113d666f2e4c8c219b4/1150_0_5529_4425/master/5529.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791340afad2f708a900e4bd21b6f7408"
-    },
-    {
-      "title": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say",
-      "description": "&lt;p&gt;The public accounts committee has said the risk to billpayers is ‘extraordinary’&lt;/p&gt;&lt;p&gt;The government’s plan to fund a multibilli...",
-      "link": "https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
-      "pubDate": "Wed, 28 Oct 2026 00:01:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/4996f4417eea84b657961bb7700ac93206205150/337_0_4943_3956/master/4943.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4767c2cc91bf664c16ad7aa33f32312"
-    },
-    {
-      "title": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health",
-      "description": "A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progr...",
-      "link": "https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/",
-      "pubDate": "Wed, 28 Oct 2026 00:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The High-Stakes Governor’s Races That Could Reshape America’s Energy Future",
-      "description": "The right governor can put a state on a dramatically different energy and environmental path—and next week’s election could set the stage for major po...",
-      "link": "https://insideclimatenews.org/news/27102026/governor-races-energy-future/",
-      "pubDate": "Tue, 27 Oct 2026 22:18:39 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
-      "description": "&lt;p&gt;Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels...",
-      "link": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
-      "pubDate": "Tue, 27 Oct 2026 21:55:44 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dd8d41673ae1ec91d6eb4358d039d08959c1613f/542_0_5415_4333/master/5415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab1af9846a749ebfb1c1120ff6e70bcd"
-    },
-    {
-      "title": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
-      "description": "&lt;p&gt;President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather e...",
-      "link": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
-      "pubDate": "Tue, 27 Oct 2026 21:34:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/177f777c410c1e1edbc2c7e8e9fd013495de2a9e/346_0_4867_3895/master/4867.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffa1f1919e6c6d781f1902e29839f328"
-    },
-    {
-      "title": "Weather warning lifted as third storm to hit Scotland eases off",
-      "description": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain....",
-      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 21:20:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
