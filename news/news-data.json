@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-10-30T14:00:16.144Z",
+  "lastUpdated": "2026-10-30T19:15:18.192Z",
   "articles": [
+    {
+      "title": "Texas Used to Be ‘the Best Place’ to Build Data Centers—But Not Anymore",
+      "description": "When BaRupOn LLC, a California-based developer, bought land in East Texas for a 700-acre industrial campus in 2023, the company received a warm welcom...",
+      "link": "https://insideclimatenews.org/news/30102026/texas-data-center-pushback/",
+      "pubDate": "Fri, 30 Oct 2026 19:11:06 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+      "description": "&lt;p&gt;More than 100,000 species are traded globally, whether illegally smuggled, sold as ornaments or in fisheries, timber and fashion industries, ...",
+      "link": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+      "pubDate": "Fri, 30 Oct 2026 18:00:19 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d7428b51a71607ad5d04542f0e573f6b8b794d2d/533_0_3067_2452/master/3067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f37963e46887ab730ed6b51fab612812"
+    },
+    {
+      "title": "Maui Prosecutor to Hire Investigator Focused On Post-Wildfire Contractor Fraud",
+      "description": "This story was originally published by Civil Beat. The Maui Department of the Prosecuting Attorney is expected to soon have an investigator working fu...",
+      "link": "https://insideclimatenews.org/news/30102026/maui-prosecutor-to-hire-investigator-focused-on-post-wildfire-contractor-fraud/",
+      "pubDate": "Fri, 30 Oct 2026 17:49:27 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Attenborough-backed appeal secures £30m estate",
+      "description": "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\"....",
+      "link": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:23:37 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Fears for mature Scots Pines burned by huge Highland wildfire",
+      "description": "Experts say some older Scot pine damaged by fire could die removing an important source of seeds...",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09pv4l3k0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:12:17 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact....",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:06:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
+      "description": "&lt;p&gt;Congress must act to ensure that families are able to heat their homes before the start of the season&lt;/p&gt;&lt;p&gt;Heating oil may be th...",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
+      "pubDate": "Fri, 30 Oct 2026 14:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6368e2f652b6ebcb5057fca095bd69bea7a5be64/0_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e7b81c87a7b368bc24fa2dedabd7a63"
+    },
     {
       "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
       "description": "&lt;p&gt;Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’&lt;/p&gt;&lt;ul&gt;...",
@@ -18,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/a5f1c1011c91e7b7f831fea6ddeb7662af5ba34b/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d24a72f37e9a6325df6a21418ecd2ac0"
-    },
-    {
-      "title": "Helicopter carrying six people crashes in northern Indian state",
-      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact....",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 10:07:58 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
@@ -119,15 +173,6 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "Attenborough-backed appeal secures £30m estate",
-      "description": "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\"....",
-      "link": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 06:16:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
       "title": "Largest woodland bat survey a 'nice story of AI for good'",
       "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England....",
       "link": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&amp;at_campaign=rss",
@@ -135,51 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Largest woodland bat survey a 'nice story of AI for good'",
-      "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England....",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 06:10:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How many of these official creature kindness badges have you earned? | First Dog on the Moon",
-      "description": "&lt;p&gt;A cartoon that celebrates small acts of grace&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/commentisfree/201...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/30/how-many-of-these-official-tiny-creature-kindness-badges-have-you-earned",
-      "pubDate": "Fri, 30 Oct 2026 06:01:55 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9794edc1e46ad7463890153469f81cdd678b2d94/0_95_1123_898/master/1123.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb9bb65ca14b4f5529b0437b80fb1795"
-    },
-    {
-      "title": "Neoen secures AUD 1.8 billion in debt financing to support renewable energy portfolio in Australia",
-      "description": " Goyder South. Credit: Neoen Neoen has secured AUD 1.8 billion in debt financing from a group of 13 Australian and international lenders The 1.2 GW Au...",
-      "link": "https://econews.com.au/neoen-secures-aud-1-8-billion-in-debt-financing-to-support-renewable-energy-portfolio-in-australia/",
-      "pubDate": "Fri, 30 Oct 2026 05:02:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "description": "&lt;p&gt;There is no end in sight for the drivers of illegal mining, while police action appears ineffective&lt;/p&gt;&lt;p&gt;Cora Bailey has been en...",
-      "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "pubDate": "Fri, 30 Oct 2026 05:00:45 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7ca64ddb2c1eceb5b061c7c68b38488bbc43e947/195_0_3986_3189/master/3986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dea88be5cbfed120823f633dd39f530d"
-    },
-    {
-      "title": "Toll Group’s Government and Defence business announces partnership with Soldier On Australia",
-      "description": "Representatives from Toll and Soldier On Australia, in October, 2026 Toll Group announced a new community partnership with Soldier On Australia, which...",
-      "link": "https://econews.com.au/toll-groups-government-and-defence-business-announces-partnership-with-soldier-on-australia/",
-      "pubDate": "Fri, 30 Oct 2026 04:02:26 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
     }
   ]
 }
