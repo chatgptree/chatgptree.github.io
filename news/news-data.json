@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-11-01T23:28:45.793Z",
+  "lastUpdated": "2026-11-02T05:45:31.446Z",
   "articles": [
+    {
+      "title": "‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean",
+      "description": "&lt;p&gt;A Guardian investigation has found that despite a recommendation to slow down, leading shipping companies continue to travel above advised sp...",
+      "link": "https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean",
+      "pubDate": "Mon, 02 Nov 2026 05:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/51d8aa479dc82ad7c40d3d6b50c5dbf131c9fa29/1234_539_4326_3461/master/4326.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34ee22e6e517a67b3806bc10c222884c"
+    },
+    {
+      "title": "The Melbourne Cup’s biggest losers could be the brands backing it",
+      "description": "By Patrice Pandeleos, Managing Director at Seven Communications For decades, Melbourne Cup sponsorship was an easy sell for brands. It offered access ...",
+      "link": "https://econews.com.au/the-melbourne-cups-biggest-losers-could-be-the-brands-backing-it/",
+      "pubDate": "Mon, 02 Nov 2026 04:02:09 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/seven_communications_australia_logo.jpeg"
+    },
+    {
+      "title": "Noosa-built platform behind new Commonwealth climate-finance programme",
+      "description": "Commonwealth Investment Network builds on its first cohort with an open investment-readiness programme for climate-positive businesses across the Comm...",
+      "link": "https://econews.com.au/noosa-built-platform-behind-new-commonwealth-climate-finance-programme/",
+      "pubDate": "Mon, 02 Nov 2026 03:02:11 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Global wildlife trade twice previous estimates – but true scale stays hidden",
+      "description": "Researchers say the true scale of global wildlife trade is obscured by data gaps. Image: Professor Alice Hughes. University of Melbourne More than 107...",
+      "link": "https://econews.com.au/global-wildlife-trade-twice-previous-estimates-but-true-scale-stays-hidden/",
+      "pubDate": "Mon, 02 Nov 2026 03:02:10 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/10/images-1.png"
+    },
+    {
+      "title": "The Tide Is Turning: Antarctic Protection Talks Fall Short of Agreement but Build Momentum for Breaking Deadlock in 2027",
+      "description": "Photo © John Weller Despite a valiant effort to reach agreement on new marine protected areas and improved management measures for the Antarctic krill...",
+      "link": "https://econews.com.au/the-tide-is-turning-antarctic-protection-talks-fall-short-of-agreement-but-build-momentum-for-breaking-deadlock-in-2027/",
+      "pubDate": "Mon, 02 Nov 2026 03:02:10 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable Data Center Innovation",
+      "description": "Today, Delta Electronics, a global leader in power management and smart green solutions, hosted the annual Delta SEAO Future Industry Summit 2026 for ...",
+      "link": "https://econews.com.au/delta-electronics-hosts-inaugural-future-industry-summit-in-singapore-and-inks-collaboration-with-the-college-of-design-and-engineering-at-nus-to-advance-sustainable-data-center-innovation/",
+      "pubDate": "Mon, 02 Nov 2026 03:02:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/2122.png"
+    },
+    {
+      "title": "Why fixing the damp should come before replacing what mould has touched",
+      "description": "By Ben Knight, founder of Aurala Naturals As much of eastern Australia heads into summer, household mould is easy to treat as a cleaning problem. It i...",
+      "link": "https://econews.com.au/why-fixing-the-damp-should-come-before-replacing-what-mould-has-touched/",
+      "pubDate": "Mon, 02 Nov 2026 03:02:06 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/aurala-naturals-logo-240.jpg"
+    },
+    {
+      "title": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
+      "description": "&lt;p&gt;UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheets&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+      "pubDate": "Mon, 02 Nov 2026 00:01:25 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/bdfe2e53d77196debfc20774540788bb736b8e62/431_0_4263_3411/master/4263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dc7867b72c76d9c299a06ea42459ef6"
+    },
     {
       "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
       "description": "&lt;p&gt;&lt;strong&gt;Exclusive&lt;/strong&gt;: Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP go...",
@@ -108,78 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Rok' solid recognition for Slovenian space scientist",
-      "description": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work....",
-      "link": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 06:35:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'Rok' solid recognition for Slovenian space scientist",
-      "description": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work....",
-      "link": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 06:35:37 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rare damselfly spotted by restored chalk river",
-      "description": "The Herts and Middlesex Trust says it is \"thrilled\" the new wetlands are helping species thrive....",
-      "link": "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 06:19:16 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bute House protested by environmental campaigners",
-      "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh....",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 13:41:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bute House protested by environmental campaigners",
-      "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh....",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 13:41:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Bute House protested by environmental campaigners",
-      "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh....",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 13:41:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
-      "description": "&lt;p&gt;Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptions&lt;/p&gt;&lt;p&gt;It’s a good time to ...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
-      "pubDate": "Sat, 31 Oct 2026 13:00:42 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/41dec70ec2cd4b6574d1f5c01d4c18d598c1b3fd/80_0_2502_2002/master/2502.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=304f6ac0199c678d91d8e8ef82016235"
-    },
-    {
-      "title": "The EPA is quietly killing its web archive",
-      "description": "Tens of thousands of documents on contamination, clean power, and Trump’s climate deletions are now scheduled to disappear....",
-      "link": "https://grist.org/accountability/the-epa-is-quietly-killing-its-web-archive/",
-      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/epawebarchive.webp"
     }
   ]
 }
