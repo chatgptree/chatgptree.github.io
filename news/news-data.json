@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-11-05T15:20:36.308Z",
+  "lastUpdated": "2026-11-05T21:54:04.101Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "A glimpse into the world of the incredibly tiny...",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 21:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Energy and Water Issues Propel Democrats to Victory in Arizona",
+      "description": "PHOENIX—Two years after President Donald Trump won Arizona with 52 percent of the vote, Democrats are poised to win a trifecta in the state House, Sen...",
+      "link": "https://insideclimatenews.org/news/05112026/arizona-democrats-victory-energy-water-issues/",
+      "pubDate": "Thu, 05 Nov 2026 20:30:09 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Over 1,000 tonnes of sewage seen at landfill site",
+      "description": "The Environment Agency says it has issued the operator with a series of actions after an inspection....",
+      "link": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 20:01:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "How the midterms could unleash a new era for clean energy in these 3 states",
+      "description": "Democrats achieved long-sought “trifectas” in Arizona, Pennsylvania, and Wisconsin. They have big plans for climate action....",
+      "link": "https://grist.org/politics/midterm-elections-climate-change-trifectas-arizona-wisconsin-pennsylvania/",
+      "pubDate": "Thu, 05 Nov 2026 18:00:54 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/wisconsin-data-center.jpg"
+    },
+    {
+      "title": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
+      "description": "&lt;p&gt;From energy prices to datacenters, climate became a cost-of-living issue – and a winning one&lt;/p&gt;&lt;p&gt;Climate-forward &lt;a href=\"ht...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-climate-crisis-in-midterm-election-results",
+      "pubDate": "Thu, 05 Nov 2026 17:00:28 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/c8395761dd6b98e24c0106a0e774e7934f06999c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d157474b94f74dcae1b6a733e49a89cd"
+    },
     {
       "title": "Investigation into 'major fish kill' after pollution incident",
       "description": "The pollution caused the death of brown and migratory sea trout in the Inler river....",
@@ -132,51 +177,6 @@
       "description": "NY-17: Last in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. Before midnight, and befor...",
       "link": "https://insideclimatenews.org/news/04112026/new-york-cait-conley-congress-victory-energy-development/",
       "pubDate": "Wed, 04 Nov 2026 23:56:45 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather....",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 23:12:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather....",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 23:12:47 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Democrats’ Victory in Texas Raises Potential for Environmental Reform",
-      "description": "Democrats’ historic sweep of Texas on Tuesday raises new possibilities of environmental reform after more than 30 years of Republican rule in the home...",
-      "link": "https://insideclimatenews.org/news/04112026/texas-blue-wave-data-centers/",
-      "pubDate": "Wed, 04 Nov 2026 23:06:22 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "International Coalition of Lawyers and Advocacy Groups Accuses JBS of Money Laundering",
-      "description": "An international team of lawyers on Wednesday filed a coordinated battery of lawsuits against JBS, the world’s largest meat company, and its financier...",
-      "link": "https://insideclimatenews.org/news/04112026/meat-company-sued-for-money-laundering/",
-      "pubDate": "Wed, 04 Nov 2026 23:01:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Democrats Win Control of Georgia’s Energy Regulator",
-      "description": "Georgia voters have broken the Republican grip on the state’s energy regulator, giving Democrats control of the Public Service Commission for the firs...",
-      "link": "https://insideclimatenews.org/news/04112026/georgia-public-service-commission-democrat-majority/",
-      "pubDate": "Wed, 04 Nov 2026 22:40:34 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
