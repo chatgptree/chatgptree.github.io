@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-11-04T23:31:38.704Z",
+  "lastUpdated": "2026-11-05T06:24:37.807Z",
   "articles": [
+    {
+      "title": "World’s wettest rainstorms are getting wetter, affecting flood and drought risk",
+      "description": "&lt;p&gt;Events that deliver about half of global rainfall are getting shorter but more intense, with wide-ranging implications&lt;/p&gt;&lt;p&gt;The ...",
+      "link": "https://www.theguardian.com/news/2026/nov/05/worlds-wettest-rainstorms-getting-worse-flood-drought-risk",
+      "pubDate": "Thu, 05 Nov 2026 06:00:54 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/734320651b835d9b3799fc2e85a04825ba774c5c/431_0_4167_3335/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f8111662bfb6371a6c553dcbb1deee4"
+    },
+    {
+      "title": "Voters Reject Industry-Backed Ballot Measures With Big Environmental Stakes",
+      "description": "As a blue wave washed over Election Day, ballot measures across the country showed voters strongly support environmental protection, with notable earl...",
+      "link": "https://insideclimatenews.org/news/04112026/california-voters-reject-industry-energy-measures/",
+      "pubDate": "Thu, 05 Nov 2026 01:33:11 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Alabama Power Routinely Bills Ratepayers for Ads Promoting Its Goods and Services. State Regulators Want That Stopped.",
+      "description": "On a busy election day, the Alabama Public Service Commission requested that Alabama Power voluntarily stop billing customers, effective immediately, ...",
+      "link": "https://insideclimatenews.org/news/04112026/alabama-power-advertising-regulation/",
+      "pubDate": "Thu, 05 Nov 2026 01:03:23 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Conley’s Victory in New York’s Lower Hudson Valley Opens Door to Renewed Climate Action",
+      "description": "NY-17: Last in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. Before midnight, and befor...",
+      "link": "https://insideclimatenews.org/news/04112026/new-york-cait-conley-congress-victory-energy-development/",
+      "pubDate": "Wed, 04 Nov 2026 23:56:45 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather....",
@@ -144,42 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Tiktoker 'super excited' to co-host BBC nature show",
-      "description": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol....",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 06:15:01 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"....",
-      "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 06:11:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"....",
-      "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 06:11:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Sungrow showcases PowerHarbour as next step in household energy independence",
-      "description": "Sungrow technical support engineer and installer trainer, Graham Smith By Jonathan Raymond, EcoNews Sungrow’s new all-in-one energy system brings toge...",
-      "link": "https://econews.com.au/sungrow-showcases-powerharbour-as-next-step-in-household-energy-independence/",
-      "pubDate": "Wed, 04 Nov 2026 06:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/Sungrow-2-917x1024.jpg"
     }
   ]
 }
