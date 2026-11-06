@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-06T17:53:05.459Z",
+  "lastUpdated": "2026-11-06T22:58:27.319Z",
   "articles": [
+    {
+      "title": "Billions of Gallons of Raw Sewage Are Pouring Into the Chicago River After Storms",
+      "description": "This article originally appeared in the Chicago Sun-Times. It has been republished with permission. Joe Gamble knows what to expect when he arrives at...",
+      "link": "https://insideclimatenews.org/news/06112026/raw-sewage-chicago-river-deep-tunnel-storms-climate-change/",
+      "pubDate": "Fri, 06 Nov 2026 19:50:31 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Famous New Mexico rock formation destroyed after torrential El Niño rains",
+      "description": "&lt;p&gt;Officials expected to investigate whether super El Niño storms in US south-west damaged the Alien Throne spires&lt;/p&gt;&lt;p&gt;Undulating,...",
+      "link": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
+      "pubDate": "Fri, 06 Nov 2026 19:23:03 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/40eb09e62b483bf78ae11851a7c7889f5f68bdb6/171_0_1707_1366/master/1707.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17d1f677fc085e38f53287c2bab0ebd4"
+    },
+    {
+      "title": "Democrats take control of Georgia’s powerful utility regulator",
+      "description": "Swept in on the blue wave, new commissioners plan to tackle power bills, clean energy, and data center accountability....",
+      "link": "https://grist.org/georgia-psc/democrats-take-control-of-georgias-powerful-utility-regulator/",
+      "pubDate": "Fri, 06 Nov 2026 18:56:22 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/Wisconsin-Crowley-election-celebration.jpg?quality=75&#038;strip=all&#038;w=768"
+    },
     {
       "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
       "description": "Rising global temperatures mean extreme weather events are becoming more common and more intense. ...",
@@ -153,33 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Election Shakeup Threatens Bipartisan Deal to Speed Energy Projects",
-      "description": "Democrats’ electoral sweep has shaken the ground beneath a permitting reform bill in Congress, raising doubts about whether the measure has enough sup...",
-      "link": "https://insideclimatenews.org/news/06112026/bipartisan-permitting-reform-outlook-after-election-shakeup/",
-      "pubDate": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Data Centers Move In, Iowa Residents Fight Plans for a New Gas Plant",
-      "description": "FAIRFAX, Iowa—Nearly 50 people gathered at the American Legion Post on a July evening to learn about a proposed natural gas plant less than three mile...",
-      "link": "https://insideclimatenews.org/news/06112026/iowa-residents-fight-proposed-gas-plant-for-data-centers/",
-      "pubDate": "Fri, 06 Nov 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-      "description": "&lt;p&gt;Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado&lt;/p&gt;&lt;p&gt;Despite the rapid ...",
-      "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-      "pubDate": "Fri, 06 Nov 2026 09:54:12 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a7dcae1881b9409544c10f165f1a48f73083ff87/0_0_3563_2850/master/3563.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=431971dd5b5626d882054c175b9843a5"
     }
   ]
 }
