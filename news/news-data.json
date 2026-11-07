@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-07T02:42:03.579Z",
+  "lastUpdated": "2026-11-07T09:53:25.585Z",
   "articles": [
+    {
+      "title": "Autumn colours around the world – in pictures",
+      "description": "&lt;p&gt;The seasonal transformation offers the chance to enjoy warm, golden colours before winter&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/e...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/nov/07/autumn-colours-around-the-world-in-pictures",
+      "pubDate": "Sat, 07 Nov 2026 08:30:05 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0d52ac31c87fa4d175c1e1ec64900b7d420e1ffb/367_340_2989_2392/master/2989.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26188fa3eecfb97713a7204bc2e7ddbb"
+    },
+    {
+      "title": "New Forest wildfire restoration work begins",
+      "description": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire....",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 07:14:33 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
       "description": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November....",
@@ -162,24 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/6c841bb8f7462bac446c4508fe89af8798d63aa5/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b66b90d459ae6d5d07bb22eeea7a190"
-    },
-    {
-      "title": "US rockets firm eyes up mothballed Highland spaceport",
-      "description": "Colorado-based Leap is looking at the spaceport near Tongue as its first launch site outside of the US....",
-      "link": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 12:47:23 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-      "description": "&lt;p&gt;YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel levies&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
-      "link": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-      "pubDate": "Fri, 06 Nov 2026 12:27:54 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/be71ae395bd4e392d9a022f94aa37e4f2ac6e1d0/785_0_4124_3301/master/4124.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f52616c1a6ddb9606f1bcce6695a1cf4"
     }
   ]
 }
