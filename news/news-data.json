@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-11-08T07:08:22.888Z",
+  "lastUpdated": "2026-11-08T14:58:36.972Z",
   "articles": [
+    {
+      "title": "The tiny world of Australian fairywrens – in pictures",
+      "description": "&lt;p&gt;Howard Loosemore, alongside a few talented photographer friends, spent 15 years capturing every Australian fairywren species and plumage in v...",
+      "link": "https://www.theguardian.com/environment/gallery/2026/nov/09/the-tiny-world-of-australian-fairy-wrens-howard-loosmore-photography",
+      "pubDate": "Sun, 08 Nov 2026 14:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9de8afa06145a8a3a66be18c81b4c0df9b372ea6/0_799_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37bffb9ca9d6415ff48047de2e549aea"
+    },
+    {
+      "title": "As the Colorado River shrinks, calls to drain Lake Powell grow",
+      "description": "Groups are pushing to drain the lake entirely to reveal its long-submerged rock arches and spires and allow wildlife along the Colorado River to recov...",
+      "link": "https://grist.org/drought/as-the-colorado-river-shrinks-calls-to-drain-lake-powell-grow/",
+      "pubDate": "Sun, 08 Nov 2026 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/06/colorado-river-lake-mead-powell-drought-water-solutions.jpeg?quality=75&#038;strip=all&#038;w=768"
+    },
+    {
+      "title": "Cop31 must deliver climate progress that people can see is real, host says",
+      "description": "&lt;p&gt;High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels&lt;/p&gt;&lt;p&gt;The &...",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
+      "pubDate": "Sun, 08 Nov 2026 13:24:00 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5864e1f794c25f06dace50bf42918bce1e0f72db/174_0_6003_4803/master/6003.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=83fdd9ee72f2efe6df78f03a7cacbffe"
+    },
+    {
+      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+      "description": "&lt;p&gt;Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues&lt;/p&gt;&lt;p&gt;&lt;a ...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+      "pubDate": "Sun, 08 Nov 2026 13:00:40 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/76b64c85eae178abb4fb3319f9b303b67db8040c/305_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa5ac4c9838eaac7f05c40aa0f06b5d8"
+    },
+    {
+      "title": "Dormice 'thrive' at National Trust site",
+      "description": "Killerton National Trust has 100 nest boxes across its estate in Devon....",
+      "link": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 12:22:05 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Who’s who at Cop31: key players at the climate talks",
+      "description": "&lt;p&gt;What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting?&lt;/p&gt;&lt;p&gt;Hos...",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+      "pubDate": "Sun, 08 Nov 2026 11:48:56 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/72678bea25c1a92a183def8f6052f58a39fa3e5a/790_0_4240_3392/master/4240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c03e71c63752f13b18521a75650ceb4"
+    },
+    {
+      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+      "description": "&lt;p&gt;Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent&lt;/p&gt;&lt;p&gt;As the planet f...",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+      "pubDate": "Sun, 08 Nov 2026 11:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/d6b690af57abc6ab43cbd2a94e2f483c2480349a/18_0_4233_3386/master/4233.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22b10412ecce3e9b3d0e2aabef403808"
+    },
+    {
+      "title": "The Unrelenting Ordeal of Wildfire Recovery",
+      "description": "Second of two stories about the effort to support Lahaina fire survivors’ health in the long, hard aftermath. Read the first story, about the Maui Wil...",
+      "link": "https://insideclimatenews.org/news/08112026/maui-family-wildfire-recovery/",
+      "pubDate": "Sun, 08 Nov 2026 10:05:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Scientists Fighting to Help Wildfire Survivors Heal",
+      "description": "First of two stories about the effort to support Lahaina fire survivors’ health in the disaster’s long, hard aftermath. LAHAINA, Hawaiʻi—Early on a Sa...",
+      "link": "https://insideclimatenews.org/news/08112026/maui-wildfire-exposure-study-public-health/",
+      "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Countryside managers prepare for climate change",
+      "description": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness....",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 07:16:55 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Hundreds of seagrass shoots found in estuary",
       "description": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April....",
@@ -18,24 +108,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/318a7571aaf58a51d5597de23c3e8e795c29e3fa/401_226_2845_2276/master/2845.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e32c6b0e8f2ade891cb151fa341f642"
-    },
-    {
-      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
-      "description": "&lt;p&gt;Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;...",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
-      "pubDate": "Sun, 08 Nov 2026 02:34:19 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0b668a0c2353f200a661bd995771642"
-    },
-    {
-      "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-      "description": "&lt;p&gt;Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fo...",
-      "link": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-      "pubDate": "Sat, 07 Nov 2026 19:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/bb286d73fb7d844e4e9bbf6f098aca4d917fe76f/127_0_5701_4561/master/5701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=742f8319ef65817b462bb6fc943c7e16"
     },
     {
       "title": "Let a thousand blossoms bloom: Sydney’s jacarandas put on their spring show – in pictures",
@@ -105,78 +177,6 @@
       "description": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire....",
       "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 07:14:33 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
-      "description": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November....",
-      "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 02:03:28 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A US Senator’s Push to Fast-Track Pipelines Would Benefit His Former Company",
-      "description": "Alan Armstrong of Oklahoma entered the U.S. Senate to fill a vacancy in March with a clear priority: pass permitting reform that he argued was necessa...",
-      "link": "https://insideclimatenews.org/news/06112026/sen-alan-armstrong-bipartisan-permitting-bill-pipelines/",
-      "pubDate": "Sat, 07 Nov 2026 00:30:44 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Global Campaign Seeks to Curb Emissions of World’s Most Potent Greenhouse Gas",
-      "description": "The German government has launched an international initiative to curb emissions of sulfur hexafluoride, an exceptionally potent greenhouse gas that i...",
-      "link": "https://insideclimatenews.org/news/06112026/germany-launches-global-sf6-pledge-china-emissions/",
-      "pubDate": "Fri, 06 Nov 2026 23:02:11 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Billions of Gallons of Raw Sewage Are Pouring Into the Chicago River After Storms",
-      "description": "This article originally appeared in the Chicago Sun-Times. It has been republished with permission. Joe Gamble knows what to expect when he arrives at...",
-      "link": "https://insideclimatenews.org/news/06112026/raw-sewage-chicago-river-deep-tunnel-storms-climate-change/",
-      "pubDate": "Fri, 06 Nov 2026 19:50:31 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Famous New Mexico rock formation destroyed after torrential El Niño rains",
-      "description": "&lt;p&gt;Officials expected to investigate whether super El Niño storms in US south-west damaged the Alien Throne spires&lt;/p&gt;&lt;p&gt;Undulating,...",
-      "link": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
-      "pubDate": "Fri, 06 Nov 2026 19:23:03 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/40eb09e62b483bf78ae11851a7c7889f5f68bdb6/171_0_1707_1366/master/1707.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17d1f677fc085e38f53287c2bab0ebd4"
-    },
-    {
-      "title": "Democrats take control of Georgia’s powerful utility regulator",
-      "description": "Swept in on the blue wave, new commissioners plan to tackle power bills, clean energy, and data center accountability....",
-      "link": "https://grist.org/georgia-psc/democrats-take-control-of-georgias-powerful-utility-regulator/",
-      "pubDate": "Fri, 06 Nov 2026 18:56:22 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/Wisconsin-Crowley-election-celebration.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "description": "Rising global temperatures mean extreme weather events are becoming more common and more intense. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:43:30 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "description": "Rising global temperatures mean extreme weather events are becoming more common and more intense. ...",
-      "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:43:30 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
