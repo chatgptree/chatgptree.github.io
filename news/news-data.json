@@ -1,14 +1,77 @@
 {
-  "lastUpdated": "2026-11-11T10:40:24.346Z",
+  "lastUpdated": "2026-11-11T18:33:23.649Z",
   "articles": [
     {
-      "title": "Cop31 live: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
+      "title": "KKR and RWE are rich firms. Why do they need a UK state loan for their windfarms? | Nils Pratley",
+      "description": "&lt;p&gt;National wealth fund is to lend £1bn towards the Vanguard projects – but whether the private equity giant needed help is debatable&lt;/p&gt;&...",
+      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/11/kkr-rwe-uk-state-loan-vanguard-windfarms",
+      "pubDate": "Wed, 11 Nov 2026 18:15:26 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/79d88bc60d9723c01849b90d33c96458864c7fa8/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00b54339189b2cf7f526f52bec6e505f"
+    },
+    {
+      "title": "As Texas Embraces Carbon Storage, a Black Community Questions the Risks",
+      "description": "CHEEK—On a rural road outside Beaumont, a Texas energy giant is preparing to pump carbon dioxide underground to permanently store it and keep the gas ...",
+      "link": "https://insideclimatenews.org/news/11112026/as-texas-embraces-carbon-storage-a-black-community-questions-the-risks/",
+      "pubDate": "Wed, 11 Nov 2026 18:03:58 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cop31 as it happened: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
       "description": "&lt;p&gt;Third day of UN talks begin but leaders of many big polluting nations absent&lt;/p&gt;&lt;p&gt;After a couple of hosts provide us a bit of ba...",
       "link": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
-      "pubDate": "Wed, 11 Nov 2026 10:25:49 GMT",
+      "pubDate": "Wed, 11 Nov 2026 17:26:42 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/8cd6e42545e74ffa374a74fec29a4d9c8df470eb/919_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77dac01f904b227ec9b0603dc1c32b49"
+    },
+    {
+      "title": "Labour MPs warn against weakening electric vehicle targets ahead of crunch talks",
+      "description": "&lt;p&gt;Exclusive: Cutting 2030 goal would be a ‘step backwards’, say MPs, as ministers clash over proposed reductions&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
+      "pubDate": "Wed, 11 Nov 2026 16:01:41 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/6fde6244e7862fd3018d8d71dbcebe49b6465ec6/667_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1417b87a9fa02148f67a8c47e306677"
+    },
+    {
+      "title": "Toby Jones stars in film about UK Mars mission",
+      "description": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown....",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 14:10:11 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Anthony Albanese fails to mention fossil fuels in Cop summit speech",
+      "description": "&lt;p&gt;Australian PM boasts of success in renewables but is criticised for not addressing the nation’s huge coal industry&lt;/p&gt;&lt;ul&gt;&lt;li&...",
+      "link": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
+      "pubDate": "Wed, 11 Nov 2026 13:57:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b76a5592bc9963a52305663502663562022a27c0/851_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0aabba31d1edf9247aa7f3b641a5e8e"
+    },
+    {
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 13:24:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+      "description": "&lt;p&gt;181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report&lt;/p&gt;&lt;p...",
+      "link": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+      "pubDate": "Wed, 11 Nov 2026 12:00:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8acbf551c8b667da4d0383e559dc4e5"
     },
     {
       "title": "The Pace of Everglades Restoration Has Accelerated. But Is It Working?",
@@ -20,22 +83,13 @@
       "image": "../images/header2.jpg"
     },
     {
-      "title": "The Trump Administration Praised a Georgia Manufacturer. Now It’s Suing the EPA.",
+      "title": "The Trump Administration Praised a Georgia Manufacturer. Now the Company Is Suing the EPA.",
       "description": "In August 2025, Vice President JD Vance and Environmental Protection Agency administrator Lee Zeldin visited cold storage equipment manufacturer Alta ...",
       "link": "https://insideclimatenews.org/news/11112026/georgia-alta-refrigeration-suing-epa-over-greenhouse-gas-rules/",
       "pubDate": "Wed, 11 Nov 2026 09:55:00 +0000",
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
-      "description": "&lt;p&gt;Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
-      "link": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
-      "pubDate": "Wed, 11 Nov 2026 09:46:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9e39900a5fcd887d3781c5164c5dbb2a87d64232/2986_1622_2147_1718/master/2147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e8ae69a0b76ebcf658c92776c59ef5c"
     },
     {
       "title": "How Trump plans to fast-track mining in Montana",
@@ -45,15 +99,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/11/cop31-climate-change-warming-UN-turkey.jpeg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Ed Miliband: climate crisis puts national security of all countries at risk",
-      "description": "&lt;p&gt;Exclusive: UK foreign secretary says sci-fi scenarios of destruction ‘now regular occurrences’, as he prepares to address Cop31&lt;/p&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
-      "pubDate": "Wed, 11 Nov 2026 09:09:47 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/0ced3955c0750d8f1cf9d1f67e4680851d019011/848_0_4240_3392/master/4240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af4f806498cc0f2cc64c03d3ebf885ec"
     },
     {
       "title": "Bird flu has caused catastrophic die-offs – could a wave of extinctions follow?",
@@ -110,15 +155,6 @@
       "image": "https://i.guim.co.uk/img/media/b8f5f6901158c7ca50e6eeed97984b2635a68448/0_892_4134_3305/master/4134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd692673a3ca420c55add9f80435b92c"
     },
     {
-      "title": "Developing countries in limbo as rich nations delay new climate finance plans",
-      "description": "&lt;p&gt;Many governments are yet to set targets, leaving recipient countries struggling to plan and attract private investment&lt;/p&gt;&lt;p&gt;Deve...",
-      "link": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
-      "pubDate": "Wed, 11 Nov 2026 07:00:32 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e08e1322aa9ddd8101aeb1b13a442046a0e8d452/1230_1303_3371_2697/master/3371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5a66763b224d8fc083965b18f3c6cb5"
-    },
-    {
       "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
       "description": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll....",
       "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&amp;at_campaign=rss",
@@ -144,42 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/fd4398730829e419bf614e6112f2cf9e6c9b7d47/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caf9b8bb890b71ce9971e7743f9846b1"
-    },
-    {
-      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-      "description": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England....",
-      "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 00:35:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-      "description": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England....",
-      "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 00:35:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya....",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 00:18:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya....",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 00:18:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
