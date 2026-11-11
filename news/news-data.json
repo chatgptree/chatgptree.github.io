@@ -1,7 +1,151 @@
 {
-  "lastUpdated": "2026-11-11T02:40:34.219Z",
+  "lastUpdated": "2026-11-11T10:40:24.346Z",
   "articles": [
     {
+      "title": "Cop31 live: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
+      "description": "&lt;p&gt;Third day of UN talks begin but leaders of many big polluting nations absent&lt;/p&gt;&lt;p&gt;After a couple of hosts provide us a bit of ba...",
+      "link": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
+      "pubDate": "Wed, 11 Nov 2026 10:25:49 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8cd6e42545e74ffa374a74fec29a4d9c8df470eb/919_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77dac01f904b227ec9b0603dc1c32b49"
+    },
+    {
+      "title": "The Pace of Everglades Restoration Has Accelerated. But Is It Working?",
+      "description": "A historic restoration of Florida’s Everglades is proceeding at an unprecedented pace, although more scientific analysis is needed to understand how t...",
+      "link": "https://insideclimatenews.org/news/11112026/everglades-restoration-effectiveness-report/",
+      "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The Trump Administration Praised a Georgia Manufacturer. Now It’s Suing the EPA.",
+      "description": "In August 2025, Vice President JD Vance and Environmental Protection Agency administrator Lee Zeldin visited cold storage equipment manufacturer Alta ...",
+      "link": "https://insideclimatenews.org/news/11112026/georgia-alta-refrigeration-suing-epa-over-greenhouse-gas-rules/",
+      "pubDate": "Wed, 11 Nov 2026 09:55:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
+      "description": "&lt;p&gt;Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield&lt;/p&gt;&lt;ul&gt;&lt;li&gt...",
+      "link": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+      "pubDate": "Wed, 11 Nov 2026 09:46:18 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9e39900a5fcd887d3781c5164c5dbb2a87d64232/2986_1622_2147_1718/master/2147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e8ae69a0b76ebcf658c92776c59ef5c"
+    },
+    {
+      "title": "How Trump plans to fast-track mining in Montana",
+      "description": "Even without a permitting reform law, the Trump administration’s efforts to cut red tape for industrial development are taking effect....",
+      "link": "https://grist.org/politics/how-trump-plans-to-fast-track-mining-in-montana/",
+      "pubDate": "Wed, 11 Nov 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/cop31-climate-change-warming-UN-turkey.jpeg?quality=75&#038;strip=all&#038;w=768"
+    },
+    {
+      "title": "Ed Miliband: climate crisis puts national security of all countries at risk",
+      "description": "&lt;p&gt;Exclusive: UK foreign secretary says sci-fi scenarios of destruction ‘now regular occurrences’, as he prepares to address Cop31&lt;/p&gt;&lt;...",
+      "link": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
+      "pubDate": "Wed, 11 Nov 2026 09:09:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0ced3955c0750d8f1cf9d1f67e4680851d019011/848_0_4240_3392/master/4240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af4f806498cc0f2cc64c03d3ebf885ec"
+    },
+    {
+      "title": "Bird flu has caused catastrophic die-offs – could a wave of extinctions follow?",
+      "description": "&lt;p&gt;As the IUCN global conservation body prepares to update its red list of endangered species, scientists explain why calculating the true toll ...",
+      "link": "https://www.theguardian.com/environment/2026/nov/11/wildlife-bird-flu-killed-millions-animals-iucn-endangered-red-list-aoe",
+      "pubDate": "Wed, 11 Nov 2026 09:00:35 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f308e108752561e082f4257698f5d5a94757761d/1128_465_3979_3183/master/3979.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e376be327f54bce8d89f63e70d8f8f5f"
+    },
+    {
+      "title": "Judges blown away by Melbourne students’ energy generator design",
+      "description": "Credit: Justine Underhill Faculty of Engineering and IT, University of Melbourne The team packed up their clever design and transported it to France f...",
+      "link": "https://econews.com.au/judges-blown-away-by-melbourne-students-energy-generator-design/",
+      "pubDate": "Wed, 11 Nov 2026 07:02:41 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/Credit-SIRE-3-768x1024.jpg"
+    },
+    {
+      "title": "Progress over perfection: Australian businesses urged to get moving on Scope 3",
+      "description": "Alison Rowe, CEO of Edge Impact Edge Impact is helping Australian businesses prepare for Scope 3 reporting with practical steps on supply chain data, ...",
+      "link": "https://econews.com.au/progress-over-perfection-australian-businesses-urged-to-get-moving-on-scope-3/",
+      "pubDate": "Wed, 11 Nov 2026 07:02:40 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "More important than tropical cyclones: Scientists finally track the hidden weather systems behind most tropical rainfall",
+      "description": "Image credit: Pexels, Nadim Mahmud Monash University For the first time, researchers in Australia have identified and tracked the weather systems that...",
+      "link": "https://econews.com.au/more-important-than-tropical-cyclones-scientists-finally-track-the-hidden-weather-systems-behind-most-tropical-rainfall/",
+      "pubDate": "Wed, 11 Nov 2026 07:02:40 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/01/Monash-Uni-logo.png"
+    },
+    {
+      "title": "Western Sydney University to lead landmark $12.5 million project to build climate-ready ecosystems across NSW",
+      "description": "Photo credit: Paul Rymer, Field plantings Western Sydney University researchers have been awarded over $12.5 million by the NSW Environmental Trust to...",
+      "link": "https://econews.com.au/western-sydney-university-to-lead-landmark-12-5-million-project-to-build-climate-ready-ecosystems-across-nsw/",
+      "pubDate": "Wed, 11 Nov 2026 07:02:39 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/images-4.png"
+    },
+    {
+      "title": "Back of the net! Scotland’s historic salmon fishers – in pictures",
+      "description": "&lt;p&gt;Colin McPherson has spent three decades working on Catching the Tide, his moving portrayal of fishers and an old way of life that is dying ou...",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/11/scotland-salmon-fishers-in-pictures-colin-mcpherson",
+      "pubDate": "Wed, 11 Nov 2026 07:00:33 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b8f5f6901158c7ca50e6eeed97984b2635a68448/0_892_4134_3305/master/4134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd692673a3ca420c55add9f80435b92c"
+    },
+    {
+      "title": "Developing countries in limbo as rich nations delay new climate finance plans",
+      "description": "&lt;p&gt;Many governments are yet to set targets, leaving recipient countries struggling to plan and attract private investment&lt;/p&gt;&lt;p&gt;Deve...",
+      "link": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
+      "pubDate": "Wed, 11 Nov 2026 07:00:32 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/e08e1322aa9ddd8101aeb1b13a442046a0e8d452/1230_1303_3371_2697/master/3371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5a66763b224d8fc083965b18f3c6cb5"
+    },
+    {
+      "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
+      "description": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll....",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 06:37:12 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Artist creates world's biggest soil painting",
+      "description": "Phil Lambert used four types of soil, including some collected from his mother, to create his work....",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 06:06:21 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Why are Britain's streets still so polluted? Because the car industry dinosaurs do what they like, and politicians let them | George Monbiot",
+      "description": "&lt;p&gt;The transition to electric vehicles should be moving apace, but it is not. And why? Incompetence, expedience and cowardice&lt;/p&gt;&lt;p&gt;...",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/11/britain-streets-polluted-car-industry-electric-vehicles-transition",
+      "pubDate": "Wed, 11 Nov 2026 06:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/fd4398730829e419bf614e6112f2cf9e6c9b7d47/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caf9b8bb890b71ce9971e7743f9846b1"
+    },
+    {
       "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
       "description": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England....",
       "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&amp;at_campaign=rss",
@@ -33,150 +177,6 @@
       "description": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya....",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 11 Nov 2026 00:18:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Can the Blue Wave Turn the Tide Against Border Wall Construction in Texas?",
-      "description": "EL PASO, Texas—Border communities voted in overwhelming numbers for Democratic candidates in the midterm elections last Tuesday. Come January, every U...",
-      "link": "https://insideclimatenews.org/news/10112026/texas-elections-border-wall-construction/",
-      "pubDate": "Tue, 10 Nov 2026 22:57:04 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Senate Advances Permitting Overhaul But Roadblocks Loom",
-      "description": "The Senate voted Monday to advance long-sought bipartisan legislation to speed permitting of big energy projects, amid acrimony over whether the bill’...",
-      "link": "https://insideclimatenews.org/news/10112026/senate-advances-permitting-bill/",
-      "pubDate": "Tue, 10 Nov 2026 16:57:50 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Cop31 as it happened: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
-      "description": "&lt;p&gt;Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries&lt;/p&gt;&lt;p&gt;We’ve ...",
-      "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-      "pubDate": "Tue, 10 Nov 2026 15:35:09 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/47457ae1d2f65d9c931aab85f6adfdd5fd8aaf11/1002_0_5011_4011/master/5011.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1edc3cf7475bd5f0c139f510cb79b299"
-    },
-    {
-      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies....",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 15:10:20 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Jimmy Carter’s Georgia farm acquired by conservation group planning to open it to public",
-      "description": "&lt;p&gt;Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028&lt;/p&gt;&lt;p&gt;&lt;a href=\"ht...",
-      "link": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
-      "pubDate": "Tue, 10 Nov 2026 15:01:41 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/762b13dac327d0f01abeafa064a27be2bce4d372/0_42_3409_2728/master/3409.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=738f9f0aab79c2fcdc79e558be0858da"
-    },
-    {
-      "title": "COP31 Meets the Overshoot Era",
-      "description": "Yesterday, delegates from about 200 countries arrived in Antalya, a resort city on Turkey’s Mediterranean coast, for the 31st United Nations climate s...",
-      "link": "https://insideclimatenews.org/news/10112026/cop31-meets-overshoot-era/",
-      "pubDate": "Tue, 10 Nov 2026 14:47:54 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "This small Alaska town is swamped by cruise ship visitors every summer. But what happens when they all go home?",
-      "description": "&lt;p&gt;Skagway’s 1,100 permanent residents are caught between a boom time – when the ships bring more than a million tourists – and a lull in winter...",
-      "link": "https://www.theguardian.com/environment/2026/nov/10/alaska-skagway-community-cruise-ship-tourism-housing",
-      "pubDate": "Tue, 10 Nov 2026 13:00:52 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ab0c698712a8a3506569619bb221a83134dca7e8/101_0_4746_3796/master/4746.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0db13e31f213c9055a57f6256abf5384"
-    },
-    {
-      "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
-      "description": "&lt;p&gt;Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;...",
-      "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
-      "pubDate": "Tue, 10 Nov 2026 12:08:23 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e9e70c1f9aafbf60fe3b65bb1b0c30528284d52f/0_747_2932_2345/master/2932.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1785ffc68c0400a922125bfb198d09c"
-    },
-    {
-      "title": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
-      "description": "&lt;p&gt;However, authors of a comprehensive assessment to be presented at Cop31 warn talk of a global turnaround premature&lt;/p&gt;&lt;ul&gt;&lt;li&...",
-      "link": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
-      "pubDate": "Tue, 10 Nov 2026 11:55:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/e5df2d5549bcfb88535b1f30373fa92ed4ea9333/1312_1119_3601_2881/master/3601.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1058dbf8270bc78c5d0ec940bcce991e"
-    },
-    {
-      "title": "Why the World Is Still Running on Fossil Fuels After 30 Years of Climate Talks",
-      "description": "ANTALYA, Turkey—The stench of fossil fuels has become a hallmark of the United Nations “Conference of the Parties” climate talks, starting with the ai...",
-      "link": "https://insideclimatenews.org/news/10112026/30-years-of-climate-talks-lack-of-progress/",
-      "pubDate": "Tue, 10 Nov 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Cybertruck era is over, but America’s electric truck experiment isn’t",
-      "description": "Despite recent flops, experts hope the next round of electric pickups will be cheaper — and less polarizing....",
-      "link": "https://grist.org/culture/tesla-cybertruck-electric-truck-experiment/",
-      "pubDate": "Tue, 10 Nov 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/08/id-4-volkswagen-dealership.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "Locals launch campaign to buy ancient wood",
-      "description": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud....",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 08:13:42 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "House martin artificial nests scheme set to expand",
-      "description": "The artificial nests are more robust than the endangered migratory birds' own mud creations....",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 07:27:21 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "2 years after Mexico relocated their climate-ravaged community, residents struggle to adapt",
-      "description": "Lessons learned from a rushed resettlement in Mexico underscore what governments owe to climate-displaced communities — not only after homes wash away...",
-      "link": "https://grist.org/culture/2-years-after-mexico-relocated-their-climate-ravaged-community-residents-struggle-to-adapt/",
-      "pubDate": "Tue, 10 Nov 2026 07:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/El_Bosque_3995_1600x900.jpg"
-    },
-    {
-      "title": "Tuesday briefing: The world is falling short on climate action. Can Cop31 change that?",
-      "description": "&lt;p&gt;In today’s newsletter: As global leaders gather in Turkey for the UN climate summit, both doubts and hope surround what the annual talks can ...",
-      "link": "https://www.theguardian.com/world/2026/nov/10/tuesday-briefing-the-world-is-falling-short-on-climate-action-can-cop31-change-that",
-      "pubDate": "Tue, 10 Nov 2026 06:45:39 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/72678bea25c1a92a183def8f6052f58a39fa3e5a/424_0_4240_3392/master/4240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a24c7c9ead681e9e19cfcde9ec5ed0db"
-    },
-    {
-      "title": "The swan sanctuary wetland fighting climate change",
-      "description": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change....",
-      "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:30:29 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
