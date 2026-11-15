@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-15T02:30:35.630Z",
+  "lastUpdated": "2026-11-15T10:39:24.266Z",
   "articles": [
+    {
+      "title": "How Wildfire Litigation Became Big Business in America",
+      "description": "Trial by Fire: First in a series about the impacts of wildfire litigation. On a November morning in 2018, the foothills of the Sierra Nevada were prim...",
+      "link": "https://insideclimatenews.org/news/15112026/wildfire-litigation-booming-business/",
+      "pubDate": "Sun, 15 Nov 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Looking for an ancient tree worth a detour? There’s an app for that",
+      "description": "&lt;p&gt;Dutch designer sets up an app to help fellow enthusiasts find the great trees of the world&lt;/p&gt;&lt;p&gt;While most people spend their ho...",
+      "link": "https://www.theguardian.com/environment/2026/nov/15/ancient-tree-worth-a-detour-digital-app-",
+      "pubDate": "Sun, 15 Nov 2026 08:00:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ce56556d167751942e141bd2234a3648f37a95e5/0_12_1440_1152/master/1440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b18e2a7ec88b9398730ad52c5f5c59cb"
+    },
     {
       "title": "SpaceX catches part of its Starship rocket on return to Earth",
       "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"....",
@@ -12,7 +30,7 @@
     },
     {
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.\n...",
+      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"....",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 14 Nov 2026 22:15:52 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -21,7 +39,7 @@
     },
     {
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.\n...",
+      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"....",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 14 Nov 2026 22:15:52 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -30,7 +48,7 @@
     },
     {
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.\n...",
+      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"....",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 14 Nov 2026 22:15:52 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -162,24 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Rooftop Solar – the people-centred solution for a rapid energy transition: new report",
-      "description": "At COP31 in Antalya, Solar Citizens has drawn together 8 civil society organisations across 8 countries to release Rooftop Solar Action Plans to drive...",
-      "link": "https://econews.com.au/rooftop-solar-the-people-centred-solution-for-a-rapid-energy-transition-new-report/",
-      "pubDate": "Sat, 14 Nov 2026 05:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Girls in Science Forum connects school students with leading researchers",
-      "description": "Students from Nagle College learn about corals and discover why they are so important to ocean life and humans. UNSW Sydney School students met leadin...",
-      "link": "https://econews.com.au/girls-in-science-forum-connects-school-students-with-leading-researchers/",
-      "pubDate": "Sat, 14 Nov 2026 05:02:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/01/UNSW-logo.png"
     }
   ]
 }
