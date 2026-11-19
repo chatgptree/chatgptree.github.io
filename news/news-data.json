@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-18T21:47:05.911Z",
+  "lastUpdated": "2026-11-19T03:07:30.632Z",
   "articles": [
+    {
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump....",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich....",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 23:42:07 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "Torrential rain causes widespread flooding in South Florida",
       "description": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports....",
@@ -63,15 +81,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/227dcc4be932d831c026650a4f387a0123b9c5be/581_0_2919_2335/master/2919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9745027689042fb357d933ed89a17036"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich....",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 13:55:14 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     },
     {
       "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
@@ -171,15 +180,6 @@
       "sourceName": "grist.org",
       "author": "",
       "image": "https://grist.org/wp-content/uploads/2026/11/A-Native-American-rock-art-panel_cropped.jpeg"
-    },
-    {
-      "title": "In Western Pennsylvania, You Might Live Next to—or on Top of—an Unplugged Well",
-      "description": "Abandoned: The aging oil and gas wells haunting Pennsylvania. This project is a collaboration between Inside Climate News and the Pittsburgh Post-Gaze...",
-      "link": "https://insideclimatenews.org/news/18112026/western-pennsylvania-residents-unplugged-oil-wells/",
-      "pubDate": "Wed, 18 Nov 2026 09:05:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
