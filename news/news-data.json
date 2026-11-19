@@ -1,8 +1,152 @@
 {
-  "lastUpdated": "2026-11-19T03:07:30.632Z",
+  "lastUpdated": "2026-11-19T12:47:10.285Z",
   "articles": [
     {
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "title": "‘It’s a biohazard’: Native communities in US south-west try to recover after flooding intensified by El Niño",
+      "description": "&lt;p&gt;Residents and local groups band together after severe flooding submerged a New Mexico town in toxic water&lt;/p&gt;&lt;p&gt;On the night of 2...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/el-nino-flooding-native-communities",
+      "pubDate": "Thu, 19 Nov 2026 12:30:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b4392c22c4dd5b2e7339a30981e02f1bc14a782f/129_0_1919_1536/master/1919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e62589a1ac85317f67b79a97504c47c"
+    },
+    {
+      "title": "Cop31 live: Fossil fuels dumped from latest draft deal at climate summit",
+      "description": "&lt;p&gt;The latest draft text has been published, as negotiations continue at the UN summit in Turkey&lt;/p&gt;&lt;p&gt;Ethiopia can show that taking...",
+      "link": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
+      "pubDate": "Thu, 19 Nov 2026 12:30:37 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/5b821ea188459383d40e830ade2c4694f3c75fab/537_0_5368_4294/master/5368.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59b0444e75292d073edf35e09df9e11e"
+    },
+    {
+      "title": "Race to replant five South African baobabs after export blocked",
+      "description": "&lt;p&gt;The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits&lt;/p&gt;&lt;p&gt;Environmentalists...",
+      "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "pubDate": "Thu, 19 Nov 2026 11:03:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/048c1619883c277fcef86d2ceda7a59071397137/0_191_1360_1088/master/1360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=beca2d51f3567cbad90b41ec6f97d5a4"
+    },
+    {
+      "title": "Trump Orders to Keep Florida Coal Plant Running Cost Ratepayers Millions",
+      "description": "A series of consecutive federal emergency orders that have kept a Florida coal plant running beyond its scheduled retirement have come at a cost to ra...",
+      "link": "https://insideclimatenews.org/news/19112026/florida-stanton-coal-plant-trump-emergency-orders/",
+      "pubDate": "Thu, 19 Nov 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Even the &#8216;good guys&#8217; of AI are locking in fossil fuels",
+      "description": "Anthropic claims to be developing AI safely. Why doesn’t its own climate impact make the cut?...",
+      "link": "https://grist.org/accountability/anthropic-alignment-ai-fossil-fuels-climate-change/",
+      "pubDate": "Thu, 19 Nov 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/Gas-plant-ohio.jpg?quality=75&#038;strip=all&#038;w=768"
+    },
+    {
+      "title": "As black lung disease surges, the Trump administration proposes ‘deregulatory’ protections for miners",
+      "description": "A Biden-era guideline on deadly silica dust has been revised by the Trump administration. Miners' advocates argue it’s a handout to coal companies....",
+      "link": "https://grist.org/health/as-black-lung-disease-surges-the-trump-administration-proposes-deregulatory-protections-for-miners/",
+      "pubDate": "Thu, 19 Nov 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/MSHA-silica-exposure-standard-mining-black-lung-Trump-Biden-rule.jpeg"
+    },
+    {
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods...",
+      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 09:21:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods...",
+      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 09:21:54 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+      "description": "&lt;p&gt;Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk&lt;/p&gt;&lt;p&gt;Climate...",
+      "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+      "pubDate": "Thu, 19 Nov 2026 07:16:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/9f57ba9d5e7f9ed5bfc10dd82f5dcdcde10b2020/497_0_3703_2962/master/3703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d584aa31cc111b9e9a02f2521a765572"
+    },
+    {
+      "title": "Developer accused of 'environmental vandalism'",
+      "description": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent....",
+      "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 06:09:25 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Deep dive report reveals a better way to protect nature forever across Australia",
+      "description": "Aerial view over Pilungah Special Wildlife Reserve on Wangkamahdla Country, declared a SWR in 2026 Photo Credit: Lachlan Gardiner With just four years...",
+      "link": "https://econews.com.au/deep-dive-report-reveals-a-better-way-to-protect-nature-forever-across-australia/",
+      "pubDate": "Thu, 19 Nov 2026 06:02:11 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/04/Bush-Heritage-Hewitt.png"
+    },
+    {
+      "title": "Ocean Photographer of the Year 2026 premieres at the Australian National Maritime Museum",
+      "description": "Photographer: Ben Yavar Ocean Photographer of the Year 2026 – Finalist Australian National Maritime Museum The Australian National Maritime Museum is ...",
+      "link": "https://econews.com.au/ocean-photographer-of-the-year-2026-premieres-at-the-australian-national-maritime-museum/",
+      "pubDate": "Thu, 19 Nov 2026 06:02:11 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/unnamed-34.jpg"
+    },
+    {
+      "title": "Science-rich Bass Strait project wins Victoria’s top history award",
+      "description": "Award presentation (Lucinda Horrocks, right, accepts award from Royal Historical Society Victoria President Robert Pascoe, left)  Courtesy of the Roya...",
+      "link": "https://econews.com.au/science-rich-bass-strait-project-wins-victorias-top-history-award/",
+      "pubDate": "Thu, 19 Nov 2026 06:02:10 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/Colin-and-Buck-1024x576.jpg"
+    },
+    {
+      "title": "PFAS is just the tip of the iceberg",
+      "description": "Lotsearch Key facts: ·       New Lotsearch research reveals more than 260,000 known and potentially contaminated sites across Australia. ·      Around...",
+      "link": "https://econews.com.au/pfas-is-just-the-tip-of-the-iceberg/",
+      "pubDate": "Thu, 19 Nov 2026 06:02:09 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "FERRERO GOES DOUBLE PLATINUM WITH SUSTAINABILITY ADVANTAGE",
+      "description": "Ferrero Australia becomes Sustainability Advantage’s second Platinum Partner, following Platinum Project recognition for its Lithgow factory Ferrero A...",
+      "link": "https://econews.com.au/ferrero-goes-double-platinum-with-sustainability-advantage/",
+      "pubDate": "Thu, 19 Nov 2026 06:02:08 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Car use in London forecast to rise by 10% in next decade",
+      "description": "&lt;p&gt;Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality&lt;/p&gt;&lt;p&gt;Car use in London will r...",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+      "pubDate": "Thu, 19 Nov 2026 06:00:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ef03e80f735de8cc845927010138bb3"
+    },
+    {
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump....",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT",
@@ -36,150 +180,6 @@
       "sourceName": "insideclimatenews.org",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "World ‘held hostage by oil mafia’, says Panama minister at Cop 31",
-      "description": "&lt;p&gt;Key issues unresolved as summit enters final days, with 30 countries signed up to forge fossil fuel treaty separate to UN process&lt;/p&gt;&l...",
-      "link": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
-      "pubDate": "Wed, 18 Nov 2026 17:07:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/d76762d2e74b075396fcf3dc300d912daf841590/180_0_6222_4978/master/6222.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2323709301ff1d9205b21599d369b85"
-    },
-    {
-      "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-      "description": "&lt;p&gt;Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says&lt;/p&gt;&lt;p&gt;The environ...",
-      "link": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-      "pubDate": "Wed, 18 Nov 2026 16:56:18 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0abe6318a3a8ec18bf059cb38498f37c"
-    },
-    {
-      "title": "Cop31 as it happened: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-      "description": "&lt;p&gt;Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate su...",
-      "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "pubDate": "Wed, 18 Nov 2026 15:34:06 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6aec30482d2c5d171594d537dbf1fcd2"
-    },
-    {
-      "title": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
-      "description": "&lt;p&gt;Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the ...",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
-      "pubDate": "Wed, 18 Nov 2026 14:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a30e8f3fe5f441093f0f3cdfd6d9b71e"
-    },
-    {
-      "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-      "description": "&lt;p&gt;Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies&...",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
-      "pubDate": "Wed, 18 Nov 2026 14:00:02 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/227dcc4be932d831c026650a4f387a0123b9c5be/581_0_2919_2335/master/2919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9745027689042fb357d933ed89a17036"
-    },
-    {
-      "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
-      "description": "&lt;p&gt;GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in&lt;/p&gt;&lt;p&gt;Climate groups fear lawma...",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
-      "pubDate": "Wed, 18 Nov 2026 13:00:04 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/fcfc6041e3ed36db7c3c31a6df310170c3d409e9/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=742afe42545b51132480d101d9174b37"
-    },
-    {
-      "title": "Stormont department failing to protect wild birds, investigation finds",
-      "description": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Area...",
-      "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 12:13:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Stormont department failing to protect wild birds, investigation finds",
-      "description": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Area...",
-      "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 12:13:32 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘When it roars, we roar back’: the man who faces Bengal tigers armed only with a stick",
-      "description": "&lt;p&gt;Abdul Goni Gazi fainted with fear during his first big cat encounter but now his mission is to help them coexist with people&lt;/p&gt;&lt;p&g...",
-      "link": "https://www.theguardian.com/environment/2026/nov/18/abdul-goni-gazi-tigers-bangladesh-sundarbans-aoe",
-      "pubDate": "Wed, 18 Nov 2026 12:00:59 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7fcb47ab833dde932033fd4106c1d1caf339bb6c/543_0_5428_4343/master/5428.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3231905137a942883e748286a9e31ed7"
-    },
-    {
-      "title": "William and Kate honour Earthshot Prize winners in Mumbai",
-      "description": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winner...",
-      "link": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 11:18:04 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
-      "description": "&lt;p&gt;Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear vi...",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-      "pubDate": "Wed, 18 Nov 2026 11:00:56 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/dc0fad56b1b1eaa91b8cd09ea4c2a7af3e4071b3/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a63735a142422cc4d915598f5e169a7c"
-    },
-    {
-      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-      "description": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire....",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 10:48:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-      "description": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire....",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 10:48:49 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "They migrated to New York for work. Now they’re fighting to climate-proof it.",
-      "description": "The worse the weather gets, the more delivery riders work. Can they teach the city how to adapt against climate-fueled disasters?...",
-      "link": "https://grist.org/food-and-agriculture/they-migrated-to-new-york-for-work-now-theyre-fighting-to-climate-proof-it/",
-      "pubDate": "Wed, 18 Nov 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/deliveristas-heat.jpg"
-    },
-    {
-      "title": "What Congress’ bill to speed up energy projects would mean for you",
-      "description": "The Senate’s permitting reform bill would make it easier to build renewables — but oil and gas infrastructure, too....",
-      "link": "https://grist.org/energy/what-congress-bill-to-speed-up-energy-projects-would-mean-for-you-permitting-reform-baaja/",
-      "pubDate": "Wed, 18 Nov 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/DSC-0441.jpg?quality=75&amp;strip=all&amp;w=1200"
-    },
-    {
-      "title": "In Utah, a ‘hydrocarbon highway’ could run right through this petroglyph-filled canyon",
-      "description": "The Trump administration revived a plan to blast a 5-mile road for trucks carrying crude from oil fields. A new lawsuit aims to block it.\n...",
-      "link": "https://grist.org/accountability/utah-blm-lawsuit-petroglyphs-canyon-oil/",
-      "pubDate": "Wed, 18 Nov 2026 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/A-Native-American-rock-art-panel_cropped.jpeg"
     }
   ]
 }
