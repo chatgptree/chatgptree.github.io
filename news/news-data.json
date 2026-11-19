@@ -1,6 +1,87 @@
 {
-  "lastUpdated": "2026-11-19T12:47:10.285Z",
+  "lastUpdated": "2026-11-19T21:19:56.892Z",
   "articles": [
+    {
+      "title": "BBC Inside Science",
+      "description": "SpaceX is on the verge of making space affordable....",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 21:00:00 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Oil firm fined for breaking environmental rules hundreds of times",
+      "description": "Ten charges involved oil, cyanide and other pollutants entering local waterways....",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 19:58:27 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California Refinery That Locked Out Workers Fined for Safety Violations",
+      "description": "When refinery operators went on strike to demand safer conditions at a renewable fuels facility northeast of San Francisco in April, they worried that...",
+      "link": "https://insideclimatenews.org/news/19112026/california-marathon-martinez-refinery-osha-violations/",
+      "pubDate": "Thu, 19 Nov 2026 18:36:28 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
+      "description": "&lt;p&gt;Draft agreement also fails to show how developing countries will receive financial help to deal with climate crisis&lt;/p&gt;&lt;ul&gt;&lt;li...",
+      "link": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+      "pubDate": "Thu, 19 Nov 2026 17:58:21 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/0dcf2f4e26be89799494e7fe6683b3cdce430515/1005_0_6600_5280/master/6600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd752f6da9465c083514133dcda63540"
+    },
+    {
+      "title": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+      "description": "&lt;p&gt;Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed&lt;/p&gt;&lt;p&gt;Plans by th...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "pubDate": "Thu, 19 Nov 2026 17:18:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=badb0991f687de78267f9b4ae0eb9338"
+    },
+    {
+      "title": "Rare rhino's first steps captured on video at zoo",
+      "description": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 16:28:41 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cop31 as it happened: Fossil fuels dumped from latest draft deal at climate summit",
+      "description": "&lt;p&gt;New draft decision omits cause of climate crisis in blow to vulnerable countries on penultimate day of UN climate talks&lt;/p&gt;&lt;p&gt;Eth...",
+      "link": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
+      "pubDate": "Thu, 19 Nov 2026 16:09:06 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f32ff3ac7030d28f29dad03044a12e72f16d7131/422_0_4223_3378/master/4223.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=272cce7970fc370864affd0783328051"
+    },
+    {
+      "title": "Trump takes 500 actions to weaken cancer protections, new report says",
+      "description": "&lt;p&gt;Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens&lt;/p&gt;&lt;p&gt;Amid a &lt...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+      "pubDate": "Thu, 19 Nov 2026 14:15:15 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/30401fbf6b0034cab6c634018b2eb2df288a777a/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5f04145aa196b2489d30b591ec2f0f7"
+    },
+    {
+      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+      "description": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back....",
+      "link": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 13:35:29 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
     {
       "title": "‘It’s a biohazard’: Native communities in US south-west try to recover after flooding intensified by El Niño",
       "description": "&lt;p&gt;Residents and local groups band together after severe flooding submerged a New Mexico town in toxic water&lt;/p&gt;&lt;p&gt;On the night of 2...",
@@ -9,15 +90,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b4392c22c4dd5b2e7339a30981e02f1bc14a782f/129_0_1919_1536/master/1919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e62589a1ac85317f67b79a97504c47c"
-    },
-    {
-      "title": "Cop31 live: Fossil fuels dumped from latest draft deal at climate summit",
-      "description": "&lt;p&gt;The latest draft text has been published, as negotiations continue at the UN summit in Turkey&lt;/p&gt;&lt;p&gt;Ethiopia can show that taking...",
-      "link": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
-      "pubDate": "Thu, 19 Nov 2026 12:30:37 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/5b821ea188459383d40e830ade2c4694f3c75fab/537_0_5368_4294/master/5368.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59b0444e75292d073edf35e09df9e11e"
     },
     {
       "title": "Race to replant five South African baobabs after export blocked",
@@ -57,7 +129,7 @@
     },
     {
       "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods...",
+      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods....",
       "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 19 Nov 2026 09:21:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -66,7 +138,7 @@
     },
     {
       "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods...",
+      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods....",
       "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 19 Nov 2026 09:21:54 GMT",
       "sourceName": "feeds.bbci.co.uk",
@@ -108,78 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/unnamed-34.jpg"
-    },
-    {
-      "title": "Science-rich Bass Strait project wins Victoria’s top history award",
-      "description": "Award presentation (Lucinda Horrocks, right, accepts award from Royal Historical Society Victoria President Robert Pascoe, left)  Courtesy of the Roya...",
-      "link": "https://econews.com.au/science-rich-bass-strait-project-wins-victorias-top-history-award/",
-      "pubDate": "Thu, 19 Nov 2026 06:02:10 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/Colin-and-Buck-1024x576.jpg"
-    },
-    {
-      "title": "PFAS is just the tip of the iceberg",
-      "description": "Lotsearch Key facts: ·       New Lotsearch research reveals more than 260,000 known and potentially contaminated sites across Australia. ·      Around...",
-      "link": "https://econews.com.au/pfas-is-just-the-tip-of-the-iceberg/",
-      "pubDate": "Thu, 19 Nov 2026 06:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "FERRERO GOES DOUBLE PLATINUM WITH SUSTAINABILITY ADVANTAGE",
-      "description": "Ferrero Australia becomes Sustainability Advantage’s second Platinum Partner, following Platinum Project recognition for its Lithgow factory Ferrero A...",
-      "link": "https://econews.com.au/ferrero-goes-double-platinum-with-sustainability-advantage/",
-      "pubDate": "Thu, 19 Nov 2026 06:02:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Car use in London forecast to rise by 10% in next decade",
-      "description": "&lt;p&gt;Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality&lt;/p&gt;&lt;p&gt;Car use in London will r...",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
-      "pubDate": "Thu, 19 Nov 2026 06:00:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ef03e80f735de8cc845927010138bb3"
-    },
-    {
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump....",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich....",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 23:42:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Torrential rain causes widespread flooding in South Florida",
-      "description": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports....",
-      "link": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:29:18 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Former Climate Diplomats Blame Three Nations for Research Funding Stalemate",
-      "description": "ANTALYA, Turkey—The science that guides negotiators and policymakers at the United Nations’ COP31 climate change conference is “under a serious and hi...",
-      "link": "https://insideclimatenews.org/news/18112026/cop31-russia-saudi-arabia-india-blocking-progress/",
-      "pubDate": "Wed, 18 Nov 2026 20:06:52 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
