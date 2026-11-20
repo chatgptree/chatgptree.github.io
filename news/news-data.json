@@ -1,14 +1,77 @@
 {
-  "lastUpdated": "2026-11-20T11:20:20.292Z",
+  "lastUpdated": "2026-11-20T19:56:52.494Z",
   "articles": [
     {
-      "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
-      "description": "&lt;p&gt;Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end&lt;/p&gt;&lt;p&gt;In a hu...",
+      "title": "Trump Administration Awards First-Ever Deep-Sea Mining Exploration Leases",
+      "description": "In a historic first, the Department of Interior has leased more than 31 million acres of Pacific waters to a deep-sea mining company seeking to exploi...",
+      "link": "https://insideclimatenews.org/news/20112026/trump-deep-sea-mining-federal-waters/",
+      "pubDate": "Fri, 20 Nov 2026 19:02:23 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cop31 talks go into overtime as fossil fuels vanish from draft deal",
+      "description": "&lt;p&gt;African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’&lt;/p&gt;&lt;p&gt;Crucial cli...",
+      "link": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+      "pubDate": "Fri, 20 Nov 2026 18:56:22 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=213d9f5c5115f07440db4915083c1965"
+    },
+    {
+      "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
+      "description": "&lt;p&gt;Environmental groups are aghast, but supporters say bill might be only chance to speed up clean energy projects&lt;/p&gt;&lt;p&gt;The US Sena...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
+      "pubDate": "Fri, 20 Nov 2026 18:26:08 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c96f1dbb295a5a260fd6f209bce3372a"
+    },
+    {
+      "title": "Factious climate talks enter overtime without new draft deal in sight – as it happened",
+      "description": "&lt;p&gt;Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end&lt;/p&gt;&lt;p&gt;Antalya 2026 is th...",
       "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "pubDate": "Fri, 20 Nov 2026 11:01:25 GMT",
+      "pubDate": "Fri, 20 Nov 2026 18:11:16 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66719ec4342409e6ee6942c37a1d3b46"
+    },
+    {
+      "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "description": "&lt;p&gt;Controlled detonation could lead to plume containing lead particles, worrying residents and state officials&lt;/p&gt;&lt;p&gt;The US army has...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "pubDate": "Fri, 20 Nov 2026 15:39:48 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=badb0991f687de78267f9b4ae0eb9338"
+    },
+    {
+      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+      "description": "&lt;p&gt;Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups&lt;/p&gt;&lt;p&gt;The Senate approved b...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+      "pubDate": "Fri, 20 Nov 2026 15:09:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/8b551cbed6458ddfa1ec5a6a77a5814704c49850/2595_1276_3405_2724/master/3405.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5f2f2319acd248a71ca7fc77e0487f9"
+    },
+    {
+      "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+      "description": "&lt;p&gt;Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second ...",
+      "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+      "pubDate": "Fri, 20 Nov 2026 14:00:31 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=213d773d708486121be83b4865004f1d"
+    },
+    {
+      "title": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
+      "description": "&lt;p&gt;The war between the US, Israel and Iran has turned the strait of Hormuz, one of the world’s busiest oil shipping routes, into a battlefield, ...",
+      "link": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+      "pubDate": "Fri, 20 Nov 2026 12:00:38 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/81858b5185d8ec0e2ff40f48104308d71b535c20/247_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=301c31490c72501cce67e5a6820f9928"
     },
     {
       "title": "What are heat pumps and how much do they cost?",
@@ -117,69 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change....",
-      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 05:03:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change....",
-      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 05:03:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘The Pacific is not for sale’: outcry after US holds first deep sea mining lease sale near American Samoa",
-      "description": "&lt;p&gt;Multi-million dollar sale comes despite a federal judge in Hawaii voiding the environmental clearance it had been given to proceed &lt;/p&gt;...",
-      "link": "https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa",
-      "pubDate": "Fri, 20 Nov 2026 03:14:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/52db2ad2ef1b34df495e559d0c7e7937ed3973ec/275_0_5840_4672/master/5840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb3f05b6064c43c19561581d194d92f1"
-    },
-    {
-      "title": "Kennards Hire Teams Up with Surfing Queensland",
-      "description": "After supporting the 2026 Gold Coast Open, Kennards Hire has now joined Surfing Queensland as a corporate partner, supplying equipment to help deliver...",
-      "link": "https://econews.com.au/kennards-hire-teams-up-with-surfing-queensland/",
-      "pubDate": "Fri, 20 Nov 2026 03:02:45 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-10.50.53-am-1024x574.png"
-    },
-    {
-      "title": "CORSIA EEU Volume on Xpansiv CBL and IATA ACE Surpasses 1.5 Million Tonnes",
-      "description": "Xpansiv, the leading infrastructure provider for the global energy transition markets, today announced that total trading volume in Carbon Offsetting ...",
-      "link": "https://econews.com.au/corsia-eeu-volume-on-xpansiv-cbl-and-iata-ace-surpasses-1-5-million-tonnes/",
-      "pubDate": "Fri, 20 Nov 2026 03:02:42 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Banks must move from managing climate risk to financing resilience, new COP31 paper argues",
-      "description": "The Global Alliance for Banking on Values calls on banks to rethink risk and ensure adaptation finance strengthens resilience in the real economy Clim...",
-      "link": "https://econews.com.au/banks-must-move-from-managing-climate-risk-to-financing-resilience-new-cop31-paper-argues/",
-      "pubDate": "Fri, 20 Nov 2026 03:02:41 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Round one… fight! Footage captures Bandicoots in a street fight",
-      "description": "It was a clash worthy of a Street Fighter duel. Two usually adorable bandicoots known as Quendas were filmed biting, kicking and even shoulder throwin...",
-      "link": "https://econews.com.au/round-one-fight-footage-captures-bandicoots-in-a-street-fight/",
-      "pubDate": "Fri, 20 Nov 2026 03:02:41 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/unnamed-35.jpg"
     }
   ]
 }
