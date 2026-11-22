@@ -1,14 +1,86 @@
 {
-  "lastUpdated": "2026-11-22T12:26:42.378Z",
+  "lastUpdated": "2026-11-22T20:16:15.599Z",
   "articles": [
     {
-      "title": "Cop31 live: EU rejects deal as longest climate summit ever faces collapse",
-      "description": "&lt;p&gt;Another version of the draft text has been published and negotiators have been called in for the final session&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&...",
+      "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen",
+      "description": "ANTALYA, Turkey—By the time the United Nations COP31 climate talks ended Sunday afternoon, the conference center resembled a going-out-of-business sal...",
+      "link": "https://insideclimatenews.org/news/22112026/uns-cop31-climate-conference-fizzles-out-as-global-policy-divides-deepen/",
+      "pubDate": "Sun, 22 Nov 2026 18:54:50 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What's next after no deal at COP31 climate summit?",
+      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal....",
+      "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:28:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "What's next after no deal at COP31 climate summit?",
+      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal....",
+      "link": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:28:48 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.  ...",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:17:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.  ...",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:17:59 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
+      "description": "&lt;p&gt;Countries failed to reach consensus on a key deal that did not mention fossil fuels&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https:/...",
       "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "pubDate": "Sun, 22 Nov 2026 12:12:25 GMT",
+      "pubDate": "Sun, 22 Nov 2026 16:45:37 GMT",
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f40564353f97b8d5b869e40e1aa134c2"
+    },
+    {
+      "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
+      "description": "&lt;p&gt;The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on...",
+      "link": "https://www.theguardian.com/environment/video/2026/nov/22/eu-officials-reject-cop31-deal-as-it-doesnt-speak-to-reality-of-the-climate-crisis-video",
+      "pubDate": "Sun, 22 Nov 2026 16:08:20 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/889097b33a9db4d990e02f63f627671657fe64ce/265_0_3447_2758/master/3447.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c70cf1e5b764b8fac9d51c931c83a60"
+    },
+    {
+      "title": "How wildfire litigation became big business in America",
+      "description": "Wildfire litigation against utilities has become a fallback strategy to deal with rising losses in a warmer world. But as payouts reach into the billi...",
+      "link": "https://grist.org/wildfires/how-wildfire-litigation-became-big-business-in-america/",
+      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/AspenAcresFire.jpg"
+    },
+    {
+      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+      "description": "&lt;p&gt;UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues&lt;/p&gt;&lt;p&gt;A British ...",
+      "link": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+      "pubDate": "Sun, 22 Nov 2026 13:36:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/7d1fe0b76a02fb1cbed49470fb53746f00e897fd/418_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf9d1acd9bb23aed3711f83a38bd6ff4"
     },
     {
       "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
@@ -108,78 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2087227022bef0757bd77a5df7951008"
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement....",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 22:19:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement....",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 22:19:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Hormuz swim highlights environmental cost of war",
-      "description": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage....",
-      "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 16:12:31 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New net-zero community will become Michigan’s first virtual power plant",
-      "description": "The development in Ann Arbor will share its solar and battery power with the grid, as part of a pilot that aims to lower energy costs and provide reli...",
-      "link": "https://grist.org/cities/new-net-zero-community-will-become-michigans-first-virtual-power-plant/",
-      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/midterms-gnd.jpg?quality=75&#038;strip=all&#038;w=768"
-    },
-    {
-      "title": "How red squirrels made island their home",
-      "description": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\"....",
-      "link": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 12:18:55 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
-      "description": "&lt;p&gt;A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotas&lt;/p&gt;&lt;p&gt;Somewh...",
-      "link": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
-      "pubDate": "Sat, 21 Nov 2026 11:00:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/9fdb0a2c2757969e8c0d78e2fdaf3c659856ca2b/386_148_4136_3308/master/4136.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4efc1ca54ee71c7421e52c493dba1b2"
-    },
-    {
-      "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
-      "description": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp. a new permit wi...",
-      "link": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
-      "pubDate": "Sat, 21 Nov 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What Democrats Can Learn About Environmental Voters From the Midterms",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with Nathaniel St...",
-      "link": "https://insideclimatenews.org/news/21112026/midterms-environmental-voters/",
-      "pubDate": "Sat, 21 Nov 2026 09:55:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
