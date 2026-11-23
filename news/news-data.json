@@ -1,23 +1,140 @@
 {
-  "lastUpdated": "2026-11-23T01:30:26.187Z",
+  "lastUpdated": "2026-11-23T10:37:09.236Z",
   "articles": [
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels...",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 00:50:35 GMT",
+      "title": "Climate Hope",
+      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News. Climate change and the environmental stress it can generate have made plen...",
+      "link": "https://insideclimatenews.org/news/23112026/inside-climate-podcast-glimmers-of-hope/",
+      "pubDate": "Mon, 23 Nov 2026 10:30:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Natural England could be abolished as part of quango cull, says Louise Haigh",
+      "description": "&lt;p&gt;First secretary of state says proliferation of arm’s length government bodies is hampering decision-making&lt;/p&gt;&lt;p&gt;The nature watch...",
+      "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+      "pubDate": "Mon, 23 Nov 2026 10:16:09 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a40a542fc4fecab084e3c1fd15755b6"
+    },
+    {
+      "title": "A Midwest Manufacturer Ditched a Potent Greenhouse Gas. Will Others Follow?",
+      "description": "ANDERSON, Ind.—Inside a cavernous former General Motors plant, furnaces melt scrap metal into high-purity metal ingots at one of the world’s largest m...",
+      "link": "https://insideclimatenews.org/news/23112026/indiana-magnesium-recycler-stopped-releasing-super-pollutant/",
+      "pubDate": "Mon, 23 Nov 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The world doesn’t need solar or wind — it needs solar and wind",
+      "description": "Combining the renewable power sources can make up for each other’s shortcomings and cut costs....",
+      "link": "https://grist.org/energy/the-world-doesnt-need-solar-or-wind-it-needs-solar-and-wind/",
+      "pubDate": "Mon, 23 Nov 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/13-map-potential1a.jpg"
+    },
+    {
+      "title": "El Niño is already scrambling your ski season",
+      "description": "Eastern resorts are delaying openings while California mountains are buried in snow — a preview of the uneven winter ahead....",
+      "link": "https://grist.org/climate/el-nino-is-already-scrambling-your-ski-season/",
+      "pubDate": "Mon, 23 Nov 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Five takeaways from the failed climate talks COP31",
+      "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 23 Nov 2026 06:33:50 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
     },
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels...",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 00:50:35 GMT",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history. ...",
+      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 23 Nov 2026 06:33:50 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".\n ...",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 23 Nov 2026 05:15:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".\n ...",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 23 Nov 2026 05:15:06 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "No more chills as Prince Alfred Park Pool electrifies",
+      "description": "Credit: Chris Southwood/City of Sydney City of Sydney The City of Sydney has switched the heating system at another of its world-class pools from gas ...",
+      "link": "https://econews.com.au/no-more-chills-as-prince-alfred-park-pool-electrifies/",
+      "pubDate": "Mon, 23 Nov 2026 05:02:05 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Ancient jaw reveals a modern-day mystery",
+      "description": "Researcher, Luca Morris-Obst (foreground) working at the Drimolen site. Photo Credit: Professor Andy Herries, La Trobe University La Trobe University ...",
+      "link": "https://econews.com.au/ancient-jaw-reveals-a-modern-day-mystery/",
+      "pubDate": "Mon, 23 Nov 2026 05:02:04 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/La-Trobe-logo.png"
+    },
+    {
+      "title": "World leaders fail climate action, leaving vulnerable communities to shoulder the burden of the climate crisis alone",
+      "description": "Governments at the UN climate summit COP31 failed to reach an agreement, exposing a stark lack of political leadership as the climate crisis intensifi...",
+      "link": "https://econews.com.au/world-leaders-fail-climate-action-leaving-vulnerable-communities-to-shoulder-the-burden-of-the-climate-crisis-alone/",
+      "pubDate": "Mon, 23 Nov 2026 04:02:07 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "Tiwi forestry project delivers training, jobs, and growth",
+      "description": "A First Nations-led plantation forestry project that has sown more than two million seedlings in its first year is delivering training opportunities, ...",
+      "link": "https://econews.com.au/tiwi-forestry-project-delivers-training-jobs-and-growth/",
+      "pubDate": "Mon, 23 Nov 2026 04:02:06 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
+    },
+    {
+      "title": "WWF Report: Why flawed state logging rules will be a crucial, early test of Australia’s nature law reforms",
+      "description": "Logging in Tallaganda State Forest caused large areas of habitat to be fragmented and degraded © WWF-Australia/Andrew Kaineder WWF-Australia A new WWF...",
+      "link": "https://econews.com.au/wwf-report-why-flawed-state-logging-rules-will-be-a-crucial-early-test-of-australias-nature-law-reforms/",
+      "pubDate": "Mon, 23 Nov 2026 04:02:05 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/unnamed-37.jpg"
+    },
+    {
+      "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+      "description": "&lt;p&gt;Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’&l...",
+      "link": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+      "pubDate": "Mon, 23 Nov 2026 04:00:45 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/3f84cee4d3a31ab236a50a7d425bc2b6fc6b6fe8/237_0_2475_1980/master/2475.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15ee79edb6ff3b24a97dee24629b0580"
     },
     {
       "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
@@ -63,123 +180,6 @@
       "sourceName": "theguardian.com",
       "author": "",
       "image": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f40564353f97b8d5b869e40e1aa134c2"
-    },
-    {
-      "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
-      "description": "&lt;p&gt;The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on...",
-      "link": "https://www.theguardian.com/environment/video/2026/nov/22/eu-officials-reject-cop31-deal-as-it-doesnt-speak-to-reality-of-the-climate-crisis-video",
-      "pubDate": "Sun, 22 Nov 2026 16:08:20 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/889097b33a9db4d990e02f63f627671657fe64ce/265_0_3447_2758/master/3447.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c70cf1e5b764b8fac9d51c931c83a60"
-    },
-    {
-      "title": "How wildfire litigation became big business in America",
-      "description": "Wildfire litigation against utilities has become a fallback strategy to deal with rising losses in a warmer world. But as payouts reach into the billi...",
-      "link": "https://grist.org/wildfires/how-wildfire-litigation-became-big-business-in-america/",
-      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/AspenAcresFire.jpg"
-    },
-    {
-      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-      "description": "&lt;p&gt;UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues&lt;/p&gt;&lt;p&gt;A British ...",
-      "link": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
-      "pubDate": "Sun, 22 Nov 2026 13:36:01 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/7d1fe0b76a02fb1cbed49470fb53746f00e897fd/418_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf9d1acd9bb23aed3711f83a38bd6ff4"
-    },
-    {
-      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.\n...",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 10:44:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.\n...",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 10:44:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.\n...",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 10:44:12 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "The Defenders of Mexico’s Scorpion Reef",
-      "description": "ABOARD THE MV SHARKWATER—At 5 a.m. on a Sunday in September, crew members aboard the MV Sharkwater, a ship operated by the Sea Shepherd Conservation S...",
-      "link": "https://insideclimatenews.org/news/22112026/protecting-mexicos-scorpion-reef-from-climate-change-illegal-fishing/",
-      "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/20260923_PATROL-14-1024x683.jpg"
-    },
-    {
-      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-      "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement....",
-      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 06:54:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-      "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement....",
-      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 06:54:06 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Record-breaking sightings of rare moth in Essex",
-      "description": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says....",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 06:38:26 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
-      "description": "&lt;p&gt;State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has ...",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
-      "pubDate": "Sun, 22 Nov 2026 01:00:13 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22179d96566a2b070ce58d80039fc533"
-    },
-    {
-      "title": "Will COP31 end with a new global climate deal?",
-      "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey. ...",
-      "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 22:44:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Will COP31 end with a new global climate deal?",
-      "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey. ...",
-      "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 22:44:52 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
