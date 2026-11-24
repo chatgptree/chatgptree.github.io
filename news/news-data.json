@@ -1,14 +1,140 @@
 {
-  "lastUpdated": "2026-11-24T06:53:43.010Z",
+  "lastUpdated": "2026-11-24T18:47:52.021Z",
   "articles": [
     {
-      "title": "Delia Smith joins opponents of £1.2bn data centre",
-      "description": "The TV cook and author is worried about the proposed Keswick facility's environmental impact....",
-      "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 06:36:26 GMT",
+      "title": "Britain’s ‘Rigged’ Fishing Industry Is Fueling Overfishing",
+      "description": "Along England’s southern coast lies a fishing community whose existence can be traced back almost a millennium. From its shingled shore, Hastings once...",
+      "link": "https://insideclimatenews.org/news/24112026/uk-fishing-industry-fuels-overfishing/",
+      "pubDate": "Tue, 24 Nov 2026 17:03:01 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Badger cull ruled out by Welsh government after speculation",
+      "description": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis....",
+      "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 16:47:05 GMT",
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Record 5,200 heat-linked deaths estimated in England this year",
+      "description": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year....",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 16:22:16 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
+      "description": "&lt;p&gt;Chancellor’s decision to exempt plots up to 1.5 hectares allows developers to dodge rules aiming to reverse wildlife declines&lt;/p&gt;&lt;p&...",
+      "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
+      "pubDate": "Tue, 24 Nov 2026 14:00:47 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/70db042246f7182422a7e0e0e3daa3c5a80b3d3d/306_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a09200e9675e6fbf9f036371b37b649"
+    },
+    {
+      "title": "The Climate Generation at COP31",
+      "description": "The youth of this era, both Gen Z and Gen Alpha, are often described as the “climate generation,” in part because climate change is already shaping ho...",
+      "link": "https://insideclimatenews.org/news/24112026/the-climate-generation-at-cop31/",
+      "pubDate": "Tue, 24 Nov 2026 13:30:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
+      "description": "&lt;p&gt;Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago &lt;/p&gt;&lt;p&gt;More than 5,200 dea...",
+      "link": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
+      "pubDate": "Tue, 24 Nov 2026 12:39:50 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/54e33c27c1b231b7460aab7b0889f51506eac005/204_0_4710_3769/master/4710.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aeaf4b7a1df2d92dc36b01265161b54c"
+    },
+    {
+      "title": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
+      "description": "&lt;p&gt;The trees have been functionally extinct in the US for nearly a century. But new techniques are creating plants resistant to the parasitic bl...",
+      "link": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe",
+      "pubDate": "Tue, 24 Nov 2026 12:00:44 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/19d572de0deb744dca26d27c2a0faab8192ac8b0/0_0_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d154293a76e85802c6ce6e9f0c0a6a5"
+    },
+    {
+      "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+      "description": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends....",
+      "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 11:40:46 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Delia Smith joins opponents of £1.2bn data centre",
+      "description": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility....",
+      "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 11:04:36 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "As Wildfires Stress Montana’s Insurance Market, the State is Getting Harder to Call Home",
+      "description": "Montana’s snow-capped mountains, vast forests and open valleys have long attracted people seeking a life close to nature. But that lifestyle is becomi...",
+      "link": "https://insideclimatenews.org/news/24112026/montana-wildfire-insurance-costs/",
+      "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "A walkable city of tomorrow is growing in suburban Utah",
+      "description": "The developers behind Utah City created a downtown designed for pedestrians instead of cars. Now there’s a backlash...",
+      "link": "https://grist.org/cities/utah-city-walkable-growing-vineyard/",
+      "pubDate": "Tue, 24 Nov 2026 09:45:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/10/utah-city-featured.jpg"
+    },
+    {
+      "title": "Voters are fed up with for-profit utilities, but they keep rejecting ‘public power’",
+      "description": "Communities in Michigan and Washington voted this month on whether to take over their local grids. Both ballot measures failed....",
+      "link": "https://grist.org/elections/public-power-ballot-kitsap-county-washington-ann-arbor-michigan/",
+      "pubDate": "Tue, 24 Nov 2026 09:30:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/KPUD.jpg"
+    },
+    {
+      "title": "Nepal hoped for flood aid at COP31. It got nothing.",
+      "description": "U.N. talks are supposed to deliver climate reparations for developing countries, but this year that was “dead in the water.”...",
+      "link": "https://grist.org/cop31/nepal-glacier-flood-cop31-climate-finance/",
+      "pubDate": "Tue, 24 Nov 2026 09:15:00 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "https://grist.org/wp-content/uploads/2026/11/Manjeet-Dhakal.jpg"
+    },
+    {
+      "title": "'Urgent action' needed to protect lake",
+      "description": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere....",
+      "link": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 09:10:43 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+      "description": "&lt;p&gt;Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned&lt;/p&gt;&lt;ul&g...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+      "pubDate": "Tue, 24 Nov 2026 07:42:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c0b36383d375b7eaee48869bbc47198"
     },
     {
       "title": "Goats drafted in to tame Greenwich Park slope",
@@ -54,132 +180,6 @@
       "sourceName": "econews.com.au",
       "author": "",
       "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/unnamed-27.png"
-    },
-    {
-      "title": "Midea Expands into Residential Energy Storage in Australia",
-      "description": "Energy Links All – Midea’s award-winning home energy storage solutions provide accessible options for Australian homeowners Midea, one of the world’s ...",
-      "link": "https://econews.com.au/midea-expands-into-residential-energy-storage-in-australia/",
-      "pubDate": "Tue, 24 Nov 2026 02:02:07 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Jumbo reveal for Werribee Zoo elephant calves",
-      "description": "Jumbo reveal for Werribee Zoo elephant calves La Trobe University For the first time, researchers at La Trobe University’s wildlife endocrinology lab ...",
-      "link": "https://econews.com.au/jumbo-reveal-for-werribee-zoo-elephant-calves/",
-      "pubDate": "Tue, 24 Nov 2026 02:02:06 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/La-Trobe-logo.png"
-    },
-    {
-      "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
-      "description": "&lt;p&gt;Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliances&lt;/p&gt;&lt;p&gt;We are “misplacing ou...",
-      "link": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
-      "pubDate": "Tue, 24 Nov 2026 00:01:00 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/a233b56422ea340a45cd4a18cb15567bce41dfd2/0_378_1344_1075/master/1344.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=035e234b732d909f580cf280d5859509"
-    },
-    {
-      "title": "An Alabama Pipeline Exploded. Its Owner Is Fighting To Expand It.",
-      "description": "On Saturday night, the midnight skies over west Alabama lit up as a massive fireball leaped hundreds of feet in the air, visible from more than 50 mil...",
-      "link": "https://insideclimatenews.org/news/23112026/alabama-pipeline-explosion/",
-      "pubDate": "Mon, 23 Nov 2026 23:11:10 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "How COP31 became climate diplomacy’s ‘darkest moment’",
-      "description": "The United Nations summit collapsed amid a fight over fossil fuels, triggering a fierce debate about the future of international climate talks....",
-      "link": "https://grist.org/cop31/how-cop31-became-climate-diplomacys-darkest-moment/",
-      "pubDate": "Mon, 23 Nov 2026 21:14:22 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/COP31-fossil-fuels-finance-failure-collapse-cover-protest-climate-change.jpeg"
-    },
-    {
-      "title": "Court Decision Clears Way for Army to Detonate Lead Explosives in Iowa",
-      "description": "The U.S. Army intends to detonate nearly five tons of lead-based explosives in southeast Iowa on Wednesday. The Army had planned to use an emergency p...",
-      "link": "https://insideclimatenews.org/news/23112026/iowa-army-lead-explosives-detonation/",
-      "pubDate": "Mon, 23 Nov 2026 20:56:48 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Ben Jennings on the failure of Cop31 – cartoon",
-      "description": "&lt;a href=\"https://www.theguardian.com/commentisfree/picture/2026/nov/23/ben-jennings-failure-cop31-cartoon\"&gt;Continue reading...&lt;/a&gt;...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/23/ben-jennings-failure-cop31-cartoon",
-      "pubDate": "Mon, 23 Nov 2026 18:32:07 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6fc69e6ede249b7b1454993b4f5c225897db903c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77d102f3f2d8748d93496e8abc8a0958"
-    },
-    {
-      "title": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial",
-      "description": "&lt;p&gt;Petrostates blocked ambition while wealthy nations withheld cash support. The climate crisis demands the next UN summit turns promises into a...",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-cop31-a-just-transition-needs-more-than-fine-words",
-      "pubDate": "Mon, 23 Nov 2026 18:29:05 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/6818b2ea94ad11c2cbdf56bf8f969ad34332900e/752_0_5242_4195/master/5242.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e70491c6f1f49616f3dc772b83eeef60"
-    },
-    {
-      "title": "‘Scapegoating’: green groups condemn plan to axe Environment Agency and Natural England",
-      "description": "&lt;p&gt;Ministers proposing to abolish the quangos in attempt to give politicians more control over what gets built and where &lt;/p&gt;&lt;p&gt;Scie...",
-      "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-      "pubDate": "Mon, 23 Nov 2026 17:47:58 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a40a542fc4fecab084e3c1fd15755b6"
-    },
-    {
-      "title": "What failure of COP31 reveals about a divided world",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks....",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:24:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What failure of COP31 reveals about a divided world",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks....",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:24:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "What failure of COP31 reveals about a divided world",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks....",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:24:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions....",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:07:25 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Village's concern over sewage discharge in dry river",
-      "description": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought...",
-      "link": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 15:48:07 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
     }
   ]
 }
