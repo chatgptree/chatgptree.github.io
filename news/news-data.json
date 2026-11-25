@@ -1,6 +1,105 @@
 {
-  "lastUpdated": "2026-11-24T18:47:52.021Z",
+  "lastUpdated": "2026-11-25T02:59:13.721Z",
   "articles": [
+    {
+      "title": "Will there be a White Christmas this year?",
+      "description": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?...",
+      "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:03:24 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The rising cost of putting food on the table in India",
+      "description": "India's food inflation is broadening, squeezing household budgets....",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:02:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "The rising cost of putting food on the table in India",
+      "description": "India's food inflation is broadening, squeezing household budgets....",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:02:13 GMT",
+      "sourceName": "feeds.bbci.co.uk",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "San Francisco Bay Area Braces for Record Coastal Flooding",
+      "description": "The first thing renowned climatologist Daniel Swain did during his virtual office hours on Monday was set the record straight about California’s upcom...",
+      "link": "https://insideclimatenews.org/news/24112026/san-francisco-bay-area-coastal-flooding/",
+      "pubDate": "Wed, 25 Nov 2026 00:07:57 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
+      "description": "&lt;p&gt;Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support&lt;/p&gt;&lt;p&gt;Laser-equipped drone s...",
+      "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
+      "pubDate": "Wed, 25 Nov 2026 00:01:01 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/ce04a5cb09e22f892bbbb0638df2ea14eea476ff/0_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d61b85839f1778efeeb8d0e40380630"
+    },
+    {
+      "title": "What to know about the Army’s plan to detonate 5 tons of lead in Iowa",
+      "description": "The controlled explosion will eliminate the threat of an accidental explosion, but could send lead-laden dust for miles across Iowa farmland....",
+      "link": "https://grist.org/grist-news/what-to-know-about-the-armys-plan-to-detonate-5-tons-of-lead-in-iowa/",
+      "pubDate": "Tue, 24 Nov 2026 23:40:14 +0000",
+      "sourceName": "grist.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
+      "description": "&lt;p&gt;Monthly tide records were set across the city, with some expected to hit even higher tomorrow&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a hre...",
+      "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+      "pubDate": "Tue, 24 Nov 2026 23:20:24 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/80d6a5ade95e2a8670b872bdca5972b45f0d2f71/335_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e13751c3be8101548ec8af74600c3dd"
+    },
+    {
+      "title": "Iowa Lead Blast Will Have Lasting Health Impacts",
+      "description": "The U.S. Army’s planned detonation of nearly 5 tons of unstable lead azide explosives in southeast Iowa on Wednesday morning will have long-lasting im...",
+      "link": "https://insideclimatenews.org/news/24112026/iowa-lead-blast-health-impacts/",
+      "pubDate": "Tue, 24 Nov 2026 23:05:20 +0000",
+      "sourceName": "insideclimatenews.org",
+      "author": "",
+      "image": "../images/header2.jpg"
+    },
+    {
+      "title": "Atlantic Tuna Commission Takes Inadequate Wait-and-See Approach to Shark Conservation",
+      "description": "Fishing nations complicate finning ban and tread water for makos while moving toward improved compliance After eight full days of negotiation, fishing...",
+      "link": "https://econews.com.au/atlantic-tuna-commission-takes-inadequate-wait-and-see-approach-to-shark-conservation/",
+      "pubDate": "Tue, 24 Nov 2026 23:02:09 +0000",
+      "sourceName": "econews.com.au",
+      "author": "",
+      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/unnamed-43-1024x787.jpg"
+    },
+    {
+      "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+      "description": "&lt;p&gt;Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm&lt;/p&gt;&lt;p&gt;A gr...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+      "pubDate": "Tue, 24 Nov 2026 22:09:57 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/725b11778789cc1aefe2d9ba334c2392099bb1ea/687_0_6882_5504/master/6882.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c0e522eaedec77080dfbb6a18aaf155"
+    },
+    {
+      "title": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
+      "description": "&lt;p&gt;Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry&lt;/p&gt;&lt;p&gt;Residents of Iowa, I...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+      "pubDate": "Tue, 24 Nov 2026 21:49:07 GMT",
+      "sourceName": "theguardian.com",
+      "author": "",
+      "image": "https://i.guim.co.uk/img/media/acfcff739fa280e8a12f19f15024fe02a932b14f/1561_1315_2523_2019/master/2523.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc87b5cbba0f5d871bc36bfc49dc44db"
+    },
     {
       "title": "Britain’s ‘Rigged’ Fishing Industry Is Fueling Overfishing",
       "description": "Along England’s southern coast lies a fishing community whose existence can be traced back almost a millennium. From its shingled shore, Hastings once...",
@@ -81,105 +180,6 @@
       "sourceName": "feeds.bbci.co.uk",
       "author": "",
       "image": "../images/header2.jpg"
-    },
-    {
-      "title": "As Wildfires Stress Montana’s Insurance Market, the State is Getting Harder to Call Home",
-      "description": "Montana’s snow-capped mountains, vast forests and open valleys have long attracted people seeking a life close to nature. But that lifestyle is becomi...",
-      "link": "https://insideclimatenews.org/news/24112026/montana-wildfire-insurance-costs/",
-      "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
-      "sourceName": "insideclimatenews.org",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A walkable city of tomorrow is growing in suburban Utah",
-      "description": "The developers behind Utah City created a downtown designed for pedestrians instead of cars. Now there’s a backlash...",
-      "link": "https://grist.org/cities/utah-city-walkable-growing-vineyard/",
-      "pubDate": "Tue, 24 Nov 2026 09:45:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/10/utah-city-featured.jpg"
-    },
-    {
-      "title": "Voters are fed up with for-profit utilities, but they keep rejecting ‘public power’",
-      "description": "Communities in Michigan and Washington voted this month on whether to take over their local grids. Both ballot measures failed....",
-      "link": "https://grist.org/elections/public-power-ballot-kitsap-county-washington-ann-arbor-michigan/",
-      "pubDate": "Tue, 24 Nov 2026 09:30:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/KPUD.jpg"
-    },
-    {
-      "title": "Nepal hoped for flood aid at COP31. It got nothing.",
-      "description": "U.N. talks are supposed to deliver climate reparations for developing countries, but this year that was “dead in the water.”...",
-      "link": "https://grist.org/cop31/nepal-glacier-flood-cop31-climate-finance/",
-      "pubDate": "Tue, 24 Nov 2026 09:15:00 +0000",
-      "sourceName": "grist.org",
-      "author": "",
-      "image": "https://grist.org/wp-content/uploads/2026/11/Manjeet-Dhakal.jpg"
-    },
-    {
-      "title": "'Urgent action' needed to protect lake",
-      "description": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere....",
-      "link": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 09:10:43 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
-      "description": "&lt;p&gt;Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned&lt;/p&gt;&lt;ul&g...",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
-      "pubDate": "Tue, 24 Nov 2026 07:42:57 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c0b36383d375b7eaee48869bbc47198"
-    },
-    {
-      "title": "Goats drafted in to tame Greenwich Park slope",
-      "description": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory....",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 06:16:51 GMT",
-      "sourceName": "feeds.bbci.co.uk",
-      "author": "",
-      "image": "../images/header2.jpg"
-    },
-    {
-      "title": "A year of deadly floods and fires – and yet Cop31 still collapsed. When will our leaders grasp the scale of this crisis? | Bill McGuire",
-      "description": "&lt;p&gt;Fossil fuel producers are choking off progress while we reap the whirlwind of our inaction. This is what sleepwalking to disaster looks like&...",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
-      "pubDate": "Tue, 24 Nov 2026 06:00:08 GMT",
-      "sourceName": "theguardian.com",
-      "author": "",
-      "image": "https://i.guim.co.uk/img/media/904f33806851828efac1427076be27ed5ae9a1dd/580_0_4706_3765/master/4706.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=afe2823ab1e148a94b622c0409ef2741"
-    },
-    {
-      "title": "Roads store microplastics before they join rain run-off to waterways",
-      "description": "Mihiri Indunil Gunasekara, a QUT PhD candidate is developing a modelling framework to quantify microplastic inputs from urban surfaces to ecologically...",
-      "link": "https://econews.com.au/roads-store-microplastics-before-they-join-rain-run-off-to-waterways/",
-      "pubDate": "Tue, 24 Nov 2026 04:02:03 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2025/03/QUT-logo.png"
-    },
-    {
-      "title": "NRMA Insurance awards Australia’s next climate resilience innovators",
-      "description": "NRMA Insurance has awarded its 2026 Climate-Smart Innovation Grants to eight diverse local innovators. As part of its Help Fund initiative, $500,000 h...",
-      "link": "https://econews.com.au/nrma-insurance-awards-australias-next-climate-resilience-innovators/",
-      "pubDate": "Tue, 24 Nov 2026 02:02:09 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2024/11/Ecovoie-logo-image-1-1024x571.png"
-    },
-    {
-      "title": "Solargain Mornington Peninsula Recognised Among Australia’s Top Solar Installers 2026",
-      "description": "Solargain Mornington Peninsula awarded globally recognised EUPD Research 2026 Badge at the All Energy Conference 2026 (28-29 October at MCEC, Melbourn...",
-      "link": "https://econews.com.au/solargain-mornington-peninsula-recognised-among-australias-top-solar-installers-2026/",
-      "pubDate": "Tue, 24 Nov 2026 02:02:08 +0000",
-      "sourceName": "econews.com.au",
-      "author": "",
-      "image": "https://www.ecovoice.com.au/wp-content/uploads/2026/11/unnamed-27.png"
     }
   ]
 }
